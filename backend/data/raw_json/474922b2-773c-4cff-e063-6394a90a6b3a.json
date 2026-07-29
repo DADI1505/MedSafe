@@ -1,0 +1,100 @@
+{
+  "spl_product_data_elements": [
+    "Foster and Thrive Advanced Relief Eye Drops Polyethylene glycol 400, Tetrahydrozoline HCl TETRAHYDROZOLINE HYDROCHLORIDE TETRAHYDROZOLINE BENZALKONIUM CHLORIDE BORIC ACID EDETATE DISODIUM POVIDONE WATER SODIUM CHLORIDE POLYETHYLENE GLYCOL 400 POLYETHYLENE GLYCOL 400 DEXTRAN 70 SODIUM BORATE"
+  ],
+  "active_ingredient": [
+    "Active ingredients Polyethylene glycol 400 1% Tetrahydrozoline HCl 0.05%"
+  ],
+  "purpose": [
+    "Purposes Lubricant Redness reliever"
+  ],
+  "indications_and_usage": [
+    "Uses relieves redness of the eye due to minor eye irritations as a lubricant to prevent further irritation or to relieve dryness of the eye"
+  ],
+  "warnings": [
+    "Warnings For external use only Ask a doctor before use if you have narrow angle glaucoma When using this product pupils may become enlarged temporarily to avoid contamination, do not touch tip of container to any surface. Replace cap after using. if solution changes color or becomes cloudy, do not use overuse may produce increased redness of the eye remove contact lenses before using Stop use and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have narrow angle glaucoma"
+  ],
+  "when_using": [
+    "When using this product pupils may become enlarged temporarily to avoid contamination, do not touch tip of container to any surface. Replace cap after using. if solution changes color or becomes cloudy, do not use overuse may produce increased redness of the eye remove contact lenses before using"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions instill 1 to 2 drops in the affected eye(s) up to 4 times daily"
+  ],
+  "other_safety_information": [
+    "Other information store at 15°-30°C (59°-86°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients benzalkonium chloride, boric acid, dextran, edetate disodium, povidone, purified water, sodium borate, sodium chloride"
+  ],
+  "questions": [
+    "Questions or comments? Call 833-358-6431 Monday to Friday 9:00am to 7:00pm EST"
+  ],
+  "package_label_principal_display_panel": [
+    "Foster & Thrive Advanced Relief Eye Drop 15mL Foster & Thrive Advanced Relief Eye Drop 15mL"
+  ],
+  "set_id": "0019cd99-b245-2ffc-e063-6294a90a9f27",
+  "id": "474922b2-773c-4cff-e063-6394a90a6b3a",
+  "effective_time": "20251230",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M018"
+    ],
+    "brand_name": [
+      "Foster and Thrive Advanced Relief Eye Drops"
+    ],
+    "generic_name": [
+      "POLYETHYLENE GLYCOL 400, TETRAHYDROZOLINE HCL"
+    ],
+    "manufacturer_name": [
+      "Strategic Sourcing Services LLC"
+    ],
+    "product_ndc": [
+      "70677-1158"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "TETRAHYDROZOLINE HYDROCHLORIDE",
+      "POLYETHYLENE GLYCOL 400"
+    ],
+    "rxcui": [
+      "996209"
+    ],
+    "spl_id": [
+      "474922b2-773c-4cff-e063-6394a90a6b3a"
+    ],
+    "spl_set_id": [
+      "0019cd99-b245-2ffc-e063-6294a90a9f27"
+    ],
+    "package_ndc": [
+      "70677-1158-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0010939958273"
+    ],
+    "unii": [
+      "0YZT43HS7D",
+      "B697894SGQ"
+    ]
+  }
+}

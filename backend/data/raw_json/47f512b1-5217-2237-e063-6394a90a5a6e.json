@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Prime Tooth Care Hami Melon SODIUM FLUORIDE WATER HYDRATED SILICA GLYCERIN SODIUM LAUROYL SARCOSINATE XANTHAN GUM MENTHOL SODIUM BENZOATE CARBOXYMETHYLCELLULOSE SACCHARIN SODIUM XYLITOL SODIUM PYROPHOSPHATE ASIAN GINSENG HYDROGEN PEROXIDE SODIUM FLUORIDE FLUORIDE ION SORBITOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Sodium fluoride 0.25% (1100PPM) Purpose Anticavity"
+  ],
+  "purpose": [
+    "Purpose Anticavity"
+  ],
+  "indications_and_usage": [
+    "Use helps protect against cavities"
+  ],
+  "warnings": [
+    "Warnings When using this product Do not swallow Do not use in eye area Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product Do not swallow Do not use in eye area"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions • Adults and children 2 years of age and older: Brush teeth thoroughly, preferably after each meal or at least twice a day, or use as directed by a dentist or doctor. • Instruct children under 6 years of age in good brushing and rinsing habits (to minimize swallowing). • Supervise children as necessary until capable of using without supervision. • Children under 2 years of age: Consult a dentist or doctor."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Sorbitol, Aqua, Hydrated Silica, Glycerin, Sodium Lauroyl Sarcosinate, Fragrance/ Flavor, Nano-Hydroxyapatite, Xanthan Gum, Menthol, Sodium Benzoate, Carboxymethyl Cellulose, Sodium Saccharin, Xylitol, Sodium Pyrophosphate, Red Dates Extract, Ginseng Extract, Hydrogen Peroxide (PVP - H202)."
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Label3"
+  ],
+  "set_id": "0028f88d-a9fe-4cfa-a6c6-168f9689b5f6",
+  "id": "47f512b1-5217-2237-e063-6394a90a5a6e",
+  "effective_time": "20260109",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M021"
+    ],
+    "brand_name": [
+      "Prime Tooth Care Hami Melon"
+    ],
+    "generic_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "manufacturer_name": [
+      "Prime Tooth Care LLC"
+    ],
+    "product_ndc": [
+      "87053-003"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "DENTAL"
+    ],
+    "substance_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "spl_id": [
+      "47f512b1-5217-2237-e063-6394a90a5a6e"
+    ],
+    "spl_set_id": [
+      "0028f88d-a9fe-4cfa-a6c6-168f9689b5f6"
+    ],
+    "package_ndc": [
+      "87053-003-00"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8ZYQ1474W7"
+    ]
+  }
+}

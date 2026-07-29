@@ -1,0 +1,95 @@
+{
+  "spl_product_data_elements": [
+    "Sure Complete Confidence Antiperspirant Deodorant Aerosol, Unscented ALUMINUM CHLOROHYDRATE ISOBUTANE CYCLOPENTASILOXANE 1,1-DIFLUOROETHANE PROPANE DIMETHICONE PROPYLENE CARBONATE DISTEARDIMONIUM HECTORITE BUTANE ETHYLENE BRASSYLATE ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredient Aluminum Chlorohydrate 10% (anhydrous) Purpose Antiperspirant"
+  ],
+  "purpose": [
+    "Purpose Antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Use reduces underarm wetness"
+  ],
+  "warnings": [
+    "Warnings For external use only. Flammable • do not spray near flame or while smoking • contents under pressure • do not crush, puncture or incinerate • do not store at temperature above 120°F Do not use on broken skin Ask a doctor before use if you have kidney disease When using this product • keep away from face and mouth to avoid breathing it • avoid spraying in eyes • use only as directed; intentional misuse by deliberately concentrating and inhaling the contents can be harmful or fatal Stop use if rash or irritation occurs Keep out of reach of children. lf swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on broken skin"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have kidney disease"
+  ],
+  "when_using": [
+    "When using this product • keep away from face and mouth to avoid breathing it • avoid spraying in eyes • use only as directed; intentional misuse by deliberately concentrating and inhaling the contents can be harmful or fatal"
+  ],
+  "stop_use": [
+    "Stop use if rash or irritation occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. lf swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions • apply to underarms only • hold can about 6 inches away from underarm and spray."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients: Isobutane, Cyclopentasiloxane, Hydrofluorocarbon 152 A, Propane, Dimethicone, Propylene Carbonate, Disteardimonium Hectorite, Butane, Ethylene Brassylate."
+  ],
+  "questions": [
+    "Questions? 1-800-575-7960 www.suredeodorant.com"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Outer Package2 Inner Package2"
+  ],
+  "set_id": "000a4912-a633-46b4-9aff-725fdeeef7c0",
+  "id": "2e70f4b3-7b97-af33-e063-6294a90a1186",
+  "effective_time": "20250218",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Sure Complete Confidence Antiperspirant Deodorant Aerosol, Unscented"
+    ],
+    "generic_name": [
+      "ALUMINUM CHLOROHYDRATE"
+    ],
+    "manufacturer_name": [
+      "Sodalis USA, LLC"
+    ],
+    "product_ndc": [
+      "81277-011"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM CHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "2e70f4b3-7b97-af33-e063-6294a90a1186"
+    ],
+    "spl_set_id": [
+      "000a4912-a633-46b4-9aff-725fdeeef7c0"
+    ],
+    "package_ndc": [
+      "81277-011-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0012345678905"
+    ],
+    "unii": [
+      "HPN8MZW13M"
+    ]
+  }
+}

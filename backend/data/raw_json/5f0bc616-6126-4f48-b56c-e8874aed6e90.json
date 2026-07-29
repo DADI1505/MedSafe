@@ -1,0 +1,101 @@
+{
+  "spl_product_data_elements": [
+    "Acid Reducer Esomeprazole magnesium ESOMEPRAZOLE MAGNESIUM ESOMEPRAZOLE SILICON DIOXIDE HYPROMELLOSE, UNSPECIFIED GLYCERYL MONO AND DIPALMITOSTEARATE MAGNESIUM STEARATE METHACRYLIC ACID AND ETHYL ACRYLATE COPOLYMER POLYSORBATE 80 SODIUM LAURYL SULFATE SUCROSE STARCH, CORN TALC TITANIUM DIOXIDE TRIETHYL CITRATE CROSPOVIDONE HYDROXYPROPYL CELLULOSE, UNSPECIFIED HYDROXYPROPYL CELLULOSE, LOW SUBSTITUTED MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED PROPYLENE GLYCOL SHELLAC SODIUM STEARYL FUMARATE FERROSOFERRIC OXIDE FERRIC OXIDE RED FERRIC OXIDE YELLOW pink EL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information read the directions and warnings before us keep the carton. It contains important information. store at 20° to 25°C (68° to 77°F)"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each tablet) Esomeprazole 20 mg (*Each delayed-release tablet corresponds to 22.25 mg esomeprazole magnesium, USP trihydrate)"
+  ],
+  "purpose": [
+    "Purpose Acid reducer"
+  ],
+  "indications_and_usage": [
+    "Uses treats frequent heartburn (occurs 2 or more days a week) not intended for immediate relief of heartburn; this drug may take 1 to 4 days for full effect"
+  ],
+  "warnings": [
+    "Warnings Allergy alert : Do not use if you are allergic to esomeprazole. Esomeprazole may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If an allergic reaction occurs, stop use and seek medical help right away."
+  ],
+  "do_not_use": [
+    "Do not use if you have: trouble or pain swallowing food, vomiting with blood, or bloody or black stools heartburn with lightheadedness, sweating or dizziness chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness frequent chest pain These may be signs of a serious condition. See your doctor."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have had heartburn over 3 months. This may be a sign of a more serious condition. frequent wheezing, particularly with heartburn unexplained weight loss nausea or vomiting stomach pain"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking taking a prescription drug. Acid reducers may interact with certain prescription drugs."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if your heartburn continues or worsens you need to take this product for more than 14 days you need to take more than 1 course of treatment every 4 months you get diarrhea you develop a rash or joint pain"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults 18 years of age and older this product is to be used once a day (every 24 hours), every day for 14 days may take 1 to 4 days for full effect 14-Day Course of Treatment • swallow 1 tablet with a glass of water before eating in the morning • take every day for 14 days • do not take more than 1 tablet a day • swallow whole. Do not crush or chew capsules. • do not use for more than 14 days unless directed by your doctor Repeated 14-Day Courses (if needed) • you may repeat a 14-day course every 4 months • do not take for more than 14 days or more often than every 4 months unless directed by a doctor children under 18 years of age: ask a doctor before use. Heartburn in children may sometimes be caused by a serious condition ."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients black iron oxide, colloidal silicon dioxide, crospovidone, hydroxypropyl cellulose, hypromellose, low substituted hydroxypropyl cellulose, magnesium stearate, methacrylic acid - ethyl acrylate copolymer dispersion, microcrystalline cellulose, mono-and di-glycerides, polyethylene glycol, polysorbate 80, propylene glycol, red iron oxide, shellac glaze, sodium lauryl sulfate, sodium stearyl fumarate, sugar spheres (corn starch and sucrose), talc, titanium dioxide, triethyl citrate and yellow iron oxide"
+  ],
+  "questions": [
+    "Questions or comments? Call 1-877-753-3935 Monday-Friday 9AM-5PM EST"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Compare to the active ingredient in Nexium ® 24R† Treats Frequent Heartburn May take 1 to 4 days for full effect Esomeprazole Magnesium DELAYED-RELEASE TABLETS 20 mg* Acid reducer See new warning information TABLET One 14-day course of treatment **This product is not manufactured or distributed by GlaxoSmithKline Consumer Healthcare Holdings (US) LLC, distributor of Nexium® 24HR. TAMPER EVIDENT: DO NOT USE IF SEAL UNDER BOTTLE CAP BROKEN OR MISSING. KEEP CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. Distributed by: CVS Pharmacy, Inc. One CVS Drive, Woonsocket, RI 02895",
+    "Package label CVS HEALTH Acid Reducer Esomeprazole 20 mg (*Each delayed-release tablet corresponds to 22.25 mg esomeprazole magnesium, USP (trihydrate))"
+  ],
+  "set_id": "001817ea-906e-47f7-8605-41ba5a9abd21",
+  "id": "5f0bc616-6126-4f48-b56c-e8874aed6e90",
+  "effective_time": "20260121",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "ANDA212088"
+    ],
+    "brand_name": [
+      "Acid Reducer"
+    ],
+    "generic_name": [
+      "ESOMEPRAZOLE MAGNESIUM"
+    ],
+    "manufacturer_name": [
+      "CVS Pharmacy"
+    ],
+    "product_ndc": [
+      "69842-679"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ESOMEPRAZOLE MAGNESIUM"
+    ],
+    "rxcui": [
+      "433733"
+    ],
+    "spl_id": [
+      "5f0bc616-6126-4f48-b56c-e8874aed6e90"
+    ],
+    "spl_set_id": [
+      "001817ea-906e-47f7-8605-41ba5a9abd21"
+    ],
+    "package_ndc": [
+      "69842-679-14",
+      "69842-679-42"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "R6DXU4WAY9"
+    ]
+  }
+}

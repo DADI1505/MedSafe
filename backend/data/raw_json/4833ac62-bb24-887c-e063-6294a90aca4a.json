@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "Roll On Anti-Perspirant (Alcohol Free) ALUMINUM CHLOROHYDRATE WATER HYDROXYETHYL CELLULOSE (2000 MPA.S AT 1%) GLYCERIN POLYSORBATE 20 EDETATE SODIUM ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Aluminum Chlorohydrate 10% - Anhydrous Basis"
+  ],
+  "purpose": [
+    "Purpose Antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Use Reduces underarm wetness."
+  ],
+  "warnings": [
+    "Warnings Ask a doctor before use if you have kidney disease. Stop use if rash or irritation occurs. Keep Out of Reach of Children. If swallowed, get medical help or contact a Poison Control Center immediately. Use only as directed."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have kidney disease."
+  ],
+  "stop_use": [
+    "Stop use if rash or irritation occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep Out of Reach of Children. If swallowed, get medical help or contact a Poison Control Center immediately. Use only as directed."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply to underarms only."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Fragrance, Glycerin, Hydroxyethylcellulose, Polysorbate 20, Purified Water, Tetrasodium EDTA"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL NDC 63517-803-45 deodorant + antiperspirant roll-on • scented Cardinal Health 1.5 fl oz (45ml) Principal Display Panel - 45ml Bottle Label"
+  ],
+  "set_id": "00281593-ae46-4936-ba86-129ee9d75e40",
+  "id": "4833ac62-bb24-887c-e063-6294a90aca4a",
+  "effective_time": "20260112",
+  "version": "13",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Roll On Anti-Perspirant (Alcohol Free)"
+    ],
+    "generic_name": [
+      "ALUMINUM CHLOROHYDRATE"
+    ],
+    "manufacturer_name": [
+      "Cardinal Health"
+    ],
+    "product_ndc": [
+      "63517-803"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM CHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "4833ac62-bb24-887c-e063-6294a90aca4a"
+    ],
+    "spl_set_id": [
+      "00281593-ae46-4936-ba86-129ee9d75e40"
+    ],
+    "package_ndc": [
+      "63517-803-45"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "HPN8MZW13M"
+    ]
+  }
+}

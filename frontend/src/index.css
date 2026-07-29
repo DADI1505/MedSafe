@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+/*
+  ============================================================
+  CHARTE GRAPHIQUE MedSafe (Tailwind v4 — @theme)
+  ============================================================
+  Ton : clinique, sobre, rassurant. Jamais anxiogène.
+  Le rouge/orange est RÉSERVÉ aux alertes de risque.
+  Ces variables créent automatiquement des classes utilitaires
+  Tailwind (ex: bg-brand, text-ink, border-line...).
+*/
+@theme {
+  /* Bleus & verts de confiance (couleurs principales) */
+  --color-brand: #1b365d; /* Bleu nuit — titres, éléments forts */
+  --color-brand-600: #2c5282; /* Bleu moyen — boutons, liens */
+  --color-teal: #319795; /* Vert-bleu — accents, succès doux */
+
+  /* Neutres (fonds & textes) */
+  --color-canvas: #f4f7fb; /* Fond général très clair */
+  --color-surface: #ffffff; /* Cartes blanches */
+  --color-ink: #1f2a37; /* Texte principal (contraste AA) */
+  --color-muted: #5b6b7f; /* Texte secondaire */
+  --color-line: #e3e9f2; /* Bordures douces */
+
+  /* Couleurs de RISQUE — usage strictement réservé aux alertes */
+  --color-risk-safe: #319795; /* Sûr */
+  --color-risk-warning: #c2680f; /* Prudence (orange sobre) */
+  --color-risk-blocked: #b42318; /* Bloqué (rouge) */
+
+  /* Typographie généreuse pour l'accessibilité */
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+
+  /* Rayons arrondis doux (aspect rassurant) */
+  --radius-card: 1.25rem;
+}
+
+/* Réglages de base : fond, couleur de texte, taille confortable */
+html {
+  background-color: var(--color-canvas);
+}
+
+body {
+  margin: 0;
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  font-size: 1rem; /* base 16px, lisible pour tous */
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Anneau de focus visible partout (accessibilité clavier / WCAG) */
+:where(a, button, input, [tabindex]):focus-visible {
+  outline: 2px solid var(--color-brand-600);
+  outline-offset: 2px;
+  border-radius: 4px;
+}

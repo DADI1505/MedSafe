@@ -1,0 +1,91 @@
+{
+  "spl_product_data_elements": [
+    "Isopropyl Alcohol Isopropyl Alcohol FD&C BLUE NO. 1 GLYCERIN METHYL SALICYLATE WATER FD&C YELLOW NO. 5 ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Active ingredients Isopropyl alcohol 70%"
+  ],
+  "purpose": [
+    "Purpose First aid antiseptic"
+  ],
+  "indications_and_usage": [
+    "Use first aid to help prevent the risk of infection in: minor cuts scrapes burns"
+  ],
+  "warnings": [
+    "Warnings For external use only Flammable Keep away from fire or flame, heat, spark, electrical Do not use as a fuel source"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use for deep or puncture wounds, animal bites or serious burns"
+  ],
+  "when_using": [
+    "When using this product do not get into eyes do not inhale do not apply over large areas of the body do not use longer than 1 week use only as directed"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition persists or gets worse"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "spl_unclassified_section": [
+    "Caution Fumes can be acutely irritating to skin, eyes and the respiratory system. Do not apply to irritated skin or if excessive irritation develops. Avoid getting into the eyes or on mucous membranes. Avoid inhaling this product.",
+    "Other information does not contain, nor is intended as a substitute for grain or ethyl alcohol",
+    "Distributed by: Cariba International P.O. Box 1208 Safety Harbor Harbor, Florida 34695 PRODUCT OF US AND CANADA Pat. D675,101"
+  ],
+  "dosage_and_administration": [
+    "Directions clean the affected area apply a small amount of this product on the area 1 to 3 times daily may be covered with a sterile bandage if bandaged, let dry first"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients blue 1, glycerin, methyl salicylate, water, yellow 5"
+  ],
+  "package_label_principal_display_panel": [
+    "principal display panel Cariba Care 70% ISOPROPYL ALCOHOL WITH WINTERGREEN AND GLYCERIN First Aid Antiseptic Use for Body Rub & Massage WARNING FLAMMABLE Keep away from heat, spark, electrical, fire or flame Do not use as fuel source CAUTION: Do not point at self or others; product will squirt when squeezed. Use onlyas directed, in a well-ventilated area; fumes may be harmful 16 FL OZ (1 PT) 473 mL image description image description"
+  ],
+  "set_id": "001c1fcf-2808-467c-86d8-c038513fa3b5",
+  "id": "498ec015-7aed-6b6a-e063-6394a90aa008",
+  "effective_time": "20260129",
+  "version": "15",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Isopropyl Alcohol"
+    ],
+    "generic_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Cariba International"
+    ],
+    "product_ndc": [
+      "67860-845"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "rxcui": [
+      "808520"
+    ],
+    "spl_id": [
+      "498ec015-7aed-6b6a-e063-6394a90aa008"
+    ],
+    "spl_set_id": [
+      "001c1fcf-2808-467c-86d8-c038513fa3b5"
+    ],
+    "package_ndc": [
+      "67860-845-43"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "ND2M416302"
+    ]
+  }
+}

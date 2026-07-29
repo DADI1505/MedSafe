@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Sports For Trauma Gel Bellis Perennis, Hypericum Perfomatum,Toxicodendron Pubscens Leaf, Ruta Graveolens Flowering Top BELLIS PERENNIS BELLIS PERENNIS HYPERICUM PERFORATUM HYPERICUM PERFORATUM TOXICODENDRON PUBESCENS LEAF TOXICODENDRON PUBESCENS LEAF RUTA GRAVEOLENS FLOWERING TOP RUTA GRAVEOLENS FLOWERING TOP ALCOHOL EUCALYPTUS OIL CARBOMER HOMOPOLYMER TYPE C WATER SODIUM HYDROXIDE"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Contains 5% Bellis perennis 1X Contains 5% Hypericum perforatum 2X Contains 5% Ruta graveolens 1X Contains 5% Rhus Tox 4X"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Carbomer Ethyl Alcohol Eucalyptus Oil Purified Water Sodium Hydroxide"
+  ],
+  "dosage_and_administration": [
+    "Dosage & Administration Directions Adults & children 6 years of age and older: apply to affected area up to 4 times daily. Rub in gently. Patch test recommended on sensitive skin"
+  ],
+  "indications_and_usage": [
+    "Indications & Usage Temporarily relieves deep muscle and back pain, stiffness, and swelling associated with overexertion, sprains, falls, blows, and minor sports injuries. Relieves joint and tendon pain and inflammation."
+  ],
+  "purpose": [
+    "Purpose Temporarily relieves deep muscle and back pain, stiffness, and swelling associated with overexertion, sprains, falls, blows, and minor sports injuries. Relieves joint and tendon pain and inflammation."
+  ],
+  "warnings": [
+    "Warnings For external use only. Avoid contact with eyes and broken skin."
+  ],
+  "do_not_use": [
+    "Do Not Use Do not use if hypersensitive to Poison Ivy (Rhus tox) or any other ingredient in this product. Breast-feeding women should not apply to breast area."
+  ],
+  "stop_use": [
+    "Stop Use Stop use and ask a doctor if skin irritation, rash, or other allergic reaction develops, condition worsens or does not improve within 7 days, symptoms clear up and then occur again within a few days. These could be signs of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "Pregnancy or Breast feeding If pregnant or breast-feeding, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Keep out of reach of children."
+  ],
+  "overdosage": [
+    "Overdose If swallowed, seek medical help or contact a Poison Control Center immediately."
+  ],
+  "package_label_principal_display_panel": [
+    "LHBN21825492_A01_SPORTS_GEL_2_5oz_CTN_FNL.jpg LHT21825492_A01_SportsGel_2_5oz_tube_FNL.jpg"
+  ],
+  "set_id": "002745e8-6f11-4b47-99d3-dddef0c170d6",
+  "id": "8cf89e4f-1757-43c2-9f38-fd857da325f3",
+  "effective_time": "20251120",
+  "version": "8",
+  "openfda": {
+    "brand_name": [
+      "Sports For Trauma Gel"
+    ],
+    "generic_name": [
+      "BELLIS PERENNIS, HYPERICUM PERFOMATUM,TOXICODENDRON PUBSCENS LEAF, RUTA GRAVEOLENS FLOWERING TOP"
+    ],
+    "manufacturer_name": [
+      "Schwabe Mexico, S.A. de C.V."
+    ],
+    "product_ndc": [
+      "68466-1002"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BELLIS PERENNIS",
+      "HYPERICUM PERFORATUM",
+      "TOXICODENDRON PUBESCENS LEAF",
+      "RUTA GRAVEOLENS FLOWERING TOP"
+    ],
+    "spl_id": [
+      "8cf89e4f-1757-43c2-9f38-fd857da325f3"
+    ],
+    "spl_set_id": [
+      "002745e8-6f11-4b47-99d3-dddef0c170d6"
+    ],
+    "package_ndc": [
+      "68466-1002-8"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0308078254920"
+    ],
+    "unii": [
+      "2HU33I03UY",
+      "XK4IUX8MNB",
+      "6IO182RP7A",
+      "N94C2U587S"
+    ]
+  }
+}

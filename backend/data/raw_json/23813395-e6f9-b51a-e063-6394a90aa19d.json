@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Attitude Diaper Cream Zinc Unscented Zinc oxide ZINC OXIDE ZINC OXIDE MEDIUM-CHAIN TRIGLYCERIDES GLYCERYL MONOBEHENATE CANDELILLA WAX GRAPE SEED OIL BEHENYL BEHENATE ALMOND OIL COCONUT OIL CASTOR OIL POLYHYDROXYSTEARIC ACID (2300 MW) HELIANTHUS ANNUUS SEED WAX C10-18 TRIGLYCERIDES VACCINIUM MYRTILLUS LEAF"
+  ],
+  "spl_unclassified_section": [
+    "DRUG FACTS"
+  ],
+  "active_ingredient": [
+    "Zinc oxide (15%)"
+  ],
+  "purpose": [
+    "Skin protectant - Diaper rash treatment"
+  ],
+  "indications_and_usage": [
+    "Helps prevent diaper rash. Protects chafed irritated skin due to diaper rash. Helps protect from wetness that causes diaper rash. Temporarily protects and helps relieve minor skin irritation due to diaper rash. Helps treat/heal diaper rash."
+  ],
+  "warnings": [
+    "Allergens: almond For external use only. When using this product avoid contact with eyes. If contact occurs, rinse thoroughly with water. Stop use and consult a doctor if symptoms worsen or last for more than 7 days. Keep out of reach of children. If swallowed, call a poison control centre or get edical help right away."
+  ],
+  "when_using": [
+    "When using this product avoid contact with eyes. If contact occurs, rinse thoroughly with water."
+  ],
+  "stop_use": [
+    "Stop use and consult a doctor if symptoms worsen or last for more than 7 days."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, call a poison control centre or get edical help right away."
+  ],
+  "dosage_and_administration": [
+    "Change wet and soiled diapers promptly, cleanser the diaper area, and allow to dry. Push on the bottom to release the product. Heat the product for a few seconds on your hands and apply on baby's bottom. Apply product liberally as often as necessary, with each diaper change, especially at bedtime or anytime when exposure to wet diapers may be prolonged. If necessary, after use, wipe off the excess on the tube contour before closing it."
+  ],
+  "storage_and_handling": [
+    "Store at temperatures below 90 F (32 C)."
+  ],
+  "inactive_ingredient": [
+    "Cocos Nucifera (Coconut) Oil, Ricinus Communis (Castor) Seed Oil, Polyhydroxystearic Acid, Caprylic/Capric Triglyceride, Helianthus Annuus (Sunflower) Seed Wax, Vitis Vinifera (Grape) Seed Oil, C10-18 Triglycerides, Behenyl Behenate, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Glyceryl Behenate, Euphorbia Cerifera (Candelilla) Wax, Vaccinium Myrtillus (Blueberry) Leaf Extract."
+  ],
+  "package_label_principal_display_panel": [
+    "ATTITUDETM natural care baby leavesTM diaper cream - zinc protects & nourishes Unscented EWG VerifiedTM Vegan Stick 30g /1 oz. NPN 80119243 dermatologically tested plastic free Label 30g diaper cream zinc"
+  ],
+  "set_id": "00283894-ddc6-0faa-e063-6394a90ae47c",
+  "id": "23813395-e6f9-b51a-e063-6394a90aa19d",
+  "effective_time": "20241002",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Attitude Diaper Cream Zinc Unscented"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "9055-7588 Quebec Inc. (Attitude)"
+    ],
+    "product_ndc": [
+      "61649-260"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "rxcui": [
+      "245660"
+    ],
+    "spl_id": [
+      "23813395-e6f9-b51a-e063-6394a90aa19d"
+    ],
+    "spl_set_id": [
+      "00283894-ddc6-0faa-e063-6394a90ae47c"
+    ],
+    "package_ndc": [
+      "61649-260-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0626232182606"
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

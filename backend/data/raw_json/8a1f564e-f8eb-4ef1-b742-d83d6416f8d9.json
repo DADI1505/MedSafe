@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "VERADEX-E Petrolatum and Lanolin PETROLATUM PETROLATUM LANOLIN LANOLIN ALPHA-TOCOPHEROL ACETATE CETYL ESTERS WAX ETHYL METHYLPHENYLGLYCIDATE BENZYL CINNAMATE SALICYLIC ACID"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Petrolatum USP 58.95% Anhydrous Lanolin USP 35%"
+  ],
+  "purpose": [
+    "Purpose Petrolatum USP 58.95% .................................. Protectant Anhydrous Lanolin USP 35% ....................... Protectant"
+  ],
+  "inactive_ingredient": [
+    "Other ingredients: Tocopheryl Acetate, Cetyl Esters, Ethyl Methylphenylglycidate, Benzyl Cinnamate, Salicylic Acid."
+  ],
+  "warnings": [
+    "Warnings: For external use only. Discontinue use if signs of irritation appear. If condition worsens consult a doctor. Do not use over deep, infected, or puncture wounds."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep from children."
+  ],
+  "indications_and_usage": [
+    "Indications: Temporarily relieves minor burns, dry, chapped, fissured and macerated skin and lips, also relieves Psoriais, Eczema, mild sunburn, abrasions and contusions, diaper dermatitis, hemorrhoids, and prickly heat."
+  ],
+  "dosage_and_administration": [
+    "Directions: Apply a thin film to clean, dry skin three times daily. May be covered with sterile gauze, if desired."
+  ],
+  "package_label_principal_display_panel": [
+    "NDC 68605-3700-5 VERADEX-E ® OINTMENT Super Emollient, Protectant Healing Ointment Net Wt. 100g. U.S. Pat. # 5,645,826 ABBE LABORATORIES, INC. TM Farmingdale, NY 11735 Product Label"
+  ],
+  "set_id": "00100102-c245-4b63-a4ff-794cacda6f17",
+  "id": "8a1f564e-f8eb-4ef1-b742-d83d6416f8d9",
+  "effective_time": "20260124",
+  "version": "8",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "VERADEX-E"
+    ],
+    "generic_name": [
+      "PETROLATUM AND LANOLIN"
+    ],
+    "manufacturer_name": [
+      "ABBE Laboratories, Inc."
+    ],
+    "product_ndc": [
+      "68605-3700"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "PETROLATUM",
+      "LANOLIN"
+    ],
+    "rxcui": [
+      "2618668"
+    ],
+    "spl_id": [
+      "8a1f564e-f8eb-4ef1-b742-d83d6416f8d9"
+    ],
+    "spl_set_id": [
+      "00100102-c245-4b63-a4ff-794cacda6f17"
+    ],
+    "package_ndc": [
+      "68605-3700-2",
+      "68605-3700-3",
+      "68605-3700-4",
+      "68605-3700-5",
+      "68605-3700-6"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "4T6H12BN9U",
+      "7EV65EAW6H"
+    ]
+  }
+}

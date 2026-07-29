@@ -1,0 +1,87 @@
+{
+  "spl_product_data_elements": [
+    "Antibacterial 2X Benzalkonium Chloride WATER SODIUM LAURETH SULFATE COCAMIDOPROPYL BETAINE SODIUM CHLORIDE GLYCERIN DITETRACYCLINE TETRASODIUM EDETATE METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE FD&C YELLOW NO. 5 FD&C RED NO. 4 BENZALKONIUM CHLORIDE BENZALKONIUM"
+  ],
+  "active_ingredient": [
+    "Benzalkonium Chloride - 0.13%"
+  ],
+  "purpose": [
+    "Purpose: Antibacterial"
+  ],
+  "dosage_and_administration": [
+    "Direction wet hands apply palmful to hands scrub thoroughly rinse"
+  ],
+  "warnings": [
+    "For external use only"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if irritation or redness develops"
+  ],
+  "when_using": [
+    "When using this product do not get it into eyes. If contact occurs, rinse eye thoroughly with water"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "inactive_ingredient": [
+    "Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Citric Acid, Glycerin, Fragrance, Tetrasodium EDTA, Methylchloroisothiazolinone, Methylisothiazolinone, Yellow# 5 (Cl 19140), Red# 4 (Cl 14700)"
+  ],
+  "indications_and_usage": [
+    "Uses for handwashing or decrease bacteria to the skin"
+  ],
+  "package_label_principal_display_panel": [
+    "16-16 2X"
+  ],
+  "set_id": "00179db3-5a76-4724-a848-28e71eb580a6",
+  "id": "2b2182c1-f5a7-a269-e063-6394a90afe0f",
+  "effective_time": "20250107",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Antibacterial 2X"
+    ],
+    "generic_name": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Sante Manufacturing Inc"
+    ],
+    "product_ndc": [
+      "71020-016"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "rxcui": [
+      "1046593"
+    ],
+    "spl_id": [
+      "2b2182c1-f5a7-a269-e063-6394a90afe0f"
+    ],
+    "spl_set_id": [
+      "00179db3-5a76-4724-a848-28e71eb580a6"
+    ],
+    "package_ndc": [
+      "71020-016-16",
+      "71020-016-20"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0852474166368"
+    ],
+    "unii": [
+      "F5UM2KM3W7"
+    ]
+  }
+}

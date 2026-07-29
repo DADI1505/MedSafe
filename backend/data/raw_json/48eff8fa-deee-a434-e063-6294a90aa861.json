@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "Lights Povindone Iodine Scrub POVIDONE-IODINE CITRIC ACID MONOHYDRATE WATER SODIUM PHOSPHATE DIBASIC DIHYDRATE POVIDONE-IODINE IODINE"
+  ],
+  "active_ingredient": [
+    "Active Ingredient: Povidone-Iodine USP (7.5%)"
+  ],
+  "purpose": [
+    "Purpose: Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Use: Antiseptic skin preparation"
+  ],
+  "warnings": [
+    "Warnings: Do not use if allergic to iodine For external use only Do not use in eyes Avoid pooling beneath patient. Prolonged exposure to wet solution may cause skiin irritation."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if injuries are deep or puncture wounds Serious burns Stop use and ask a doctor if Redness, irritation, swelling or pain persisits or increases Infection occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of a accidental ingestion,, seek professional assistance or consult a poison control center immediately"
+  ],
+  "dosage_and_administration": [
+    "Directions: Apply locally as needed."
+  ],
+  "other_safety_information": [
+    "Other information Store at room temperature 0.75% available iodine Latax free For hospital or professional use only"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredient Citric acid, purified water, Disodium hydrogen phosphate"
+  ],
+  "package_label_principal_display_panel": [
+    "image description"
+  ],
+  "set_id": "000bf57b-1805-4746-bf1c-32856241213a",
+  "id": "48eff8fa-deee-a434-e063-6294a90aa861",
+  "effective_time": "20260121",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Lights Povindone Iodine Scrub"
+    ],
+    "generic_name": [
+      "POVIDONE-IODINE"
+    ],
+    "manufacturer_name": [
+      "Lights Medical Manufacture Co., Ltd."
+    ],
+    "product_ndc": [
+      "61333-205"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "POVIDONE-IODINE"
+    ],
+    "rxcui": [
+      "314188"
+    ],
+    "spl_id": [
+      "48eff8fa-deee-a434-e063-6294a90aa861"
+    ],
+    "spl_set_id": [
+      "000bf57b-1805-4746-bf1c-32856241213a"
+    ],
+    "package_ndc": [
+      "61333-205-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175486",
+      "M0011640"
+    ],
+    "pharm_class_epc": [
+      "Antiseptic [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Iodine [CS]"
+    ],
+    "unii": [
+      "85H0HZU99M"
+    ]
+  }
+}

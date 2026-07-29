@@ -1,0 +1,108 @@
+{
+  "spl_product_data_elements": [
+    "Thera Plus Maximum Strength Feminine Anti-Itch BENZOCAINE, RESORCINOL ALOE VERA LEAF CETYL ALCOHOL CHOLECALCIFEROL EDETATE DISODIUM GLYCERYL MONOSTEARATE ISOPROPYL MYRISTATE ISOPROPYL PALMITATE LANOLIN METHYLPARABEN MINERAL OIL PETROLATUM PROPYLENE GLYCOL RETINOL SODIUM LAURYL SULFATE SODIUM SULFITE TOCOPHEROL WATER BENZOCAINE BENZOCAINE RESORCINOL RESORCINOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information Store at 20° - 25° C (68° - 77° F)."
+  ],
+  "active_ingredient": [
+    "Active ingredients Benzocaine 20% Resorcinol 3% Purpose External Analgesic"
+  ],
+  "purpose": [
+    "Purpose External Analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves itching"
+  ],
+  "warnings": [
+    "Warnings For external use only. When using this product avoid contact with the eyes. Stop use and ask a doctor if condition worsens, or if symptoms persists for more than 7 days or clear up and occur again within a few days. Do not apply over large areas of the body. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product avoid contact with the eyes."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens, or if symptoms persists for more than 7 days or clear up and occur again within a few days. Do not apply over large areas of the body."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 12 years and older: apply a fingertip amount (approximately 1 inch strip) to the affected area not more than 3 to 4 times daily. Children under 12 years: ask a doctor."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredientsa aloe barbadensis leaf juice, cetyl alcohol, cholecalciferol, edetate disodium, fragrance, glyceryl monostearate, isopropyl myristate, isopropyl palmitate, lanolin, methylparaben, mineral oil, petrolatum, propylene glycol, retinol, sodium lauryl sulfate, sodium sulfite, tocopherol, water"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Outer Package"
+  ],
+  "set_id": "0007e3ea-882b-4000-8e70-2bcec2c08613",
+  "id": "2f0c45da-c4f2-bd12-e063-6394a90aba99",
+  "effective_time": "20250226",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Thera Plus Maximum Strength Feminine Anti-Itch"
+    ],
+    "generic_name": [
+      "BENZOCAINE, RESORCINOL"
+    ],
+    "manufacturer_name": [
+      "FOURSTAR GROUP USA, INC."
+    ],
+    "product_ndc": [
+      "80684-142"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZOCAINE",
+      "RESORCINOL"
+    ],
+    "rxcui": [
+      "637518"
+    ],
+    "spl_id": [
+      "2f0c45da-c4f2-bd12-e063-6394a90aba99"
+    ],
+    "spl_set_id": [
+      "0007e3ea-882b-4000-8e70-2bcec2c08613"
+    ],
+    "package_ndc": [
+      "80684-142-00"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0049696717472"
+    ],
+    "nui": [
+      "N0000185508",
+      "N0000175629",
+      "N0000184306",
+      "M0000728"
+    ],
+    "pharm_class_epc": [
+      "Standardized Chemical Allergen [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]"
+    ],
+    "unii": [
+      "U3RSY48JW5",
+      "YUL4LO94HK"
+    ]
+  }
+}
