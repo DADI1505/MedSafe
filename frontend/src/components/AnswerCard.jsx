@@ -59,14 +59,16 @@ import { Info } from "lucide-react"
 import RiskBadge from "./RiskBadge"
 import SourceCitation from "./SourceCitation"
 import { parseMarkdown } from "../utils/parseMarkdown"
+import ReadAloudButton from "./ReadAloudButton"
 
 export default function AnswerCard({ result }) {
   const { answer, risk_level, sources = [], disclaimer } = result
 
   return (
     <section className="rounded-card border border-line bg-surface p-6 shadow-sm" aria-live="polite">
-      <div className="mb-4">
+      <div className="mb-4 flex items-center justify-between gap-3">
         <RiskBadge level={risk_level} />
+         <ReadAloudButton text={answer} />
       </div>
 
       {/* Réponse vulgarisée — désormais formatée proprement */}

@@ -104,13 +104,10 @@ export default function SafetyNotice({ result }) {
 
   return (
     <section className={`rounded-card border ${ring} ${tint} p-6 shadow-sm`} role="alert" aria-live="assertive">
-      <div className="mb-4 flex flex-col gap-3">
+      <div className="mb-4 flex items-center justify-between gap-3">
         <RiskBadge level={risk_level} />
-        <h2 className={`flex items-center gap-2 text-xl font-bold ${accent}`}>
-          <Icon className="h-6 w-6 shrink-0" aria-hidden="true" />
-          {title}
-        </h2>
-      </div>
+        <ReadAloudButton text={answer} />
+    </div>
 
       {answer && parseMarkdown(answer)}
 
