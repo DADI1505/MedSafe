@@ -1,0 +1,75 @@
+{
+  "spl_product_data_elements": [
+    "Schuessler Tissue Salts Calc Sulph Blood Cleanser 3 Calcarea Sulphurica ALCOHOL GLYCERIN WATER CALCIUM SULFATE DIHYDRATE CALCIUM CATION"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Purpose Calcarea Sulphurica 6X HPUS skin disorders, minor skin eruptions,slow healing wounds \" HPUS \" is the Homeopathic Pharmacopoeia of the United States"
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    "Uses Temporarily relieves symptoms associated with: Skin disorders Minor skin eruptions Slow healing wounds"
+  ],
+  "warnings": [
+    "Warnings Ask a doctor before use if you have : Symptoms that persist for more than 7 days or worsen Inflammation or infection is present or develops. If pregnant or breastfeeding , ask a health professional before use. Keep out of reach of children."
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "dosage_and_administration": [
+    "Directions Use as directed Take 30 minutes away from food. Adults Acute dose: Spray into the mouth 4 times every 30 mins until symptoms subside, up to 8 times per day. Maintenance dose: Spray into mouth 4 times, 4 times per day."
+  ],
+  "spl_unclassified_section": [
+    "Other Information Store below 86\"F",
+    "Questions? www.schuesslertissuesalts.co or + 1-888-464-6775"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Alcohol, glycerin, purified water."
+  ],
+  "package_label_principal_display_panel": [
+    "Product label image description image description"
+  ],
+  "set_id": "0393cf03-4a68-4d01-bfb3-498e5ad626b1",
+  "id": "38de7685-34ce-19d4-e063-6394a90ac599",
+  "effective_time": "20250701",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Schuessler Tissue Salts Calc Sulph Blood Cleanser 3"
+    ],
+    "generic_name": [
+      "CALCAREA SULPHURICA"
+    ],
+    "manufacturer_name": [
+      "Martin & Pleasance Pty Ltd"
+    ],
+    "product_ndc": [
+      "84999-003"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CALCIUM SULFATE DIHYDRATE"
+    ],
+    "spl_id": [
+      "38de7685-34ce-19d4-e063-6394a90ac599"
+    ],
+    "spl_set_id": [
+      "0393cf03-4a68-4d01-bfb3-498e5ad626b1"
+    ],
+    "package_ndc": [
+      "84999-003-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "4846Q921YM"
+    ]
+  }
+}

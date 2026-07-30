@@ -1,0 +1,74 @@
+{
+  "spl_product_data_elements": [
+    "Alcohol Prep Pad Alcohol Prep Pad water Isopropyl Alcohol Isopropyl Alcohol"
+  ],
+  "active_ingredient": [
+    "Alcohol Prep Pad 70% Isoprppyl Alcohol"
+  ],
+  "purpose": [
+    "Antispectic. For preparation of skin prior of injection."
+  ],
+  "keep_out_of_reach_of_children": [
+    "In case of accidental ingestion, contact your phisician or Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use with electrocautery procedures."
+  ],
+  "inactive_ingredient": [
+    "Purified water."
+  ],
+  "dosage_and_administration": [
+    "One piece at the time, Discard after use."
+  ],
+  "indications_and_usage": [
+    "Wipe injection site vigorously.Discard after use."
+  ],
+  "warnings": [
+    "1. For external use only; 2. Flammable. Keep away from heat or flame; 3. Aviod to contact eyes. Flush throoughly with water in case of contact; 4. Stop use if irritation or redness develop; 5. Do not use with electrocautery procedures; Keep out of reach of children."
+  ],
+  "package_label_principal_display_panel": [
+    "Alcohol Prep Pad"
+  ],
+  "set_id": "03be8a96-c163-0e22-e054-00144ff8d46c",
+  "id": "0e9d506d-8c0f-ab6b-e063-6294a90a5ab6",
+  "effective_time": "20240110",
+  "version": "4",
+  "openfda": {
+    "brand_name": [
+      "Alcohol Prep Pad"
+    ],
+    "generic_name": [
+      "ALCOHOL PREP PAD"
+    ],
+    "manufacturer_name": [
+      "BioMed Resource Inc."
+    ],
+    "product_ndc": [
+      "69250-661"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "spl_id": [
+      "0e9d506d-8c0f-ab6b-e063-6294a90a5ab6"
+    ],
+    "spl_set_id": [
+      "03be8a96-c163-0e22-e054-00144ff8d46c"
+    ],
+    "package_ndc": [
+      "69250-661-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "ND2M416302"
+    ]
+  }
+}

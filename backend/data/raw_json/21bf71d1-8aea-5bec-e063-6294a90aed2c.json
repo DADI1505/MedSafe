@@ -1,0 +1,112 @@
+{
+  "spl_product_data_elements": [
+    "Neutrogena Adapalene 0.1% Acne Treatment Adapalene METHYLPARABEN HYDROCHLORIC ACID SODIUM HYDROXIDE CARBOMER HOMOPOLYMER TYPE C ADAPALENE ADAPALENE PROPYLENE GLYCOL EDETATE DISODIUM POLOXAMER 182 WATER"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Distributed by: JOHNSON & JOHNSON CONSUMER INC. Skillman, NJ 08558"
+  ],
+  "active_ingredient": [
+    "Active ingredient Adapalene, USP 0.1% (retinoid)* *read consumer information leaflet"
+  ],
+  "purpose": [
+    "Purpose Acne treatment"
+  ],
+  "indications_and_usage": [
+    "Use For the treatment of acne"
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use ▪on damaged skin (cuts, abrasions, eczema, sunburn) ▪ if you are allergic to adapalene or any of the ingredients in this product If pregnant or breast-feeding, ask a doctor before use. When using this product ▪ limit sun exposure, including light from tanning beds, and use sunscreen when going outdoors. ▪ do not wax to remove hair in areas where the product has been applied ▪ during the early weeks of use, your acne may appear to worsen before it improves (this is normal); continue using as directed, unless you get irritation that becomes severe ▪ irritation (redness, itching, dryness, burning) is more likely to occur: ▪ in the first few weeks of use ▪ if using more than one topical acne medication at a time ▪ but irritation usually lessens with continued use of this product ▪ it may take up to 3 months of once daily use to see results ▪ avoid product contact with the eyes, lips, and mouth. If contact occurs, immediately flush the area with water. ▪ wash hands after use Stop use and ask a doctor if ▪ you become pregnant, or are planning to become pregnant while using the product ▪ you have symptoms of an allergic reaction (such as itching, rash, hives, swelling of the lips, eyelids, and shortness of breath) ▪ irritation becomes severe ▪ you see no improvement after 3 months of once daily use Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "do_not_use": [
+    "Do not use ▪on damaged skin (cuts, abrasions, eczema, sunburn) ▪ if you are allergic to adapalene or any of the ingredients in this product"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a doctor before use."
+  ],
+  "when_using": [
+    "When using this product ▪ limit sun exposure, including light from tanning beds, and use sunscreen when going outdoors. ▪ do not wax to remove hair in areas where the product has been applied ▪ during the early weeks of use, your acne may appear to worsen before it improves (this is normal); continue using as directed, unless you get irritation that becomes severe ▪ irritation (redness, itching, dryness, burning) is more likely to occur: ▪ in the first few weeks of use ▪ if using more than one topical acne medication at a time ▪ but irritation usually lessens with continued use of this product ▪ it may take up to 3 months of once daily use to see results ▪ avoid product contact with the eyes, lips, and mouth. If contact occurs, immediately flush the area with water. ▪ wash hands after use"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if ▪ you become pregnant, or are planning to become pregnant while using the product ▪ you have symptoms of an allergic reaction (such as itching, rash, hives, swelling of the lips, eyelids, and shortness of breath) ▪ irritation becomes severe ▪ you see no improvement after 3 months of once daily use"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Directions Adults and children 12 years of age and older: ▪ use once daily ▪ clean the skin gently and pat dry before applying the product ▪ cover the entire affected area with a thin layer. For example, if your acne is on the face, apply the product to the entire face. ▪ do not use more than one time a day. Applying more than directed will not provide faster or better results, but may worsen skin irritation. Children under 12 years of age: ask a doctor"
+  ],
+  "storage_and_handling": [
+    "Other Information ▪ store at room temperature 68° to 77°F ▪ protect from freezing"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients carbomer homopolymer type C, edetate disodium, methylparaben, poloxamer 182, propylene glycol, purified water May contain hydrochloric acid and/or sodium hydroxide to adjust pH."
+  ],
+  "questions": [
+    "Questions or comments? Call 800-582-4048; Outside US, dial collect 215-273-8755 or visit www.neutrogena.com"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 45 g Tube Carton Neutrogena ® DERMATOLOGIST RECOMMENDED BRAND NEW Adapalene Gel 0.1% Acne Treatment Previously available only By prescription Dermatologist developed & tested Once Daily Topical Retinoid* Oil Free Fragrance Free *Read consumer information leaflet before use NET WT 1.6 OZ (45 g) Neutrogena_01"
+  ],
+  "set_id": "0682cb55-6ae3-437f-e063-6294a90ac510",
+  "id": "21bf71d1-8aea-5bec-e063-6294a90aed2c",
+  "effective_time": "20241112",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "ANDA090962"
+    ],
+    "brand_name": [
+      "Neutrogena Adapalene 0.1% Acne Treatment"
+    ],
+    "generic_name": [
+      "ADAPALENE"
+    ],
+    "manufacturer_name": [
+      "Kenvue Brands LLC"
+    ],
+    "product_ndc": [
+      "69968-0826"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ADAPALENE"
+    ],
+    "rxcui": [
+      "307731"
+    ],
+    "spl_id": [
+      "21bf71d1-8aea-5bec-e063-6294a90aed2c"
+    ],
+    "spl_set_id": [
+      "0682cb55-6ae3-437f-e063-6294a90ac510"
+    ],
+    "package_ndc": [
+      "69968-0826-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0070501067659"
+    ],
+    "nui": [
+      "N0000175607",
+      "M0018962"
+    ],
+    "pharm_class_epc": [
+      "Retinoid [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Retinoids [CS]"
+    ],
+    "unii": [
+      "1L4806J2QF"
+    ]
+  }
+}

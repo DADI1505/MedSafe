@@ -1,0 +1,95 @@
+{
+  "spl_product_data_elements": [
+    "Boudreauxs Butt Barrier Dimethicone DIMETHICONE DIMETHICONE .ALPHA.-TOCOPHEROL ACETATE CASTOR OIL GLYCERYL HYDROXYSTEARATE HYDROGENATED CASTOR OIL"
+  ],
+  "spl_unclassified_section": [
+    "BOUDREAUXS BUTT BARRIER- dimethicone ointment C.B. Fleet Company, Inc. ---------- Boudreauxs Butt Barrier ointment_dimethicone_0132-0326 Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredient Dimethicone, 1%"
+  ],
+  "purpose": [
+    "Purpose Skin protectant"
+  ],
+  "indications_and_usage": [
+    "Uses Helps treat and prevent diaper rash Protects chafed skin due to diaper rash and helps seal out wetness"
+  ],
+  "warnings": [
+    "Warnings For external use only When using this product avoid contact with the eyes Stop use and ask a doctor if condition worsens or does not improve after 7 days Keep out of reach of children If swallowed, seek medical help or call poison control center (1-800-222-1222) immediately."
+  ],
+  "when_using": [
+    "When using this product avoid contact with the eyes"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens or does not improve after 7 days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed, seek medical help or call poison control center (1-800-222-1222) immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions Change wet and soiled diaper immediately Cleanse the diaper area and allow to dry Apply ointment liberally and as often as necessary with each diaper change and especially when exposed to wet diapers for a prolonged period of time, such as bedtime"
+  ],
+  "other_safety_information": [
+    "Other information Store at 15-25° C (59-77° F) Remove foil seal from tube’s tip before use For use with infants, children and adults"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Alpha-tocopherol acetate d- (Vitamin E acetate), castor seed oil, glyceryl hydroxystearate, and hydrogenated castor oil"
+  ],
+  "questions": [
+    "Questions 1-855-785-2888 www. buttpaste.com"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Boudreaux’s Butt Paste® Butt Barrier Protective Ointment Skin protectant / Dimethicone 1% NET WT. 4 oz (113 g) Principal Display Panel Boudreaux’s Butt Paste® Butt Barrier Protective Ointment Skin protectant / Dimethicone 1% NET WT. 4 oz (113 g)"
+  ],
+  "set_id": "06a5af4d-40dd-42a4-8368-4d6a772d1b3a",
+  "id": "e672338e-7f83-42a4-bd2c-9d39959e235c",
+  "effective_time": "20251027",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Boudreauxs Butt Barrier"
+    ],
+    "generic_name": [
+      "DIMETHICONE"
+    ],
+    "manufacturer_name": [
+      "C.B. Fleet Company, Inc."
+    ],
+    "product_ndc": [
+      "0132-0326"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "DIMETHICONE"
+    ],
+    "spl_id": [
+      "e672338e-7f83-42a4-bd2c-9d39959e235c"
+    ],
+    "spl_set_id": [
+      "06a5af4d-40dd-42a4-8368-4d6a772d1b3a"
+    ],
+    "package_ndc": [
+      "0132-0326-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000010282"
+    ],
+    "pharm_class_pe": [
+      "Skin Barrier Activity [PE]"
+    ],
+    "unii": [
+      "92RU3N3Y1O"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "spl_product_data_elements": [
+    "Wonderscreen Broad Spectrum SPF 30 Shade 1 Zinc Oxide C9-12 ALKANE HYDROXYACETOPHENONE SODIUM DEHYDROACETATE ETHYLHEXYL OLIVATE JOJOBA OIL, RANDOMIZED APPLE FERRIC OXIDE YELLOW AVOCADO OIL GLYCYRRHIZINATE DIPOTASSIUM TITANIUM DIOXIDE POLYMETHYLSILSESQUIOXANE (4.5 MICRONS) DISTEARDIMONIUM HECTORITE TETRASODIUM GLUTAMATE DIACETATE CAPRYLOYL GLYCERIN/SEBACIC ACID COPOLYMER (2000 MPA.S) TOCOPHEROL FERROSOFERRIC OXIDE MEDIUM-CHAIN TRIGLYCERIDES TRIETHYL CITRATE FERRIC OXIDE RED DIHEPTYL SUCCINATE PHENOXYETHANOL ZINC OXIDE ZINC OXIDE PENTYLENE GLYCOL WATER DIMETHICONE COCO-GLYCERIDES TRIHYDROXYSTEARIN POLYHYDROXYSTEARIC ACID (2300 MW) BEET BUTYLOCTYL SALICYLATE GLYCERIN SQUALANE SODIUM CITRATE SODIUM CHLORIDE"
+  ],
+  "active_ingredient": [
+    "Active ingredient : Zinc Oxide 19.0% Purpose : Sunscreen"
+  ],
+  "purpose": [
+    "Uses Helps prevent sunburn"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "indications_and_usage": [
+    "Stop use and ask a doctor if rash occurs."
+  ],
+  "warnings": [
+    "Warning: For External Use only. Do not use on broken or damaged skin. When using this product keep out of eyes. Rinse with water to remove"
+  ],
+  "dosage_and_administration": [
+    "Directions: Apply liberally 15 minutes before sun or water exposure Immediately after towel drying At least every 2 hours Children under 6 months: Ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Water, Ethylhexyl Olivate, Dimethicone, C9-12 Alkane, Cocoglycerides, Titanium Dioxide, Hydroxyethyl Dimethicone Laurate, Pentylene Glycol, Butyloctyl Salicylate, Glycerin, Jojoba Esters, Pyrus Malus (Apple) Fruit Extract, Polymethylsilsesquioxane, Diheptyl Succinate, Disteardimonium Hectorite, Squalane, Caprylic/Capric Triglyceride, Phenoxyethanol, Sodium Chloride, Polyhydroxystearic Acid, Trihydroxystearin, Triethyl Citrate, Iron Oxide (CI 77492), Hydroxyacetophenone, Dipotassium Glycyrrhizate, Fructooligosaccharides, Sodium Citrate, Beta Vulgaris (Beet) Root Extract, Iron Oxides (CI 77491), Tetrasodium Glutamate Diacetate, Iron Oxides (CI 77499), Sodium Dehydroacetate, Persea Gratissima (Avocado) Oil, Capryloyl Glycerin/Sebacic Acid Copolymer, Hydrogenated Vegetable Oil, Glycine Soja (Soybean) Seed Extract, Tocopherol"
+  ],
+  "package_label_principal_display_panel": [
+    "Wonderscreen Tinted Broad Spectrum SPF 30 50 G Wonder screen Shade 1"
+  ],
+  "set_id": "07104cbf-0446-a053-e063-6394a90ab41f",
+  "id": "401d2f24-cecb-c81b-e063-6394a90a11df",
+  "effective_time": "20251001",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Wonderscreen Broad Spectrum SPF 30 Shade 1"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Dime Beauty Co, LLC"
+    ],
+    "product_ndc": [
+      "82870-007"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "401d2f24-cecb-c81b-e063-6394a90a11df"
+    ],
+    "spl_set_id": [
+      "07104cbf-0446-a053-e063-6394a90ab41f"
+    ],
+    "package_ndc": [
+      "82870-007-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

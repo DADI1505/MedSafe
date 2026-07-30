@@ -1,0 +1,101 @@
+{
+  "spl_product_data_elements": [
+    "Stimulant Laxative Enteric Coated Bisacodyl SODIUM ALGINATE SODIUM BENZOATE SODIUM BICARBONATE STEARIC ACID SUCROSE TALC TITANIUM DIOXIDE TRIACETIN TRIETHYL CITRATE ACACIA AMMONIA CALCIUM CARBONATE CARNAUBA WAX STARCH, CORN D&C YELLOW NO. 10 FD&C YELLOW NO. 6 HYPROMELLOSES FERROSOFERRIC OXIDE LACTOSE MONOHYDRATE MAGNESIUM STEARATE METHYLPARABEN POLYDEXTROSE POLYETHYLENE GLYCOL, UNSPECIFIED POLYVINYL ACETATE PHTHALATE PROPYLPARABEN PROPYLENE GLYCOL POVIDONE SHELLAC DIMETHICONE SILICON DIOXIDE BISACODYL DEACETYLBISACODYL 5"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each tablet) Bisacodyl 5 mg"
+  ],
+  "purpose": [
+    "Purpose Stimulant Laxative"
+  ],
+  "indications_and_usage": [
+    "Uses for relief of occasional constipation and irregularity this product generally produces bowel movement in 6 to 12 hours"
+  ],
+  "warnings": [
+    "Warnings Do not use if you cannot swallow without chewing Ask a doctor before use if you have • stomach pain, nausea, vomiting • noticed a sudden change in bowel habits that lasts more than 2 weeks When using this product • do not chew or crush tablet(s) • do not use within 1 hour after taking an antacid or milk • it may cause stomach discomfort, faintness and cramps Stop use and ask a doctor if • you have rectal bleeding or no bowel movement after using this product. These could be signs of a serious condition. • you need to use a laxative for more than 1 week If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions take with a glass of water do not take more than directed adults and children 12 years and older: take 1 to 3 tablets in a single daily dose children 12 and under: ask a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information store at controlled room temperature 20°-25°C (68°-77°F); excursions permitted between 15º-30ºC (59º-86ºF) avoid excessive humidity package not child resistant"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients acacia, ammonium hydroxide, calcium carbonate, corn starch, D&C yellow #10 lake, FD&C yellow #6 lake, hypromellose, iron oxide black, lactose, magnesium stearate, methylparaben, PEG, polydextrose, polyvinyl acetate phthalate, propylparaben, propylene glycol, povidone, shellac, simethicone, silica, sodium alginate, sodium benzoate, sodium bicarbonate, stearic acid, sucrose, talc, titanium dioxide, triacetin, triethyl citrate, wax."
+  ],
+  "questions": [
+    "Questions or comments? 1-203-861-0005"
+  ],
+  "spl_unclassified_section": [
+    "Manufactured for: SDA Laboratories, Inc. New York, NY"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL label"
+  ],
+  "set_id": "017bc27d-a951-48a4-8f65-90fcbe6dbea0",
+  "id": "353f5482-02fd-f0ab-e063-6294a90a88ac",
+  "effective_time": "20250516",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Stimulant Laxative Enteric Coated"
+    ],
+    "generic_name": [
+      "BISACODYL"
+    ],
+    "manufacturer_name": [
+      "SDA Laboratories, Inc."
+    ],
+    "product_ndc": [
+      "66424-002"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BISACODYL"
+    ],
+    "rxcui": [
+      "308753"
+    ],
+    "spl_id": [
+      "353f5482-02fd-f0ab-e063-6294a90a88ac"
+    ],
+    "spl_set_id": [
+      "017bc27d-a951-48a4-8f65-90fcbe6dbea0"
+    ],
+    "package_ndc": [
+      "66424-002-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0646425000081"
+    ],
+    "nui": [
+      "N0000009371",
+      "N0000175812",
+      "N0000009871"
+    ],
+    "pharm_class_pe": [
+      "Increased Large Intestinal Motility [PE]",
+      "Stimulation Large Intestine Fluid/Electrolyte Secretion [PE]"
+    ],
+    "pharm_class_epc": [
+      "Stimulant Laxative [EPC]"
+    ],
+    "unii": [
+      "10X0709Y6I"
+    ]
+  }
+}

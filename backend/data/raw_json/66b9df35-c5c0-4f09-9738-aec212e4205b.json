@@ -1,0 +1,106 @@
+{
+  "spl_product_data_elements": [
+    "Rolaids Advanced Antacid Anti-gas Wild Berry Calcium carbonate and Magnesium hydroxide and Simethicone CALCIUM CARBONATE CALCIUM CATION MAGNESIUM HYDROXIDE MAGNESIUM CATION DIMETHICONE DIMETHICONE STARCH, CORN DEXTROSE FD&C BLUE NO. 1 FD&C RED NO. 40 MAGNESIUM STEARATE MALTODEXTRIN PROPYLENE GLYCOL ALGINATE SILICON DIOXIDE STEARIC ACID SUCROSE TRIACETIN assorted colors assorted colors assorted colors assorted colors assorted flavors assorted flavors assorted flavors assorted flavors assorted flavors R;A"
+  ],
+  "spl_unclassified_section": [
+    "Rolaids Advanced Antacid plus Anti-Gas Chewable Tablets ( Wild Berry ) Drug Facts",
+    "Other information ■ each tablet contains: calcium 400 mg, magnesium 85 mg ■ store at room temperature 20°-25°C (68°-77°F)."
+  ],
+  "active_ingredient": [
+    "Active ingredients (in each tablet) Calcium carbonate USP 1000 mg Magnesium hydroxide USP 200 mg Simethicone USP 40 mg"
+  ],
+  "purpose": [
+    "Purposes Antacid Antacid Antigas"
+  ],
+  "indications_and_usage": [
+    "Uses for the relief of: ■ heartburn ■ sour stomach ■ acid indigestion ■ upset stomach associated with these symptoms ■ pressure and bloating, commonly referred to as gas, associated with these symptoms"
+  ],
+  "warnings": [
+    "Warnings Ask a doctor or pharmacist before use if you are now taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product ■ do not take more than 7 tablets in a 24-hour period ■ do not use the maximum dosage for more than 2 weeks Keep out of reach of children."
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are now taking a prescription drug. Antacids may interact with certain prescription drugs."
+  ],
+  "when_using": [
+    "When using this product ■ do not take more than 7 tablets in a 24-hour period ■ do not use the maximum dosage for more than 2 weeks"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions ■ chew 2-3 tablets as symptoms occur, or as directed by a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients corn starch, dextrose, FD&C blue no. 1 lake, FD&C red no. 40 lake, magnesium stearate, maltodextrin, natural and artificial flavor, propylene glycol alginate, silicon dioxide, stearic acid, sucrose, triacetin"
+  ],
+  "questions": [
+    "Questions ? Call 1- 866-844-2798 or visit www. ROLAIDS .com Keep carton as it contains important product information."
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL MULTI-SYMPTOM Rolaids ® ADVANCED ANTACID + ANTI-GAS 10 Chewable Tablets Wild Berry Rolaids® ADVANCED ANTACID + ANTI-GAS 10 Chewable Tablets Wild Berry",
+    "PRINCIPAL DISPLAY PANEL MULTI-SYMPTOM Rolaids ® ADVANCED ANTACID + ANTI-GAS 60 Chewable Tablets Wild Berry MULTI-SYMPTOM Rolaids® ADVANCED ANTACID + ANTI-GAS 60 Chewable Tablets Wild Berry"
+  ],
+  "set_id": "07649a83-0123-4bb5-b130-3067c7d052c5",
+  "id": "66b9df35-c5c0-4f09-9738-aec212e4205b",
+  "effective_time": "20260114",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M001"
+    ],
+    "brand_name": [
+      "Rolaids Advanced Antacid Anti-gas Wild Berry"
+    ],
+    "generic_name": [
+      "CALCIUM CARBONATE AND MAGNESIUM HYDROXIDE AND SIMETHICONE"
+    ],
+    "manufacturer_name": [
+      "Chattem, Inc."
+    ],
+    "product_ndc": [
+      "41167-1041"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CALCIUM CARBONATE",
+      "MAGNESIUM HYDROXIDE",
+      "DIMETHICONE"
+    ],
+    "rxcui": [
+      "1649510"
+    ],
+    "spl_id": [
+      "66b9df35-c5c0-4f09-9738-aec212e4205b"
+    ],
+    "spl_set_id": [
+      "07649a83-0123-4bb5-b130-3067c7d052c5"
+    ],
+    "package_ndc": [
+      "41167-1041-1",
+      "41167-1041-2",
+      "41167-1041-0"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0041167104057"
+    ],
+    "nui": [
+      "N0000010282"
+    ],
+    "pharm_class_pe": [
+      "Skin Barrier Activity [PE]"
+    ],
+    "unii": [
+      "H0G9379FGK",
+      "NBZ3QY004S",
+      "92RU3N3Y1O"
+    ]
+  }
+}

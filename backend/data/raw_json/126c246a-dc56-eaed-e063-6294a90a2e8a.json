@@ -1,0 +1,78 @@
+{
+  "spl_product_data_elements": [
+    "Instant Hand Sanitizer Ethyl Alcohol WATER GLYCERIN ALOE VERA LEAF .ALPHA.-TOCOPHEROL ACETATE FD&C BLUE NO. 1 FD&C YELLOW NO. 5 ALCOHOL ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Purpose Ethyl Alcohol 62.0%......................Antimicrobial"
+  ],
+  "purpose": [
+    "XtraCare Instant Hand Sanitizer - Original Kills 99.9% of Germs with Moisturizers & Vitamin E"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "indications_and_usage": [
+    "USE: hand sanitizer to help reduce bacteria on the skin that may cause disease"
+  ],
+  "warnings": [
+    "Warnings: for external use only. Flammable. Keep away from heat and flame. Do not use in the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation and redness develop and persist for more than 72 hours."
+  ],
+  "dosage_and_administration": [
+    "Directions: wet hands thoroughly with product briskly rub hands together until dry children under 6 years of age should be supervised by an adult when using."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients: carbomer, glycerin, propylene glycol, tocopheryl acetate (vitamin E), triethanolamine, water, fragrance."
+  ],
+  "package_label_principal_display_panel": [
+    "bottle label package label"
+  ],
+  "set_id": "07b163e4-8f67-44e7-b5ef-f237023080e0",
+  "id": "126c246a-dc56-eaed-e063-6294a90a2e8a",
+  "effective_time": "20240228",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Instant Hand Sanitizer"
+    ],
+    "generic_name": [
+      "ETHYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Rejoice International, Inc."
+    ],
+    "product_ndc": [
+      "57337-018"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "spl_id": [
+      "126c246a-dc56-eaed-e063-6294a90a2e8a"
+    ],
+    "spl_set_id": [
+      "07b163e4-8f67-44e7-b5ef-f237023080e0"
+    ],
+    "package_ndc": [
+      "57337-018-01",
+      "57337-018-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0819869054143"
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

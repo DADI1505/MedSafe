@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "DK12 Shower Gel Creamy Benzalkonium Chloride 0.13% ALLANTOIN MALTOSE GLYCERETH-26 COCAMIDOPROPYL BETAINE LAURAMIDE BENZALKONIUM CHLORIDE BENZALKONIUM DECYL GLUCOSIDE COCAMIDOPROPYL HYDROXYSULTAINE HYDROLYZED JOJOBA ESTERS (ACID FORM) DISODIUM LAURYL SULFOSUCCINATE SODIUM LAURYL SARCOSINATE SODIUM CHLORIDE LAURYL GLUCOSIDE UREA TREHALOSE LAURETH-4 COCAMIDE METHYLCHLOROISOTHIAZOLINONE SODIUM LAURYL SULFATE WATER GLYCERIN METHYLISOTHIAZOLINONE ANHYDROUS CITRIC ACID GLYCOL DISTEARATE PHENOXYETHANOL HYALURONATE SODIUM EDETATE SODIUM PROPYLENE GLYCOL DISODIUM COCOAMPHODIACETATE BETULA LENTA BARK POLYSORBATE 80 BUTYLATED HYDROXYTOLUENE PENTYLENE GLYCOL SODIUM HYDROXIDE SODIUM LACTATE SODIUM PIDOLATE ANHYDROUS DEXTROSE DISODIUM LAURETH SULFOSUCCINATE FRUCTOSE LINOLEIC ACID OLEIC ACID CAPRYLYL GLYCOL ISONONYL ISONONANOATE TRIDECETH-9 VETIVERIA ZIZANIOIDES ROOT"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Benzalkonium Chloride 0.13%"
+  ],
+  "purpose": [
+    "Purpose Antibacterial"
+  ],
+  "indications_and_usage": [
+    "Uses For washing to decrease bacteria on the skin"
+  ],
+  "warnings": [
+    "Warnings For External Use only. When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Stop use and ask a doctor irritation or redness develops - condition persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "when_using": [
+    "When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor irritation or redness develops - condition persists for more than 72 hours."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "dosage_and_administration": [
+    "Directions Apply to a body sponge on damp skin, rub into a rich lather all over the body, then rinse thoroughly."
+  ],
+  "other_safety_information": [
+    "Other Information Store between 15-30C (59-86F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Aqua, Sodium Lauryl Ether Sulfate, Cocamidopropyl B e t a i n e , L a u r y l G l u c o s i d e , G l y c o l Distearate/Laureth-4/Cocamidopropyl Betaine, Decyl Glucoside (and) Cocamidopropyl Hydroxysultaine (and) Cocamidopropyl Betaine (and) Cocamide MIPA (and) Disodium Laureth Sulfosuccinate (and) Disodium Lauryl Sulfosuccinate, Cocamidopropyl Betaine (and) Lauramide MIPA, Propylene Glycol, Disodium Cocoamphodiacetate, Sodium Lauryl Sarcosinate, Sodium Chloride, Jojoba Wax PEG-120 Esters, Aqua/Pentylene G l y c o l / G l y c e r i n / F r u c t o s e / U r e a / C i t r i c Acid/Sodium Hydroxide/Maltose/Sodium PCA/Sodium Chloride/Sodium Lactate/Trehalose/Allantoin/Sodium Hyaluronate/Glucose, Trideceth-9/PEG-5 Isononanoate/Aqua, Glycereth-26, Fragrance (Parfum), Citric Acid, Methylcloroisothiazolinone/Methylisothiazolinone, Tetrasodium EDTA, Aqua/Betula Lenta Bark Oil/Vetiveria Zizanoides Root Oil/Linoleic Acid/Oleic Acid/Polysorbate 80/ Phenoxyethanol/Caprylyl Glycol/BHT."
+  ],
+  "package_label_principal_display_panel": [
+    "DK12 Shower Gel Creamy label label"
+  ],
+  "set_id": "05e36111-ed4e-12de-e063-6294a90af639",
+  "id": "284c7bd3-62b0-0775-e063-6394a90a560f",
+  "effective_time": "20241202",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "DK12 Shower Gel Creamy"
+    ],
+    "generic_name": [
+      "BENZALKONIUM CHLORIDE 0.13%"
+    ],
+    "manufacturer_name": [
+      "Industria La Popular, S.A."
+    ],
+    "product_ndc": [
+      "62476-010"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "rxcui": [
+      "1046593"
+    ],
+    "spl_id": [
+      "284c7bd3-62b0-0775-e063-6394a90a560f"
+    ],
+    "spl_set_id": [
+      "05e36111-ed4e-12de-e063-6294a90af639"
+    ],
+    "package_ndc": [
+      "62476-010-16"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "F5UM2KM3W7"
+    ]
+  }
+}

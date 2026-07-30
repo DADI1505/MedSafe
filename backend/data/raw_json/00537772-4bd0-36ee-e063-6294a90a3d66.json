@@ -1,0 +1,126 @@
+{
+  "spl_product_data_elements": [
+    "Ammonium Bromatum Ammonium Bromatum SUCROSE AMMONIUM BROMIDE BROMIDE ION Ammonium Bromatum Ammonium Bromatum SUCROSE AMMONIUM BROMIDE BROMIDE ION Ammonium Bromatum Ammonium Bromatum AMMONIUM BROMIDE BROMIDE ION SUCROSE Ammonium Bromatum Ammonium Bromatum AMMONIUM BROMIDE BROMIDE ION SUCROSE Ammonium Bromatum Ammonium Bromatum SUCROSE AMMONIUM BROMIDE BROMIDE ION Ammonium Bromatum Ammonium Bromatum AMMONIUM BROMIDE BROMIDE ION SUCROSE Ammonium Bromatum Ammonium Bromatum AMMONIUM BROMIDE BROMIDE ION SUCROSE Ammonium Bromatum Ammonium Bromatum SUCROSE AMMONIUM BROMIDE BROMIDE ION"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Ammonium Bromatum 6C 5g Ammonium Bromatum 6C 30g Ammonium Bromatum 6C 100g Ammonium Bromatum 12C 5g Ammonium Bromatum 12C 30g Ammonium Bromatum 12C 100g Ammonium Bromatum 30C 1g Ammonium Bromatum 30C 5g Ammonium Bromatum 30C 30g Ammonium Bromatum 30C 100g Ammonium Bromatum 100C 1g Ammonium Bromatum 100C 5g Ammonium Bromatum 100C 30g Ammonium Bromatum 100C 100g Ammonium Bromatum 200C 1g Ammonium Bromatum 200C 5g Ammonium Bromatum 200C 30g Ammonium Bromatum 200C 100g Ammonium Bromatum 500C 1g Ammonium Bromatum 500C 5g Ammonium Bromatum 500C 30g Ammonium Bromatum 500C 100g Ammonium Bromatum 1M 1g Ammonium Bromatum 1M 5g Ammonium Bromatum 1M 30g Ammonium Bromatum 1M 100g Ammonium Bromatum 10M 1g Ammonium Bromatum 10M 5g Ammonium Bromatum 10M 30g Ammonium Bromatum 10M 100g"
+  ],
+  "set_id": "00537772-4bcf-36ee-e063-6294a90a3d66",
+  "id": "00537772-4bd0-36ee-e063-6294a90a3d66",
+  "effective_time": "20230712",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Ammonium Bromatum"
+    ],
+    "generic_name": [
+      "AMMONIUM BROMATUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3600",
+      "37662-3606",
+      "37662-3607",
+      "37662-3601",
+      "37662-3603",
+      "37662-3605",
+      "37662-3602",
+      "37662-3604"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "AMMONIUM BROMIDE"
+    ],
+    "spl_id": [
+      "00537772-4bd0-36ee-e063-6294a90a3d66"
+    ],
+    "spl_set_id": [
+      "00537772-4bcf-36ee-e063-6294a90a3d66"
+    ],
+    "package_ndc": [
+      "37662-3606-1",
+      "37662-3606-2",
+      "37662-3606-3",
+      "37662-3606-4",
+      "37662-3607-1",
+      "37662-3607-2",
+      "37662-3607-3",
+      "37662-3607-4",
+      "37662-3601-1",
+      "37662-3601-2",
+      "37662-3601-3",
+      "37662-3603-1",
+      "37662-3603-2",
+      "37662-3603-3",
+      "37662-3603-4",
+      "37662-3605-1",
+      "37662-3605-2",
+      "37662-3605-3",
+      "37662-3605-4",
+      "37662-3600-1",
+      "37662-3600-2",
+      "37662-3600-3",
+      "37662-3602-1",
+      "37662-3602-2",
+      "37662-3602-3",
+      "37662-3602-4",
+      "37662-3604-1",
+      "37662-3604-2",
+      "37662-3604-3",
+      "37662-3604-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "R0JB3224WS"
+    ]
+  }
+}

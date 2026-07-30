@@ -1,0 +1,105 @@
+{
+  "spl_product_data_elements": [
+    "Stress Away Anxiety Relief Aconitum nap, Alfalfa, Avena, Chamomilla, Gelsemium, Humulus Iupulus, Ignatia, Kali ars, Kali phos, Muriaticum ac, Nat phos, Passiflora, Phosphorus, Staphysagria, Stramonium AVENA SATIVA LEAF AVENA SATIVA LEAF MATRICARIA CHAMOMILLA FLOWERING TOP OIL MATRICARIA CHAMOMILLA FLOWERING TOP OIL SODIUM PHOSPHATE, DIBASIC PHOSPHATE ION ALFALFA ALFALFA POTASSIUM ARSENITE ANHYDROUS ARSENITE ION DATURA STRAMONIUM DATURA STRAMONIUM ALCOHOL WATER PASSIFLORA INCARNATA FLOWERING TOP PASSIFLORA INCARNATA FLOWERING TOP ACONITUM NAPELLUS ACONITUM NAPELLUS HYDROCHLORIC ACID HYDROCHLORIC ACID PHOSPHORUS PHOSPHORUS GLYCERIN STRYCHNOS IGNATII WHOLE STRYCHNOS IGNATII WHOLE GELSEMIUM SEMPERVIRENS ROOT GELSEMIUM SEMPERVIRENS ROOT DELPHINIUM STAPHISAGRIA SEED DELPHINIUM STAPHISAGRIA SEED POTASSIUM PHOSPHATE, DIBASIC PHOSPHATE ION HUMULUS LUPULUS WHOLE HUMULUS LUPULUS WHOLE"
+  ],
+  "active_ingredient": [
+    "HPUS Active Ingredients: Equal volumes of each ingredient in 10X, 15X, 30X potencies: Aconitum nap, Alfalfa, Avena, Chamomilla, Gelsemium, Humulus Iupulus, Ignatia, Kali ars, Kali phos, Muriaticum ac, Nat phos, Passiflora, Phosphorus, Staphysagria, Stramonium. The letters HPUS indicate that the components in this product are officially monographed in the Homeopathic Pharmacopoeia of the United States."
+  ],
+  "indications_and_usage": [
+    "Uses* Uses*: Temporarily relieves minor anxiousness and nervousness. *Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "Warnings Warnings: If symptoms persist or worsen, consult a healthcare professional. If pregnant or breastfeeding, ask a health professional before use. Keep this and all medication out of reach of children. In case of overdose, get medical help or contact Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Directions: Initially, depress pump until primed. Hold close to mouth and spray directly into mouth. Adults and children 12+: 3 sprays, 3 times per day. Children 2-12: 2 sprays, 3 times per day. Use additionally as needed, up to 6 times per day."
+  ],
+  "other_safety_information": [
+    "Contains no artificial flavors or colorants. No gluten added. Tamper resistant for your protection. Use only if safety seal is intact."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Inactive Ingredients: Ethyl Alcohol, Glycerin, Purified Water."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep this and all medication out of reach of children."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a health professional before use."
+  ],
+  "purpose": [
+    "Temporarily relieves minor anxiousness & nervousness."
+  ],
+  "package_label_principal_display_panel": [
+    "NR Stress Away Anxiety Relief"
+  ],
+  "set_id": "05e04129-e7c1-4e11-e063-6394a90a09ca",
+  "id": "2ab11395-d191-43c0-e063-6294a90a15e6",
+  "effective_time": "20250101",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "Stress Away Anxiety Relief"
+    ],
+    "generic_name": [
+      "ACONITUM NAP, ALFALFA, AVENA, CHAMOMILLA, GELSEMIUM, HUMULUS IUPULUS, IGNATIA, KALI ARS, KALI PHOS, MURIATICUM AC, NAT PHOS, PASSIFLORA, PHOSPHORUS, STAPHYSAGRIA, STRAMONIUM"
+    ],
+    "manufacturer_name": [
+      "Silver Star Brands"
+    ],
+    "product_ndc": [
+      "68703-371"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "AVENA SATIVA LEAF",
+      "MATRICARIA CHAMOMILLA FLOWERING TOP OIL",
+      "SODIUM PHOSPHATE, DIBASIC",
+      "ALFALFA",
+      "POTASSIUM ARSENITE ANHYDROUS",
+      "DATURA STRAMONIUM",
+      "PASSIFLORA INCARNATA FLOWERING TOP",
+      "ACONITUM NAPELLUS",
+      "HYDROCHLORIC ACID",
+      "PHOSPHORUS",
+      "STRYCHNOS IGNATII WHOLE",
+      "GELSEMIUM SEMPERVIRENS ROOT",
+      "DELPHINIUM STAPHISAGRIA SEED",
+      "POTASSIUM PHOSPHATE, DIBASIC",
+      "HUMULUS LUPULUS WHOLE"
+    ],
+    "spl_id": [
+      "2ab11395-d191-43c0-e063-6294a90a15e6"
+    ],
+    "spl_set_id": [
+      "05e04129-e7c1-4e11-e063-6394a90a09ca"
+    ],
+    "package_ndc": [
+      "68703-371-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "206PI19V7R",
+      "SA8AR2W4ER",
+      "GR686LBA74",
+      "DJO934BRBD",
+      "BM2U42PAKI",
+      "G6W4F0V8Z3",
+      "CLF5YFS11O",
+      "U0NQ8555JD",
+      "QTT17582CB",
+      "27YLU75U4W",
+      "6YSJ329777",
+      "639KR60Q1Q",
+      "00543AP1JV",
+      "CI71S98N1Z",
+      "912A6Q1N4A"
+    ]
+  }
+}

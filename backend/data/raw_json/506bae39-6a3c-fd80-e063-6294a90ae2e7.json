@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Eagle Brand Muscle Rub menthol, methyl salicylate CAMPHOR (SYNTHETIC) THYMOL MENTHOL MENTHOL ALCOHOL METHYL SALICYLATE SALICYLIC ACID"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Menthol 14.5% Methyl Salicylate 30%"
+  ],
+  "purpose": [
+    "Purpose External Analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses For temporary relief of minor aches and pains of muscles and joints associated with ■ simple backache ■ arthritis ■ strains ■ bruises ■ sprains."
+  ],
+  "warnings": [
+    "Warnings For external use only When using this product Avoid getting into the eyes or mucous membranes. Do not apply to wounds or damaged skin. Do not bandage tightly. Do not use otherwise than as directed. Stop use and ask doctor if Condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days, discontinue use of this product and consult a doctor. If pregnant or breast-feeding Ask a health professional before use. Keep out of reach of children If swallowed, get medical help medical help or contact a Poison Control Centre right away."
+  ],
+  "when_using": [
+    "When using this product Avoid getting into the eyes or mucous membranes. Do not apply to wounds or damaged skin. Do not bandage tightly. Do not use otherwise than as directed.",
+    "Stop use and ask doctor if Condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days, discontinue use of this product and consult a doctor."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding Ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed, get medical help medical help or contact a Poison Control Centre right away."
+  ],
+  "dosage_and_administration": [
+    "Directions ■ adults and children 12 years of age and older: apply to affected area not more than 3 to 4 times daily. ■ children under 12 years of age: do not use, consult a doctor."
+  ],
+  "other_safety_information": [
+    "Other information Store below 86 o F (30 o C)."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients alcohol, camphor, fragrance, thymol"
+  ],
+  "questions": [
+    "Questions? If there are any questions or to report serious side effects, call 1-800-777-6717 or 1-800-645-0769."
+  ],
+  "package_label_principal_display_panel": [
+    "Package Label 85ml NDC: 43405-011-85 85ml Unit Box"
+  ],
+  "set_id": "06cb845c-cc53-1f1d-e063-6394a90a8c01",
+  "id": "506bae39-6a3c-fd80-e063-6294a90ae2e7",
+  "effective_time": "20260427",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Eagle Brand Muscle Rub"
+    ],
+    "generic_name": [
+      "MENTHOL, METHYL SALICYLATE"
+    ],
+    "manufacturer_name": [
+      "Borden Company (Private) Limited"
+    ],
+    "product_ndc": [
+      "43405-011"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MENTHOL",
+      "METHYL SALICYLATE"
+    ],
+    "rxcui": [
+      "1654726"
+    ],
+    "spl_id": [
+      "506bae39-6a3c-fd80-e063-6294a90ae2e7"
+    ],
+    "spl_set_id": [
+      "06cb845c-cc53-1f1d-e063-6394a90a8c01"
+    ],
+    "package_ndc": [
+      "43405-011-85"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "L7T10EIP3A",
+      "LAV5U5022Y"
+    ]
+  }
+}

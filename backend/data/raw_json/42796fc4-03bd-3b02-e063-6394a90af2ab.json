@@ -1,0 +1,77 @@
+{
+  "spl_product_data_elements": [
+    "Iris and Romeo Weekend Skin Zinc Oxide ASCORBYL GLUCOSIDE HYDROLYZED JOJOBA ESTERS (ACID FORM) DIMETHICONE METHYLPROPANEDIOL STEARALKONIUM HECTORITE SILICON DIOXIDE POLYGLYCERYL-3 DIISOSTEARATE CAPRYLYL GLYCOL ALLANTOIN LECITHIN, SOYBEAN PHENYLPROPANOL POLYGLYCERYL-4 DIISOSTEARATE/POLYHYDROXYSTEARATE/SEBACATE FERRIC OXIDE RED FERRIC OXIDE YELLOW FERROSOFERRIC OXIDE ALKYL (C12-15) BENZOATE BUTYLOCTYL SALICYLATE .ALPHA.-BISABOLOL, (+)- ZINC OXIDE ZINC OXIDE SODIUM HYDROXIDE WATER NIACINAMIDE TETRASODIUM GLUTAMATE DIACETATE SODIUM CHLORIDE POLYGLYCERYL-2 DIPOLYHYDROXYSTEARATE TITANIUM DIOXIDE MICA TOCOPHEROL STANNIC OXIDE GLYCERIN"
+  ],
+  "dosage_and_administration": [
+    "Iris and Romeo Weekend Skin Dosage and Administration"
+  ],
+  "inactive_ingredient": [
+    "Iris and Romeo Weekend Skin Inactive ingredients"
+  ],
+  "indications_and_usage": [
+    "Iris and Romeo Weekend Skin Indications & usage"
+  ],
+  "active_ingredient": [
+    "Iris and Romeo Weekend Skin Active Ingredients"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Iris and Romeo Weekend Skin keep out of reach of children"
+  ],
+  "purpose": [
+    "Iris and Romeo Weekend Skin purpose"
+  ],
+  "warnings": [
+    "Iris and Romeo Weekend Skin Warning Label"
+  ],
+  "package_label_principal_display_panel": [
+    "Iris and Romeo PDP"
+  ],
+  "set_id": "0828a345-0178-1503-e063-6394a90a7d24",
+  "id": "42796fc4-03bd-3b02-e063-6394a90af2ab",
+  "effective_time": "20251031",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Iris and Romeo Weekend Skin"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Iris and Romeo"
+    ],
+    "product_ndc": [
+      "83247-1321"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "42796fc4-03bd-3b02-e063-6394a90af2ab"
+    ],
+    "spl_set_id": [
+      "0828a345-0178-1503-e063-6394a90a7d24"
+    ],
+    "package_ndc": [
+      "83247-1321-1",
+      "83247-1321-2",
+      "83247-1321-3",
+      "83247-1321-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

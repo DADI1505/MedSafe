@@ -1,0 +1,109 @@
+{
+  "spl_product_data_elements": [
+    "GoodSense Eye Drops Advanced Relief Moisturizer dextran, polyethylene glycol 400, povidone, tetrahydrozoline HCl BENZALKONIUM CHLORIDE BORIC ACID SODIUM BORATE POLYETHYLENE GLYCOL 400 POLYETHYLENE GLYCOL 400 TETRAHYDROZOLINE HYDROCHLORIDE TETRAHYDROZOLINE EDETATE DISODIUM EDETIC ACID POVIDONE, UNSPECIFIED POVIDONE WATER SODIUM CHLORIDE DEXTRAN 70 DEXTRAN 70"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Dextran 70.....0.1% Polyethylene glycol 400.....1% Povidone.....1% tetrahydrozoline HCl.....0.05%"
+  ],
+  "purpose": [
+    "Purposes Dextran 70.....Lubricant Polyethylene glycol 400.....Lubricant Povidone.....Lubricant Tetrahydrozoline HCl .....Redness reliever"
+  ],
+  "indications_and_usage": [
+    "Uses • relieves redness of the eye due to minor eye irritations • as a lubricant to prevent further irritation or to relieve dryness of the eye"
+  ],
+  "warnings": [
+    "Warnings For external use only Ask a doctor before use if you have narrow angle glaucoma Stop use and ask a doctor if you experience • eye pain • changes in vision • continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours When using this product • pupils may become enlarged temporarily • to avoid contamination, do not touch tip of container to any surface. Replace cap after using. • if solution changed color or becomes cloudy, do not use • overuse may produce increased redness of the eye • remove contact lens before using If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison control Center (1-800-111-1222) right away."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have narrow angle glaucoma"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if you experience • eye pain • changes in vision • continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours"
+  ],
+  "when_using": [
+    "When using this product • pupils may become enlarged temporarily • to avoid contamination, do not touch tip of container to any surface. Replace cap after using. • if solution changed color or becomes cloudy, do not use • overuse may produce increased redness of the eye • remove contact lens before using"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding , ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison control Center (1-800-111-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Instill 1 to 2 drops in the affected eye(s) up to 4 times daily. Relabeled By: Preferred Pharmaceuticals Inc. NDC 68788-8635-1"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients benzalkonium chloride, boric acid, edetate disodium, purified water, sodium borate, and sodium chloride"
+  ],
+  "package_label_principal_display_panel": [
+    "Eye Drops Advanced Relief Moisturizer"
+  ],
+  "set_id": "011473a8-26d5-4661-b3c0-745f9b6aa1d8",
+  "id": "5a31753e-3d74-4282-bd96-99342ce5287d",
+  "effective_time": "20260429",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M018"
+    ],
+    "brand_name": [
+      "GoodSense Eye Drops Advanced Relief Moisturizer"
+    ],
+    "generic_name": [
+      "DEXTRAN, POLYETHYLENE GLYCOL 400, POVIDONE, TETRAHYDROZOLINE HCL"
+    ],
+    "manufacturer_name": [
+      "Preferred PHarmaceuticals Inc."
+    ],
+    "product_ndc": [
+      "68788-8635"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "POLYETHYLENE GLYCOL 400",
+      "TETRAHYDROZOLINE HYDROCHLORIDE",
+      "POVIDONE, UNSPECIFIED",
+      "DEXTRAN 70"
+    ],
+    "rxcui": [
+      "996202"
+    ],
+    "spl_id": [
+      "5a31753e-3d74-4282-bd96-99342ce5287d"
+    ],
+    "spl_set_id": [
+      "011473a8-26d5-4661-b3c0-745f9b6aa1d8"
+    ],
+    "package_ndc": [
+      "68788-8635-1"
+    ],
+    "original_packager_product_ndc": [
+      "50804-130"
+    ],
+    "nui": [
+      "N0000184175",
+      "N0000009361",
+      "N0000010288"
+    ],
+    "pharm_class_epc": [
+      "Plasma Volume Expander [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Intravascular Volume [PE]"
+    ],
+    "pharm_class_moa": [
+      "Osmotic Activity [MoA]"
+    ],
+    "unii": [
+      "B697894SGQ",
+      "0YZT43HS7D",
+      "FZ989GH94E",
+      "7SA290YK68"
+    ]
+  }
+}

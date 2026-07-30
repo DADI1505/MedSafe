@@ -1,0 +1,102 @@
+{
+  "spl_product_data_elements": [
+    "Childrens Allergy Relief Fexofenadine HCL FEXOFENADINE HYDROCHLORIDE FEXOFENADINE SILICON DIOXIDE LIGHT MINERAL OIL HYPROMELLOSES FERRIC OXIDE RED FERRIC OXIDE YELLOW MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL, UNSPECIFIED POLYSORBATE 80 TALC TITANIUM DIOXIDE STARCH, CORN SODIUM STARCH GLYCOLATE TYPE A CORN J;42"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each tablet) Fexofenadine HCL USP 30 mg"
+  ],
+  "purpose": [
+    "Purpose Antihistamine"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat"
+  ],
+  "warnings": [
+    "Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed do not take at the same time as aluminum or magnesium antacids do not take with fruit juices (see Directions) Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "do_not_use": [
+    "Do not use if you have ever had an allergic reaction to this product or any of its ingredients."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have kidney disease. Your doctor should determine if you need a different dose."
+  ],
+  "when_using": [
+    "When using this product do not take more than directed do not take at the same time as aluminum or magnesium antacids do not take with fruit juices (see Directions)"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 12 years of age and over take two 30 mg tablets with water every 12 hours; do not take more than 4 tablets in 24 hours children 6 to under 12 years of age take one tablet with water every 12 hours; do not take more than 2 tablets in 24 hours children under 6 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor"
+  ],
+  "dosage_and_administration_table": [
+    "<table><col/><col/><tbody><tr><td>adults and children 12 years of age and over</td><td>take two 30 mg tablets with water every 12 hours; do not take more than 4 tablets in 24 hours </td></tr><tr><td>children 6 to under 12 years of age </td><td>take one tablet with water every 12 hours; do not take more than 2 tablets in 24 hours </td></tr><tr><td>children under 6 years of age </td><td> do not use</td></tr><tr><td>adults 65 years of age and older </td><td>ask a doctor </td></tr><tr><td>consumers with kidney disease </td><td> ask a doctor</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information Tamper Evident: do not use if printed safety seal under cap is broken or missing store between 20º and 25ºC (68º and 77ºF) protect from excessive moisture"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients colloidal silicon dioxide, hypromellose, light liquid paraffin magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, pregelatinized starch, red iron oxide, sodium starch glycolate, talc, titanium dioxide, yellow iron oxide"
+  ],
+  "questions": [
+    "Questions or comments?"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel *Compare to the active ingredient in Children's Allegra® Allergy 12 Hour Children's Allergy Relief Fexofenadine HCL USP 30 mg Antihistamine 24 Hour Relief of: sneezing runny nose itchy, watery eyes itchy nose or throat Indoor and outdoor allergy relief Non-drowsy Tablets *This product is not manufactured or distributed by Chattem Inc., distributor of Allegra® Allergy 12 hour. TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING.",
+    "Product Label CHILDRENS ALLERGY RELIEF Fexofenadine HCL USP 30 mg"
+  ],
+  "set_id": "052d6191-1d9c-45c9-8c81-d19a977eded5",
+  "id": "ad1479f7-87d7-489b-aff5-e547de25edfe",
+  "effective_time": "20230213",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "ANDA204097"
+    ],
+    "brand_name": [
+      "Childrens Allergy Relief"
+    ],
+    "generic_name": [
+      "FEXOFENADINE HCL"
+    ],
+    "manufacturer_name": [
+      "PLD Acquisitions LLC DBA Avma Pharma Solutions"
+    ],
+    "product_ndc": [
+      "63548-0662"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "FEXOFENADINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "997488"
+    ],
+    "spl_id": [
+      "ad1479f7-87d7-489b-aff5-e547de25edfe"
+    ],
+    "spl_set_id": [
+      "052d6191-1d9c-45c9-8c81-d19a977eded5"
+    ],
+    "package_ndc": [
+      "63548-0662-5"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "2S068B75ZU"
+    ]
+  }
+}

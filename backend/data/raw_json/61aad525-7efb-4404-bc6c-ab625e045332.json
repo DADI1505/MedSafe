@@ -1,0 +1,91 @@
+{
+  "spl_product_data_elements": [
+    "Colgate Max Fresh Advanced Whitening SODIUM FLUORIDE SODIUM FLUORIDE FLUORIDE ION SORBITOL WATER HYDRATED SILICA POLYETHYLENE GLYCOL 600 SODIUM LAURYL SULFATE CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED SODIUM PYROPHOSPHATE COCAMIDOPROPYL BETAINE SACCHARIN SODIUM HYPROMELLOSE, UNSPECIFIED FD&C BLUE NO. 1 TITANIUM DIOXIDE FD&C YELLOW NO. 5 LIGHT BLUE WITH WHITE FILM"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "DIST. BY: COLGATE-PALMOLIVE COMPANY, NEW YORK, NY 10022 USA"
+  ],
+  "active_ingredient": [
+    "Active ingredient Sodium Fluoride 0.24% (0.15% w/v fluoride ion)"
+  ],
+  "purpose": [
+    "Purpose Anticavity"
+  ],
+  "indications_and_usage": [
+    "Use helps protect against cavities"
+  ],
+  "warnings": [
+    "Warnings Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 2 years of age and older brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician children 2 to 6 years use only a pea sized amount and supervise the child's brushing and rinsing (to minimize swallowing) children under 2 years ask a dentist or physician"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"60%\" styleCode=\"Noautorules\"><col width=\"30%\" align=\"left\" valign=\"top\"/><col width=\"70%\" align=\"left\" valign=\"top\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">adults and children 2 years of age and older</td><td>brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">children 2 to 6 years</td><td>use only a pea sized amount and supervise the child&apos;s brushing and rinsing (to minimize swallowing)</td></tr><tr><td styleCode=\"Rrule\">children under 2 years</td><td>ask a dentist or physician</td></tr></tbody></table>"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Sorbitol, Water, Hydrated Silica, PEG-12, Sodium Lauryl Sulfate, Flavor, Cellulose Gum, Tetrasodium Pyrophosphate, Cocamidopropyl Betaine, Sodium Saccharin, Hydroxypropyl Methylcellulose, Blue 1, Titanium Dioxide, Yellow 5."
+  ],
+  "questions": [
+    "Questions? 1-800-468-6502"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 70.8 g Tube Carton Colgate ® Anticavity Fluoride Toothpaste MaxFresh ® 10X LONGER LASTING COOL FOR FRESH BREATH † ADVANCED WHITENING EXTRA WHITENING POWER ‡ Clean Mint NET WT 2.5 OZ (70.8 g) PRINCIPAL DISPLAY PANEL - 70.8 g Tube Carton"
+  ],
+  "set_id": "01c07c25-2748-4d90-9505-094e2c977c9c",
+  "id": "61aad525-7efb-4404-bc6c-ab625e045332",
+  "effective_time": "20260715",
+  "version": "9",
+  "openfda": {
+    "application_number": [
+      "M021"
+    ],
+    "brand_name": [
+      "Colgate Max Fresh Advanced Whitening"
+    ],
+    "generic_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "manufacturer_name": [
+      "Colgate-Palmolive Company"
+    ],
+    "product_ndc": [
+      "35000-899"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "DENTAL"
+    ],
+    "substance_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "rxcui": [
+      "416783"
+    ],
+    "spl_id": [
+      "61aad525-7efb-4404-bc6c-ab625e045332"
+    ],
+    "spl_set_id": [
+      "01c07c25-2748-4d90-9505-094e2c977c9c"
+    ],
+    "package_ndc": [
+      "35000-899-60",
+      "35000-899-95",
+      "35000-899-34",
+      "35000-899-58",
+      "35000-899-78"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8ZYQ1474W7"
+    ]
+  }
+}

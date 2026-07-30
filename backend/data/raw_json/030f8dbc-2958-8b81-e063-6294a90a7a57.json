@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Rubidium Bromatum Rubidium Bromatum RUBIDIUM BROMIDE RUBIDIUM BROMIDE SUCROSE Rubidium Bromatum Rubidium Bromatum RUBIDIUM BROMIDE RUBIDIUM BROMIDE SUCROSE Rubidium Bromatum Rubidium Bromatum RUBIDIUM BROMIDE RUBIDIUM BROMIDE SUCROSE Rubidium Bromatum Rubidium Bromatum RUBIDIUM BROMIDE RUBIDIUM BROMIDE SUCROSE Rubidium Bromatum Rubidium Bromatum RUBIDIUM BROMIDE RUBIDIUM BROMIDE SUCROSE Rubidium Bromatum Rubidium Bromatum RUBIDIUM BROMIDE RUBIDIUM BROMIDE SUCROSE Rubidium Bromatum Rubidium Bromatum RUBIDIUM BROMIDE RUBIDIUM BROMIDE SUCROSE Rubidium Bromatum Rubidium Bromatum RUBIDIUM BROMIDE RUBIDIUM BROMIDE SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Rubidium Bromatum 6C 5g Rubidium Bromatum 6C 30g Rubidium Bromatum 6C 100g Rubidium Bromatum 12C 5g Rubidium Bromatum 12C 30g Rubidium Bromatum 12C 100g Rubidium Bromatum 30C 1g Rubidium Bromatum 30C 5g Rubidium Bromatum 30C 30g Rubidium Bromatum 30C 100g Rubidium Bromatum 100C 1g Rubidium Bromatum 100C 5g Rubidium Bromatum 100C 30g Rubidium Bromatum 100C 100g Rubidium Bromatum 200C 1g Rubidium Bromatum 200C 5g Rubidium Bromatum 200C 30g Rubidium Bromatum 200C 100g Rubidium Bromatum 500C 1g Rubidium Bromatum 500C 5g Rubidium Bromatum 500C 30g Rubidium Bromatum 500C 100g Rubidium Bromatum 1M 1g Rubidium Bromatum 1M 5g Rubidium Bromatum 1M 30g Rubidium Bromatum 1M 100g Rubidium Bromatum LM1 30g"
+  ],
+  "set_id": "030f8dbc-2957-8b81-e063-6294a90a7a57",
+  "id": "030f8dbc-2958-8b81-e063-6294a90a7a57",
+  "effective_time": "20230816",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Rubidium Bromatum"
+    ],
+    "generic_name": [
+      "RUBIDIUM BROMATUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3712",
+      "37662-3715",
+      "37662-3718",
+      "37662-3713",
+      "37662-3719",
+      "37662-3717",
+      "37662-3714",
+      "37662-3716"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "RUBIDIUM BROMIDE"
+    ],
+    "spl_id": [
+      "030f8dbc-2958-8b81-e063-6294a90a7a57"
+    ],
+    "spl_set_id": [
+      "030f8dbc-2957-8b81-e063-6294a90a7a57"
+    ],
+    "package_ndc": [
+      "37662-3715-1",
+      "37662-3715-2",
+      "37662-3715-3",
+      "37662-3715-4",
+      "37662-3718-1",
+      "37662-3718-2",
+      "37662-3718-3",
+      "37662-3718-4",
+      "37662-3713-1",
+      "37662-3713-2",
+      "37662-3713-3",
+      "37662-3719-1",
+      "37662-3717-1",
+      "37662-3717-2",
+      "37662-3717-3",
+      "37662-3717-4",
+      "37662-3714-1",
+      "37662-3714-2",
+      "37662-3714-3",
+      "37662-3714-4",
+      "37662-3712-1",
+      "37662-3712-2",
+      "37662-3712-3",
+      "37662-3716-1",
+      "37662-3716-2",
+      "37662-3716-3",
+      "37662-3716-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "33CM31XVQQ"
+    ]
+  }
+}

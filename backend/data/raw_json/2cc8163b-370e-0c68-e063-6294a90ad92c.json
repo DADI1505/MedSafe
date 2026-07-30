@@ -1,0 +1,74 @@
+{
+  "spl_product_data_elements": [
+    "Camphora Kit Refill CAMPHORA LACTOSE SUCROSE CAMPHOR (NATURAL) CAMPHOR (NATURAL) white"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS CAMPHORA 200C"
+  ],
+  "purpose": [
+    "USES To relieve the symptoms of coldness."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN Keep this and all medicines out of reach of children."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS Indications: CAMPHORA coldness"
+  ],
+  "warnings": [
+    "STOP USE AND ASK DOCTOR If symptoms persist/worsen or if pregnant/nursing, stop use and consult your practitioner."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Adults: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides. Children: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Sucrose/Lactose"
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL WHP-Camphora-kit-200"
+  ],
+  "set_id": "0551d3f7-bb16-2339-e063-6394a90a48ce",
+  "id": "2cc8163b-370e-0c68-e063-6294a90ad92c",
+  "effective_time": "20250128",
+  "version": "5",
+  "openfda": {
+    "brand_name": [
+      "Camphora Kit Refill"
+    ],
+    "generic_name": [
+      "CAMPHORA"
+    ],
+    "manufacturer_name": [
+      "Washington Homeopathic Products"
+    ],
+    "product_ndc": [
+      "71919-799"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CAMPHOR (NATURAL)"
+    ],
+    "spl_id": [
+      "2cc8163b-370e-0c68-e063-6294a90ad92c"
+    ],
+    "spl_set_id": [
+      "0551d3f7-bb16-2339-e063-6394a90a48ce"
+    ],
+    "package_ndc": [
+      "71919-799-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "N20HL7Q941"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "spl_product_data_elements": [
+    "GUNA-IGF INSULIN-LIKE GROWTH FACTOR-1 ALCOHOL MECASERMIN MECASERMIN"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENT INSULIN-LIKE GROWTH FACTOR-1 4C"
+  ],
+  "purpose": [
+    "PURPOSE Neuroendocrine Support"
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN Keep this and all medicines out of reach of children"
+  ],
+  "indications_and_usage": [
+    "INDICATIONS & USAGE Neuroendocrine Support"
+  ],
+  "warnings": [
+    "WARNINGS Stop use and ask doctor if symptoms worsen or persist more than 5 days"
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Take 15 minutes before meals. Adults and children 12 years and older 20 drops twice a day in a little water. Hold in the mouth for about 30 seconds then swallow. Children between 12 years and 6 years of age 10 drops twice a day in a little water. Hold in the mouth for about 30 seconds then swallow. Children under 6 years 5 drops twice a day in a glass of water."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENT Ethyl Alcohol 30%"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL image of box label"
+  ],
+  "set_id": "06e9b066-8118-478f-be6b-611c9b19e725",
+  "id": "ed813de7-e0d4-74b9-e053-2995a90a6a73",
+  "effective_time": "20221115",
+  "version": "5",
+  "openfda": {
+    "brand_name": [
+      "GUNA-IGF"
+    ],
+    "generic_name": [
+      "INSULIN-LIKE GROWTH FACTOR-1"
+    ],
+    "manufacturer_name": [
+      "Guna spa"
+    ],
+    "product_ndc": [
+      "17089-376"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MECASERMIN"
+    ],
+    "spl_id": [
+      "ed813de7-e0d4-74b9-e053-2995a90a6a73"
+    ],
+    "spl_set_id": [
+      "06e9b066-8118-478f-be6b-611c9b19e725"
+    ],
+    "package_ndc": [
+      "17089-376-18"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0317089376187"
+    ],
+    "unii": [
+      "7GR9I2683O"
+    ]
+  }
+}

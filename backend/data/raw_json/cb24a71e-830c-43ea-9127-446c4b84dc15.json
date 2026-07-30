@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Bisacodyl Bisacodyl BISACODYL DEACETYLBISACODYL FAT, HARD"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India CODE NO.: MH/DRUGS/25-KD/724 Issued: 08/2023"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each suppository) Bisacodyl USP, 10 mg"
+  ],
+  "purpose": [
+    "Purpose Stimulant Laxative"
+  ],
+  "indications_and_usage": [
+    "Use for relief of occasional constipation (irregularity) this product generally produces bowel movement in 15 minutes to 1 hour"
+  ],
+  "warnings": [
+    "Warnings For rectal use only"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have stomach pain, nausea or vomiting a sudden change in bowel habits that lasts more than 2 weeks"
+  ],
+  "when_using": [
+    "When using this product you may experience stomach discomfort, faintness, rectal burning and mild cramps"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if you need to use a laxative product for longer than one week you have rectal bleeding or no bowel movement after using this product. These could be signs of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 12 years of age and over 1 suppository in a single daily dose. Peel open plastic. Insert suppository well into rectum, pointed end first. Retain about 15 to 20 minutes children 6 to under 12 years 1/2 suppository in a single daily dose children under 6 years Do not use"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"100%\"><tbody><tr><td><paragraph>adults and children</paragraph><paragraph>12 years of age and over</paragraph></td><td><paragraph>1 suppository in a single daily dose. Peel open plastic. Insert suppository</paragraph><paragraph>well into rectum, pointed end first. Retain about 15 to 20 minutes</paragraph></td></tr><tr><td>children 6 to under 12 years</td><td>1/2 suppository in a single daily dose</td></tr><tr><td>children under 6 years</td><td>Do not use</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information store at 20-25°C (68-77°F) if suppository softens prior to use, may be placed in refrigerator for short time"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredient hard fat"
+  ],
+  "questions": [
+    "Questions or Comments? Call 1-844-474-7464"
+  ],
+  "other_safety_information": [
+    "TAMPER EVIDENT: DO NOT USE IF SEALED WRAPPER AROUND SUPPOSITORIES IS BROKEN OR MISSING"
+  ],
+  "package_label_principal_display_panel": [
+    "NDC 57237-327-21 (3 blisters of 4 suppositories) Bisacodyl USP Suppositories 10 mg Stimulant Laxative Gentle, Predictable, Fast Relief DO NOT SWALLOW NDC 57237-327-04 (4 suppositories in 1 blister pack) Front Foil Back Foil Bisc-supp-01 Bisc-supp-02 Bisc-supp-03"
+  ],
+  "set_id": "03429da4-1ce9-4789-bf54-ce1b3215b013",
+  "id": "cb24a71e-830c-43ea-9127-446c4b84dc15",
+  "effective_time": "20250513",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M007"
+    ],
+    "brand_name": [
+      "Bisacodyl"
+    ],
+    "generic_name": [
+      "BISACODYL"
+    ],
+    "manufacturer_name": [
+      "Rising Pharma Holdings, Inc."
+    ],
+    "product_ndc": [
+      "57237-327"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "RECTAL"
+    ],
+    "substance_name": [
+      "BISACODYL"
+    ],
+    "rxcui": [
+      "198509"
+    ],
+    "spl_id": [
+      "cb24a71e-830c-43ea-9127-446c4b84dc15"
+    ],
+    "spl_set_id": [
+      "03429da4-1ce9-4789-bf54-ce1b3215b013"
+    ],
+    "package_ndc": [
+      "57237-327-04",
+      "57237-327-21",
+      "57237-327-51",
+      "57237-327-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0357237327210"
+    ],
+    "nui": [
+      "N0000009371",
+      "N0000175812",
+      "N0000009871"
+    ],
+    "pharm_class_pe": [
+      "Increased Large Intestinal Motility [PE]",
+      "Stimulation Large Intestine Fluid/Electrolyte Secretion [PE]"
+    ],
+    "pharm_class_epc": [
+      "Stimulant Laxative [EPC]"
+    ],
+    "unii": [
+      "10X0709Y6I"
+    ]
+  }
+}

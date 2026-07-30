@@ -1,0 +1,96 @@
+{
+  "spl_product_data_elements": [
+    "TheraTears Dry and Tired carboxymethylcellulose sodium CARBOXYMETHYLCELLULOSE SODIUM CARBOXYMETHYLCELLULOSE CALCIUM CHLORIDE MAGNESIUM CHLORIDE POTASSIUM CHLORIDE WATER SODIUM CHLORIDE SODIUM LACTATE HYDROCHLORIC ACID SODIUM HYDROXIDE"
+  ],
+  "spl_unclassified_section": [
+    "THERATEARS LUBRICANT- carboxymethylcellulose sodium solution/ drops Medtech Products Inc., a Prestige Consumer Healthcare company Disclaimer: Most OTC drugs are not reviewed and approved by FDA, however they may be marketed if they comply with applicable regulations and policies. FDA has not evaluated whether this product complies. ---------- Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredient (In each unit dose) Sodium Carboxymethylcellulose 0.5%"
+  ],
+  "purpose": [
+    "Purpose Eye lubricant"
+  ],
+  "indications_and_usage": [
+    "Uses For the temporary relief of burning and irritation due to dryness of the eye. For the temporary relief of discomfort due to minor irritations of the eye or from exposure to wind and sun. For use as a lubricant to prevent further irritation or to relieve dryness of the eye."
+  ],
+  "warnings": [
+    "Warnings For use in the eyes only. Do not use if solution changes color or becomes cloudy. When using this product ■ do not touch tip of container to any surface to avoid contamination. ■ do not reuse; once opened discard. Stop use and ask a doctor if ■ you experience eye pain, changes in vision, continued redness or irritation of the eye. ■ the condition worsens or persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use if solution changes color or becomes cloudy."
+  ],
+  "when_using": [
+    "When using this product ■ do not touch tip of container to any surface to avoid contamination. ■ do not reuse; once opened discard."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if ■ you experience eye pain, changes in vision, continued redness or irritation of the eye. ■ the condition worsens or persists for more than 72 hours."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions To open, twist tab completely off. Instill 1 or 2 drops into affected eye(s) as needed and discard container."
+  ],
+  "other_safety_information": [
+    "Other information Store between 15º-30ºC (59º-86ºF)."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Calcium chloride, magnesium chloride, potassium chloride, purified water, sodium chloride, sodium lactate. May also contain hydrochloric acid and/or sodium hydroxide to adjust pH."
+  ],
+  "questions": [
+    "Questions and comments? 1-800-579-8327"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Carboxymethylcellulose sodium 0.5% LUBRICANT EYE DROPS DRY & TIRED dry eye therapy PRESERVATIVE FREE 30 STERILE Single-Use Vials 0.4 FL OZ (12 mL) TOTAL Principal Display Panel Carboxymethylcellulose sodium 0.5% LUBRICANT EYE DROPS DRY & TIRED dry eye therapy PRESERVATIVE FREE 30 STERILE Single-Use Vials 0.4 FL OZ (12 mL) TOTAL"
+  ],
+  "set_id": "02b70e2d-8159-4637-a282-9eac1468e786",
+  "id": "6dc69370-2db2-4a20-91cd-5f2d5c781b62",
+  "effective_time": "20260107",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M018"
+    ],
+    "brand_name": [
+      "TheraTears Dry and Tired"
+    ],
+    "generic_name": [
+      "CARBOXYMETHYLCELLULOSE SODIUM"
+    ],
+    "manufacturer_name": [
+      "MEDTECH PRODUCTS INC"
+    ],
+    "product_ndc": [
+      "58790-013"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "CARBOXYMETHYLCELLULOSE SODIUM"
+    ],
+    "rxcui": [
+      "1188426",
+      "2733992"
+    ],
+    "spl_id": [
+      "6dc69370-2db2-4a20-91cd-5f2d5c781b62"
+    ],
+    "spl_set_id": [
+      "02b70e2d-8159-4637-a282-9eac1468e786"
+    ],
+    "package_ndc": [
+      "58790-013-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "K679OBS311"
+    ]
+  }
+}

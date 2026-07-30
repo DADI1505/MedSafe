@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "Eye Wash water WATER WATER BORIC ACID SODIUM BORATE SODIUM CHLORIDE BENZALKONIUM CHLORIDE"
+  ],
+  "active_ingredient": [
+    "Active ingredient Purified water (99.05%)"
+  ],
+  "purpose": [
+    "Purpose Eyewash"
+  ],
+  "indications_and_usage": [
+    "Uses washes the eye to help relieve • irritation • stinging • discomfort • itching • burning by removing • loose foreign material • air pollutants (smog or pollen) • chlorinated water"
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use • if you have open wounds in or near the eyes, and get medical help right away • if solution changes color or becomes cloudy When using this product • remove contact lenses before using • do not touch tip of container to any surface to avoid contamination • replace cap after use Stop use and ask a doctor if • you experience eye pain, changes in vision, continued redness or irritation of the eye • condition worsens or persists Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use • if you have open wounds in or near the eyes, and get medical help right away • if solution changes color or becomes cloudy"
+  ],
+  "when_using": [
+    "When using this product • remove contact lenses before using • do not touch tip of container to any surface to avoid contamination • replace cap after use",
+    "When using an eye cup • rinse the cup with Soothing Eye Wash Solution immediately before each use • avoid contamination of the rim and inside surfaces of the cup • fill the cup half full with Soothing Eye Wash Solution and apply the cup to the affected eye(s), pressing tightly to prevent spillage"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if • you experience eye pain, changes in vision, continued redness or irritation of the eye • condition worsens or persists"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions For use with a nozzle applicator. • flush the affected eye(s) as needed • control the rate of flow of solution by pressure on the bottle • do not touch dropper tip to eye When using an eye cup • rinse the cup with Soothing Eye Wash Solution immediately before each use • avoid contamination of the rim and inside surfaces of the cup • fill the cup half full with Soothing Eye Wash Solution and apply the cup to the affected eye(s), pressing tightly to prevent spillage Other information • store at 15°-25°C (59°-77°F) • keep tightly closed • does not contain thimerosal • enclosed eyecup is sterile if packaging is intact • use before expiration date marked on the carton or bottle Direction for use graphics"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients boric acid, sodium borate and sodium chloride. PRESERVATIVE ADDED: benzalkonium chloride (0.01%)"
+  ],
+  "questions": [
+    "Questions or comments? Call: 1-866-767-9161"
+  ],
+  "package_label_principal_display_panel": [
+    "Package/Label Principal Display Panel CVS Health ™ Soothing Eye Wash EYE IRRIGATING SOLUTION For daily or emergency eye cleansing • Cleanses • Refreshes • Soothes • Sterile eye cup included [icon] blue heart with drop inside STERILE 4 FL OZ (118 mL) CVS 4 oz Eye Wash Carton"
+  ],
+  "set_id": "049cee29-7ec2-4d5b-8308-f522acde43a7",
+  "id": "ee70a730-0ae9-492f-bc08-c48483adf861",
+  "effective_time": "20170329",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "part349"
+    ],
+    "brand_name": [
+      "Eye Wash"
+    ],
+    "generic_name": [
+      "WATER"
+    ],
+    "manufacturer_name": [
+      "CVS Pharmacy"
+    ],
+    "product_ndc": [
+      "59779-337"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "WATER"
+    ],
+    "rxcui": [
+      "1053429"
+    ],
+    "spl_id": [
+      "ee70a730-0ae9-492f-bc08-c48483adf861"
+    ],
+    "spl_set_id": [
+      "049cee29-7ec2-4d5b-8308-f522acde43a7"
+    ],
+    "package_ndc": [
+      "59779-337-09"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0050428337097"
+    ],
+    "unii": [
+      "059QF0KO0R"
+    ]
+  }
+}

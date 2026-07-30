@@ -1,0 +1,91 @@
+{
+  "spl_product_data_elements": [
+    "NYSTATIN NYSTATIN NYSTATIN NYSTATIN TALC"
+  ],
+  "description": [
+    "DESCRIPTION Nystatin is a polyene antifungal antibiotic obtained from Streptomyces noursei . The molecular formula for Nystatin is C47H75NO17. The molecular weight of Nystatin is 926.1. Structural formula: Nystatin topical powder is for dermatologic use. Nystatin topical powder contains 100,000 nystatin units per gram dispersed in talc. Chemical-structure"
+  ],
+  "clinical_pharmacology": [
+    "CLINCAL PHARMACOLOGY Pharmacokinetics Nystatin is not absorbed from intact skin or mucous membrane. Microbiology Nystatin is an antibiotic which is both fungistatic and fungicidal in vitro against a wide variety of yeasts and yeast-like fungi, including Candida albicans, C. parapsilosis, C. tropicalis, C. guilliermondi, C. pseudotropicalis, C. krusei, Torulopsis glabrata, Tricophyton rubrum, T. mentagrophytes. Nystatin acts by binding to sterols in the cell membrane of susceptible species resulting in a change in membrane permeability and the subsequent leakage of intracellular components. On repeated subculturing with increasing levels of nystatin, Candida albicans does not develop resistance to nystatin. Generally, resistance to nystatin does not develop during therapy. However, other species of Candida (C. tropicalis, C. guilliermondi, C. krusei, and C. stellatoides ) become quite resistant on treatment with nystatin and simultaneously become cross resistant to amphotericin as well. This resistance is lost when the antibiotic is removed. Nystatin exhibits no appreciable activity against bacteria, protozoa, or viruses."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS AND USAGE Nystatin topical powder is indicated in the treatment of cutaneous or mucocutaneous mycotic infections caused by Candida albicans and other susceptible Candida species . Nystatin topical powder is not indicated for systemic, oral, intravaginal or ophthalmic use."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS Nystatin topical powder is contraindicated in patients with a history of hypersensitivity to any of its components."
+  ],
+  "precautions": [
+    "PRECAUTIONS General Nystatin topical powder should not be used for the treatment of systemic, oral, intravaginal or ophthalmic infections. If irritation or sensitization develops, treatment should be discontinued and appropriate measures taken as indicated. It is recommended that KOH smears, cultures, or other diagnostic methods be used to confirm the diagnosis of cutaneous or mucocutaneous candidiasis and to rule out infection caused by other pathogens",
+    "General Nystatin topical powder should not be used for the treatment of systemic, oral, intravaginal or ophthalmic infections. If irritation or sensitization develops, treatment should be discontinued and appropriate measures taken as indicated. It is recommended that KOH smears, cultures, or other diagnostic methods be used to confirm the diagnosis of cutaneous or mucocutaneous candidiasis and to rule out infection caused by other pathogens"
+  ],
+  "how_supplied": [
+    "HOW SUPPLIED Nystatin topical powder is supplied as 100,000 units nystatin per gram in plastic squeeze bottles: 15g (NDC 69315-306-15) 30g (NDC 69315-306-30) 60g (NDC 69315-306-60) STORAGE Store at 20°C to 25°C (68°F to 77°F)[see USP Controlled Room Temperature]; avoid excessive heat (40°C/104°F). Keep tightly closed. Manufactured for: Leading Pharma LLC, Fairfield, NJ 07004 Manufactured by: Lyne Laboratories, Inc. Brockton, MA 02301 R1-01/20"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Container-100000unit15gm Container-100000unit30gm Container-100000unit60gm"
+  ],
+  "set_id": "089e6444-2bd1-443e-acf0-dfeaa69faef9",
+  "id": "408ac13e-825a-44b1-b8cd-d52cbb0185d0",
+  "effective_time": "20240418",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "ANDA208838"
+    ],
+    "brand_name": [
+      "NYSTATIN"
+    ],
+    "generic_name": [
+      "NYSTATIN"
+    ],
+    "manufacturer_name": [
+      "Leading Pharma, LLC"
+    ],
+    "product_ndc": [
+      "69315-306"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "NYSTATIN"
+    ],
+    "rxcui": [
+      "646456"
+    ],
+    "spl_id": [
+      "408ac13e-825a-44b1-b8cd-d52cbb0185d0"
+    ],
+    "spl_set_id": [
+      "089e6444-2bd1-443e-acf0-dfeaa69faef9"
+    ],
+    "package_ndc": [
+      "69315-306-15",
+      "69315-306-30",
+      "69315-306-60"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0369315306307",
+      "0369315306604"
+    ],
+    "nui": [
+      "N0000175498",
+      "M0017172"
+    ],
+    "pharm_class_epc": [
+      "Polyene Antifungal [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Polyenes [CS]"
+    ],
+    "unii": [
+      "BDF1O1C72E"
+    ]
+  }
+}

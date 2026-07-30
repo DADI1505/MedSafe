@@ -1,0 +1,110 @@
+{
+  "spl_product_data_elements": [
+    "Minoxidil Extra Strength for Men Minoxidil MINOXIDIL MINOXIDIL ALCOHOL WATER PROPYLENE GLYCOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Distributed by Roman Health Ventures, Inc. 116 W. 23rd Street, 4th Floor New York, NY 10011 www.ro.co",
+    "NOT FOR USE BY WOMEN: May grow facial hair. May be harmful if used during pregnancy or breast-feeding Minoxidil 5% Topical Solution, USP Minoxidil 5% Topical Solution is for men who have a general thinning of hair on the top of the scalp vertex only, as shown below. Not intended for frontabl baldness or a receding hairline. Minoxidil Topical Solution 5% has been shown to regrow hair in men with the following degrees of thinning hair or hairloss. If men have more hair loss or hair loss in a place different than showing above, Minoxidil Topical Solution 5% for men may not work. For best results: Apply direclty to scalp. Use twice daily."
+  ],
+  "active_ingredient": [
+    "1 Bottle Carton Active Ingredient Minoxidil, USP 5% w/v 3 Bottle Carton Active Ingredient Minoxidil 5% w/v"
+  ],
+  "purpose": [
+    "1 Bottle Carton Purpose Hair regrowth treatment for men 3 Bottle Carton Purpose Hair regrowth treatment"
+  ],
+  "indications_and_usage": [
+    "1 Bottle Carton Use to regrow hair on the scalp (vertex only, see picture on side of carton) 3 Bottle Carton Use to regrow hair on the scalp (vertex only, see picture on side of carton)"
+  ],
+  "indications_and_usage_table": [
+    "<table border=\"0\" width=\"100%\"><tbody><tr><td><paragraph>1 Bottle Carton</paragraph><paragraph>Use to regrow hair on the scalp (vertex only, see picture on side of carton)</paragraph><paragraph>3 Bottle Carton</paragraph><paragraph>Use to regrow hair on the scalp (vertex only, see picture on side of carton)</paragraph></td></tr></tbody></table>"
+  ],
+  "warnings": [
+    "Warnings For external use only. For use by men only. Flammable: Keep away from fire or flame"
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "dosage_and_administration": [
+    "Directions Prime the sprayer by holding the bottle the bottle upright and pump the sprayer 5 times to ensure delivery of full spray. Do not inhale mist Apply one mL with spray (6 sprays) 2 times a day directly onto the scalp in the hair loss area Using more or more often will not improve restuls Continued use is necessary to increase and keep your hair regrowth, or hair loss will begind again."
+  ],
+  "other_safety_information": [
+    "Other information See hair loss pictures on side of this carton Before use, read all information on carton and enclosed leaflet Hair regrowth has not been shown to last longer than 48 weeks in large clinical trials with continuous treatment with 5% minoxidil topical solution for men Keep the carton. It contains important information. In clinical studies of mostly white men aged 18-45 years with moderate degrees of hairloss, 5% minoxidil topical solution for men provided more hair regrowth than 2% minoxidil topical solution Store at controlled room temperature 20 to 25C (68 to 77F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Alcohol, propylene glycol, purified water"
+  ],
+  "questions": [
+    "Questions? 1-424-347-6299 Visit website at ro.co"
+  ],
+  "questions_table": [
+    "<table border=\"0\" width=\"100%\"><tbody><tr><td>Questions? 1-424-347-6299 Visit website at ro.co</td></tr></tbody></table>"
+  ],
+  "package_label_principal_display_panel": [
+    "Three Bottle Package NDC xxxxx-xxx-xx roman HAIR REGROWTH TREATMENT 5% Minoxidil Topical Solution, USP Extra Strength formula for men Clinically proven to help regrow hair Reactivates hair follicles to stimulate growth Easy precision sprayer Unscented topical solution Three month supply 3- 60 mL (2 fl oz) bottles Total 180 mL (6 fl oz) Not for use by women Minoxidil 3 Bottle",
+    "Single Bottle Package NDC XXXXX-XXX-XX roman Hair Regrowth Treatment 5% Minoxidil Topical Solution, USP Extra Strength formula for men Clinically proven to help regrow hair Reactivates hair follicales to stimulate regrowth Easy precision sprayer Unscented topical solution One month supply 1 - 60 mL (2 fl oz) bottle Not for use by women. Minoxidil Single Package"
+  ],
+  "set_id": "03738dd6-a42c-0986-e063-6294a90a1cc0",
+  "id": "2cee657d-0af4-0821-e063-6294a90af06e",
+  "effective_time": "20250130",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "ANDA076239"
+    ],
+    "brand_name": [
+      "Minoxidil Extra Strength for Men"
+    ],
+    "generic_name": [
+      "MINOXIDIL"
+    ],
+    "manufacturer_name": [
+      "Roman Health Ventures Inc."
+    ],
+    "product_ndc": [
+      "72484-097"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MINOXIDIL"
+    ],
+    "rxcui": [
+      "1537948"
+    ],
+    "spl_id": [
+      "2cee657d-0af4-0821-e063-6294a90af06e"
+    ],
+    "spl_set_id": [
+      "03738dd6-a42c-0986-e063-6294a90a1cc0"
+    ],
+    "package_ndc": [
+      "72484-097-01",
+      "72484-097-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0810058746580",
+      "0810058746573"
+    ],
+    "nui": [
+      "N0000175379",
+      "N0000175564"
+    ],
+    "pharm_class_pe": [
+      "Arteriolar Vasodilation [PE]"
+    ],
+    "pharm_class_epc": [
+      "Arteriolar Vasodilator [EPC]"
+    ],
+    "unii": [
+      "5965120SH1"
+    ]
+  }
+}

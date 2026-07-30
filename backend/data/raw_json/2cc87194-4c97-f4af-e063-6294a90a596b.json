@@ -1,0 +1,74 @@
+{
+  "spl_product_data_elements": [
+    "Camphora CAMPHOR (NATURAL) LACTOSE SUCROSE CAMPHOR (NATURAL) CAMPHOR (NATURAL) white"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENT CAMPHORA"
+  ],
+  "purpose": [
+    "USES Indicated for coldness"
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN As with all medicines, keep out of reach of children."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS CAMPHORA Coldness"
+  ],
+  "warnings": [
+    "STOP USE AND ASK DOCTOR If symptoms worsen or persist for more than 7 days, or if pregnant or nursing, consult a licensed practitioner."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Directions: Adults & children: Dissolve 4 pellets under the tongue 3 times a day or as directed by a licensed practitioner. Other information: Do not use if seal is broken."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS SUCROSE/LACTOSE"
+  ],
+  "package_label_principal_display_panel": [
+    "The OTC potency range of CAMPHORA is 30c - 200c. Availability is subject to change. All WHP single remedies are made to order; thus the labels are printed on the same label stock as the orders are filled. Camphora2023"
+  ],
+  "set_id": "0876d0ba-0e05-61c5-e063-6294a90aba7e",
+  "id": "2cc87194-4c97-f4af-e063-6294a90a596b",
+  "effective_time": "20250128",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Camphora"
+    ],
+    "generic_name": [
+      "CAMPHOR (NATURAL)"
+    ],
+    "manufacturer_name": [
+      "Washington Homeopathic Products"
+    ],
+    "product_ndc": [
+      "71919-811"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CAMPHOR (NATURAL)"
+    ],
+    "spl_id": [
+      "2cc87194-4c97-f4af-e063-6294a90a596b"
+    ],
+    "spl_set_id": [
+      "0876d0ba-0e05-61c5-e063-6294a90aba7e"
+    ],
+    "package_ndc": [
+      "71919-811-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0740640263709"
+    ],
+    "unii": [
+      "N20HL7Q941"
+    ]
+  }
+}

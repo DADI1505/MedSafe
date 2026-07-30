@@ -1,0 +1,108 @@
+{
+  "spl_product_data_elements": [
+    "Sleep Aid diphenhydramine hydrochloride CARNAUBA WAX CROSCARMELLOSE SODIUM DIBASIC CALCIUM PHOSPHATE DIHYDRATE FD&C BLUE NO. 1 ALUMINUM OXIDE HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED POLYSORBATE 80 TITANIUM DIOXIDE DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE DB"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each caplet) Diphenhydramine HCl 25 mg"
+  ],
+  "purpose": [
+    "Purpose Nighttime sleep aid"
+  ],
+  "indications_and_usage": [
+    "Use for relief of occasional sleeplessness"
+  ],
+  "warnings": [
+    "Warnings Do not use in children under 12 years of age with any other product containing diphenhydramine, even one used on skin Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma trouble urinating due to an enlarged prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product avoid alcoholic drinks drowsiness will occur do not drive a motor vehicle or operate machinery Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of serious underlying medical illness. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+  ],
+  "do_not_use": [
+    "Do not use in children under 12 years of age with any other product containing diphenhydramine, even one used on skin"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma trouble urinating due to an enlarged prostate gland"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers"
+  ],
+  "when_using": [
+    "When using this product avoid alcoholic drinks drowsiness will occur do not drive a motor vehicle or operate machinery"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of serious underlying medical illness."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 12 years and over take 2 caplets at bedtime if needed, or as directed by a doctor children under 12 years do not use"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"55%\" styleCode=\"Noautorules\"> <col width=\"50%\" align=\"left\" valign=\"top\"/> <col width=\"50%\" align=\"left\" valign=\"top\"/> <tbody> <tr styleCode=\"Botrule\"> <td styleCode=\"Rrule Toprule\">adults and children 12 years and over</td> <td styleCode=\"Toprule\">take 2 caplets at bedtime if needed, or as directed by a doctor</td> </tr> <tr> <td styleCode=\"Rrule\">children under 12 years</td> <td>do not use</td> </tr> </tbody> </table>"
+  ],
+  "storage_and_handling": [
+    "Other information each caplet contains: calcium 15 mg store between 20-25 ° C (68-77 ° F). Avoid high humidity. Protect from light. do not use if carton tape imprinted with \"SAFETY SEAL®\" is broken or missing or blister unit is torn or broken"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients carnauba wax, croscarmellose sodium, dibasic calcium phosphate, FD&C Blue no. 1 aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, titanium dioxide"
+  ],
+  "questions": [
+    "Questions or comments? call 1-877-895-3665 (toll-free) or 215-273-8755 (collect)"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL Sleep aid 36 Sleep aid 100"
+  ],
+  "set_id": "035454a1-d23b-4faf-8fac-a59fc77ce18c",
+  "id": "6c311047-4bf2-44ad-e053-2a91aa0ad047",
+  "effective_time": "20180514",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "part338"
+    ],
+    "brand_name": [
+      "Sleep Aid"
+    ],
+    "generic_name": [
+      "DIPHENHYDRAMINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Velocity Pharma LLC"
+    ],
+    "product_ndc": [
+      "76168-015"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIPHENHYDRAMINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1049630"
+    ],
+    "spl_id": [
+      "6c311047-4bf2-44ad-e053-2a91aa0ad047"
+    ],
+    "spl_set_id": [
+      "035454a1-d23b-4faf-8fac-a59fc77ce18c"
+    ],
+    "package_ndc": [
+      "76168-015-07",
+      "76168-015-12"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "TC2D6JAD40"
+    ]
+  }
+}

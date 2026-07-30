@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "Ultra Light Invisible SPF 40 sunscreen Homosalate 8%, Octisalate 5.0%, Avobenzone 3.0%, Octocrylene 4.0% INDIAN FRANKINCENSE BUTYROSPERMUM PARKII (SHEA) BUTTER CAPRYLIC/CAPRIC TRIGLYCERIDE CAPRYLYL GLYCOL CYCLOPENTASILOXANE CYCLOTETRASILOXANE CYCLOHEXASILOXANE DIATOMACEOUS EARTH DICAPRYLYL CARBONATE DIMETHICONE DIMETHICONE CROSSPOLYMER DIMETHICONE/BIS-ISOBUTYL PPG-20 CROSSPOLYMER HYALURONIC ACID ISODODECANE SOYBEAN LECITHIN PHYMATOLITHON CALCAREUM MANNITOL MEADOWFOAM ESTOLIDE MICROCRYSTALLINE CELLULOSE NEOPENTYL GLYCOL DIHEPTANOATE POLYESTER-7 POLYMETHYLSILSESQUIOXANE (4.5 MICRONS) SILICA SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL TETRAHEXYLDECYL ASCORBATE .ALPHA.-TOCOPHEROL ACETATE ZINC SULFATE AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE OCTISALATE ETHYLHEXYL SALICYLATE OCTOCRYLENE OCTOCRYLENE"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Purpose Avobenzone 3% Sunscreen Homosalate 8% Sunscreen Octisalate 5% Sunscreen Octocrylene 4.0% Sunscreen"
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    "Uses · helps prevent sunburn"
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use on damaged or broken skin. When using this product · keep out of eyes . Rinse with water to remove. Stop use and ask doctor if rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply evenly by hand 15 minutes before sun exposure · reapply: · after 40 minutes of swimming or sweating · immediately after towel drying · at least every 2 hours · · Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures including · limit time in the sun, especially from 10 a.m. - 2 p.m. · wear a long-sleeved shirts, pants, hats, and sunglasses. · children under 6 months: Ask a doctor."
+  ],
+  "other_safety_information": [
+    "Other information · protect this product from excessive heat and direct sun · may stain fabrics."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Boswellia Serrata Resin Extract Butyrospermum Parkii (Shea) Butter Caprylic/Capric Triglyceride Caprylyl Glycol Cyclopentasiloxane Cyclotetrasiloxane Cyclohexasiloxane Diatomaceous Earth Dicaprylyl Carbonate Dimethicone Dimethicone Crosspolymer Dimethicone/Bis-Isobutyl PPG-20 Crosspolymer Hyaluronic acid, sodium salt Isododecane Lecithin Lithothamnion Calcareum Extract Mannitol Meadowfoam Estolide Microcrystaline Cellulose Neopentyl Glycol Diheptanoate Polyester-7 Polymethylsilsesquioxane Silica Simmondsia Chinensis (Jojoba) Seed Oil Tetrahexyldecyl Ascorbate Tocopheryl Acetate Zinc Sulfate"
+  ],
+  "package_label_principal_display_panel": [
+    "image description"
+  ],
+  "set_id": "02d59d96-0edb-472c-b730-148a2eb4fa4a",
+  "id": "4d299ace-531b-b044-e063-6294a90ae21d",
+  "effective_time": "20260316",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Ultra Light Invisible SPF 40 sunscreen"
+    ],
+    "generic_name": [
+      "HOMOSALATE 8%, OCTISALATE 5.0%, AVOBENZONE 3.0%, OCTOCRYLENE 4.0%"
+    ],
+    "manufacturer_name": [
+      "RK Shea LLC"
+    ],
+    "product_ndc": [
+      "84190-001"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "AVOBENZONE",
+      "HOMOSALATE",
+      "OCTISALATE",
+      "OCTOCRYLENE"
+    ],
+    "spl_id": [
+      "4d299ace-531b-b044-e063-6294a90ae21d"
+    ],
+    "spl_set_id": [
+      "02d59d96-0edb-472c-b730-148a2eb4fa4a"
+    ],
+    "package_ndc": [
+      "84190-001-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0860011819608"
+    ],
+    "unii": [
+      "G63QQF2NOX",
+      "V06SV4M95S",
+      "4X49Y0596W",
+      "5A68WGF6WM"
+    ]
+  }
+}

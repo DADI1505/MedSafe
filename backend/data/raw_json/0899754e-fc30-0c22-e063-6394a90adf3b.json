@@ -1,0 +1,87 @@
+{
+  "spl_product_data_elements": [
+    "Justice Berry Scented Anti-bacterial Hand Sanitizer - BFF ALCOHOL WATER GLYCERIN PROPYLENE GLYCOL CARBOXYPOLYMETHYLENE AMINOMETHYLPROPANOL BUTYL ACRYLATE/METHYL METHACRYLATE/METHACRYLIC ACID COPOLYMER (18000 MW) FD&C BLUE NO. 1 FD&C YELLOW NO. 5 ALCOHOL ALCOHOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information Store below 105°F (40.5° C). May discolor some fabrics. Expiry Date:06/2023"
+  ],
+  "active_ingredient": [
+    "Active ingredient Alcohol 62% Purpose Antiseptic"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Use For hand washing to decrease bacteria on the skin. Recommended for repeated use."
+  ],
+  "warnings": [
+    "Warnings Flammable, keep away from fire or flame. For external use only. Do not use in the eyes or apply over large areas of the body. In case of deep or puncture wounds, animal bites, or serious burns, consult a doctor. Use only as directed. Do not drink. If taken internally, it will produce serious gastric disturbances Stop use and ask a doctor if Irritation persists for more than 72 hours. Keep out of reach of children. Iif swallowed get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use in the eyes or apply over large areas of the body. In case of deep or puncture wounds, animal bites, or serious burns, consult a doctor. Use only as directed. Do not drink. If taken internally, it will produce serious gastric disturbances"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if Irritation persists for more than 72 hours."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. Iif swallowed get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Wet hands thoroughly with product and allow to dry without wiping Supervise children in the use of this product"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water, Glycerin, Propylene Glycol, Fragrance, Carbomer, Aminomethyl Propanol, Polyethylene Terephthalate, Acrylates Copolymer, Blue 1, Yellow 5."
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Label"
+  ],
+  "set_id": "00aad8bd-43ec-457c-b561-588323ba1b3b",
+  "id": "0899754e-fc30-0c22-e063-6394a90adf3b",
+  "effective_time": "20231026",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Justice Berry Scented Anti-bacterial Hand Sanitizer BFF"
+    ],
+    "generic_name": [
+      "ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Tween Brands, Inc."
+    ],
+    "product_ndc": [
+      "60637-228"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "581660"
+    ],
+    "spl_id": [
+      "0899754e-fc30-0c22-e063-6394a90adf3b"
+    ],
+    "spl_set_id": [
+      "00aad8bd-43ec-457c-b561-588323ba1b3b"
+    ],
+    "package_ndc": [
+      "60637-228-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

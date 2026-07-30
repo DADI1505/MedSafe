@@ -1,0 +1,77 @@
+{
+  "spl_product_data_elements": [
+    "Hand Sanitizer Hand Sanitizer Unscented ALCOHOL ALCOHOL WATER GLYCERIN PROPYLENE GLYCOL ALOE VERA LEAF"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active Ingredient Ethyl Alcohol 62%"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Use For hand washing to decrease bacteria on the skin. Recommended for repeated use."
+  ],
+  "warnings": [
+    "Warnings Flammable. Keep away from fire and flame. For external use only. Do not use in the eyes. In case of contact, rinse eyes thoroughly with water. Discontinue use if irritation and redness develop. If condition persists for more than 72 hours consult a doctor. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Wet hands thoroughly with product and allow to dry without wiping."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Water, glycerin, propylene glycol, aloe barbadensis leaf juice"
+  ],
+  "package_label_principal_display_panel": [
+    "INSTANT HAND SANITIZER SPRAY product label INSTANT HAND SANITIZER SPRAY Made in China Dist By:Totally ® Promotional, 450 S. 2nd St., Coldwater, OH 45828 res .28 oz -004"
+  ],
+  "set_id": "07a891a3-dcf7-438f-bbf7-a20b2aa7d7d7",
+  "id": "c1d72d9f-c0dd-4ce6-90a0-d0818a05a0ce",
+  "effective_time": "20241009",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Hand Sanitizer"
+    ],
+    "generic_name": [
+      "HAND SANITIZER UNSCENTED"
+    ],
+    "manufacturer_name": [
+      "CASAD Company, Inc"
+    ],
+    "product_ndc": [
+      "71087-004"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "1020364"
+    ],
+    "spl_id": [
+      "c1d72d9f-c0dd-4ce6-90a0-d0818a05a0ce"
+    ],
+    "spl_set_id": [
+      "07a891a3-dcf7-438f-bbf7-a20b2aa7d7d7"
+    ],
+    "package_ndc": [
+      "71087-004-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

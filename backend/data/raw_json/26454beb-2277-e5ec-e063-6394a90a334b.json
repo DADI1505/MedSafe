@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Dove Even Tone plus Niacinamide Peach Blossom and Rice Milk Antiperspirant Deodorant STEARYL ALCOHOL HYDROGENATED CASTOR OIL HIGH DENSITY POLYETHYLENE CYCLOMETHICONE 5 BUTYLATED HYDROXYTOLUENE ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY PPG-14 BUTYL ETHER SUNFLOWER OIL SILICON DIOXIDE ALKYL (C12-15) BENZOATE DIMETHICONE STEARETH-100 POLYETHYLENE GLYCOL 400 NIACINAMIDE BENZYL ALCOHOL CINNAMYL ALCOHOL .BETA.-CITRONELLOL, (R)- LIMONENE, (+)- 12-HYDROXYSTEARIC ACID LINALOOL, (+/-)- BENZYL SALICYLATE COUMARIN GERANIOL .ALPHA.-HEXYLCINNAMALDEHYDE"
+  ],
+  "description": [
+    "DOVE EVEN TONE+ NIACINAMIDE PEACH BLOSSOM & RICE MILK ANTIPERSPIRANT DEODORANT - aluminum zirconium tetrachlorohydrex gly stick"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient Aluminum Zirconium Tetrachlorohydrex GLY (11.4 %)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses • reduces underarm wetness"
+  ],
+  "warnings": [
+    "Warnings • For external use only. • Do not use on broken skin . • Ask a doctor before use if you have kidney disease. • Stop use if rash or irritation occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "• Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply to underarms only"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Cyclopentasiloxane, Stearyl Alcohol, C12-15 Alkyl Benzoate, PPG-14 Butyl Ether, Hydrogenated Castor Oil, PEG-8, Fragrance (Parfum), Dimethicone, Hydroxystearic Acid, Polyethylene, Silica, Helianthus Annuus (Sunflower) Seed Oil, Steareth-100, BHT, Niacinamide, Benzyl Alcohol, Benzyl Salicylate, Citronellol, Coumarin, Geraniol. Hexyl Cinnamal, Limonene, Linalool."
+  ],
+  "questions": [
+    "Questions? Call 1-800-761-3683"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Dove Peach Blossom AP IS"
+  ],
+  "set_id": "0034fbaf-129a-bb29-e063-6394a90a6d0a",
+  "id": "26454beb-2277-e5ec-e063-6394a90a334b",
+  "effective_time": "20241106",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Dove"
+    ],
+    "generic_name": [
+      "EVEN TONE PLUS NIACINAMIDE PEACH BLOSSOM AND RICE MILK ANTIPERSPIRANT DEODORANT"
+    ],
+    "manufacturer_name": [
+      "Conopco Inc. d/b/a/ Unilever"
+    ],
+    "product_ndc": [
+      "64942-2135"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY"
+    ],
+    "spl_id": [
+      "26454beb-2277-e5ec-e063-6394a90a334b"
+    ],
+    "spl_set_id": [
+      "0034fbaf-129a-bb29-e063-6394a90a6d0a"
+    ],
+    "package_ndc": [
+      "64942-2135-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8O386558JE"
+    ]
+  }
+}

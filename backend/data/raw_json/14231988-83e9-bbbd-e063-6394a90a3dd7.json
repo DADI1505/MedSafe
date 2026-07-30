@@ -1,0 +1,94 @@
+{
+  "spl_product_data_elements": [
+    "Sunscreen-Lotion Zinc Oxide, Titanium Dioxide DICAPRYLYL ETHER CARTHAMUS TINCTORIUS (SAFFLOWER) OLEOSOMES C13-15 ALKANE HYDROXYACETOPHENONE PHYTATE SODIUM ALUMINUM HYDROXIDE MONOSTEARYL CITRATE HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER (45000 MPA.S AT 1%) SORBITAN SESQUIOLEATE TRIOCTYLDODECYL CITRATE PHENYLPROPANOL SHEA BUTTER MEDIUM-CHAIN TRIGLYCERIDES STEARIC ACID LEVOMENOL ALPHA-TOCOPHEROL ACETATE SUNFLOWER OIL POLYHYDROXYSTEARIC ACID (2300 MW) 1,2-HEXANEDIOL POLYGLYCERYL-10 DIOLEATE PONGAMIA PINNATA SEED WATER AVOCADO OIL CUCUMBER CAESALPINIA SPINOSA RESIN ROSA RUBIGINOSA SEED OIL GRAPE SEED OIL COCONUT OIL PROPANEDIOL SILICON DIOXIDE CAPRYLYL GLYCOL ARGAN OIL TITANIUM DIOXIDE TITANIUM DIOXIDE ZINC OXIDE ZINC OXIDE"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS Titanium Dioxide 3.7% ...... Purpose: Sunscreen Zinc Oxide 14% ...... Purpose: Sunscreen"
+  ],
+  "purpose": [
+    "PURPOSE Sunscreen"
+  ],
+  "indications_and_usage": [
+    "USES Helps prevent sunburn. If used as directed with other sun protection measures ( see DIRECTIONS ), decreases the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "warnings": [
+    "WARNINGS (See following 5 SECTIONs)"
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin."
+  ],
+  "stop_use": [
+    "Stop use ... if rash occurs."
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "ask_doctor": [
+    "... Ask a doctor if rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Shake well before use Apply liberally 15 minutes before sun exposure and as needed. Reapply: · After 40 minutes of swimming or sweating · Immediately after towel drying · At least every 2 hours Children under 6 months of age: ask a doctor. Sun Protection Measures : Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: · Limit your time in the sun, especially from 10 a.m. - 2 p.m. · Wear long-sleeved shirts, pants, hats, and sunglasses."
+  ],
+  "storage_and_handling": [
+    "OTHER INFORMATION Protect the product in the container from excessive heat and direct sun."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Argania Spinosa Kernel Oil, Auminum Hydroxide, Water (Aqua), Bisbolol, Butyrospermum Parkii (Shea) Butter, Caprylic/Capric Triglyceride, Cucumis Sativus (Cucumber) Fruit Extract, Caesalpinia Spinosa Gum, Dicaprylyl Ether, C13-15 Alkane, Carthamus Tinctorius (Safflower) Oleosomes, Caprylyl Glycol, Cocos Nucifera (Coconut) Oil, Helianthus Annuus (Sunflower) Seed Oil Unsaponifiables, Helianthus Annuus (Sunflower) Seed Oil, Hydroxyacetophenone, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Propanediol, Phenylpropanol, Pongamia Pinnata Seed Extract, Persea Gratissima (Avocado) Oil, Polyglyceryl-10 Mono/Dioleate, Polyhydroxystearic Acid, Rosa Rubiginosa Seed Oil, Stearyl Citrate, Sorbitan Sesquioleate, Silica, Stearic Acid, Sodium Phytate, Trioctyldodecyl Citrate, Tocopheryl Acetate, Vitis Vinifera (Grape) Seed Oil, 2-Hexanediol"
+  ],
+  "questions": [
+    "E-mail: webmaster@csigroup.com.cn Tel: 86-21-31166566 Fax: 86-21-31166568 www.csigroup.com.cn"
+  ],
+  "package_label_principal_display_panel": [
+    "Box Label Container Label"
+  ],
+  "set_id": "0511ff57-b7bd-4708-e063-6294a90a58a8",
+  "id": "14231988-83e9-bbbd-e063-6394a90a3dd7",
+  "effective_time": "20240320",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Sunscreen-Lotion"
+    ],
+    "generic_name": [
+      "ZINC OXIDE, TITANIUM DIOXIDE"
+    ],
+    "manufacturer_name": [
+      "Shanghai Chuangshi Medical Technology (Group) Co., Ltd."
+    ],
+    "product_ndc": [
+      "73557-575"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "TITANIUM DIOXIDE",
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "14231988-83e9-bbbd-e063-6394a90a3dd7"
+    ],
+    "spl_set_id": [
+      "0511ff57-b7bd-4708-e063-6294a90a58a8"
+    ],
+    "package_ndc": [
+      "73557-575-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "15FIX9V2JP",
+      "SOI2LOH54Z"
+    ]
+  }
+}

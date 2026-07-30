@@ -1,0 +1,94 @@
+{
+  "spl_product_data_elements": [
+    "CVS Astringent Eye Tetrahydrozoline HCl, Zinc sulfate BORIC ACID EDETATE DISODIUM WATER SODIUM CHLORIDE SODIUM CITRATE TETRAHYDROZOLINE HYDROCHLORIDE TETRAHYDROZOLINE ZINC SULFATE ZINC CATION BENZALKONIUM CHLORIDE"
+  ],
+  "active_ingredient": [
+    "​Active ingredients Tetrahydrozoline HCl 0.05% Zinc sulfate 0.25%"
+  ],
+  "purpose": [
+    "​Purpose Tetrahydrozoline HCl...Redness Reliever Zinc sulfate...Astringent"
+  ],
+  "indications_and_usage": [
+    "Uses for temporary relief of discomfort and redness of the eye due to minor eye irritations"
+  ],
+  "warnings": [
+    "Warnings For external use only Ask a doctor before use if you have narrow angle glaucoma When using this product pupils may become enlarged temporarily to avoid contamination, do not touch tip of container to any surface. Replace cap after using. if solution changes color or becomes cloudy, do not use overuse may produce increased redness of the eye remove contact lens before using Stop use and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have narrow angle glaucoma"
+  ],
+  "when_using": [
+    "When using this product pupils may become enlarged temporarily to avoid contamination, do not touch tip of container to any surface. Replace cap after using. if solution changes color or becomes cloudy, do not use overuse may produce increased redness of the eye remove contact lens before using"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours"
+  ],
+  "pregnancy": [
+    "If pregnant or breast-feeding , ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Instill 1 or 2 drops in the affected eye(s) up to four times daily."
+  ],
+  "other_safety_information": [
+    "Other information Store at 15°-30°C (59°-86°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients benzalkonium chloride, boric acid, edetate disodium, purified water, sodium chloride, and sodium citrate"
+  ],
+  "package_label_principal_display_panel": [
+    "Carton"
+  ],
+  "set_id": "07e1a56b-fdad-408d-bf5a-7a0144ece131",
+  "id": "47491040-0b87-ee67-e063-6294a90a47d4",
+  "effective_time": "20251230",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M018"
+    ],
+    "brand_name": [
+      "CVS Astringent Eye"
+    ],
+    "generic_name": [
+      "TETRAHYDROZOLINE HCL, ZINC SULFATE"
+    ],
+    "manufacturer_name": [
+      "CVS Pharmacy, Inc."
+    ],
+    "product_ndc": [
+      "69842-611"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "TETRAHYDROZOLINE HYDROCHLORIDE",
+      "ZINC SULFATE"
+    ],
+    "rxcui": [
+      "1043249"
+    ],
+    "spl_id": [
+      "47491040-0b87-ee67-e063-6294a90a47d4"
+    ],
+    "spl_set_id": [
+      "07e1a56b-fdad-408d-bf5a-7a0144ece131"
+    ],
+    "package_ndc": [
+      "69842-611-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "0YZT43HS7D",
+      "89DS0H96TB"
+    ]
+  }
+}

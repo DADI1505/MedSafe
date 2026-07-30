@@ -1,0 +1,96 @@
+{
+  "spl_product_data_elements": [
+    "ETERNAL SPIRIT BEAUTY PAINLESS WITH CBD 3000 Menthol, Camphor SODIUM COCOYL WHEAT AMINO ACIDS WATER CETYL ALCOHOL GLYCERETH-26 METHYLPARABEN TRIBUTYL CITRATE BUTETH-3 PANTHENOL DIAZOLIDINYL UREA CANNABIDIOL HYALURONATE SODIUM DIMETHICONE 1000 GLYCERIN HYDROXYPROLINE SYMPHYTUM OFFICINALE WHOLE TRIDECETH-6 SODIUM BENZOTRIAZOLYL BUTYLPHENOL SULFONATE CETOSTEARYL ALCOHOL GLYCERYL STEARATE SE ALCOHOL 95% ACRYLAMIDE MENTHOL, UNSPECIFIED FORM MENTHOL, UNSPECIFIED FORM CAMPHOR (SYNTHETIC) CAMPHOR (SYNTHETIC) MINERAL OIL .ALPHA.-TOCOPHEROL ACETATE, D- CAPRYLIC/CAPRIC/LAURIC TRIGLYCERIDE POLYSORBATE 20 PROPYLPARABEN STEARIC ACID"
+  ],
+  "active_ingredient": [
+    "Camphor 3% Menthol 10%"
+  ],
+  "purpose": [
+    "External Analgesic"
+  ],
+  "indications_and_usage": [
+    "USES: For the temporary relief of minor aches and pains of muscles and joints associated with simple backache, arthritis, sprains and strains."
+  ],
+  "warnings": [
+    "For external use only. Use only as directed. Do not bandage tightly. Do not use with heating pad, pack, wrap, hot water bottle or any heating element."
+  ],
+  "ask_doctor": [
+    "ASK A DOCTOR BEFORE USE IF YOU HAVE Redness over affected area"
+  ],
+  "when_using": [
+    "Avoid contact with eyes Do not apply to wounds or damaged skin. If confition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days, discontinue use of this product, and consult a doctor."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding ask a proffesional before use"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or call a Poison Control Center right away"
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Adults and children over 12 years of age *Apply a thin layer to affected area and rub gently not more than 3 to 4 times a day. *Wash hands with soap and water after use. Children under 12 years of age; do not use unless directed by doctor"
+  ],
+  "storage_and_handling": [
+    "OTHER INFORMATION: Store at room temperature 15° - 30°C (59° - 86°F)"
+  ],
+  "inactive_ingredient": [
+    "Water (Aqua), Ethyl Alcohol, Paraffinum Liquidum, Cetearyl Alcohol, Cetyl Alcohol, Stearic Acid, Dimethicone, Glyceryl Stearate, Tocopheryl Acetate, Glycereth-26, Caprylic/Capric Triglyceride, Polysorbate 60, Acrylamide/Sodium Acrylate Copolymer, Trideceth-6, Propylene Glycol, Stearyl Alcohol, Polysorbate 20, Diazolidinyl Urea, Triethanolamine, Cannabidiol, Methylparaben, Propylparaben, Sodium Hyaluronate, Sodium PCA, Wheat Amino Acids, Panthenol, Symphytum Officinale (Comfrey) Extract, Hydroxyproline, Sodium Benzotriazolyl Butylphenol Sulfonate, Buteth-3, Tributyl Citrate, FD&C Blue No.1 (CI 42090), FD&C Yellow No.5 (CI 19140)."
+  ],
+  "questions": [
+    "QUESTIONS OR COMMENTS? Contact us +1-305-468-8790"
+  ],
+  "package_label_principal_display_panel": [
+    "ETERNAL SPIRIT BEAUTY PAINLESS WITH CBD 3000 PAINLESS WITH CBD 3000 JAR",
+    "ETERNAL SPIRIT BEAUTY PAINLESS WITH CBD 3000 SACHET PAINLESS WITH CBD 3000 SACHET"
+  ],
+  "set_id": "0816cc8f-8d0b-de27-e063-6294a90a8a9d",
+  "id": "43d677ed-a243-88a0-e063-6294a90ad94c",
+  "effective_time": "20251117",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "ETERNAL SPIRIT BEAUTY PAINLESS WITH CBD 3000"
+    ],
+    "generic_name": [
+      "MENTHOL, CAMPHOR"
+    ],
+    "manufacturer_name": [
+      "Worldwide Cosmetics, Inc"
+    ],
+    "product_ndc": [
+      "70947-130"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MENTHOL, UNSPECIFIED FORM",
+      "CAMPHOR (SYNTHETIC)"
+    ],
+    "spl_id": [
+      "43d677ed-a243-88a0-e063-6294a90ad94c"
+    ],
+    "spl_set_id": [
+      "0816cc8f-8d0b-de27-e063-6294a90a8a9d"
+    ],
+    "package_ndc": [
+      "70947-130-02",
+      "70947-130-33"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0787790465454"
+    ],
+    "unii": [
+      "L7T10EIP3A",
+      "5TJD82A1ET"
+    ]
+  }
+}

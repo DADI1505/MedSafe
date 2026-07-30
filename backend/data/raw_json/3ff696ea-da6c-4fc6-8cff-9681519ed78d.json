@@ -1,0 +1,113 @@
+{
+  "spl_product_data_elements": [
+    "Guaifenesin and Dextromethorphan HBr Guaifenesin and Dextromethorphan HBr GUAIFENESIN GUAIFENESIN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN SILICON DIOXIDE HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POVIDONE K90 POVIDONE K25 STARCH, CORN white to off-white X;62"
+  ],
+  "active_ingredient": [
+    "Active Ingredients (in each extended-release tablet) Dextromethorphan Hydrobromide USP 30 mg Guaifenesin USP 600 mg"
+  ],
+  "purpose": [
+    "Purpose Cough suppressant Expectorant"
+  ],
+  "indications_and_usage": [
+    "Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive temporarily relieves: cough due to minor throat and bronchial irritation as may occur with the common cold or inhaled irritants the intensity of coughing the impulse to cough to help you get to sleep"
+  ],
+  "warnings": [
+    "Warnings Do not use for children under 12 years of age if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus)"
+  ],
+  "when_using": [
+    "When using this product do not use more than directed"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious illness."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions do not crush, chew, or break tablet take with a full glass of water this product can be administered without regard for timing of meals adults and children 12 years and older: 1 or 2 tablets every 12 hours; not more than 4 tablets in 24 hours children under 12 years of age: do not use"
+  ],
+  "storage_and_handling": [
+    "Other information tamper evident: do not use if carton is open or if printed seal on blister is broken or missing store at 20° to 25°C (68° to 77°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, povidone, pregelatinized starch (maize)"
+  ],
+  "questions": [
+    "Questions? call 1-855-274-4122 You may also report side effects to this phone number."
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 600 mg/30 mg (20 Tablet Carton Label) NDC 58602-824-67 Primary Health COMPARE TO Mucinex ® DM Active ingredients* Mucus Relief DM Guaifenesin and Dextromethorphan HBr Extended-Release Tablets 600 mg/30 mg EXPECTORANT AND COUGH SUPPRESSANT Controls Cough Thins and Loosens Mucus 12 Hour 20 Tablets Extended-Release Tablets PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 600 mg/30 mg (20 Tablet Carton Label)"
+  ],
+  "set_id": "029ee6fb-df76-4df6-b717-70005d5708da",
+  "id": "3ff696ea-da6c-4fc6-8cff-9681519ed78d",
+  "effective_time": "20240203",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "ANDA206941"
+    ],
+    "brand_name": [
+      "Guaifenesin and Dextromethorphan HBr"
+    ],
+    "generic_name": [
+      "GUAIFENESIN AND DEXTROMETHORPHAN HBR"
+    ],
+    "manufacturer_name": [
+      "Aurohealth LLC"
+    ],
+    "product_ndc": [
+      "58602-824"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "GUAIFENESIN",
+      "DEXTROMETHORPHAN HYDROBROMIDE"
+    ],
+    "rxcui": [
+      "1298324"
+    ],
+    "spl_id": [
+      "3ff696ea-da6c-4fc6-8cff-9681519ed78d"
+    ],
+    "spl_set_id": [
+      "029ee6fb-df76-4df6-b717-70005d5708da"
+    ],
+    "package_ndc": [
+      "58602-824-67",
+      "58602-824-08"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0358602824679"
+    ],
+    "nui": [
+      "N0000193956",
+      "N0000008867",
+      "N0000009560"
+    ],
+    "pharm_class_epc": [
+      "Expectorant [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Decreased Respiratory Secretion Viscosity [PE]",
+      "Increased Respiratory Secretions [PE]"
+    ],
+    "unii": [
+      "495W7451VQ",
+      "9D2RTI9KYH"
+    ]
+  }
+}

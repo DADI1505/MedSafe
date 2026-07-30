@@ -1,0 +1,127 @@
+{
+  "spl_product_data_elements": [
+    "Goodys Back and Body Pain Acetaminophen and Asprin ACETAMINOPHEN ACETAMINOPHEN ASPIRIN ASPIRIN LACTOSE MONOHYDRATE POTASSIUM CHLORIDE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredients (in each caplet) Acetaminophen 325 mg Aspirin (NSAID*) 500 mg *nonsteroidal anti-inflammatory drug"
+  ],
+  "purpose": [
+    "Purpose Pain reliever/fever reducer"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves minor aches and pains due to: • headache • minor arthritis pain • muscular aches • a cold toothache menstrual cramps • temporarily reduces fever"
+  ],
+  "warnings": [
+    "Warnings Reye’s syndrome : Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye’s syndrome, a rare but serious illness. Allergy alert : Aspirin may cause a severe allergic reaction which may include: hives facial swelling shock asthma (wheezing) Acetaminophen may cause severe skin reactions. Symptoms may include: ▪ skin reddening ▪ blisters ▪ rash. If a skin reaction occurs, stop use and seek medical help right away. Liver warning : This product contains acetaminophen. Severe liver damage may occur if you take more than 4 packs in 24 hours, which is the maximum daily amount with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Stomach bleeding warning : This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you are age 60 or older have had stomach ulcers or bleeding problems take a blood thinning (anticoagulant) or steroid drug take other drugs containing prescription or non-prescription NSAIDs (aspirin, ibuprofen, naproxen, or others) have 3 or more alcoholic drinks every day while using this product take more or for a longer time than directed Do not use if you have ever had an allergic reaction to aspirin or any other pain reliever/fever reducer with any other drug containing acetaminophen (prescription or non-prescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. Ask a doctor before use if you have liver disease stomach bleeding warning applies to you you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis or kidney disease you are taking a diuretic you have asthma Ask a doctor or pharmacist before use if you are taking a prescription drug for diabetes, gout, or arthritis the blood thinning drug warfarin Stop use and ask doctor if an allergic reaction occurs. Seek medical help right away. you experience any of the following signs of stomach bleeding: • feel faint • vomit blood • have bloody or black stools • have stomach pain that does not get better pain gets worse or lasts for more than 10 days fever gets worse or lasts for more than 3 days redness or swelling is present any new symptoms appear ringing in the ears or a loss of hearing occurs These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use aspirin at 20 weeks or later in pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery. Keep out of reach of children."
+  ],
+  "do_not_use": [
+    "Do not use if you have ever had an allergic reaction to aspirin or any other pain reliever/fever reducer with any other drug containing acetaminophen (prescription or non-prescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have liver disease stomach bleeding warning applies to you you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis or kidney disease you are taking a diuretic you have asthma"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking a prescription drug for diabetes, gout, or arthritis the blood thinning drug warfarin"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use aspirin at 20 weeks or later in pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "overdosage": [
+    "Overdose warning: Taking more than the recommended dose can cause serious health problems. In case of overdose, get medical help or contact Poison Control Center (1-800-222-1222) right away. Quick medical attention is critical for adults as well as children even if you do not notice any signs or symptoms."
+  ],
+  "dosage_and_administration": [
+    "Directions do not take more than directed (see overdose warning) adults and children 12 years of age and over: Open 1 pack, place powder on tongue every 6 hours, while symptoms persist. Drink a full glass of water with each dose, or may stir powder into a glass of water or other liquid. do not take more than 4 packs in 24 hours unless directed by a doctor. children under 12 years of age: ask a doctor."
+  ],
+  "other_safety_information": [
+    "Other information each powder contains: potassium 49 mg store at 25ºC (77ºF)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients lactose monohydrate, potassium chloride"
+  ],
+  "questions": [
+    "Questions or comments? 1-866-255-5197"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL Goody’s BACK & BODY PAIN Acetaminophen Aspirin (NSAID) Pain Reliever Fever Reducer 24 POWDERS Goody’s BACK & BODY PAIN Acetaminophen Aspirin (NSAID) Pain Reliever Fever Reducer 24 POWDERS",
+    "PRINCIPAL DISPLAY PANEL Goody’s BACK & BODY PAIN Acetaminophen Aspirin (NSAID) Pain Reliever Fever Reducer 72 POWDERS Goody’s BACK & BODY PAIN Acetaminophen Aspirin (NSAID) Pain Reliever Fever Reducer 72 POWDERS"
+  ],
+  "set_id": "055d0288-61d4-48bc-b91f-6ecc1969beb8",
+  "id": "8ec77abf-03a1-4692-959a-0bd779ecdc6c",
+  "effective_time": "20251023",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "M013"
+    ],
+    "brand_name": [
+      "Goodys Back and Body Pain"
+    ],
+    "generic_name": [
+      "ACETAMINOPHEN AND ASPRIN"
+    ],
+    "manufacturer_name": [
+      "Medtech Products Inc."
+    ],
+    "product_ndc": [
+      "63029-600"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACETAMINOPHEN",
+      "ASPIRIN"
+    ],
+    "rxcui": [
+      "763111"
+    ],
+    "spl_id": [
+      "8ec77abf-03a1-4692-959a-0bd779ecdc6c"
+    ],
+    "spl_set_id": [
+      "055d0288-61d4-48bc-b91f-6ecc1969beb8"
+    ],
+    "package_ndc": [
+      "63029-600-01",
+      "63029-600-06"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000000160",
+      "N0000008836",
+      "M0001335",
+      "N0000175722",
+      "N0000175578",
+      "N0000008832"
+    ],
+    "pharm_class_moa": [
+      "Cyclooxygenase Inhibitors [MoA]"
+    ],
+    "pharm_class_pe": [
+      "Decreased Prostaglandin Production [PE]",
+      "Decreased Platelet Aggregation [PE]"
+    ],
+    "pharm_class_cs": [
+      "Anti-Inflammatory Agents, Non-Steroidal [CS]"
+    ],
+    "pharm_class_epc": [
+      "Nonsteroidal Anti-inflammatory Drug [EPC]",
+      "Platelet Aggregation Inhibitor [EPC]"
+    ],
+    "unii": [
+      "362O9ITL9D",
+      "R16CO5Y76E"
+    ]
+  }
+}

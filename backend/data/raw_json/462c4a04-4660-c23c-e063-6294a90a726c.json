@@ -1,0 +1,99 @@
+{
+  "spl_product_data_elements": [
+    "Coppertone EveryTone Face Sunscreen SPF 55 Avobenzone 3%, Homosalate 15%, Octisalate 5%, Octocrylene 10% ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER (60000 MPA.S) TRIHEPTANOIN COCO-CAPRYLATE/CAPRATE HYDROGENATED CASTOR OIL ALKYL (C12-15) BENZOATE 12-HYDROXYSTEARIC ACID ETHYLHEXYL PALMITATE DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (SOFT PARTICLE) PROPYLENE CARBONATE PALMITIC ACID DIETHYLHEXYL 2,6-NAPHTHALATE DIISOPROPYL ADIPATE ISOPHORONE DIISOCYANATE STEARIC ACID DILINOLEIC ACID/BUTANEDIOL COPOLYMER WATER NEOPENTYL GLYCOL DIHEPTANOATE DEXTRIN PALMITATE (CORN; 20000 MW) HYDROXYACETOPHENONE FRAGRANCE CLEAN ORC0600327 ALCOHOL BUTYLENE GLYCOL DICAPRYLATE/DICAPRATE DICAPRYLYL CARBONATE DIMETHICONE QUATERNIUM-90 BENTONITE BUTYLOCTYL SALICYLATE SILICA DIMETHYL SILYLATE DIBUTYL ADIPATE SILICON DIOXIDE HOMOSALATE HOMOSALATE OCTOCRYLENE OCTOCRYLENE OCTISALATE OCTISALATE AVOBENZONE AVOBENZONE white to off-white"
+  ],
+  "spl_unclassified_section": [
+    "Drugs Facts",
+    "Other information ■ protect this product from excessive heat and direct sun ■ may stain or damage some fabrics or surfaces"
+  ],
+  "active_ingredient": [
+    "Active ingredients Avobenzone 3%, Homosalate 15%, Octisalate 5%, Octocrylene 10%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Use ■ helps prevent sunburn"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin"
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions ■ apply liberally 15 minutes before sun exposure ■ reapply: ■ after 40 minutes of swimming or sweating ■ immediately after towel drying ■ at least every 2 hours ■ Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: ■ limit time in the sun, especially from 10 a.m. – 2 p.m. ■ wear long-sleeve shirts, pants, hats, and sunglasses ■ children under 6 months: Ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients dicaprylyl carbonate, butylene glycol dicaprylate/dicaprate, neopentyl glycol diheptanoate, silica dimethyl silylate, dibutyl adipate, dimethicone, dextrin palmitate, coco-caprylate/caprate, acetyl ethylhexyl polyhydroxystearate, butyloctyl salicylate, diethylhexyl 2,6-naphthalate, diisopropyl adipate, poly C10-30 alkyl acrylate, triheptanoin, silica, alcohol denat., dimethicone/vinyl dimethicone crosspolymer, stearalkonium hectorite, dimethicone crosspolymer, C12-15 alkyl benzoate, 12-hydroxy stearic acid, dilinoleic acid/butanediol copolymer, propylene carbonate, ethylhexyl palmitate, hydroxyacetophenone, quaternium-90 bentonite, fragrance, stearic acid, castor oil/IPDI copolymer, water, palmitic acid"
+  ],
+  "questions": [
+    "Questions? 1-866-288-3330"
+  ],
+  "package_label_principal_display_panel": [
+    "Coppertone ® Clear Sunscreen EveryTone Invisible Finish Face 55 Transparent on Skin For All Skin Tones Won't Clog Pores Water Resistant (40 Minutes) Broad Spectrum SPF 55 EveryTone Face"
+  ],
+  "set_id": "04b12f39-778c-ecee-e063-6394a90afa24",
+  "id": "462c4a04-4660-c23c-e063-6294a90a726c",
+  "effective_time": "20251217",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Coppertone EveryTone Face Sunscreen SPF 55"
+    ],
+    "generic_name": [
+      "AVOBENZONE 3%, HOMOSALATE 15%, OCTISALATE 5%, OCTOCRYLENE 10%"
+    ],
+    "manufacturer_name": [
+      "Beiersdorf Inc"
+    ],
+    "product_ndc": [
+      "66800-1094"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "HOMOSALATE",
+      "OCTOCRYLENE",
+      "OCTISALATE",
+      "AVOBENZONE"
+    ],
+    "spl_id": [
+      "462c4a04-4660-c23c-e063-6294a90a726c"
+    ],
+    "spl_set_id": [
+      "04b12f39-778c-ecee-e063-6394a90afa24"
+    ],
+    "package_ndc": [
+      "66800-1094-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0072140038427"
+    ],
+    "unii": [
+      "V06SV4M95S",
+      "5A68WGF6WM",
+      "4X49Y0596W",
+      "G63QQF2NOX"
+    ]
+  }
+}

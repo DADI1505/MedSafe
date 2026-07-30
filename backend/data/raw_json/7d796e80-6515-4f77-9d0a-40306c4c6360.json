@@ -1,0 +1,96 @@
+{
+  "spl_product_data_elements": [
+    "DNA Pancreas Formula Lycopodium Clavatum, Pancreas Suis, DNA, Insulinum (Human), Phosphoricum Acidum, Radium Bromatum, Uranium Nitricum LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE SUS SCROFA PANCREAS SUS SCROFA PANCREAS HERRING SPERM DNA HERRING SPERM DNA INSULIN HUMAN INSULIN HUMAN PHOSPHORIC ACID PHOSPHORIC ACID RADIUM BROMIDE RADIUM CATION URANYL NITRATE HEXAHYDRATE URANIUM CATION (6+) WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: (in each spray) DNA 30X, 60X, 100X, 1000X, Insulinum 12X, 60X, 100X, 1000X, Lycopodium Clavatum 6X, Pancreas Suis 9X, 12X, 30X, 100X, Phosphoricum Acidum 30X, Radium Bromatum 60X, Uranium Nitricum 30C."
+  ],
+  "purpose": [
+    "PURPOSE: DNA – Fatigue, Indigestion, Pain in Left Shoulder, and Pain in Abdomen,† Insulinum – Fatigue, Support of the Pancreas, and Weakness,† Lycopodium Clavatum – Bloated Abdomen, Desire for Sweets, and Indigestion,† Pancreas Suis – Support of the Pancreas,† Phosphoricum Acidum – Fatigue, Loss of Appetite, and Weakness,† Radium Bromatum – Backaches, Headaches, and Support of the Pancreas,† Uranium Nitricum – Bloated Abdomen, Excessive Thirst, Pain in Left Shoulder, and Support of the Pancreas† †Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "indications_and_usage": [
+    "USES: Assists in support of the pancreas.† †Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS: If pregnant or breast-feeding, ask a health professional before use. In case of overdose, get medical help or contact a Poison Control Center right away. If condition worsens, seek medical attention. KEEP OUT OF REACH OF CHILDREN Do not use if tamper evident seal is broken or missing. Store in a cool place after opening"
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: • Adults: 2 to 3 sprays orally, three times daily. Children under twelve one half adult dosage. • Do not take within 15 minutes of consuming food, beverage or brushing teeth. • Consult a physician for use in children under 12 years of age."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Alcohol USP 20%, Purified Water USP."
+  ],
+  "questions": [
+    "QUESTIONS: MANUFACTURED EXCLUSIVELY FOR NUTRITIONAL SPECIALTIES, INC. PO BOX 97227 PITTSBURG, PA 15229 www.phpltd.com 1-800-245-1313"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: Professional Health Products HOMEOPATHIC NDC 83027-0302-1 DNA PANCREAS FORMULA 2 FL. OZ. (60 ml) DNA PANCREAS FORMULA"
+  ],
+  "set_id": "004b278d-b129-416f-a8d4-1acad71338cf",
+  "id": "7d796e80-6515-4f77-9d0a-40306c4c6360",
+  "effective_time": "20260402",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "DNA Pancreas Formula"
+    ],
+    "generic_name": [
+      "LYCOPODIUM CLAVATUM, PANCREAS SUIS, DNA, INSULINUM (HUMAN), PHOSPHORICUM ACIDUM, RADIUM BROMATUM, URANIUM NITRICUM"
+    ],
+    "manufacturer_name": [
+      "Nutritional Specialties, Inc."
+    ],
+    "product_ndc": [
+      "83027-0302"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LYCOPODIUM CLAVATUM SPORE",
+      "SUS SCROFA PANCREAS",
+      "HERRING SPERM DNA",
+      "INSULIN HUMAN",
+      "PHOSPHORIC ACID",
+      "RADIUM BROMIDE",
+      "URANYL NITRATE HEXAHYDRATE"
+    ],
+    "spl_id": [
+      "7d796e80-6515-4f77-9d0a-40306c4c6360"
+    ],
+    "spl_set_id": [
+      "004b278d-b129-416f-a8d4-1acad71338cf"
+    ],
+    "package_ndc": [
+      "83027-0302-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "M0011417",
+      "N0000175944"
+    ],
+    "pharm_class_cs": [
+      "Insulin [CS]"
+    ],
+    "pharm_class_epc": [
+      "Insulin [EPC]"
+    ],
+    "unii": [
+      "C88X29Y479",
+      "9Y3J3362RY",
+      "51FI676N6F",
+      "1Y17CTI5SR",
+      "E4GA8884NN",
+      "R74O7T8569",
+      "3V057702FY"
+    ]
+  }
+}

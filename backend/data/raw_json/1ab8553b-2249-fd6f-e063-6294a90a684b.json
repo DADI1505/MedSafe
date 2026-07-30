@@ -1,0 +1,106 @@
+{
+  "spl_product_data_elements": [
+    "Acetaminophen Acetaminophen STEARIC ACID POLYETHYLENE GLYCOL, UNSPECIFIED STARCH, CORN SODIUM STARCH GLYCOLATE TYPE A POTATO HYPROMELLOSE, UNSPECIFIED POVIDONE K30 ACETAMINOPHEN ACETAMINOPHEN G552"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Acetaminophen USP, 500mg (in each tablet)"
+  ],
+  "purpose": [
+    "Purpose Pain Releiver / Fever Reducer"
+  ],
+  "do_not_use": [
+    "Do Not Use With any other drug containing acetaminophen (prescription or nonprescription), if you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. If you are allergic to acetaminophen or any of the inactive ingredients in this product."
+  ],
+  "indications_and_usage": [
+    "Uses Temporarily relieves minor aches and pains due to Common cold headache minor pain of arthritis toothache muscular aches premenstrual and menstrual cramps temporarily relieves fever"
+  ],
+  "warnings": [
+    "Warnings Liver warning This product contains acetaminophen. Sever liver damage may occur if you take more than 4000mg of acetaminophen in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert Acetaminophen may cause severe skin reactions. Symptoms may include skin reddening blisters rash if a skin reaction occurs stop use ad seek medical medical help right away"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have Liver Disease"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Keep out of reach of children"
+  ],
+  "dosage_and_administration": [
+    "Directions Do not take more than directed. See overdose warning Adults and children 12 years and older Take 2 tablets every 6 hours while symptoms last Do not take more than 6 tablets in 24 hours unless directed by a doctor Do not use for more than 10 days unless directed by a doctor Children under 12 years of age Ask a doctor"
+  ],
+  "stop_use": [
+    "Stop Use and ask a doctor if Pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days new symptoms occur redness or swelling is present These could be a sign of a serious condition"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding Ask a health professional before use"
+  ],
+  "overdosage": [
+    "Overdose Warning In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Quick medical attention is cretical for adults as well as children even if you do not notice symptoms."
+  ],
+  "spl_unclassified_section": [
+    "Other Information Store at 20ºC - 25ºC (68ºF - 77ºF) Avoid high humidity See end panel for expiration date and lot number",
+    "Distributed By: Distributed By: Trifecta Pharmaceuticals USA® Ft. Lauderdale, FL. 33301 USA 1-888-296-9067 *This product is not manufactured or distributed by the Johnson & Johnson Corporation, owner of the registered trademark Tylenol® Reorder No. 2004 Made in the USA"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients hydroxypropyl methyl cellulose, polyethylene glycol, povidone K-30, Pregelatinized starch, Sodium starch glycoate, Stearic Acid"
+  ],
+  "questions": [
+    "Questions or Comments? Call 1-888-296-9067"
+  ],
+  "package_label_principal_display_panel": [
+    "Label CS 2004 Globe Acetaminophen 500mg 50pk 030624 CDER"
+  ],
+  "set_id": "026bf664-d598-73de-e063-6394a90a9206",
+  "id": "1ab8553b-2249-fd6f-e063-6294a90a684b",
+  "effective_time": "20240612",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M013"
+    ],
+    "brand_name": [
+      "Acetaminophen"
+    ],
+    "generic_name": [
+      "ACETAMINOPHEN"
+    ],
+    "manufacturer_name": [
+      "Trifecta Pharmaceuticals USA LLC"
+    ],
+    "product_ndc": [
+      "69396-140"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACETAMINOPHEN"
+    ],
+    "rxcui": [
+      "198440"
+    ],
+    "spl_id": [
+      "1ab8553b-2249-fd6f-e063-6294a90a684b"
+    ],
+    "spl_set_id": [
+      "026bf664-d598-73de-e063-6394a90a9206"
+    ],
+    "package_ndc": [
+      "69396-140-03",
+      "69396-140-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0860003665701"
+    ],
+    "unii": [
+      "362O9ITL9D"
+    ]
+  }
+}

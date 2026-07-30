@@ -1,0 +1,104 @@
+{
+  "spl_product_data_elements": [
+    "ITCH X BENZYL ALCOHOL/PRAMOXINE HYDROCHLORIDE BENZYL ALCOHOL BENZYL ALCOHOL PRAMOXINE HYDROCHLORIDE PRAMOXINE BUTYLENE GLYCOL ALCOHOL ALOE WATER EDETOL CARBOMER HOMOPOLYMER TYPE B (ALLYL SUCROSE CROSSLINKED) DIAZOLIDINYL UREA FD&C BLUE NO. 1 SODIUM BENZOATE SODIUM SULFITE SULFITE ION POTASSIUM SORBATE IODOPROPYNYL BUTYLCARBAMATE CITRIC ACID MONOHYDRATE STYRENE/AMMONIUM ACRYLATE COPOLYMER (300000 MW)"
+  ],
+  "active_ingredient": [
+    "Active ingredients......................................Purpose Benzyl alcohol 10%......................................Topical analgesic Pramoxine hydrochloride 1%.......................Topical analgesic"
+  ],
+  "purpose": [
+    "Use Temporarily relieves pain and itching associated with insect bites, minor burns, sunburn, minor cuts, scrapes, minor skin irritations, hives and rashes due to poison ivy, poison oak, or poison sumac"
+  ],
+  "indications_and_usage": [
+    "Use Temporarily relieves pain and itching associated with insect bites, minor burns, sunburn, minor cuts, scrapes, minor skin irritations, hives and rashes due to poison ivy, poison oak, or poison sumac"
+  ],
+  "warnings": [
+    "Warnings For external use only. Avoid contact with eyes."
+  ],
+  "do_not_use": [
+    "Do not use on open wounds, damaged, or blistered skin. for vaginal, genital, or rectal itching. on children under 2 years of age unless under the advice and supervision of a physician."
+  ],
+  "ask_doctor": [
+    "Stop use and ask a doctor if condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding , ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep this and all drugs out of reach of children. In case of ingestion, get medical help or contact a poison control center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 2 years and older - apply to affected area not more than 3 or 4 times daily children under 2 years - consult a physician"
+  ],
+  "storage_and_handling": [
+    "Other information store at 59°-86° F (15°-30° C) in a dry place mfd. in the USA for B.F. Ascher & Co., Inc."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients: aloe barbadensis leaf juice (aloe vera gel), blue 1, butylene glycol, carbomer, citric acid, diazolidinyl urea, iodopropynyl butylcarbamate, potassium sorbate, SD alcohol 40, sodium benzoate, sodium sulfite, styrene/acrylates copolymer, tetrahydroxypropyl ethylenediamine, and water"
+  ],
+  "questions": [
+    "Questions? Call 1-800-324-1880, 7:30am - 4:00pm Central, M - F, or visit bfascher.com"
+  ],
+  "package_label_principal_display_panel": [
+    "Itch-X Gel PDP Itch-X Gel PDP"
+  ],
+  "set_id": "03c16d33-8f59-0184-e054-00144ff8d46c",
+  "id": "2888be26-0ebc-ab78-e063-6394a90ada63",
+  "effective_time": "20241205",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "ITCH X"
+    ],
+    "generic_name": [
+      "BENZYL ALCOHOL/PRAMOXINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "BF ASCHER AND CO INC"
+    ],
+    "product_ndc": [
+      "0225-0495"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZYL ALCOHOL",
+      "PRAMOXINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1293632",
+      "1293634"
+    ],
+    "spl_id": [
+      "2888be26-0ebc-ab78-e063-6394a90ada63"
+    ],
+    "spl_set_id": [
+      "03c16d33-8f59-0184-e054-00144ff8d46c"
+    ],
+    "package_ndc": [
+      "0225-0495-33"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000181811"
+    ],
+    "pharm_class_epc": [
+      "Pediculicide [EPC]"
+    ],
+    "unii": [
+      "LKG8494WBH",
+      "88AYB867L5"
+    ]
+  }
+}

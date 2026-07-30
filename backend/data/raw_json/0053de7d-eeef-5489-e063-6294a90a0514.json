@@ -1,0 +1,126 @@
+{
+  "spl_product_data_elements": [
+    "Ammonium Carbonicum Ammonium Carbonicum SUCROSE AMMONIUM CARBONATE CARBONATE ION Ammonium Carbonicum Ammonium Carbonicum SUCROSE AMMONIUM CARBONATE CARBONATE ION Ammonium Carbonicum Ammonium Carbonicum SUCROSE AMMONIUM CARBONATE CARBONATE ION Ammonium Carbonicum Ammonium Carbonicum SUCROSE AMMONIUM CARBONATE CARBONATE ION Ammonium Carbonicum Ammonium Carbonicum SUCROSE AMMONIUM CARBONATE CARBONATE ION Ammonium Carbonicum Ammonium Carbonicum SUCROSE AMMONIUM CARBONATE CARBONATE ION Ammonium Carbonicum Ammonium Carbonicum SUCROSE AMMONIUM CARBONATE CARBONATE ION Ammonium Carbonicum Ammonium Carbonicum AMMONIUM CARBONATE CARBONATE ION SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Ammonium Carbonicum 6C 5g Ammonium Carbonicum 6C 30g Ammonium Carbonicum 6C 100g Ammonium Carbonicum 12C 5g Ammonium Carbonicum 12C 30g Ammonium Carbonicum 12C 100g Ammonium Carbonicum 30C 1g Ammonium Carbonicum 30C 5g Ammonium Carbonicum 30C 30g Ammonium Carbonicum 30C 100g Ammonium Carbonicum 100C 1g Ammonium Carbonicum 100C 5g Ammonium Carbonicum 100C 30g Ammonium Carbonicum 100C 100g Ammonium Carbonicum 200C 1g Ammonium Carbonicum 200C 5g Ammonium Carbonicum 200C 30g Ammonium Carbonicum 200C 100g Ammonium Carbonicum 500C 1g Ammonium Carbonicum 500C 5g Ammonium Carbonicum 500C 30g Ammonium Carbonicum 500C 100g Ammonium Carbonicum 1M 1g Ammonium Carbonicum 1M 5g Ammonium Carbonicum 1M 30g Ammonium Carbonicum 1M 100g Ammonium Carbonicum 10M 1g Ammonium Carbonicum 10M 5g Ammonium Carbonicum 10M 30g Ammonium Carbonicum 10M 100g"
+  ],
+  "set_id": "0053de7d-eeee-5489-e063-6294a90a0514",
+  "id": "0053de7d-eeef-5489-e063-6294a90a0514",
+  "effective_time": "20230712",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Ammonium Carbonicum"
+    ],
+    "generic_name": [
+      "AMMONIUM CARBONICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3608",
+      "37662-3611",
+      "37662-3615",
+      "37662-3613",
+      "37662-3614",
+      "37662-3609",
+      "37662-3610",
+      "37662-3612"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "AMMONIUM CARBONATE"
+    ],
+    "spl_id": [
+      "0053de7d-eeef-5489-e063-6294a90a0514"
+    ],
+    "spl_set_id": [
+      "0053de7d-eeee-5489-e063-6294a90a0514"
+    ],
+    "package_ndc": [
+      "37662-3611-1",
+      "37662-3611-2",
+      "37662-3611-3",
+      "37662-3611-4",
+      "37662-3615-1",
+      "37662-3615-2",
+      "37662-3615-3",
+      "37662-3615-4",
+      "37662-3613-1",
+      "37662-3613-2",
+      "37662-3613-3",
+      "37662-3613-4",
+      "37662-3614-1",
+      "37662-3614-2",
+      "37662-3614-3",
+      "37662-3614-4",
+      "37662-3609-1",
+      "37662-3609-2",
+      "37662-3609-3",
+      "37662-3610-1",
+      "37662-3610-2",
+      "37662-3610-3",
+      "37662-3610-4",
+      "37662-3612-1",
+      "37662-3612-2",
+      "37662-3612-3",
+      "37662-3612-4",
+      "37662-3608-1",
+      "37662-3608-2",
+      "37662-3608-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "NJ5VT0FKLJ"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "spl_product_data_elements": [
+    "Menstrual Pain Relief Complete Acetaminophen, Pyrilamine maleate, Caffeine SILICON DIOXIDE CALCIUM PHOSPHATE CROSCARMELLOSE SODIUM FD&C YELLOW NO. 6 HYPROMELLOSES ISOPROPYL ALCOHOL MAGNESIUM STEARATE METHYLENE CHLORIDE MICROCRYSTALLINE CELLULOSE STARCH, CORN POLYETHYLENE GLYCOL, UNSPECIFIED PYRROLIDONE SODIUM STARCH GLYCOLATE TYPE A POVIDONE STEARIC ACID TALC TITANIUM DIOXIDE ACETAMINOPHEN ACETAMINOPHEN CAFFEINE CAFFEINE PYRILAMINE MALEATE PYRILAMINE SD33"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Distributed by: Shield Pharmaceuticals Corp. Ronkonkoma, NY 11779"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each caplet) Acetaminophen 500 mg Caffeine 60 mg Pyrilamine maleate 15 mg"
+  ],
+  "purpose": [
+    "Purpose Pain reliever Diuretic Antihistamine"
+  ],
+  "indications_and_usage": [
+    "Uses for the temporary relief of these symptoms associated with menstrual periods: cramps bloating water weight gain headache backache muscle aches fatigue"
+  ],
+  "warnings": [
+    "Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take: more than 4,000 mg of acetaminophen in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash hives facial swelling asthma (wheezing) shock If a skin reaction occurs, stop use and seek medical help right away."
+  ],
+  "do_not_use": [
+    "Do not use if you have ever had an allergic reaction to this product or any of its ingredients with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have difficulty in urination due to enlargement of the prostate gland liver disease _ glaucoma a breathing problem such as emphysema or chronic"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin taking sedatives or tranquilizers"
+  ],
+  "when_using": [
+    "When using this product avoid alcoholic beverages excitability may occur, especially in children be careful when driving a motor vehicle or operating machiner alcohol, sedatives, and tranquilizers may increase drowsiness you may get drowsy limit the use of caffeine-containing medications, foods, or beverages while taking this product because too much caffeine may cause nervousness, irritability, sleeplessness, and, occasionally, rapid heartbeat. The recommended dose of this product contains about as much caffeine as a cup of coffee."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if new symptoms occur _ redness or swelling is present pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days These could be signs of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 12 years and over: do not take more than the recommended dose adults and children 12 years and over: take 2 caplets with water repeat every 6 hours, as needed do not exceed 6 caplets per day children under 12 years: ask a doctor"
+  ],
+  "other_safety_information": [
+    "Other information store at 25ºC (77ºF); excursions permitted between 15º-30ºC (59º-86ºF)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients calcium phosphate, colloidal silicon dioxide, croscarmellose sodium, FD&C yellow no. 6, hypromellose, isopropyl alcohol, magnesium stearate, methylene chloride, microcrystalline cellulose, polyethylene glycols, polyvinyl pyrrolidone, povidone, pregelatinized starch, sodium starch glycolate*, stearic acid, talc, titanium dioxide *may contain this ingredient"
+  ],
+  "questions": [
+    "Questions or comments? 1-800-373-6981 (toll-free)"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL Menstrual Pain Relief Complete Acetaminophen/Caffeine/Pyrilamine maleate Pain reliever/Diuretic/Antihistamine Label Label-Front Label-Back"
+  ],
+  "set_id": "05fda811-d65f-41b2-89e4-297cdddb3d99",
+  "id": "453afbaa-303a-de11-e063-6294a90ac477",
+  "effective_time": "20251205",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M013"
+    ],
+    "brand_name": [
+      "Menstrual Pain Relief Complete"
+    ],
+    "generic_name": [
+      "ACETAMINOPHEN, PYRILAMINE MALEATE, CAFFEINE"
+    ],
+    "manufacturer_name": [
+      "Shield Pharmaceuticals Corp"
+    ],
+    "product_ndc": [
+      "83059-0119"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACETAMINOPHEN",
+      "CAFFEINE",
+      "PYRILAMINE MALEATE"
+    ],
+    "rxcui": [
+      "1597298"
+    ],
+    "spl_id": [
+      "453afbaa-303a-de11-e063-6294a90ac477"
+    ],
+    "spl_set_id": [
+      "05fda811-d65f-41b2-89e4-297cdddb3d99"
+    ],
+    "package_ndc": [
+      "83059-0119-8"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0611419406460"
+    ],
+    "nui": [
+      "N0000175739",
+      "N0000175729",
+      "N0000175790",
+      "M0023046"
+    ],
+    "pharm_class_epc": [
+      "Central Nervous System Stimulant [EPC]",
+      "Methylxanthine [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Central Nervous System Stimulation [PE]"
+    ],
+    "pharm_class_cs": [
+      "Xanthines [CS]"
+    ],
+    "unii": [
+      "362O9ITL9D",
+      "3G6A5W338E",
+      "R35D29L3ZA"
+    ]
+  }
+}

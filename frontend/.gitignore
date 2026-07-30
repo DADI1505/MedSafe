@@ -5,9 +5,21 @@ __v0_jsx-dev-runtime.ts
 .snowflake/
 .v0-trash/
 .vercel/
+# Environnement virtuel
+venv/
+env/
+ENV/
+
+# Fichiers de configuration sensibles
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
 
 # Environment variables
 .env*.local
+.env
 
 # Common ignores
 node_modules

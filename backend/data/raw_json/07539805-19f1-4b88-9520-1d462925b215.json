@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Cough and Bronchial Nighttime Syrup ACONITUM NAPELLUS, BRYONIA ROOT, CALCIUM CATION, SPONGIA OFFICINALIS SKELETON, ROASTED, TIN, MEDICAGO SATIVA LEAF, OAT, ARABICA COFFEE BEAN ACONITUM NAPELLUS ACONITUM NAPELLUS BRYONIA ALBA ROOT BRYONIA ALBA ROOT CALCIUM SULFIDE CALCIUM SULFIDE SPONGIA OFFICINALIS SKELETON, ROASTED SPONGIA OFFICINALIS SKELETON, ROASTED TIN TIN MEDICAGO SATIVA LEAF MEDICAGO SATIVA LEAF OAT OAT ARABICA COFFEE BEAN ARABICA COFFEE BEAN ALCOHOL ANHYDROUS CITRIC ACID BARLEY MALT WATER SODIUM BENZOATE SUCROSE"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Acontinum napellus 3X Alfalfa 1X Coffea cruda 6X Avena sativa 1X Bryonia 3X Hepar sulphuris calcareum 6C Spongia tosta 3X Stannum metallicum 6C"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredient citric acid ethyl alcohol malt extract purified water sodium benzoate sucrose"
+  ],
+  "dosage_and_administration": [
+    "Dosage & Administration Directions Shake well before each use. Adults & children 12 years of age and older: Take 2 teaspoons (tsp) (10mL) 1/2 hour before bedtime. Dose may be repeated if necessary. Children under 12 years of age: Consult a doctor."
+  ],
+  "indications_and_usage": [
+    "Indications & Usage Temporarily relieves coughs due to minor throat and bronchial irritation as may occur with a cold. Helps loosen phlegm (mucus) and thin bronchial secretions to drain bronchial tubes. Soothes the throat."
+  ],
+  "purpose": [
+    "Purpose Temporarily relieves coughs due to minor throat and bronchial irritation as may occur with a cold. Helps loosen phlegm (mucus) and thin bronchial secretions to drain bronchial tubes. Soothes the throat."
+  ],
+  "warnings": [
+    "Warnings Sore Throat Warning: if sore throat is severe, persists more than 2 days, is accompanied or followed by a fever, headache, rash, nausea, or vomiting, c onsult a doctor promptly."
+  ],
+  "ask_doctor": [
+    "Ask a doctor Ask a doctor before use if you have a persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema, a cough that is accompanied by excessive phlegm (mucus), been taking any medications."
+  ],
+  "stop_use": [
+    "Stop use Stop use and ask a doctor if new symptoms occur, symptoms get worse or last more than 7 days, fever worsens or lasts more than 3 days, cough last more than 7 days or occurs with rash or persistent headache. These could be signs of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "Pregnancy or breast feeding If pregnant or breast-feeding, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children Keep out of the reach of children."
+  ],
+  "overdosage": [
+    "Overdose In case of overdose, seek medical help or contact a Poison Control Center right away."
+  ],
+  "package_label_principal_display_panel": [
+    "LBN21900694_A08_BT_NIGHT_COUGH_8OZ_CTN_FNL.jpg"
+  ],
+  "set_id": "00d38f6f-dbab-4bbd-84b5-9807ea9073f8",
+  "id": "07539805-19f1-4b88-9520-1d462925b215",
+  "effective_time": "20251204",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "Cough and Bronchial Nighttime Syrup"
+    ],
+    "generic_name": [
+      "ACONITUM NAPELLUS, BRYONIA ROOT, CALCIUM CATION, SPONGIA OFFICINALIS SKELETON, ROASTED, TIN, MEDICAGO SATIVA LEAF, OAT, ARABICA COFFEE BEAN"
+    ],
+    "manufacturer_name": [
+      "Schwabe Mexico S.A. DE C.V."
+    ],
+    "product_ndc": [
+      "68466-1009"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACONITUM NAPELLUS",
+      "BRYONIA ALBA ROOT",
+      "CALCIUM SULFIDE",
+      "SPONGIA OFFICINALIS SKELETON, ROASTED",
+      "TIN",
+      "MEDICAGO SATIVA LEAF",
+      "OAT",
+      "ARABICA COFFEE BEAN"
+    ],
+    "spl_id": [
+      "07539805-19f1-4b88-9520-1d462925b215"
+    ],
+    "spl_set_id": [
+      "00d38f6f-dbab-4bbd-84b5-9807ea9073f8"
+    ],
+    "package_ndc": [
+      "68466-1009-5",
+      "68466-1009-9"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185371",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "M0006342",
+      "N0000185016",
+      "N0000185375",
+      "M0016962",
+      "M0516536"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Food Allergenic Extract [EPC]",
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Dietary Proteins [CS]",
+      "Plant Proteins [CS]",
+      "Seed Storage Proteins [CS]"
+    ],
+    "unii": [
+      "U0NQ8555JD",
+      "T7J046YI2B",
+      "1MBW07J51Q",
+      "1PIP394IID",
+      "387GMG9FH5",
+      "HY3L927V6M",
+      "Z6J799EAJK",
+      "3SW678MX72"
+    ]
+  }
+}

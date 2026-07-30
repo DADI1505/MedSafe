@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Niobium Iodatum Niobium Iodatum NIOBIUM PENTAIODIDE NIOBIUM SUCROSE Niobium Iodatum Niobium Iodatum NIOBIUM PENTAIODIDE NIOBIUM SUCROSE Niobium Iodatum Niobium Iodatum NIOBIUM PENTAIODIDE NIOBIUM SUCROSE Niobium Iodatum Niobium Iodatum NIOBIUM PENTAIODIDE NIOBIUM SUCROSE Niobium Iodatum Niobium Iodatum NIOBIUM PENTAIODIDE NIOBIUM SUCROSE Niobium Iodatum Niobium Iodatum NIOBIUM PENTAIODIDE NIOBIUM SUCROSE Niobium Iodatum Niobium Iodatum NIOBIUM PENTAIODIDE NIOBIUM SUCROSE Niobium Iodatum Niobium Iodatum NIOBIUM PENTAIODIDE NIOBIUM SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Niobium Iodatum 6C 5g Niobium Iodatum 6C 30g Niobium Iodatum 6C 100g Niobium Iodatum 12C 5g Niobium Iodatum 12C 30g Niobium Iodatum 12C 100g Niobium Iodatum 30C 1g Niobium Iodatum 30C 5g Niobium Iodatum 30C 30g Niobium Iodatum 30C 100g Niobium Iodatum 100C 1g Niobium Iodatum 100C 5g Niobium Iodatum 100C 30g Niobium Iodatum 100C 100g Niobium Iodatum 200C 1g Niobium Iodatum 200C 5g Niobium Iodatum 200C 30g Niobium Iodatum 200C 100g Niobium Iodatum 500C 1g Niobium Iodatum 500C 5g Niobium Iodatum 500C 30g Niobium Iodatum 500C 100g Niobium Iodatum 1M 1g Niobium Iodatum 1M 5g Niobium Iodatum 1M 30g Niobium Iodatum 1M 100g Niobium Iodatum LM1 30g"
+  ],
+  "set_id": "081737c8-f0f6-f3a2-e063-6294a90a7a30",
+  "id": "081737c8-f0f7-f3a2-e063-6294a90a7a30",
+  "effective_time": "20231019",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Niobium Iodatum"
+    ],
+    "generic_name": [
+      "NIOBIUM IODATUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-4168",
+      "37662-4169",
+      "37662-4172",
+      "37662-4175",
+      "37662-4171",
+      "37662-4174",
+      "37662-4173",
+      "37662-4170"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "NIOBIUM PENTAIODIDE"
+    ],
+    "spl_id": [
+      "081737c8-f0f7-f3a2-e063-6294a90a7a30"
+    ],
+    "spl_set_id": [
+      "081737c8-f0f6-f3a2-e063-6294a90a7a30"
+    ],
+    "package_ndc": [
+      "37662-4169-1",
+      "37662-4169-2",
+      "37662-4169-3",
+      "37662-4172-1",
+      "37662-4172-2",
+      "37662-4172-3",
+      "37662-4172-4",
+      "37662-4175-1",
+      "37662-4171-1",
+      "37662-4171-2",
+      "37662-4171-3",
+      "37662-4171-4",
+      "37662-4174-1",
+      "37662-4174-2",
+      "37662-4174-3",
+      "37662-4174-4",
+      "37662-4173-1",
+      "37662-4173-2",
+      "37662-4173-3",
+      "37662-4173-4",
+      "37662-4168-1",
+      "37662-4168-2",
+      "37662-4168-3",
+      "37662-4170-1",
+      "37662-4170-2",
+      "37662-4170-3",
+      "37662-4170-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "6YYE4L5XPW"
+    ]
+  }
+}

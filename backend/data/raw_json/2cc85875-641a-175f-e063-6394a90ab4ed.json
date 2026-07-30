@@ -1,0 +1,101 @@
+{
+  "spl_product_data_elements": [
+    "WHP Colds and Cough ACONITUM NAPELLUS - ARSENIC TRIOXIDE - BRYONIA ALBA ROOT - PULSATILLA VULGARIS - STRYCHNOS NUX-VOMICA SEED SUCROSE LACTOSE BRYONIA ALBA ROOT BRYONIA ALBA ROOT PULSATILLA VULGARIS PULSATILLA VULGARIS ACONITUM NAPELLUS ACONITUM NAPELLUS ARSENIC TRIOXIDE ARSENIC CATION (3+) STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED white"
+  ],
+  "active_ingredient": [
+    "Active Ingredients ACONITUM NAP 6C BRYONIA 6C PULSATILLA 6C NUX VOM 6C ARSENICUM ALB 6C"
+  ],
+  "purpose": [
+    "USES Temporarily relieves dry hacking coughs due to colds."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN As with all medications, keep out of reach of children."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS ACONITUM NAP Fear BRYONIA Worse motion PULSATILLA Weeping NUX VOM Vomiting ARSENICUM ALB Vomiting"
+  ],
+  "warnings": [
+    "STOP USE AND ASK DOCTOR If symptoms persist or recur, discontinue use. If pregnant or nursing, consult a licensed practitioner before using this product."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Directions: Adults and children 12 years and older: 2 pills dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children 4 years to under 12 years: 1 pill dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children under 4 years: Consult a licensed practitioner."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Sucrose/Lactose"
+  ],
+  "package_label_principal_display_panel": [
+    "Colds & Cough label Colds & Cough box"
+  ],
+  "set_id": "066df766-b1f5-83df-e063-6394a90aa588",
+  "id": "2cc85875-641a-175f-e063-6394a90ab4ed",
+  "effective_time": "20250128",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "WHP Colds and Cough"
+    ],
+    "generic_name": [
+      "ACONITUM NAPELLUS - ARSENIC TRIOXIDE - BRYONIA ALBA ROOT - PULSATILLA VULGARIS - STRYCHNOS NUX-VOMICA SEED"
+    ],
+    "manufacturer_name": [
+      "Washington Homeopathic Products"
+    ],
+    "product_ndc": [
+      "71919-800"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BRYONIA ALBA ROOT",
+      "PULSATILLA VULGARIS",
+      "ACONITUM NAPELLUS",
+      "ARSENIC TRIOXIDE",
+      "STRYCHNOS NUX-VOMICA SEED"
+    ],
+    "spl_id": [
+      "2cc85875-641a-175f-e063-6394a90ab4ed"
+    ],
+    "spl_set_id": [
+      "066df766-b1f5-83df-e063-6394a90aa588"
+    ],
+    "package_ndc": [
+      "71919-800-14"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0016962",
+      "M0516536"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Plant Proteins [CS]",
+      "Seed Storage Proteins [CS]"
+    ],
+    "unii": [
+      "T7J046YI2B",
+      "I76KB35JEV",
+      "U0NQ8555JD",
+      "S7V92P67HO",
+      "269XH13919"
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "spl_product_data_elements": [
+    "Dr. Sheffield Psoriasis Medicated Moisturizer Psoriasis Medicated Moisturizer SALICYLIC ACID SALICYLIC ACID WATER MEDIUM-CHAIN TRIGLYCERIDES MINERAL OIL CETYL ALCOHOL BUTYLENE GLYCOL STEARIC ACID SODIUM CITRATE GLYCERYL STEARATE CITRATE TROLAMINE PEG-100 STEARATE POLYSORBATE 60 PHENOXYETHANOL CARBOMER 934 ZINC PIDOLATE PANTHENOL CAMELLIA OLEIFERA LEAF ARTEMISIA VULGARIS ROOT GLYCYRRHIZINATE DIPOTASSIUM EDETATE DISODIUM METHYLPARABEN PROPYLPARABEN RHEUM PALMATUM ROOT ROSA DAMASCENA FLOWER CITRIC ACID MONOHYDRATE DIMETHICONE OLIVE OIL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Salicylic Acid -2%"
+  ],
+  "purpose": [
+    "Purposes Psoriasis and seborrheic dermatitis"
+  ],
+  "when_using": [
+    "Uses Relieves and helps prevent recurrence of itching irration redness flaking and scaling due to psoriasis and seborrheic dermatitis"
+  ],
+  "warnings": [
+    "Warnings For external use only Ask A doctor before use if condition covers a large area of the body. When using this product avoid contact with eyes. if contact occurs, rinse throughly with water. Stop use and ask a doctor if condition worsens or does not improve after regular use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children . If swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "indications_and_usage": [
+    "Directions Apply to affected areas one to four times daily or as directed by a doctor."
+  ],
+  "dosage_and_administration": [
+    "Other information store at a controlled room temperature 68°-77°F ( 20°- 25°C) Questions? 1-800-222-1087"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Purifed Water, Caprylic/Capric Triglyceride, Mineral Oil, Cetyl Alcohol, Butylene Glycol, Stearic Acid, Sodium Citrate, Glyceral Stearate, Triethanolamine, PEG-100 Sterate, Polysorbate 60 , Phenoxyethanol, Carbomer, Zinc PCA, Panthenol, Camellia Oleifera leaf extract , Algea Extract, Artemisia Vulgaris Extract, Dipotassium Glycyrrhizate, Disodium EDTA, Rheum Palmatum Extract, Rosa Damascena Extract, Citric Acid, Methylparaben, Propylparaben, Dimethicone, Extra Virign Olea Europaea( Olive) Fruit oil"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel - Carton 1.0 oz Sheffield Pharmaceuticals NDC 11527-478-64 PSORIASIS Salicylic Acid 2% edicated Moisturizer Made in the USA NET WT 1 oz. ( 28g) Principal Display Panel - Carton 1.0 oz",
+    "Principal Display Panel 1 oz. - Tube Sheffield Pharmaceuticals NDC 11527-478-64 PSORIASIS Salicylic Acid 2% edicated Moisturizer Made in the USA NET WT 1 oz. ( 28g) Principal Display Panel 1 oz. - Tube"
+  ],
+  "set_id": "03739345-2ed2-4157-89e7-48926721815b",
+  "id": "3080c930-e87b-4340-81ee-4a246634f56e",
+  "effective_time": "20231128",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M032"
+    ],
+    "brand_name": [
+      "Dr. Sheffield Psoriasis Medicated Moisturizer"
+    ],
+    "generic_name": [
+      "PSORIASIS MEDICATED MOISTURIZER"
+    ],
+    "manufacturer_name": [
+      "Sheffield Pharmaceuticals LLC"
+    ],
+    "product_ndc": [
+      "11527-478"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "103568"
+    ],
+    "spl_id": [
+      "3080c930-e87b-4340-81ee-4a246634f56e"
+    ],
+    "spl_set_id": [
+      "03739345-2ed2-4157-89e7-48926721815b"
+    ],
+    "package_ndc": [
+      "11527-478-64"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "spl_product_data_elements": [
+    "TEENY TUMMY Gas Relief Drops Simethicone CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM ANHYDROUS CITRIC ACID MICROCRYSTALLINE CELLULOSE POLYSORBATE 60 POTASSIUM SORBATE WATER SODIUM BENZOATE SORBITAN MONOSTEARATE SORBITOL XANTHAN GUM DIMETHICONE DIMETHICONE"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each 0.3 mL) Simethicone 20 mg"
+  ],
+  "purpose": [
+    "Purpose Antigas"
+  ],
+  "indications_and_usage": [
+    "Uses relieves the symptoms referred to as gas"
+  ],
+  "warnings": [
+    "Warnings In case of overdose seek medical help immediately or contact Poison Control Center right away (800)222-1222 For adverse reactions contact the FDA at www.fda.gov or 1(888)463-6332 Keep this and all medications out of the reach of children"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep this and all medications out of the reach of children"
+  ],
+  "dosage_and_administration": [
+    "Directions • shake well before using • all dosages may be repeated as needed, after meals and at bedtime, or as directed by a physician • do not exceed 12 doses per day • fill enclosed dropper to recommended dosage level and dispense liquid slowly into baby’s mouth, toward the inner cheek • dosage can also be mixed with 1 oz. of cool water, infant formula or other suitable liquids • clean dropper well after each use and replace original cap on bottle Age (years) Weight (lbs) Dose infants under 2 under 24 0.3 mL children over 2 over 24 0.6 mL"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"100%\"><col width=\"42%\"/><col width=\"36%\"/><col width=\"22%\"/><tbody><tr><td align=\"center\" styleCode=\"Botrule Lrule Toprule\" valign=\"top\"><paragraph><content styleCode=\"bold\">Age (years)</content></paragraph></td><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><paragraph><content styleCode=\"bold\">Weight (lbs)</content></paragraph></td><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><paragraph><content styleCode=\"bold\">Dose</content></paragraph></td></tr><tr><td align=\"center\" styleCode=\"Botrule Lrule\" valign=\"top\"><paragraph>infants under 2</paragraph></td><td align=\"center\" styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>under 24</paragraph></td><td align=\"center\" styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>0.3 mL</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Botrule Lrule\" valign=\"top\"><paragraph>children over 2</paragraph></td><td align=\"center\" styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>over 24</paragraph></td><td align=\"center\" styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>0.6 mL</paragraph></td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information TAMPER-EVIDENT : Do not use if printed seal under cap is broken or punctured store at room temperature do not freeze see bottom panel for lot number and expiration date"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Carboxymethylcellulose sodium, Citric acid, Flavor strawberry, Microcrystalline cellulose, Polysorbate 60, Potassium sorbate, Purified water, Sodium benzoate, Sorbitan monostearate, Sorbitol solution, Xanthan gum. Questions or comments ? DISTRIBUTED BY: ATLANTIC BIOLOGICALS CORP. MIAMI, FL 33179"
+  ],
+  "questions": [
+    "Questions or comments ? DISTRIBUTED BY: ATLANTIC BIOLOGICALS CORP. MIAMI, FL 33179"
+  ],
+  "package_label_principal_display_panel": [
+    "image description 5 6 7"
+  ],
+  "set_id": "05eadb73-4468-4dae-a67b-133d893feed2",
+  "id": "4aba739d-6bab-6624-e063-6394a90a294a",
+  "effective_time": "20260213",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M"
+    ],
+    "brand_name": [
+      "TEENY TUMMY Gas Relief Drops"
+    ],
+    "generic_name": [
+      "SIMETHICONE"
+    ],
+    "manufacturer_name": [
+      "ALTANTIC BIOLOGICAS CORP."
+    ],
+    "product_ndc": [
+      "17856-1142"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIMETHICONE"
+    ],
+    "rxcui": [
+      "198857"
+    ],
+    "spl_id": [
+      "4aba739d-6bab-6624-e063-6394a90a294a"
+    ],
+    "spl_set_id": [
+      "05eadb73-4468-4dae-a67b-133d893feed2"
+    ],
+    "package_ndc": [
+      "17856-1142-2",
+      "17856-1142-1",
+      "17856-1142-4",
+      "17856-1142-3",
+      "17856-1142-6",
+      "17856-1142-5",
+      "17856-1142-7"
+    ],
+    "original_packager_product_ndc": [
+      "71399-0041"
+    ],
+    "nui": [
+      "N0000010282"
+    ],
+    "pharm_class_pe": [
+      "Skin Barrier Activity [PE]"
+    ],
+    "unii": [
+      "92RU3N3Y1O"
+    ]
+  }
+}

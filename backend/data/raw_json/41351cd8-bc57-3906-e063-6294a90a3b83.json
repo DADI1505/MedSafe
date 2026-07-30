@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Nufabrx Medicine Infused Ankle Sleeve Capsaicin BUTYL ACRYLATE/METHYL METHACRYLATE/METHACRYLIC ACID COPOLYMER (18000 MW) CAPSAICIN CAPSAICIN"
+  ],
+  "active_ingredient": [
+    "Active ingredient Capsaicin 0.25% to 0.25%"
+  ],
+  "purpose": [
+    "Purpose Topical Analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses Temporary relieves minor pain associated with: arthritis ankle pain muscle strains sprains bruises cramps"
+  ],
+  "dosage_and_administration": [
+    "Directions clean and dry affected area remove sleeve from packaging and place on ankle wash hands after applying"
+  ],
+  "cleaning": [
+    "Product care instructions machine wash cold, separately, gentle cycle, mild detergent, tumble dry low do not bleach, do not iron, do not dry clean do not store in direct sublight, protect product from excessive moisture when not in use"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredient acrylate copolymer"
+  ],
+  "recent_major_changes": [
+    "Directions Replaced to use 10 hours maximum with wash hands after applying"
+  ],
+  "warnings": [
+    "Warnings For external use only. Stop use and ask a doctor if conditions worsen severe skin irritation occurs pain persists for more than 7 days symptoms clear up and occur again within a few days If pregnant or breast-feeding Ask a health professional before use. Keep out of reach children If swallowed, get medical help or contact a Poison Control Center right away. When using this product use only as directed do not wear if you are allergic to any material in this product or chili peppers do not apply to wounds, damaged or irritated skin do not get into eyes or on mucous membranes do not use with heating pad or other external analgesic products a slight burning sensation may occur upon application in some cases if severe burning sensation occurs, discontinue use immediately"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if conditions worsen severe skin irritation occurs pain persists for more than 7 days symptoms clear up and occur again within a few days"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding Ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach children If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product use only as directed do not wear if you are allergic to any material in this product or chili peppers do not apply to wounds, damaged or irritated skin do not get into eyes or on mucous membranes do not use with heating pad or other external analgesic products a slight burning sensation may occur upon application in some cases if severe burning sensation occurs, discontinue use immediately"
+  ],
+  "package_label_principal_display_panel": [
+    "Label Entire Label"
+  ],
+  "set_id": "013d60c7-a613-7cdf-e063-6294a90ad584",
+  "id": "41351cd8-bc57-3906-e063-6294a90a3b83",
+  "effective_time": "20251015",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Nufabrx Medicine Infused Ankle Sleeve"
+    ],
+    "generic_name": [
+      "CAPSAICIN"
+    ],
+    "manufacturer_name": [
+      "Nufabrx LLC"
+    ],
+    "product_ndc": [
+      "72490-039"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CAPSAICIN"
+    ],
+    "spl_id": [
+      "41351cd8-bc57-3906-e063-6294a90a3b83"
+    ],
+    "spl_set_id": [
+      "013d60c7-a613-7cdf-e063-6294a90ad584"
+    ],
+    "package_ndc": [
+      "72490-039-10"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "S07O44R1ZM"
+    ]
+  }
+}

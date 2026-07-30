@@ -1,0 +1,95 @@
+{
+  "spl_product_data_elements": [
+    "Srubs Sunscreen Avobenzone, Homosalate, Octisalate, Octocrylene ALKYL (C12-15) BENZOATE CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE DISODIUM EDTA-COPPER SODIUM HYDROXIDE PEG-6 SORBITAN OLEATE THEOBROMA CACAO WHOLE ETHYLHEXYLGLYCERIN POLYSORBATE 20 METHYLCELLULOSE, UNSPECIFIED PROPYLENE GLYCOL PROPYL ETHER MEDIUM DENSITY POLYETHYLENE WATER ALOE VERA LEAF .ALPHA.-TOCOPHEROL ACETATE PHENOXYETHANOL ACRYLATES CROSSPOLYMER-6 OCTOCRYLENE OCTOCRYLENE AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE OCTISALATE OCTISALATE"
+  ],
+  "active_ingredient": [
+    "Active ingredients Avobenzone 3% Homosalate 7.5% Octisalate 5% Octocrylene 5%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen Sunscreen Sunscreen Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses helps prevent sunburn. higher SPF gives more sunburn protection. retains SPF after 80 minutes of activity in the water or sweating. provides high protection against sunburn."
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use on damaged or broken skin When using this product keep out of the eyes. Rinse with water to remove. Stop use and ask a doctor if rash or irritation develops and lasts Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin"
+  ],
+  "when_using": [
+    "When using this product keep out of the eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash or irritation develops and lasts"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply liberally 15 minutes before sun exposure Reapply: after 80 minutes of swimming or sweating after towel drying, swimming, or at least every 2 hours children under 6 months of age: ask a doctor."
+  ],
+  "spl_unclassified_section": [
+    "Other information Protect this product from excessive heat and direct sun. Sun alert: Limiting sun exposure, wearing protective clothing, and using sunscreens may reduce the risk of skin aging, skin cancer, and other harmful effects of the sun."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients acrylates/C10-30 alkyl acrylate crosspolymer, aloe barbadensis leaf juice, C12-15 alkyl benzoate, carbomer, disodium EDTA, ethylhexylglycerin, hydroxypropyl methylcellulose, phenoxyethanol, polyethylene, polysorbate 20, propylene glycol, sodium hydroxide, sorbitan oleate, theobroma cacao (cocoa) seed butter, tocopheryl acetate, water."
+  ],
+  "questions": [
+    "Questions and comments? Call: 1-877-684-5774"
+  ],
+  "package_label_principal_display_panel": [
+    "51239-4921-1 Scrubs 7gr"
+  ],
+  "set_id": "06c1dc42-5a01-f898-e063-6394a90a1a1a",
+  "id": "4538b23e-3bd5-cefb-e063-6294a90a58f7",
+  "effective_time": "20251205",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Srubs Sunscreen"
+    ],
+    "generic_name": [
+      "AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE"
+    ],
+    "manufacturer_name": [
+      "ITW Pro Brands"
+    ],
+    "product_ndc": [
+      "51239-4921"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OCTOCRYLENE",
+      "AVOBENZONE",
+      "HOMOSALATE",
+      "OCTISALATE"
+    ],
+    "spl_id": [
+      "4538b23e-3bd5-cefb-e063-6294a90a58f7"
+    ],
+    "spl_set_id": [
+      "06c1dc42-5a01-f898-e063-6394a90a1a1a"
+    ],
+    "package_ndc": [
+      "51239-4921-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "5A68WGF6WM",
+      "G63QQF2NOX",
+      "V06SV4M95S",
+      "4X49Y0596W"
+    ]
+  }
+}

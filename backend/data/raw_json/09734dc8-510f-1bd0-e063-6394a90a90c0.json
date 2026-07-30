@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Degasa Hand Sanitizer Lemon Lime Scent ALCOHOL WATER CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE GLYCERIN TROLAMINE AMINOMETHYLPROPANOL ALCOHOL ALCOHOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information - Do not store above 105° F. - Harmful to wood finishes and plastic."
+  ],
+  "active_ingredient": [
+    "Active Ingredients Ethyl alcohol 70% Purpose Antiseptic"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Deionized water, Carbopol, Glycerin, Triethanolamine, Aminomethylpropanol, Fragances."
+  ],
+  "indications_and_usage": [
+    "Uses To decrease bacteria on the skin that could disease. Recommended for repeated use."
+  ],
+  "warnings": [
+    "Warnings - For external use only: hands. - Flammable, keep away from fire or flame. - Keep out of reach of children. When using this product Keep out of eyes. In case of contact with eyes, flush thoroughly with water. Avoid contact with broken skin. Do not inhale or ingest. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product Keep out of eyes. In case of contact with eyes, flush thoroughly with water. Avoid contact with broken skin. Do not inhale or ingest."
+  ],
+  "keep_out_of_reach_of_children": [
+    "If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions - Wet hands thoroughly with product and allow to dry without wiping. - For children under 6, use only under adults supervision. - Not recommended for infants."
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling:946 ml Label",
+    "Package Labeling:59.14 ml Label2"
+  ],
+  "set_id": "004bfacb-f79a-4f8a-9c8d-1d6e0dde1ce5",
+  "id": "09734dc8-510f-1bd0-e063-6394a90a90c0",
+  "effective_time": "20231105",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Degasa Hand Sanitizer Lemon Lime Scent"
+    ],
+    "generic_name": [
+      "ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Degasa, S.A. de C.V."
+    ],
+    "product_ndc": [
+      "67326-010"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "581662"
+    ],
+    "spl_id": [
+      "09734dc8-510f-1bd0-e063-6394a90a90c0"
+    ],
+    "spl_set_id": [
+      "004bfacb-f79a-4f8a-9c8d-1d6e0dde1ce5"
+    ],
+    "package_ndc": [
+      "67326-010-32",
+      "67326-010-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0700326000400"
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

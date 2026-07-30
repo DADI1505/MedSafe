@@ -1,0 +1,77 @@
+{
+  "spl_product_data_elements": [
+    "Flawless Effect Liquid Foundation SPF 15 Merle Norman OCTINOXATE, OXYBENZONE CYCLOMETHICONE 5 MICA TITANIUM DIOXIDE ETHYLHEXYL PALMITATE GLYCERIN PENTYLENE GLYCOL PEG-30 DIPOLYHYDROXYSTEARATE FERROUS OXIDE FERRIC OXIDE RED FERRIC OXIDE YELLOW FERROSOFERRIC OXIDE PROPYLENE GLYCOL CYCLOMETHICONE 6 ALUMINUM STARCH OCTENYLSUCCINATE GLYCERYL 1-OLEATE GLYCERYL MONOSTEARATE MYRISTYL MYRISTATE DISODIUM STEAROYL GLUTAMATE BUTYLENE GLYCOL HYALURONATE SODIUM CAMELLIA OLEIFERA LEAF GINKGO CHAMOMILE TETRAHEXYLDECYL ASCORBATE ALUMINUM HYDROXIDE SILICON DIOXIDE BUTYLATED HYDROXYTOLUENE PHENOXYETHANOL METHYLPARABEN PROPYLPARABEN OXYBENZONE OXYBENZONE OCTINOXATE OCTINOXATE"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Octinoxate 7.50% Oxybenzone 3.00% Uses · helps prevent sunburn · If used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away Stop use and ask a doctor if rash occurs Warnings · For external use only · Do not use on damaged or broken skin · When using this product keep out of eyes. Rinse with water to remove. Directions For Sunscreen Use: · Apply liberally 15 minutes before sun exposure · Use a water resistant sunscreen if swimming or sweating · Reapply at least every 2 hours · Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with broad spectrum SPF of 15 or higher and other sun protection measures including: · limit time in the sun, especially from 10 a.m. - 2 p.m. · wear long-sleeve shirts, pants, hats, and sunglasses · Children under 6 months: Ask a doctor Water(aqua), cyclopentasiloxane , mica, titanium dioxide, diisostearyl malate, ethylhexyl palmitate, glycerin, pentylene glycol, peg-30 dipolyhydroxystearate, iron oxides, propylene glycol, cyclohexasiloxane, aluminum starch octenylsuccinate, disteardimonium hectorite, hdi/ppg/polycaprolactone crosspolymer, glyceryl oleate, glyceryl stearate, myristyl myristate, polyglyceryl-3 beeswax, lecithin, disodium stearoyl glutamate, Butylene Glycol, sodium hyaluronate, camellia oleifera leaf extract, ginkgo biloba leaf extract, chamomilla recutita (matricaria) flower extract, tetrahexyldecyl ascorbate, tocopheryl acetate, aluminum hydroxide (Cl 77002), silica, alcohol denat., BHT, phenoxyethanol, methylparaben, propylparaben"
+  ],
+  "purpose": [
+    "Uses · helps prevent sunburn · If used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "indications_and_usage": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "warnings": [
+    "Warnings · For external use only · Do not use on damaged or broken skin · When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "dosage_and_administration": [
+    "Directions For Sunscreen Use: · Apply liberally 15 minutes before sun exposure · Use a water resistant sunscreen if swimming or sweating · Reapply at least every 2 hours · Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with broad spectrum SPF of 15 or higher and other sun protection measures including: · limit time in the sun, especially from 10 a.m. - 2 p.m. · wear long-sleeve shirts, pants, hats, and sunglasses · Children under 6 months: Ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Water(aqua), cyclopentasiloxane , mica, titanium dioxide, diisostearyl malate, ethylhexyl palmitate, glycerin, pentylene glycol, peg-30 dipolyhydroxystearate, iron oxides, propylene glycol, cyclohexasiloxane, aluminum starch octenylsuccinate, disteardimonium hectorite, hdi/ppg/polycaprolactone crosspolymer, glyceryl oleate, glyceryl stearate, myristyl myristate, polyglyceryl-3 beeswax, lecithin, disodium stearoyl glutamate, Butylene Glycol, sodium hyaluronate, camellia oleifera leaf extract, ginkgo biloba leaf extract, chamomilla recutita (matricaria) flower extract, tetrahexyldecyl ascorbate, tocopheryl acetate, aluminum hydroxide (Cl 77002), silica, alcohol denat., BHT, phenoxyethanol, methylparaben, propylparaben"
+  ],
+  "package_label_principal_display_panel": [
+    "Flawless Effect Liquid Foundation SPF 15 Merle Norman 30 mL 1 FL. OZ. Bottle Box"
+  ],
+  "set_id": "05615352-186b-4610-a719-16fc36e09bb3",
+  "id": "43f884ba-db43-831a-e063-6294a90a76a0",
+  "effective_time": "20251119",
+  "version": "19",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Flawless Effect Liquid Foundation SPF 15 Merle Norman"
+    ],
+    "generic_name": [
+      "OCTINOXATE, OXYBENZONE"
+    ],
+    "manufacturer_name": [
+      "Merle Norman Cosmetics, Inc"
+    ],
+    "product_ndc": [
+      "57627-113"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OXYBENZONE",
+      "OCTINOXATE"
+    ],
+    "spl_id": [
+      "43f884ba-db43-831a-e063-6294a90a76a0"
+    ],
+    "spl_set_id": [
+      "05615352-186b-4610-a719-16fc36e09bb3"
+    ],
+    "package_ndc": [
+      "57627-113-01",
+      "57627-113-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "95OOS7VE0Y",
+      "4Y5P7MUD51"
+    ]
+  }
+}

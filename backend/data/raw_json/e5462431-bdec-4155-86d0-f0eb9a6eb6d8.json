@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "Gas Relief Extra Strength Simethicone DIMETHICONE DIMETHICONE D&C YELLOW NO. 10 FD&C BLUE NO. 1 FD&C RED NO. 40 GELATIN GLYCERIN PEPPERMINT OIL WATER SORBITAN SORBITOL TITANIUM DIOXIDE MANNITOL PO"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each softgel) Simethicone 125 mg"
+  ],
+  "purpose": [
+    "Purpose Antigas"
+  ],
+  "indications_and_usage": [
+    "Uses for the relief of pressure, bloating, and fullness commonly referred to as gas."
+  ],
+  "warnings": [
+    "Warnings If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose get medical help or contact a Poison Control Center (1-800-222-1222) right away"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose get medical help or contact a Poison Control Center (1-800-222-1222) right away"
+  ],
+  "dosage_and_administration": [
+    "Directions adults: swallow with water 1 or 2 softgels as needed after meals and at bedtime do not exceed 4 softgels in 24 hours except under the advice and supervision of a physican"
+  ],
+  "storage_and_handling": [
+    "Other information store between 20-25°C (68-77°F) do not refrigerate protect from light, heat, and moisture"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients D&C yellow #10, edible ink, FD&C blue #1, FD&C red #40, gelatin, glycerin, mannitol, peppermint oil, purified water, sorbitan, sorbitol, titanium dioxide"
+  ],
+  "questions": [
+    "Questions or comments? Call 1-877-753-3935 Monday-Friday 9AM-5PM EST"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Compare to the active ingredient in Gas-X® Extra Strength† Extra Strength Gas Relief Simethicone 125 mg / Antigas Fast Relief of: Pressure, Bloating & Discomfort Small • Easy to swallow Softgels †This product is not manufactured or distributed by GSK Consumer Healthcare, distributor of Gas-X Extra Strength. TAMPER EVIDENT: DO NOT USE IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING. KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. Distributed by: McKesson 6555 State Highway 161 Irving, TX 75039 healthmart.com",
+    "Product Label HEALTH MART Gas Relief Simethicone 125 mg"
+  ],
+  "set_id": "05a65515-d9c0-44c0-acf7-1cb421407118",
+  "id": "e5462431-bdec-4155-86d0-f0eb9a6eb6d8",
+  "effective_time": "20240529",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Gas Relief Extra Strength"
+    ],
+    "generic_name": [
+      "SIMETHICONE"
+    ],
+    "manufacturer_name": [
+      "Strategic Sourcing Services LLC"
+    ],
+    "product_ndc": [
+      "62011-0419"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIMETHICONE"
+    ],
+    "rxcui": [
+      "198852"
+    ],
+    "spl_id": [
+      "e5462431-bdec-4155-86d0-f0eb9a6eb6d8"
+    ],
+    "spl_set_id": [
+      "05a65515-d9c0-44c0-acf7-1cb421407118"
+    ],
+    "package_ndc": [
+      "62011-0419-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000010282"
+    ],
+    "pharm_class_pe": [
+      "Skin Barrier Activity [PE]"
+    ],
+    "unii": [
+      "92RU3N3Y1O"
+    ]
+  }
+}

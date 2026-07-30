@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "Rubber Ducky SPF 50 Unfragranced Sunscreen Avobenzone 3%, Homosalate 10%, Octocrylene 6% AVOBENZONE AVOBENZONE CARBOMER 940 HOMOSALATE HOMOSALATE ALUMINUM STARCH OCTENYLSUCCINATE DIMETHICONE 200 EDETATE DISODIUM ETHYLHEXYLGLYCERIN POLYGLYCERYL-3 DISTEARATE TROLAMINE SORBITAN ISOSTEARATE EICOSYL POVIDONE SORBITOL BUTYLOCTYL SALICYLATE OCTOCRYLENE OCTOCRYLENE WATER PHENOXYETHANOL STEARIC ACID"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Avobenzone 3%, Homosalate 10%, Octocrylene 6%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "dosage_and_administration": [
+    "Uses Helps prevent sunburn. If used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "warnings": [
+    "Warnings For external use only . Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse eyes with water to remove. Stop use and ask a doctor if rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep Out of Reach of Children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "indications_and_usage": [
+    "Directions Apply liberally 15 minutes before sun exposure. Reapply: after 80 minutes of swimming or sweating immediately after towel drying at least every 2 hours Sun protection measures: spending time n the sun increases your risk of skin cancer and early skin aging. To decrease risk, regularly use a sunscreen with broad spectrum SPF of 15 or higher and other sun protection measure including: limit time in the sun, especially from 10 am to 2 pm wear long-sleeved shirts, pants, hats, and sunglasses. Children under 6 months: ask a doctor."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Aluminum Starch Octenylsuccinate, Benzyl Alcohol, Carbomer, Dimethicone, Disodium EDTA, Ethylhexylglycerin, Phenoxyethanol, Polyglyceryl-3 Distearate, Sorbitan Isostearate, Sorbitol, Stearic Acid, Tocopherol, Triethanolamine, VP/Eicosene Copolymer, Water"
+  ],
+  "package_label_principal_display_panel": [
+    "Label Label Label"
+  ],
+  "set_id": "043b447c-4519-37ce-e063-6394a90a7197",
+  "id": "29a5e1c1-d6af-61f6-e063-6394a90af80b",
+  "effective_time": "20241219",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Rubber Ducky SPF 50 Unfragranced Sunscreen"
+    ],
+    "generic_name": [
+      "AVOBENZONE 3%, HOMOSALATE 10%, OCTOCRYLENE 6%"
+    ],
+    "manufacturer_name": [
+      "Derma Care Research Labs, LLC"
+    ],
+    "product_ndc": [
+      "72839-515"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "AVOBENZONE",
+      "HOMOSALATE",
+      "OCTOCRYLENE"
+    ],
+    "spl_id": [
+      "29a5e1c1-d6af-61f6-e063-6394a90af80b"
+    ],
+    "spl_set_id": [
+      "043b447c-4519-37ce-e063-6394a90a7197"
+    ],
+    "package_ndc": [
+      "72839-515-05",
+      "72839-515-12"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0858149004539",
+      "0858149004263"
+    ],
+    "unii": [
+      "G63QQF2NOX",
+      "V06SV4M95S",
+      "5A68WGF6WM"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "VIE NATURELLE ACNE BODY BENZOYL PEROXIDE WATER ETHYLHEXYLGLYCERIN EUCALYPTUS OIL WITCH HAZEL MELALEUCA ALTERNIFOLIA LEAF PHENOXYETHANOL POLYSORBATE 20 SALICYLIC ACID BENZOYL PEROXIDE BENZOYL PEROXIDE"
+  ],
+  "spl_unclassified_section": [
+    "DRUG FACTS:"
+  ],
+  "active_ingredient": [
+    "Active Ingredients: Benzoyl Peroxide 2.5% Acne Treatment"
+  ],
+  "purpose": [
+    "Acne Treatment"
+  ],
+  "indications_and_usage": [
+    "Use For: For the treatment of acne. Clears up acne pimples and blemishes, and allows skin to heal. Helps prevent new pimples and blemishes from forming."
+  ],
+  "warnings": [
+    "Warnings: For external use only. Using other topical acne medications at the same time or immediately following use of this product may increase dryness or irritation of the skin. Because excessive drying of the skin may occur, start with one application daily, then gradually increase to two or three times daily if needed or as directed by a doctor. If bothersome dryness or peeling occurs, reduce application to once per day. Do not use for prolonged periods without consulting a doctor. Keep out of reach of children. If swallowed, contact physician or poison control center immediately. Store at room temperature."
+  ],
+  "do_not_use": [
+    "Do not use for prolonged periods without consulting a doctor."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, contact physician or poison control center immediately. Store at room temperature."
+  ],
+  "dosage_and_administration": [
+    "Directions: Cleanse the skin thoroughly before applying medication. Apply an even layer over affected area. Do not use on broken skin or large parts of the body. *For best results apply one to three times per day."
+  ],
+  "inactive_ingredient": [
+    "Other Ingredients: Aqua (Deionized Water), Ethylhexylglycerin, Eucalyptus Globulus Oil, Hamamelis Virginiana (Witch Hazel) Distillate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer Melaleuca Alternifolia (Tea Tree) Oil, Phenoxyethanol, Polysorbate-20, Salicylic Acid."
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Label"
+  ],
+  "set_id": "0278251d-bcf1-4177-8a57-163bd0f2df00",
+  "id": "09751fc7-6664-c196-e063-6294a90a4a57",
+  "effective_time": "20231105",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "VIE NATURELLE ACNE BODY"
+    ],
+    "generic_name": [
+      "BENZOYL PEROXIDE"
+    ],
+    "manufacturer_name": [
+      "TNT PRO SERIES"
+    ],
+    "product_ndc": [
+      "73350-105"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZOYL PEROXIDE"
+    ],
+    "rxcui": [
+      "2199869"
+    ],
+    "spl_id": [
+      "09751fc7-6664-c196-e063-6294a90a4a57"
+    ],
+    "spl_set_id": [
+      "0278251d-bcf1-4177-8a57-163bd0f2df00"
+    ],
+    "package_ndc": [
+      "73350-105-08"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "W9WZN9A0GM"
+    ]
+  }
+}

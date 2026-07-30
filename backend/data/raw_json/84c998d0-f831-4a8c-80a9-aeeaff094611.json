@@ -1,0 +1,143 @@
+{
+  "spl_product_data_elements": [
+    "Vitavera Vitavera VITAMIN A VITAMIN A ASCORBIC ACID ASCORBIC ACID SODIUM ASCORBATE ASCORBIC ACID VITAMIN D CHOLECALCIFEROL ALPHA-TOCOPHEROL ACETATE .ALPHA.-TOCOPHEROL THIAMINE Thiamine ION RIBOFLAVIN RIBOFLAVIN NIACIN NIACIN PYRIDOXINE PYRIDOXINE LEVOMEFOLIC ACID LEVOMEFOLIC ACID METHYLCOBALAMIN METHYLCOBALAMIN"
+  ],
+  "description": [
+    "DESCRIPTION Vitavera™ is a chewable multivitamin dietary supplement containing essential vitamins including Vitamins A, C, D, E, B-complex vitamins, and folate. It is formulated to support general nutritional supplementation and overall health."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS AND USAGE Vitavera™ is indicated to provide supplemental amounts of essential vitamins including Vitamins A, C, D, E, thiamine, riboflavin, niacin, vitamin B6, vitamin B12, and folate. It is intended to supplement the diet and help prevent nutritional deficiencies. Formulated for use in patients requiring vitamin supplementation as directed by a licensed healthcare practitioner."
+  ],
+  "warnings": [
+    "WARNINGS Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6 years of age. Keep this product out of reach of children. In case of accidental overdose, call a doctor or poison control center immediately."
+  ],
+  "precautions": [
+    "PRECAUTIONS Folic acid in doses above 0.1 mg daily may obscure pernicious anemia, in that hematologic remission can occur while neurological manifestations remain progressive. The patient’s medical condition and concurrent use of medications, herbs, or supplements should be considered prior to use. If pregnant, lactating, or trying to conceive, consult a licensed healthcare professional prior to use. General Drug Interactions Carcinogenesis, Mutagenesis, Impairment of Fertility Pregnancy Nursing Mothers Pediatric Use"
+  ],
+  "general_precautions": [
+    "General"
+  ],
+  "drug_interactions": [
+    "Drug Interactions"
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+    "Carcinogenesis, Mutagenesis, Impairment of Fertility"
+  ],
+  "pregnancy": [
+    "Pregnancy"
+  ],
+  "nursing_mothers": [
+    "Nursing Mothers"
+  ],
+  "pediatric_use": [
+    "Pediatric Use"
+  ],
+  "adverse_reactions": [
+    "ADVERSE REACTIONS Allergic sensitization has been reported following oral administration of folic acid. Adverse reactions are generally rare at recommended dosages; however, hypersensitivity reactions may occur."
+  ],
+  "overdosage": [
+    "OVERDOSAGE In case of accidental overdose, seek professional assistance or contact a poison control center immediately."
+  ],
+  "dosage_and_administration": [
+    "DOSAGE AND ADMINISTRATION Usual adult dosage is one tablet daily , to be dissolved in the mouth or chewed before swallowing , or as directed by a licensed healthcare practitioner"
+  ],
+  "how_supplied": [
+    "HOW SUPPLIED Vitavera™ chewable multivitamin tablets are supplied as: 30 tablets per bottle NDC: 85477-513-30 Round chewable tablets, cherry flavored Dispense in a tight, light-resistant container as defined in the USP."
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature] Protect from excessive heat, light, and moisture. Vitavera™ Chewable Multivitamin Cherry Flavor 30 Tablets Rx Only NDC 85477-513-30 Manufactured for: Oncora Pharma Dallas, TX 75228 pdp pdp"
+  ],
+  "set_id": "058b1921-21da-49d9-b9c1-3f5636087aea",
+  "id": "84c998d0-f831-4a8c-80a9-aeeaff094611",
+  "effective_time": "20260421",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Vitavera"
+    ],
+    "generic_name": [
+      "VITAVERA"
+    ],
+    "manufacturer_name": [
+      "Oncora Pharma, LLC"
+    ],
+    "product_ndc": [
+      "85477-513"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "VITAMIN A",
+      "ASCORBIC ACID",
+      "SODIUM ASCORBATE",
+      "VITAMIN D",
+      "ALPHA-TOCOPHEROL ACETATE",
+      "THIAMINE",
+      "RIBOFLAVIN",
+      "NIACIN",
+      "PYRIDOXINE",
+      "LEVOMEFOLIC ACID",
+      "METHYLCOBALAMIN"
+    ],
+    "spl_id": [
+      "84c998d0-f831-4a8c-80a9-aeeaff094611"
+    ],
+    "spl_set_id": [
+      "058b1921-21da-49d9-b9c1-3f5636087aea"
+    ],
+    "package_ndc": [
+      "85477-513-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0854770513303"
+    ],
+    "nui": [
+      "M0022788",
+      "N0000175950",
+      "N0000193618",
+      "M0001797",
+      "N0000175594",
+      "M0014839",
+      "N0000192800",
+      "N0000005657",
+      "N0000175452",
+      "N0000178369",
+      "M0008658"
+    ],
+    "pharm_class_cs": [
+      "Vitamin A [CS]",
+      "Ascorbic Acid [CS]",
+      "Nicotinic Acids [CS]",
+      "Vitamin B 6 [Chemical/Ingredient]",
+      "Analogs/Derivatives [Chemical/Ingredient]",
+      "Folic Acid [CS]"
+    ],
+    "pharm_class_epc": [
+      "Vitamin A [EPC]",
+      "Vitamin C [EPC]",
+      "Nicotinic Acid [EPC]",
+      "Vitamin B6 Analog [EPC]",
+      "Folate Analog [EPC]"
+    ],
+    "unii": [
+      "81G40H8B0T",
+      "PQ6CK8PD0R",
+      "S033EH8359",
+      "9VU1KI44GP",
+      "9E8X80D2L0",
+      "X66NSO3N35",
+      "TLM2976OFR",
+      "2679MF687A",
+      "KV2JZ1BI6Z",
+      "8S95DH25XC",
+      "BR1SN1JS2W"
+    ]
+  }
+}

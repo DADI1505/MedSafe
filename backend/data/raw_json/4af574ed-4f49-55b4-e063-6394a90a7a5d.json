@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "Anticavity Rinse Sodium Fluoride BENZYL ALCOHOL EDETATE CALCIUM DISODIUM ANHYDROUS CETYLPYRIDINIUM CHLORIDE EDETATE DISODIUM SODIUM PHOSPHATE, DIBASIC, ANHYDROUS POLOXAMER 407 POLYSORBATE 80 PROPYLENE GLYCOL D&C RED NO. 33 SODIUM BENZOATE SODIUM PHOSPHATE SACCHARIN SODIUM SORBITOL WATER SODIUM FLUORIDE FLUORIDE ION"
+  ],
+  "active_ingredient": [
+    "Active ingredient Sodium Fluoride 0.05% (0.2% w/v fluoride ion)"
+  ],
+  "purpose": [
+    "Purpose Anticavity"
+  ],
+  "indications_and_usage": [
+    "Use aids in the prevention of dental cavities"
+  ],
+  "warnings": [
+    "Warnings for this product"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If more than used for rinsing is accidentally swallowed, seek professional assistance or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 6 years of age and older: use once a day after brushing your teeth with a toothpaste vigorously swish 10 milliliters of rinse between your teeth for 1 minute and then spit out do not swallow the rinse do not eat or drink for 30 minutes after rinsing instruct children under 12 years of age in good rinsing habits (to minimize swallowing) supervise children as necessary until capable of using without supervision Children under 6 years of age: consult a dentist or doctor"
+  ],
+  "storage_and_handling": [
+    "Other information store at room temperature"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients benzyl alcohol, calcium disodium EDTA, cetylpyridinium chloride, disodium EDTA, disodium phosphate, flavor, poloxamer 407, polysorbate 80, propylene glycol, red 33, sodium benzoate, sodium phosphate, sodium saccharin, sorbitol, water"
+  ],
+  "spl_unclassified_section": [
+    "Disclaimer *This product is not manufactured or distributed by Chattem, Inc., distributer of Act ® Anticavity Kids Fluoride Rinse."
+  ],
+  "adverse_reactions": [
+    "Adverse reaction PROUDLY DISTRIBUTED BY: ASSOCIATED WHOLESALE GROCERS, INC. KANSAS CITY, KANSAS 66106 Scan here for more product information. Call 1-844-292-1112 for more product information."
+  ],
+  "package_label_principal_display_panel": [
+    "Principal display panel Best Choice ® Compare to the active ingredient in Act ® Anticavity Kids Fluoride Rinse* Children's ANTICAVITY FLUORIDE RINSE Bubble Gum Flavor ADA Accepted American Dental Association Helps prevent cavities Helps Prevent Cavities IMPORTANT: READ DIRECTIONS FOR PROPER USE SEALED WITH PRINTED NECKBAND FOR YOUR PROTECTION 16.9 FL OZ (1.05 PT) 500 mL image description image description"
+  ],
+  "set_id": "088b95e6-30fd-4263-9fdc-57cd63385b71",
+  "id": "4af574ed-4f49-55b4-e063-6394a90a7a5d",
+  "effective_time": "20260216",
+  "version": "18",
+  "openfda": {
+    "application_number": [
+      "M021"
+    ],
+    "brand_name": [
+      "Anticavity Rinse"
+    ],
+    "generic_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "manufacturer_name": [
+      "Valu Merchandisers Company"
+    ],
+    "product_ndc": [
+      "63941-904"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "rxcui": [
+      "240698"
+    ],
+    "spl_id": [
+      "4af574ed-4f49-55b4-e063-6394a90a7a5d"
+    ],
+    "spl_set_id": [
+      "088b95e6-30fd-4263-9fdc-57cd63385b71"
+    ],
+    "package_ndc": [
+      "63941-904-77"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8ZYQ1474W7"
+    ]
+  }
+}

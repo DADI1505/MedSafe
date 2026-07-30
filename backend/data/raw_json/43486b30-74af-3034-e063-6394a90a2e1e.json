@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "DRY-CID Dry Concentrate for Hemodialysis SODIUM CHLORIDE POTASSIUM CHLORATE CHLORATE ION CALCIUM CHLORIDE ANHYDROUS MAGNESIUM CHLORIDE ANHYDROUS ACETIC ACID ANHYDROUS DEXTROSE WATER"
+  ],
+  "spl_unclassified_section": [
+    "By diluting the contents of this box to complete 20 gal (75.70 l), one part of this acid concentrate with 44 parts of purified water (UNE-EN ISO 23500-3:2019 standard) will have the following concentrations: Sodium Potassiu m Calcium Magnesium chlorides Acetate Dextrose The final conductivity calculated at 25°C It is 13,2 to 14,2 mS/cm NON STERILE PRODUCT 100,00 mEq/l 2,00 mEq/l 2,50 mEq/l 1,00 mEq/l 105,50 mEq/l 4,00 mEq/l 100,00 mg/dl"
+  ],
+  "active_ingredient": [
+    "Potassium Chlorate"
+  ],
+  "purpose": [
+    "For use with 3-pump hemodialysis machines only."
+  ],
+  "indications_and_usage": [
+    "For use with 3-pump hemodialysis machines only, using purified water (Standard 13959:2014) and in conbination with"
+  ],
+  "warnings": [
+    "For use with 3-pump hemodialysis machines only."
+  ],
+  "do_not_use": [
+    "If the warranty seal is damaged or broken and do not allow debris to fall into the concentrate."
+  ],
+  "when_using": [
+    "Using purified water (Standard 13959:2014) and in conbination with sodium bicarbonate."
+  ],
+  "stop_use": [
+    "If you do not use the entire contents, discard the excess."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "By diluting one part of this acid concentrate with 44 parts of purified water (ISO Standard 13959:2014)."
+  ],
+  "storage_and_handling": [
+    "Store at room temperature. Keep container tightly closed when not in use."
+  ],
+  "inactive_ingredient": [
+    "Sodium Chloride, Anhydrous Calcium Chloride, Anhydrous Magnesium Chloride, Acetic Acid, Dextrosa"
+  ],
+  "package_label_principal_display_panel": [
+    "81943-601-01 DRY-CID LABEL"
+  ],
+  "set_id": "0404b5ce-f8a2-74ad-e063-6294a90a0337",
+  "id": "43486b30-74af-3034-e063-6394a90a2e1e",
+  "effective_time": "20251110",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "DRY-CID"
+    ],
+    "generic_name": [
+      "DRY CONCENTRATE FOR HEMODIALYSIS"
+    ],
+    "manufacturer_name": [
+      "Aqua Medica, S.A. de C.V."
+    ],
+    "product_ndc": [
+      "81943-601"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "HEMODIALYSIS"
+    ],
+    "substance_name": [
+      "POTASSIUM CHLORATE"
+    ],
+    "spl_id": [
+      "43486b30-74af-3034-e063-6394a90a2e1e"
+    ],
+    "spl_set_id": [
+      "0404b5ce-f8a2-74ad-e063-6294a90a0337"
+    ],
+    "package_ndc": [
+      "81943-601-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "H35KS68EE7"
+    ]
+  }
+}

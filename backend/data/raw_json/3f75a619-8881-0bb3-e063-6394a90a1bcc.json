@@ -1,0 +1,113 @@
+{
+  "spl_product_data_elements": [
+    "Imodium A-D Loperamide hydrochloride ANHYDROUS LACTOSE CARNAUBA WAX HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED LOPERAMIDE HYDROCHLORIDE LOPERAMIDE IMO;2;MG"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each caplet) Loperamide HCl 2 mg"
+  ],
+  "purpose": [
+    "Purpose Anti-diarrheal"
+  ],
+  "indications_and_usage": [
+    "Use controls symptoms of diarrhea, including Travelers' Diarrhea"
+  ],
+  "warnings": [
+    "Warnings Allergy alert Do not use if you have ever had a rash or other allergic reaction to loperamide HCl Heart alert Taking more than directed can cause serious heart problems or death Do not use if you have bloody or black stool Ask a doctor before use if you have fever mucus in the stool a history of liver disease a history of abnormal heart rhythm Ask a doctor or pharmacist before use if you are taking a prescription drug. Loperamide may interact with certain prescription drugs. When using this product tiredness, drowsiness or dizziness may occur. Be careful when driving or operating machinery. Stop use and ask a doctor if symptoms get worse diarrhea lasts for more than 2 days you get abdominal swelling or bulging. These may be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "do_not_use": [
+    "Do not use if you have bloody or black stool"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have fever mucus in the stool a history of liver disease a history of abnormal heart rhythm"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking a prescription drug. Loperamide may interact with certain prescription drugs."
+  ],
+  "when_using": [
+    "When using this product tiredness, drowsiness or dizziness may occur. Be careful when driving or operating machinery."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if symptoms get worse diarrhea lasts for more than 2 days you get abdominal swelling or bulging. These may be signs of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "dosage_and_administration": [
+    "Directions drink plenty of clear fluids to help prevent dehydration caused by diarrhea find right dose on chart. If possible, use weight to dose; otherwise, use age. adults and children 12 years and over 2 caplets after the first loose stool; 1 caplet after each subsequent loose stool; but no more than 4 caplets in 24 hours children 9-11 years (60-95 lbs) 1 caplet after the first loose stool; 1/2 caplet after each subsequent loose stool; but no more than 3 caplets in 24 hours children 6-8 years (48-59 lbs) 1 caplet after the first loose stool; 1/2 caplet after each subsequent loose stool; but no more than 2 caplets in 24 hours children 2-5 years (34 to 47 lbs) ask a doctor children under 2 years (up to 33 lbs) do not use"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"55%\" styleCode=\"NoAutorules\"><col width=\"40%\" align=\"left\" valign=\"top\"/><col width=\"60%\" align=\"left\" valign=\"top\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">adults and children 12 years and over</td><td>2 caplets after the first loose stool; 1 caplet after each subsequent loose stool; but no more than 4 caplets in 24 hours</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">children 9-11 years (60-95 lbs)</td><td>1 caplet after the first loose stool; 1/2 caplet after each subsequent loose stool; but no more than 3 caplets in 24 hours</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">children 6-8 years (48-59 lbs)</td><td>1 caplet after the first loose stool; 1/2 caplet after each subsequent loose stool; but no more than 2 caplets in 24 hours</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">children 2-5 years (34 to 47 lbs)</td><td>ask a doctor</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">children under 2 years (up to 33 lbs)</td><td>do not use</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information store at 20°-25°C (68°-77°F) do not use if blister unit is broken or torn"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients anhydrous lactose, carnauba wax, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, pregelatinized starch"
+  ],
+  "questions": [
+    "Questions or comments? 1-877-895-3665 (toll-free) or 215-273-8755 (collect)"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL NDC 50580-317-06 Imodium ® A-D Loperamide Hydrochloride Tablets, 2mg Anti-Diarrheal Anti-Diarrheal Caplets Controls the symptoms of diarrhea Actual Size *Capsule-Shaped Tablets 12 Caplets* Principal Display Panel"
+  ],
+  "set_id": "01da76d0-1979-4c45-9d39-c72ae4e4ffe2",
+  "id": "3f75a619-8881-0bb3-e063-6394a90a1bcc",
+  "effective_time": "20250923",
+  "version": "13",
+  "openfda": {
+    "application_number": [
+      "ANDA075232"
+    ],
+    "brand_name": [
+      "Imodium A-D"
+    ],
+    "generic_name": [
+      "LOPERAMIDE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Kenvue Brands LLC"
+    ],
+    "product_ndc": [
+      "50580-317"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LOPERAMIDE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "978010",
+      "978013"
+    ],
+    "spl_id": [
+      "3f75a619-8881-0bb3-e063-6394a90a1bcc"
+    ],
+    "spl_set_id": [
+      "01da76d0-1979-4c45-9d39-c72ae4e4ffe2"
+    ],
+    "package_ndc": [
+      "50580-317-01",
+      "50580-317-03",
+      "50580-317-04",
+      "50580-317-05",
+      "50580-317-06",
+      "50580-317-12"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "77TI35393C"
+    ]
+  }
+}

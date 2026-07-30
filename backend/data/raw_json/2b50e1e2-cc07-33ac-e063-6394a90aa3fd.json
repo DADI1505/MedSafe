@@ -1,0 +1,112 @@
+{
+  "spl_product_data_elements": [
+    "A-29 Cinnamon, Garlic, Ginger, Mustard seed, unspecified, and Nutmeg ALCOHOL WATER CINNAMON CINNAMON GARLIC GARLIC GINGER GINGER MUSTARD SEED, UNSPECIFIED MUSTARD SEED, UNSPECIFIED NUTMEG NUTMEG"
+  ],
+  "spl_unclassified_section": [
+    "NDC 58264-0321-1",
+    "To be used according to standard homeopathic indications."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS Allergies."
+  ],
+  "purpose": [
+    "Allergies."
+  ],
+  "active_ingredient": [
+    "INGREDIENTS ACTIVE Cinnamon 6/12/30x, Garlic 6/12/30x, Ginger 6/12/30x, Mustard 6/12/30x, Nutmeg 6/12/30x INACTIVE 20% alcohol in purified water."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE 20% alcohol in purified water."
+  ],
+  "dosage_and_administration": [
+    "SUGGESTED DOSAGE Normal dose for the first week is 2-3 drops in water T.I.D. Add one drop per dose per week until a total of ten drops is reached. SHAKE WELL"
+  ],
+  "warnings": [
+    "Warnings Use only if cap seal is unbroken. If pregnant or breastfeeding, ask a healthcare professional before use. Keep this and all medication out of the reach of children."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep this and all medication out of the reach of children."
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 1 FL. OZ. Bottle Label DYNAMIC NUTRITIONAL ASSOCIATES, INC. A-29 SPICE MIX HOMEOPATHIC ANTIGEN 1 FL. OZ. PRINCIPAL DISPLAY PANEL - 1 FL. OZ. Bottle Label"
+  ],
+  "set_id": "0367b7d6-153b-4d9a-b8b9-4c29b2094a80",
+  "id": "2b50e1e2-cc07-33ac-e063-6394a90aa3fd",
+  "effective_time": "20250109",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "A-29"
+    ],
+    "generic_name": [
+      "CINNAMON, GARLIC, GINGER, MUSTARD SEED, UNSPECIFIED, AND NUTMEG"
+    ],
+    "manufacturer_name": [
+      "DNA Labs, Inc."
+    ],
+    "product_ndc": [
+      "58264-0321"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "SUBLINGUAL"
+    ],
+    "substance_name": [
+      "CINNAMON",
+      "GARLIC",
+      "GINGER",
+      "MUSTARD SEED, UNSPECIFIED",
+      "NUTMEG"
+    ],
+    "spl_id": [
+      "2b50e1e2-cc07-33ac-e063-6394a90aa3fd"
+    ],
+    "spl_set_id": [
+      "0367b7d6-153b-4d9a-b8b9-4c29b2094a80"
+    ],
+    "package_ndc": [
+      "58264-0321-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185371",
+      "N0000175629",
+      "N0000184306",
+      "M0006342",
+      "M0008672",
+      "M0000728",
+      "M0016962",
+      "N0000185375",
+      "M0516536"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Food Allergenic Extract [EPC]",
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Dietary Proteins [CS]",
+      "Food Additives [CS]",
+      "Allergens [CS]",
+      "Plant Proteins [CS]",
+      "Seed Storage Proteins [CS]"
+    ],
+    "unii": [
+      "5S29HWU6QB",
+      "V1V998DC17",
+      "C5529G5JPQ",
+      "58RXI817UT",
+      "AEE24M3MQ9"
+    ]
+  }
+}

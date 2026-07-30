@@ -1,0 +1,77 @@
+{
+  "spl_product_data_elements": [
+    "AWAS ALCOHOLSPRAY alcohol WATER ALCOHOL ALCOHOL"
+  ],
+  "active_ingredient": [
+    "alcohol"
+  ],
+  "inactive_ingredient": [
+    "water"
+  ],
+  "purpose": [
+    "Disinfection of hands and skin, disinfection of surgical site skin"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children"
+  ],
+  "indications_and_usage": [
+    "■ Apply to the area to be disinfected ■ Supervise children under 6 years of age when using this product to avoid swallowing"
+  ],
+  "warnings": [
+    "Flammable, keep away from fire and flames For external use only"
+  ],
+  "dosage_and_administration": [
+    "For external use only"
+  ],
+  "package_label_principal_display_panel": [
+    "label"
+  ],
+  "set_id": "03010837-0289-3e08-e063-6394a90a7d04",
+  "id": "2cf6b8fa-ee81-3e75-e063-6294a90a7350",
+  "effective_time": "20250130",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M005"
+    ],
+    "brand_name": [
+      "AWAS ALCOHOLSPRAY"
+    ],
+    "generic_name": [
+      "ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "IDO PHARM"
+    ],
+    "product_ndc": [
+      "77039-024"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "2288438"
+    ],
+    "spl_id": [
+      "2cf6b8fa-ee81-3e75-e063-6294a90a7350"
+    ],
+    "spl_set_id": [
+      "03010837-0289-3e08-e063-6394a90a7d04"
+    ],
+    "package_ndc": [
+      "77039-024-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

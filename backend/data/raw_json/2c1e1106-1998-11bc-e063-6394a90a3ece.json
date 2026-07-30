@@ -1,0 +1,77 @@
+{
+  "spl_product_data_elements": [
+    "The Zoeun Skin Nourishing Cream Sturgeon extract FRAGRANCE 13576 APRICOT KERNEL OIL WATER FISH OIL 1,2-HEXANEDIOL JOJOBA OIL ZANTHOXYLUM PIPERITUM FRUIT PULP XANTHAN GUM ROSA CANINA SEED PROPANEDIOL ACETYL ARGININE ANEMARRHENA ASPHODELOIDES ROOT STURGEON, UNSPECIFIED STURGEON, UNSPECIFIED TOCOPHEROL CARBOXYPOLYMETHYLENE BUTYLENE GLYCOL HYALURONATE SODIUM NIACINAMIDE"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Sturgeon extract 81.7%"
+  ],
+  "purpose": [
+    "Purposes Skin Protectant, Total Skin Care, Skin Nourishing, Moisturizing, Brightening, Wrinkle Care, Antioxidant"
+  ],
+  "indications_and_usage": [
+    "Uses Skin Nourishing, Moisturizing, Brightening, Wrinkle Care"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Warnings Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "stop_use": [
+    "Warnings Stop using and ask a doctor if irritation or rash appears and lasts."
+  ],
+  "when_using": [
+    "Warnings When using this product keep out of eyes. Rinse with water to remove"
+  ],
+  "warnings": [
+    "Warnings For external use only."
+  ],
+  "dosage_and_administration": [
+    "Directions • All ages can use. • Whenever wish to, apply directly to the skin, and let the skin absorb without wiping."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Fragrance, Jojoba seed oil, Hyaluronic acid, Tocopherol, Apricot seed oil, Rosehip seed oil, Anemarrhena asphodeloides root extract, Propanediol, Carbomer, Arginine, Zanthoxylum Piperitum Fruit Extract, Niacinamide, Xanthan Gum"
+  ],
+  "package_label_principal_display_panel": [
+    "Display Panel The Zoeun Skin Nourishing Cream"
+  ],
+  "set_id": "049924b3-457c-bf4d-e063-6294a90ad306",
+  "id": "2c1e1106-1998-11bc-e063-6394a90a3ece",
+  "effective_time": "20250120",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "The Zoeun Skin Nourishing Cream"
+    ],
+    "generic_name": [
+      "STURGEON EXTRACT"
+    ],
+    "manufacturer_name": [
+      "Sturgeonbio Co.,Ltd"
+    ],
+    "product_ndc": [
+      "83636-701"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "STURGEON, UNSPECIFIED"
+    ],
+    "spl_id": [
+      "2c1e1106-1998-11bc-e063-6394a90a3ece"
+    ],
+    "spl_set_id": [
+      "049924b3-457c-bf4d-e063-6294a90ad306"
+    ],
+    "package_ndc": [
+      "83636-701-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "X502F5DQD4"
+    ]
+  }
+}

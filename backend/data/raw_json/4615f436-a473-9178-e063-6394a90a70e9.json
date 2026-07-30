@@ -1,0 +1,74 @@
+{
+  "spl_product_data_elements": [
+    "Magsoothium CBD Body Menthol 1,2-HEXANEDIOL CAPRYLHYDROXAMIC ACID LOBELIA INFLATA WHOLE MAGNESIUM SULFATE, UNSPECIFIED FORM PROPANEDIOL CITRIC ACID MONOHYDRATE POLYSORBATE 20 GLYCERIN SODIUM BENZOATE ARNICA MONTANA FLOWER HAMAMELIS VIRGINIANA TOP PHENOXYETHANOL ETHYLHEXYLGLYCERIN PEPPERMINT OIL POTASSIUM SORBATE ALOE VERA LEAF ARGAN OIL APRICOT KERNEL OIL OLIVE OIL JOJOBA OIL WATER MENTHOL MENTHOL POLYOXYL 40 HYDROGENATED CASTOR OIL"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Menthol USP 5.0% Purpose Pain Reliever"
+  ],
+  "purpose": [
+    "Uses: Temporarily relieves minor aches and pains associated with sore muscles and joints arthritis backache muscle strains sprains bruises"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of accidental ingestion get medical help or contact a Poison Control Center immediately."
+  ],
+  "indications_and_usage": [
+    "Stop use and ask a doctor if: Condition worsens or symptoms persist for more than 7 days or clear up and recur Redness is present or irritation develops"
+  ],
+  "warnings": [
+    "Warnings: For external use only When using this product: use only as directed Do not bandage or cover the area being treated Do not apply ice or heating pad in conjunction with this product Do not use with any medical device or other device Do not combine with any other topical treatment Avoid contact with eyes or mucous membrane Do not apply to wounds or damaged skin If pregnant or breast-feeding: Ask a health professional before use"
+  ],
+  "dosage_and_administration": [
+    "Directions: Adults and children over the age of 2 years old: Apply generously with gentle rubbing to the affected area 2-3 times daily or as needed Children less than 2 years of age: Consult a doctor."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients: Water, PEG-40 Hydrogenated Castor Oil, Magnesium Sulfate Hamamelis Virginiana (Witch Hazel) Bark/Leaf/Twig Extract, Arnica Montana Flower Extract, Phenoxyethanol, Sodium Benzoate, Ethylhexylglycerin, Mentha Piperita (Peppermint) Oil, Potassium Sorbate, Aloe Barbadensis Leaf Extract, Citric Acid, Propanediol, Polysorbate 20, 1,2-Hexanediol, Caprylhydroxamic Acid, Glycerin, Argania Spinosa Kernel Oil, Prunus Armeniaca (Apricot) Kernel Oil, Olea Europaea (Olive) Fruit Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Lobelia inflata Extract"
+  ],
+  "package_label_principal_display_panel": [
+    "Magsoothium Body Spray Helps Relieve Minor Aches & Pains Homeopathic Pain Reliever magnesium & arnica based formula Net Contents: 4 fl oz. (118.3ml) Made in U.S.A spray label"
+  ],
+  "set_id": "00b2ef34-42d7-523c-e063-6294a90a753d",
+  "id": "4615f436-a473-9178-e063-6394a90a70e9",
+  "effective_time": "20251216",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Magsoothium CBD Body"
+    ],
+    "generic_name": [
+      "MENTHOL"
+    ],
+    "manufacturer_name": [
+      "Ubu/Elements, Inc."
+    ],
+    "product_ndc": [
+      "83262-004"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MENTHOL"
+    ],
+    "spl_id": [
+      "4615f436-a473-9178-e063-6394a90a70e9"
+    ],
+    "spl_set_id": [
+      "00b2ef34-42d7-523c-e063-6294a90a753d"
+    ],
+    "package_ndc": [
+      "83262-004-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

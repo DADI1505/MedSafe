@@ -1,0 +1,100 @@
+{
+  "spl_product_data_elements": [
+    "PSY-stabil Phosphoric Acid, Amanita muscaria Fruiting Body, Semecarpus anacardium Fruit, Avena sativa Flowering Top, Cinchona officinalis Bark, Strychnos ignatii Seed, Schoenocaulon officinale Seed, and Piper methysticum Root Phosphoric Acid Phosphoric Acid Amanita muscaria Fruiting Body Amanita muscaria Fruiting Body Semecarpus anacardium Fruit Semecarpus Anacardium Fruit Avena sativa Flowering Top Avena Sativa Flowering Top Cinchona Officinalis Bark Cinchona Officinalis Bark Strychnos ignatii Seed Strychnos ignatii Seed Schoenocaulon officinale Seed Schoenocaulon Officinale Seed MACROPIPER METHYSTICUM ROOT MACROPIPER METHYSTICUM ROOT Water Alcohol"
+  ],
+  "active_ingredient": [
+    "Ingredients: Acidum phosphoricum 3X Amanita muscaria (Agaricus muscarius) 6X Cinchona succirubra (China) 3X Strychnos ignatii (Ignatia) 4X Piper methysticum 8X Schoenocaulon officinale (Sabadilla) 4X Semecarpus anacardium (Anacardium) 10X Avena sativa 1X Selected ingredients prepared by spagyric processes."
+  ],
+  "active_ingredient_table": [
+    "<table width=\"60%\"><col width=\"75%\" align=\"left\" valign=\"top\"/><col width=\"25%\" align=\"right\" valign=\"top\"/><thead><tr><th colspan=\"2\">Ingredients:</th></tr></thead><tbody><tr><td>Acidum phosphoricum</td><td>3X</td></tr><tr><td>Amanita muscaria (Agaricus muscarius)</td><td>6X</td></tr><tr><td>Cinchona succirubra (China)</td><td>3X</td></tr><tr><td>Strychnos ignatii (Ignatia)</td><td>4X</td></tr><tr><td>Piper methysticum</td><td>8X</td></tr><tr><td>Schoenocaulon officinale (Sabadilla)</td><td>4X</td></tr><tr><td>Semecarpus anacardium (Anacardium)</td><td>10X</td></tr><tr><td>Avena sativa</td><td>1X</td></tr></tbody></table>"
+  ],
+  "inactive_ingredient": [
+    "Contains 21% alcohol by volume."
+  ],
+  "indications_and_usage": [
+    "Indications For relief of occasional stress. Application of this homeopathic remedy for the designated usage is exclusively based on homeopathic experience. With severe forms of this disease, a clinically proven therapy is indicated."
+  ],
+  "purpose": [
+    "For relief of occasional stress. Application of this homeopathic remedy for the designated usage is exclusively based on homeopathic experience. With severe forms of this disease, a clinically proven therapy is indicated."
+  ],
+  "dosage_and_administration": [
+    "Dosage Unless otherwise prescribed, adults take 15-20 drops, 3 times per day. For pediatric dosages, consult your practitioner."
+  ],
+  "warnings": [
+    "Warning If symptoms persist, contact a licensed practitioner. If you have known sensitivity to any of the ingredients, please consult your licensed practitioner before use. If you are pregnant or nursing a baby, seek the advice of a health care professional before use. Keep out of the reach of children. Protect from light and heat. Tamper Evident Do not use this product if tamper evident strip is broken or removed from base of cap."
+  ],
+  "ask_doctor": [
+    "If symptoms persist, contact a licensed practitioner. If you have known sensitivity to any of the ingredients, please consult your licensed practitioner before use. If you are pregnant or nursing a baby, seek the advice of a health care professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children."
+  ],
+  "storage_and_handling": [
+    "Protect from light and heat."
+  ],
+  "questions": [
+    "To report adverse events, contact BioResource at 321B Blodgett Street, Cotati, CA 94931"
+  ],
+  "spl_unclassified_section": [
+    "Distributed by: BioResource Inc. Cotati, CA 94931 Manufactured by: PEKANA ® GmbH D-88353 Kisslegg"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 100 ml Bottle Box PSY-stabil™ Oral Drops Homeopathic Medicine For relief of occasional stress 3.34 FL OZ (100 ml) PEKANA ® PRINCIPAL DISPLAY PANEL - 100 ml Bottle Box"
+  ],
+  "set_id": "03701335-24e7-4a00-bc64-5400196a6977",
+  "id": "e736def8-aafc-46c8-b3fa-d33a04cd281c",
+  "effective_time": "20221219",
+  "version": "5",
+  "openfda": {
+    "brand_name": [
+      "PSY-stabil"
+    ],
+    "generic_name": [
+      "PHOSPHORIC ACID, AMANITA MUSCARIA FRUITING BODY, SEMECARPUS ANACARDIUM FRUIT, AVENA SATIVA FLOWERING TOP, CINCHONA OFFICINALIS BARK, STRYCHNOS IGNATII SEED, SCHOENOCAULON OFFICINALE SEED, AND PIPER METHYSTICUM ROOT"
+    ],
+    "manufacturer_name": [
+      "PEKANA Naturheilmittel GmbH"
+    ],
+    "product_ndc": [
+      "59469-163"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PHOSPHORIC ACID",
+      "AMANITA MUSCARIA FRUITING BODY",
+      "SEMECARPUS ANACARDIUM FRUIT",
+      "AVENA SATIVA FLOWERING TOP",
+      "CINCHONA OFFICINALIS BARK",
+      "STRYCHNOS IGNATII SEED",
+      "SCHOENOCAULON OFFICINALE SEED",
+      "MACROPIPER METHYSTICUM ROOT"
+    ],
+    "spl_id": [
+      "e736def8-aafc-46c8-b3fa-d33a04cd281c"
+    ],
+    "spl_set_id": [
+      "03701335-24e7-4a00-bc64-5400196a6977"
+    ],
+    "package_ndc": [
+      "59469-163-40"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "E4GA8884NN",
+      "DIF093I037",
+      "7399B063X9",
+      "MA9CQJ3F7F",
+      "S003A158SB",
+      "1NM3M2487K",
+      "6NAF1689IO",
+      "BOW48C81XP"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "Transform 30 Fucus Vesiculosus, Cysteinum, Nicotinamidum, Alpha-Lipoicum Acidum, Antimonium Crudum, Chromium Sulphuricum, Gambogia, Anacardium Orientale, Graphites FUCUS VESICULOSUS FUCUS VESICULOSUS CYSTEINE CYSTEINE NIACINAMIDE NIACINAMIDE ALPHA LIPOIC ACID .ALPHA.-LIPOIC ACID ANTIMONY TRISULFIDE ANTIMONY TRISULFIDE CHROMIC SULFATE PENTADECAHYDRATE CHROMIC CATION GAMBOGE GAMBOGE SEMECARPUS ANACARDIUM JUICE SEMECARPUS ANACARDIUM JUICE GRAPHITE GRAPHITE AMERICAN GINSENG GREEN TEA LEAF GARCINIA GUMMI-GUTTA FRUIT PAULLINIA CUPANA SEED LEPIDIUM MEYENII ROOT PLECTRANTHUS BARBATUS ROOT GUGGUL WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: Fucus Vesiculosus 3X, Cysteinum 6X, Nicotinamidum 6X, Alpha-Lipoicum Acidum 12X, Antimonium Crudum 12X, Chromium Sulphuricum 12X, Gambogia 12X, Anacardium Orientale 30C, Graphites 30C."
+  ],
+  "purpose": [
+    "INDICATIONS: May temporarily relieve symptoms when reducing diet intake such as food cravings, excessive appetite, regulation of metabolism and fatigue.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS: If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in a cool, dry place."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Adults 8-10 drops orally, 3 times daily or as otherwise directed by a health care professional."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: May temporarily relieve symptoms when reducing diet intake such as food cravings, excessive appetite, regulation of metabolism and fatigue.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: American Ginseng (root) Panax Quinquefolius, Demineralized Water, 25% Ethanol, Green Tea (leaf) Camellia Sinensis, Garcinia (fruit) Garcinia Cambogia, Guarana (seed) Paullinia Cupana, Maca (root) Lepidium Meyenii, Forskohlii (root) Plectranthus Barbatus, Guggul (resin) Commiphora Mukul"
+  ],
+  "questions": [
+    "QUESTIONS: Dist. by: H2 Nutrition 14 South Baltic Pl. Meridian, ID 83642 drmicronutrition.com"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: TRANSFORM 30 HOMEOPATHIC REMEDY 2 fl. oz. (60 ml) Transform 30"
+  ],
+  "set_id": "073d724f-9a83-4e27-a230-0dc1ef6b6924",
+  "id": "1192caa3-7e57-49e5-9ff6-fa16a4e10ee4",
+  "effective_time": "20260112",
+  "version": "5",
+  "openfda": {
+    "brand_name": [
+      "Transform 30"
+    ],
+    "generic_name": [
+      "FUCUS VESICULOSUS, CYSTEINUM, NICOTINAMIDUM, ALPHA-LIPOICUM ACIDUM, ANTIMONIUM CRUDUM, CHROMIUM SULPHURICUM, GAMBOGIA, ANACARDIUM ORIENTALE, GRAPHITES"
+    ],
+    "manufacturer_name": [
+      "H2 Nutrition"
+    ],
+    "product_ndc": [
+      "80814-0001"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "FUCUS VESICULOSUS",
+      "CYSTEINE",
+      "NIACINAMIDE",
+      "ALPHA LIPOIC ACID",
+      "ANTIMONY TRISULFIDE",
+      "CHROMIC SULFATE PENTADECAHYDRATE",
+      "GAMBOGE",
+      "SEMECARPUS ANACARDIUM JUICE",
+      "GRAPHITE"
+    ],
+    "spl_id": [
+      "1192caa3-7e57-49e5-9ff6-fa16a4e10ee4"
+    ],
+    "spl_set_id": [
+      "073d724f-9a83-4e27-a230-0dc1ef6b6924"
+    ],
+    "package_ndc": [
+      "80814-0001-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "535G2ABX9M",
+      "K848JZ4886",
+      "25X51I8RD4",
+      "73Y7P0K73Y",
+      "F79059A38U",
+      "E4T8TU3LE8",
+      "7556HJ7587",
+      "Y0F0BU8RDU",
+      "4QQN74LH4O"
+    ]
+  }
+}

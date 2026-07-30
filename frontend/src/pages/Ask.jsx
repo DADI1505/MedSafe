@@ -56,7 +56,7 @@ export default function Ask() {
 
   return (
     <div className="min-h-screen bg-canvas">
-      <Header />
+      
 
       <main className="mx-auto max-w-3xl px-4 py-8">
         {/* Titre de la page */}

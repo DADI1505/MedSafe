@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "DISCOUNT DRUG MART Cough Drops Honey Lemon SUCROSE HONEY BETA CAROTENE EUCALYPTUS OIL SUCRALOSE CORN SYRUP LECITHIN, SOYBEAN WATER MENTHOL MENTHOL B"
+  ],
+  "active_ingredient": [
+    "Active Ingredient(s) Menthol 7.5 mg"
+  ],
+  "purpose": [
+    "Purpose Purposes cough suppressant, oral anesthetic"
+  ],
+  "indications_and_usage": [
+    "Use temporary relieves: ■ cough due to cold ■ occasional minor irritation or sore throat"
+  ],
+  "warnings": [
+    "Warnings Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or follow headache, rash, swelling, nausea, or vomiting, consult a doctor promptly. These may be serious."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have: ■ persistent or chronic cough such as occurs with smoking, asthma, or emphysema ■ cough accompanied by excessive phlegm (mucus)."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if ■ cough persists for more than 1 week, tends to recur, or is accompained by fever, rash, or persistent headache. These could be signs of a serius condition. ■ sore mouth does not improve in 7 days ■ irritation, pain, or redness persists or worsens."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions ■ adults and children 5 years and over: dissolve 1 drop slowly in the mouth. Repeat every 2 hours as needed. ■ children under 5 years: ask a doctor."
+  ],
+  "storage_and_handling": [
+    "Other information ■ 10 calories per drop ■ contains: SOY."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients beta carotene, glucose syrup, sucrose, honey, eucalyptus oil, flavors, soy lecithin, sucralose, water."
+  ],
+  "questions": [
+    "www.discount-drugmart.com"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Label - Principal Display Panel 30 Drops NDC: 53943-150-30 DDM Label"
+  ],
+  "set_id": "0668ddcc-0214-8e97-e063-6294a90a4f32",
+  "id": "468e2ba0-dd08-0ce7-e063-6394a90a504f",
+  "effective_time": "20251222",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "DISCOUNT DRUG MART"
+    ],
+    "generic_name": [
+      "COUGH DROPS HONEY LEMON"
+    ],
+    "manufacturer_name": [
+      "DISCOUNT DRUG MART"
+    ],
+    "product_ndc": [
+      "53943-150"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MENTHOL"
+    ],
+    "rxcui": [
+      "1250189"
+    ],
+    "spl_id": [
+      "468e2ba0-dd08-0ce7-e063-6394a90a504f"
+    ],
+    "spl_set_id": [
+      "0668ddcc-0214-8e97-e063-6294a90a4f32"
+    ],
+    "package_ndc": [
+      "53943-150-30",
+      "53943-150-80"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

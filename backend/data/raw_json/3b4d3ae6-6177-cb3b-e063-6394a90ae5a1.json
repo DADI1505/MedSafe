@@ -1,0 +1,87 @@
+{
+  "spl_product_data_elements": [
+    "Vaporizing chest rub Camphor, Eucalyptus oil, Menthol CEDAR LEAF OIL NUTMEG OIL PETROLATUM THYMOL TURPENTINE OIL CAMPHOR (NATURAL) CAMPHOR (NATURAL) EUCALYPTUS OIL EUCALYPTUS GLOBULUS LEAF OIL MENTHOL, UNSPECIFIED FORM MENTHOL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Purpose Camphor 4.7% Cough suppressant & topical analgesic Eucalyptus oil 1.2% Cough suppressant Menthol 1.25% Cough suppressant & topical analgesic"
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    "Uses When applied to chest or throat: Temporarily relieves cough due to minor throat and bronchial irritation associated with a common cold When applied to muscles and joints: Temporarily relieves minor aches and pains of muscles and joints"
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "warnings": [
+    "Warnings For external use only Ask a doctor before use if you have: A cough with too much phlegm (mucus) Chronic cough that lasts or occurs with smoking, asthma, or emphysema When using this product, do not : Heat Microwave Add to hot water or any container where heating water may cause splattering and burns Take by mouth or place in nostrils Use in or near eyes Apply to wounds or damaged skin Bandage tightly Use with other topical pain relievers Stop Use and Ask a Doctor If Muscle aches and pains worsen or last more than 7 days Symptoms clear up and then return within a few days Cough persists more than 1 week, tends to recur, or is accompanied by: Fever, Rash, Persistent headache A persistent cough may be a sign of a serious condition Redness or irritation develops If Pregnant or Breast-feeding : Ask a health professional before use. Keep Out of Reach of Children .If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions See important warnings under \"When using this product\" For Cough Suppression: Adults and children 2 years and older: ▪ Rub on the throat and chest in a thick layer ▪ Cover with a warm, dry cloth if desired ▪ Clothing should be loose around throat and chest to help vapors reach the nose and mouth ▪ Use up to 3 times daily or as directed by a doctor Children under 2 years of age: ▪ Ask a doctor For Muscle & Joint Minor Aches and Pains: Adults and children 2 years and older : ▪ Clean affected area before applying ▪ Apply to affected area no more than 3 to 4 times daily Children under 2 years of age: ▪ Consult a doctor"
+  ],
+  "spl_unclassified_section": [
+    "Other information Store at room temperature"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Cedar leaf oil, nutmeg oil, petrolatum, thymol, turpentine oil"
+  ],
+  "package_label_principal_display_panel": [
+    "Product label image description"
+  ],
+  "set_id": "065bb666-e482-4e96-ac75-c6577dcc5b48",
+  "id": "3b4d3ae6-6177-cb3b-e063-6394a90ae5a1",
+  "effective_time": "20250801",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Vaporizing chest rub"
+    ],
+    "generic_name": [
+      "CAMPHOR, EUCALYPTUS OIL, MENTHOL"
+    ],
+    "manufacturer_name": [
+      "LJ Pharma"
+    ],
+    "product_ndc": [
+      "84809-007"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CAMPHOR (NATURAL)",
+      "EUCALYPTUS OIL",
+      "MENTHOL, UNSPECIFIED FORM"
+    ],
+    "rxcui": [
+      "2003749"
+    ],
+    "spl_id": [
+      "3b4d3ae6-6177-cb3b-e063-6394a90ae5a1"
+    ],
+    "spl_set_id": [
+      "065bb666-e482-4e96-ac75-c6577dcc5b48"
+    ],
+    "package_ndc": [
+      "84809-007-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0191554613218"
+    ],
+    "unii": [
+      "N20HL7Q941",
+      "2R04ONI662",
+      "L7T10EIP3A"
+    ]
+  }
+}

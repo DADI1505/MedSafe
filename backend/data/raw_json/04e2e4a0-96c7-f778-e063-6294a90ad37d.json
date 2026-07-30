@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Molybdenum Muriaticum Molybdenum Muriaticum SUCROSE MOLYBDENUM TRICHLORIDE MOLYBDENUM TRICHLORIDE Molybdenum Muriaticum Molybdenum Muriaticum MOLYBDENUM TRICHLORIDE MOLYBDENUM TRICHLORIDE SUCROSE Molybdenum Muriaticum Molybdenum Muriaticum MOLYBDENUM TRICHLORIDE MOLYBDENUM TRICHLORIDE SUCROSE Molybdenum Muriaticum Molybdenum Muriaticum MOLYBDENUM TRICHLORIDE MOLYBDENUM TRICHLORIDE SUCROSE Molybdenum Muriaticum Molybdenum Muriaticum SUCROSE MOLYBDENUM TRICHLORIDE MOLYBDENUM TRICHLORIDE Molybdenum Muriaticum Molybdenum Muriaticum MOLYBDENUM TRICHLORIDE MOLYBDENUM TRICHLORIDE SUCROSE Molybdenum Muriaticum Molybdenum Muriaticum MOLYBDENUM TRICHLORIDE MOLYBDENUM TRICHLORIDE SUCROSE Molybdenum Muriaticum Molybdenum Muriaticum MOLYBDENUM TRICHLORIDE MOLYBDENUM TRICHLORIDE SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Molybdenum Muriaticum 6C 5g Molybdenum Muriaticum 6C 30g Molybdenum Muriaticum 6C 100g Molybdenum Muriaticum 12C 5g Molybdenum Muriaticum 12C 30g Molybdenum Muriaticum 12C 100g Molybdenum Muriaticum 30C 1g Molybdenum Muriaticum 30C 5g Molybdenum Muriaticum 30C 30g Molybdenum Muriaticum 30C 100g Molybdenum Muriaticum 100C 1g Molybdenum Muriaticum 100C 5g Molybdenum Muriaticum 100C 30g Molybdenum Muriaticum 100C 100g Molybdenum Muriaticum 200C 1g Molybdenum Muriaticum 200C 5g Molybdenum Muriaticum 200C 30g Molybdenum Muriaticum 200C 100g Molybdenum Muriaticum 500C 1g Molybdenum Muriaticum 500C 5g Molybdenum Muriaticum 500C 30g Molybdenum Muriaticum 500C 100g Molybdenum Muriaticum 1M 1g Molybdenum Muriaticum 1M 5g Molybdenum Muriaticum 1M 30g Molybdenum Muriaticum 1M 100g Molybdenum Muriaticum LM1 30g"
+  ],
+  "set_id": "04e2e4a0-96c6-f778-e063-6294a90ad37d",
+  "id": "04e2e4a0-96c7-f778-e063-6294a90ad37d",
+  "effective_time": "20230908",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Molybdenum Muriaticum"
+    ],
+    "generic_name": [
+      "MOLYBDENUM MURIATICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3896",
+      "37662-3902",
+      "37662-3897",
+      "37662-3898",
+      "37662-3900",
+      "37662-3903",
+      "37662-3899",
+      "37662-3901"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MOLYBDENUM TRICHLORIDE"
+    ],
+    "spl_id": [
+      "04e2e4a0-96c7-f778-e063-6294a90ad37d"
+    ],
+    "spl_set_id": [
+      "04e2e4a0-96c6-f778-e063-6294a90ad37d"
+    ],
+    "package_ndc": [
+      "37662-3902-1",
+      "37662-3902-2",
+      "37662-3902-3",
+      "37662-3902-4",
+      "37662-3897-1",
+      "37662-3897-2",
+      "37662-3897-3",
+      "37662-3898-1",
+      "37662-3898-2",
+      "37662-3898-3",
+      "37662-3898-4",
+      "37662-3900-1",
+      "37662-3900-2",
+      "37662-3900-3",
+      "37662-3900-4",
+      "37662-3903-1",
+      "37662-3899-1",
+      "37662-3899-2",
+      "37662-3899-3",
+      "37662-3899-4",
+      "37662-3901-1",
+      "37662-3901-2",
+      "37662-3901-3",
+      "37662-3901-4",
+      "37662-3896-1",
+      "37662-3896-2",
+      "37662-3896-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "9D9PY7688B"
+    ]
+  }
+}

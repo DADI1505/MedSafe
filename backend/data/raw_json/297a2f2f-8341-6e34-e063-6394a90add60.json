@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "Mary Kay TimeWise Daytime Defender Sunscreen Broad Spectrum SPF 30 Avobenzone/Octisalate/Octocrylene GLYCERYL MONOSTEARATE ALPHA-TOCOPHEROL ACETATE AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER PHENOXYETHANOL PRICKLY PEAR FRUIT SODIUM BENZOATE OCTISALATE OCTISALATE WATER ALCOHOL RESVERATROL ALUMINUM STARCH OCTENYLSUCCINATE NIACINAMIDE OCTOCRYLENE OCTOCRYLENE SILICON DIOXIDE CETEARETH-25 GLYCERIN HYDROXYACETOPHENONE SUCROSE STEARATE DIPROPYLENE GLYCOL EDETATE DISODIUM ANHYDROUS ETHYLHEXYLGLYCERIN ETHYL MACADAMIATE OLIGOPEPTIDE-10 DIMETHICONE XANTHAN GUM SACCHAROMYCES CEREVISIAE DISODIUM ETHYLENE DICOCAMIDE PEG-15 DISULFATE VINYLPYRROLIDONE/EICOSENE COPOLYMER YELLOW WAX AVOBENZONE AVOBENZONE PROPANEDIOL CAPRYLYL TRISILOXANE"
+  ],
+  "active_ingredient": [
+    "Active ingredients Avobenzone 3% (w/w) Octisalate 4.5% (w/w) Octocrylene 9% (w/w)"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent sunburn."
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use on broken skin. When using this product avoid contact with eyes. If contact occurs, rinse thoroughly with water. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on broken skin."
+  ],
+  "when_using": [
+    "When using this product avoid contact with eyes. If contact occurs, rinse thoroughly with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children over 6 months of age: ■ apply liberally15 minutes before sun exposure ■ use a water-resistant sunscreen if swimming or sweating ■ reapply at least every 2 hours ■ Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures including: • limit time in the sun, especially from10 a.m.–2 p.m. • wear long-sleeve shirts, pants, hatsand sunglasses ■ children under 6 months: Ask a doctor"
+  ],
+  "other_safety_information": [
+    "Other information ■ protect the product in this container from excessive heat and direct sun."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water/eau/aqua, propanediol, glycerin, silica, caprylyl methicone, ceteareth-25, aluminum starch octenylsuccinate, ammonium acryloyldimethyltaurate/VP copolymer, beeswax/ cire d'abeille/cera alba, glyceryl stearate, niacinamide, dimethicone, phenoxyethanol, disodium ethylene dicocamide PEG-15 disulfate, VP/eicosene copolymer, hydroxyacetophenone, opuntia ficus-indica fruit extract, xanthan gum, disodium EDTA, ethylhexylglycerin, saccharomyces cerevisiae extract, sucrose stearate, alcohol, dipropylene glycol, ethyl macadamiate, resveratrol, sodium benzoate, tocopheryl acetate, oligopeptide-1."
+  ],
+  "questions": [
+    "Questions? 1-800-627-9529"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel - 29 ml carton Mary Kay TimeWise DAYTIME DEFENDER SUNSCREEN BROAD SPECTRUM SPF 30 1 FL. OZ. / 29 mL Image of Daytime Defender Sunscreen carton"
+  ],
+  "set_id": "00f0f30d-236a-fd45-e063-6294a90a747d",
+  "id": "297a2f2f-8341-6e34-e063-6394a90add60",
+  "effective_time": "20241217",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Mary Kay TimeWise Daytime Defender Sunscreen Broad Spectrum SPF 30"
+    ],
+    "generic_name": [
+      "AVOBENZONE/OCTISALATE/OCTOCRYLENE"
+    ],
+    "manufacturer_name": [
+      "Mary Kay Inc."
+    ],
+    "product_ndc": [
+      "51531-7385"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OCTISALATE",
+      "OCTOCRYLENE",
+      "AVOBENZONE"
+    ],
+    "spl_id": [
+      "297a2f2f-8341-6e34-e063-6394a90add60"
+    ],
+    "spl_set_id": [
+      "00f0f30d-236a-fd45-e063-6294a90a747d"
+    ],
+    "package_ndc": [
+      "51531-7385-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "4X49Y0596W",
+      "5A68WGF6WM",
+      "G63QQF2NOX"
+    ]
+  }
+}

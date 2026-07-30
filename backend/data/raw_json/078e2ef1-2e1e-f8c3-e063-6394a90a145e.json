@@ -1,0 +1,130 @@
+{
+  "spl_product_data_elements": [
+    "Ribavirinum Ribavirinum RIBAVIRIN RIBAVIRIN SUCROSE Ribavirinum Ribavirinum RIBAVIRIN RIBAVIRIN SUCROSE Ribavirinum Ribavirinum RIBAVIRIN RIBAVIRIN SUCROSE Ribavirinum Ribavirinum RIBAVIRIN RIBAVIRIN SUCROSE Ribavirinum Ribavirinum RIBAVIRIN RIBAVIRIN SUCROSE Ribavirinum Ribavirinum RIBAVIRIN RIBAVIRIN SUCROSE Ribavirinum Ribavirinum RIBAVIRIN RIBAVIRIN SUCROSE Ribavirinum Ribavirinum RIBAVIRIN RIBAVIRIN SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Ribavirinum 6C 5g Ribavirinum 6C 30g Ribavirinum 6C 100g Ribavirinum 12C 5g Ribavirinum 12C 30g Ribavirinum 12C 100g Ribavirinum 30C 1g Ribavirinum 30C 5g Ribavirinum 30C 30g Ribavirinum 30C 100g Ribavirinum 100C 1g Ribavirinum 100C 5g Ribavirinum 100C 30g Ribavirinum 100C 100g Ribavirinum 200C 1g Ribavirinum 200C 5g Ribavirinum 200C 30g Ribavirinum 200C 100g Ribavirinum 500C 1g Ribavirinum 500C 5g Ribavirinum 500C 30g Ribavirinum 500C 100g Ribavirinum 1M 1g Ribavirinum 1M 5g Ribavirinum 1M 30g Ribavirinum 1M 100g Ribavirinum LM1 30g"
+  ],
+  "set_id": "078e2ef1-2e1d-f8c3-e063-6394a90a145e",
+  "id": "078e2ef1-2e1e-f8c3-e063-6394a90a145e",
+  "effective_time": "20231012",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Ribavirinum"
+    ],
+    "generic_name": [
+      "RIBAVIRINUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-4136",
+      "37662-4137",
+      "37662-4138",
+      "37662-4139",
+      "37662-4140",
+      "37662-4142",
+      "37662-4143",
+      "37662-4141"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "RIBAVIRIN"
+    ],
+    "spl_id": [
+      "078e2ef1-2e1e-f8c3-e063-6394a90a145e"
+    ],
+    "spl_set_id": [
+      "078e2ef1-2e1d-f8c3-e063-6394a90a145e"
+    ],
+    "package_ndc": [
+      "37662-4137-1",
+      "37662-4137-2",
+      "37662-4137-3",
+      "37662-4138-1",
+      "37662-4138-2",
+      "37662-4138-3",
+      "37662-4138-4",
+      "37662-4139-1",
+      "37662-4139-2",
+      "37662-4139-3",
+      "37662-4139-4",
+      "37662-4140-1",
+      "37662-4140-2",
+      "37662-4140-3",
+      "37662-4140-4",
+      "37662-4136-1",
+      "37662-4136-2",
+      "37662-4136-3",
+      "37662-4142-1",
+      "37662-4142-2",
+      "37662-4142-3",
+      "37662-4142-4",
+      "37662-4143-1",
+      "37662-4141-1",
+      "37662-4141-2",
+      "37662-4141-3",
+      "37662-4141-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175459",
+      "N0000175466"
+    ],
+    "pharm_class_epc": [
+      "Nucleoside Analog Antiviral [EPC]"
+    ],
+    "unii": [
+      "49717AWG6K"
+    ]
+  }
+}

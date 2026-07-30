@@ -1,0 +1,101 @@
+{
+  "spl_product_data_elements": [
+    "Mineral Moisture Defense SPF 50 Titanium Dioxide and Zinc Oxide DIMETHICONE MEDIUM-CHAIN TRIGLYCERIDES DIMETHICONE/DIENE DIMETHICONE CROSSPOLYMER DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (SOFT PARTICLE) BUTYLOCTYL SALICYLATE GLYCERYL ISOSTEARATE POLYESTER-8 (1400 MW, CYANODIPHENYLPROPENOYL CAPPED) POLYSILICONE-15 CERAMIDE AP CERAMIDE 9 CERAMIDE NP PHYTOSPHINGOSINE TETRAHEXYLDECYL ASCORBATE GREEN TEA LEAF POMEGRANATE JUICE CRANBERRY WATER POLYHYDROXYSTEARIC ACID (2300 MW) SILICON DIOXIDE SODIUM LAUROYL LACTYLATE ETHYLHEXYLGLYCERIN CHOLESTEROL CARBOMER HOMOPOLYMER TYPE C (ALLYL PENTAERYTHRITOL CROSSLINKED) XANTHAN GUM TRIETHOXYCAPRYLYLSILANE TITANIUM DIOXIDE TITANIUM DIOXIDE ZINC OXIDE ZINC OXIDE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "DISTRIBUTED BY MDSOLARSCIENCES CORP. GREENS FARMS, CT 06838"
+  ],
+  "active_ingredient": [
+    "Active ingredients Purpose Titanium Dioxide 2% Sunscreen Zinc Oxide 17% Sunscreen"
+  ],
+  "active_ingredient_table": [
+    "<table width=\"55%\"><col width=\"75%\" align=\"left\" valign=\"top\"/><col width=\"25%\" align=\"right\" valign=\"top\"/><thead><tr><th><content styleCode=\"italics\">Active ingredients</content></th><th><content styleCode=\"italics\">Purpose</content></th></tr></thead><tbody><tr><td>Titanium Dioxide 2%</td><td>Sunscreen</td></tr><tr><td>Zinc Oxide 17%</td><td>Sunscreen</td></tr></tbody></table>"
+  ],
+  "purpose": [
+    "Active ingredients Purpose Titanium Dioxide 2% Sunscreen Zinc Oxide 17% Sunscreen"
+  ],
+  "purpose_table": [
+    "<table width=\"55%\"><col width=\"75%\" align=\"left\" valign=\"top\"/><col width=\"25%\" align=\"right\" valign=\"top\"/><thead><tr><th><content styleCode=\"italics\">Active ingredients</content></th><th><content styleCode=\"italics\">Purpose</content></th></tr></thead><tbody><tr><td>Titanium Dioxide 2%</td><td>Sunscreen</td></tr><tr><td>Zinc Oxide 17%</td><td>Sunscreen</td></tr></tbody></table>"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent sunburn If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use on damaged or broken skin Stop use and ask a doctor if rash occurs When using this product keep out of eyes. Rinse with water to remove. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply liberally 15 minutes before sun exposure Reapply: after 80 minutes of swimming or sweating immediately after towel drying at least every 2 hours Children under 6 months: Ask a doctor Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease the risk, regularly use a sunscreen with Broad Spectrum SPF of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10a.m.-2p.m. Wear long-sleeved shirts, pants, hats and sunglasses"
+  ],
+  "storage_and_handling": [
+    "Other Information Shake well. Rub in well. Protect the product in this container from excessive heat and direct sunlight May stain some fabrics You may report serious adverse reactions to: Report Reaction LLC PO Box 611, Pompton Plains, NJ 07444"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Dimethicone, Caprylic/Capric Triglyceride, Dimethicone Crosspolymer, Dimethicone/Vinyl Dimethicone Crosspolymer, Butyloctyl Salicylate, Glyceryl Isostearate, Polyester-8, Polysilicone-15, Ceramide AP, Ceramide EOP, Ceramide NP, Phytosphingosine, Tetrahexyldecyl Ascorbate (Vitamin C), Camelia Sinensis Leaf Extract (Green Tea), Punica Granatum Extract (Pomegranate), Vaccinum Macrocarpon (Cranberry) Fruit Extract, Water (Aqua), Polyhydroxystearic Acid, Silica, Sodium Lauroyl Lactylate, Ethylhexylglycerin, Cholesterol, Carbomer, Xanthan Gum, Triethoxycaprylysilane, May Contain: (CI 77891, CI 77492, CI 77491, CI 77499)"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 100 ML Tube Carton MDSOLARSCIENCES ® MINERAL MOISTURE DEFENSE Broad Spectrum SPF 50 Water Resistant (80 Min) 100% Mineral Sunscreen SPF 50 Hydrating Mineral Sunscreen Enriched with Ceramides DERMATOLOGIST DEVELOPED VITAMIN C GREEN TEA POMEGRANATE CRANBERRY 3.4 FL OZ / 100 ML PRINCIPAL DISPLAY PANEL - 100 ML Tube Carton"
+  ],
+  "set_id": "05ad73f3-a4e8-4f78-8212-3e8e3bda988c",
+  "id": "36d86ec1-c64d-d417-e063-6394a90a5f9f",
+  "effective_time": "20250605",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Mineral Moisture Defense SPF 50"
+    ],
+    "generic_name": [
+      "TITANIUM DIOXIDE AND ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "MDSolarSciences"
+    ],
+    "product_ndc": [
+      "49358-583"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "TITANIUM DIOXIDE",
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "36d86ec1-c64d-d417-e063-6394a90a5f9f"
+    ],
+    "spl_set_id": [
+      "05ad73f3-a4e8-4f78-8212-3e8e3bda988c"
+    ],
+    "package_ndc": [
+      "49358-583-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0349358001100"
+    ],
+    "unii": [
+      "15FIX9V2JP",
+      "SOI2LOH54Z"
+    ]
+  }
+}

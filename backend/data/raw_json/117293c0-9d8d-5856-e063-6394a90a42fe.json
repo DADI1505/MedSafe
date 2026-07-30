@@ -1,0 +1,85 @@
+{
+  "spl_product_data_elements": [
+    "Meijer SPF 50 Sunscreen Avobenzone 3%, Homosalate 10%, Octisalate 5%, Octocrylene 10% HOMOSALATE HOMOSALATE DIMETHICONE 200 CARBOMER 940 AVOBENZONE AVOBENZONE POLYGLYCERYL-3 DISTEARATE TROLAMINE SORBITOL WATER SORBITAN ISOSTEARATE EICOSYL POVIDONE STEARIC ACID EDETATE DISODIUM TOCOPHEROL ETHYLHEXYLGLYCERIN OCTOCRYLENE OCTOCRYLENE BENZYL ALCOHOL OCTISALATE OCTISALATE PHENOXYETHANOL ALUMINUM STARCH OCTENYLSUCCINATE"
+  ],
+  "active_ingredient": [
+    "Avobenzone 3%, Homosalate 15%, Ocitsalate 5%, Octocrylene 10%"
+  ],
+  "purpose": [
+    "Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Helps prevent sunburn. If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "warnings": [
+    "For external use only. Do not use on damaged or broken skin. When using this product avoid contact with eyes. Rinse with water to remove. Stop use and ask a doctor if rash or irritation develops and lasts."
+  ],
+  "keep_out_of_reach_of_children": [
+    "If product is swallowed, get medical help or contact a Poison Control Center right away. Apply liberally 15 minutes before sun exposure and as needed. Reapply: after 80 minutes of swimming or sweating, immediately after towel drying, at least every 2 hours. Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. - 2 p.m., wear long-sleeved shirts, pants, hats, and sunglasses, children under 6 months of age: ask a doctor."
+  ],
+  "dosage_and_administration": [
+    "Apply liberally 15 minutes before sun exposure and as needed. Reapply: after 80 minutes of swimming or sweating, immediately after towel drying, at least every 2 hours. Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. - 2 p.m., wear long-sleeved shirts, pants, hats, and sunglasses, children under 6 months of age: ask a doctor."
+  ],
+  "inactive_ingredient": [
+    "Water, sorbitol, aluminum starch octenylsuccinate, VP/Eicosense copolymer, stearic acid, dimethicone, tocopherol, ethylhexylglycerin, phenoxyethanol, polyglyeryl-3 distearate, sorbitan isostearate, carbomer, disodium EDTA, triethanolamine, benzyl alcohol, fragrance."
+  ],
+  "package_label_principal_display_panel": [
+    "Label Label"
+  ],
+  "set_id": "075dddd5-46ea-282a-e063-6294a90a28fd",
+  "id": "117293c0-9d8d-5856-e063-6394a90a42fe",
+  "effective_time": "20240215",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Meijer SPF 50 Sunscreen"
+    ],
+    "generic_name": [
+      "AVOBENZONE 3%, HOMOSALATE 10%, OCTISALATE 5%, OCTOCRYLENE 10%"
+    ],
+    "manufacturer_name": [
+      "Meijer"
+    ],
+    "product_ndc": [
+      "79481-1830"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "HOMOSALATE",
+      "AVOBENZONE",
+      "OCTOCRYLENE",
+      "OCTISALATE"
+    ],
+    "spl_id": [
+      "117293c0-9d8d-5856-e063-6394a90a42fe"
+    ],
+    "spl_set_id": [
+      "075dddd5-46ea-282a-e063-6294a90a28fd"
+    ],
+    "package_ndc": [
+      "79481-1830-8",
+      "79481-1830-9"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0713733571159",
+      "0713733571197"
+    ],
+    "unii": [
+      "V06SV4M95S",
+      "G63QQF2NOX",
+      "5A68WGF6WM",
+      "4X49Y0596W"
+    ]
+  }
+}

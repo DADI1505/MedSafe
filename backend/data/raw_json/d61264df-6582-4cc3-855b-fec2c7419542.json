@@ -1,0 +1,81 @@
+{
+  "spl_product_data_elements": [
+    "ANTIPERSPIRANT ADVANCED FRESH Aluminum Chlorohydrate ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE CYCLOMETHICONE 5 BUTANE PROPANE ISOBUTANE 1,1-DIFLUOROETHANE PPG-14 BUTYL ETHER ALKYL (C12-15) BENZOATE DIMETHICONOL (40 CST) DISTEARDIMONIUM HECTORITE SUNFLOWER OIL OCTYLDODECANOL BUTYLATED HYDROXYTOLUENE PROPYLENE CARBONATE .ALPHA.-TOCOPHEROL ACETATE"
+  ],
+  "spl_unclassified_section": [
+    "DRUG FACTS",
+    "Compare to Dove ® Advanced Care 48 HOURS Quick-Dry No Residue SWEAT PROTECTION • Shake well before each use • Hold can 6 inches from underarm and spray evenly • Allow to dry before dressing for soft, smooth-feeling skin Made in China Mfd for and Distributed By: Universal Distribution Center LLC 330 Applegarth Road, Monroe Township, NJ 08831 www.universaldc.com *This product is not manufactured, distributed, or endorsed by Unilever, the owner of the registered trademark Dove ® Advanced Care."
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENT Aluminum Chlorohydrate (23.3%)"
+  ],
+  "purpose": [
+    "PURPOSE Antiperspirant"
+  ],
+  "indications_and_usage": [
+    "USES: Reduces underarm wetness."
+  ],
+  "warnings": [
+    "WARNINGS • FLAMMABLE. DO NOT USE NEAR HEAT, FLAME, OR WHILE SMOKING. CAN CAUSE SERIOUS INJURY OR DEATH. • Keep away from face and mouth to avoid breathing in. • Avoid spraying in eyes. Contents under pressure. Do not puncture or incinerate. • Do not use on broken skin. Stop use if rash or irritation occurs. • Ask a doctor before use if you have kidney disease. • KEEP OUT OF REACH OF CHILDREN. • USE ONLY AS DIRECTED. INTENTIONAL MISUSE BY DELIBERATELY CONCENTRATING AND INHALING THE CONTENTS CAN BE HARMFUL OR FATAL."
+  ],
+  "keep_out_of_reach_of_children": [
+    "• KEEP OUT OF REACH OF CHILDREN. • USE ONLY AS DIRECTED. INTENTIONAL MISUSE BY DELIBERATELY CONCENTRATING AND INHALING THE CONTENTS CAN BE HARMFUL OR FATAL."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Apply to underarms only."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Cyclopentasiloxane, Butane, Propane, Isobutane, Hydrofluorocarbon 152A, PPG-14 Butyl Ether, C12-15 Alkyl Benzoate, Dimethiconol, Disteardimonium Hectorite, Helianthus Annuus (Sunflower) Seed Oil, Octyldodecanol, Fragrance (Parfum), BHT, Propylene Carbonate, Tocopheryl Acetate."
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging ANTIPERSPIRANT ADVANCED FRESH"
+  ],
+  "set_id": "060550bc-e5fe-4b27-b0bc-fabe19d7f2c1",
+  "id": "d61264df-6582-4cc3-855b-fec2c7419542",
+  "effective_time": "20260219",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "ANTIPERSPIRANT ADVANCED FRESH"
+    ],
+    "generic_name": [
+      "ALUMINUM CHLOROHYDRATE"
+    ],
+    "manufacturer_name": [
+      "Universal Distribution Center LLC"
+    ],
+    "product_ndc": [
+      "52000-444"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM CHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "d61264df-6582-4cc3-855b-fec2c7419542"
+    ],
+    "spl_set_id": [
+      "060550bc-e5fe-4b27-b0bc-fabe19d7f2c1"
+    ],
+    "package_ndc": [
+      "52000-444-35"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0676979560816"
+    ],
+    "unii": [
+      "HPN8MZW13M"
+    ]
+  }
+}

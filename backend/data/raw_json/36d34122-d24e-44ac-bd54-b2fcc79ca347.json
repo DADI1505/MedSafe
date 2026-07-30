@@ -1,0 +1,97 @@
+{
+  "spl_product_data_elements": [
+    "Right Remedies Maximum Strength Gas Relief Softgel Simethicone DIMETHICONE DIMETHICONE D&C RED NO. 33 FD&C BLUE NO. 1 GELATIN, UNSPECIFIED GLYCERIN WATER 813"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Compare to the active ingredient of Maximum Strength Phazyme ® * Fast relief of: bloating pressure fullness & gas TAMPER EVIDENT: DO NOT USE IF IMPRINTED SEAL UNDER CAP IS BROKEN OR MISSING FROM BOTTLE *This product is not manufactured or distributed by C.B. Fleet Company Inc., owner of the registered trademark Phazyme ® . DISTRIBUTED BY: Strive Pharmaceuticals Inc. East Brunswick, NJ 08816 Product of United Arab Emirates"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each softgel) Simethicone 250 mg"
+  ],
+  "purpose": [
+    "Purpose Antigas"
+  ],
+  "indications_and_usage": [
+    "Uses • relieves bloating, pressure or fullness commonly referred to as gas"
+  ],
+  "warnings": [
+    "Warnings Stop use and ask a doctor if condition persists If pregnant or breast-feeding, ask a health professional before use Keep out of reach of children. Overdose warning : In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as children even if you do not notice any signs or symptoms."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. Overdose warning : In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as children even if you do not notice any signs or symptoms."
+  ],
+  "dosage_and_administration": [
+    "Directions • swallow one or two softgels as symptoms occur • do not exceed two softgels per 24 hours except under the advice and supervision of a physician"
+  ],
+  "storage_and_handling": [
+    "Other information • store between 20-25°C (68-77°F) • protect from heat and moisture"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients D&C red #33, edible ink, FD&C blue #1, gelatin, glycerin, purified water"
+  ],
+  "questions": [
+    "Questions or comments? 1-888-577-8033 Monday - Friday 8am - 4pm EST"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Strive-813"
+  ],
+  "set_id": "032b3a89-1bc4-4f38-ba9e-0a4840215330",
+  "id": "36d34122-d24e-44ac-bd54-b2fcc79ca347",
+  "effective_time": "20240205",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M002"
+    ],
+    "brand_name": [
+      "Right Remedies Maximum Strength Gas Relief Softgel"
+    ],
+    "generic_name": [
+      "SIMETHICONE"
+    ],
+    "manufacturer_name": [
+      "Strive Pharmaceuticals Inc."
+    ],
+    "product_ndc": [
+      "70692-813"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIMETHICONE"
+    ],
+    "rxcui": [
+      "412111"
+    ],
+    "spl_id": [
+      "36d34122-d24e-44ac-bd54-b2fcc79ca347"
+    ],
+    "spl_set_id": [
+      "032b3a89-1bc4-4f38-ba9e-0a4840215330"
+    ],
+    "package_ndc": [
+      "70692-813-12",
+      "70692-813-65"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0370692000917"
+    ],
+    "nui": [
+      "N0000010282"
+    ],
+    "pharm_class_pe": [
+      "Skin Barrier Activity [PE]"
+    ],
+    "unii": [
+      "92RU3N3Y1O"
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Joint Therapy Camphor ROSEMARY OIL .ALPHA.-TOCOPHEROL CAMPHOR (NATURAL) CAMPHOR (NATURAL) ARNICA MONTANA JOJOBA OIL SUNFLOWER OIL YELLOW WAX COCONUT OIL SHEA BUTTER OLIVE OIL"
+  ],
+  "active_ingredient": [
+    "Active ingredients Organic Camphor 4.0%"
+  ],
+  "purpose": [
+    "Purpose Organic Camphor 4.0%..............Topical Analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses Temporarily relieves joint pain."
+  ],
+  "warnings": [
+    "Warnings For external use only When using this product avoid contact with eyes do not apply to wounds or damaged skin Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days or clear up and occur again within a few days If pregnant or breastfeeding, ask a health professional before use. Keep this out of the reach of children. If swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "when_using": [
+    "When using this product avoid contact with eyes do not apply to wounds or damaged skin"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days or clear up and occur again within a few days"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep this out of the reach of children. If swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults: gently massage salve into affected area and apply wet heat use no more than three times per day Children under 2 years of age: Ask a doctor."
+  ],
+  "storage_and_handling": [
+    "Other information Tamper-evident. Ensure seal is intact before use."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Organic Arnica Montana (Organic Sunflower Seed Oil, Organic Arnica Montana Flower Extract), Organic Beeswax, Organic Coconut Oil, Organic Jojoba Oil, Organic Olive Oil, Organic Rosemary Oil, Organic Shea Butter, Vitamin E"
+  ],
+  "package_label_principal_display_panel": [
+    "maple organics Joint Pain Relief Arthritis Pain Temporary Pain Relief Balm Camphor 4% Net Wt. 2 oz / 56 g 1"
+  ],
+  "set_id": "08904b77-d6db-8b82-e063-6394a90ace4f",
+  "id": "2cb2d03e-e7f2-0924-e063-6294a90a70e0",
+  "effective_time": "20250127",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Joint Therapy"
+    ],
+    "generic_name": [
+      "CAMPHOR"
+    ],
+    "manufacturer_name": [
+      "Everlaan Organics Inc"
+    ],
+    "product_ndc": [
+      "83670-202"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CAMPHOR (NATURAL)"
+    ],
+    "rxcui": [
+      "1048263"
+    ],
+    "spl_id": [
+      "2cb2d03e-e7f2-0924-e063-6294a90a70e0"
+    ],
+    "spl_set_id": [
+      "08904b77-d6db-8b82-e063-6394a90ace4f"
+    ],
+    "package_ndc": [
+      "83670-202-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0628176763217"
+    ],
+    "unii": [
+      "N20HL7Q941"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "spl_product_data_elements": [
+    "SilvaPlex Throat Argentum Metalicum SILVER OXIDE WATER SILVER SILVER CITRIC ACID MONOHYDRATE"
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS FOR USE: Administer to the back of throat (Pharynx) as needed."
+  ],
+  "warnings": [
+    "WARNING: Keep out of reach of children."
+  ],
+  "precautions": [
+    "Precautions: Keep out of eyes. Should any sign of irritation or sensitivity occur consult your healthcare professional and discontinue use."
+  ],
+  "active_ingredient": [
+    "Ingredients: Active; Argentum Met 5X HPUS** **Homeopathic Pharmacopeia of the United States"
+  ],
+  "inactive_ingredient": [
+    "Ingredients: Inactive: Chelated Silver, Distilled Water"
+  ],
+  "purpose": [
+    "Throat Spray"
+  ],
+  "indications_and_usage": [
+    "For relief of sore throiat"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Warning Keep out of reach of children."
+  ],
+  "package_label_principal_display_panel": [
+    "SilvaPlex Throat Spray SilvaPlex Throat Spray 8 oz."
+  ],
+  "set_id": "00c6fcd0-a1ca-f6a7-e063-6394a90afdd4",
+  "id": "45eee86e-0fa6-76c4-e063-6294a90aa048",
+  "effective_time": "20251214",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "SilvaPlex Throat"
+    ],
+    "generic_name": [
+      "ARGENTUM METALICUM"
+    ],
+    "manufacturer_name": [
+      "AG Essence"
+    ],
+    "product_ndc": [
+      "72363-010"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SILVER"
+    ],
+    "spl_id": [
+      "45eee86e-0fa6-76c4-e063-6294a90aa048"
+    ],
+    "spl_set_id": [
+      "00c6fcd0-a1ca-f6a7-e063-6394a90afdd4"
+    ],
+    "package_ndc": [
+      "72363-010-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3M4G523W1G"
+    ]
+  }
+}

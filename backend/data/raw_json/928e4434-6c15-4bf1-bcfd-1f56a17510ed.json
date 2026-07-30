@@ -1,0 +1,98 @@
+{
+  "spl_product_data_elements": [
+    "XL - 3 Allergy XL - 3 Allergy LORATADINE LORATADINE LACTOSE MONOHYDRATE MAGNESIUM STEARATE STARCH, CORN SODIUM STARCH GLYCOLATE TYPE A G;10"
+  ],
+  "active_ingredient": [
+    "Active ingredient(s) Loratadine 10mg"
+  ],
+  "purpose": [
+    "Purpose Antihistamine"
+  ],
+  "indications_and_usage": [
+    "Use(s) temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes sneezing itching of the nose or throat"
+  ],
+  "warnings": [
+    "Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed. Taking more than directed may cause drowsiness. Stop use and ask a doctor if if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children In case of accidental overdose, contact a doctor or Poison Control Center (1-800-222-1222) right away."
+  ],
+  "do_not_use": [
+    "Do not use if you have ever had an allergic reaction to this product or any of its ingredients"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose."
+  ],
+  "when_using": [
+    "When using this product do not take more than directed. Taking more than directed may cause drowsiness."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if if an allergic reaction to this product occurs. Seek medical help right away."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children In case of accidental overdose, contact a doctor or Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 6 years and over: 1 tablet daily; not more than 1 tablet in 24 hours Children under 6 years of age: ask a doctor Consumers with liver or kidney disease: ask a doctor"
+  ],
+  "spl_unclassified_section": [
+    "Other information store between 20° to 25°C (68° to 77°F) protect from excessive moisture do not use if blister unit is torn or open"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients lactose monohydrate, magnesium stearate, pregelatinized starch, sodium starch glycolate"
+  ],
+  "questions": [
+    "Questions/Comments Call 1-888-952-0050 Monday through Friday 9AM - 5PM"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel XL - 3 Allergy XL - 3 Allergy"
+  ],
+  "set_id": "059a6e72-888e-4cb3-8722-4c3acbd6b4b0",
+  "id": "928e4434-6c15-4bf1-bcfd-1f56a17510ed",
+  "effective_time": "20240410",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "ANDA210722"
+    ],
+    "brand_name": [
+      "XL - 3 Allergy"
+    ],
+    "generic_name": [
+      "XL - 3 ALLERGY"
+    ],
+    "manufacturer_name": [
+      "Selder, S.A. de C.V."
+    ],
+    "product_ndc": [
+      "63654-415"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LORATADINE"
+    ],
+    "rxcui": [
+      "311372"
+    ],
+    "spl_id": [
+      "928e4434-6c15-4bf1-bcfd-1f56a17510ed"
+    ],
+    "spl_set_id": [
+      "059a6e72-888e-4cb3-8722-4c3acbd6b4b0"
+    ],
+    "package_ndc": [
+      "63654-415-10"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "7AJO3BO7QN"
+    ]
+  }
+}

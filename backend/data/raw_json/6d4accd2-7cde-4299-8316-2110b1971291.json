@@ -1,0 +1,104 @@
+{
+  "spl_product_data_elements": [
+    "Urinary Tract Drops 2122 Urinary Tract Drops CRATEVA MAGNA BARK CRATEVA MAGNA BARK AGATHOSMA BETULINA LEAF AGATHOSMA BETULINA LEAF SUS SCROFA URINARY BLADDER SUS SCROFA URINARY BLADDER EQUISETUM ARVENSE TOP EQUISETUM ARVENSE TOP BEEF KIDNEY BEEF KIDNEY TOXICODENDRON PUBESCENS LEAF TOXICODENDRON PUBESCENS LEAF SEPIA OFFICINALIS JUICE SEPIA OFFICINALIS JUICE DELPHINIUM STAPHISAGRIA SEED DELPHINIUM STAPHISAGRIA SEED LYTTA VESICATORIA LYTTA VESICATORIA SMILAX ORNATA ROOT SMILAX ORNATA ROOT CAUSTICUM CAUSTICUM CHIMAPHILA UMBELLATA WHOLE CHIMAPHILA UMBELLATA WHOLE URTICA URENS WHOLE URTICA URENS WHOLE ALCOHOL WATER"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS Crataeva 3X Barosma 6X Bladder 6X Equisetum arvense 6X Kidney 6X Rhus toxicodendron 12X Sepia 60X Staphysagria 60X Cantharis 12C Sarsaparilla 12C Causticum 30C Chimaphila umbellata 30C Urtica urens 30C"
+  ],
+  "questions": [
+    "QUESTIONS Professional Formulas PO Box 2034 Lake Oswego, OR 97035"
+  ],
+  "indications_and_usage": [
+    "INDICATIONS For the temporary relief of urinary discomfort or difficulty, frequent urination, or mild abdominal or back pain.*"
+  ],
+  "purpose": [
+    "*Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS Consult a doctor if condition worsens, if symptoms persist, or are accompanied by a fever or bloody or cloudy urine. Keep out of the reach of children. In case of overdose, get medical help or contact a poison control center right away. If pregnant or breastfeeding, ask a healthcare professional before use. Keep out of the reach of children. If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take 10 drops up to 3 times per day. Consult a physician for use in children under 12 years of age."
+  ],
+  "other_safety_information": [
+    "OTHER INFORMATION Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS 20% ethanol, purified water."
+  ],
+  "package_label_principal_display_panel": [
+    "LABEL Est 1985 Professional Formulas Complementary Health Urinary Tract Drops Homeopathic Remedy 2 FL. OZ. (59 mL) Label image"
+  ],
+  "set_id": "0373cd9c-73d5-4994-94ef-fe7084b633f6",
+  "id": "6d4accd2-7cde-4299-8316-2110b1971291",
+  "effective_time": "20260108",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Urinary Tract Drops 2122"
+    ],
+    "generic_name": [
+      "URINARY TRACT DROPS"
+    ],
+    "manufacturer_name": [
+      "Professional Complementary Health Formulas"
+    ],
+    "product_ndc": [
+      "63083-2122"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CRATEVA MAGNA BARK",
+      "AGATHOSMA BETULINA LEAF",
+      "SUS SCROFA URINARY BLADDER",
+      "EQUISETUM ARVENSE TOP",
+      "BEEF KIDNEY",
+      "TOXICODENDRON PUBESCENS LEAF",
+      "SEPIA OFFICINALIS JUICE",
+      "DELPHINIUM STAPHISAGRIA SEED",
+      "LYTTA VESICATORIA",
+      "SMILAX ORNATA ROOT",
+      "CAUSTICUM",
+      "CHIMAPHILA UMBELLATA WHOLE",
+      "URTICA URENS WHOLE"
+    ],
+    "spl_id": [
+      "6d4accd2-7cde-4299-8316-2110b1971291"
+    ],
+    "spl_set_id": [
+      "0373cd9c-73d5-4994-94ef-fe7084b633f6"
+    ],
+    "package_ndc": [
+      "63083-2122-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "RS704ZO5ZL",
+      "369DDH39Z0",
+      "3G7U72W8DA",
+      "1DP6Y6B65Z",
+      "5HOC10FSIC",
+      "6IO182RP7A",
+      "QDL83WN8C2",
+      "00543AP1JV",
+      "3Q034RO3BT",
+      "2H1576D5WG",
+      "DD5FO1WKFU",
+      "WCK21A9W9J",
+      "IHN2NQ5OF9"
+    ]
+  }
+}

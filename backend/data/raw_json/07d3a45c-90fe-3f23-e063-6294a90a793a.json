@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Solanum Nigrum Solanum Nigrum SOLANUM NIGRUM WHOLE SOLANUM NIGRUM WHOLE SUCROSE Solanum Nigrum Solanum Nigrum SOLANUM NIGRUM WHOLE SOLANUM NIGRUM WHOLE SUCROSE Solanum Nigrum Solanum Nigrum SOLANUM NIGRUM WHOLE SOLANUM NIGRUM WHOLE SUCROSE Solanum Nigrum Solanum Nigrum SOLANUM NIGRUM WHOLE SOLANUM NIGRUM WHOLE SUCROSE Solanum Nigrum Solanum Nigrum SOLANUM NIGRUM WHOLE SOLANUM NIGRUM WHOLE SUCROSE Solanum Nigrum Solanum Nigrum SOLANUM NIGRUM WHOLE SOLANUM NIGRUM WHOLE SUCROSE Solanum Nigrum Solanum Nigrum SOLANUM NIGRUM WHOLE SOLANUM NIGRUM WHOLE SUCROSE Solanum Nigrum Solanum Nigrum SOLANUM NIGRUM WHOLE SOLANUM NIGRUM WHOLE SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Solanum Nigrum 6C 5g Solanum Nigrum 6C 30g Solanum Nigrum 6C 100g Solanum Nigrum 12C 5g Solanum Nigrum 12C 30g Solanum Nigrum 12C 100g Solanum Nigrum 30C 1g Solanum Nigrum 30C 5g Solanum Nigrum 30C 30g Solanum Nigrum 30C 100g Solanum Nigrum 100C 1g Solanum Nigrum 100C 5g Solanum Nigrum 100C 30g Solanum Nigrum 100C 100g Solanum Nigrum 200C 1g Solanum Nigrum 200C 5g Solanum Nigrum 200C 30g Solanum Nigrum 200C 100g Solanum Nigrum 500C 1g Solanum Nigrum 500C 5g Solanum Nigrum 500C 30g Solanum Nigrum 500C 100g Solanum Nigrum 1M 1g Solanum Nigrum 1M 5g Solanum Nigrum 1M 30g Solanum Nigrum 1M 100g Solanum Nigrum LM1 30g"
+  ],
+  "set_id": "07d39266-a4e8-14cf-e063-6294a90aaefa",
+  "id": "07d3a45c-90fe-3f23-e063-6294a90a793a",
+  "effective_time": "20231016",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Solanum Nigrum"
+    ],
+    "generic_name": [
+      "SOLANUM NIGRUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-4144",
+      "37662-4146",
+      "37662-4149",
+      "37662-4151",
+      "37662-4150",
+      "37662-4145",
+      "37662-4147",
+      "37662-4148"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SOLANUM NIGRUM WHOLE"
+    ],
+    "spl_id": [
+      "07d3a45c-90fe-3f23-e063-6294a90a793a"
+    ],
+    "spl_set_id": [
+      "07d39266-a4e8-14cf-e063-6294a90aaefa"
+    ],
+    "package_ndc": [
+      "37662-4146-1",
+      "37662-4146-2",
+      "37662-4146-3",
+      "37662-4146-4",
+      "37662-4149-1",
+      "37662-4149-2",
+      "37662-4149-3",
+      "37662-4149-4",
+      "37662-4151-1",
+      "37662-4150-1",
+      "37662-4150-2",
+      "37662-4150-3",
+      "37662-4150-4",
+      "37662-4145-1",
+      "37662-4145-2",
+      "37662-4145-3",
+      "37662-4144-1",
+      "37662-4144-2",
+      "37662-4144-3",
+      "37662-4147-1",
+      "37662-4147-2",
+      "37662-4147-3",
+      "37662-4147-4",
+      "37662-4148-1",
+      "37662-4148-2",
+      "37662-4148-3",
+      "37662-4148-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "0FMD6WV47M"
+    ]
+  }
+}

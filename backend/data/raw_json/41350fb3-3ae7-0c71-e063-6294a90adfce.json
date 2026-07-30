@@ -1,0 +1,76 @@
+{
+  "spl_product_data_elements": [
+    "Ciele Blush and Protect Zinc Oxide TITANIUM DIOXIDE FERRIC OXIDE RED LECITHIN, SOYBEAN PHENYLPROPANOL ALLANTOIN SODIUM SULFATE LAURYL PEG-8 DIMETHICONE (300 CPS) ISOHEXADECANE DISTEARDIMONIUM HECTORITE TRIDECYL SALICYLATE ZINC OXIDE ZINC OXIDE SODIUM HYDROXIDE WATER TETRASODIUM GLUTAMATE DIACETATE SODIUM CHLORIDE ALKYL (C12-15) BENZOATE SILICON DIOXIDE POLYMETHYLSILSESQUIOXANE (11 MICRONS) .ALPHA.-BISABOLOL, (+)- GLYCERIN METHYLPROPANEDIOL DIMETHICONE ALUMINUM HYDROXIDE POLYGLYCERYL-4 DIISOSTEARATE/POLYHYDROXYSTEARATE/SEBACATE PROPYLENE CARBONATE FERRIC OXIDE YELLOW CAPRYLYL GLYCOL"
+  ],
+  "dosage_and_administration": [
+    "Ciele Blush and Protect Dosage and Administration"
+  ],
+  "inactive_ingredient": [
+    "Ciele Blush and Protect Inactive ingredients"
+  ],
+  "indications_and_usage": [
+    "Ciele Blush and Protect Indications & usage"
+  ],
+  "active_ingredient": [
+    "Ciele Blush and Protect Active Ingredients"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Ciele Blush and Protect keep out of reach of children"
+  ],
+  "purpose": [
+    "Ciele Blush and Protect purpose"
+  ],
+  "warnings": [
+    "Ciele Blush and Protect Warning Label"
+  ],
+  "package_label_principal_display_panel": [
+    "Ciele Blush and Protect PDP"
+  ],
+  "set_id": "0162c891-ba2d-a78f-e063-6394a90a156c",
+  "id": "41350fb3-3ae7-0c71-e063-6294a90adfce",
+  "effective_time": "20251015",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Ciele Blush and Protect"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Ciele"
+    ],
+    "product_ndc": [
+      "83103-1513"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "41350fb3-3ae7-0c71-e063-6294a90adfce"
+    ],
+    "spl_set_id": [
+      "0162c891-ba2d-a78f-e063-6394a90a156c"
+    ],
+    "package_ndc": [
+      "83103-1513-1",
+      "83103-1513-2",
+      "83103-1513-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

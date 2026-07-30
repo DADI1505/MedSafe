@@ -1,0 +1,150 @@
+{
+  "spl_product_data_elements": [
+    "Zingiber Officinale Zingiber Officinale SUCROSE GINGER GINGER Zingiber Officinale Zingiber Officinale SUCROSE GINGER GINGER Zingiber Officinale Zingiber Officinale SUCROSE GINGER GINGER Zingiber Officinale Zingiber Officinale SUCROSE GINGER GINGER Zingiber Officinale Zingiber Officinale SUCROSE GINGER GINGER Zingiber Officinale Zingiber Officinale SUCROSE GINGER GINGER Zingiber Officinale Zingiber Officinale SUCROSE GINGER GINGER Zingiber Officinale Zingiber Officinale SUCROSE GINGER GINGER"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Zingiber Officinalis 6C 5g Zingiber Officinalis 6C 30g Zingiber Officinalis 6C 100g Zingiber Officinalis 12C 5g Zingiber Officinalis 12C 30g Zingiber Officinalis 12C 100g Zingiber Officinalis 30C 1g Zingiber Officinalis 30C 5g Zingiber Officinalis 30C 30g Zingiber Officinalis 30C 100g Zingiber Officinalis 100C 1g Zingiber Officinalis 100C 5g Zingiber Officinalis 100C 30g Zingiber Officinalis 100C 100g Zingiber Officinalis 200C 1g Zingiber Officinalis 200C 5g Zingiber Officinalis 200C 30g Zingiber Officinalis 200C 100g Zingiber Officinalis 500C 1g Zingiber Officinalis 500C 5g Zingiber Officinalis 500C 30g Zingiber Officinalis 500C 100g Zingiber Officinalis 1M 1g Zingiber Officinalis 1M 5g Zingiber Officinalis 1M 30g Zingiber Officinalis 1M 100g Zingiber Officinalis LM1 30g"
+  ],
+  "set_id": "029f57e7-2d6b-769c-e063-6294a90ab215",
+  "id": "029f57e7-2d6c-769c-e063-6294a90ab215",
+  "effective_time": "20230811",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Zingiber Officinale"
+    ],
+    "generic_name": [
+      "ZINGIBER OFFICINALE"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3696",
+      "37662-3702",
+      "37662-3698",
+      "37662-3699",
+      "37662-3701",
+      "37662-3703",
+      "37662-3697",
+      "37662-3700"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "GINGER"
+    ],
+    "spl_id": [
+      "029f57e7-2d6c-769c-e063-6294a90ab215"
+    ],
+    "spl_set_id": [
+      "029f57e7-2d6b-769c-e063-6294a90ab215"
+    ],
+    "package_ndc": [
+      "37662-3702-1",
+      "37662-3702-2",
+      "37662-3702-3",
+      "37662-3702-4",
+      "37662-3696-1",
+      "37662-3696-2",
+      "37662-3696-3",
+      "37662-3698-1",
+      "37662-3698-2",
+      "37662-3698-3",
+      "37662-3698-4",
+      "37662-3699-1",
+      "37662-3699-2",
+      "37662-3699-3",
+      "37662-3699-4",
+      "37662-3701-1",
+      "37662-3701-2",
+      "37662-3701-3",
+      "37662-3701-4",
+      "37662-3703-1",
+      "37662-3703-2",
+      "37662-3703-3",
+      "37662-3703-4",
+      "37662-3697-1",
+      "37662-3697-2",
+      "37662-3697-3",
+      "37662-3700-1",
+      "37662-3700-2",
+      "37662-3700-3",
+      "37662-3700-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185375",
+      "N0000185371",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "M0006342",
+      "M0016962",
+      "M0008672"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Plant Allergenic Extract [EPC]",
+      "Non-Standardized Food Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Dietary Proteins [CS]",
+      "Plant Proteins [CS]",
+      "Food Additives [CS]"
+    ],
+    "unii": [
+      "C5529G5JPQ"
+    ]
+  }
+}

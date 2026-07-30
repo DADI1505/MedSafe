@@ -1,0 +1,88 @@
+{
+  "spl_product_data_elements": [
+    "Kroger Antibacterial Benzalkonium Chloride COCO MONOETHANOLAMIDE FD&C YELLOW NO. 5 SODIUM CHLORIDE GLYCERIN WATER CETRIMONIUM CHLORIDE PEG-120 METHYL GLUCOSE DIOLEATE SODIUM SULFATE EDETATE SODIUM LAURAMIDOPROPYLAMINE OXIDE CITRIC ACID MONOHYDRATE FD&C RED NO. 4 METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE FRAGRANCE CLEAN ORC0600327 BENZALKONIUM CHLORIDE BENZALKONIUM"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Benzalkonium Chloride 0.13%"
+  ],
+  "purpose": [
+    "Purpose Antibacterial"
+  ],
+  "indications_and_usage": [
+    "Uses Helps decrease bacteria on hands"
+  ],
+  "warnings": [
+    "Warnings For external use only When using this product Avoid contact with eyes. In case of contact, flush with water. Stop use and ask a doctor if Irritation or redness develops and lasts. Keep out of reach of children In case of accidental ingestion, seek medical attention or contact a Poison Control Center immediately."
+  ],
+  "when_using": [
+    "When using this product Avoid contact with eyes. In case of contact, flush with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if Irritation or redness develops and lasts."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children In case of accidental ingestion, seek medical attention or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions From Pump bottle, apply onto wet hands Lather and rinse thoroughly."
+  ],
+  "storage_and_handling": [
+    "Other Information Store at room Temperature."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Water (Aqua), Lauramidopropylamine Oxide, Glycerin, Cetrimonium Chloride, Sodium Chloride, Cocamide MEA, PEG-120 Methyl Glucose Dioleate, Fragrance (Parfum), Citric Acid, Tetrasodium EDTA, Sodium Sulfate, Methylchloroisothiazolinone, Meisothiazolinone, Yellow 5 (CI 19140), Red 4 (CI 17400)."
+  ],
+  "package_label_principal_display_panel": [
+    "PDP- 41226-500-11 (325 ml) 325 ml",
+    "PDP-2, NDC- 41226-500-52 Principal Display Panel-2"
+  ],
+  "set_id": "00ffe9f9-15c3-be46-e063-6394a90a3d35",
+  "id": "50db89d6-4674-0b08-e063-6294a90a8105",
+  "effective_time": "20260502",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Kroger Antibacterial"
+    ],
+    "generic_name": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Kroger Company"
+    ],
+    "product_ndc": [
+      "41226-500"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "rxcui": [
+      "1046593"
+    ],
+    "spl_id": [
+      "50db89d6-4674-0b08-e063-6294a90a8105"
+    ],
+    "spl_set_id": [
+      "00ffe9f9-15c3-be46-e063-6394a90a3d35"
+    ],
+    "package_ndc": [
+      "41226-500-11",
+      "41226-500-52"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "F5UM2KM3W7"
+    ]
+  }
+}

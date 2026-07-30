@@ -1,0 +1,95 @@
+{
+  "spl_product_data_elements": [
+    "SINUS RX Calcarea carb, Euphorbium, Hydrastis, Kali bic, Kali iod, Lycopodium, Phosphorus, Pulsatilla, Thuja occ, Sanguinaria GLYCERIN OYSTER SHELL CALCIUM CARBONATE, CRUDE OYSTER SHELL CALCIUM CARBONATE, CRUDE EUPHORBIA RESINIFERA RESIN EUPHORBIA RESINIFERA RESIN GOLDENSEAL GOLDENSEAL POTASSIUM DICHROMATE DICHROMATE ION POTASSIUM IODIDE IODIDE ION LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE PHOSPHORUS PHOSPHORUS PULSATILLA VULGARIS PULSATILLA VULGARIS THUJA OCCIDENTALIS LEAFY TWIG THUJA OCCIDENTALIS LEAFY TWIG SANGUINARIA CANADENSIS ROOT SANGUINARIA CANADENSIS ROOT CITRIC ACID MONOHYDRATE POTASSIUM SORBATE WATER"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS (HPUS*): Equal amounts of: Calcarea carb 9X, Euphorbium 6X, Hydrastis 6X, Kali bic 9X, Kali iod 8X, Lycopodium 6X, Phosphorus 10X, Pulsatilla 4X, Thuja occ 6X, Sanguinaria 9X. *The letters \"HPUS\" indicate the components in this product are officially monographed in the Homeopathic Pharmacopeia of the United States."
+  ],
+  "indications_and_usage": [
+    "USES: Temporarily relieves congestion and coughing due to sinusitis."
+  ],
+  "warnings": [
+    "WARNINGS: This product is to be used under the supervision of your healthcare provider. If symptoms worsen or persist for more than 5 days, consult your practitioner. IF PREGNANT OR NURSING, ask a health professional before use. KEEP OUT OF REACH OF CHILDREN."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Shake well and take 5 drops under tongue 3 times a day for 10 days. Take at least 15 minutes away from eating or drinking."
+  ],
+  "other_safety_information": [
+    "OTHER INFORMATION: Do not use if cap seal is broken. Store in a cool, dry place."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Citric Acid, Potassium Sorbate, Purified Water, Vegetable Glycerin."
+  ],
+  "questions": [
+    "QUESTIONS or COMMENTS? Miami Beach Pediatrics 975 41st Street, Suite #408 Miami Beach, FL 33140 Tel: 305-672-7337 www.miamibeachpediatrics.com"
+  ],
+  "package_label_principal_display_panel": [
+    "NDC: 69390-002-01 Dr. Eisenberg's SINUS RX Sinus Infections HOMEOPATHIC MEDICINE 1 fl oz (30 mL) MIAMI BEACH PEDIATRICS CENTER FOR INTEGRATIVE MEDICINE 1oz bottle label Sinus Infections"
+  ],
+  "purpose": [
+    "Sinus Infections"
+  ],
+  "set_id": "078f6bfd-b4ff-4b20-8cff-83b7cd30f147",
+  "id": "d44a944e-7622-dc11-e053-2995a90a2b29",
+  "effective_time": "20211229",
+  "version": "5",
+  "openfda": {
+    "brand_name": [
+      "SINUS RX"
+    ],
+    "generic_name": [
+      "CALCAREA CARB, EUPHORBIUM, HYDRASTIS, KALI BIC, KALI IOD, LYCOPODIUM, PHOSPHORUS, PULSATILLA, THUJA OCC, SANGUINARIA"
+    ],
+    "manufacturer_name": [
+      "Miami Beach Pediatrics pa"
+    ],
+    "product_ndc": [
+      "69390-002"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "OYSTER SHELL CALCIUM CARBONATE, CRUDE",
+      "EUPHORBIA RESINIFERA RESIN",
+      "GOLDENSEAL",
+      "POTASSIUM DICHROMATE",
+      "POTASSIUM IODIDE",
+      "LYCOPODIUM CLAVATUM SPORE",
+      "PHOSPHORUS",
+      "PULSATILLA VULGARIS",
+      "THUJA OCCIDENTALIS LEAFY TWIG",
+      "SANGUINARIA CANADENSIS ROOT"
+    ],
+    "spl_id": [
+      "d44a944e-7622-dc11-e053-2995a90a2b29"
+    ],
+    "spl_set_id": [
+      "078f6bfd-b4ff-4b20-8cff-83b7cd30f147"
+    ],
+    "package_ndc": [
+      "69390-002-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "2E32821G6I",
+      "1TI1O9028K",
+      "ZW3Z11D0JV",
+      "T4423S18FM",
+      "1C4QK22F9J",
+      "C88X29Y479",
+      "27YLU75U4W",
+      "I76KB35JEV",
+      "1NT28V9397",
+      "N9288CD508"
+    ]
+  }
+}

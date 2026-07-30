@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Dollar General isopropyl alcohol ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL WATER"
+  ],
+  "active_ingredient": [
+    "Active ingredient Isopropyl alcohol 70% v/v"
+  ],
+  "purpose": [
+    "Purpose First aid antiseptic"
+  ],
+  "indications_and_usage": [
+    "Uses first aid antiseptic to help prevent the risk of infection in minor cuts, scrapes, and burns"
+  ],
+  "warnings": [
+    "Warnings For external use only. Flammable, keep away from fire or flame. When using this product do not get in the eyes or apply over large areas of the body in case of deep or puncture wounds, animal bites or serious burns, consult a doctor do not use longer than 1 week unless directed by a doctor Stop use and ask a doctor if the condition persists or gets worse Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product do not get in the eyes or apply over large areas of the body in case of deep or puncture wounds, animal bites or serious burns, consult a doctor do not use longer than 1 week unless directed by a doctor"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if the condition persists or gets worse"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions clean the affected area discard after a single use may be covered with a sterile bandage"
+  ],
+  "other_safety_information": [
+    "Other information do not flush protect from freezing and avoid excessive heat not made with natural rubber latex"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredient water"
+  ],
+  "spl_unclassified_section": [
+    "Manufacturing Information Distributed by Old East Main Co. 100 Mission Ridge, Goodlettsville, TN 37972 Packaged in China with components from Taiwan Rexall.com 1-866-4-REXALL REF: DG01840282 V2 RH23LPD"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Label Packet V2 RH23LPD Box V2 RH23LPD"
+  ],
+  "set_id": "00b2ef34-42d9-523c-e063-6294a90a753d",
+  "id": "2ad54994-2810-f17d-e063-6394a90aa977",
+  "effective_time": "20250103",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Dollar General"
+    ],
+    "generic_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Dollar General Corporation"
+    ],
+    "product_ndc": [
+      "75712-805"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "rxcui": [
+      "797544"
+    ],
+    "spl_id": [
+      "2ad54994-2810-f17d-e063-6394a90aa977"
+    ],
+    "spl_set_id": [
+      "00b2ef34-42d9-523c-e063-6294a90a753d"
+    ],
+    "package_ndc": [
+      "75712-805-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "ND2M416302"
+    ]
+  }
+}

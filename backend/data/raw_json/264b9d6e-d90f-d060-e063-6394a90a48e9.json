@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Degree Advanced Sheer Powder 72H Antiperspirant Deodorant LINALOOL, (+/-)- CINNAMYL ALCOHOL HIGH DENSITY POLYETHYLENE BENZYL ALCOHOL CALCIUM CHLORIDE MINERAL OIL GLYCINE ALKYL (C12-15) BENZOATE HYDROGENATED CASTOR OIL ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE CYCLOMETHICONE 5 BUTYLATED HYDROXYTOLUENE MALTODEXTRIN PEG-8 DISTEARATE TALC SILICON DIOXIDE PPG-14 BUTYL ETHER STEARYL ALCOHOL LIMONENE, (+)- GERANIOL .ALPHA.-HEXYLCINNAMALDEHYDE ISOMETHYL-.ALPHA.-IONONE BENZYL SALICYLATE .BETA.-CITRONELLOL, (R)- BENZYL CINNAMATE COUMARIN BENZYL BENZOATE"
+  ],
+  "description": [
+    "DEGREE ADVANCED SHEER POWDER 72H ANTIPERSPIRANT DEODORANT - aluminum sesquichlorohydrate stick"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient Aluminum Sesquichlorohydrate (16%)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses reduces underarm wetness"
+  ],
+  "warnings": [
+    "Warnings • For external use only. • Do not use on broken skin . • Ask a doctor before use if you have kidney disease. • Stop use if rash or irritation occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "• Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply to underarms only"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Cyclopentasiloxane, Stearyl Alcohol, PPG-14 Butyl Ether, C12-15 Alkyl Benzoate, Mineral Oil, Glycine, Hydrogenated Castor Oil, Fragrance (Parfum), Calcium Chloride, Talc, Polyethylene, PEG-8 Distearate, Sodium Starch Octenylsuccinate, Maltodextrin, Hydrolyzed Corn Starch Octenylsuccinate, BHT, Silica, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Benzoate, Benzyl Cinnamate, Benzyl Salicylate, Cinnamyl Alcohol, Citronellol, Coumarin, Geraniol, Hexyl Cinnamal, Limonene, Linalool"
+  ],
+  "questions": [
+    "Questions? Call 1-866-334-7331"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Degree Sheer Powder AP Deo IS"
+  ],
+  "set_id": "06d249e8-6a85-0973-e063-6294a90a09e7",
+  "id": "264b9d6e-d90f-d060-e063-6394a90a48e9",
+  "effective_time": "20241106",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Degree"
+    ],
+    "generic_name": [
+      "ADVANCED SHEER POWDER 72H ANTIPERSPIRANT DEODORANT"
+    ],
+    "manufacturer_name": [
+      "Conopco Inc. d/b/a/ Unilever"
+    ],
+    "product_ndc": [
+      "64942-2230"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM SESQUICHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "264b9d6e-d90f-d060-e063-6394a90a48e9"
+    ],
+    "spl_set_id": [
+      "06d249e8-6a85-0973-e063-6294a90a09e7"
+    ],
+    "package_ndc": [
+      "64942-2230-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "UCN889409V"
+    ]
+  }
+}

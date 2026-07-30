@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "5EWA5 Antibacterial Hand Sanitizer Wipes Benzalkonium Chloride BENZALKONIUM CHLORIDE BENZALKONIUM ALCOHOL ISOPROPYL MYRISTATE WATER C11-15 PARETH-5 MINERAL OIL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Active Ingredients 121222"
+  ],
+  "indications_and_usage": [
+    "Uses Uses"
+  ],
+  "warnings": [
+    "Warnings Warnings"
+  ],
+  "user_safety_warnings": [
+    "When using this product When using this product"
+  ],
+  "ask_doctor": [
+    "Stop use and ask a doctor Stop use and ask a doctor"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor Ask a doctor"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Keep out of reach of children"
+  ],
+  "instructions_for_use": [
+    "Directions Directions"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Inactive Ingredients"
+  ],
+  "dosage_and_administration": [
+    "Dosage & Purpose Dosage and Purpose"
+  ],
+  "purpose": [
+    "Purpose Purpose"
+  ],
+  "package_label_principal_display_panel": [
+    "Label Label"
+  ],
+  "set_id": "06709133-718a-5c04-e063-6394a90a11aa",
+  "id": "241fee86-b2bd-43c0-e063-6394a90a5e94",
+  "effective_time": "20241010",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "5EWA5 Antibacterial Hand Sanitizer Wipes"
+    ],
+    "generic_name": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "manufacturer_name": [
+      "W.W. Grainger"
+    ],
+    "product_ndc": [
+      "40096-1909"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "rxcui": [
+      "1038856"
+    ],
+    "spl_id": [
+      "241fee86-b2bd-43c0-e063-6394a90a5e94"
+    ],
+    "spl_set_id": [
+      "06709133-718a-5c04-e063-6394a90a11aa"
+    ],
+    "package_ndc": [
+      "40096-1909-2",
+      "40096-1909-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "F5UM2KM3W7"
+    ]
+  }
+}

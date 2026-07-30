@@ -1,0 +1,101 @@
+{
+  "spl_product_data_elements": [
+    "WHP Stomach Disorders Arsenic Trioxide - Ipecac - Strychnos Nux-Vomica - Pulsatilla Vulgaris - Sulfur SUCROSE LACTOSE PULSATILLA VULGARIS PULSATILLA VULGARIS IPECAC IPECAC STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED SULFUR SULFUR ARSENIC TRIOXIDE ARSENIC CATION (3+) white"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS ARSENICUM ALB 6C IPECAC 6C NUX VOM 6C PULSATILLA 6C SULPHUR 6C"
+  ],
+  "purpose": [
+    "USES Temporarily relieves stomach disorders."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN As with all medications, keep out of reach of children."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS ARSENICUM ALB Vomiting IPECAC Nausea NUX VOM Vomiting PULSATILLA Weeping SULPHUR Skin problems"
+  ],
+  "warnings": [
+    "STOP USE AND ASK DOCTOR If symptoms persist or recur, discontinue use. If pregnant or nursing, consult a licensed practitioner before using this product."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Directions: Adults and children 12 years and older: 2 pills dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children 4 years to under 12 years: 1 pill dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children under 4 years: Consult a licensed practitioner."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Sucrose/Lactose"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL WHP Stomach Disorders label WHP Stomach Disorders box"
+  ],
+  "set_id": "06e54e78-9696-3e62-e063-6294a90a7b93",
+  "id": "2cc85881-a8b4-15f4-e063-6394a90a88a1",
+  "effective_time": "20250128",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "WHP Stomach Disorders"
+    ],
+    "generic_name": [
+      "ARSENIC TRIOXIDE - IPECAC - STRYCHNOS NUX-VOMICA - PULSATILLA VULGARIS - SULFUR"
+    ],
+    "manufacturer_name": [
+      "Washington Homeopathic Products"
+    ],
+    "product_ndc": [
+      "71919-810"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PULSATILLA VULGARIS",
+      "IPECAC",
+      "STRYCHNOS NUX-VOMICA SEED",
+      "SULFUR",
+      "ARSENIC TRIOXIDE"
+    ],
+    "spl_id": [
+      "2cc85881-a8b4-15f4-e063-6394a90a88a1"
+    ],
+    "spl_set_id": [
+      "06e54e78-9696-3e62-e063-6294a90a7b93"
+    ],
+    "package_ndc": [
+      "71919-810-14"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0016962",
+      "M0516536"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Plant Proteins [CS]",
+      "Seed Storage Proteins [CS]"
+    ],
+    "unii": [
+      "I76KB35JEV",
+      "62I3C8233L",
+      "269XH13919",
+      "70FD1KFU70",
+      "S7V92P67HO"
+    ]
+  }
+}

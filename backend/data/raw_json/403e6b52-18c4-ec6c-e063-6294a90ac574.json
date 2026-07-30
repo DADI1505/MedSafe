@@ -1,0 +1,88 @@
+{
+  "spl_product_data_elements": [
+    "HEB Ultra Strength Assorted Fruits Calcium Carbonate ADIPIC ACID D&C RED NO. 27 D&C YELLOW NO. 10 DEXTROSE, UNSPECIFIED FORM FD&C BLUE NO. 1 FD&C YELLOW NO. 6 MAGNESIUM STEARATE MALTODEXTRIN STARCH, CORN SUCRALOSE CALCIUM CARBONATE CARBONATE ION CALCIUM CATION RP103 Assorted"
+  ],
+  "active_ingredient": [
+    "Active ingredient (per tablet) Calcium Carbonate USP 1,000 mg"
+  ],
+  "purpose": [
+    "Purpose Antacid"
+  ],
+  "indications_and_usage": [
+    "Uses relieves • heartburn • sour stomach • acid indigestion • upset stomach associated with these symptoms"
+  ],
+  "warnings": [
+    "Warnings Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product do not take more than 7 tablets in 24 hours if pregnant do not take more than 5 tablets in 24 hours do not use the maximum dosage for more than 2 weeks except under the advice and supervision of a doctor."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 12 years of age and over: chew 2-3 tablets as symptoms occur, or as directed by a doctor do not take for symptoms that persist for more than 2 weeks unless advised by a doctor"
+  ],
+  "spl_unclassified_section": [
+    "Other information each tablet contains : elemental calcium 400 mg store at room temperature. Keep the container tightly closed"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients adipic acid, D&C Red No. 27, D&C Yellow No. 10, dextrose, FD&C Blue No. 1, FD&C Yellow No. 6, flavor, magnesium stearate, maltodextrin, starch, sucralose. Questions or comments? 1-866-467-2748 SAFETY SEALED: DO NOT USE IF PRINTED SEAL UNDER CAP IS TORN OR MISSING"
+  ],
+  "questions": [
+    "Questions or comments? 1-866-467-2748 SAFETY SEALED: DO NOT USE IF PRINTED SEAL UNDER CAP IS TORN OR MISSING"
+  ],
+  "package_label_principal_display_panel": [
+    "Package/Label Principal Display Panel H-E-B ® Compare to Ultra Strength Tums ® active ingredients* Antacid Tablets 1000 ULTRA STRENGTH Antacid Tablets Calcium Carbonate 1000mg/ Antacid Relieves of: Acid indigestion Sour Stomach Heartburn Assorted Fruit Flavors GLUTEN-FREE 100% GURANTEE promise MADE WITH PRIDE & CARE FOR HEB ® SAN ANTONIO, TX 78204 *This product is not manufactured and distributed by GlaxoSmithKline LLC, owner of the registered trademark, Ultra Strength Tums ® Package Label 160 Chewable Tablets HEB Ultra Strength Antacid Assorted Fruit 160 CT Package Label 72 Chewable Tablets HEB Ultra Strength 72 Chewable Tablets Assorted Fruit"
+  ],
+  "set_id": "081eb852-1e52-4f23-9746-54b73d83aa6f",
+  "id": "403e6b52-18c4-ec6c-e063-6294a90ac574",
+  "effective_time": "20251003",
+  "version": "8",
+  "openfda": {
+    "application_number": [
+      "M001"
+    ],
+    "brand_name": [
+      "HEB Ultra Strength Assorted Fruits"
+    ],
+    "generic_name": [
+      "CALCIUM CARBONATE"
+    ],
+    "manufacturer_name": [
+      "HEB"
+    ],
+    "product_ndc": [
+      "37808-203"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CALCIUM CARBONATE"
+    ],
+    "rxcui": [
+      "308892"
+    ],
+    "spl_id": [
+      "403e6b52-18c4-ec6c-e063-6294a90ac574"
+    ],
+    "spl_set_id": [
+      "081eb852-1e52-4f23-9746-54b73d83aa6f"
+    ],
+    "package_ndc": [
+      "37808-203-17",
+      "37808-203-72"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0041220541386",
+      "0041220541522"
+    ],
+    "unii": [
+      "H0G9379FGK"
+    ]
+  }
+}

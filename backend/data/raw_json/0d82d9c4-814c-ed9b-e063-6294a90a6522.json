@@ -1,0 +1,77 @@
+{
+  "spl_product_data_elements": [
+    "Walgreens Cool n Heat Lidocaine Lidocaine HCl 4% WATER DIMETHICONE 200 EDETATE DISODIUM ALOE VERA LEAF C30-45 ALKYL CETEARYL DIMETHICONE CROSSPOLYMER CETETH-20 PHOSPHATE METHYLPARABEN ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER (60000 MPA.S) AMINOMETHYLPROPANOL ALCOHOL CAPRYLYL TRISILOXANE CETOSTEARYL ALCOHOL DIHEXADECYL PHOSPHATE GLYCERYL MONOSTEARATE STEARETH-21 ETHYLHEXYLGLYCERIN LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS"
+  ],
+  "active_ingredient": [
+    "Lidocaine HCl 4%"
+  ],
+  "purpose": [
+    "Topical analgesic"
+  ],
+  "indications_and_usage": [
+    "For the temporary relief of pain."
+  ],
+  "warnings": [
+    "For external use only. Flammable. Keep away from fire or flame. Do not use in large quantities, particularly over raw surfaces or blistered areas. When using this product avoid contact with eyes. In case of contact with eyes, flush thoroughly with water do not apply to wounds or damaged skin do not bandage tightly Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again with a few days redness or irritation develops"
+  ],
+  "keep_out_of_reach_of_children": [
+    "If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Clean affected area before applying product. Adults and children 12 years and older, apply to affected area not more than 3 to 4 times daily. Children under 12 years old, ask a doctor."
+  ],
+  "inactive_ingredient": [
+    "Acrylates/C10-30 alkyl acrylate crosspolymer, alcohol denat., aloe barbadensis leaf extract, aminomethyl propanol, C30-45 alkyl cetearyl dimethicone crosspolymer, caprylyl methicone, cetearyl alcohol, ceteth-20 phosphate, dicetyl phosphate, dimethicone, disodium EDTA, ethylhexylglycerin, glyceryl stearate, methylparaben, steareth-21 water."
+  ],
+  "package_label_principal_display_panel": [
+    "Label"
+  ],
+  "set_id": "0681c6c5-5a8b-ea9e-e063-6394a90a83bc",
+  "id": "0d82d9c4-814c-ed9b-e063-6294a90a6522",
+  "effective_time": "20231227",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Walgreens Cool n Heat Lidocaine"
+    ],
+    "generic_name": [
+      "LIDOCAINE HCL 4%"
+    ],
+    "manufacturer_name": [
+      "Walgreens Co"
+    ],
+    "product_ndc": [
+      "0363-7801"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "LIDOCAINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1010077"
+    ],
+    "spl_id": [
+      "0d82d9c4-814c-ed9b-e063-6294a90a6522"
+    ],
+    "spl_set_id": [
+      "0681c6c5-5a8b-ea9e-e063-6394a90a83bc"
+    ],
+    "package_ndc": [
+      "0363-7801-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "V13007Z41A"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "spl_product_data_elements": [
+    "Nitrogen Nitrogen NITROGEN NITROGEN"
+  ],
+  "package_label_principal_display_panel": [
+    "NITROGEN, COMPRESSED NF UN1066 Rx only. WARNING: Administration of Nitrogen may be hazardous or contraindicated. For use only by or under the supervision of a licensed practitioner who is experienced in the use and administration of Nitrogen and is familiar with the indications, effects, dosages, methods, and frequency and duration of administration, and with the hazards, contraindications and side effects, and the precautions to be taken. WARNING: CONTAINS GAS UNDER PRESSURE; MAY EXPLODE IF HEATED. MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION. Do not handle until all safety precautions have been read and understood. Use and store only outdoors or in a well-ventilated place. Use a back flow preventive device in the piping. Use only with equipment rated for cylinder pressure. Close valve after each use and when empty. Protect from sunlight when ambient temperature exceeds 52 C (125 F). Read and follow the Safety Data Sheet (SDS) before use. FIRST AID: IF INHALED: Remove person to fresh air and keep comfortable for breathing. Get medical advice/attention. CAS: 7727-37-9 DO NOT REMOVE THIS PRODUCT LABEL. GAS AND SUPPLY 1148 Walter Price Road Cayce, SC 29033 (803) 670-2400 CONTENTS: LTRS: CU.FT. nitrogen one",
+    "REFRIGERATED LIQUID NITROGEN, REFRIGERATED LIQUID NF UN1977 ALWAYS KEEP CONTAINER IN UPRIGHT POSITION. DO NOT CHANGE OR FORCE FIT CONNECTIONS. Rx ONLY CONTENTS: LTRS: CU.FT. WARNING: Administration of Nitrogen may be hazardous or contraindicated. For use only by or under the supervision of a licensed practitioner who is experienced in the use and administration of Nitrogen and is familiar with the indications, effects, dosages, methods, and frequency and duration of administration, and with the hazards, contraindications and side effects, and the precautions to be taken. WARNING: CONTAINS REFRIGERATED GAS; MAY CAUSE CRYOGENIC BURNS OR INJURY. MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION. Do not handle until all safety precautions have been read and understood. Use and store only outdoors or in a well-ventilated place. Wear cold insulation gloves, face shield, and eye protection. Use a back flow preventive device in the piping. DO NOT change or force fit connections. Always keep container in upright position. Read and follow the Safety Data Sheet (SDS) before use. FIRST AID: IF INHALED: Remove person to fresh air and keep comfortable for breathing. IF ON SKIN: Thaw frosted parts with lukewarm water. Do not rub affected area. Get immediate medical advice/attention. CAS: 7727-37-9 DO NOT REMOVE THIS PRODUCT LABEL. Size: Net Weight: GAS AND SUPPLY 1148 Walter Price Road Cayce, SC 29033 (803) 670-2400 nitrogen refrigerated two",
+    "REFRIGERATED LIQUID NITROGEN, REFRIGERATED LIQUID NF UN1977 ALWAYS KEEP CONTAINER IN UPRIGHT POSITION. DO NOT CHANGE OR FORCE FIT CONNECTIONS. Rx ONLY CONTENTS: LTRS: CU.FT. WARNING: Administration of Nitrogen may be hazardous or contraindicated. For use only by or under the supervision of a licensed practitioner who is experienced in the use and administration of Nitrogen and is familiar with the indications, effects, dosages, methods, and frequency and duration of administration, and with the hazards, contraindications and side effects, and the precautions to be taken. WARNING: CONTAINS REFRIGERATED GAS; MAY CAUSE CRYOGENIC BURNS OR INJURY. MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION. Do not handle until all safety precautions have been read and understood. Use and store only outdoors or in a well-ventilated place. Wear cold insulation gloves, face shield, and eye protection. Use a back flow preventive device in the piping. DO NOT change or force fit connections. Always keep container in upright position. Read and follow the Safety Data Sheet (SDS) before use. FIRST AID: IF INHALED: Remove person to fresh air and keep comfortable for breathing. IF ON SKIN: Thaw frosted parts with lukewarm water. Do not rub affected area. Get immediate medical advice/attention. CAS: 7727-37-9 DO NOT REMOVE THIS PRODUCT LABEL. Size: Net Weight: GAS AND SUPPLY 1148 Walter Price Road Cayce, SC 29033 (803) 670-2400 nitrogen refrigerated three"
+  ],
+  "set_id": "05a6f3ad-c96a-4345-e063-6294a90a8b7a",
+  "id": "457370c3-6a94-5be5-e063-6294a90adca4",
+  "effective_time": "20251208",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "NDA205766"
+    ],
+    "brand_name": [
+      "Nitrogen"
+    ],
+    "generic_name": [
+      "NITROGEN"
+    ],
+    "manufacturer_name": [
+      "Gas and Supply Carolinas, LLC"
+    ],
+    "product_ndc": [
+      "83746-001"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "RESPIRATORY (INHALATION)"
+    ],
+    "substance_name": [
+      "NITROGEN"
+    ],
+    "rxcui": [
+      "347021"
+    ],
+    "spl_id": [
+      "457370c3-6a94-5be5-e063-6294a90adca4"
+    ],
+    "spl_set_id": [
+      "05a6f3ad-c96a-4345-e063-6294a90a8b7a"
+    ],
+    "package_ndc": [
+      "83746-001-01",
+      "83746-001-02",
+      "83746-001-03",
+      "83746-001-04",
+      "83746-001-05",
+      "83746-001-06",
+      "83746-001-07",
+      "83746-001-08",
+      "83746-001-09",
+      "83746-001-10",
+      "83746-001-11"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "N762921K75"
+    ]
+  }
+}

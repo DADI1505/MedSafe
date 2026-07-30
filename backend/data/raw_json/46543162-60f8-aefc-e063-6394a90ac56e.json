@@ -1,0 +1,95 @@
+{
+  "spl_product_data_elements": [
+    "Fexofenadine HCL Fexofenadine HCL SHELLAC D&C RED NO. 33 AMMONIA FD&C BLUE NO. 1 FERROSOFERRIC OXIDE TITANIUM DIOXIDE POLYETHYLENE GLYCOL 8000 CROSCARMELLOSE SODIUM FD&C YELLOW NO. 6 MAGNESIUM STEARATE SILICON DIOXIDE GELATIN FEXOFENADINE HYDROCHLORIDE FEXOFENADINE HYPROMELLOSE 2910 (3 MPA.S) MICROCRYSTALLINE CELLULOSE HYDROXYPROPYL CELLULOSE (90000 WAMW) STARCH, CORN PROPYLENE GLYCOL G18 (White band in the middle) (capsule shaped tablet)"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each tablet) Fexofenadine HCl USP, 180 mg"
+  ],
+  "purpose": [
+    "Purpose .Antihistamine"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: ■ runny nose ■ itchy, watery eyes ■ sneezing ■ itching of the nose or throat"
+  ],
+  "warnings": [
+    "Do not use if you have ever had an allergic reaction to this product or any of its ingredients"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have kidney disease. Your doctor should determine if you need a different dose."
+  ],
+  "when_using": [
+    "When using this product ■ do not take more than directed ■ do not take at the same time as aluminum or magnesium antacids ■ do not take with fruit juices (see Directions)"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding ask a health professional before use"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 12 years of age and take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours"
+  ],
+  "storage_and_handling": [
+    "Other information ■ safety sealed: do not use if imprinted safety seal under cap is broken or missing ■ store between 20° and 25°C (68° and 77°F) ■ protect from excessive moisture"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients ammonium hydroxide, colloidal silicon dioxide, croscarmellose sodium, D & C Red 33, ferrosoferric oxide, FD & C blue 1, FD & C yellow 6, gelatin, hydroxypropyl cellulose, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, pregelatinized starch, propylene glycol, shellac, titanium dioxide."
+  ],
+  "questions": [
+    "Questions or comments? contact 1-877-770-3183 Mon-Fri 8:00 AM EST to 5:00 PM PST"
+  ],
+  "package_label_principal_display_panel": [
+    "PDP 60ct"
+  ],
+  "set_id": "013ef192-5184-b720-e063-6394a90a98c4",
+  "id": "46543162-60f8-aefc-e063-6394a90ac56e",
+  "effective_time": "20251219",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "ANDA211075"
+    ],
+    "brand_name": [
+      "Fexofenadine HCL"
+    ],
+    "generic_name": [
+      "FEXOFENADINE HCL"
+    ],
+    "manufacturer_name": [
+      "CVS"
+    ],
+    "product_ndc": [
+      "51316-768"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "FEXOFENADINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "997420"
+    ],
+    "spl_id": [
+      "46543162-60f8-aefc-e063-6394a90ac56e"
+    ],
+    "spl_set_id": [
+      "013ef192-5184-b720-e063-6394a90a98c4"
+    ],
+    "package_ndc": [
+      "51316-768-06"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "2S068B75ZU"
+    ]
+  }
+}

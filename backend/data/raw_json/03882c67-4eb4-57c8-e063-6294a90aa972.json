@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Origanum Majorana Origanum Majorana ORIGANUM MAJORANA ORIGANUM MAJORANA SUCROSE Origanum Majorana Origanum Majorana ORIGANUM MAJORANA ORIGANUM MAJORANA SUCROSE Origanum Majorana Origanum Majorana ORIGANUM MAJORANA ORIGANUM MAJORANA SUCROSE Origanum Majorana Origanum Majorana ORIGANUM MAJORANA ORIGANUM MAJORANA SUCROSE Origanum Majorana Origanum Majorana SUCROSE ORIGANUM MAJORANA ORIGANUM MAJORANA Origanum Majorana Origanum Majorana SUCROSE ORIGANUM MAJORANA ORIGANUM MAJORANA Origanum Majorana Origanum Majorana ORIGANUM MAJORANA ORIGANUM MAJORANA SUCROSE Origanum Majorana Origanum Majorana ORIGANUM MAJORANA ORIGANUM MAJORANA SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Origanum Majorana 6C 5g Origanum Majorana 6C 30g Origanum Majorana 6C 100g Origanum Majorana 12C 5g Origanum Majorana 12C 30g Origanum Majorana 12C 100g Origanum Majorana 30C 1g Origanum Majorana 30C 5g Origanum Majorana 30C 30g Origanum Majorana 30C 100g Origanum Majorana 100C 1g Origanum Majorana 100C 5g Origanum Majorana 100C 30g Origanum Majorana 100C 100g Origanum Majorana 200C 1g Origanum Majorana 200C 5g Origanum Majorana 200C 30g Origanum Majorana 200C 100g Origanum Majorana 500C 1g Origanum Majorana 500C 5g Origanum Majorana 500C 30g Origanum Majorana 500C 100g Origanum Majorana 1M 1g Origanum Majorana 1M 5g Origanum Majorana 1M 30g Origanum Majorana 1M 100g Origanum Majorana LM1 30g"
+  ],
+  "set_id": "03882c67-4eb3-57c8-e063-6294a90aa972",
+  "id": "03882c67-4eb4-57c8-e063-6294a90aa972",
+  "effective_time": "20230822",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Origanum Majorana"
+    ],
+    "generic_name": [
+      "ORIGANUM MAJORANA"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3801",
+      "37662-3806",
+      "37662-3803",
+      "37662-3804",
+      "37662-3807",
+      "37662-3802",
+      "37662-3805",
+      "37662-3808"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ORIGANUM MAJORANA"
+    ],
+    "spl_id": [
+      "03882c67-4eb4-57c8-e063-6294a90aa972"
+    ],
+    "spl_set_id": [
+      "03882c67-4eb3-57c8-e063-6294a90aa972"
+    ],
+    "package_ndc": [
+      "37662-3806-1",
+      "37662-3806-2",
+      "37662-3806-3",
+      "37662-3806-4",
+      "37662-3803-1",
+      "37662-3803-2",
+      "37662-3803-3",
+      "37662-3803-4",
+      "37662-3804-1",
+      "37662-3804-2",
+      "37662-3804-3",
+      "37662-3804-4",
+      "37662-3807-1",
+      "37662-3807-2",
+      "37662-3807-3",
+      "37662-3807-4",
+      "37662-3802-1",
+      "37662-3802-2",
+      "37662-3802-3",
+      "37662-3801-1",
+      "37662-3801-2",
+      "37662-3801-3",
+      "37662-3805-1",
+      "37662-3805-2",
+      "37662-3805-3",
+      "37662-3805-4",
+      "37662-3808-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "R40XM3HU5X"
+    ]
+  }
+}

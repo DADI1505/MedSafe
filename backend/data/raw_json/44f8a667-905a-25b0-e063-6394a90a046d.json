@@ -1,0 +1,106 @@
+{
+  "spl_product_data_elements": [
+    "VICKS FORMULA 44DM COUGH Dextromethorphan HBr CITRIC ACID MONOHYDRATE FD&C RED NO. 40 SODIUM BENZOATE PROPYLENE GLYCOL WATER SACCHARIN SODIUM SODIUM CITRATE SORBITOL GLYCERIN SUCRALOSE XANTHAN GUM DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "TAMPER EVIDENT: Do not use if printed shrinkband is broken or missing.",
+    "DIST. BY PROCTER & GAMBLE, CINCINNATI OH 45202"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each 15 mL) Dextromethorphan HBr 15 mg"
+  ],
+  "purpose": [
+    "Purpose Cough suppressant"
+  ],
+  "indications_and_usage": [
+    "Use temporarily relieves cough due to minor throat and bronchial irritation associated with a cold"
+  ],
+  "warnings": [
+    "Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have cough that occurs with too much phlegm (mucus) persistent or chronic cough such as occurs with smoking, asthma, or emphysema"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "overdosage": [
+    "In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions take only as directed only use the dose cup provided do not exceed 4 doses per 24 hours adults and children 12 years and over 30 mL every 6-8 hours children 6 to under 12 years 15 mL every 6-8 hours children 4 to under 6 years ask a doctor children under 4 years do not use"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"100%\"><tbody><tr><td>adults and children 12 years and over</td><td>30 mL every 6-8 hours</td></tr><tr><td>children 6 to under 12 years</td><td>15 mL every 6-8 hours</td></tr><tr><td>children 4 to under 6 years</td><td><paragraph>ask a doctor</paragraph></td></tr><tr><td>children under 4 years</td><td>do not use</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information • each 15 mL contains: sodium 12 mg • store at no greater than 25°C • does not meet USP requirements for light resistant packaging"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients citric acid, FD&C Red No. 40, flavor, glycerin, propylene glycol, purified water, saccharin sodium, sodium benzoate, sodium citrate, sorbitol, sucralose, xanthan gum"
+  ],
+  "questions": [
+    "Questions? 1-800-362-1683"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 354 ml Bottle Label VICKS ® FORMULA 44™ DM COUGH Dextromethorphan HBr - cough suppressant ATTACKS COUGH AT THE SOURCE Non-Drowsy 12 FL OZ (354 ml) 809"
+  ],
+  "set_id": "05411a51-a49a-96fd-e063-6294a90ae37b",
+  "id": "44f8a667-905a-25b0-e063-6394a90a046d",
+  "effective_time": "20251202",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "VICKS FORMULA 44DM COUGH"
+    ],
+    "generic_name": [
+      "DEXTROMETHORPHAN HBR"
+    ],
+    "manufacturer_name": [
+      "The Procter & Gamble Manufacturing Company"
+    ],
+    "product_ndc": [
+      "69423-809"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DEXTROMETHORPHAN HYDROBROMIDE"
+    ],
+    "rxcui": [
+      "1090946"
+    ],
+    "spl_id": [
+      "44f8a667-905a-25b0-e063-6394a90a046d"
+    ],
+    "spl_set_id": [
+      "05411a51-a49a-96fd-e063-6294a90ae37b"
+    ],
+    "package_ndc": [
+      "69423-809-12"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0323900039162"
+    ],
+    "unii": [
+      "9D2RTI9KYH"
+    ]
+  }
+}

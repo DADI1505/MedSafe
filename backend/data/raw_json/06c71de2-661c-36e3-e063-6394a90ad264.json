@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Strontium Nitricum Strontium Nitricum SUCROSE STRONTIUM NITRATE STRONTIUM CATION Strontium Nitricum Strontium Nitricum SUCROSE STRONTIUM NITRATE STRONTIUM CATION Strontium Nitricum Strontium Nitricum SUCROSE STRONTIUM NITRATE STRONTIUM CATION Strontium Nitricum Strontium Nitricum SUCROSE STRONTIUM NITRATE STRONTIUM CATION Strontium Nitricum Strontium Nitricum SUCROSE STRONTIUM NITRATE STRONTIUM CATION Strontium Nitricum Strontium Nitricum SUCROSE STRONTIUM NITRATE STRONTIUM CATION Strontium Nitricum Strontium Nitricum SUCROSE STRONTIUM NITRATE STRONTIUM CATION Strontium Nitricum Strontium Nitricum SUCROSE STRONTIUM NITRATE STRONTIUM CATION"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Strontium Nitricum 6C 5g Strontium Nitricum 6C 30g Strontium Nitricum 6C 100g Strontium Nitricum 12C 5g Strontium Nitricum 12C 30g Strontium Nitricum 12C 100g Strontium Nitricum 30C 1g Strontium Nitricum 30C 5g Strontium Nitricum 30C 30g Strontium Nitricum 30C 100g Strontium Nitricum 100C 1g Strontium Nitricum 100C 5g Strontium Nitricum 100C 30g Strontium Nitricum 100C 100g Strontium Nitricum 200C 1g Strontium Nitricum 200C 5g Strontium Nitricum 200C 30g Strontium Nitricum 200C 100g Strontium Nitricum 500C 1g Strontium Nitricum 500C 5g Strontium Nitricum 500C 30g Strontium Nitricum 500C 100g Strontium Nitricum 1M 1g Strontium Nitricum 1M 5g Strontium Nitricum 1M 30g Strontium Nitricum 1M 100g Strontium Nitricum LM1 30g"
+  ],
+  "set_id": "06c780dd-5cc0-030e-e063-6394a90a80b5",
+  "id": "06c71de2-661c-36e3-e063-6394a90ad264",
+  "effective_time": "20231002",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Strontium Nitricum"
+    ],
+    "generic_name": [
+      "STRONTIUM NITRICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-4063",
+      "37662-4064",
+      "37662-4068",
+      "37662-4069",
+      "37662-4065",
+      "37662-4067",
+      "37662-4070",
+      "37662-4066"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "STRONTIUM NITRATE"
+    ],
+    "spl_id": [
+      "06c71de2-661c-36e3-e063-6394a90ad264"
+    ],
+    "spl_set_id": [
+      "06c780dd-5cc0-030e-e063-6394a90a80b5"
+    ],
+    "package_ndc": [
+      "37662-4063-1",
+      "37662-4063-2",
+      "37662-4063-3",
+      "37662-4064-1",
+      "37662-4064-2",
+      "37662-4064-3",
+      "37662-4068-1",
+      "37662-4068-2",
+      "37662-4068-3",
+      "37662-4068-4",
+      "37662-4069-1",
+      "37662-4069-2",
+      "37662-4069-3",
+      "37662-4069-4",
+      "37662-4065-1",
+      "37662-4065-2",
+      "37662-4065-3",
+      "37662-4065-4",
+      "37662-4067-1",
+      "37662-4067-2",
+      "37662-4067-3",
+      "37662-4067-4",
+      "37662-4070-1",
+      "37662-4066-1",
+      "37662-4066-2",
+      "37662-4066-3",
+      "37662-4066-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "BDG873AQZL"
+    ]
+  }
+}

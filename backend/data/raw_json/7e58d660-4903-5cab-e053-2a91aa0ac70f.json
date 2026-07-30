@@ -1,0 +1,106 @@
+{
+  "spl_product_data_elements": [
+    "Hair-X Hair Loss Relief CADMIUM SULFATE, GRAPHITE, PHOSPHORIC ACID, SILICON DIOXIDE, SELENIUM, THALLIUM, USTILAGO MAYDIS SUCROSE LACTOSE CADMIUM SULFATE CADMIUM CATION GRAPHITE GRAPHITE PHOSPHORIC ACID PHOSPHORIC ACID SILICON DIOXIDE SILICON DIOXIDE SELENIUM SELENIUM THALLIUM THALLIUM USTILAGO MAYDIS USTILAGO MAYDIS"
+  ],
+  "active_ingredient": [
+    "Active Ingredients: Cadmium sulph. 12C, Graphites 4C, Phosphoricum acidum 5C, Silicea 4C, Selenium 5C, Thallium met. 7C, Ustilago 9C."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Sucrose/lactose."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. Keep out of reach of children."
+  ],
+  "purpose": [
+    "Purpose: Hair loss-Alopecia."
+  ],
+  "indications_and_usage": [
+    "Indications & Usage: Turn tube upside down, twist cap to break seal & release pellets. Using clear cap, place 3 pellets to dissolve under your tongue 3 times a day or as needed. Take apart from food or drinks. To preserve purity avoid touching pellets with fingers."
+  ],
+  "dosage_and_administration": [
+    "Dosage & Administration: Turn tube upside down, twist cap to break seal & release pellets. Using clear cap, place 3 pellets to dissolve under your tongue 3 times a day or as needed. Take apart from food or drinks. To preserve purity avoid touching pellets with fingers."
+  ],
+  "warnings": [
+    "Warnings: If symptoms persist or worsen, or if pregnant or nursing, consult a doctor. Keep out of reach of children. Do not use if cap seal is broken or missing."
+  ],
+  "package_label_principal_display_panel": [
+    "Hair-X Hair Loss Relief Hair-X Hair Loss Relief Homeopathic Medicine 85 Pellets hcl_label_hairx 2012.jpg hair-x hair loss relief"
+  ],
+  "set_id": "00b62179-e03b-4972-902d-3a0c969b59bc",
+  "id": "7e58d660-4903-5cab-e053-2a91aa0ac70f",
+  "effective_time": "20181231",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Hair-X Hair Loss Relief"
+    ],
+    "generic_name": [
+      "CADMIUM SULFATE, GRAPHITE, PHOSPHORIC ACID, SILICON DIOXIDE, SELENIUM, THALLIUM, USTILAGO MAYDIS"
+    ],
+    "manufacturer_name": [
+      "Homeocare Laboratories"
+    ],
+    "product_ndc": [
+      "61727-319"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "SUBLINGUAL"
+    ],
+    "substance_name": [
+      "CADMIUM SULFATE",
+      "GRAPHITE",
+      "PHOSPHORIC ACID",
+      "SILICON DIOXIDE",
+      "SELENIUM",
+      "THALLIUM",
+      "USTILAGO MAYDIS"
+    ],
+    "spl_id": [
+      "7e58d660-4903-5cab-e053-2a91aa0ac70f"
+    ],
+    "spl_set_id": [
+      "00b62179-e03b-4972-902d-3a0c969b59bc"
+    ],
+    "package_ndc": [
+      "61727-319-21"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0361727319210"
+    ],
+    "nui": [
+      "N0000185372",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0008890",
+      "M0000728"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Fungal Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Fungal Proteins [CS]",
+      "Allergens [CS]"
+    ],
+    "unii": [
+      "947UNF3Z6O",
+      "4QQN74LH4O",
+      "E4GA8884NN",
+      "ETJ7Z6XBU4",
+      "H6241UJ22B",
+      "AD84R52XLF",
+      "4K7Z7K7SWG"
+    ]
+  }
+}

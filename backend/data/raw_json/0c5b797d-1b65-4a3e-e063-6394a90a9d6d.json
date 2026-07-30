@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "Restorative Day Moisture SPF 15 OCTINOXATE, AVOBENZONE MORUS ALBA ROOT EPILOBIUM ANGUSTIFOLIUM FLOWERING TOP CASTOR OIL BARIUM SULFATE ALANYL GLUTAMINE POLYSORBATE 20 STEARIC ACID POLYSORBATE 60 SILICON DIOXIDE BENTONITE XANTHAN GUM BUTYLENE GLYCOL WATER DIMETHICONE GLYCERIN PENTYLENE GLYCOL CYCLOMETHICONE 5 ROSA CENTIFOLIA FLOWER OIL RICE BRAN OIL GLYCERYL MONOSTEARATE ALOE VERA LEAF STEARETH-2 STEARETH-21 PALMITOYL OLIGOPEPTIDE PALMITOYL TETRAPEPTIDE-7 SQUALANE PANAX GINSENG FLOWER CENTELLA ASIATICA LONICERA JAPONICA FLOWER MAGNOLIA OBOVATA BARK MALVA SYLVESTRIS FLOWER OCTINOXATE OCTINOXATE AVOBENZONE AVOBENZONE"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Purpose Octinoxate 5% Sunscreen Avobenzone 3% Sunscreen"
+  ],
+  "purpose": [
+    "Use Helps prevent sunburn."
+  ],
+  "indications_and_usage": [
+    "Use Helps prevent sunburn."
+  ],
+  "warnings": [
+    "Warnings For external use only. Use as directed."
+  ],
+  "when_using": [
+    "Avoid direct contact with eyes. If contact occurs, rinse gently with water."
+  ],
+  "stop_use": [
+    "Discontinue use and consult a physician immediately if any adverse reaction occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "other_safety_information": [
+    "In case of accidental ingestion, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply in AM to cleansed and toned face."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Water, Dimethicone, Glycerin, Butylene Glycol, C12-15 Alkyl Lactate, Pentylene Glycol, Cyclopentasiloxane, Rosa Centifolia Flower Water, Oryza Sativa (Rice) Bran Oil, Glyceryl Stearate, Aloe Barbadensis Leaf Juice, Steareth-2, Steareth-21, Maltooligosyl Glucoside, Hydrogenated Starch Hydrolysate, Polysilicone-11, Palmitoyl Oligopeptide, Palmitoyl Tetrapeptide-7, Amino Butyric Acid, Squalane, Panax Ginseng Extract, Portulace Oleracea Extract, Centella Asiatica Extract, Lonicera Japonica (Honeysuckle) Flower Extract, Lenicera Caprifolium (Honeysuckle) Flower Extract, Magnolia Obovata Bark Extract, Malva Sylvestris (Mallow) Flower Extract, Morus Alba Root Extract, Simmondsia Chinensis (Jojoba) Leaf Extract, Epilobium Angustifolium Flower/Leaf/Stem Extract, Ricinus Communis (Castor) Seed Oil, Barium Sulfate, Alanyl Glutamine, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polysorbate 20, Stearic Acid, Polysorbate 60, Cetyl Ricinoleate, Silica, Bentonite, Carbomer, Xanthan Gum."
+  ],
+  "description": [
+    "Preservative-free. Dermatologist tested. Alcohol-free, pH balanced, 100% natural fragrance and color, no animal testing and no animal ingredients. www.boscia.net B207-01 Distributed by boscia, LLC. Irvine, CA 92614 Made in U.S.A. U8-2"
+  ],
+  "package_label_principal_display_panel": [
+    "For dry skin An advanced hydrating cream that delivers high levels of moisture, helps diminish the appearance of uneven skintone, dullness and fine lines while protecting skin from future damage with broad spectrum SPF 15. Palmitoyl Penta-Peptide, an effective amino acid, minimizes the appearance of fine lines. Magnolia Bark Extract improves skin elasticity and firmness. Mulberry Extract reducess the appearance of age spots.",
+    "boscia Restorative Day Moisture Cream SPF 15 Preservative-free 1 fl oz/30 ml",
+    "www.boscia.net B207-01 Distributed by boscia, LLC. Irvine, CA 92614 Made in U.S.A. U8-2",
+    "Boscia Restorative 2",
+    "Boscia Restorative 1",
+    "Boscia Restorative 3"
+  ],
+  "set_id": "01f17133-7f29-4f8e-a52c-c4466e4abefc",
+  "id": "0c5b797d-1b65-4a3e-e063-6394a90a9d6d",
+  "effective_time": "20231212",
+  "version": "8",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Restorative Day Moisture SPF 15"
+    ],
+    "generic_name": [
+      "OCTINOXATE, AVOBENZONE"
+    ],
+    "manufacturer_name": [
+      "Boscia LLC"
+    ],
+    "product_ndc": [
+      "76151-207"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OCTINOXATE",
+      "AVOBENZONE"
+    ],
+    "spl_id": [
+      "0c5b797d-1b65-4a3e-e063-6394a90a9d6d"
+    ],
+    "spl_set_id": [
+      "01f17133-7f29-4f8e-a52c-c4466e4abefc"
+    ],
+    "package_ndc": [
+      "76151-207-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "4Y5P7MUD51",
+      "G63QQF2NOX"
+    ]
+  }
+}

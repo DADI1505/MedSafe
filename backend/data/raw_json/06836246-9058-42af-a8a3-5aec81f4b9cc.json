@@ -1,0 +1,87 @@
+{
+  "spl_product_data_elements": [
+    "good sense gas relief Simethicone DIMETHICONE, UNSPECIFIED DIMETHICONE SILICON DIOXIDE FD&C RED NO. 40 FD&C YELLOW NO. 6 GELATIN, UNSPECIFIED GLYCERIN L657"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each softgel) Simethicone 180 mg"
+  ],
+  "purpose": [
+    "Purpose Anti-gas"
+  ],
+  "indications_and_usage": [
+    "Use • relieves bloating, pressure or fullness commonly referred to as gas"
+  ],
+  "warnings": [
+    "Warnings Stop use and ask a doctor if condition persists Keep out of reach of children."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition persists"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions • swallow one or two softgels as needed after a meal • do not exceed two softgels per day except under the advice and supervision of a physician"
+  ],
+  "storage_and_handling": [
+    "Other information • each softgel contains: potassium 5 mg • store at 68°-77°F (20°-25°C)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients FD&C red no. 40, FD&C yellow no. 6, gelatin, glycerin"
+  ],
+  "questions": [
+    "Questions or comments? 1-800-719-9260"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel GOODSENSE ® Ultra Strength Gas Relief Anti-Gas Simethicone 180 mg Actual Size Relieves Gas Fast ● Pressure ● Bloating ● Discomfort Easy to Swallow Compare to active ingredient of Ultra Strength Phazyme ® 60 Softgels (180 mg) Repackaged By: Preferred Pharmaceuticals Inc. 68788-4101 Simethicone Softgels 180mg"
+  ],
+  "set_id": "06836246-9058-42af-a8a3-5aec81f4b9cc",
+  "id": "06836246-9058-42af-a8a3-5aec81f4b9cc",
+  "effective_time": "20260420",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M002"
+    ],
+    "brand_name": [
+      "good sense gas relief"
+    ],
+    "generic_name": [
+      "SIMETHICONE"
+    ],
+    "manufacturer_name": [
+      "Preferred Pharmaceuticals Inc."
+    ],
+    "product_ndc": [
+      "68788-4101"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIMETHICONE, UNSPECIFIED"
+    ],
+    "rxcui": [
+      "252294"
+    ],
+    "spl_id": [
+      "06836246-9058-42af-a8a3-5aec81f4b9cc"
+    ],
+    "spl_set_id": [
+      "06836246-9058-42af-a8a3-5aec81f4b9cc"
+    ],
+    "package_ndc": [
+      "68788-4101-3",
+      "68788-4101-6"
+    ],
+    "original_packager_product_ndc": [
+      "0113-0657"
+    ],
+    "unii": [
+      "92RU3N3Y1O"
+    ]
+  }
+}

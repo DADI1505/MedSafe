@@ -1,0 +1,96 @@
+{
+  "spl_product_data_elements": [
+    "DYNAMO DELAY SAMPLE BOTTLE lidocaine LIDOCAINE LIDOCAINE ISOPROPYL PALMITATE ALCOHOL STEARIC ACID"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENT Lidocaine USP 13% (approximately 10 mg per spray)"
+  ],
+  "purpose": [
+    "PURPOSE Topical Anesthetic"
+  ],
+  "indications_and_usage": [
+    "USE(S) for temporary male genital desensitization, helping to slow the onset of ejaculation helps in temporarily prolonging the time until ejaculation for reducing oversensitivity in the male in advance of intercourse"
+  ],
+  "warnings": [
+    "WARNINGS For external use only"
+  ],
+  "when_using": [
+    "WHEN USING THIS PRODUCT avoid contact with the eyes"
+  ],
+  "stop_use": [
+    "STOP USE AND ASK A DOCTOR IF this product, used as directed, does not provide relief. Premature ejaculation may be due to a condition requiring medical supervision. you or your partner develop a rash or irritation, such as burning or itching."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN If swallowed, get medical help or contact a Poison Control Center immediately"
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS apply 3 or more sprays, not to exceed 10, to head and shaft of penis before intercourse, or use as directed by a doctor. wash product off after intercourse"
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Isopropyl Palmitate, SD Alcohol 40B, Stearic Acid"
+  ],
+  "questions": [
+    "QUESTIONS? 310 446 1632 Monday - Friday 9am-5pm(PST) Manufactured for Momentum Management LLC 1206 W Jon St Torrance, CA 90502"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL Dynamo Delay NDC 69664-003-02 Lidocaine USP 13% (approximately 10 mg per spray) Male Genital Desensitizer Spray Helps in temporarily prolonging the time until ejaculation. .088 fl oz (2.6mL) Made in the USA dd-sb-302-label dd-sb-302-box"
+  ],
+  "set_id": "05370186-1b82-4d0f-9382-b153252c0221",
+  "id": "78b324c2-7722-4652-b971-099fc125dc88",
+  "effective_time": "20260119",
+  "version": "4",
+  "openfda": {
+    "brand_name": [
+      "DYNAMO DELAY SAMPLE BOTTLE"
+    ],
+    "generic_name": [
+      "LIDOCAINE"
+    ],
+    "manufacturer_name": [
+      "Momentum Management LLC"
+    ],
+    "product_ndc": [
+      "69664-003"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "LIDOCAINE"
+    ],
+    "spl_id": [
+      "78b324c2-7722-4652-b971-099fc125dc88"
+    ],
+    "spl_set_id": [
+      "05370186-1b82-4d0f-9382-b153252c0221"
+    ],
+    "package_ndc": [
+      "69664-003-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175682",
+      "M0000897",
+      "N0000175426",
+      "N0000175976"
+    ],
+    "pharm_class_epc": [
+      "Amide Local Anesthetic [EPC]",
+      "Antiarrhythmic [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Amides [CS]"
+    ],
+    "pharm_class_pe": [
+      "Local Anesthesia [PE]"
+    ],
+    "unii": [
+      "98PI200987"
+    ]
+  }
+}

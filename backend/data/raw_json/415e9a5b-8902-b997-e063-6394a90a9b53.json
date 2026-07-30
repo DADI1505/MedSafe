@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "LION POSE GHOST-BUSTER BROAD SPECTRUM SPF 42 SUNSCREEN ZINC OXIDE CAPRYLHYDROXAMIC ACID WATER ZINC OXIDE ZINC OXIDE MEDIUM-CHAIN TRIGLYCERIDES JOJOBA OIL, RANDOMIZED CETOSTEARYL ALCOHOL GLUTATHIONE MALTODEXTRIN PENTYLENE GLYCOL QUERCUS SUBER BARK CUCUMBER VITIS VINIFERA SEED FERRIC OXIDE RED GLYCERIN MAGNOLIA OFFICINALIS BARK ISOSORBIDE DICAPRYLATE SQUALANE JOJOBA OIL GLYCERYL CAPRYLATE POLYHYDROXYSTEARIC ACID (2300 MW) COCONUT OIL TOCOPHEROL ACACIA XANTHAN GUM DICAPRYLYL CARBONATE PROPANEDIOL CETEARYL GLUCOSIDE SODIUM BENZOATE SODIUM STEAROYL GLUTAMATE CAPRYLYL GLYCOL TRISODIUM ETHYLENEDIAMINE DISUCCINATE GLYCERYL MONOOLEATE CITRATE DIMETHICONE COCO GLUCOSIDE LECITHIN, SOYBEAN RICE BRAN POLYGLYCERYL-6 POLYRICINOLEATE SILICON DIOXIDE FERRIC OXIDE YELLOW"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Zinc oxide 15%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent sunburn If used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "Warnings For external use only. When using this product keep out of eyes. Rinse with water to remove. Do not use on damaged or broken skin. Stop use and ask doctor if rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin."
+  ],
+  "stop_use": [
+    "Stop use and ask doctor if rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply liberally 15 minutes before sun exposure. Reapply at least every 2 hours. Sun protection measures : Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 a.m. - 2 p.m. Wear long-sleeved shirts, pants, hats, and sunglasses. Use a water-resistant sunscreen if swimming or sweating. Children under 6 months: Ask a doctor."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water (Aqua/Eau), Dicaprylyl Carbonate, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Isosorbide Dicaprylate, Squalane, Glycerin, Dimethicone, Propanediol, Coco-Glucoside, Polyhydroxystearic Acid, Oryza Sativa (Rice) Bran Extract, Quercus Suber Bark Extract, Cucumis Sativus (Cucumber) Fruit Extract, Magnolia Officinalis Bark Extract, Vitis Vinifera (Grape) Seed Extract, Oak Root Extract, Simmondsia Chinensis (Jojoba) Seed Oil, Cocos Nucifera (Coconut) Oil, Jojoba Esters, Glutathione, Tocopherol, Caprylhydroxamic Acid, Sodium Stearoyl Glutamate, Trisodium Ethylenediamine Disuccinate, Polyglyceryl-6 Polyricinoleate, Glyceryl Caprylate, Glyceryl Oleate Citrate, Cetearyl Glucoside, Maltodextrin, Lecithin, Acacia Senegal Gum, Xanthan Gum, Silica, Caprylyl Glycol, Pentylene Glycol, Sodium Benzoate, Iron Oxides (CI 77491, CI 77492)."
+  ],
+  "other_safety_information": [
+    "Other information Protect this product from excessive heat and direct sun."
+  ],
+  "questions": [
+    "Questions or comments? Contact our sun specialists 1 888 801 0414 Hours: 9 AM - 5 PM PST"
+  ],
+  "package_label_principal_display_panel": [
+    "1"
+  ],
+  "set_id": "0310407b-fb74-aa8b-e063-6294a90ad841",
+  "id": "415e9a5b-8902-b997-e063-6394a90a9b53",
+  "effective_time": "20251017",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "LION POSE GHOST-BUSTER BROAD SPECTRUM SPF 42 SUNSCREEN"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Lion Pose Inc."
+    ],
+    "product_ndc": [
+      "83605-001"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "415e9a5b-8902-b997-e063-6394a90a9b53"
+    ],
+    "spl_set_id": [
+      "0310407b-fb74-aa8b-e063-6294a90ad841"
+    ],
+    "package_ndc": [
+      "83605-001-01",
+      "83605-001-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

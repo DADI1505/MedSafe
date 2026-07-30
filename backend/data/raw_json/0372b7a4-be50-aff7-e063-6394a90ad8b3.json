@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Niobium Oxydatum Niobium Oxydatum SODIUM NIOBIUM(V) OXIDE SODIUM CATION SUCROSE Niobium Oxydatum Niobium Oxydatum SODIUM NIOBIUM(V) OXIDE SODIUM CATION SUCROSE Niobium Oxydatum Niobium Oxydatum SODIUM NIOBIUM(V) OXIDE SODIUM CATION SUCROSE Niobium Oxydatum Niobium Oxydatum SODIUM NIOBIUM(V) OXIDE SODIUM CATION SUCROSE Niobium Oxydatum Niobium Oxydatum SODIUM NIOBIUM(V) OXIDE SODIUM CATION SUCROSE Niobium Oxydatum Niobium Oxydatum SODIUM NIOBIUM(V) OXIDE SODIUM CATION SUCROSE Niobium Oxydatum Niobium Oxydatum SODIUM NIOBIUM(V) OXIDE SODIUM CATION SUCROSE Niobium Oxydatum Niobium Oxydatum SODIUM NIOBIUM(V) OXIDE SODIUM CATION SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Niobium Oxydatum 6C 5g Niobium Oxydatum 6C 30g Niobium Oxydatum 6C 100g Niobium Oxydatum 12C 5g Niobium Oxydatum 12C 30g Niobium Oxydatum 12C 100g Niobium Oxydatum 30C 1g Niobium Oxydatum 30C 5g Niobium Oxydatum 30C 30g Niobium Oxydatum 30C 100g Niobium Oxydatum 100C 1g Niobium Oxydatum 100C 5g Niobium Oxydatum 100C 30g Niobium Oxydatum 100C 100g Niobium Oxydatum 200C 1g Niobium Oxydatum 200C 5g Niobium Oxydatum 200C 30g Niobium Oxydatum 200C 100g Niobium Oxydatum 500C 1g Niobium Oxydatum 500C 5g Niobium Oxydatum 500C 30g Niobium Oxydatum 500C 100g Niobium Oxydatum 1M 1g Niobium Oxydatum 1M 5g Niobium Oxydatum 1M 30g Niobium Oxydatum 1M 100g Niobium Oxydatum LM1 30g"
+  ],
+  "set_id": "0372b7a4-be4f-aff7-e063-6394a90ad8b3",
+  "id": "0372b7a4-be50-aff7-e063-6394a90ad8b3",
+  "effective_time": "20230821",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Niobium Oxydatum"
+    ],
+    "generic_name": [
+      "NIOBIUM OXYDATUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3785",
+      "37662-3786",
+      "37662-3792",
+      "37662-3791",
+      "37662-3788",
+      "37662-3789",
+      "37662-3787",
+      "37662-3790"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SODIUM NIOBIUM(V) OXIDE"
+    ],
+    "spl_id": [
+      "0372b7a4-be50-aff7-e063-6394a90ad8b3"
+    ],
+    "spl_set_id": [
+      "0372b7a4-be4f-aff7-e063-6394a90ad8b3"
+    ],
+    "package_ndc": [
+      "37662-3786-1",
+      "37662-3786-2",
+      "37662-3786-3",
+      "37662-3792-1",
+      "37662-3791-1",
+      "37662-3791-2",
+      "37662-3791-3",
+      "37662-3791-4",
+      "37662-3788-1",
+      "37662-3788-2",
+      "37662-3788-3",
+      "37662-3788-4",
+      "37662-3789-1",
+      "37662-3789-2",
+      "37662-3789-3",
+      "37662-3789-4",
+      "37662-3787-1",
+      "37662-3787-2",
+      "37662-3787-3",
+      "37662-3787-4",
+      "37662-3785-1",
+      "37662-3785-2",
+      "37662-3785-3",
+      "37662-3790-1",
+      "37662-3790-2",
+      "37662-3790-3",
+      "37662-3790-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "5QYT6674V4"
+    ]
+  }
+}

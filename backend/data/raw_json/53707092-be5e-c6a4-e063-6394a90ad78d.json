@@ -1,0 +1,95 @@
+{
+  "spl_product_data_elements": [
+    "GNP Isopropyl Alcohol 70 Percent With Wintergreen Oil isopropyl alcohol METHYL SALICYLATE FD&C BLUE NO. 1 FD&C YELLOW NO. 5 WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Isopropyl Alcohol 70% by volume"
+  ],
+  "purpose": [
+    "Purpose First aid antiseptic"
+  ],
+  "indications_and_usage": [
+    "Use First aid to help prevent the risk of infection in. minor cuts scrapes burns"
+  ],
+  "warnings": [
+    "Warnings For external use only. Flammable, keep way from spark, heat and flame. Use in well ventilated area, fumes may be harmful."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use for deep wounds animal bites serious burns"
+  ],
+  "when_using": [
+    "When using this product do not get into eyes or mucous membranes. do not apply to irritated skin."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if excessive irritation of the skin develops."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions apply freely and rub briskly with hands or towel."
+  ],
+  "other_safety_information": [
+    "Other Information does not contain ethyl or grain alcohol and is not sold as a substitute for preparations containing the same. Store at controlled room temperature will produce serious gastric disturbances if taken internally."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredient Methyl salicylate 0.5% FDC Blue #1 FDC Yellow #5 purified water"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel NDC 46122-33 1-43 ISOPROPYL RUBBING ALCOHOL 7 0% With Wintergreen Oil Rubbing, Massage, Sponge Bath 16 fl oz (1 pt) 473 mL GNP70W.jpg Principal Display Panel NDC 46122-331-43 ISOPROPYL RUBBING ALCOHOL 70% With Wintergreen Oil Rubbing, Massage, Sponge Bath 16 fl oz (1 pt) 473 mL"
+  ],
+  "set_id": "03247512-7a31-4fb4-b7e0-efc337cab693",
+  "id": "53707092-be5e-c6a4-e063-6394a90ad78d",
+  "effective_time": "20260604",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "GNP Isopropyl Alcohol 70 Percent With Wintergreen Oil"
+    ],
+    "generic_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Amerisource Bergen"
+    ],
+    "product_ndc": [
+      "46122-331"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "rxcui": [
+      "808520"
+    ],
+    "spl_id": [
+      "53707092-be5e-c6a4-e063-6394a90ad78d"
+    ],
+    "spl_set_id": [
+      "03247512-7a31-4fb4-b7e0-efc337cab693"
+    ],
+    "package_ndc": [
+      "46122-331-43"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0087701427282"
+    ],
+    "unii": [
+      "ND2M416302"
+    ]
+  }
+}

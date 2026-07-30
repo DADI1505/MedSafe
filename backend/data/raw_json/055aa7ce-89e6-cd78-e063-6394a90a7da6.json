@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Kali Fluoratum Kali Fluoratum POTASSIUM FLUORIDE POTASSIUM CATION SUCROSE Kali Fluoratum Kali Fluoratum POTASSIUM FLUORIDE POTASSIUM CATION SUCROSE Kali Fluoratum Kali Fluoratum POTASSIUM FLUORIDE POTASSIUM CATION SUCROSE Kali Fluoratum Kali Fluoratum POTASSIUM FLUORIDE POTASSIUM CATION SUCROSE Kali Fluoratum Kali Fluoratum POTASSIUM FLUORIDE POTASSIUM CATION SUCROSE Kali Fluoratum Kali Fluoratum POTASSIUM FLUORIDE POTASSIUM CATION SUCROSE Kali Fluoratum Kali Fluoratum POTASSIUM FLUORIDE POTASSIUM CATION SUCROSE Kali Fluoratum Kali Fluoratum POTASSIUM FLUORIDE POTASSIUM CATION SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Kali Fluoratum 6C 5g Kali Fluoratum 6C 30g Kali Fluoratum 6C 100g Kali Fluoratum 12C 5g Kali Fluoratum 12C 30g Kali Fluoratum 12C 100g Kali Fluoratum 30C 1g Kali Fluoratum 30C 5g Kali Fluoratum 30C 30g Kali Fluoratum 30C 100g Kali Fluoratum 100C 1g Kali Fluoratum 100C 5g Kali Fluoratum 100C 30g Kali Fluoratum 100C 100g Kali Fluoratum 200C 1g Kali Fluoratum 200C 5g Kali Fluoratum 200C 30g Kali Fluoratum 200C 100g Kali Fluoratum 500C 1g Kali Fluoratum 500C 5g Kali Fluoratum 500C 30g Kali Fluoratum 500C 100g Kali Fluoratum 1M 1g Kali Fluoratum 1M 5g Kali Fluoratum 1M 30g Kali Fluoratum 1M 100g Kali Fluoratum LM1 30g"
+  ],
+  "set_id": "055aa7ce-89e5-cd78-e063-6394a90a7da6",
+  "id": "055aa7ce-89e6-cd78-e063-6394a90a7da6",
+  "effective_time": "20230914",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Kali Fluoratum"
+    ],
+    "generic_name": [
+      "KALI FLUORATUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3920",
+      "37662-3923",
+      "37662-3924",
+      "37662-3927",
+      "37662-3925",
+      "37662-3921",
+      "37662-3922",
+      "37662-3926"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "POTASSIUM FLUORIDE"
+    ],
+    "spl_id": [
+      "055aa7ce-89e6-cd78-e063-6394a90a7da6"
+    ],
+    "spl_set_id": [
+      "055aa7ce-89e5-cd78-e063-6394a90a7da6"
+    ],
+    "package_ndc": [
+      "37662-3923-1",
+      "37662-3923-2",
+      "37662-3923-3",
+      "37662-3923-4",
+      "37662-3924-1",
+      "37662-3924-2",
+      "37662-3924-3",
+      "37662-3924-4",
+      "37662-3927-1",
+      "37662-3925-1",
+      "37662-3925-2",
+      "37662-3925-3",
+      "37662-3925-4",
+      "37662-3921-1",
+      "37662-3921-2",
+      "37662-3921-3",
+      "37662-3920-1",
+      "37662-3920-2",
+      "37662-3920-3",
+      "37662-3922-1",
+      "37662-3922-2",
+      "37662-3922-3",
+      "37662-3922-4",
+      "37662-3926-1",
+      "37662-3926-2",
+      "37662-3926-3",
+      "37662-3926-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "9082WG1G3F"
+    ]
+  }
+}

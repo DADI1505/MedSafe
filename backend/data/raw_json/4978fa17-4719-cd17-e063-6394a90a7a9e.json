@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Right Guard X Antiperspirant and Deodorant DrySpray Fragrance Free Right Guard X Antiperspirant and Deodorant DrySpray Fragrance Free CYCLOMETHICONE ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE"
+  ],
+  "dosage_and_administration": [
+    "Dosage & Administration"
+  ],
+  "warnings": [
+    "Warnings"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredient"
+  ],
+  "indications_and_usage": [
+    "Indications & Usage"
+  ],
+  "active_ingredient": [
+    "OTC-Active Ingredient"
+  ],
+  "ask_doctor": [
+    "OTC-Ask Doctor"
+  ],
+  "do_not_use": [
+    "OTC Do N"
+  ],
+  "keep_out_of_reach_of_children": [
+    "OTC Keep out of the reach of children"
+  ],
+  "purpose": [
+    "OTC Purpose"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Label Principal Display Panel"
+  ],
+  "set_id": "05a985e7-cb97-7ff4-e063-6294a90a4308",
+  "id": "4978fa17-4719-cd17-e063-6394a90a7a9e",
+  "effective_time": "20260128",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Right Guard X Antiperspirant and Deodorant DrySpray Fragrance Free"
+    ],
+    "generic_name": [
+      "RIGHT GUARD X ANTIPERSPIRANT AND DEODORANT DRYSPRAY FRAGRANCE FREE"
+    ],
+    "manufacturer_name": [
+      "Thriving Brands LLC"
+    ],
+    "product_ndc": [
+      "82699-005"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM CHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "4978fa17-4719-cd17-e063-6394a90a7a9e"
+    ],
+    "spl_set_id": [
+      "05a985e7-cb97-7ff4-e063-6294a90a4308"
+    ],
+    "package_ndc": [
+      "82699-005-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "HPN8MZW13M"
+    ]
+  }
+}

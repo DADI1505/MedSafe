@@ -1,0 +1,84 @@
+{
+  "spl_product_data_elements": [
+    "Whitening Monofluorophosphate SORBITOL SODIUM HYDROXIDE POTASSIUM SORBATE HYDRATED SILICA SUCRALOSE SORBIC ACID SODIUM MONOFLUOROPHOSPHATE FLUORIDE ION WATER GLYCERIN TITANIUM DIOXIDE SODIUM LAURYL SULFATE COCAMIDOPROPYL BETAINE"
+  ],
+  "active_ingredient": [
+    "Active ingredient Sodium monofluorophosphate 0.76% w/w (0.14% w/v fluoride ion)"
+  ],
+  "purpose": [
+    "Purpose Anticavity"
+  ],
+  "indications_and_usage": [
+    "Uses aids in the prevention of dental cavities"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 2 years of age and older: brush teeth thoroughly, preferably after ach meal or at least twice per day, or as directed by a dentist or doctor. instruct children under 6 years of age in good brushing and rinsing habits (to minimize swallowing). supervise children as necessary until capable of using without supervision. children under 2 years of age: Consult a dentist or doctor."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients glycerin, hydrated silica, water, sorbitol, pentasodium triphosphate, PVP, titanium dioxide, cellulose gum, flavor, cocamidopropyl betaine, sodium lauryl sulfate, potassium sorbate, sorbic acid, potassium acesulfam, sucralose, sodium hydroxide"
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "warnings": [
+    "Warnings Keep out of reach of children under 6 years of age . If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Carton R1"
+  ],
+  "set_id": "0074630f-9d8d-9209-e063-6294a90a4f01",
+  "id": "441eb113-64d9-ceeb-e063-6394a90a2f74",
+  "effective_time": "20251121",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M021"
+    ],
+    "brand_name": [
+      "Whitening"
+    ],
+    "generic_name": [
+      "MONOFLUOROPHOSPHATE"
+    ],
+    "manufacturer_name": [
+      "Target"
+    ],
+    "product_ndc": [
+      "11673-385"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "DENTAL"
+    ],
+    "substance_name": [
+      "SODIUM MONOFLUOROPHOSPHATE"
+    ],
+    "rxcui": [
+      "545626"
+    ],
+    "spl_id": [
+      "441eb113-64d9-ceeb-e063-6394a90a2f74"
+    ],
+    "spl_set_id": [
+      "0074630f-9d8d-9209-e063-6294a90a4f01"
+    ],
+    "package_ndc": [
+      "11673-385-08",
+      "11673-385-09"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0085239929506"
+    ],
+    "unii": [
+      "C810JCZ56Q"
+    ]
+  }
+}

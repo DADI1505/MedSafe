@@ -1,0 +1,97 @@
+{
+  "spl_product_data_elements": [
+    "FOREVER Transfer-proof 24h foundation High perfection Concentrated floral skincare with sunscreen Broad spectrum SPF 15 1.5N OCTISALATE, TITANIUM DIOXIDE WATER METHYL TRIMETHICONE ISODODECANE ALCOHOL BUTYLENE GLYCOL PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE SILICON DIOXIDE DIMETHICONE 2-ETHYLHEXYL ACRYLATE, METHACRYLATE, METHYL METHACRYLATE, OR BUTYL METHACRYLATE/HYDROXYPROPYL DIMETHICONE COPOLYMER (30000-300000 MW) DISTEARDIMONIUM HECTORITE SODIUM MYRISTOYL GLUTAMATE PROPYLENE CARBONATE CHLORPHENESIN ALUMINUM OXIDE STEARIC ACID ALUMINUM HYDROXIDE TROMETHAMINE TOCOPHEROL TROPAEOLUM MAJUS FLOWERING TOP ROSA MULTIFLORA FRUIT 1,2-HEXANEDIOL CAPRYLYL GLYCOL IRIS X GERMANICA NOTHOVAR. FLORENTINA ROOT SODIUM BENZOATE POTASSIUM SORBATE OCTISALATE OCTISALATE TITANIUM DIOXIDE TITANIUM DIOXIDE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information Protect the product in this container from excessive heat and direct sun."
+  ],
+  "active_ingredient": [
+    "Active ingredients Octinoxate 3.50 % Titanium Dioxide 3.76 % Purpose Sunscreen"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent sunburn. If used as directed with other sun protection measures ( ), decreases the risk of skin cancer and early skin aging caused by the sun. see Directions"
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use on damaged or broken skin. When using this product, keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin."
+  ],
+  "when_using": [
+    "When using this product, keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply liberally 15 minutes before sun exposure. Reapply at least every 2 hours. Use a water-resistant sunscreen if swimming or sweating. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures including: Sun Protection Measures. limit time in the sun, especially from 10 a.m. - 2 p.m. wear long-sleeve shirts, pants, hats, and sunglasses. Children under 6 months of age: ask a doctor."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients AQUA (WATER) • METHYL TRIMETHICONE • ISODODECANE • ALCOHOL • BUTYLENE GLYCOL • PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE • SYNTHETIC FLUORPHLOGOPITE • ACRYLATES/POLYTRIMETHYLSILOXYMETHACRYLATE COPOLYMER • SILICA • DIMETHICONE • ACRYLATES/DIMETHICONE COPOLYMER • DISTEARDIMONIUM HECTORITE • POLYGLYCERYL-10 DECAISOSTEARATE • CETYL DIMETHICONE • SODIUM MYRISTOYL GLUTAMATE • PARFUM (FRAGRANCE) • PROPYLENE CARBONATE • CHLORPHENESIN • ALUMINA • STEARIC ACID • ALUMINUM HYDROXIDE • TROMETHAMINE • HYDROLYZED VIOLA TRICOLOR EXTRACT • TOCOPHEROL • TROPAEOLUM MAJUS FLOWER/LEAF/STEM EXTRACT • ROSA MULTIFLORA FRUIT EXTRACT • 1,2-HEXANEDIOL • CAPRYLYL GLYCOL • IRIS FLORENTINA ROOT EXTRACT • SODIUM BENZOATE • POTASSIUM SORBATE. [MAY CONTAIN : CI 77491, CI 77492, CI 77499 (IRON OXIDES), CI 77891 (TITANIUM DIOXIDE)]. N° 15866/Z"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling:30ml 30 ml Label 30 ml Label02",
+    "Package Labeling:20ml 20ml Label",
+    "Package Labeling:2.7ml 2.7ml Label 2.7ml Label02"
+  ],
+  "set_id": "08b0e056-583a-474b-aaaa-ecea05703044",
+  "id": "464ab8d3-fd52-01c9-e063-6294a90aaa7b",
+  "effective_time": "20251219",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "FOREVER Transfer-proof 24h foundation High perfection Concentrated floral skincare with sunscreen Broad spectrum SPF 15 1.5N"
+    ],
+    "generic_name": [
+      "OCTISALATE, TITANIUM DIOXIDE"
+    ],
+    "manufacturer_name": [
+      "Parfums Christian Dior"
+    ],
+    "product_ndc": [
+      "61957-3038"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OCTISALATE",
+      "TITANIUM DIOXIDE"
+    ],
+    "spl_id": [
+      "464ab8d3-fd52-01c9-e063-6294a90aaa7b"
+    ],
+    "spl_set_id": [
+      "08b0e056-583a-474b-aaaa-ecea05703044"
+    ],
+    "package_ndc": [
+      "61957-3038-0",
+      "61957-3038-1",
+      "61957-3038-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "3348901614122",
+      "3348901577519"
+    ],
+    "unii": [
+      "4X49Y0596W",
+      "15FIX9V2JP"
+    ]
+  }
+}

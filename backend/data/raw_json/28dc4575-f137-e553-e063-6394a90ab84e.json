@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Quench and Protect Hydrating SPF30 Zinc dioxide and Titanium dioxide ETHYLHEXYLGLYCERIN WATER ALUMINUM HYDROXIDE PRUNUS PERSICA SEED STEARIC ACID DIMETHICONE CYCLOMETHICONE 6 POLYGLYCERYL-3 POLYDIMETHYLSILOXYETHYL DIMETHICONE (4000 MPA.S) GLYCERIN HEXYL LAURATE RESVERATROL CETYL PEG/PPG-10/1 DIMETHICONE (HLB 4) CETEARYL OLIVATE SODIUM CHLORIDE CAPRYLYL GLYCOL POLYGLYCERYL-4 ISOSTEARATE PANTHENOL TRIETHOXYSILYLETHYL POLYDIMETHYLSILOXYETHYL HEXYL DIMETHICONE DIMETHICONE/PEG-10/15 CROSSPOLYMER HYALURONATE SODIUM HEXYLENE GLYCOL SORBITAN OLIVATE ZINC OXIDE ZINC OXIDE TITANIUM DIOXIDE TITANIUM DIOXIDE ALKYL (C12-15) BENZOATE .ALPHA.-TOCOPHEROL ACETATE CYCLOMETHICONE 7 DIMETHICONE/POLYGLYCERIN-3 CROSSPOLYMER PHENOXYETHANOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: Zinc Oxide - 6.0% Titanium Dioxide 4.7%"
+  ],
+  "purpose": [
+    "Purpose: Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses: Helps prevent sunburn. If used as directed with other sun protection measures, this product decreases the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "warnings": [
+    "Warning: For external use only"
+  ],
+  "do_not_use": [
+    "Do not use on damage or broken skin."
+  ],
+  "when_using": [
+    "When using this product keep out of eye. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children if product is swallowed, get medical help or contact a poison control center right away."
+  ],
+  "dosage_and_administration": [
+    "Direction: Apply liberally 15 minutes before sun exposure. Children under 6 month of age: Ask a doctor Reapply at least every 2 hours. Sun protection measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decreases this risk regularly use a sunscreen with a broad spectrum SPF value of 15 or higher and other sun protection measures including: Limit time in the sun< especially from 10 am – 2.0 pm, Wear long – sleeved shirts, pants, hats and sunglasses."
+  ],
+  "other_safety_information": [
+    "Other Information: Protect the product in this container from excessive heat and direct sun."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENT: Water, Cyclopentasiloxane, C12-15 Alkyl Benzoate, Dimethicone, Cyclohexasiloxane, Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone, Aluminum Hydroxide, Stearic Acid, Glycerin, Cetearyl Olivate,Hexyl Laurate, Sodium Chloride, Pichia/ Resveratrol, Ferment Extract, Sorbitane Olivate, Dimethicone/Polyglycerin -3 Crosspolymer, Polyglyceryl-4 Isostearate, Panthenol, Cetyl PEG/PPG-10/1 Dimethicone, Triethoxysilylethyl Polydimethylsiloxyethyl HexylDimethicone, Dimethicone/PEG-10/15 Crosspolymer, Dimethicone/Venyl Dimethicone, Crosspolymer, Sodium Hyaluronate, Phenoxyethanol, Caprylyl Glycol, Ethylhexylglycerin, Hexylene Glycol, Fragrance, Tocopheryl Acetate."
+  ],
+  "package_label_principal_display_panel": [
+    "Quench and Protect Hydrating SPF 30"
+  ],
+  "set_id": "039e50c1-7b3d-d392-e063-6394a90a4b3c",
+  "id": "28dc4575-f137-e553-e063-6394a90ab84e",
+  "effective_time": "20241209",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Quench and Protect Hydrating SPF30"
+    ],
+    "generic_name": [
+      "ZINC DIOXIDE AND TITANIUM DIOXIDE"
+    ],
+    "manufacturer_name": [
+      "Allure Labs."
+    ],
+    "product_ndc": [
+      "62742-4230"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE",
+      "TITANIUM DIOXIDE"
+    ],
+    "spl_id": [
+      "28dc4575-f137-e553-e063-6394a90ab84e"
+    ],
+    "spl_set_id": [
+      "039e50c1-7b3d-d392-e063-6394a90a4b3c"
+    ],
+    "package_ndc": [
+      "62742-4230-1",
+      "62742-4230-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z",
+      "15FIX9V2JP"
+    ]
+  }
+}

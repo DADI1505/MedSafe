@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "ALPET E3 HAND SANITIZER ISOPROPYL ALCOHOL WATER GLYCERIN ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Active ingredient Isopropanol 76%"
+  ],
+  "purpose": [
+    "Purpose Hand Sanitizer"
+  ],
+  "indications_and_usage": [
+    "Uses sanitizes hands to help reduce bacteria that potentially can cause disease helps to prevent cross-contamination recommended for repeated use helps prevent drying of skin"
+  ],
+  "warnings": [
+    "Warnings For external use only Flammable, keep away from fire or flame When using this product do not use in or near eyes use in a well-ventilated area Stop use and consult a doctor if irritation or redness develop. Keep out of reach of children. If swallowed, seek medical attention or contact Poison Control Center immediately."
+  ],
+  "when_using": [
+    "When using this product do not use in or near eyes use in a well-ventilated area"
+  ],
+  "stop_use": [
+    "Stop use and consult a doctor if irritation or redness develop."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, seek medical attention or contact Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions wet hands thoroughly with spray, covering entire surface of hands, especially the fingernails and cuticles rub hands together until dry"
+  ],
+  "storage_and_handling": [
+    "Other Information store in a cool, dry place below 104 o F (40 o C)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredient Water, glycerin"
+  ],
+  "questions": [
+    "Questions? Contact Best Sanitizers at 888-225-3267 Mon-Fri 9am - 4 pm PST"
+  ],
+  "package_label_principal_display_panel": [
+    "Maximize the Clean BEST SANITIZERS INC. ALPET E3 Hand Sanitizer Spray For Food Industry Professionals Meets all FDA (GRAS) and USDA requirements for food handling Atomized spray for better coverage Enhanced with moisturizers to keep skin soft and healthy Kosher certified and Pareve BEST SANITIZERS INC. Net Contents: container label"
+  ],
+  "set_id": "08055e08-039d-43da-adad-adaf6639fa84",
+  "id": "288ca00d-cbd2-4c6a-e063-6394a90abc90",
+  "effective_time": "20241205",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "ALPET E3 HAND SANITIZER"
+    ],
+    "generic_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Best Sanitizers, Inc."
+    ],
+    "product_ndc": [
+      "59900-122"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "rxcui": [
+      "1044190"
+    ],
+    "spl_id": [
+      "288ca00d-cbd2-4c6a-e063-6394a90abc90"
+    ],
+    "spl_set_id": [
+      "08055e08-039d-43da-adad-adaf6639fa84"
+    ],
+    "package_ndc": [
+      "59900-122-02",
+      "59900-122-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "ND2M416302"
+    ]
+  }
+}

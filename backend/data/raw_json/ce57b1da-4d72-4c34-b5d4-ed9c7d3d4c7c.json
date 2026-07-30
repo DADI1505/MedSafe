@@ -1,0 +1,120 @@
+{
+  "spl_product_data_elements": [
+    "RET Kidney 7005 RET Kidney POPULUS TREMULA FLOWERING TOP POPULUS TREMULA FLOWERING TOP MIMULUS GUTTATUS FLOWERING TOP MIMULUS GUTTATUS FLOWERING TOP PINUS SYLVESTRIS FLOWERING TOP PINUS SYLVESTRIS FLOWERING TOP CALCIUM SULFATE ANHYDROUS CALCIUM CATION POTASSIUM PHOSPHATE, UNSPECIFIED FORM POTASSIUM PHOSPHATE, UNSPECIFIED FORM SILVER NITRATE SILVER CATION GOLD GOLD OYSTER SHELL CALCIUM CARBONATE, CRUDE OYSTER SHELL CALCIUM CARBONATE, CRUDE GRAPHITE GRAPHITE STRYCHNOS IGNATII SEED STRYCHNOS IGNATII SEED LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE PHOSPHORUS PHOSPHORUS SEPIA OFFICINALIS JUICE SEPIA OFFICINALIS JUICE ALCOHOL WATER"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS Aspen flower essence 3X Mimulus flower essence 3X Pine flower essence 3X Calcarea sulphurica 3X, 6X, 30X Kali phosphoricum 3X, 6X, 30X and all the following at 30X, 100X, 200X: Argentum nitricum Aurum metallicum Calcarea carbonica Graphites Ignatia amara Lycopodium clavatum Phosphorus Sepia"
+  ],
+  "questions": [
+    "QUESTIONS Professional Formulas PO Box 2034 Lake Oswego, OR 97035"
+  ],
+  "indications_and_usage": [
+    "INDICATIONS Temporarily relieves fear, worry, dread, lack of courage, shame, self-reproach, anxiousness, unworthiness, or irritability.*"
+  ],
+  "purpose": [
+    "*Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS In case of overdose, get medical help or contact a poison control center right away. Keep out of the reach of children. If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take 5 drops up to 4 times per day for up to one month. Consult a physician for use in children under 12 years of age."
+  ],
+  "other_safety_information": [
+    "OTHER INFORMATION Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS 20% ethanol, purified water."
+  ],
+  "package_label_principal_display_panel": [
+    "LABEL Est 1985 Professional Formulas Complementary Health RET Kidney Homeopathic Remedy 1 FL. OZ. (29.5 mL) Label image"
+  ],
+  "set_id": "017f4c37-3eec-4078-9ce6-aca52fd4974d",
+  "id": "ce57b1da-4d72-4c34-b5d4-ed9c7d3d4c7c",
+  "effective_time": "20260108",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "RET Kidney 7005"
+    ],
+    "generic_name": [
+      "RET KIDNEY"
+    ],
+    "manufacturer_name": [
+      "Professional Complementary Health Formulas"
+    ],
+    "product_ndc": [
+      "63083-7005"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "POPULUS TREMULA FLOWERING TOP",
+      "MIMULUS GUTTATUS FLOWERING TOP",
+      "PINUS SYLVESTRIS FLOWERING TOP",
+      "CALCIUM SULFATE ANHYDROUS",
+      "POTASSIUM PHOSPHATE, UNSPECIFIED FORM",
+      "SILVER NITRATE",
+      "GOLD",
+      "OYSTER SHELL CALCIUM CARBONATE, CRUDE",
+      "GRAPHITE",
+      "STRYCHNOS IGNATII SEED",
+      "LYCOPODIUM CLAVATUM SPORE",
+      "PHOSPHORUS",
+      "SEPIA OFFICINALIS JUICE"
+    ],
+    "spl_id": [
+      "ce57b1da-4d72-4c34-b5d4-ed9c7d3d4c7c"
+    ],
+    "spl_set_id": [
+      "017f4c37-3eec-4078-9ce6-aca52fd4974d"
+    ],
+    "package_ndc": [
+      "63083-7005-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185508",
+      "N0000175629",
+      "N0000184306",
+      "M0000728"
+    ],
+    "pharm_class_epc": [
+      "Standardized Chemical Allergen [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]"
+    ],
+    "unii": [
+      "5Q01F7TPJJ",
+      "192426I5JU",
+      "2HEM73YI9I",
+      "E934B3V59H",
+      "B7862WZ632",
+      "95IT3W8JZE",
+      "79Y1949PYO",
+      "2E32821G6I",
+      "4QQN74LH4O",
+      "1NM3M2487K",
+      "C88X29Y479",
+      "27YLU75U4W",
+      "QDL83WN8C2"
+    ]
+  }
+}

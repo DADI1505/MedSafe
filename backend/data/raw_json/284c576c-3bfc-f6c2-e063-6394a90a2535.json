@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "DK12 Shower Gel Fresh Energy Benzalkonium Chloride 0.13% ALOE VERA LEAF MENTHOL, UNSPECIFIED FORM SODIUM LAURYL SARCOSINATE SODIUM CHLORIDE MENTHYL LACTATE, (-)- UREA TREHALOSE POLYQUATERNIUM-10 (400 CPS AT 2%) COCAMIDE METHYLCHLOROISOTHIAZOLINONE SODIUM LAURYL SULFATE BENZALKONIUM CHLORIDE BENZALKONIUM WATER GLYCERIN METHYLISOTHIAZOLINONE ANHYDROUS CITRIC ACID D&C GREEN NO. 5 PHENOXYETHANOL HYALURONATE SODIUM PROPYLENE GLYCOL BETULA LENTA BARK POLYSORBATE 80 PENTYLENE GLYCOL SODIUM HYDROXIDE SODIUM LACTATE SODIUM PIDOLATE ANHYDROUS DEXTROSE LINOLEIC ACID OLEIC ACID BUTYLATED HYDROXYTOLUENE ISONONYL ISONONANOATE TRIDECETH-9 VETIVERIA ZIZANIOIDES ROOT CAPRYLYL GLYCOL FRUCTOSE DISODIUM LAURETH SULFOSUCCINATE ALLANTOIN MALTOSE GLYCERETH-26 COCAMIDOPROPYL BETAINE"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Benzalkonium Chloride 0.13%"
+  ],
+  "purpose": [
+    "Purpose Antibacterial"
+  ],
+  "indications_and_usage": [
+    "Uses For washing to decrease bacteria on the skin"
+  ],
+  "warnings": [
+    "Warnings For External Use only. When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Stop use and ask a doctor irritation or redness develops - condition persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "when_using": [
+    "When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor irritation or redness develops - condition persists for more than 72 hours."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "dosage_and_administration": [
+    "Directions Apply to a body sponge on damp skin, rub into a rich lather all over the body, then rinse thoroughly."
+  ],
+  "other_safety_information": [
+    "Other Information Store between 15-30C (59-86F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Aqua, Sodium Lauryl Ether Sulfate, Cocomide MEA, Cocamidopropyl Betaine, Sodium Lauryl Sarcosinate, Fragrance (Parfum), Glycereth-26, Aqua/Pentylene Glycol/Glycerin/Fructose/Urea/Citric Acid/Sodium Hydroxide/Maltose/Sodium PCA/Sodium Chloride/Sodium Lactate/Trehalose/Allantoin/Sodium Hyaluronate/Glucose, Trideceth-9/PEG-5 Isononanoate/Aqua, Aloe Barbadensis Leaf Extract, Sodium Chloride, Menthol/Menthyl Lactate, Polyquaternium-10, Citric Acid, Phenoxyethanol, Methylcloroisothiazolinone/Methylisothiazolinone, Aqua/Betula Lenta Bark Oil/Vetiveria Zizanoides Root Oil/Linoleic Acid/Oleic Acid/Polysorbate 80/Phenoxyethanol/Caprylyl Glycol/BHT, D&C Green No. 5"
+  ],
+  "package_label_principal_display_panel": [
+    "DK12 Shower Gel Fresh Energy label label"
+  ],
+  "set_id": "05e4ff0e-ef63-ef3b-e063-6294a90aa2b8",
+  "id": "284c576c-3bfc-f6c2-e063-6394a90a2535",
+  "effective_time": "20241202",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "DK12 Shower Gel Fresh Energy"
+    ],
+    "generic_name": [
+      "BENZALKONIUM CHLORIDE 0.13%"
+    ],
+    "manufacturer_name": [
+      "Industria La Popular, S.A."
+    ],
+    "product_ndc": [
+      "62476-011"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "rxcui": [
+      "1046593"
+    ],
+    "spl_id": [
+      "284c576c-3bfc-f6c2-e063-6394a90a2535"
+    ],
+    "spl_set_id": [
+      "05e4ff0e-ef63-ef3b-e063-6294a90aa2b8"
+    ],
+    "package_ndc": [
+      "62476-011-16"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "F5UM2KM3W7"
+    ]
+  }
+}

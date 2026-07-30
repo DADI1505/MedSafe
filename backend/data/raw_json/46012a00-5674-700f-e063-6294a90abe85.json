@@ -1,0 +1,78 @@
+{
+  "spl_product_data_elements": [
+    "Crash Cream White Petrolatum CANDELILLA WAX MICROCRYSTALLINE WAX MEDIUM-CHAIN TRIGLYCERIDES WHITE PETROLATUM WHITE PETROLATUM ISOSTEARYL ISOSTEARATE ENOXOLONE TOCOPHEROL C10-30 CHOLESTEROL/LANOSTEROL ESTERS CERAMIDE NP COCO-CAPRYLATE PHYTOSPHINGOSINE PARAFFIN"
+  ],
+  "active_ingredient": [
+    "Active Ingredient White Petrolatum USP (50%)"
+  ],
+  "purpose": [
+    "Purpose Skin Protectant Uses temporarily protects minor: cuts, scrapes, burns helps relieve, prevent and temporarily protect chaged, chapped or cracked skin"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "indications_and_usage": [
+    "Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days"
+  ],
+  "warnings": [
+    "Warnings When using this product do not get into eyes Do not use on deep or punctured wounds animal bites serious burns"
+  ],
+  "dosage_and_administration": [
+    "Directions for cuts, scrapes, and bums Clean affected area with soap and water apply frequently enoughto infected areas to prevent a scab from forming"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Caprylic/Capric Triglyceride, Coco-Caprylate, Hydrogenated Microcrystalline Wax, Paraffin, Euphorbia Cerifera (Candelilla) Wax, Isostearyl Isostearate, C10-30 Cholersterol/Lanosterol Esters, Glycyrhetinic Acid, Phytosphingosine, Ceramide NP, Tocopherol"
+  ],
+  "package_label_principal_display_panel": [
+    "Crash Cream Ointment No Sting Advanced Skin Protection Net Wt 1.7oz (50g) Crash Cream"
+  ],
+  "set_id": "01580e8e-93f3-afeb-e063-6294a90a6cbc",
+  "id": "46012a00-5674-700f-e063-6294a90abe85",
+  "effective_time": "20251215",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Crash Cream"
+    ],
+    "generic_name": [
+      "WHITE PETROLATUM"
+    ],
+    "manufacturer_name": [
+      "Claridei Laboratories"
+    ],
+    "product_ndc": [
+      "61387-251"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "WHITE PETROLATUM"
+    ],
+    "rxcui": [
+      "1049075"
+    ],
+    "spl_id": [
+      "46012a00-5674-700f-e063-6294a90abe85"
+    ],
+    "spl_set_id": [
+      "01580e8e-93f3-afeb-e063-6294a90a6cbc"
+    ],
+    "package_ndc": [
+      "61387-251-01",
+      "61387-251-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "B6E5W8RQJ4"
+    ]
+  }
+}

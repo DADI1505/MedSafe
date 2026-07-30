@@ -1,0 +1,87 @@
+{
+  "spl_product_data_elements": [
+    "Omega-Boost Sheer Mineral Sunscreen Mineral Sunscreen ZINC OXIDE ZINC OXIDE ISOSTEARIC ACID CASTOR OIL CANDELILLA WAX HYDROGENATED CASTOR OIL ROSA MOSCHATA OIL AVOCADO OIL COCO-CAPRYLATE/CAPRATE MEDIUM-CHAIN TRIGLYCERIDES .ALPHA.-TOCOPHEROL ACETATE COCONUT OIL POLYGLYCERYL-3 PENTARICINOLEATE"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Active Ingredient: Zinc Oxide"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent sunburn If used as directed with other sun protection measures (see Directions) decreases risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use on damaged or broken skin When using this product [bullet] keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if [bullet] rash or irritation develops and lasts. Keep out of reach of children, If product is swallowed, get medical help or contact poison control centre right away. To ensure compatibility, we recommend patch testing before first use. In the unlikely event of a negative reaction, discontinue use and consult your medical practitioner."
+  ],
+  "do_not_use": [
+    "Do not use Do not use on damaged or broken skin"
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If product is swallowed, get medical help or contact Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply generously 15 minutes before sun exposure” Reapply [bullet] after 80 minutes of swimming or sweating [bullet] immediately after towel drying [bullet] at least every 2 hours Children under 6 months of age: Ask a doctor Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including:  limit time in the sun, especially from 10 a.m. - 2 p.m.  wear long-sleeved shirts, pants, hats, and sunglasses"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Coco-caprylate/caprate, polyglyceryl-3 polyricinoleate, Isostearic acid, Castor oil, Caprilic/capric triglyceride, Coconut oil, Candellila wax, Hydrogenated castor oil, Tocopherol acetate, Rosehip oil, Avocado oil, Fragrance"
+  ],
+  "other_safety_information": [
+    "Other Information Protect the product in this container from excessive heat and direct sun. Store below 30 degrees celcius."
+  ],
+  "purpose": [
+    "Uses Helps prevent sunburn."
+  ],
+  "package_label_principal_display_panel": [
+    "Trilogy SPF 60+ Omega-Boost Sheer Mineral Sunscreen NDC 83105-2001-0 Secondary pacakaging NDC 83105-2001-1 75 mL / 2.5 fl oz Principal Display Panel: Secondary Flat Front Outer Package",
+    "Inner Container Label NDC 83105-2001-1 75 mL Primary Container Label Inner tube label",
+    "Sample Size Package 83105-2001-2 5 mL Sample size"
+  ],
+  "set_id": "0405b7a6-6885-ed93-e063-6294a90a9386",
+  "id": "4515290c-6219-f9d9-e063-6294a90aacdc",
+  "effective_time": "20251203",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Omega-Boost Sheer Mineral Sunscreen"
+    ],
+    "generic_name": [
+      "MINERAL SUNSCREEN"
+    ],
+    "manufacturer_name": [
+      "Trilogy Natural Products Limited"
+    ],
+    "product_ndc": [
+      "83105-2001"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "4515290c-6219-f9d9-e063-6294a90aacdc"
+    ],
+    "spl_set_id": [
+      "0405b7a6-6885-ed93-e063-6294a90a9386"
+    ],
+    "package_ndc": [
+      "83105-2001-1",
+      "83105-2001-0",
+      "83105-2001-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

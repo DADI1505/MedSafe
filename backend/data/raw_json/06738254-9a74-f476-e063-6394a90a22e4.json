@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Silicium Metallicum Silicium Metallicum SILICON SILICON SUCROSE Silicium Metallicum Silicium Metallicum SILICON SILICON SUCROSE Silicium Metallicum Silicium Metallicum SILICON SILICON SUCROSE Silicium Metallicum Silicium Metallicum SILICON SILICON SUCROSE Silicium Metallicum Silicium Metallicum SILICON SILICON SUCROSE Silicium Metallicum Silicium Metallicum SILICON SILICON SUCROSE Silicium Metallicum Silicium Metallicum SILICON SILICON SUCROSE Silicium Metallicum Silicium Metallicum SILICON SILICON SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Silicium Metallicum 6C 5g Silicium Metallicum 6C 30g Silicium Metallicum 6C 100g Silicium Metallicum 12C 5g Silicium Metallicum 12C 30g Silicium Metallicum 12C 100g Silicium Metallicum 30C 1g Silicium Metallicum 30C 5g Silicium Metallicum 30C 30g Silicium Metallicum 30C 100g Silicium Metallicum 100C 1g Silicium Metallicum 100C 5g Silicium Metallicum 100C 30g Silicium Metallicum 100C 100g Silicium Metallicum 200C 1g Silicium Metallicum 200C 5g Silicium Metallicum 200C 30g Silicium Metallicum 200C 100g Silicium Metallicum 500C 1g Silicium Metallicum 500C 5g Silicium Metallicum 500C 30g Silicium Metallicum 500C 100g Silicium Metallicum 1M 1g Silicium Metallicum 1M 5g Silicium Metallicum 1M 30g Silicium Metallicum 1M 100g Silicium Metallicum LM1 30g"
+  ],
+  "set_id": "06738254-9a73-f476-e063-6394a90a22e4",
+  "id": "06738254-9a74-f476-e063-6394a90a22e4",
+  "effective_time": "20230928",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Silicium Metallicum"
+    ],
+    "generic_name": [
+      "SILICIUM METALLICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-4039",
+      "37662-4043",
+      "37662-4044",
+      "37662-4040",
+      "37662-4041",
+      "37662-4045",
+      "37662-4042",
+      "37662-4046"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SILICON"
+    ],
+    "spl_id": [
+      "06738254-9a74-f476-e063-6394a90a22e4"
+    ],
+    "spl_set_id": [
+      "06738254-9a73-f476-e063-6394a90a22e4"
+    ],
+    "package_ndc": [
+      "37662-4043-1",
+      "37662-4043-2",
+      "37662-4043-3",
+      "37662-4043-4",
+      "37662-4044-1",
+      "37662-4044-2",
+      "37662-4044-3",
+      "37662-4044-4",
+      "37662-4040-1",
+      "37662-4040-2",
+      "37662-4040-3",
+      "37662-4041-1",
+      "37662-4041-2",
+      "37662-4041-3",
+      "37662-4041-4",
+      "37662-4045-1",
+      "37662-4045-2",
+      "37662-4045-3",
+      "37662-4045-4",
+      "37662-4039-1",
+      "37662-4039-2",
+      "37662-4039-3",
+      "37662-4042-1",
+      "37662-4042-2",
+      "37662-4042-3",
+      "37662-4042-4",
+      "37662-4046-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "Z4152N8IUI"
+    ]
+  }
+}

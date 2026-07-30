@@ -1,0 +1,97 @@
+{
+  "spl_product_data_elements": [
+    "Medicasp Anti-Dandruff COAL TAR COAL TAR COAL TAR water SODIUM LAURETH-3 SULFATE cocamidopropyl betaine COCO MONOETHANOLAMIDE laureth-4 polysorbate 20"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Distributed by Genomma Lab USA Inc. Houston, TX 77098"
+  ],
+  "active_ingredient": [
+    "Active ingredient Solubilized Coal Tar Extract 2.7% (Coal Tar, 0.5%)"
+  ],
+  "purpose": [
+    "Purpose Anti-dandruff"
+  ],
+  "indications_and_usage": [
+    "Use controls the symptoms of dandruff seborrheic dermatitis psoriasis"
+  ],
+  "warnings": [
+    "Warnings For external use only Ask a doctor before use if you have a condition which covers a large part of the body. When using this product do not get into eyes. If contact occurs, rinse eyes thoroughly with water. use caution in exposing skin to sunlight after applying this product. It may increase your tendency to sunburn for up to 24 hours after application. do not use for prolonged periods without consulting a doctor do not use with other forms of psoriasis therapy such as ultra violet radiation or prescription drugs unless directed to do so by a doctor. Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have a condition which covers a large part of the body."
+  ],
+  "when_using": [
+    "When using this product do not get into eyes. If contact occurs, rinse eyes thoroughly with water. use caution in exposing skin to sunlight after applying this product. It may increase your tendency to sunburn for up to 24 hours after application. do not use for prolonged periods without consulting a doctor do not use with other forms of psoriasis therapy such as ultra violet radiation or prescription drugs unless directed to do so by a doctor."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions wet hair thoroughly apply the shampoo into the scalp and massage lather and leave on hair and scalp for several minutes rinse and repeat for best results use at least twice a week or as directed by a doctor."
+  ],
+  "storage_and_handling": [
+    "Other information store away from direct sunlight in rare instances, discoloration of gray, blonde, bleached or tinted hair may occur."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water, sodium laureth sulfate, cocamidopropyl betaine, cocamide MEA, laureth-4, polysorbate 20, fragrance, tetrasodium EDTA, benzyl alcohol and dehydroacetic acid, beta vulgaris (beet) root extract, brassica oleracea (cabbage) leaf extract, bixa orellana (annatto) seed extract, citric acid, caramel color."
+  ],
+  "questions": [
+    "Questions? Call toll free 1-877-994-3666 Monday to Friday 8am to 6pm, Central time"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 177 ml Bottle Carton ANTI-DANDRUFF SHAMPOO Medicasp ® COAL TAR 0.5% FIGHTS DANDRUFF AND ITS SYMPTOMS CONTROLS THE SYMPTOMS OF: PSORIASIS / DANDRUFF SEBORRHEIC DERMATITIS ALLEVIATES SCALP IRRITATION AND ITCHING STARTING WITH FIRST USE 6 FL OZ (177 ml) Principal Display Panel - 177 ml Bottle Carton"
+  ],
+  "set_id": "07bc9cab-4215-4bc0-9104-e6cf85d74b68",
+  "id": "f59c3b9a-dfb4-4621-8874-70c591ce61ee",
+  "effective_time": "20251204",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M032"
+    ],
+    "brand_name": [
+      "Medicasp Anti-Dandruff"
+    ],
+    "generic_name": [
+      "COAL TAR"
+    ],
+    "manufacturer_name": [
+      "Genomma Lab USA"
+    ],
+    "product_ndc": [
+      "50066-040"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "COAL TAR"
+    ],
+    "rxcui": [
+      "309381",
+      "2610995"
+    ],
+    "spl_id": [
+      "f59c3b9a-dfb4-4621-8874-70c591ce61ee"
+    ],
+    "spl_set_id": [
+      "07bc9cab-4215-4bc0-9104-e6cf85d74b68"
+    ],
+    "package_ndc": [
+      "50066-040-06"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "R533ESO2EC"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "alcohol pad 01 alcohol ALCOHOL ALCOHOL WATER"
+  ],
+  "spl_unclassified_section": [
+    "Drug Fact"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Ethyl alcohol 70% v/v"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Uses for preparation of the skin prior to injection."
+  ],
+  "warnings": [
+    "Warnings For external use only. Flammable, keep away from fire or flame. Do not use with electrocautery procedures. in the eyes. Stop use if irritation and redness develop. If condition persists for more than 72 hours, consult your doctor. Keep out of reach of children if swallowed, get medical help or contact a poison control center right away."
+  ],
+  "do_not_use": [
+    "Do not use with electrocautery procedures. in the eyes."
+  ],
+  "stop_use": [
+    "Stop use if irritation and redness develop. If condition persists for more than 72 hours, consult your doctor."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children if swallowed, get medical help or contact a poison control center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Wipe injection site vigorously and discard."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Purified Water"
+  ],
+  "storage_and_handling": [
+    "other information store at room temperature: 15℃-30℃ (59℉-86℉)"
+  ],
+  "package_label_principal_display_panel": [
+    "82953-012"
+  ],
+  "set_id": "03a6e8d4-535d-b316-e063-6294a90aebf5",
+  "id": "286c6935-ea37-6e0a-e063-6394a90a13c0",
+  "effective_time": "20241204",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "alcohol pad 01"
+    ],
+    "generic_name": [
+      "ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Cosmuses Cosmetics (Ningbo) Co., Ltd."
+    ],
+    "product_ndc": [
+      "82953-012"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "1489307"
+    ],
+    "spl_id": [
+      "286c6935-ea37-6e0a-e063-6394a90a13c0"
+    ],
+    "spl_set_id": [
+      "03a6e8d4-535d-b316-e063-6294a90aebf5"
+    ],
+    "package_ndc": [
+      "82953-012-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

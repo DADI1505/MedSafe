@@ -1,0 +1,74 @@
+{
+  "spl_product_data_elements": [
+    "Sepia Sepia SEPIA OFFICINALIS JUICE SEPIA OFFICINALIS JUICE WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENT: (in each drop): 100% of Sepia 200C."
+  ],
+  "purpose": [
+    "PURPOSE: May temporarily relieve fatigue, hot flashes, and feelings of indifference.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS: If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in a cool, dry place."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Adults and children 5 to 10 drops orally, 1 time daily or as otherwise directed by a health care professional. If symptoms persist for more than 7 days, consult your health care professional. Consult a physician for use in children under 12 years of age."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: May temporarily relieve fatigue, hot flashes, and feelings of indifference.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Demineralized water, 20% Ethanol."
+  ],
+  "questions": [
+    "QUESTIONS: Dist. by Energique, Inc. 201 Apple Blvd. Woodbine, IA 51579 800.868.8078"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: ENERGIQUE SINCE 1987 HOMEOPATHIC REMEDY SEPIA 200C 1 fl. oz. (30 ml) SEPIA 200C"
+  ],
+  "set_id": "02506ea3-276b-452e-8477-ca49b329a3b8",
+  "id": "20916d43-d6d9-4838-b58b-b78d271e0337",
+  "effective_time": "20250429",
+  "version": "5",
+  "openfda": {
+    "brand_name": [
+      "Sepia"
+    ],
+    "generic_name": [
+      "SEPIA"
+    ],
+    "manufacturer_name": [
+      "Energique, Inc."
+    ],
+    "product_ndc": [
+      "44911-0391"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SEPIA OFFICINALIS JUICE"
+    ],
+    "spl_id": [
+      "20916d43-d6d9-4838-b58b-b78d271e0337"
+    ],
+    "spl_set_id": [
+      "02506ea3-276b-452e-8477-ca49b329a3b8"
+    ],
+    "package_ndc": [
+      "44911-0391-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "QDL83WN8C2"
+    ]
+  }
+}

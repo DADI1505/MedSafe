@@ -1,0 +1,100 @@
+{
+  "spl_product_data_elements": [
+    "Hunter Beach 4% Lidocaine LIDOCAINE LIDOCAINE ALOE VERA LEAF SAFFLOWER OIL GLYCERIN CETOSTEARYL ALCOHOL POLYSORBATE 60 MICROCRYSTALLINE CELLULOSE SODIUM ALGINATE GLYCERYL MONOSTEARATE SORBITAN MONOCAPRYLATE PROPANEDIOL BENZOIC ACID CANDELILLA WAX .ALPHA.-TOCOPHEROL ACETATE TROLAMINE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "NEW! Lidocaine Lotion with Aloe Vera Instant Maximum Relief For Severe Sunburns Distributed by Hunters Beach Life, 1707 State Ave., Holly Hill, FL 32117 www.HUNTERBEACH.com Made in the U.S.A."
+  ],
+  "active_ingredient": [
+    "Active ingredient Lidocaine 4%"
+  ],
+  "purpose": [
+    "Purpose Topical Anesthetic"
+  ],
+  "indications_and_usage": [
+    "Uses • Temporary relief of pain and itching • Helps relieve and soothes pain from sunburn, minor burns, skin irritations, scrapes, insect bites"
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use in large quantities, particularly over raw surfaces or areas with blisters. When using this product avoid contact with eyes. Use only as directed. Intentional misuse by deliberate concentrating and inhaling the contents can be harmful or fatal. Stop use and consult a doctor if condition worsens, or symptoms last more than 7 days. Symptoms clear up and occur again within a few days. Keep out of the reach of children . If swallowed get medical help or contact a Poison Control Center right away"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children . If swallowed get medical help or contact a Poison Control Center right away"
+  ],
+  "dosage_and_administration": [
+    "Directions • Adults and children 2 years or older: apply to affected area not more than 3-4 times daily • Children under 2 years of age: do not use, ask a doctor."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Aloe Barbadensis Leaf Juice, Carthamus Tinctorius (Safflower) Seed Oil, Glycerin, Cetearyl Alcohol, Polysorbate 60, Microcrystalline Cellulose, Algin, Glyceryl Stearate, Sorbitan Caprylate, Propanediol, Benzoic Acid, Euphorbia Cerifera (Candelilla) Wax, Tocopheryl Acetate, Fragrance, Triethanolamine"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Lotion"
+  ],
+  "set_id": "05a9605b-0d01-4333-8e54-7202e7c31c49",
+  "id": "9fd5b3ac-8c2a-423d-a342-407fffc36598",
+  "effective_time": "20241218",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Hunter Beach 4%"
+    ],
+    "generic_name": [
+      "LIDOCAINE"
+    ],
+    "manufacturer_name": [
+      "HUNTERS BEACH LIFE"
+    ],
+    "product_ndc": [
+      "82517-001"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "LIDOCAINE"
+    ],
+    "rxcui": [
+      "2599519"
+    ],
+    "spl_id": [
+      "9fd5b3ac-8c2a-423d-a342-407fffc36598"
+    ],
+    "spl_set_id": [
+      "05a9605b-0d01-4333-8e54-7202e7c31c49"
+    ],
+    "package_ndc": [
+      "82517-001-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0850850002743"
+    ],
+    "nui": [
+      "N0000175682",
+      "M0000897",
+      "N0000175426",
+      "N0000175976"
+    ],
+    "pharm_class_epc": [
+      "Amide Local Anesthetic [EPC]",
+      "Antiarrhythmic [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Amides [CS]"
+    ],
+    "pharm_class_pe": [
+      "Local Anesthesia [PE]"
+    ],
+    "unii": [
+      "98PI200987"
+    ]
+  }
+}

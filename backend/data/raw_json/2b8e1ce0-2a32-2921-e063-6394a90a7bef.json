@@ -1,0 +1,84 @@
+{
+  "spl_product_data_elements": [
+    "Signature Care Advanced Hand Sanitizer with Aloe Alcohol WATER PROPYLENE GLYCOL ALOE VERA LEAF AMINOMETHYLPROPANOL GLYCERIN .ALPHA.-TOCOPHEROL ACETATE, D- FD&C BLUE NO. 1 FD&C YELLOW NO. 5 ALCOHOL ALCOHOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Questions? Call 1-888-723-3929"
+  ],
+  "active_ingredient": [
+    "Active ingredient Ethyl Alcohol 70% v/v"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Use To decrease bacteria on the skin that could cause disease. Recommended for repeaed use."
+  ],
+  "warnings": [
+    "Warnings For external use only: hands Flammable. Keep away from heat and flame. When using this product Keep out of eyes. In case of contact with eyes, fllush thoroughly with water. Avoid contact with broken skin. Do not inhale or ingest. Stop use and ask a doctor if skin irritation develops. Other Information Do not store above 105℉. May discolor some fabrics. Harmful to wood finisheds and plastics. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Wet hands thoroughly with product and allow to dry without wiping. For hildren under 6, use only under adult supervision. Not recommended for infants."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water, Glycerin, Aloe Barbadensis Leaf Extract, Propylene Glycol, Fragrance, Tocopheryl Acetate, blue 1, Yellow 5"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging image description"
+  ],
+  "set_id": "0767acba-23ac-4bb3-ac5e-34021650a1d4",
+  "id": "2b8e1ce0-2a32-2921-e063-6394a90a7bef",
+  "effective_time": "20250112",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Signature Care Advanced Hand Sanitizer with Aloe"
+    ],
+    "generic_name": [
+      "ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "ZheJiang Eshine Cosmetic Co Ltd"
+    ],
+    "product_ndc": [
+      "75262-006"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "582753"
+    ],
+    "spl_id": [
+      "2b8e1ce0-2a32-2921-e063-6394a90a7bef"
+    ],
+    "spl_set_id": [
+      "0767acba-23ac-4bb3-ac5e-34021650a1d4"
+    ],
+    "package_ndc": [
+      "75262-006-01",
+      "75262-006-02",
+      "75262-006-03",
+      "75262-006-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

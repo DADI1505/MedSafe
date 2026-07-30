@@ -1,0 +1,82 @@
+{
+  "spl_product_data_elements": [
+    "Mineral Mattescreen SPF 40 - Untinted Titanium Dioxide, Zinc Oxide C9-12 ALKANE HEDYCHIUM CORONARIUM ROOT TOCOPHEROL ZINC OXIDE ZINC OXIDE GLYCERIN WATER METHYL DIHYDROABIETATE COCO-CAPRYLATE/CAPRATE STEARIC ACID TITANIUM DIOXIDE TITANIUM DIOXIDE POLYHYDROXYSTEARIC ACID (2300 MW) SILICON DIOXIDE ETHYLHEXYLGLYCERIN DIMETHICONE MEDIUM-CHAIN TRIGLYCERIDES PROPANEDIOL SCHISANDRA CHINENSIS FRUIT DIMETHICONE CROSSPOLYMER (450000 MPA.S AT 12% IN CYCLOPENTASILOXANE)"
+  ],
+  "active_ingredient": [
+    "Active Ingredients: Titanium Dioxide 1.33%, Zinc Oxide 17.68%"
+  ],
+  "purpose": [
+    "Helps prevent sunburn If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If product is swallowed, get medical help, or contact a poison control center right away."
+  ],
+  "warnings": [
+    "For External use only Do not use on damaged or broken skin When using this product , keep out of eyes. Rinse with water to remove"
+  ],
+  "indications_and_usage": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "dosage_and_administration": [
+    "Directions • Apply generously and evenly as the last step in your skincare routine, before makeup and 15 minutes before sun exposure. • Reapply at least every 2 hours. • Use a water resistant sunscreen if swimming or sweating. • Children under 6 months of age: ask a doctor. • Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: • limit time in the sun, especially from 10 a.m.-2 p.m. • wear long-sleeved shirts, pants, hats, and sunglasses."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: DIMETHICONE, DIMETHICONE CROSSPOLLYMER, CAPRYLIC/CAPRIC TRIGLYCERIDE, METHYL DIHYDROABIETATE, POLYHYDROXYSTEARIC ACID, C9-12 ALKANE, GLYCERIN, ETHYLHEXYLGLYCERIN, WATER (AQUA), COCO-CAPRYLATE/CAPRATE, SILICA, STEARIC ACID, HEDYCHIUM CORONARIUM ROOT EXTRACT, PROPANEDIOL, SCHIZANDRA CHINENSIS FRUIT EXTRACT, TOCOPHEROL"
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Supergoop! Mineral Mattescreen Untinted SPF 40 Broad Spectrum Sunscreen SPF 40 PA +++ _ fl oz / _ mL 15 mL 10 mL 45 mL Primary 45 mL"
+  ],
+  "set_id": "08671d39-3be2-d666-e063-6294a90a6207",
+  "id": "536f483b-00ca-45aa-e063-6294a90a4ffd",
+  "effective_time": "20260604",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Mineral Mattescreen SPF 40 - Untinted"
+    ],
+    "generic_name": [
+      "TITANIUM DIOXIDE, ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Supergoop, LLC"
+    ],
+    "product_ndc": [
+      "75936-666"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE",
+      "TITANIUM DIOXIDE"
+    ],
+    "spl_id": [
+      "536f483b-00ca-45aa-e063-6294a90a4ffd"
+    ],
+    "spl_set_id": [
+      "08671d39-3be2-d666-e063-6294a90a6207"
+    ],
+    "package_ndc": [
+      "75936-666-01",
+      "75936-666-02",
+      "75936-666-03",
+      "75936-666-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z",
+      "15FIX9V2JP"
+    ]
+  }
+}

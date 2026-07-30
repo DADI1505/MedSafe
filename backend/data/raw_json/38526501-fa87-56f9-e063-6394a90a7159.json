@@ -1,0 +1,122 @@
+{
+  "spl_product_data_elements": [
+    "Cepacol Extra Strength Sore Throat honey lemon Benzocaine and Menthol D&C YELLOW NO. 10 FD&C YELLOW NO. 6 ISOMALT MALTITOL PROPYLENE GLYCOL WATER SODIUM BICARBONATE SUCRALOSE BENZOCAINE BENZOCAINE MENTHOL MENTHOL S Honey-Lemon"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Dist. by: Reckitt Benckiser Parsippany, NJ 07054-0224 Made in England"
+  ],
+  "active_ingredient": [
+    "Active ingredients (in each lozenge) Purposes Benzocaine 15 mg Oral pain reliever Menthol 2.6 mg Oral pain reliever"
+  ],
+  "active_ingredient_table": [
+    "<table width=\"80%\"><col align=\"left\" valign=\"top\" width=\"70%\"/><col align=\"right\" valign=\"top\" width=\"30%\"/><thead><tr><th><content styleCode=\"italics\">Active ingredients (in each lozenge)</content></th><th><content styleCode=\"italics\">Purposes</content></th></tr></thead><tbody><tr><td>Benzocaine 15 mg</td><td>Oral pain reliever</td></tr><tr><td>Menthol 2.6 mg</td><td>Oral pain reliever</td></tr></tbody></table>"
+  ],
+  "purpose": [
+    "Active ingredients (in each lozenge) Purposes Benzocaine 15 mg Oral pain reliever Menthol 2.6 mg Oral pain reliever"
+  ],
+  "purpose_table": [
+    "<table width=\"80%\"><col align=\"left\" valign=\"top\" width=\"70%\"/><col align=\"right\" valign=\"top\" width=\"30%\"/><thead><tr><th><content styleCode=\"italics\">Active ingredients (in each lozenge)</content></th><th><content styleCode=\"italics\">Purposes</content></th></tr></thead><tbody><tr><td>Benzocaine 15 mg</td><td>Oral pain reliever</td></tr><tr><td>Menthol 2.6 mg</td><td>Oral pain reliever</td></tr></tbody></table>"
+  ],
+  "indications_and_usage": [
+    "Uses Temporary relief of occasional sore throat sore mouth minor mouth irritation pain associated with canker sores"
+  ],
+  "warnings": [
+    "Warnings METHEMOGLOBINEMIA WARNING Use of this product may cause methemoglobinemia, a rare but serious condition that must be treated promptly because it reduces the amount of oxygen carried in blood. Stop use and seek immediate medical attention if you or a child in your care develops: pale, gray, or blue colored skin (cyanosis) headache rapid heart rate shortness of breath dizziness or lightheadedness fatigue or lack of energy Allergy alert Do not use this product if you have a history of allergy to local anesthetics such as procaine, butacaine, benzocaine, or any other 'caine' anesthetics. Sore throat warning If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Stop use and ask a doctor or dentist if sore mouth symptoms do not improve in 7 days irritation, pain, or redness persists or worsens swelling, rash, or fever develops If pregnant or breast-feeding, ask a health professional before use. Keep this and all drugs out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not exceed recommended dosage."
+  ],
+  "do_not_use": [
+    "Allergy alert Do not use this product if you have a history of allergy to local anesthetics such as procaine, butacaine, benzocaine, or any other 'caine' anesthetics."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor or dentist if sore mouth symptoms do not improve in 7 days irritation, pain, or redness persists or worsens swelling, rash, or fever develops"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep this and all drugs out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 5 years of age and older: allow one lozenge to dissolve slowly in the mouth; may be repeated every 2 hours as needed or as directed by a doctor or dentist. children under 5 years of age: do not use"
+  ],
+  "storage_and_handling": [
+    "Other information store between 20-25°C (68-77°F) protect contents from humidity"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients D&C yellow no. 10, FD&C yellow no. 6, flavors, isomalt, maltitol, propylene glycol, purified water, sodium bicarbonate, sucralose"
+  ],
+  "questions": [
+    "Questions? Call 1-866-682-4639 You may also report side effects to this phone number."
+  ],
+  "package_label_principal_display_panel": [
+    "CEPACOL EXTRA STRENGTH SORE THROAT HONEY LEMON (BENZOCAINE AND MENTHOL) LOZENGE 1"
+  ],
+  "set_id": "08160ced-e19b-443e-ab16-0d3e4ae8a8ab",
+  "id": "38526501-fa87-56f9-e063-6394a90a7159",
+  "effective_time": "20250624",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "M"
+    ],
+    "brand_name": [
+      "Cepacol Extra Strength Sore Throat honey lemon"
+    ],
+    "generic_name": [
+      "BENZOCAINE AND MENTHOL"
+    ],
+    "manufacturer_name": [
+      "ATLANTIC BIOLOGICALS CORP."
+    ],
+    "product_ndc": [
+      "17856-0732"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BENZOCAINE",
+      "MENTHOL"
+    ],
+    "rxcui": [
+      "858664",
+      "1235472"
+    ],
+    "spl_id": [
+      "38526501-fa87-56f9-e063-6394a90a7159"
+    ],
+    "spl_set_id": [
+      "08160ced-e19b-443e-ab16-0d3e4ae8a8ab"
+    ],
+    "package_ndc": [
+      "17856-0732-2",
+      "17856-0732-1"
+    ],
+    "original_packager_product_ndc": [
+      "63824-732"
+    ],
+    "nui": [
+      "N0000185508",
+      "N0000175629",
+      "N0000184306",
+      "M0000728"
+    ],
+    "pharm_class_epc": [
+      "Standardized Chemical Allergen [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]"
+    ],
+    "unii": [
+      "U3RSY48JW5",
+      "L7T10EIP3A"
+    ]
+  }
+}

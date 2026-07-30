@@ -1,0 +1,82 @@
+{
+  "spl_product_data_elements": [
+    "Medicated Foaming Feminine LACTIC ACID, BORIC ACID, CHLORHEXIDINE GLUCONATE, CNIDIUM MONNIERI FRUIT, LEVOMENOL WATER COCAMIDOPROPYL BETAINE SODIUM LAURYL GLYCOL CARBOXYLATE LAURYL GLUCOSIDE XANTHAN GUM SODIUM BENZOATE CITRIC ACID ALLANTOIN PANTHENOL ALOE VERA LEAF TOCOPHEROL ETHYLHEXYLGLYCERIN GLYCERIN LACTIC ACID LACTIC ACID BORIC ACID BORIC ACID CHLORHEXIDINE GLUCONATE CHLORHEXIDINE CNIDIUM MONNIERI FRUIT OIL CNIDIUM MONNIERI FRUIT OIL LEVOMENOL BISABOLOL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Purpose ● Lactic Acid 0.5%: Maintains natural pH levels, fostering a healthy environment to prevent irritation and infections. ● Boric Acid 0.5%: Restores and stabilizes acidic pH levels, effectively preventing yeast infections. ● Chlorhexidine Digluconate 1%: Offers potent antibacterial protection, reducing the risk of bacterial infections without disrupting the vaginal flora. ● Cnidium Monnieri Fruit Extract 0.5%: Provides anti-inflammatory properties, soothing the skin and reducing any potential irritation. ● Bisabolol 0.3%: Calms and soothes the skin, reducing redness and providing a gentle, comforting effect upon application."
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    "Uses ● Antimicrobial action: Effectively targets and eliminates harmful bacteria to maintain natural balance. ● UTI Defense: Actively helps to prevent urinary tract infections. ● Odor Control: Neutralizes odors, leaving you feeling fresh and clean."
+  ],
+  "warnings": [
+    "Warnings ● For external use only. ● Do not use: ○ On broken or punctured wounds. ○ On animal bites. ○ On serious burns. ● When using this product: ○ Avoid contact with eyes. If contact occurs, rinse thoroughly with water. ○ Do not apply large amounts to the body. ● Stop use and ask a doctor if: ○ Irritation or redness develops. ○ Condition worsens or does not improve within 7 days."
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "dosage_and_administration": [
+    "Directions ● Wet the area: Begin by splashing water on the external vaginal area or take this step while in the shower or bath to ensure the area is moist. ● Apply the wash: Pump a small amount of the foam onto your hand. The foam should be rich and airy. Typically, two pumps are sufficient. ● Gentle Cleansing: Gently apply foam to the delicate areas. Use your hand to spread the foam, covering the entire area with gentle, circular motions. Avoid using sponges or washcloths, as they can be too abrasive. ● Rinse thoroughly: After cleansing, rinse thoroughly with warm water. Ensure all traces of the wash are removed to avoid irritation. ● Pat dry: Gently pat the area with a clean towel. Avoid rubbing, as this may cause irritation. It's important to ensure the area is completely dry before dressing to prevent moisture buildup, which can lead to irritation or infections."
+  ],
+  "spl_unclassified_section": [
+    "Other Information ● Lot number and expiration date: See packaging for details. ● Keep out of reach of children. If swallowed, call a poison control center right away. ● Store at room temperature. Keep the bottle tightly closed. Avoid direct sunlight and excessive heat to maintain product integrity."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water (Aqua), Glycerin, Cocamidopropyl Betaine, Sodium Lauryl Glucose Carboxylate, Lauryl Glucoside, Xanthan Gum, Sodium Benzoate Citric Acid, Allantoin, Panthenol, Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Ethylhexylglycerin"
+  ],
+  "package_label_principal_display_panel": [
+    "Product label image description"
+  ],
+  "set_id": "02b3d683-05b0-4075-bbf9-e6d97c61765c",
+  "id": "2fae9a9c-1b17-5954-e063-6394a90ac2ed",
+  "effective_time": "20250306",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Medicated Foaming Feminine"
+    ],
+    "generic_name": [
+      "LACTIC ACID, BORIC ACID, CHLORHEXIDINE GLUCONATE, CNIDIUM MONNIERI FRUIT, LEVOMENOL"
+    ],
+    "manufacturer_name": [
+      "Rida LLC"
+    ],
+    "product_ndc": [
+      "83004-015"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "LACTIC ACID",
+      "BORIC ACID",
+      "CHLORHEXIDINE GLUCONATE",
+      "CNIDIUM MONNIERI FRUIT OIL",
+      "LEVOMENOL"
+    ],
+    "spl_id": [
+      "2fae9a9c-1b17-5954-e063-6394a90ac2ed"
+    ],
+    "spl_set_id": [
+      "02b3d683-05b0-4075-bbf9-e6d97c61765c"
+    ],
+    "package_ndc": [
+      "83004-015-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "33X04XA5AT",
+      "R57ZHV85D4",
+      "MOR84MUD8E",
+      "JK0MS9P8YL",
+      "24WE03BX2T"
+    ]
+  }
+}

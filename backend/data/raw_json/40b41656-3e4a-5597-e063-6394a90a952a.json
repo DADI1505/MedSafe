@@ -1,0 +1,97 @@
+{
+  "spl_product_data_elements": [
+    "MediChoice Moisturizing Lip Balm SPF15 AVOBENZONE, OCTINOXATE, OCTISALATE, OCTOCRYLENE PETROLATUM MINERAL OIL PARAFFIN CERESIN COCONUT OIL TOCOPHEROL SOYBEAN OIL AVOBENZONE AVOBENZONE OCTINOXATE OCTINOXATE OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other Information Protect this product from excessive heat and direct sun."
+  ],
+  "active_ingredient": [
+    "Active Ingredients: Avobenzone 3.0% Octinoxate 6.5% Octisalate 5.0% Octocrylene 1.5% Purpose Sunscreen"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent sunburn"
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use on damaged or broken skin Stop use and ask a doctor if rash occurs When using this product keep out of eyes. Rinse with water to remove. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply liberally 15 minutes before sun exposure Use a water resistant sunscreen if swimming or sweating Reapply at least every 2 hours Children under 6 months of age: Ask a doctor Sun Protection Measures Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10a.m.-2p.m. wear long sleeved shirts, pants hats, and sunglasses."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Petrolatum, Mineral Oil, Paraffin Wax, Ozokerite Wax, Coconut Oil, Tocopherol, Soybean Oil."
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling:39892-0940-1 Label0",
+    "Package Labeling:39892-0940-2 Label02",
+    "Package Labeling:39892-0940-3 Label03"
+  ],
+  "set_id": "00327815-28f0-4198-bca7-c8ae768ff416",
+  "id": "40b41656-3e4a-5597-e063-6394a90a952a",
+  "effective_time": "20251009",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "MediChoice Moisturizing Lip Balm SPF15"
+    ],
+    "generic_name": [
+      "AVOBENZONE, OCTINOXATE, OCTISALATE, OCTOCRYLENE"
+    ],
+    "manufacturer_name": [
+      "O&M HALYARD, INC."
+    ],
+    "product_ndc": [
+      "39892-0940"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "AVOBENZONE",
+      "OCTINOXATE",
+      "OCTISALATE",
+      "OCTOCRYLENE"
+    ],
+    "spl_id": [
+      "40b41656-3e4a-5597-e063-6394a90a952a"
+    ],
+    "spl_set_id": [
+      "00327815-28f0-4198-bca7-c8ae768ff416"
+    ],
+    "package_ndc": [
+      "39892-0940-1",
+      "39892-0940-2",
+      "39892-0940-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "G63QQF2NOX",
+      "4Y5P7MUD51",
+      "4X49Y0596W",
+      "5A68WGF6WM"
+    ]
+  }
+}

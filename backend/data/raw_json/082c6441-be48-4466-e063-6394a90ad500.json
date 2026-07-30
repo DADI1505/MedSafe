@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Tricalm Hydrogel Aluminum acetate BUTYLENE GLYCOL GLYCINE HEXYLENE GLYCOL PHENOXYETHANOL ALUMINUM ACETATE ALUMINUM CATION CAPRYLYL GLYCOL DEHYDROACETIC ACID ETHYLHEXYLGLYCERIN MALIC ACID STRONTIUM CHLORIDE HEXAHYDRATE WATER XANTHAN GUM"
+  ],
+  "active_ingredient": [
+    "Aluminum acetate 0.2%"
+  ],
+  "purpose": [
+    "Astringent"
+  ],
+  "indications_and_usage": [
+    "For the temporary relief of minor skin irritations due to: poison ivy poison oak poison sumac insect bites rashes caused by soaps, detergents, cosmetics, or jewelry athlete's foot"
+  ],
+  "warnings": [
+    "For external use only. When using this product avoid contact with eyes; if contact occurs, rinse thoroughly with water Stop use and ask a doctor if condition worsens or symptoms last for more than 7 days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "adults and children two years of age and older, apply to affected areas as needed or as directed by a physician consult a physician for children under the age of two"
+  ],
+  "inactive_ingredient": [
+    "butylene glycol, caprylyl glycol, dehydroacetic acid, ethylhexylglycerin, glycine, hexylene glycol, malic acid, phenoxyethanol, strontium chloride hexahydrate, water, xanthan gum"
+  ],
+  "package_label_principal_display_panel": [
+    "Carton"
+  ],
+  "set_id": "082c6441-be47-4466-e063-6394a90ad500",
+  "id": "082c6441-be48-4466-e063-6394a90ad500",
+  "effective_time": "20231020",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Tricalm Hydrogel"
+    ],
+    "generic_name": [
+      "ALUMINUM ACETATE"
+    ],
+    "manufacturer_name": [
+      "MODULAR THERMAL TECHNOLOGIES LLC DBA LIFE WEAR TECHNOLOGIES"
+    ],
+    "product_ndc": [
+      "71207-221"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM ACETATE"
+    ],
+    "rxcui": [
+      "1594642"
+    ],
+    "spl_id": [
+      "082c6441-be48-4466-e063-6394a90ad500"
+    ],
+    "spl_set_id": [
+      "082c6441-be47-4466-e063-6394a90ad500"
+    ],
+    "package_ndc": [
+      "71207-221-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0851730003003"
+    ],
+    "unii": [
+      "80EHD8I43D"
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "spl_product_data_elements": [
+    "Signature Care Lubricant Eye Drops Long Lasting Polyethylene glycol 400, propylene glycol POLYETHYLENE GLYCOL 400 POLYETHYLENE GLYCOL 400 BENZALKONIUM CHLORIDE BORIC ACID CALCIUM CHLORIDE MAGNESIUM CHLORIDE POTASSIUM CHLORIDE SODIUM BORATE SODIUM CHLORIDE ZINC CHLORIDE PROPYLENE GLYCOL PROPYLENE GLYCOL WATER HYPROMELLOSES"
+  ],
+  "active_ingredient": [
+    "Active ingredients polyethylene glycol 400 0.4% propylene glycol 0.3%"
+  ],
+  "purpose": [
+    "Purpose Lubricant Lubricant"
+  ],
+  "indications_and_usage": [
+    "Uses for the temporary relief of burning and irritation due to dryness of the eye"
+  ],
+  "warnings": [
+    "Warnings for external use only Do not use if this product changes color or becomes cloudy if you are sensitive to any ingredient in this product When using this product do not touch tip of container to any surface to avoid contamination replace cap after each use Stop use and ask a doctor if you feel eye pain changes in vision occur redness or irritation of the eye(s), gets worse or lasts more than 72 hours Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "do_not_use": [
+    "Do not use if this product changes color or becomes cloudy if you are sensitive to any ingredient in this product"
+  ],
+  "when_using": [
+    "When using this product do not touch tip of container to any surface to avoid contamination replace cap after each use"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if you feel eye pain changes in vision occur redness or irritation of the eye(s), gets worse or lasts more than 72 hours"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "dosage_and_administration": [
+    "Directions Instill 1 or 2 drops in the affected eye(s) as needed. Children under 6 years of age: ask a doctor"
+  ],
+  "other_safety_information": [
+    "Other information RETAIN THIS CARTON FOR FUTURE REFERENCE Store at room temperature"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Benzalkonium chloride as preservative, boric acid, calcium chloride, hypromellose, magnesium chloride, potassium chloride, purified water, sodium borate, sodium chloride, zinc chloride."
+  ],
+  "package_label_principal_display_panel": [
+    "Signature Care Lubricant Eye Drops Long Lasting 15mL Signature Care Lubricant Eye Drops Long Lasting 15mL"
+  ],
+  "set_id": "05a63929-fccd-2936-e063-6294a90aeac5",
+  "id": "0d38a141-af14-a727-e063-6294a90a716c",
+  "effective_time": "20231223",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M018"
+    ],
+    "brand_name": [
+      "Signature Care Lubricant Eye Drops Long Lasting"
+    ],
+    "generic_name": [
+      "POLYETHYLENE GLYCOL 400, PROPYLENE GLYCOL"
+    ],
+    "manufacturer_name": [
+      "Better Living Brands, LLC"
+    ],
+    "product_ndc": [
+      "21130-756"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "POLYETHYLENE GLYCOL 400",
+      "PROPYLENE GLYCOL"
+    ],
+    "rxcui": [
+      "477589"
+    ],
+    "spl_id": [
+      "0d38a141-af14-a727-e063-6294a90a716c"
+    ],
+    "spl_set_id": [
+      "05a63929-fccd-2936-e063-6294a90aeac5"
+    ],
+    "package_ndc": [
+      "21130-756-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0021130701025"
+    ],
+    "unii": [
+      "B697894SGQ",
+      "6DC9Q167V3"
+    ]
+  }
+}

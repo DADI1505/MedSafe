@@ -1,0 +1,85 @@
+{
+  "spl_product_data_elements": [
+    "Satinique Anti Dandruff Scalp and Hair SALICYLIC ACID WATER SODIUM C14-16 OLEFIN SULFONATE COCAMIDOPROPYL BETAINE COCAMIDOPROPYL HYDROXYSULTAINE SODIUM CHLORIDE CETYL ALCOHOL GLYCERIN SODIUM BENZOATE SODIUM LAUROYL SARCOSINATE BENZYL ALCOHOL SODIUM HYDROXIDE GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE MEDIUM-CHAIN TRIGLYCERIDES LAURIC ACID EDETATE SODIUM CREATINE XANTHAN GUM ETHYLHEXYLGLYCERIN PHENOXYETHANOL BUTYLENE GLYCOL GLYCERETH-26 C11-15 PARETH-40 TOCOPHEROL C11-15 ALKETH-7 GINGER SUNFLOWER OIL CHENOPODIUM QUINOA SEED ARGAN OIL POLOXAMER 331 MYRISTIC ACID PPG-12-BUTETH-16 HYALURONATE SODIUM CERAMIDE NP PROPYLENE GLYCOL PHYTOSPHINGOSINE .BETA.-SITOSTEROL CHLORPHENESIN POTASSIUM SORBATE .BETA.-CITRONELLOL, (R)- GERANIOL .ALPHA.-HEXYLCINNAMALDEHYDE LIMONENE, (+)- LINALOOL, (+/-)- SALICYLIC ACID SALICYLIC ACID"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Salicylic Acid 2.0% Purpose Anti-Dandruff"
+  ],
+  "purpose": [
+    "Purpose Anti-Dandruff"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent recurrence of scalp itching, flaking, and scaling associated with dandruff."
+  ],
+  "warnings": [
+    "Warnings For external use only Avoid contact with the eyes. If contact occurs, rinse eyes thoroughly with water. If condition worsens or does not improve after regular use of this product as directed, consult a doctor. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Wet hair Apply shampoo and work into a lather Rinse thoroughly For best results, use at least twice a week or as directed by a doctor."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients: Water, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Cocamidopropyl Hydroxysultaine, Sodium Chloride, Cetyl Alcohol, Acrylates Copolymer, Fragrance, Glycerin, Sodium Benzoate, Sodium Lauroyl Sarcosinate, Benzyl Alcohol, Sodium Hydroxide, Guar Hydroxypropyltrimonium Chloride, Polystyrene, Caprylic/-Capric Triglyceride, Lauric Acid, Tetrasodium EDTA, Polyquaternium-39, Creatine, Xanthan Gum, Ethylhexyglycerin, Phenoxyethanol, Butylene Glycol, Glycereth- 26, C11-15 Pareth-40, Tocopherol, Lecithin, C11-15 Alketh-7, Zingiber Officinale (Ginger) Root Extract, Helianthus Annuus (Sunflower) Seed Oil, Chenopodium Quinoa Seed Extract, Argania Spinosa Kernel Oil, Poloxamer 331, Hydrolyzed Adansonia Digitata Seed Extract, Myristic Acid, PPG-12-Buteth-16, Sodium Hyaluronate, Ceramide NP, Propylene Glycol, Phytosphingosine, Beta- Sitosterol, Chlorphenesin, Hydrogenated Lecithin, Potassium Sorbate, Citronellol, Geraniol, Hexyl Cinnamal, Limonene, Linalool"
+  ],
+  "questions": [
+    "Questions? USA: 1-800-253-6500"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Label",
+    "Package Labeling: Label0"
+  ],
+  "set_id": "03252c61-c51b-4e87-a06d-a61b8393704f",
+  "id": "28dd8bdd-0749-a073-e063-6394a90af2e7",
+  "effective_time": "20241209",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M032"
+    ],
+    "brand_name": [
+      "Satinique Anti Dandruff Scalp and Hair"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID"
+    ],
+    "manufacturer_name": [
+      "Access Business Group LLC"
+    ],
+    "product_ndc": [
+      "10056-536"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "205104"
+    ],
+    "spl_id": [
+      "28dd8bdd-0749-a073-e063-6394a90af2e7"
+    ],
+    "spl_set_id": [
+      "03252c61-c51b-4e87-a06d-a61b8393704f"
+    ],
+    "package_ndc": [
+      "10056-536-00",
+      "10056-536-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

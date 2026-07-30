@@ -1,0 +1,96 @@
+{
+  "spl_product_data_elements": [
+    "3 in 1 First Aid Wound Care BENZETHONIUM CHLORIDE ALOE VERA LEAF BENZALKONIUM CHLORIDE MALTODEXTRIN WATER SODIUM BICARBONATE SODIUM CHLORIDE BENZETHONIUM CHLORIDE BENZETHONIUM"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information Store between 59° and 86° F (15° and 30° C). See bottom of can for lot # and expiration date"
+  ],
+  "active_ingredient": [
+    "Active ingredients Benzethonium Chloride 0.13% Purpose First aid Antiseptic"
+  ],
+  "purpose": [
+    "Purpose First aid Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Uses First aid to help prevent the risk of bacterial contamination in minor cuts, scrapes and burns."
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use in the eyes or apply over large areas of the body longer than 1 week, unless directed by a doctor for single patient use only Ask a doctor before use if you have deep or punture wounds, animal bites or serious burns When using this product do not puncture or incinerate contents under pressure Stop use and consult a doctor if condition persists or gets worse Keep out of reach of children"
+  ],
+  "do_not_use": [
+    "Do not use in the eyes or apply over large areas of the body longer than 1 week, unless directed by a doctor for single patient use only"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have deep or punture wounds, animal bites or serious burns"
+  ],
+  "when_using": [
+    "When using this product do not puncture or incinerate contents under pressure"
+  ],
+  "stop_use": [
+    "Stop use and consult a doctor if condition persists or gets worse"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children"
+  ],
+  "dosage_and_administration": [
+    "Directions clean the affected area spray a small amount of this product on the area 1 to 3 times a day may be covered with a sterile bandage if bandaged, let dry first"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients aloe barbadensis leaf extract (aloe vera), benzalkonium chloride, maltodextrin, purified water, sodium bicarbonate, sodium chloride"
+  ],
+  "questions": [
+    "Questions? 1-888-547-5492"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Label"
+  ],
+  "set_id": "05f4a1fe-a7df-4826-8104-c26d21b0e79d",
+  "id": "0ac857cb-e589-343f-e063-6294a90a0e7f",
+  "effective_time": "20231122",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "3 in 1 First Aid Wound Care"
+    ],
+    "generic_name": [
+      "BENZETHONIUM CHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Rite Aid Corporation"
+    ],
+    "product_ndc": [
+      "11822-5074"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZETHONIUM CHLORIDE"
+    ],
+    "rxcui": [
+      "1302737"
+    ],
+    "spl_id": [
+      "0ac857cb-e589-343f-e063-6294a90a0e7f"
+    ],
+    "spl_set_id": [
+      "05f4a1fe-a7df-4826-8104-c26d21b0e79d"
+    ],
+    "package_ndc": [
+      "11822-5074-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "PH41D05744"
+    ]
+  }
+}

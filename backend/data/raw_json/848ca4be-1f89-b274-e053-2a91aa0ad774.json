@@ -1,0 +1,112 @@
+{
+  "spl_product_data_elements": [
+    "Acid Reflux Relief CAPSICUM, SODIUM PHOSPHATE, DIBASIC, HEPTAHYDRATE, STRYCHNOS NUX-VOMICA SEED, ROBINIA PSEUDOACACIA BARK, SULFUR, SEPIA OFFICINALIS JUICE SUCROSE LACTOSE CAPSICUM CAPSICUM SODIUM PHOSPHATE, DIBASIC, HEPTAHYDRATE PHOSPHATE ION STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED ROBINIA PSEUDOACACIA BARK ROBINIA PSEUDOACACIA BARK SULFUR SULFUR SEPIA OFFICINALIS JUICE SEPIA OFFICINALIS JUICE"
+  ],
+  "active_ingredient": [
+    "Active Ingredients: Capiscuum Annuun 7C, Natrum Phos 6X, Nux Vomica 9C, Robinia Pseudaccia 9C, Sulphur 5C, Sepia 5C."
+  ],
+  "purpose": [
+    "Purpose: For the temporary relief of heartburns, acid reflux and dyspepsia."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. Keep out of reach of children."
+  ],
+  "indications_and_usage": [
+    "Indications & Usage: Turn tube upside down, twist cap to break seal & release pellets. Using clear cap, place 3 pellets to dissolve under your tongue before meals or as needed. Take apart from food or drinks. To preserve purity avoid touching pellets with fingers."
+  ],
+  "warnings": [
+    "Warnings: If symptoms persist or worsen, or if pregnant or nursing, consult a doctor. Keep out of reach of children. Do not use if cap seal is broken or missing."
+  ],
+  "dosage_and_administration": [
+    "Dosage & Administration: Turn tube upside down, twist cap to break seal & release pellets. Using clear cap, place 3 pellets to dissolve under your tongue before meals or as needed. Take apart from food or drinks. To preserve purity avoid touching pellets with fingers."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Sucrose/lactose."
+  ],
+  "package_label_principal_display_panel": [
+    "Acid Reflux Relief hcl_label_acidRlx-2012.jpg"
+  ],
+  "set_id": "01ddf3ee-e925-404d-9b41-7876d5fd6634",
+  "id": "848ca4be-1f89-b274-e053-2a91aa0ad774",
+  "effective_time": "20190320",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Acid Reflux Relief"
+    ],
+    "generic_name": [
+      "CAPSICUM, SODIUM PHOSPHATE, DIBASIC, HEPTAHYDRATE, STRYCHNOS NUX-VOMICA SEED, ROBINIA PSEUDOACACIA BARK, SULFUR, SEPIA OFFICINALIS JUICE"
+    ],
+    "manufacturer_name": [
+      "Homeocare Laboratories"
+    ],
+    "product_ndc": [
+      "61727-331"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "SUBLINGUAL"
+    ],
+    "substance_name": [
+      "CAPSICUM",
+      "SODIUM PHOSPHATE, DIBASIC, HEPTAHYDRATE",
+      "STRYCHNOS NUX-VOMICA SEED",
+      "ROBINIA PSEUDOACACIA BARK",
+      "SULFUR",
+      "SEPIA OFFICINALIS JUICE"
+    ],
+    "spl_id": [
+      "848ca4be-1f89-b274-e053-2a91aa0ad774"
+    ],
+    "spl_set_id": [
+      "01ddf3ee-e925-404d-9b41-7876d5fd6634"
+    ],
+    "package_ndc": [
+      "61727-331-21"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0361727331212"
+    ],
+    "nui": [
+      "N0000185375",
+      "N0000185371",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "M0006342",
+      "M0016962",
+      "M0022575",
+      "N0000185001",
+      "M0516536"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Plant Allergenic Extract [EPC]",
+      "Non-Standardized Food Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Dietary Proteins [CS]",
+      "Plant Proteins [CS]",
+      "Vegetable Proteins [CS]",
+      "Seed Storage Proteins [CS]"
+    ],
+    "unii": [
+      "00UK7646FG",
+      "70WT22SF4B",
+      "269XH13919",
+      "7TPC058OWY",
+      "70FD1KFU70",
+      "QDL83WN8C2"
+    ]
+  }
+}

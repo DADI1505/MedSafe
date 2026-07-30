@@ -1,0 +1,77 @@
+{
+  "spl_product_data_elements": [
+    "Hampton Sun SPF30 Mineral Zinx Oxide BOSWELLIA SERRATA RESIN OIL BUTYLOCTYL SALICYLATE MEDIUM-CHAIN TRIGLYCERIDES CAPRYLYL GLYCOL DIATOMACEOUS EARTH DICAPRYLYL CARBONATE DIMETHICONE DIMETHICONE CROSSPOLYMER DIMETHICONE/BIS-ISOBUTYL PPG-20 CROSSPOLYMER ISODODECANE LECITHIN, SOYBEAN PHYMATOLITHON CALCAREUM MANNITOL MICROCRYSTALLINE CELLULOSE NEOPENTYL GLYCOL DIHEPTANOATE OLIBANUM POLYESTER-7 POLYMETHYLSILSESQUIOXANE (4.5 MICRONS) SILICA JOJOBA OIL TETRAHEXYLDECYL ASCORBATE TOCOPHEROL TRIETHOXYCAPRYLYLSILANE ZINC SULFATE ZINC OXIDE ZINC CATION"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "active_ingredient": [
+    "Active Ingredeints Zinc Oxide 20%"
+  ],
+  "indications_and_usage": [
+    "Uses Uses ■ helps prevent sunburn"
+  ],
+  "dosage_and_administration": [
+    "Directions apply liberally to cool, dry skin 15 minutes before sun exposure • reapply: • after 80 minutes of swimming or sweating • immediately after towel drying • at least every 2 hours • Sun Protection Measures . Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures including: • limit time in the sun,especially from 10 a.m. - 2. p.m. • wear a long-sleeve shirts, pants, hats, and sunglasses. • children under 6 months: Ask a doctor."
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use on damaged or broken skin. When using this product ■ keep out of eyes. Rinse eyes with water to remove. Stop use and ask a doctor if rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. if swallowed, get medical help or contact a Polson Control Center right away."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Triethoxycaprylylsilane Octyldodecanol Dibutyl Lauroyl Glutamide Dibutyl Ethylhexanoyl Glutamide Caprilic/Capric Triglyceride C12-15 Alkyl Benzoate VP/Hexadecene Copolymer Butyloctyl Salicylate Ethylhexyl Methoxycrylene Simmondsia Chinensis (Jojoba) Seed Oil Vitis Vinifera (Grape) Seed Oil Butyrospermum Parkii (Shea) Oil Tocopheryl Acetate"
+  ],
+  "package_label_principal_display_panel": [
+    "image description"
+  ],
+  "set_id": "019b0c1a-f9f3-4756-8b24-35bf4dc4aa22",
+  "id": "51b551c1-436e-a8ab-e063-6294a90a7434",
+  "effective_time": "20260513",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Hampton Sun SPF30 Mineral"
+    ],
+    "generic_name": [
+      "ZINX OXIDE"
+    ],
+    "manufacturer_name": [
+      "S&C Hampton Sun LLC"
+    ],
+    "product_ndc": [
+      "87170-013"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "51b551c1-436e-a8ab-e063-6294a90a7434"
+    ],
+    "spl_set_id": [
+      "019b0c1a-f9f3-4756-8b24-35bf4dc4aa22"
+    ],
+    "package_ndc": [
+      "87170-013-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0184573000282"
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

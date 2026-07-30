@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "KIZO LAB UV DEFENSE CLEAR SUNSCREN SPF50 AVOBENZONE,HOMOSALATE,OCTISALATE,OCTOCRYLENE CAPRYLOYL GLYCERIN/SEBACIC ACID COPOLYMER (2000 MPA.S) CAPRYLOYL GLYCINE CAPRYLYL GLYCOL DIMETHICONE/BIS-ISOBUTYL PPG-20 CROSSPOLYMER DICAPRYLYL CARBONATE DIMETHICONE CROSSPOLYMER (450000 MPA.S AT 12% IN CYCLOPENTASILOXANE) ETHYLHEXYL METHOXYCRYLENE HOMOSALATE HOMOSALATE OCTOCRYLENE OCTOCRYLENE ALKYL (C12-15) BENZOATE ISOHEXADECANE WATER DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (SOFT PARTICLE) PALMITOYL TRIPEPTIDE-1 POLYMETHYLSILSESQUIOXANE (11 MICRONS) ISODODECANE ISOPROPYL PALMITATE LECITHIN, SOYBEAN MEADOWFOAM ESTOLIDE PALMITOYL TETRAPEPTIDE-7 UNDECYLENOYL GLYCINE AVOBENZONE AVOBENZONE OCTISALATE OCTISALATE ACETYL HEXAPEPTIDE-1 C18-36 ACID TRIGLYCERIDE ETHYLHEXYLGLYCERIN GLYCERIN NEOPENTYL GLYCOL DIHEPTANOATE OCTYLDODECYL NEOPENTANOATE TETRAHEXYLDECYL ASCORBATE"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Drug Facts Active Ingredients ……………….….. Purpose Avobenzone 3.0% ……………… Sunscreen Homosalate 8.0% ……………… Sunscreen Octisalate 5.0% ……………… Sunscreen Octocrylene 4.0% ……………… Sunscreen"
+  ],
+  "purpose": [
+    "USES Helps prevent sunburn If used as directed, with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "WARNINGS For external use only Do not use on damaged or broken skin Stop use and ask a doctor if rash occurs When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep Out of Reach Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "DIRECTIONS Apply liberally 15 minutes before sun exposure Rub in well. Reapply at least every 2 hours Children under 6 months: Ask a doctor Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease the risk, regularly use a sunscreen with Broad Spectrum SPF of 15 or higher and other sun protection measures including: Limit time in the sun, especially 10 a.m. to 2 p.m. Wear long-sleeved shirts, pants, hats, and sunglasses."
+  ],
+  "other_safety_information": [
+    "OTHER INFORMATION protect the product in this container from excessive heat and direct sunlight"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Acetyl Hexapeptide-1, C12-15 Alkyl Benzoate, C18-36 Acid Glycol Ester, C18-36 Acid Triglyceride, Capryloyl Glycerin/Sebacic Acid Copolymer, Capryloyl Glycine, Caprylyl Glycol, Coprinus Comatus (Mushroom) Extract, Cordyceps Sinensis Extract, Dicaprylyl Carbonate, Dimethicone Crosspolymer-3, Dimethicone/Bis-Isobutyl PPG-20 Crosspolymer, Ethylhexyl Methoxycrylene, Ethylhexylglycerin, Ganoderma Lucidum (Mushroom) Extract, Glycerin, Grifola Frondosa Extract, Isododecane, Isohexadecane, Isopropyl Palmitate, Lecithin, Meadowfoam Estolide, Neopentyl Glycol Diheptanoate, Octyldodecyl Neopentanoate, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, Polyglutamic Acid, Polymethylsilsesquioxane, Rhododendron Ferrugineum Extract, Sorbitan Laurate, Terminalia Chebula Fruit Extract, Tetrahexyldecyl Ascorbate, Tocopheryl Acetate, Undecylenoyl Glycine, Water."
+  ],
+  "description": [
+    "KIZO LAB UV DEFENSE SPF50 KIZO LAB UV DEFENSE SPF50"
+  ],
+  "dosage_and_administration": [
+    "Directions: Apply liberally 15 minutes before sun exposure Rub in well. Reapply at least every 2 hours"
+  ],
+  "indications_and_usage": [
+    "Indications & Usage Helps prevent sunburn If used as directed, with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "package_label_principal_display_panel": [
+    "KIZO SPF 50 BOX KIZO SPF 50BOX"
+  ],
+  "set_id": "0053ae49-b9a1-c3f4-e063-6394a90abcb8",
+  "id": "497ed1ba-ebe5-a00a-e063-6394a90a447c",
+  "effective_time": "20260128",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "KIZO LAB UV DEFENSE CLEAR SUNSCREN SPF50"
+    ],
+    "generic_name": [
+      "AVOBENZONE,HOMOSALATE,OCTISALATE,OCTOCRYLENE"
+    ],
+    "manufacturer_name": [
+      "YB CHEMIA LLC"
+    ],
+    "product_ndc": [
+      "81208-203"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "HOMOSALATE",
+      "OCTOCRYLENE",
+      "AVOBENZONE",
+      "OCTISALATE"
+    ],
+    "spl_id": [
+      "497ed1ba-ebe5-a00a-e063-6394a90a447c"
+    ],
+    "spl_set_id": [
+      "0053ae49-b9a1-c3f4-e063-6394a90abcb8"
+    ],
+    "package_ndc": [
+      "81208-203-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "V06SV4M95S",
+      "5A68WGF6WM",
+      "G63QQF2NOX",
+      "4X49Y0596W"
+    ]
+  }
+}

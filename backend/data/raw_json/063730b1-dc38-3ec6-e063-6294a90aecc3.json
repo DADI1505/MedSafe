@@ -1,0 +1,121 @@
+{
+  "spl_product_data_elements": [
+    "Pleurotus Ostreatus Pleurotus Ostreatus PLEUROTUS OSTREATUS WHOLE PLEUROTUS OSTREATUS WHOLE SUCROSE Pleurotus Ostreatus Pleurotus Ostreatus PLEUROTUS OSTREATUS WHOLE PLEUROTUS OSTREATUS WHOLE SUCROSE Pleurotus Ostreatus Pleurotus Ostreatus PLEUROTUS OSTREATUS WHOLE PLEUROTUS OSTREATUS WHOLE SUCROSE Pleurotus Ostreatus Pleurotus Ostreatus PLEUROTUS OSTREATUS WHOLE PLEUROTUS OSTREATUS WHOLE SUCROSE Pleurotus Ostreatus Pleurotus Ostreatus PLEUROTUS OSTREATUS WHOLE PLEUROTUS OSTREATUS WHOLE SUCROSE Pleurotus Ostreatus Pleurotus Ostreatus PLEUROTUS OSTREATUS WHOLE PLEUROTUS OSTREATUS WHOLE SUCROSE Pleurotus Ostreatus Pleurotus Ostreatus PLEUROTUS OSTREATUS WHOLE PLEUROTUS OSTREATUS WHOLE SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Pleurotus Ostreatus 6C 5g Pleurotus Ostreatus 6C 30g Pleurotus Ostreatus 6C 100g Pleurotus Ostreatus 12C 5g Pleurotus Ostreatus 12C 30g Pleurotus Ostreatus 12C 100g Pleurotus Ostreatus 30C 1g Pleurotus Ostreatus 30C 5g Pleurotus Ostreatus 30C 30g Pleurotus Ostreatus 30C 100g Pleurotus Ostreatus 100C 1g Pleurotus Ostreatus 100C 5g Pleurotus Ostreatus 100C 30g Pleurotus Ostreatus 100C 100g Pleurotus Ostreatus 200C 1g Pleurotus Ostreatus 200C 5g Pleurotus Ostreatus 200C 30g Pleurotus Ostreatus 200C 100g Pleurotus Ostreatus 500C 1g Pleurotus Ostreatus 500C 5g Pleurotus Ostreatus 500C 30g Pleurotus Ostreatus 500C 100g Pleurotus Ostreatus 1M 1g Pleurotus Ostreatus 1M 5g Pleurotus Ostreatus 1M 30g Pleurotus Ostreatus 1M 100g"
+  ],
+  "set_id": "063757ad-6e22-6069-e063-6394a90a0205",
+  "id": "063730b1-dc38-3ec6-e063-6294a90aecc3",
+  "effective_time": "20230925",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Pleurotus Ostreatus"
+    ],
+    "generic_name": [
+      "PLEUROTUS OSTREATUS"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-4008",
+      "37662-4012",
+      "37662-4009",
+      "37662-4011",
+      "37662-4014",
+      "37662-4010",
+      "37662-4013"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PLEUROTUS OSTREATUS WHOLE"
+    ],
+    "spl_id": [
+      "063730b1-dc38-3ec6-e063-6294a90aecc3"
+    ],
+    "spl_set_id": [
+      "063757ad-6e22-6069-e063-6394a90a0205"
+    ],
+    "package_ndc": [
+      "37662-4012-1",
+      "37662-4012-2",
+      "37662-4012-3",
+      "37662-4012-4",
+      "37662-4008-1",
+      "37662-4008-2",
+      "37662-4008-3",
+      "37662-4009-1",
+      "37662-4009-2",
+      "37662-4009-3",
+      "37662-4011-1",
+      "37662-4011-2",
+      "37662-4011-3",
+      "37662-4011-4",
+      "37662-4014-1",
+      "37662-4014-2",
+      "37662-4014-3",
+      "37662-4014-4",
+      "37662-4010-1",
+      "37662-4010-2",
+      "37662-4010-3",
+      "37662-4010-4",
+      "37662-4013-1",
+      "37662-4013-2",
+      "37662-4013-3",
+      "37662-4013-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8HZE76Y44L"
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Listerine Clinical Solutions Teeth Strength Alpine Mint Sodium Fluoride ALCOHOL SORBITOL POLOXAMER 407 SODIUM LAURYL SULFATE PHOSPHORIC ACID SODIUM PHOSPHATE, DIBASIC, ANHYDROUS SUCRALOSE SACCHARIN SODIUM WATER FD&C GREEN NO. 3 EUCALYPTOL MENTHOL METHYL SALICYLATE SODIUM FLUORIDE FLUORIDE ION THYMOL D&C YELLOW NO. 10"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Distributed by: JOHNSON & JOHNSON CONSUMER INC. Skillman, NJ 08558"
+  ],
+  "active_ingredient": [
+    "Active ingredient Sodium Fluoride 0.02% (0.01% w/v Fluoride Ion)"
+  ],
+  "purpose": [
+    "Purpose Anticavity"
+  ],
+  "indications_and_usage": [
+    "Uses aids in the prevention of dental cavities"
+  ],
+  "warnings": [
+    "Warnings Keep out of reach of children. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 12 years of age and older: use twice daily after brushing your teeth with a toothpaste vigorously swish 10 mL (2 teaspoonfuls) of rinse between your teeth for 1 minute and then spit out do not swallow the rinse do not eat or drink for 30 minutes after rinsing supervise children as necessary until capable of using without supervision Children under 12 years of age: consult a dentist or a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information store at room temperature cold weather may cloud this product"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water, Alcohol, Sorbitol, Poloxamer 407, Flavor, Sodium Lauryl Sulfate, Eucalyptol, Sodium Saccharin, Methyl Salicylate, Thymol, Phosphoric Acid, Menthol, Sucralose, Disodium Phosphate, Green 3, Yellow 10"
+  ],
+  "questions": [
+    "Questions? call toll-free 888-222-0182 or 215-273-8755 (collect)"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 1 L Bottle Label ANTICAVITY FLUORIDE MOUTHWASH LISTERINE® CLINICAL SOLUTIONS IMPORTANT: READ DIRECTIONS FOR PROPER USE SODIUM FLUORIDE & ACIDULATED PHOSPHATE TOPICAL SOLUTION TEETH STRENGTH Repairs enamel now to prevent cavities for 3X stronger* and longer-lasting teeth (*with brushing in a lab study) ALPINE MINT 1L (1 Qt 1.8 Fl Oz) Listerine_01"
+  ],
+  "set_id": "06e2de03-4a58-3de0-e063-6294a90a5857",
+  "id": "223b617c-b851-5b58-e063-6394a90a57b0",
+  "effective_time": "20241111",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M021"
+    ],
+    "brand_name": [
+      "Listerine Clinical Solutions Teeth Strength Alpine Mint"
+    ],
+    "generic_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "manufacturer_name": [
+      "Kenvue Brands LLC"
+    ],
+    "product_ndc": [
+      "69968-0819"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "rxcui": [
+      "313029"
+    ],
+    "spl_id": [
+      "223b617c-b851-5b58-e063-6394a90a57b0"
+    ],
+    "spl_set_id": [
+      "06e2de03-4a58-3de0-e063-6294a90a5857"
+    ],
+    "package_ndc": [
+      "69968-0819-9",
+      "69968-0819-5",
+      "69968-0819-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0312547352772"
+    ],
+    "unii": [
+      "8ZYQ1474W7"
+    ]
+  }
+}

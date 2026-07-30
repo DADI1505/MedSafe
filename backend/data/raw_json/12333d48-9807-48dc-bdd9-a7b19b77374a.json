@@ -1,0 +1,77 @@
+{
+  "spl_product_data_elements": [
+    "Acne Control Face Wash SALICYLIC ACID SALICYLIC ACID SALICYLIC ACID WATER SODIUM C14-16 OLEFIN SULFONATE DISTEARETH-75 IPDI COCAMIDOPROPYL BETAINE ISOPENTYLDIOL COCO-GLUCOSIDE ACRYLATES CROSSPOLYMER-4 PHENOXYETHANOL SODIUM HYDROXIDE SODIUM BENZOATE SODIUM GLUCONATE YELLOW 6 YELLOW 5 CITRIC ACID LINALOOL LIMONENE, (+)-"
+  ],
+  "active_ingredient": [
+    "DRUG FACTS Active Ingredients ........... Salicylic Acid 2%"
+  ],
+  "purpose": [
+    "Purpose ............... Acne Treatment"
+  ],
+  "indications_and_usage": [
+    "Uses: For the treatment of acne. Penetrates pores to eliminate most acne blemishes, whiteheads & blackheads. Helps prevent new acne blemishes, whiteheads & blackheads."
+  ],
+  "dosage_and_administration": [
+    "Directions: Lather with water and massage onto affected areas. Let sit for 30 to 60 seconds to maximize results. Rinse clean with warm water."
+  ],
+  "warnings": [
+    "Warnings: For external use only. When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children . If swallowed get medical help or contact a Poison Control center right away."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: WATER/AQUA/EAU, SODIUM C14-16 OLEFIN SULFONATE, DISTEARTH-75 IDPI, COCAMIDOPROPYL BETAINE, ISOPENTYLDIOL, COCO-GLUCOSIDE, ACRYLATES CROSSPOLYMER-4, PHENOXYETHANOL, SODIUM HYDROXIDE, SODIUM BENZOATE, SODIUM GLUCONATE, FRAGRANCE (PARFUM), YELLOW 6, YELLOW 5, CITRIC ACID, LINALOOL, LIMONENE"
+  ],
+  "package_label_principal_display_panel": [
+    "Geologie Acne Control Face Wash Labeling Geologie Acne Control Face Wash CLEAN CITRUS 2% Salicylic Acid 6 fl oz 180 ml Geologie.com Made in USA of Global Materials Distributed by Geologie 2578 Broadway #A212 New York, NY 10025 res 185 Wash"
+  ],
+  "set_id": "068c5fef-cdc5-49f4-9372-9cfdd07508b8",
+  "id": "12333d48-9807-48dc-bdd9-a7b19b77374a",
+  "effective_time": "20241128",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "Acne Control Face Wash"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID"
+    ],
+    "manufacturer_name": [
+      "Bentley Laboratories, LLC"
+    ],
+    "product_ndc": [
+      "54111-185"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "562600"
+    ],
+    "spl_id": [
+      "12333d48-9807-48dc-bdd9-a7b19b77374a"
+    ],
+    "spl_set_id": [
+      "068c5fef-cdc5-49f4-9372-9cfdd07508b8"
+    ],
+    "package_ndc": [
+      "54111-185-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

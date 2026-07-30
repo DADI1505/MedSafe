@@ -1,0 +1,105 @@
+{
+  "spl_product_data_elements": [
+    "Vicks VapoCOOL Severe WINTERFROST Menthol SUCROSE ACACIA POTASSIUM SORBATE GLYCERIN FD&C BLUE NO. 1 CORN SYRUP EUCALYPTOL WATER MENTHOL MENTHOL with blue specks vapor"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Distributed by Procter & Gamble Cincinnati, OH 45202"
+  ],
+  "active_ingredient": [
+    "Active ingredient (per drop) Menthol 20 mg"
+  ],
+  "purpose": [
+    "Purpose Oral anesthetic"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves occasional minor irritation and pain due to sore throat sore mouth"
+  ],
+  "warnings": [
+    "Warnings Sore Throat Warning- Severe or persistent sore throat or sore throat accompanied by high fever, headache, nausea, and vomiting may be serious. Consult doctor promptly. Do not use more than 2 days or administer to children under 12 years of age."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have a severe sore throat accompanied by difficulty in breathing or that lasts more than 2 days a sore throat accompanied by fever, headache, rash, swelling, nausea or vomiting"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if sore mouth symptoms do not improve in 7 days, or if irritation, pain, or redness persists or worsens."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "overdosage": [
+    "In case of overdose, get medical help or contact a Poison Control Center right away"
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 12 years and over: dissolve 1 drop slowly in the mouth. Repeat every 2 hours as needed or as directed by a doctor. children 12 years and under: do not use"
+  ],
+  "storage_and_handling": [
+    "Other information Store at no greater than 25°C (77°F) contains soy"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients corn syrup, eucalyptol, FD&C Blue No. 1, flavors, glycerin, gum arabic, potassium sorbate, sucrose, water"
+  ],
+  "questions": [
+    "Questions? 1-800-707-1709"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 70 drops in a bag VALUE PACK VICKS® VapoCOOL™ SEVERE MENTHOL ·ORAL ANESTHETIC MAX STRENGTH • FAST RELIEF SOOTHES SORE THROAT WINTERFROST 70 MEDICATED DROPS 597"
+  ],
+  "set_id": "06579fc7-7d91-2a7b-e063-6394a90ae516",
+  "id": "401edda2-a00f-26d0-e063-6294a90afcc8",
+  "effective_time": "20251001",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M022"
+    ],
+    "brand_name": [
+      "Vicks VapoCOOL Severe WINTERFROST"
+    ],
+    "generic_name": [
+      "MENTHOL"
+    ],
+    "manufacturer_name": [
+      "The Procter & Gamble Manufacturing Company"
+    ],
+    "product_ndc": [
+      "37000-597"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MENTHOL"
+    ],
+    "rxcui": [
+      "1995300"
+    ],
+    "spl_id": [
+      "401edda2-a00f-26d0-e063-6294a90afcc8"
+    ],
+    "spl_set_id": [
+      "06579fc7-7d91-2a7b-e063-6394a90ae516"
+    ],
+    "package_ndc": [
+      "37000-597-18",
+      "37000-597-45",
+      "37000-597-20",
+      "37000-597-70"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0323900045682"
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

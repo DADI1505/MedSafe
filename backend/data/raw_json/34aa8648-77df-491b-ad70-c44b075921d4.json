@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "Vichy Laboratoires Normaderm Acne Control Moisturizer Salicylic Acid Salicylic Acid Salicylic Acid WATER GLYCERIN ISONONYL ISONONANOATE BUTYLENE GLYCOL KAOLIN ZINC SULFATE SARCOSINE HYALURONATE SODIUM SODIUM HYDROXIDE TRISODIUM ETHYLENEDIAMINE DISUCCINATE ASCORBYL GLUCOSIDE ACETIC ACID BIOSACCHARIDE GUM-1 CAPRYLYL GLYCOL LACTIC ACID MALTODEXTRIN PENTYLENE GLYCOL SODIUM POLYACRYLATE (2500000 MW) XANTHAN GUM SODIUM BENZOATE"
+  ],
+  "active_ingredient": [
+    "Active ingredient Salicylic acid...2%"
+  ],
+  "purpose": [
+    "Purpose Acne treatment"
+  ],
+  "indications_and_usage": [
+    "Uses for the treatment of acne clears acne blemishes and allows skin to heal helps prevent new acne blemishes"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "user_safety_warnings": [
+    "Flammable until dry. Keep away from flames and heat."
+  ],
+  "when_using": [
+    "When using this product kin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. if irritation occurs, only use one topical acne medication at a time."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions • clean the skin thoroughly before applying this product • cover the entire affected area with a thin layer one to three times daily • because excessive drying of the skin may occur, start with one application daily, then gradually increase to two or three times daily if needed or as directed by a doctor • if bothersome dryness or peeling occurs, reduce application to once a day or every other day"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, glycerin, butylene glycol, isononyl isononanoate, kaolin, hydrolyzed algin, zinc sulfate, bifida ferment lysate, sarcosine, sodium hyaluronate, sodium hydroxide, trisodium ethylenediamine disuccinate, ascorbyl glucoside, acetic acid, acrylates/c10-30 alkyl acrylate crosspolymer, biosaccharide gum-1, caprylyl glycol, lactic acid, maltodextrin, pentylene glycol, sodium polyacrylate, xanthan gum, sodium benzoate, fragrance"
+  ],
+  "questions": [
+    "Questions or comments? Call toll free 1-877-378-4249 Monday - Friday (9 a.m. to 5 p.m. EST)"
+  ],
+  "package_label_principal_display_panel": [
+    "image of a carton"
+  ],
+  "set_id": "04df2f5d-77f0-4553-9d8c-3f10628736ae",
+  "id": "34aa8648-77df-491b-ad70-c44b075921d4",
+  "effective_time": "20231211",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "Vichy Laboratoires Normaderm Acne Control Moisturizer"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID"
+    ],
+    "manufacturer_name": [
+      "COSMETIQUE ACTIVE PRODUCTION"
+    ],
+    "product_ndc": [
+      "69625-661"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "346298"
+    ],
+    "spl_id": [
+      "34aa8648-77df-491b-ad70-c44b075921d4"
+    ],
+    "spl_set_id": [
+      "04df2f5d-77f0-4553-9d8c-3f10628736ae"
+    ],
+    "package_ndc": [
+      "69625-661-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

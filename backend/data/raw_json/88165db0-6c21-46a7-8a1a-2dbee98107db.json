@@ -1,0 +1,116 @@
+{
+  "spl_product_data_elements": [
+    "Laxative Gentle Bisacodyl BISACODYL DEACETYLBISACODYL ACACIA AMMONIA CALCIUM CARBONATE CARNAUBA WAX SILICON DIOXIDE STARCH, CORN D&C YELLOW NO. 10 ALUMINUM LAKE FD&C YELLOW NO. 6 ALUMINUM LAKE HYPROMELLOSE, UNSPECIFIED FERROSOFERRIC OXIDE ANHYDROUS LACTOSE MAGNESIUM STEARATE METHYLPARABEN POLYDEXTROSE POLYETHYLENE GLYCOL, UNSPECIFIED Polyvinyl Acetate Phthalate POVIDONE, UNSPECIFIED PROPYLENE GLYCOL PROPYLPARABEN SHELLAC DIMETHICONE WATER SODIUM ALGINATE SODIUM BENZOATE SODIUM BICARBONATE STEARIC ACID SUCROSE TALC TITANIUM DIOXIDE TRIACETIN TRIETHYL CITRATE 5"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each tablet) Bisacodyl USP, 5 mg"
+  ],
+  "purpose": [
+    "Purpose Stimulant laxative"
+  ],
+  "indications_and_usage": [
+    "Uses for relief of occasional constipation and irregularity this product generally produces bowel movement in 6 to 12 hours"
+  ],
+  "warnings": [
+    "Warnings Do not use if you cannot swallow without chewing. Ask a doctor before use if you have stomach pain, nausea or vomiting a sudden change in bowel habits that lasts more than 2 weeks When using this product do not use within 1 hour after taking an antacid or milk do not chew or crush tablet(s) it may cause stomach discomfort, faintness, and cramps Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These could be signs of a serious condition. you need to use a laxative for more than 1 week If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use if you cannot swallow without chewing."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have stomach pain, nausea or vomiting a sudden change in bowel habits that lasts more than 2 weeks"
+  ],
+  "when_using": [
+    "When using this product do not use within 1 hour after taking an antacid or milk do not chew or crush tablet(s) it may cause stomach discomfort, faintness, and cramps"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These could be signs of a serious condition. you need to use a laxative for more than 1 week"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions do not take more than directed take with a glass of water adults and children 12 years and over take 1 to 3 tablets in a single daily dose children 6 to under 12 years take 1 tablet in a single daily dose children under 6 years ask a doctor"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"450px\" cellspacing=\"0\"><col/><col/><tbody><tr><td styleCode=\" Botrule Rrule\">adults and children 12 years and over</td><td styleCode=\" Botrule Lrule\">take 1 to 3 tablets in a single daily dose</td></tr><tr><td styleCode=\" Botrule Toprule Rrule\">children 6 to under 12 years</td><td styleCode=\" Botrule Toprule Lrule\">take 1 tablet in a single daily dose</td></tr><tr><td styleCode=\" Toprule Rrule\">children under 6 years</td><td styleCode=\" Toprule Lrule\">ask a doctor</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information TAMPER EVIDENT: DO NOT USE IF OUTER PACKAGE IS OPENED OR BLISTER IS TORN OR BROKEN avoid excessive humidity store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) see end flap for expiration date and lot number"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients acacia, ammonium hydroxide, calcium carbonate, carnauba wax, colloidal anhydrous silica, corn starch, D&C yellow #10 aluminum lake, FD&C yellow #6 aluminum lake, hypromellose, iron oxide black, lactose anhydrous, magnesium stearate, methylparaben, polydextrose, polyethylene glycol, polyvinyl acetate phthalate, povidone, propylene glycol, propylparaben, shellac glaze, simethicone, sodium alginate, sodium benzoate, sodium bicarbonate, stearic acid, sucrose, talc, titanium dioxide, triacetin, triethyl citrate"
+  ],
+  "questions": [
+    "Questions or comments? 1-800-426-9391"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Compare to the active ingredient of Dulcolax® Laxative Tablets* Gentle Laxative Bisacodyl USP, 5 mg Stimulant Laxative Gentle, Dependable Constipation Relief Comfort Coated Tablets 15 Tablets Comfort Coated *This product is not manufactured or distributed by A. Nattermann & Cie. GmbH, owner of the registered trademark Dulcolax® Laxative Tablets. 50844 ORG092332762 DISTRIBUTED BY OLD EAST MAIN CO. 100 MISSION RIDGE TAMPER EVIDENT: DO NOT USE IF PACKAGE IS OPENED OR IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING 44-327 44-327"
+  ],
+  "set_id": "05e9358d-7bfe-4c16-ae50-d6a44c023698",
+  "id": "88165db0-6c21-46a7-8a1a-2dbee98107db",
+  "effective_time": "20251106",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Laxative Gentle"
+    ],
+    "generic_name": [
+      "BISACODYL"
+    ],
+    "manufacturer_name": [
+      "DOLGENCORP, LLC"
+    ],
+    "product_ndc": [
+      "55910-723"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BISACODYL"
+    ],
+    "rxcui": [
+      "308753"
+    ],
+    "spl_id": [
+      "88165db0-6c21-46a7-8a1a-2dbee98107db"
+    ],
+    "spl_set_id": [
+      "05e9358d-7bfe-4c16-ae50-d6a44c023698"
+    ],
+    "package_ndc": [
+      "55910-723-62"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0350844327260"
+    ],
+    "nui": [
+      "N0000009371",
+      "N0000175812",
+      "N0000009871"
+    ],
+    "pharm_class_pe": [
+      "Increased Large Intestinal Motility [PE]",
+      "Stimulation Large Intestine Fluid/Electrolyte Secretion [PE]"
+    ],
+    "pharm_class_epc": [
+      "Stimulant Laxative [EPC]"
+    ],
+    "unii": [
+      "10X0709Y6I"
+    ]
+  }
+}

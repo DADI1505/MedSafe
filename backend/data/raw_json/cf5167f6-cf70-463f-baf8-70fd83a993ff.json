@@ -1,0 +1,102 @@
+{
+  "spl_product_data_elements": [
+    "hydrocortisone hydrocortisone HYDROCORTISONE HYDROCORTISONE ALOE VERA LEAF PETROLATUM clear"
+  ],
+  "active_ingredient": [
+    "Active ingredient Hydrocortisone 1%"
+  ],
+  "purpose": [
+    "Purpose Anti-itch"
+  ],
+  "indications_and_usage": [
+    "Uses • temporarily relieves itching associated with minor skin irritations, inflammation, and rashes due to: • eczema • psoriasis • poison ivy, oak, sumac • insect bites • detergents • jewelry • cosmetics • soaps • seborrheic dermatitis • temporarily relieves external anal and genital itching • other uses of this product should only be under the advice and supervision of a doctor"
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use • for the treatment of diaper rash. Ask a doctor. • in the genital area if you have a vaginal discharge. Ask a doctor. When using this product • avoid contact with the eyes • do not use more than directed unless told to do so by a doctor • do not put directly into the rectum by using fingers or any mechanical device or applicator Stop use and ask a doctor if • condition worsens • rectal bleeding occurs • symptoms persist for more than 7 days or clear up and occur again within a few days, and do not begin use of any other hydrocortisone product unless you have asked a doctor Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use • for the treatment of diaper rash. Ask a doctor. • in the genital area if you have a vaginal discharge. Ask a doctor."
+  ],
+  "when_using": [
+    "When using this product • avoid contact with the eyes • do not use more than directed unless told to do so by a doctor • do not put directly into the rectum by using fingers or any mechanical device or applicator"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if • condition worsens • rectal bleeding occurs • symptoms persist for more than 7 days or clear up and occur again within a few days, and do not begin use of any other hydrocortisone product unless you have asked a doctor"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions • for itching of skin irritation, inflammation, and rashes: • adults and children 2 years of age and older: apply to affected area not more than 3 to 4 times daily • children under 2 years of age: do not use, ask a doctor • for external anal and genital itching, adults: • when practical, clean the affected area with mild soap and warm water and rinse thoroughly • gently dry by patting or blotting with toilet tissue or a soft cloth before applying • apply to affected area not more than 3 to 4 times daily • children under 12 years of age: ask a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information • store at 20°-25°C (68°-77°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients aloe barbadensis leaf juice, white petrolatum"
+  ],
+  "questions": [
+    "Questions or comments? 1-800-719-9260"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Relieves Itch Fast Water Resistant Formula Helps Protect Skin • Insect Bites • Skin Irritation • Rashes • Eczema & Psoriasis • Inflammation & Redness Compare to Cortizone • 10 ® active ingredient Hydrocortisone 1% Maximum Strength Anti-Itch Ointment NET WT 1 OZ (28 g) Padagis ™ HYDROCORTISONE 1% CARTON IMAGE 1 OF 2 HYDROCORTISONE 1% CARTON IMAGE 2 OF 2"
+  ],
+  "set_id": "0174411c-1b10-4298-b820-87b24065b118",
+  "id": "cf5167f6-cf70-463f-baf8-70fd83a993ff",
+  "effective_time": "20260114",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "hydrocortisone"
+    ],
+    "generic_name": [
+      "HYDROCORTISONE"
+    ],
+    "manufacturer_name": [
+      "Padagis Israel Pharmaceuticals Ltd"
+    ],
+    "product_ndc": [
+      "45802-276"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "HYDROCORTISONE"
+    ],
+    "rxcui": [
+      "203105"
+    ],
+    "spl_id": [
+      "cf5167f6-cf70-463f-baf8-70fd83a993ff"
+    ],
+    "spl_set_id": [
+      "0174411c-1b10-4298-b820-87b24065b118"
+    ],
+    "package_ndc": [
+      "45802-276-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175576",
+      "N0000175450"
+    ],
+    "pharm_class_epc": [
+      "Corticosteroid [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Corticosteroid Hormone Receptor Agonists [MoA]"
+    ],
+    "unii": [
+      "WI4X0X7BPJ"
+    ]
+  }
+}

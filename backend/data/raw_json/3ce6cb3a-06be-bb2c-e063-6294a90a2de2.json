@@ -1,0 +1,111 @@
+{
+  "spl_product_data_elements": [
+    "Lidocaine Pain Relief Patch 5 Ct LIDOCAINE GLYCERIN METHYLPARABEN PROPYLENE GLYCOL PROPYLPARABEN SODIUM POLYACRYLATE (2500000 MW) TARTARIC ACID TITANIUM DIOXIDE WATER DIHYDROXYALUMINUM AMINOACETATE POLYVINYL ALCOHOL EDETATE DISODIUM CARBOXYMETHYLCELLULOSE SODIUM POLYACRYLIC ACID (8000 MW) LIDOCAINE LIDOCAINE"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Lidocaine 4% . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Topical Anesthetic"
+  ],
+  "purpose": [
+    "Purpose External analgesic"
+  ],
+  "dosage_and_administration": [
+    "Dosage and Administration Directions ■ Adults and children 2 years of age and over: Clean and dry affected area, free of lotions, ointments and creams. Carefully remove backing from patch starting at a corner. Apply sticky side of patch to affected area. Do not use more than one patch in a i 2 hour period. Maximum 2 patches per day. Discard patch after single use. ■ Children under 2 years of age: Do not use, ask a doctor"
+  ],
+  "warnings": [
+    "Warnings For external use only."
+  ],
+  "indications_and_usage": [
+    "Indications and Usage Uses: Temporaily relieves minor pains."
+  ],
+  "when_using": [
+    "When using this product When using this product■avoid contact with the eyes ■ do not use more than one patch on your body ata time"
+  ],
+  "stop_use": [
+    "Stop use and consult a doctor Stop use and ask a doctor if ■ skin irritation develops ■ condition worsens ■symptoms persist for more than 7 days or clear up and occur again within a few days"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a health professional before use."
+  ],
+  "do_not_use": [
+    "Do not Use Over raw surfaces or blistered areas"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children and pets. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "other_safety_information": [
+    "Other Safety Information Other information Store in a clean, dry place outside of direct sunlight. Protect from excessive moisture. Dispose of used patch in manner that always keeps product away from children and pets. Used patches still contain the drug product that can produce serious adverse effects if a child or pet chews or ingests this patch."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients dihydroxy aluminium aminoacetate, disodium EDTA, glycerin, methylparaben, polyacrylic acid, polyvinyl alcohol, propyl paraben, propylene glycol, sodium carboxymethylcellulose, sodium polyacrylate, tartaric acid, titanium dioxide, water"
+  ],
+  "questions": [
+    "Questions CALL TOLL-FREE 1-866-326-1313"
+  ],
+  "package_label_principal_display_panel": [
+    "Lidocaine Pain Relief Patch 5 Ct"
+  ],
+  "set_id": "025d508b-ec4f-466c-b3e8-ba9b18d07b46",
+  "id": "3ce6cb3a-06be-bb2c-e063-6294a90a2de2",
+  "effective_time": "20250821",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Lidocaine Pain Relief Patch 5 Ct"
+    ],
+    "generic_name": [
+      "LIDOCAINE"
+    ],
+    "manufacturer_name": [
+      "Cardinal Health, 110 dba LEADER"
+    ],
+    "product_ndc": [
+      "70000-0741"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "LIDOCAINE"
+    ],
+    "rxcui": [
+      "1737778"
+    ],
+    "spl_id": [
+      "3ce6cb3a-06be-bb2c-e063-6294a90a2de2"
+    ],
+    "spl_set_id": [
+      "025d508b-ec4f-466c-b3e8-ba9b18d07b46"
+    ],
+    "package_ndc": [
+      "70000-0741-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175682",
+      "M0000897",
+      "N0000175426",
+      "N0000175976"
+    ],
+    "pharm_class_epc": [
+      "Amide Local Anesthetic [EPC]",
+      "Antiarrhythmic [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Amides [CS]"
+    ],
+    "pharm_class_pe": [
+      "Local Anesthesia [PE]"
+    ],
+    "unii": [
+      "98PI200987"
+    ]
+  }
+}

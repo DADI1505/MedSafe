@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "POP Hint Of Mint Sodium Fluoride SORBITOL SORBITAN MONOOLEATE TRIBASIC CALCIUM PHOSPHATE NIACINAMIDE .ALPHA.-TOCOPHEROL ACETATE, DL- ZINC STEARATE GLYCERIN WATER SODIUM PYROPHOSPHATE POLOXAMER 407 SODIUM LAURYL SULFATE XANTHAN GUM SACCHARIN SODIUM SACCHARIN SUCRALOSE TITANIUM DIOXIDE XYLITOL HYDRATED SILICA SODIUM FLUORIDE FLUORIDE ION"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredient SODIUM FLUORIDE 0.243% (0.14% w/v fluoride ion)"
+  ],
+  "purpose": [
+    "Purpose Anticavity toopaste"
+  ],
+  "indications_and_usage": [
+    "Use helps protect against cavities"
+  ],
+  "warnings": [
+    "Warnings Warnings Keep out of reach of children. Keep out of reach of children under 6 years of age. Do not swallow. If you accidentally swallow more than used for brushing, seek professional assistance or contact a poison control center right away. If an allergic reaction develops, discontinue use immediately."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. Keep out of reach of children under 6 years of age. Do not swallow. If you accidentally swallow more than used for brushing, seek professional assistance or contact a poison control center right away. If an allergic reaction develops, discontinue use immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 2 years of age and and older: Brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist. ​do not swallow. ​to minimize swallowing use a pea-sized amount in children under 6. ​supervise children's brushing until good habits are established. ​ children under 2 years: ask a dentist."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients WATER, SORBITOL, HYDRATED SILICA, SODIUM LAURYL SULFATE, GLYCERIN, CELLULOSE GUM, FLAVOR, TETRASODIUM PYROPHOSPHATE, ZINC STEARATE, XANTHAN GUM, TITANIUM DIOXIDE, SORBITAN OLEATE, SODIUM SACCHARIN, HYDROXYAPATITE, NIACINAMIDE, TOCOPHERYL ACETATE, XYLITOL"
+  ],
+  "questions": [
+    "Questions? 1-866-993-4709"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel - 120 g Tube Carton POP Playful. Original. Personal REPAIRS ENAMEL PREVENTS CAVITIES FRESHENS BREATH HINT OF MINT Fluoride Toothpaste with Hydroxyapatite & Vitamins E and B3 NET WT. 4.2 OZ. (120 G) DIST. LG H&H CO., LTD. 58, SAEMUNAN-RO, JONGNO-GU, SEOUL, KOREA www.oralcarebypop.com MADE IN KOREA POP_Hint_of_Mint_120g_IC POP_Hint_of_Mint_120g_OC"
+  ],
+  "set_id": "05aafc53-49ca-eacd-e063-6394a90a606b",
+  "id": "2aabf642-2909-a735-e063-6394a90a83b5",
+  "effective_time": "20250101",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M021"
+    ],
+    "brand_name": [
+      "POP Hint Of Mint"
+    ],
+    "generic_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "manufacturer_name": [
+      "Tai Guk Pharm. Co., Ltd."
+    ],
+    "product_ndc": [
+      "43136-511"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "DENTAL"
+    ],
+    "substance_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "rxcui": [
+      "891775"
+    ],
+    "spl_id": [
+      "2aabf642-2909-a735-e063-6394a90a83b5"
+    ],
+    "spl_set_id": [
+      "05aafc53-49ca-eacd-e063-6394a90a606b"
+    ],
+    "package_ndc": [
+      "43136-511-20"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8ZYQ1474W7"
+    ]
+  }
+}

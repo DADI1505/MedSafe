@@ -1,0 +1,103 @@
+{
+  "spl_product_data_elements": [
+    "Clotrimazole Clotrimazole MINERAL OIL DIMETHYL SULFOXIDE ETHYLPARABEN GLYCERIN LAURETH-23 PETROLATUM WATER EDETATE DISODIUM CLOTRIMAZOLE CLOTRIMAZOLE GLYCERYL MONO- AND DIPALMITOSTEARATE BUTYLATED HYDROXYTOLUENE ALCOHOL CETOSTEARYL ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Active ingredient Clotrimazole USP 1% w/w"
+  ],
+  "purpose": [
+    "Purpose Antifungal Cream"
+  ],
+  "indications_and_usage": [
+    "Uses Cures athlete’s foot (tinea pedis), jock itch (tinea cruris), ringworm (tinea corporis). Relieves the itching, irritation, redness, scaling and discomfort which can accompany these conditions."
+  ],
+  "warnings": [
+    "Warnings For External use only."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep this and all drugs out of the reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center right away.",
+    "Keep this and all drugs out of the reach of children In case of accidental ingestion, seek professional assistance or contact Poison Control Centre right away."
+  ],
+  "do_not_use": [
+    "Do Not Use Do not use on children under 2 years of age unless direcgted by a doctor"
+  ],
+  "when_using": [
+    "When using this product When using this product avoid contact with eyes"
+  ],
+  "stop_use": [
+    "Stop use and ask doctor if • irritaion occurs • There is no improvement within 4 weeks (for athlete's foot or ringworm) or within 2 weeks (for jock itch)."
+  ],
+  "dosage_and_administration": [
+    "Directions • Wash the affected area and dry thoroughly. ● Apply a thin layer of this product over affected area twice daily (morning and night), or as directed by a doctor. ● Supervise children in the use of this product. ● For athlete’s foot, pay special attention to the spaces between the toes; wear well-fitting ventilated shoes, and change shoes and socks at least once daily. ● For athlete’s foot and ringworm, use daily for 4 weeks. For jock itch, use daily for 2 weeks. ● If conditions persists longer, consult a doctor. ● This product is not effective on the scalp or nails."
+  ],
+  "storage_and_handling": [
+    "Other Information • store at controlled room temperature 15°-30°C (59°- 86°F) • Close cap tightly after use."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Dimethyl Sulfoxide, Ethylparaben, Glycerin, Laureth-23, Mineral Oil, Petrolatum, Water, alcohol, Glyceryl mono and dipalmitostearate, Cetostearyl alcohol, edetate disodium, Butylated Hydroxytoluene."
+  ],
+  "questions": [
+    "Questions? Adverse drug event call 1-888-296-9067 Dist. By Trifecta Pharmaceuticals USA® 101 NE Third Avenue, Suite 1500 Ft. Lauderdale, FL 33301, USA Relabeled By: Preferred Pharmaceuticals Inc. NDC 68788-8330-2"
+  ],
+  "package_label_principal_display_panel": [
+    "Clotrimazole Cream USP 1%"
+  ],
+  "set_id": "0052992a-819c-4c55-bd88-201a09a3573a",
+  "id": "0052992a-819c-4c55-bd88-201a09a3573a",
+  "effective_time": "20250221",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M005"
+    ],
+    "brand_name": [
+      "Clotrimazole"
+    ],
+    "generic_name": [
+      "CLOTRIMAZOLE"
+    ],
+    "manufacturer_name": [
+      "Preferred Pharmaceuticals Inc."
+    ],
+    "product_ndc": [
+      "68788-8830"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CLOTRIMAZOLE"
+    ],
+    "rxcui": [
+      "309367"
+    ],
+    "spl_id": [
+      "0052992a-819c-4c55-bd88-201a09a3573a"
+    ],
+    "spl_set_id": [
+      "0052992a-819c-4c55-bd88-201a09a3573a"
+    ],
+    "package_ndc": [
+      "68788-8830-2"
+    ],
+    "original_packager_product_ndc": [
+      "69396-001"
+    ],
+    "nui": [
+      "N0000175487",
+      "M0002083"
+    ],
+    "pharm_class_epc": [
+      "Azole Antifungal [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Azoles [CS]"
+    ],
+    "unii": [
+      "G07GZ97H65"
+    ]
+  }
+}

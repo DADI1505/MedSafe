@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Hand Sanitizer Ethyl Alcohol WATER GLYCERIN ALOE VERA LEAF LIMONENE OXIDE, (+)- ALCOHOL ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Active ingredient Ethyl alcohol 62%"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Uses to decrease bacteria on the skin that could cause disease recommended for repeated use"
+  ],
+  "warnings": [
+    "Warnings For external use only: hands Flammable, keep away from fire or flame"
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water. avoid contact with broken skin do not inhale or ingest"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if irritation and redness develop condition persists for more than 72 hours"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions spray hands thoroughly with product and allow to dry without wiping for children under 6, use only under adult supervision not recommended for infants"
+  ],
+  "storage_and_handling": [
+    "Other information do not store above 105°F may discolor some fabrics harmful to wood finishes and plastics"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, glycerin, Aloe barbadensis leaf juice, fragrance, limonene"
+  ],
+  "adverse_reactions": [
+    "ADVERSE REACTION Distributed By: UpLift Brands, LLC St. Louis, MO 63114 1-888-593-0593"
+  ],
+  "spl_unclassified_section": [
+    "Claims *Effective at eliminating 99.99% of many common harmful germs and bacteria in as little as 15 seconds."
+  ],
+  "package_label_principal_display_panel": [
+    "principal display panel germ-X ® SINCE 1997 CITRUS SCENT HAND SANITIZER KILLS 99.99% OF GERMS* 2 FL OZ (59 mL) image description"
+  ],
+  "set_id": "03ed8a06-33aa-4893-824c-a3843962de3d",
+  "id": "4cc5808d-a6d7-1786-e063-6294a90a6541",
+  "effective_time": "20260311",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Hand Sanitizer"
+    ],
+    "generic_name": [
+      "ETHYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "UpLift Brands, LLC"
+    ],
+    "product_ndc": [
+      "83986-899"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "1020364"
+    ],
+    "spl_id": [
+      "4cc5808d-a6d7-1786-e063-6294a90a6541"
+    ],
+    "spl_set_id": [
+      "03ed8a06-33aa-4893-824c-a3843962de3d"
+    ],
+    "package_ndc": [
+      "83986-899-20"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

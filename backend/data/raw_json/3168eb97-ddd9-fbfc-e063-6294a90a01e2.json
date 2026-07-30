@@ -1,0 +1,95 @@
+{
+  "spl_product_data_elements": [
+    "Extra Strength Antacid Orange Cream Sugar Free Calcium Carbonate STARCH, CORN FD&C YELLOW NO. 6 ADIPIC ACID MAGNESIUM STEARATE MALTODEXTRIN SUCRALOSE SORBITOL CALCIUM CARBONATE CALCIUM CATION"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each tablet) Calcium carbonate 750 mg"
+  ],
+  "purpose": [
+    "Purpose Antacid"
+  ],
+  "indications_and_usage": [
+    "Uses relieves heartburn acid indigestion sour stomach upset stomach associated with these symptoms"
+  ],
+  "warnings": [
+    "Warnings Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product do not take more than 10 tablets in 24 hours. do not use the maximum dosage of this product for more than 2 weeks except under advice and supervision of a doctor if pregnant do not take more than 5 tablets in 24 hours. If pregnant or breast-feeding, ask a health professional before use Keep out of reach of children."
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs."
+  ],
+  "when_using": [
+    "When using this product do not take more than 10 tablets in 24 hours. do not use the maximum dosage of this product for more than 2 weeks except under advice and supervision of a doctor if pregnant do not take more than 5 tablets in 24 hours."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 12 years of age and over: chew 2-4 tablets, completely as symptoms occur, 2 times daily or as directed by a doctor. Do not swallow tablets whole. do not take for symptoms that persist for more than 2 weeks unless advised by a doctor."
+  ],
+  "other_safety_information": [
+    "Other information each tablet contains: calcium 300 mg store at room temperature (20-25°C (68-75°F)). Keep the container tightly closed. do not use if printed seal under cap is torn or missing."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients adipic acid, corn starch, FD&C Yellow No.6, flavors, magnesium stearate, maltodextrin, sorbitol, sucralose"
+  ],
+  "questions": [
+    "Questions or comments? +1-866-306-9136 You may also report serious side effects to this phone number. Mon-Fri 9:00 AM - 5:00 PM Eastern Time."
+  ],
+  "package_label_principal_display_panel": [
+    "image description"
+  ],
+  "set_id": "089a1cd5-954e-4c3f-ab4b-cac693a1d44a",
+  "id": "3168eb97-ddd9-fbfc-e063-6294a90a01e2",
+  "effective_time": "20250328",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M001"
+    ],
+    "brand_name": [
+      "Extra Strength Antacid Orange Cream Sugar Free"
+    ],
+    "generic_name": [
+      "CALCIUM CARBONATE"
+    ],
+    "manufacturer_name": [
+      "Rite Aid"
+    ],
+    "product_ndc": [
+      "11822-3542"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CALCIUM CARBONATE"
+    ],
+    "rxcui": [
+      "308915"
+    ],
+    "spl_id": [
+      "3168eb97-ddd9-fbfc-e063-6294a90a01e2"
+    ],
+    "spl_set_id": [
+      "089a1cd5-954e-4c3f-ab4b-cac693a1d44a"
+    ],
+    "package_ndc": [
+      "11822-3542-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0011822026666"
+    ],
+    "unii": [
+      "H0G9379FGK"
+    ]
+  }
+}

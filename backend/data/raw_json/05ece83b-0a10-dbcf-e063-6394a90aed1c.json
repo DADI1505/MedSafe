@@ -1,0 +1,91 @@
+{
+  "spl_product_data_elements": [
+    "Reoganic EX Whitening Pore Care Deodorant Arbutin, Niacinamide, Adenosine NIACINAMIDE NIACINAMIDE ADENOSINE ADENOSINE ARBUTIN ARBUTIN WATER HYALURONATE SODIUM"
+  ],
+  "active_ingredient": [
+    "Arbutin, Niacinamide, Adenosine"
+  ],
+  "inactive_ingredient": [
+    "Water Alcohol Denat Dipropylene Glycol 1,2-Hexanediol PEG-60 Hydrogenated Castor Oil Methyl Diisopropyl Propionamide Silica Caprylyl Glycol Carbomer Tromethamine Allantoin Ethylhexylglycerin Disodium EDTA Rosmarinus Officinalis (Rosemary) Leaf Extract Chamomilla Recutita (Matricaria) Flower Extract Centella Asiatica Extract Salvia Officinalis (Sage) Leaf Extract Portulaca Oleracea Extract Nelumbo Nucifera Flower Extract Olea Europaea (Olive) Fruit Extract Melaleuca Alternifolia (Tea Tree) Extract Tremella Fuciformis (Mushroom) Extract Salix Alba (Willow) Bark Extract Glycerin Butylene Glycol Sodium Hyaluronate Glutathione Fragrance Benzyl Salicylate Coumarin Limonene Linalool"
+  ],
+  "purpose": [
+    "skin protect"
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF THE CHILDREN"
+  ],
+  "indications_and_usage": [
+    "Before use, remove sweat, water, and oil, and apply evenly to the armpit while rolling the ball in a clean state, then dry completely before wearing clothes."
+  ],
+  "warnings": [
+    "[Precautions for use] 1. During using product or after use, if there are any abnormal symptoms or side effects such as red spots, swelling, or itching on the area of use due to direct sunlight, con sult with a specialist. 2. Refrain from using on areas with scars, etc. 3. Pre cautions for storage and handling A) Keep out of reach of children B) Store away from direct sunlight 4. For arbutin, papules and mild itching have been repo rted in 「Human Application Test Data」."
+  ],
+  "dosage_and_administration": [
+    "topical use only"
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "1"
+  ],
+  "set_id": "05ece831-63e8-d347-e063-6294a90a4347",
+  "id": "05ece83b-0a10-dbcf-e063-6394a90aed1c",
+  "effective_time": "20230922",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Reoganic EX Whitening Pore Care Deodorant"
+    ],
+    "generic_name": [
+      "ARBUTIN, NIACINAMIDE, ADENOSINE"
+    ],
+    "manufacturer_name": [
+      "LAON COMMERCE co ltd"
+    ],
+    "product_ndc": [
+      "82083-0025"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "NIACINAMIDE",
+      "ADENOSINE",
+      "ARBUTIN"
+    ],
+    "spl_id": [
+      "05ece83b-0a10-dbcf-e063-6394a90aed1c"
+    ],
+    "spl_set_id": [
+      "05ece831-63e8-d347-e063-6294a90a4347"
+    ],
+    "package_ndc": [
+      "82083-0025-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "8809713361956"
+    ],
+    "nui": [
+      "N0000178375",
+      "N0000175788"
+    ],
+    "pharm_class_epc": [
+      "Adenosine Receptor Agonist [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Adenosine Receptor Agonists [MoA]"
+    ],
+    "unii": [
+      "25X51I8RD4",
+      "K72T3FS567",
+      "C5INA23HXF"
+    ]
+  }
+}

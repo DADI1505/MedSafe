@@ -1,0 +1,130 @@
+{
+  "spl_product_data_elements": [
+    "Vital Immune Booster Apis Mellifica, Borax, Carduus Marianus, Cistus Canadensis, Echinacea (Angustifolia), Galium Aparine, Hepar Suis, Hepar Sulphuris Calcareum, Human Growth Hormone, Hypophysis Suis, Nitricum Acidum, Phytolacca Decandra, Sulphur, Thuja Occidentalis, Thymus Suis APIS MELLIFERA APIS MELLIFERA SODIUM BORATE BORATE ION MILK THISTLE MILK THISTLE CROCANTHEMUM CANADENSE CROCANTHEMUM CANADENSE ECHINACEA ANGUSTIFOLIA WHOLE ECHINACEA ANGUSTIFOLIA GALIUM APARINE WHOLE GALIUM APARINE PORK LIVER PORK LIVER CALCIUM SULFIDE CALCIUM SULFIDE SOMATROPIN SOMATROPIN SUS SCROFA PITUITARY GLAND SUS SCROFA PITUITARY GLAND NITRIC ACID NITRIC ACID PHYTOLACCA AMERICANA ROOT PHYTOLACCA AMERICANA ROOT SULFUR SULFUR THUJA OCCIDENTALIS LEAFY TWIG THUJA OCCIDENTALIS LEAFY TWIG SUS SCROFA THYMUS SUS SCROFA THYMUS WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: (in each spray): 6.67% of Apis Mellifica 200C, Borax 30C, Carduus Marianus 3X, Cistus Canadensis 200C, Echinacea 3X, Galium Aparine 3X, Hepar Suis 6X, Hepar Sulphuris Calcareum 30X, Human Growth Hormone 30X, Hypophysis Suis 30X, Nitricum Acidum 30C, Phytolacca Decandra 6X, Sulphur 200C, Thuja Occidentalis 200C, Thymus Suis 6X."
+  ],
+  "purpose": [
+    "PURPOSE: May help support the body's natural defense mechanisms and may temporarily relieve symptoms such as: • tendency towards colds or flu • intermittent joint pain • weakness and fatigue • occasional sleeplessness** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS: Do not use if you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have been diagnosed with a condition known to weaken immunity such as HIV, the virus that causes AIDS. Stop use and ask a doctor if symptoms persist for more than 7 days, worsen, or if new symptoms occur. Keep out of reach of children. In case of overdose, get medical help or call a Poison Control Center right away. If pregnant or breast-feeding, ask a health professional before use. Do not use if TAMPER EVIDENT seal around neck of bottle is missing or broken. Store at room temperature."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or call a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Adults Only: Spray twice under the tongue three times a day. This bottle contains about a 1 month supply. Some notice improvement within 2 to 3 weeks, others longer."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: May help support the body's natural defense mechanisms and may temporarily relieve symptoms such as: • tendency towards colds or flu • intermittent joint pain • weakness and fatigue • occasional sleeplessness** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Organic alcohol 20% v/v, Purified water."
+  ],
+  "questions": [
+    "QUESTIONS: DIST. BY LIDDELL LABORATORIES INC. 201 APPLE BLVD. WOODBINE, IA 51579 WWW.LIDDELL.NET 1-800-460-7733"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: VITÀL IMMUNE BOOSTER with echinacea HOMEOPATHIC 1.0 FL OZ. (30 ml) LIDDELL® VITAL IMMUNE BOOSTER LBL VITAL IMMUNE BOOSTER CTN"
+  ],
+  "set_id": "00b4102a-ad23-4654-b86b-1dd1868d4ca2",
+  "id": "0184d26d-4a34-4ec7-8ae9-3cd26ef6b674",
+  "effective_time": "20250131",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Vital Immune Booster"
+    ],
+    "generic_name": [
+      "APIS MELLIFICA, BORAX, CARDUUS MARIANUS, CISTUS CANADENSIS, ECHINACEA (ANGUSTIFOLIA), GALIUM APARINE, HEPAR SUIS, HEPAR SULPHURIS CALCAREUM, HUMAN GROWTH HORMONE, HYPOPHYSIS SUIS, NITRICUM ACIDUM, PHYTOLACCA DECANDRA, SULPHUR, THUJA OCCIDENTALIS, THYMUS SUIS"
+    ],
+    "manufacturer_name": [
+      "Liddell Laboratories, Inc."
+    ],
+    "product_ndc": [
+      "50845-0283"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "APIS MELLIFERA",
+      "SODIUM BORATE",
+      "MILK THISTLE",
+      "CROCANTHEMUM CANADENSE",
+      "ECHINACEA ANGUSTIFOLIA WHOLE",
+      "GALIUM APARINE WHOLE",
+      "PORK LIVER",
+      "CALCIUM SULFIDE",
+      "SOMATROPIN",
+      "SUS SCROFA PITUITARY GLAND",
+      "NITRIC ACID",
+      "PHYTOLACCA AMERICANA ROOT",
+      "SULFUR",
+      "THUJA OCCIDENTALIS LEAFY TWIG",
+      "SUS SCROFA THYMUS"
+    ],
+    "spl_id": [
+      "0184d26d-4a34-4ec7-8ae9-3cd26ef6b674"
+    ],
+    "spl_set_id": [
+      "00b4102a-ad23-4654-b86b-1dd1868d4ca2"
+    ],
+    "package_ndc": [
+      "50845-0283-1",
+      "50845-0283-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0363113283969"
+    ],
+    "nui": [
+      "N0000185021",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0002274",
+      "N0000175606",
+      "M0028842"
+    ],
+    "pharm_class_epc": [
+      "Standardized Insect Venom Allergenic Extract [EPC]",
+      "Recombinant Human Growth Hormone [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Bee Venoms [CS]",
+      "Human Growth Hormone [CS]"
+    ],
+    "unii": [
+      "7S82P3R43Z",
+      "91MBZ8H3QO",
+      "U946SH95EE",
+      "46G3W789Q3",
+      "VB06AV5US8",
+      "Z4B6561488",
+      "6EC706HI7F",
+      "1MBW07J51Q",
+      "NQX9KB6PCL",
+      "L0PFEMQ1DT",
+      "411VRN1TV4",
+      "11E6VI8VEG",
+      "70FD1KFU70",
+      "1NT28V9397",
+      "7B69B0BD62"
+    ]
+  }
+}

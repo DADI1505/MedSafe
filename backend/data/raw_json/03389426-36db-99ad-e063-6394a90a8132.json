@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Lithium Iodatum Lithium Iodatum LITHIUM IODATE IODATE ION SUCROSE Lithium Iodatum Lithium Iodatum SUCROSE LITHIUM IODATE IODATE ION Lithium Iodatum Lithium Iodatum LITHIUM IODATE IODATE ION SUCROSE Lithium Iodatum Lithium Iodatum SUCROSE LITHIUM IODATE IODATE ION Lithium Iodatum Lithium Iodatum SUCROSE LITHIUM IODATE IODATE ION Lithium Iodatum Lithium Iodatum SUCROSE LITHIUM IODATE IODATE ION Lithium Iodatum Lithium Iodatum SUCROSE LITHIUM IODATE IODATE ION Lithium Iodatum Lithium Iodatum SUCROSE LITHIUM IODATE IODATE ION"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Lithium Iodatum 6C 5g Lithium Iodatum 6C 30g Lithium Iodatum 6C 100g Lithium Iodatum 12C 5g Lithium Iodatum 12C 30g Lithium Iodatum 12C 100g Lithium Iodatum 30C 1g Lithium Iodatum 30C 5g Lithium Iodatum 30C 30g Lithium Iodatum 30C 100g Lithium Iodatum 100C 1g Lithium Iodatum 100C 5g Lithium Iodatum 100C 30g Lithium Iodatum 100C 100g Lithium Iodatum 200C 1g Lithium Iodatum 200C 5g Lithium Iodatum 200C 30g Lithium Iodatum 200C 100g Lithium Iodatum 500C 1g Lithium Iodatum 500C 5g Lithium Iodatum 500C 30g Lithium Iodatum 500C 100g Lithium Iodatum 1M 1g Lithium Iodatum 1M 5g Lithium Iodatum 1M 30g Lithium Iodatum 1M 100g Lithium Iodatum LM1 30g"
+  ],
+  "set_id": "03389426-36da-99ad-e063-6394a90a8132",
+  "id": "03389426-36db-99ad-e063-6394a90a8132",
+  "effective_time": "20230818",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Lithium Iodatum"
+    ],
+    "generic_name": [
+      "LITHIUM IODATUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3761",
+      "37662-3762",
+      "37662-3764",
+      "37662-3765",
+      "37662-3766",
+      "37662-3767",
+      "37662-3768",
+      "37662-3763"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LITHIUM IODATE"
+    ],
+    "spl_id": [
+      "03389426-36db-99ad-e063-6394a90a8132"
+    ],
+    "spl_set_id": [
+      "03389426-36da-99ad-e063-6394a90a8132"
+    ],
+    "package_ndc": [
+      "37662-3762-1",
+      "37662-3762-2",
+      "37662-3762-3",
+      "37662-3764-1",
+      "37662-3764-2",
+      "37662-3764-3",
+      "37662-3764-4",
+      "37662-3761-1",
+      "37662-3761-2",
+      "37662-3761-3",
+      "37662-3765-1",
+      "37662-3765-2",
+      "37662-3765-3",
+      "37662-3765-4",
+      "37662-3766-1",
+      "37662-3766-2",
+      "37662-3766-3",
+      "37662-3766-4",
+      "37662-3767-1",
+      "37662-3767-2",
+      "37662-3767-3",
+      "37662-3767-4",
+      "37662-3768-1",
+      "37662-3763-1",
+      "37662-3763-2",
+      "37662-3763-3",
+      "37662-3763-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "1685PBD1HF"
+    ]
+  }
+}

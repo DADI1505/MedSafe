@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "North Star Nutritionals Soothanol X3 Pain Relieving Drops MENTHOL ARNICA MONTANA WHOLE CALENDULA OFFICINALIS FLOWER CAPSAICIN DIMETHYL SULFONE DIMETHYL SULFOXIDE EMU OIL METHYL SALICYLATE GLYCERIN HYPERICUM PERFORATUM LEAF OLIVE OIL PROPYLENE GLYCOL WATER MENTHOL MENTHOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information Store at 15–30°C (59–86°F). Keep container tightly closed. Protect from heat and direct sunlight."
+  ],
+  "active_ingredient": [
+    "Active ingredients Menthol 13% Purpose Topical Analgesic"
+  ],
+  "purpose": [
+    "Purpose Topical Analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses For temporary relief of: • Muscle aches • Joint pain • Backaches • Arthritis discomfort • Strains and sprains"
+  ],
+  "warnings": [
+    "Warnings For external use only. Avoid contact with eyes and mucous membranes. Do not apply to damaged or irritated skin. Do not bandage tightly. Keep out of reach of children. If swallowed get medical help or contact a Poison Control Center immediately. Stop use and ask a doctor if: Condition worsens. Symptoms persist for more than 7 days or clear up and occur again within a few days. Excessive irritation occurs If pregnant or breast feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed get medical help or contact a Poison Control Center immediately."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if: Condition worsens. Symptoms persist for more than 7 days or clear up and occur again within a few days. Excessive irritation occurs"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast feeding, ask a health professional before use."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 12 years of age and older: Dispense a small amount using the dropper. Apply to affected area. Massage gently until absorbed. Use up to 3–4 times daily or as directed by a healthcare professional. Children under 12 years of age: consult a physician. Do not use otherwise than as directed."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Arnica Montana Extract, Calendula Officinalis Extract, Capsaicin, Dimethyl Sulfone (MSM), Dimethyl Sulfoxide (DMSO), Emu Oil (Dromaius), Gaultheria Procumbens (Wintergreen) Leaf Oil, Glycerin, Hypericum Perforatum (St. John’s Wort) Leaf Extract, Olea Europaea (Olive) Fruit Oil,Propylene Glycol, Water (Aqua)."
+  ],
+  "questions": [
+    "Questions? Need to Refill? (800)913-2592 • www.NorthStarNutritionals.com"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Label"
+  ],
+  "set_id": "068343b8-0435-40d0-846c-9d8624e8b6c4",
+  "id": "525231f9-8d5d-ac0b-e063-6394a90ace35",
+  "effective_time": "20260521",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "North Star Nutritionals Soothanol X3 Pain Relieving Drops"
+    ],
+    "generic_name": [
+      "MENTHOL"
+    ],
+    "manufacturer_name": [
+      "NEWMARKET HEALTH PRODUCTS, LLC"
+    ],
+    "product_ndc": [
+      "50972-950"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MENTHOL"
+    ],
+    "rxcui": [
+      "2743526"
+    ],
+    "spl_id": [
+      "525231f9-8d5d-ac0b-e063-6394a90ace35"
+    ],
+    "spl_set_id": [
+      "068343b8-0435-40d0-846c-9d8624e8b6c4"
+    ],
+    "package_ndc": [
+      "50972-950-00"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

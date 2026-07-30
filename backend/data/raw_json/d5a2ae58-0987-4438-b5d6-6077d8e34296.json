@@ -1,0 +1,124 @@
+{
+  "spl_product_data_elements": [
+    "Solvent/Small Ring Combination 9317 Solvent/Small Ring Combination BLACK COHOSH BLACK COHOSH GELSEMIUM SEMPERVIRENS ROOT GELSEMIUM SEMPERVIRENS ROOT STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED BERBERIS VULGARIS ROOT BARK BERBERIS VULGARIS ROOT BARK CHELIDONIUM MAJUS WHOLE CHELIDONIUM MAJUS WHOLE ANILINE ANILINE CYCLOHEXANOL CYCLOHEXANOL ESTRADIOL BENZOATE ESTRADIOL Mercuric cation Mercuric cation TOLUENE TOLUENE MUSK XYLENE MUSK XYLENE BENZENE BENZENE ALCOHOL WATER"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS Cimicifuga racemosa 3X Gelsemium sempervirens 3X Nux vomica 6X Berberis vulgaris 10X Chelidonium majus 10X Anilinum 12X Cyclohexanol 12X Estradiol benzoate 12X Phenylmercuric nitrate 12X Toluol 12X Xylol 12X Benzinum 14X"
+  ],
+  "questions": [
+    "QUESTIONS Professional Formulas PO Box 2034 Lake Oswego, OR 97035"
+  ],
+  "indications_and_usage": [
+    "INDICATIONS For the temporary relief of occasional headache, cough, minor sore throat, red or irritated skin or eyes, weakness, nausea, or vomiting.*"
+  ],
+  "purpose": [
+    "*Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS Consult a doctor if condition worsens or if symptoms persist. Keep out of the reach of children. In case of overdose, get medical help or contact a poison control center right away. If pregnant or breastfeeding, ask a healthcare professional before use. Keep out of the reach of children. If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take 10 drops up to 3 times per day. Consult a physician for use in children under 12 years of age."
+  ],
+  "other_safety_information": [
+    "OTHER INFORMATION Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS 40% ethanol, purified water."
+  ],
+  "package_label_principal_display_panel": [
+    "LABEL Est 1985 Professional Formulas Complementary Health Solvent/Small Ring Combination Homeopathic Remedy 1 FL. OZ. (29.5 mL) Label image"
+  ],
+  "set_id": "01a1b313-3edb-4907-9d9b-bb1d1061b4ef",
+  "id": "d5a2ae58-0987-4438-b5d6-6077d8e34296",
+  "effective_time": "20260108",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Solvent/Small Ring Combination 9317"
+    ],
+    "generic_name": [
+      "SOLVENT/SMALL RING COMBINATION"
+    ],
+    "manufacturer_name": [
+      "Professional Complementary Health Formulas"
+    ],
+    "product_ndc": [
+      "63083-9317"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BLACK COHOSH",
+      "GELSEMIUM SEMPERVIRENS ROOT",
+      "STRYCHNOS NUX-VOMICA SEED",
+      "BERBERIS VULGARIS ROOT BARK",
+      "CHELIDONIUM MAJUS WHOLE",
+      "ANILINE",
+      "CYCLOHEXANOL",
+      "ESTRADIOL BENZOATE",
+      "MERCURIC CATION",
+      "TOLUENE",
+      "MUSK XYLENE",
+      "BENZENE"
+    ],
+    "spl_id": [
+      "d5a2ae58-0987-4438-b5d6-6077d8e34296"
+    ],
+    "spl_set_id": [
+      "01a1b313-3edb-4907-9d9b-bb1d1061b4ef"
+    ],
+    "package_ndc": [
+      "63083-9317-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0016962",
+      "M0516536"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Plant Proteins [CS]",
+      "Seed Storage Proteins [CS]"
+    ],
+    "unii": [
+      "K73E24S6X9",
+      "639KR60Q1Q",
+      "269XH13919",
+      "1TH8Q20J0U",
+      "7E889U5RNN",
+      "SIR7XX2F1K",
+      "8E7S519M3P",
+      "1S4CJB5ZGN",
+      "ED30FJ8Y42",
+      "3FPU23BG52",
+      "1ZAO16GU5K",
+      "J64922108F"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "Microflora Drops 2045 Microflora Drops BOS TAURUS COLOSTRUM IMMUNOGLOBULINS BOS TAURUS COLOSTRUM IMMUNOGLOBULINS ENTEROCOCCUS FAECIUM ENTEROCOCCUS FAECIUM LACTOBACILLUS ACIDOPHILUS LACTOBACILLUS ACIDOPHILUS PREVOTELLA INTERMEDIA PREVOTELLA INTERMEDIA ALCOHOL WATER"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS Colostrum 4X Ventrux 5X Enterococcus faecium 12X Lactobacillus acidophilus 12X Bacteroides 30X"
+  ],
+  "questions": [
+    "QUESTIONS Professional Formulas PO Box 2034 Lake Oswego, OR 97035"
+  ],
+  "indications_and_usage": [
+    "INDICATIONS For the temporary relief of mild abdominal pain, bloating, diarrhea, or constipation.*"
+  ],
+  "purpose": [
+    "*Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS Consult a doctor if condition worsens or if symptoms persist. Keep out of the reach of children. In case of overdose, get medical help or contact a poison control center right away. If pregnant or breastfeeding, ask a healthcare professional before use. Keep out of the reach of children. If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take 10 drops up to 3 times per day. Consult a physician for use in children under 12 years of age."
+  ],
+  "other_safety_information": [
+    "OTHER INFORMATION Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS 20% ethanol, purified water."
+  ],
+  "package_label_principal_display_panel": [
+    "LABEL Est 1985 Professional Formulas Complementary Health Microflora Drops Homeopathic Remedy 2 FL. OZ. (59 mL) Label image"
+  ],
+  "set_id": "06109931-4597-4bc1-a4bc-2b312c2b01ca",
+  "id": "9fc40e04-5a4c-4dfc-9c30-a499c6acedb8",
+  "effective_time": "20260108",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Microflora Drops 2045"
+    ],
+    "generic_name": [
+      "MICROFLORA DROPS"
+    ],
+    "manufacturer_name": [
+      "Professional Complementary Health Formulas"
+    ],
+    "product_ndc": [
+      "63083-2045"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BOS TAURUS COLOSTRUM IMMUNOGLOBULINS",
+      "ENTEROCOCCUS FAECIUM",
+      "LACTOBACILLUS ACIDOPHILUS",
+      "PREVOTELLA INTERMEDIA"
+    ],
+    "spl_id": [
+      "9fc40e04-5a4c-4dfc-9c30-a499c6acedb8"
+    ],
+    "spl_set_id": [
+      "06109931-4597-4bc1-a4bc-2b312c2b01ca"
+    ],
+    "package_ndc": [
+      "63083-2045-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "EP5SDKM7A0",
+      "34YYS7G16P",
+      "1PRR1V42V5",
+      "15W490729X"
+    ]
+  }
+}

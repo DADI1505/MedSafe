@@ -1,0 +1,117 @@
+{
+  "spl_product_data_elements": [
+    "Folcyteine Multivitamin STEARIC ACID CALCIUM CITRATE CALCIUM CATION CALCIUM CITRATE LACTOSE MONOHYDRATE CHOLECALCIFEROL CHOLECALCIFEROL FOLIC ACID FOLIC ACID ACETYLCYSTEINE ACETYLCYSTEINE POLYETHYLENE GLYCOL 400 CELLULOSE, MICROCRYSTALLINE SODIUM STARCH GLYCOLATE TYPE A MAGNESIUM CITRATE MAGNESIUM CATION MAGNESIUM STEARATE HYPROMELLOSES Pale Yellow"
+  ],
+  "description": [
+    "Prescribing Information: Description : Folcyteine™ caplets are intended for oral administration. Active Ingredients : Each caplet contains : Vitamin D3 (as Cholecalciferol) .................. 20 mcg (800 IU) Folate (as Folic Acid)...1,667 mcg DFE (1,000 mcg Folic Acid) Calcium (as Calcium Citrate)....................................... 47 mg Magnesium (as Magnesium Citrate)........................... 16 mg N-Acetyl-L-Cysteine................................................... 200 mg"
+  ],
+  "spl_unclassified_section": [
+    "Other Ingredients : Lactose Monohydrate, Magnesium Stearate, Microcrystalline Cellulose, Sodium Carboxymethyl Starch, Stearic Acid, Coating (Hydroxypropyl Methylcellulose, Polyethylene Glycol 400)."
+  ],
+  "indications_and_usage": [
+    "Indications and Usage : Folcyteine™ is indicated as a vitamin, mineral supplementation for adult men and women. Folic acid is used to treat megaloblastic anemia caused by folic acid deficiency, including cases associated with tropical or nontropical sprue, as well as anemia due to nutritional deficiency or pregnancy."
+  ],
+  "contraindications": [
+    "Contraindications : This product is contraindicated in patients with a known hypersensitivity to any of the ingredients. Folcyteine™ is contraindicated in patients with hypercalcemia, malabsorption syndrome, abnormal sensitivity to the toxic effects of vitamin D, and hypervitaminosis D."
+  ],
+  "warnings": [
+    "Warnings : Patients with kidney disease or thyroid disease should consult a physician or healthcare provider before using this product. Use during pregnancy or breast-feeding only as directed. Administration of folic acid alone is improper therapy for pernicious anemia and other megaloblastic anemias caused by vitamin B12 deficiency."
+  ],
+  "precautions": [
+    "Precautions : Folic acid in doses above 0.1 mg daily may obscure pernicious anemia, in that hematologic remission can occur while neurological manifestations remain progressive. There is a potential danger in administering folate to patients with undiagnosed anemia, since folic acid may obscure the diagnosis of pernicious anemia by alleviating the hematologic manifestations of the disease while allowing the neurologic complications to progress. This may result in severe nervous system damage before the correct diagnosis is made. The patient’s medical conditions and consumption of other drugs, herbs, and/or supplements should be considered."
+  ],
+  "adverse_reactions": [
+    "Adverse Reactions : Allergic sensitization has been reported following both oral and parenteral administration of folic acid. To report side effects, call PureTek Corporation at 1-877-921-7873 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "dosage_and_administration": [
+    "Dosage and Administration : One (1) Folcyteine™ caplet daily or as directed by a physician. Do not administer to children under the age of 12."
+  ],
+  "how_supplied": [
+    "How Supplied : Folcyteine™ are pale yellow, clear film-coated caplets in bottles containing 30 caplets – NDC 59088-795-54. Dispense in a tight, light-resistant container as defined in the USP/NF with a child-resistant closure."
+  ],
+  "storage_and_handling": [
+    "Store at 20 to 25°C (68 to 77°F) [see USP Controlled Room Temperature]. Protect from light and moisture. Avoid excessive heat. Do not use if the seal under bottle cap is broken. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN. Manufactured in the USA by: PureTek Corporation Panorama City, CA 91402 For questions or information call toll-free: 1-877-921-7873"
+  ],
+  "package_label_principal_display_panel": [
+    "Folcyteine™ label"
+  ],
+  "set_id": "04cf0026-e29b-ffd5-e063-6294a90aca1f",
+  "id": "5592f382-e77e-a812-e063-6294a90a905c",
+  "effective_time": "20260708",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Folcyteine"
+    ],
+    "generic_name": [
+      "MULTIVITAMIN"
+    ],
+    "manufacturer_name": [
+      "PureTek Corporation"
+    ],
+    "product_ndc": [
+      "59088-795"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CALCIUM CITRATE",
+      "CHOLECALCIFEROL",
+      "FOLIC ACID",
+      "ACETYLCYSTEINE",
+      "MAGNESIUM CITRATE"
+    ],
+    "spl_id": [
+      "5592f382-e77e-a812-e063-6294a90a905c"
+    ],
+    "spl_set_id": [
+      "04cf0026-e29b-ffd5-e063-6294a90aca1f"
+    ],
+    "package_ndc": [
+      "59088-795-54"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0359088795545"
+    ],
+    "nui": [
+      "M0022797",
+      "N0000175952",
+      "N0000175429",
+      "N0000175961",
+      "N0000008867",
+      "N0000175960",
+      "N0000175776",
+      "N0000175547"
+    ],
+    "pharm_class_cs": [
+      "Vitamin D [CS]"
+    ],
+    "pharm_class_epc": [
+      "Vitamin D [EPC]",
+      "Antidote [EPC]",
+      "Antidote for Acetaminophen Overdose [EPC]",
+      "Mucolytic [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Decreased Respiratory Secretion Viscosity [PE]",
+      "Increased Glutathione Concentration [PE]"
+    ],
+    "pharm_class_moa": [
+      "Reduction Activity [MoA]"
+    ],
+    "unii": [
+      "MLM29U2X85",
+      "1C6V77QF41",
+      "935E97BOY8",
+      "WYQ7N0BPYC",
+      "RHO26O1T9V"
+    ]
+  }
+}

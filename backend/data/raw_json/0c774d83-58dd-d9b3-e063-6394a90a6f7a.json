@@ -1,0 +1,110 @@
+{
+  "spl_product_data_elements": [
+    "All Day Allergy Relief Cetirizine Hydrochloride HYPROMELLOSES MAGNESIUM STEARATE TITANIUM DIOXIDE POLYETHYLENE GLYCOL, UNSPECIFIED POVIDONE LACTOSE MONOHYDRATE STARCH, CORN CETIRIZINE HYDROCHLORIDE CETIRIZINE Rounded-off, rectangular shaped tablet J;220 White to off white"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each tablet) Cetirizine HCl 10 mg"
+  ],
+  "purpose": [
+    "Purpose Antihistamine"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat"
+  ],
+  "warnings": [
+    "Warnings"
+  ],
+  "do_not_use": [
+    "Do not use if you have ever had an allergic reaction to this product or any of its ingredients, or to an antihistamine containing hydroxyzine."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose."
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives."
+  ],
+  "when_using": [
+    "When using this product drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding if breast-feeding: Not recommended if pregnant: Ask a health professional before use"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor"
+  ],
+  "dosage_and_administration_table": [
+    "<table border=\"0\" width=\"100%\"><tbody><tr><td>adults and children 6 years and over</td><td>one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms.</td></tr><tr><td>adults 65 years and over</td><td><paragraph>ask a doctor</paragraph></td></tr><tr><td>children under 6 years of age</td><td><paragraph>ask a doctor</paragraph></td></tr><tr><td>consumers with liver or kidney disease</td><td><paragraph>ask a doctor</paragraph></td></tr></tbody></table>"
+  ],
+  "other_safety_information": [
+    "Other information store between 20° to 25°C (68° to 77°F)."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients corn starch, hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, povidone, titanium dioxide"
+  ],
+  "questions": [
+    "Questions or comments? Call 1-888-309-9030"
+  ],
+  "package_label_principal_display_panel": [
+    "dg-45ct-label-1 dg-45ct-ifc"
+  ],
+  "set_id": "0643ea78-9709-8526-e063-6394a90a227b",
+  "id": "0c774d83-58dd-d9b3-e063-6394a90a6f7a",
+  "effective_time": "20231215",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "ANDA078933"
+    ],
+    "brand_name": [
+      "All Day Allergy Relief"
+    ],
+    "generic_name": [
+      "CETIRIZINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "DOLGENCORP, INC."
+    ],
+    "product_ndc": [
+      "55910-269"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CETIRIZINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1014678"
+    ],
+    "spl_id": [
+      "0c774d83-58dd-d9b3-e063-6394a90a6f7a"
+    ],
+    "spl_set_id": [
+      "0643ea78-9709-8526-e063-6394a90a227b"
+    ],
+    "package_ndc": [
+      "55910-269-58"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0355910269581"
+    ],
+    "unii": [
+      "64O047KTOA"
+    ]
+  }
+}

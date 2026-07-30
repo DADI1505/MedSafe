@@ -1,0 +1,100 @@
+{
+  "spl_product_data_elements": [
+    "Meijer Medicated Chest Rub camphor, menthol, eucalyptus oil PARAFFIN THYMOL TURPENTINE OIL CEDAR LEAF OIL NUTMEG OIL CAMPHOR (SYNTHETIC) CAMPHOR (SYNTHETIC) MENTHOL MENTHOL EUCALYPTUS OIL EUCALYPTUS OIL PETROLATUM"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Camphor 4.8% Menthol 2.6% Eucalyptus oil 1.2%"
+  ],
+  "purpose": [
+    "Purposes cough suppressant / topical analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses Uses Temporarily relieves throat and chest ■cough ■ nasal congestion due to common cold ■aching muscles ■ minor aches and pains"
+  ],
+  "warnings": [
+    "Warning For external use only Avoid contact with eyes Do not Use Do not use ■by mouth ■ in nostrils ■on wounds or damaged skin ■ with tight bandages Ask a doctor before use if you have Ask a doctor before use if you have ■asthma ■excessive phlegm (mucus) ■emphysema ■persistent or chronic cough ■cough associated with smoking When using this product do not When using this product do not ■heat ■microwave ■use near open flame ■ Add hot water or any container where heating water may cause splattering and result in burns. Stop use and ask a doctor if Stop use and ask a doctor if ■muscle aches/pain persists more than 7 days()( comes back ■cough lasts more than 7 days, comes back, or occurs with fever, rash, or headache that lasts. These could be signs of a serious condition. If pregnant or breastfeeding ask a health professional before use Keep out of reach of children Keep out of reach of children. In case of accidental ingestion, get medical help, or contact Poison Control Center (1-800-222-1222) right away"
+  ],
+  "do_not_use": [
+    "Do not Use Do not use ■by mouth ■ in nostrils ■on wounds or damaged skin ■ with tight bandages",
+    "Ask a doctor before use if you have Ask a doctor before use if you have ■asthma ■excessive phlegm (mucus) ■emphysema ■persistent or chronic cough ■cough associated with smoking"
+  ],
+  "when_using": [
+    "When using this product do not When using this product do not ■heat ■microwave ■use near open flame ■ Add hot water or any container where heating water may cause splattering and result in burns."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if Stop use and ask a doctor if ■muscle aches/pain persists more than 7 days()( comes back ■cough lasts more than 7 days, comes back, or occurs with fever, rash, or headache that lasts. These could be signs of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding ask a health professional before use"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Keep out of reach of children. In case of accidental ingestion, get medical help, or contact Poison Control Center (1-800-222-1222) right away"
+  ],
+  "dosage_and_administration": [
+    "Directions Directions ■ see important warnings above ■children under 2 years of age, ask a doctor before using this product ■adults and children 2 years and older, rub a thick layer on chest and throat or rub on sore aching muscles. If desired cover it with a dry soft cloth but keep clothing loose. Repeat up to 3 times daily."
+  ],
+  "other_safety_information": [
+    "Other Information Store at room temperature"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients cedar leaf oil, nutmeg oil, paraffin, petrolatum, thymol, turpentine oil"
+  ],
+  "questions": [
+    "Questions or comments? Call toll free 1-866-326-1313"
+  ],
+  "package_label_principal_display_panel": [
+    "label"
+  ],
+  "set_id": "07ecc6a7-bbe3-35cf-e063-6394a90a2180",
+  "id": "190dbbcc-f7c5-7965-e063-6294a90aec46",
+  "effective_time": "20240522",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Meijer Medicated Chest Rub"
+    ],
+    "generic_name": [
+      "CAMPHOR, MENTHOL, EUCALYPTUS OIL"
+    ],
+    "manufacturer_name": [
+      "Meijer Distribution"
+    ],
+    "product_ndc": [
+      "79481-0047"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CAMPHOR (SYNTHETIC)",
+      "MENTHOL",
+      "EUCALYPTUS OIL"
+    ],
+    "rxcui": [
+      "1547992"
+    ],
+    "spl_id": [
+      "190dbbcc-f7c5-7965-e063-6294a90aec46"
+    ],
+    "spl_set_id": [
+      "07ecc6a7-bbe3-35cf-e063-6394a90a2180"
+    ],
+    "package_ndc": [
+      "79481-0047-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "5TJD82A1ET",
+      "L7T10EIP3A",
+      "2R04ONI662"
+    ]
+  }
+}

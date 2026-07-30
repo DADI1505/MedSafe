@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Dove Manuka Honey and Retinol Smoothing 48h Antiperspirant Deodorant LINALOOL, (+/-)- SUNFLOWER OIL BENZYL CINNAMATE .BETA.-CITRONELLOL, (R)- LIMONENE, (+)- CYCLOMETHICONE 5 CALCIUM CHLORIDE WATER ALKYL (C12-15) BENZOATE SYNTHETIC WAX (1200 MW) ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE GLYCERIN CETYL PEG/PPG-10/1 DIMETHICONE (HLB 4) GLYCINE RETINOL SHEA BUTTER BENZYL ALCOHOL HONEY COUMARIN BENZYL SALICYLATE FARNESOL .ALPHA.-HEXYLCINNAMALDEHYDE"
+  ],
+  "description": [
+    "SHEA MOISTURE MANUKA HONEY & RETINOL 48H ANTIPERSPIRANT DEODORANT - aluminum sesquichlorohydrate stick"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient Aluminum Sesquichlorohydrate (12.2)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses reduces underarm wetness"
+  ],
+  "warnings": [
+    "Warnings • For external use only. • Do not use on broken skin . • Ask a doctor before use if you have kidney disease. • Stop use if rash or irritation occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "• Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply to underarms only"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water (Aqua), C12-15 Alkyl Benzoate, Cyclopentasiloxane, Synthetic Wax, Glycerin, Calcium Chloride, Cetyl PEG/PPG-10/1 Dimethicone, Glycine, Fragrance (Parfum), Helianthus Annuus (Sunflower) Seed Oil, Butyrospermum Parkii (Shea) Butter, Honey, Retinol, Benzyl Alcohol, Benzyl Cinnamate, Benzyl Salicylate, Citronellol, Coumarin, Farnesol, Hexyl Cinnamal, Limonene, Linalool."
+  ],
+  "questions": [
+    "Questions? Call 1-800-761-3683"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Shea Moisture Smoothing AP Deo"
+  ],
+  "set_id": "03897ab7-fab1-fe83-e063-6294a90a8aa3",
+  "id": "11e7851d-314f-f32b-e063-6394a90ae02d",
+  "effective_time": "20240221",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Dove"
+    ],
+    "generic_name": [
+      "MANUKA HONEY AND RETINOL SMOOTHING 48H ANTIPERSPIRANT DEODORANT"
+    ],
+    "manufacturer_name": [
+      "Conopco Inc. d/b/a/ Unilever"
+    ],
+    "product_ndc": [
+      "64942-2149"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM SESQUICHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "11e7851d-314f-f32b-e063-6394a90ae02d"
+    ],
+    "spl_set_id": [
+      "03897ab7-fab1-fe83-e063-6294a90a8aa3"
+    ],
+    "package_ndc": [
+      "64942-2149-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "UCN889409V"
+    ]
+  }
+}

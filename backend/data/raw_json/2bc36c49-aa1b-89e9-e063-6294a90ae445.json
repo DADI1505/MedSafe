@@ -1,0 +1,77 @@
+{
+  "spl_product_data_elements": [
+    "glo SKIN BEAUTY Oil-Free Tinted Primer SPF 30 glo SKIN BEAUTY Oil-Free Tinted Primer SPF 30 ISODODECANE CYCLOPENTASILOXANE HEXYL LAURATE CYCLOHEXASILOXANE POLYSILICONE-15 POLYMETHYLSILSESQUIOXANE MICA BISABOLOL WATER TRIETHOXYCAPRYLYLSILANE PEG/PPG-20/15 DIMETHICONE NIACINAMIDE TETRAHEXYLDECYL ASCORBATE GLYCERIN POLYGLYCERYL-3 DIISOSTEARATE PHENOXYETHANOL SALICYLIC ACID SACCHARIDE ISOMERATE TITANIUM DIOXIDE IRON OXIDES ZINC OXIDE ZINC CATION"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Zinc Oxide 23%"
+  ],
+  "indications_and_usage": [
+    "Uses • helps prevent sunburn • if used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a docor if rash occurs Keep out of reach of children. If swalled, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions • apply generously 15 minutes before sun exposure • reapply at least every 2 hours • use a water-resistant sunscreen if swimming or sweating • Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: • limit time in the sun, especially from 10 a.m. - 2 p.m. • wear long-sleeved shirts, pants, hats, and sunglasses • children under 6 months of age: Ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Isododecane, Cyclopentasiloxane, Hexyl Laurate, Cyclohexasiloxane, Polysilicone-11, Polymethylsilsesquioxane, Mica, Bisabolol, Water, Triethoxycaprylylsilane, PEG/PPG-20/15 Dimethicone, Niacinamide, Tetrahexyldecyl Ascorbate, Maris Aqua/Sea Water/Eau de Mer, Glycerin, Polyglyceryl-3 Diisostearate, Phenoxyethanol, Saccharide Isomerate, Salicylic Acid, Titanium Dioxide, Iron Oxides"
+  ],
+  "spl_unclassified_section": [
+    "Other Information • protect the product in this container from excessive heat and direct sun"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Packaging Keep out of reach of children"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging 60541-20000"
+  ],
+  "set_id": "00bf7331-c9dc-4a8a-9ff3-901e0d07eac6",
+  "id": "2bc36c49-aa1b-89e9-e063-6294a90ae445",
+  "effective_time": "20250115",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "glo SKIN BEAUTY Oil-Free Tinted Primer SPF 30"
+    ],
+    "generic_name": [
+      "GLO SKIN BEAUTY OIL-FREE TINTED PRIMER SPF 30"
+    ],
+    "manufacturer_name": [
+      "Hayden Caleel LLC"
+    ],
+    "product_ndc": [
+      "60541-6000"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "2bc36c49-aa1b-89e9-e063-6294a90ae445"
+    ],
+    "spl_set_id": [
+      "00bf7331-c9dc-4a8a-9ff3-901e0d07eac6"
+    ],
+    "package_ndc": [
+      "60541-6000-5"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

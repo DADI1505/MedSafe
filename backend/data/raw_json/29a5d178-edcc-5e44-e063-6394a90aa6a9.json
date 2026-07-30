@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "DCH Cooling Pain Relief Menthol 4% FD&C BLUE NO. 1 MENTHOL MENTHOL CARBOMER INTERPOLYMER TYPE B (ALLYL PENTAERYTHRITOL CROSSLINKED) WATER MAGNESIUM SULFATE, UNSPECIFIED FORM ISOPROPYL ALCOHOL FD&C YELLOW NO. 5 SODIUM HYDROXIDE"
+  ],
+  "active_ingredient": [
+    "Menthol 4%"
+  ],
+  "purpose": [
+    "Topical Analgesic"
+  ],
+  "indications_and_usage": [
+    "For the temporary relief of minor aches and pains associated with arthritis, simple backache, strains, sprains, and bruises."
+  ],
+  "warnings": [
+    "For external use only. When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water. Avoid contact with broken skin, do not bandage tightly, and do not use with heating pad. Stop use and ask a doctor if condition worsens, symptoms last more than 7 days or clear and occur again within a few days."
+  ],
+  "keep_out_of_reach_of_children": [
+    "If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "• adults and children 12 years and older, apply to affected area not more than 3 to 4 times daily. • Children under 12 years old, ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Blue 1, carbomer, isopropyl alcohol, magnesium sulfate, sodium hydroxide, water, yellow 5."
+  ],
+  "package_label_principal_display_panel": [
+    "Label"
+  ],
+  "set_id": "00ed3175-c3ba-6545-e063-6394a90acfd1",
+  "id": "29a5d178-edcc-5e44-e063-6394a90aa6a9",
+  "effective_time": "20241219",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "DCH Cooling Pain Relief"
+    ],
+    "generic_name": [
+      "MENTHOL 4%"
+    ],
+    "manufacturer_name": [
+      "Derma Care Research Labs, LLC"
+    ],
+    "product_ndc": [
+      "72839-297"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MENTHOL"
+    ],
+    "rxcui": [
+      "415974"
+    ],
+    "spl_id": [
+      "29a5d178-edcc-5e44-e063-6394a90aa6a9"
+    ],
+    "spl_set_id": [
+      "00ed3175-c3ba-6545-e063-6394a90acfd1"
+    ],
+    "package_ndc": [
+      "72839-297-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0850009221742"
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

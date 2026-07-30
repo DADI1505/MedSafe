@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "CVS Clarifying Body Wash Acne Treatment Salicylic Acid Salicylic Acid Salicylic Acid Water Sodium C14-16 Olefin Sulfonate Cocamidopropyl Betaine Disodium Cocoamphodiacetate Glycerin Sodium Methyl Cocoyl Taurate Propylene Glycol Linoleamidopropyl Propylene Glycol-Dimonium Chloride Phosphate Aloe Vera Leaf Chamaemelum Nobile Flower Chamomile Citric Acid Monohydrate Fd&C Yellow No. 5 D&C Red No. 33 Fd&C Blue No. 1"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Distributed by: CVS Pharmacy, Inc. One CVS Drive Woonsocket, RI 02895"
+  ],
+  "active_ingredient": [
+    "Active ingredients Salicylic Acid 2.0%"
+  ],
+  "purpose": [
+    "Purpose Acne Treatment"
+  ],
+  "indications_and_usage": [
+    "Use For the treatment of acne"
+  ],
+  "warnings": [
+    "Warnings For external use only Ask a doctor or pharmacist before use if you are using other topical acne medications at the same time or immediately following use of this product. This may increase dryness or irritation of the skin. If this occurs, only one medication should be used unless directed by a doctor. When using this product avoid contact with eyes. If contact occurs, flush thoroughly with water. Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are using other topical acne medications at the same time or immediately following use of this product. This may increase dryness or irritation of the skin. If this occurs, only one medication should be used unless directed by a doctor."
+  ],
+  "when_using": [
+    "When using this product avoid contact with eyes. If contact occurs, flush thoroughly with water."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Use daily in the shower or bath For maximum lather, massage over wet skin with a washcloth or body puff, concentrating on areas prone to breakouts Rinse well."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, Glycerin, Sodium Methyl Cocoyl Taurate, Propylene Glycol, Fragrance, Linoleamidopropyl PG-Dimonium Chloride Phosphate, Aloe Barbadensis Leaf Extract, Anthemis Nobilis Flower Extract, Chamomilla Recutita (Matricaria) Flower Extract, Citric Acid, Yellow 5, Red 33, Blue 1"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 250 mL Bottle Label ♥ CVS Health ™ Compare to the active ingredient in Neutrogena ® Body Clear ® Body Wash* Clarifying Body Wash 2% SALICYLIC ACID ACNE TREATMENT Foaming lather treats & prevents breakouts, leaving skin clear & clean 8.5 FL OZ (250 mL) 05-1866B Principal Display Panel - 250 mL Bottle Label"
+  ],
+  "set_id": "058fab12-3100-4e47-8dce-7098b984b76f",
+  "id": "88d400b8-5fbc-457f-b051-4066bb1426b8",
+  "effective_time": "20241112",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "CVS Clarifying Body Wash Acne Treatment"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID"
+    ],
+    "manufacturer_name": [
+      "CVS Health"
+    ],
+    "product_ndc": [
+      "69842-583"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "562600"
+    ],
+    "spl_id": [
+      "88d400b8-5fbc-457f-b051-4066bb1426b8"
+    ],
+    "spl_set_id": [
+      "058fab12-3100-4e47-8dce-7098b984b76f"
+    ],
+    "package_ndc": [
+      "69842-583-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0050428277645"
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

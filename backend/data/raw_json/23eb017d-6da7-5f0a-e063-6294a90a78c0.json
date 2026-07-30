@@ -1,0 +1,97 @@
+{
+  "spl_product_data_elements": [
+    "Rompe Pecho SF Flu SF Flu Brompheniramine Maleate, Dextromethorphan HBr ANHYDROUS CITRIC ACID POTASSIUM CITRATE ANHYDROUS EUCALYPTUS OIL CAULOPHYLLUM THALICTROIDES ROOT GLYCERIN ECHINACEA ANGUSTIFOLIA ROOT GINKGO BILOBA LEAF OIL GOLDENSEAL HONEY HOREHOUND MENTHOL METHYLPARABEN LICORICE MULLEIN LEAF POTASSIUM SORBATE PROPYLENE GLYCOL PROPYLPARABEN WATER ULMUS RUBRA BARK SODIUM CHLORIDE PRUNUS SEROTINA BARK ZINC SULFATE DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN BROMPHENIRAMINE MALEATE BROMPHENIRAMINE MYRRH SUCRALOSE"
+  ],
+  "active_ingredient": [
+    "Active Ingredients: (in each teaspoonful 5 ml.) Purpose Brompheniramine Maleate 4mg ................................................ Antihistamine Dextromethorphan HBr 10 mg .................................................... Cough Suppressant"
+  ],
+  "purpose": [
+    "Purpose Antihistamine Cough Suppressant"
+  ],
+  "warnings": [
+    "Warnings Do not exceed recommended dosage. Do not use If you are taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI; ask your doctor or pharmacist before taking this product."
+  ],
+  "do_not_use": [
+    "Ask a doctor before use if you have • heart disease glaucoma • high blood pressure • thyroid disease • diabetes • difficulty in urination due to an enlarged prostate gland • a persistent or chronic cough such as occurs with smoking, asthma, or emphysema a cough that is accompanied by excessive phlegm (mucus) • a breathing problem such as emphysema or chronic bronchitis Stop use and ask doctor if symptoms do not improve within 7 days, cough tends to recur, or symptoms are accompanied by a fever, rash or persistent headache. A persistent cough may be sign of a serious condition. nervousness, dizziness, or sleeplessness occurs"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Do not exceed more than 6 doses in any 24-hour period Shake well before use measure only with dosing cup provided keep dosing cup with product mL=miliiter TSP=teaspoonful this adult product is not intended for use in children under 12 years of age Age Dose adults and children 12 years of age and over 5 mL (1 teaspoonfuls) every 4 hours children under 6 years of age do not use"
+  ],
+  "dosage_and_administration_table": [
+    "<table border=\"1\" width=\"100%\"><caption/><tbody><tr><td> Age</td><td><list listType=\"unordered\"><item><content styleCode=\"bold\"> Dose</content></item></list></td></tr><tr><td><list listType=\"unordered\"><item>adults and children 12 years of age and over</item></list></td><td><list listType=\"unordered\"><item>5 mL (1 teaspoonfuls) every 4 hours </item></list></td></tr><tr><td><list listType=\"unordered\"><item>children under 6 years of age </item></list></td><td><list listType=\"unordered\"><item>do not use</item></list></td></tr></tbody></table>"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves runny nose, sneezing, itching of the nose or throat, and itchy watery eyes due to hay fever or other upper respiratory allergies temporarily relieves cough from the common cold"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Blue Cohosh root extract, citric acid, Echinacea root extract, Eucalyptus Oil, Flavor, Ginkgo Biloba leaf extract, glycerin, Golden Seal root extract, Honey, Horehound (flower, leaf, stem) extract, Licorice Root extract, Menthol, Methylparaben, Mullein leaf extract, Myrrh gum extract, Potassium Citrate, Potassium Sorbate, Propylene Glycol, Propylparaben, Slippery Elm Bark extract, Sodium Chloride, Sucralose, Water, Wild Cherry Bark extract and Zinc Sulfate."
+  ],
+  "questions": [
+    "Questions or Comments? 305-805-3456 Monday - Friday 9AM to 5PM EST www.efficientlabs.com Distributed by Efficient Laboratories, Inc., Miami, Fl 33166 Made in U.S.A."
+  ],
+  "ask_doctor": [
+    "Ask a doctor or pharmacist before use if you are: taking tranquilizers or sedatives"
+  ],
+  "when_using": [
+    "When using this product When using this product • may cause marked drowsiness • avoid alcoholic drinks• Alcohol, sedatives, and tranquilizers may increase drowsiness effect • use caution when driving a motor vehicle or operating machinery • excitability may occur, especially in childrens."
+  ],
+  "package_label_principal_display_panel": [
+    "label label"
+  ],
+  "set_id": "06eac696-e8f6-ac50-e063-6394a90a2ed6",
+  "id": "23eb017d-6da7-5f0a-e063-6294a90a78c0",
+  "effective_time": "20241007",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Rompe Pecho SF Flu SF Flu"
+    ],
+    "generic_name": [
+      "BROMPHENIRAMINE MALEATE, DEXTROMETHORPHAN HBR"
+    ],
+    "manufacturer_name": [
+      "Efficient Laboratories Inc"
+    ],
+    "product_ndc": [
+      "58593-002"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DEXTROMETHORPHAN HYDROBROMIDE",
+      "BROMPHENIRAMINE MALEATE"
+    ],
+    "rxcui": [
+      "2676758"
+    ],
+    "spl_id": [
+      "23eb017d-6da7-5f0a-e063-6294a90a78c0"
+    ],
+    "spl_set_id": [
+      "06eac696-e8f6-ac50-e063-6394a90a2ed6"
+    ],
+    "package_ndc": [
+      "58593-002-06"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "9D2RTI9KYH",
+      "IXA7C9ZN03"
+    ]
+  }
+}

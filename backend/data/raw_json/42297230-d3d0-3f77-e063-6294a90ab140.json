@@ -1,0 +1,87 @@
+{
+  "spl_product_data_elements": [
+    "GeriGard ZINC OXIDE ALOE VERA LEAF ALPHA-TOCOPHEROL CETETH-10 CETOSTEARYL ALCOHOL CETYL ALCOHOL CHOLECALCIFEROL GLYCERIN LANOLIN METHYLPARABEN MINERAL OIL PARAFFIN PETROLATUM PHENOXYETHANOL POLYETHYLENE GLYCOL 6000 POLYSORBATE 60 PROPYLPARABEN SODIUM STEARETH-20 TROLAMINE VITAMIN A WATER ZINC OXIDE ZINC CATION"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information: Store at room temperature 15º - 30ºC (59º - 86ºF) Avoid excessive heat Contains color additives including FD&C Yellow No. 5 (Tartrazine)."
+  ],
+  "active_ingredient": [
+    "Active ingredient Zinc Oxide (1.8% w/w) Purpose Skin Prorectant"
+  ],
+  "purpose": [
+    "Purpose Skin Prorectant"
+  ],
+  "indications_and_usage": [
+    "Uses: Helps treat and prevent diaper rash. Helps seal out wetness. Dries the oozing and weeping of: poison ivy poison oak poison sumac"
+  ],
+  "warnings": [
+    "Warnings: For external use only When using this product Do not get into eyes Stop use nd ask a doctor if: Condition worsens Symptoms last more than 7 days or clear up and occur again in a few days, consult a physician Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "when_using": [
+    "When using this product Do not get into eyes"
+  ],
+  "stop_use": [
+    "Stop use nd ask a doctor if: Condition worsens Symptoms last more than 7 days or clear up and occur again in a few days, consult a physician"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "dosage_and_administration": [
+    "Directions: Apply liberally as needed For diaper rash: change wet and soiled diapers promptly allow to dry Apply ointment liberally with each diaper change"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients: Aloe Vera Leaf, Alpha-Tocopherol, Ceteth-10, Cetostearyl Alcohol, Cetyl Alcohol, Cholecalciferol, Glycerin, Lanolin, Lavender, Methylparaben, Mineral Oil, Paraffin, Petrolatum, Phenoxyethanol, Polyethylene Glycol 6000, Polysorbate 60, Propylparaben Sodium, Steareth-20, Trolamine, Vitamin A, Water."
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: geri"
+  ],
+  "set_id": "05b67830-adc8-46b1-b0a0-a6cd2875e80c",
+  "id": "42297230-d3d0-3f77-e063-6294a90ab140",
+  "effective_time": "20251027",
+  "version": "12",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "GeriGard"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Geri-Gentle Corporation"
+    ],
+    "product_ndc": [
+      "69771-050"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "rxcui": [
+      "1044412"
+    ],
+    "spl_id": [
+      "42297230-d3d0-3f77-e063-6294a90ab140"
+    ],
+    "spl_set_id": [
+      "05b67830-adc8-46b1-b0a0-a6cd2875e80c"
+    ],
+    "package_ndc": [
+      "69771-050-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "spl_product_data_elements": [
+    "Bee Bald Smooth Plus Daily Moisturizer SPF 30 Sunscreen Avobenzone 3%, Homosalate 10%, Octisalate 5%, Octocrylene 2.7%, Oxybenzone 6% XANTHAN GUM POTASSIUM CETYL PHOSPHATE LYCIUM BARBARUM FRUIT PROPYLENE GLYCOL DICAPRYLYL CARBONATE BEE POLLEN CETOSTEARYL ALCOHOL OXYBENZONE OXYBENZONE POLYAMIDE-5 VINYLPYRROLIDONE/HEXADECENE COPOLYMER ALKYL (C12-15) BENZOATE PROPANEDIOL BUTYLENE GLYCOL EDETATE DISODIUM C10-18 TRIGLYCERIDES HONEY POLYSILICONE-15 OCTISALATE OCTISALATE HOMOSALATE HOMOSALATE ETHYLHEXYLGLYCERIN OCTOCRYLENE OCTOCRYLENE WATER PHENOXYETHANOL AVOBENZONE AVOBENZONE .ALPHA.-TOCOPHEROL ACETATE LICORICE GLYCERIN"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Avobenzone 3%, Homosalate 10%, Octisalate 5%, Octocrylene 2.7%, Oxybenzone 6%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "dosage_and_administration": [
+    "Uses Helps prevent sunburn."
+  ],
+  "warnings": [
+    "Warnings For external use only . Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse eyes with water to remove. Stop use and ask a doctor if rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep Out of Reach of Children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "indications_and_usage": [
+    "Directions Apply liberally 15 minutes before sun exposure. Reapply: after 40 minutes of swimming or sweating immediately after towel drying at least every 2 hours Sun protection measures: spending time in the sun increases your risk of skin cancer and early skin aging. To decrease risk, regularly use a sunscreen with broad spectrum SPF of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 am to 2 pm wear long-sleeved shirts, pants, hats, and sunglasses. Children under 6 months: ask a doctor."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Water, C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Propanediol, Cetearyl Alcohol, Potassium Cetyl Phosphate, Polyamide-5, C10-18 Triglycerides, VP/Hexadecene Copolymer, Glycyrrhiza Glabra (Licorice) Root Extract, Lycium Barbarum (Goji Berry) Fruit Extract, Propolis Cera (Bee Pollen) Extract, Honey Extract, Tocopheryl Acetate, Polysilicone-15, Glycerin, Butylene Glycol, Propylene Glycol, Xanthan Gum, Disodium EDTA, Ethylhexylglycerin, Phenoxyethanol, Fragrance."
+  ],
+  "package_label_principal_display_panel": [
+    "Label Label"
+  ],
+  "set_id": "051b68f9-5d6b-3cd7-e063-6394a90aeb35",
+  "id": "29a4ff30-7cd8-5fa9-e063-6394a90a049f",
+  "effective_time": "20241219",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Bee Bald Smooth Plus Daily Moisturizer SPF 30 Sunscreen"
+    ],
+    "generic_name": [
+      "AVOBENZONE 3%, HOMOSALATE 10%, OCTISALATE 5%, OCTOCRYLENE 2.7%, OXYBENZONE 6%"
+    ],
+    "manufacturer_name": [
+      "Derma Care Research Labs, LLC"
+    ],
+    "product_ndc": [
+      "72839-138"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OXYBENZONE",
+      "OCTISALATE",
+      "HOMOSALATE",
+      "OCTOCRYLENE",
+      "AVOBENZONE"
+    ],
+    "spl_id": [
+      "29a4ff30-7cd8-5fa9-e063-6394a90a049f"
+    ],
+    "spl_set_id": [
+      "051b68f9-5d6b-3cd7-e063-6394a90aeb35"
+    ],
+    "package_ndc": [
+      "72839-138-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "95OOS7VE0Y",
+      "4X49Y0596W",
+      "V06SV4M95S",
+      "5A68WGF6WM",
+      "G63QQF2NOX"
+    ]
+  }
+}

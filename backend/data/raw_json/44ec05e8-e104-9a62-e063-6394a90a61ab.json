@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "RoC Barrier Renew AM Moisturizer SPF 30 Avobenzone, Homosalate, Octisalate, Octocrylene SHEA BUTTER WITHANIA SOMNIFERA ROOT BIOSACCHARIDE GUM-4 CANDELILLA WAX AVOBENZONE AVOBENZONE BUTYLENE GLYCOL ASTRAGALUS MONGHOLICUS ROOT OLEIC ACID 1,2-HEXANEDIOL TOCOPHEROL OCTOCRYLENE OCTOCRYLENE ISODODECANE GLYCERIN POLYGLYCERYL-4 ISOSTEARATE C12-20 ALKYL GLUCOSIDE ETHYLHEXYLGLYCERIN GLYCERYL MONOBEHENATE HOMOSALATE HOMOSALATE OCTISALATE OCTISALATE WATER C14-22 ALCOHOLS GREEN TEA LEAF PEG-7 TRIMETHYLOLPROPANE COCONUT ETHER PHENOXYETHANOL SQUALANE OCTYLDODECYL NEOPENTANOATE SORBITAN ISOSTEARATE .BETA.-SITOSTEROL CERAMIDE NG CERAMIDE NP"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Active ingredients Purpose Avobenzone 2.0%, Homosalate 5.5%, Octisalate 4.5%, Octocrylene 4.0% Sunscreen"
+  ],
+  "purpose": [
+    "Uses Uses Helps prevent sunburn. If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early signs of aging caused by the sun"
+  ],
+  "indications_and_usage": [
+    "Indications and Usage Helps prevent sunburn. If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "Warnings Warnings For external use only Do nut use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions for Sunscreen Use Directions For Sunscreen use: Apply generously and evenly 15 minutes before sun exposure. Reapply at least every 2 hours. Use a water resistant sunscreen if swimming or sweating. Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 a.m. - 2 p.m. Wear long-sleeved shirts, pants, hats, and sunglasses. Children under 6 months of age: Ask a doctor."
+  ],
+  "storage_and_handling": [
+    "Other Information Other information. Protect this product from excessive heat and direct sun. May stain some fabrics."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Inactive ingredients Water/Aqua/Eau, Butylene Glycol, Octyldodecyl Neopentanoate, C14-22 Alcohols, Isododecane, Glycerin, Squalane, Sorbitan Isostearate, Beta-Sitosterol, Astragalus Membranaceus Root Extract, Butyrospermum Parkii (Shea) Butter, Oleic Acid, Ceramide NG, Ceramide NP, Withania Somnifera Root Extract, Glyceryl Behenate, Alteromonas Ferment Extract, Polyglyceryl-4 Isostearate, Biosaccharide Gum-4, Camellia Sinensis Leaf Extract, Euphorbia Cerifera (Candelilla) Wax, Lecithin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, C12-20 Alkyl Glucoside, Polyisobutene, PEG-7 Trimethylolpropane Coconut Ether, Tocopherol, Ethylhexylglycerin, 1,2-Hexanediol, Phenoxyethanol."
+  ],
+  "questions": [
+    "Questions or comments? Questions or Comments? Call toll free 1-800-RoC-1964 (1-800-762-1964)."
+  ],
+  "package_label_principal_display_panel": [
+    "Barrier Renew AM Moisturizer SPF 30 Label"
+  ],
+  "set_id": "020aa79f-4fd6-1ea1-e063-6394a90a4464",
+  "id": "44ec05e8-e104-9a62-e063-6394a90a61ab",
+  "effective_time": "20251201",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "RoC Barrier Renew AM Moisturizer SPF 30"
+    ],
+    "generic_name": [
+      "AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE"
+    ],
+    "manufacturer_name": [
+      "RoC Skincare"
+    ],
+    "product_ndc": [
+      "73496-011"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "AVOBENZONE",
+      "OCTOCRYLENE",
+      "HOMOSALATE",
+      "OCTISALATE"
+    ],
+    "spl_id": [
+      "44ec05e8-e104-9a62-e063-6394a90a61ab"
+    ],
+    "spl_set_id": [
+      "020aa79f-4fd6-1ea1-e063-6394a90a4464"
+    ],
+    "package_ndc": [
+      "73496-011-00"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "G63QQF2NOX",
+      "5A68WGF6WM",
+      "V06SV4M95S",
+      "4X49Y0596W"
+    ]
+  }
+}

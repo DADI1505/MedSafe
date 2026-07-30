@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "Sheer Defense Tinted SPF 46 Zinc oxide, Octinoxate ZINC OXIDE ZINC CATION OCTINOXATE OCTINOXATE WATER CYCLOMETHICONE 5 NIACINAMIDE OLETH-3 PHOSPHATE OCTYLDODECYL NEOPENTANOATE HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER (100000 MPA.S AT 1.5%) GLYCERIN POLYGONUM AVICULARE TOP POLYGLYCERYL-3 POLYDIMETHYLSILOXYETHYL DIMETHICONE (4000 MPA.S) TRIETHOXYSILYLETHYL POLYDIMETHYLSILOXYETHYL HEXYL DIMETHICONE POLYISOBUTYLENE (1000 MW) PEG-7 TRIMETHYLOLPROPANE COCONUT ETHER ETHYLHEXYLGLYCERIN .ALPHA.-TOCOPHEROL ACETATE, DL- TRIETHOXYCAPRYLYLSILANE EDETATE DISODIUM ANHYDROUS HYALURONATE SODIUM PHENOXYETHANOL FERRIC OXIDE YELLOW FERRIC OXIDE RED FERROSOFERRIC OXIDE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "brand MD Broad Spectrum Sunscreen Zinc Oxide 12% Octinoxate 7.5% Niacinamide MEDICAL GRADE SHIELD RECOMMENDED FOR • ALL SKIN TYPES GREEN LEAF PROGRAM NOT TESTED ON ANIMALS Distributed by: brandMD ® Canoga Park, CA 91304 (818) 534-3180 www.brandMD.com"
+  ],
+  "active_ingredient": [
+    "Active ingredient Zinc Oxide 12% Octinoxate 7.5%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses • Helps prevent sunburn • If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use • on damaged or broken skin When using this product • keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if • rash occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions • Apply liberally on a clean dry face, avoiding delicate eye area 15 minutes before sun exposure • reapply: • after 80 minutes of swimming • or sweating • immediately after towel drying • at least every 2 hours • Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: • limit time in the sun, especially from 10 a.m.– 2 p.m • wear long-sleeved shirts pants, hats, and sunglasses • children under 6 months of age: Ask a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information • protect the product in this container from excessive heat and direct sun"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water/Aqua/Eau, Cyclopentasiloxane, Niacinamide, Oleth-3 Phosphate, Octyldodecyl Neopentanoate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Glycerin, Knot Grass (Polygonum Aviculare) Extract, Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone, Triethoxysilylethyl Polydimethylsiloxyethyl Hexyl Dimethicone, Polyisobutene, PEG-7 Trimethylolpropane Coconut Ether, Ethylhexylglycerin, Tocopheryl Acetate, Triethoxycaprylylsilane, Disodium EDTA, Sodium Hyaluronate, Phenoxyethanol, Iron Oxides (CI 77492), Iron Oxides (CI 77491), Iron Oxides (CI 77499)"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging TintSPF"
+  ],
+  "set_id": "017265e9-31e6-43ce-9432-cb88f471c496",
+  "id": "c2dff82d-41a2-4435-a4e1-87edf87bf8e4",
+  "effective_time": "20260518",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Sheer Defense Tinted SPF 46"
+    ],
+    "generic_name": [
+      "ZINC OXIDE, OCTINOXATE"
+    ],
+    "manufacturer_name": [
+      "Private Label Skin Care"
+    ],
+    "product_ndc": [
+      "72957-002"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE",
+      "OCTINOXATE"
+    ],
+    "spl_id": [
+      "c2dff82d-41a2-4435-a4e1-87edf87bf8e4"
+    ],
+    "spl_set_id": [
+      "017265e9-31e6-43ce-9432-cb88f471c496"
+    ],
+    "package_ndc": [
+      "72957-002-01"
+    ],
+    "original_packager_product_ndc": [
+      "39765-023"
+    ],
+    "unii": [
+      "SOI2LOH54Z",
+      "4Y5P7MUD51"
+    ]
+  }
+}

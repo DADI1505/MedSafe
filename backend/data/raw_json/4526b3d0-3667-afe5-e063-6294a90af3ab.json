@@ -1,0 +1,114 @@
+{
+  "spl_product_data_elements": [
+    "Alka-Seltzer Gold Alka-Seltzer Gold MAGNESIUM STEARATE MANNITOL CITRIC ACID MONOHYDRATE ANHYDROUS CITRIC ACID POTASSIUM BICARBONATE POTASSIUM CATION SODIUM BICARBONATE SODIUM CATION"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Anhydrous citric acid 1000 mg.................................………Antacid Potassium bicarbonate 344 mg.…..………………….……..Antacid Sodium bicarbonate (heat-treated) 1050 mg………………Antacid"
+  ],
+  "purpose": [
+    "Purpose Antacid"
+  ],
+  "indications_and_usage": [
+    "Uses for the relief of ● heartburn ● acid indigestion ● sour stomach"
+  ],
+  "do_not_use": [
+    "Do Not Use Do not use if you have ever had an allergic reaction to this product or any of its ingredients"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have kidney disease a potassium or sodium-restricted diet"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs."
+  ],
+  "when_using": [
+    "When using this product When using this product do not exceed recommended dosage"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if Stop use and ask a doctor if you have taken the maximum dose for 2 weeks"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions ● fully dissolve tablets in 4 ounces of water before taking adults and children 12 years and over 2 tablets every 4 hours as needed, or asdirected by a doctor do not exceed8 tablets in 24 hours adults 60 years and over 2 tablets every 4 hours as needed, or as directed by a doctor do not exceed 6 tablets in 24 hours children under 12 years 1 tablet every 4 hours as needed, or as directed by a doctor do not exceed 4 tablets in 24 hours"
+  ],
+  "dosage_and_administration_table": [
+    "<table border=\"0\" width=\"100%\"><tbody><tr><td>adults and children 12 years and over</td><td>2 tablets every 4 hours as needed, or asdirected by a doctor</td><td>do not exceed8 tablets in 24 hours</td></tr><tr><td>adults 60 years and over</td><td>2 tablets every 4 hours as needed, or as directed by a doctor</td><td>do not exceed 6 tablets in 24 hours</td></tr><tr><td>children under 12 years</td><td>1 tablet every 4 hours as needed, or as directed by a doctor</td><td>do not exceed 4 tablets in 24 hours</td></tr></tbody></table>"
+  ],
+  "other_safety_information": [
+    "Other information ● each tablet contains: potassium 135 mg ● each tablet contains: sodium 309 mg ● store at room temperature. Avoid excessive heat. ● this product does not contain aspirin ● Alka-Seltzer Gold in water contains principally the antacids sodium citrate and potassium citrate"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Inactive ingredients magnesium stearate, mannitol"
+  ],
+  "questions": [
+    "Questions or comments Questions or comments? 1-800-986-0369 (Mon – Fri 9AM – 5PM EST)"
+  ],
+  "warnings": [
+    "Reye’s syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye’s syndrome, a rare but serious illness. Allergy alert: Aspirin may cause a severe allergic reaction which may include: · hives · facial swelling · asthma (wheezing) · shock Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you ● are age 60 or older ● have had stomach ulcers or bleeding problems ● take a blood thinning (anticoagulant) or steroid drug ● take other drugs containing prescription or nonprescription NSAIDs (aspirin, ibuprofen, naproxen, or others) ● have 3 or more alcoholic drinks every day while using this product ● take more or for a longer time than directed"
+  ],
+  "package_label_principal_display_panel": [
+    "AS Gold"
+  ],
+  "set_id": "0824bedb-413b-2fa0-e054-00144ff88e88",
+  "id": "4526b3d0-3667-afe5-e063-6294a90af3ab",
+  "effective_time": "20251204",
+  "version": "9",
+  "openfda": {
+    "application_number": [
+      "M001"
+    ],
+    "brand_name": [
+      "Alka-Seltzer Gold"
+    ],
+    "generic_name": [
+      "ALKA-SELTZER GOLD"
+    ],
+    "manufacturer_name": [
+      "Bayer HealthCare LLC."
+    ],
+    "product_ndc": [
+      "0280-4100"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CITRIC ACID MONOHYDRATE",
+      "POTASSIUM BICARBONATE",
+      "SODIUM BICARBONATE"
+    ],
+    "rxcui": [
+      "1536474"
+    ],
+    "spl_id": [
+      "4526b3d0-3667-afe5-e063-6294a90af3ab"
+    ],
+    "spl_set_id": [
+      "0824bedb-413b-2fa0-e054-00144ff88e88"
+    ],
+    "package_ndc": [
+      "0280-4100-63"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0016500041085"
+    ],
+    "unii": [
+      "2968PHW8QP",
+      "HM5Z15LEBN",
+      "8MDF5V39QO"
+    ]
+  }
+}

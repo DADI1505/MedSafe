@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "NASAL DECONGESTANT PE 10mg PHENYLPHRINE HCL CROSCARMELLOSE SODIUM DEXTROSE MONOHYDRATE DIBASIC CALCIUM PHOSPHATE DIHYDRATE FD&C RED NO. 40 LECITHIN, SUNFLOWER MAGNESIUM STEARATE MALTODEXTRIN MICROCRYSTALLINE CELLULOSE SILICON DIOXIDE SODIUM CARBOXYMETHYL .BETA.-GLUCAN (DS 0.65-0.85) TRISODIUM CITRATE DIHYDRATE TITANIUM DIOXIDE PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE 44;453"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each tablet) Phenylephrine HCL 10 mg Purpose Nasal decongestant"
+  ],
+  "purpose": [
+    "Purpose Nasal decongestant"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves nasal congestion due to the common cold, hay fever or other upper respiratory allergies temporarily relieves sinus congestion and pressure"
+  ],
+  "warnings": [
+    "Warnings Do not use if you are taking a prescription monoamine oxidase inhibitor (MA0l)(certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MA0l drug. If you do not know if your prescription drug contains an MA0l, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have heart disease diabetes thyroid disease high blood pressure difficulty in urination due to enlargement of the prostate gland When using this product do not exceed recommended dosage. Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur symptoms do not improve within 7 days or occur with fever If pregnant or breast-feeding, as a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away [1-800-222-1222]"
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 12 years and older: take 1 tablet 4 hours. Do not take more than 6 tablets in 24 hours children under 12 years: ask a doctor"
+  ],
+  "other_safety_information": [
+    "Other information store between 20° and 25°C (68° and 77°F) protect from excessive moisture"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients croscarmellose sodium, dextrose monohydrate, dicalcium phosphate dihydrate, FD&C red #40. lecithin, magnesium stearate, maltrodextrin, microcrystalline cellulose, silicon dioxide, sodium carboxymethylcellulose, sodium citrate dihydrate, titanium dioxide"
+  ],
+  "questions": [
+    "Questions? call toll-free 1-866-933-6337"
+  ],
+  "package_label_principal_display_panel": [
+    "01b LBL_Nasal Decongestant_10mg.jpg 01b DF1_Nasal Decongestant_10mg.jpg 01b DF2_Nasal Decongestant_10mg.jpg"
+  ],
+  "set_id": "05824fc4-ef3f-4ebb-b601-252f76ad60ef",
+  "id": "0e13a1f1-87bb-b26e-e063-6294a90a87f8",
+  "effective_time": "20240103",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "NASAL DECONGESTANT PE 10mg"
+    ],
+    "generic_name": [
+      "PHENYLPHRINE HCL"
+    ],
+    "manufacturer_name": [
+      "YYBA CORP"
+    ],
+    "product_ndc": [
+      "73581-204"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PHENYLEPHRINE HYDROCHLORIDE"
+    ],
+    "spl_id": [
+      "0e13a1f1-87bb-b26e-e063-6294a90a87f8"
+    ],
+    "spl_set_id": [
+      "05824fc4-ef3f-4ebb-b601-252f76ad60ef"
+    ],
+    "package_ndc": [
+      "73581-204-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "04JA59TNSJ"
+    ]
+  }
+}

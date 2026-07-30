@@ -1,0 +1,115 @@
+{
+  "spl_product_data_elements": [
+    "Dulcolax Laxative Bisacodyl BISACODYL DEACETYLBISACODYL FAT, HARD"
+  ],
+  "spl_unclassified_section": [
+    "Dulcolax® Medicated Laxative Suppositories Drug Facts",
+    "Other information store at 20°-25°C (68°-77°F)"
+  ],
+  "active_ingredient": [
+    "Active i ngredient (in each suppository) Bisacodyl (USP) 10 mg"
+  ],
+  "purpose": [
+    "Purpose Stimulant laxative"
+  ],
+  "indications_and_usage": [
+    "Use for relief of occasional constipation and irregularity this product generally produces bowel movement in 15 minutes to 1 hour"
+  ],
+  "warnings": [
+    "Warnings For rectal use only Ask a doctor before use if you have stomach pain, nausea or vomiting noticed a sudden change in bowel habits that lasts more than 2 weeks When using this product it may cause stomach discomfort, faintness, rectal burning and mild cramps Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after using this product. These could be signs of a serious condition. you need to use a laxative for more than 1 week If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have stomach pain, nausea or vomiting noticed a sudden change in bowel habits that lasts more than 2 weeks"
+  ],
+  "when_using": [
+    "When using this product it may cause stomach discomfort, faintness, rectal burning and mild cramps"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after using this product. These could be signs of a serious condition. you need to use a laxative for more than 1 week"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Peel open plastic. Insert suppository into rectum, pointed end first. Retain about 15 to 20 minutes. adults and children 12 years of age and over 1 suppository in a single daily dose. children 6 to under 12 years of age ½ suppository in a single daily dose children under 6 years of age ask a doctor"
+  ],
+  "dosage_and_administration_table": [
+    "<table><col width=\"346\"/><col width=\"346\"/><tbody><tr><td styleCode=\"Toprule \">adults and children 12 years of age and over</td><td styleCode=\"Toprule \">1 suppository in a single daily dose.</td></tr><tr><td styleCode=\"Toprule \">children 6 to under 12 years of age </td><td styleCode=\"Toprule \">&#xBD; suppository in a single daily dose</td></tr><tr><td styleCode=\"Toprule \">children under 6 years of age</td><td styleCode=\"Toprule \">ask a doctor</td></tr></tbody></table>"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredient hard fat"
+  ],
+  "questions": [
+    "Question s ? Call 1- 866 - 844 - 2798 or visit www.Dulcolax.com Keep carton as it contains important product information."
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL Dulcolax Bisacodyl (USP) 10 mg Suppository/ Stimulant Laxative MEDICATED LAXATIVE SUPPOSITORY 4 COMFORT SHAPED SUPPOSITORIES DO NOT SWALLOW Dulcolax Bisacodyl (USP) 10 mg Suppository/ Stimulant Laxative MEDICATED LAXATIVE SUPPOSITORY 4 COMFORT SHAPED SUPPOSITORIES DO NOT SWALLOW"
+  ],
+  "set_id": "016a4920-77a7-4ac3-8d9d-fd2f564dfee6",
+  "id": "d39ca8c0-d92a-4c16-a35e-efa8acc21aa5",
+  "effective_time": "20240201",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Dulcolax Laxative"
+    ],
+    "generic_name": [
+      "BISACODYL"
+    ],
+    "manufacturer_name": [
+      "Chattem, Inc."
+    ],
+    "product_ndc": [
+      "41167-0210"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "RECTAL"
+    ],
+    "substance_name": [
+      "BISACODYL"
+    ],
+    "rxcui": [
+      "198509",
+      "209601"
+    ],
+    "spl_id": [
+      "d39ca8c0-d92a-4c16-a35e-efa8acc21aa5"
+    ],
+    "spl_set_id": [
+      "016a4920-77a7-4ac3-8d9d-fd2f564dfee6"
+    ],
+    "package_ndc": [
+      "41167-0210-3",
+      "41167-0210-5",
+      "41167-0210-1",
+      "41167-0210-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000009371",
+      "N0000175812",
+      "N0000009871"
+    ],
+    "pharm_class_pe": [
+      "Increased Large Intestinal Motility [PE]",
+      "Stimulation Large Intestine Fluid/Electrolyte Secretion [PE]"
+    ],
+    "pharm_class_epc": [
+      "Stimulant Laxative [EPC]"
+    ],
+    "unii": [
+      "10X0709Y6I"
+    ]
+  }
+}

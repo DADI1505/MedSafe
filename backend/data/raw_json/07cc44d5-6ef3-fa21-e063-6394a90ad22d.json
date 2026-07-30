@@ -1,0 +1,71 @@
+{
+  "spl_product_data_elements": [
+    "ko7 Herbal MedicatedSoap Sodium palm kernelate, Panax Ginseng Root Extract PANAX GINSENG ROOT OIL PANAX GINSENG ROOT OIL SODIUM PALM KERNELATE WATER GLYCERIN"
+  ],
+  "active_ingredient": [
+    "Sodium palm kernelate, Panax Ginseng Root Extract"
+  ],
+  "purpose": [
+    "skin protectant"
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF THE CHILDREN"
+  ],
+  "warnings": [
+    "■ For external use only. ■ Do not use in eyes. ■ lf swallowed, get medical help promptly. ■ Stop use, ask doctor lf irritation occurs. ■ Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "for external use only"
+  ],
+  "inactive_ingredient": [
+    "Sodium palm Kernelate, Water, Fragrance, Glycerin, Disodium-Cocoaphodiacetate, Panax Ginseng Root Extract,Polygonum Multiflorum Root Extract, Houuttuynia Cordata Extract, Sophora Flavescens Extract. Panax Ginseng Root Extract, Glycyrrhiza Uralensis(licorice) Extract, Boita Orientalis Leaf Extract, Palm Acid, Sodium Chloride, Etidronic Acid, Tetrasodium EDTA, Palm Kernel Acid, Titanium Dioxide Yellow No.403"
+  ],
+  "indications_and_usage": [
+    "please refer to 'how to use' on the label"
+  ],
+  "package_label_principal_display_panel": [
+    "label"
+  ],
+  "set_id": "07cc44c2-14ee-d164-e063-6294a90a10aa",
+  "id": "07cc44d5-6ef3-fa21-e063-6394a90ad22d",
+  "effective_time": "20231015",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "ko7 Herbal MedicatedSoap"
+    ],
+    "generic_name": [
+      "SODIUM PALM KERNELATE, PANAX GINSENG ROOT EXTRACT"
+    ],
+    "manufacturer_name": [
+      "MISOCOS"
+    ],
+    "product_ndc": [
+      "73466-0009"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "PANAX GINSENG ROOT OIL"
+    ],
+    "spl_id": [
+      "07cc44d5-6ef3-fa21-e063-6394a90ad22d"
+    ],
+    "spl_set_id": [
+      "07cc44c2-14ee-d164-e063-6294a90a10aa"
+    ],
+    "package_ndc": [
+      "73466-0009-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "P9T4K47OM0"
+    ]
+  }
+}

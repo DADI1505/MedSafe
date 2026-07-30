@@ -1,0 +1,107 @@
+{
+  "spl_product_data_elements": [
+    "Guaifenesin and Dextromethorphan HBr Guaifenesin and Dextromethorphan HBr GUAIFENESIN GUAIFENESIN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE CARBOMER HOMOPOLYMER TYPE B (ALLYL PENTAERYTHRITOL CROSSLINKED) SILICON DIOXIDE MALTODEXTRIN POVIDONE K30 STEARIC ACID off-white 054 Guaifenesin and Dextromethorphan HBr Guaifenesin and Dextromethorphan HBr GUAIFENESIN GUAIFENESIN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE CARBOMER HOMOPOLYMER TYPE B (ALLYL PENTAERYTHRITOL CROSSLINKED) SILICON DIOXIDE MALTODEXTRIN POVIDONE K30 STEARIC ACID off-white 053"
+  ],
+  "active_ingredient": [
+    "Active ingredients (in each extended-release tablet) Dextromethorphan HBr 60 mg Guaifenesin 1200 mg"
+  ],
+  "purpose": [
+    "Purposes Cough suppressant Expectorant"
+  ],
+  "indications_and_usage": [
+    "Uses • helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive • temporarily relieves: • cough due to minor throat and bronchial irritation as may occur with the common cold or inhaled irritants • the intensity of coughing • the impulse to cough to help you get to sleep"
+  ],
+  "warnings": [
+    "Warnings Do not use • for children under 12 years of age • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have • persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema • cough accompanied by too much phlegm (mucus) When using this product • Do not use more than directed Stop use and ask a doctor if • cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious illness. Pregnancy or Breast Feeding If pregnant or breast-feeding, ask a health professional before use. Keep Out of Reach of Children In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have • persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema • cough accompanied by too much phlegm (mucus)"
+  ],
+  "when_using": [
+    "When using this product • Do not use more than directed"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if • cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious illness."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "Pregnancy or Breast Feeding If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep Out of Reach of Children In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "dosage_and_administration": [
+    "Directions • do not crush, chew, or break extended-release tablet • take with a full glass of water • this product can be administered without regard for timing of meals • adults and children 12 years and older: 1 extended-release tablet every 12 hours; not more than 2 extended-release tablets in 24 hours • children under 12 years of age: do not use Other information • Store between 20-25°C (68-77°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients carbomer homopolymer, colloidal silicon dioxide, hypromellose, magnesium stearate, maltodextrin, microcrystalline cellulose, povidone (K-30), stearic acid"
+  ],
+  "package_label_principal_display_panel": [
+    "Package/Label Principal Display Panel NDC 63304-110-14 Maximum Strength Guaifenesin & Dextromethorphan HBr Extended-Release Tablets 1200 mg/60 mg Expectorant & Cough Suppressant 12 Hour • Controls Cough • Thins and Loosens Mucus • Immediate and Extended Release 14 Extended-Release Tablets SUN PHARMA spl-guai-dextro-label",
+    "Package/Label Principal Display Panel NDC 63304-106-21 Guaifenesin & Dextromethorphan HBr Extended-Release Tablets 600 mg/30 mg Expectorant & Cough Suppressant 12 Hour • Controls Cough • Thins and Loosens Mucus • Immediate and Extended Release 20 Extended-Release Tablets SUN PHARMA spl-guai-dextro-label2"
+  ],
+  "set_id": "06328741-03e3-49cf-ae44-d4c2116e38a3",
+  "id": "801949ca-1baf-4a19-8466-91b4269a2c63",
+  "effective_time": "20221206",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "ANDA214781"
+    ],
+    "brand_name": [
+      "Guaifenesin and Dextromethorphan HBr"
+    ],
+    "generic_name": [
+      "GUAIFENESIN AND DEXTROMETHORPHAN HBR"
+    ],
+    "manufacturer_name": [
+      "SUN PHARMACEUTICAL INDUSTRIES, INC."
+    ],
+    "product_ndc": [
+      "63304-106",
+      "63304-110"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "GUAIFENESIN",
+      "DEXTROMETHORPHAN HYDROBROMIDE"
+    ],
+    "rxcui": [
+      "1099074",
+      "1298324"
+    ],
+    "spl_id": [
+      "801949ca-1baf-4a19-8466-91b4269a2c63"
+    ],
+    "spl_set_id": [
+      "06328741-03e3-49cf-ae44-d4c2116e38a3"
+    ],
+    "package_ndc": [
+      "63304-106-21",
+      "63304-110-54"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000193956",
+      "N0000008867",
+      "N0000009560"
+    ],
+    "pharm_class_epc": [
+      "Expectorant [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Decreased Respiratory Secretion Viscosity [PE]",
+      "Increased Respiratory Secretions [PE]"
+    ],
+    "unii": [
+      "495W7451VQ",
+      "9D2RTI9KYH"
+    ]
+  }
+}

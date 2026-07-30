@@ -1,0 +1,107 @@
+{
+  "spl_product_data_elements": [
+    "stimulant laxative enteric coated Bisacodyl SODIUM ALGINATE SODIUM BENZOATE SODIUM BICARBONATE STEARIC ACID SUCROSE TALC TITANIUM DIOXIDE TRIACETIN TRIETHYL CITRATE BISACODYL DEACETYLBISACODYL ACACIA AMMONIA CALCIUM CARBONATE CARNAUBA WAX STARCH, CORN D&C YELLOW NO. 10 FD&C YELLOW NO. 6 HYPROMELLOSE, UNSPECIFIED FERROSOFERRIC OXIDE LACTOSE MONOHYDRATE MAGNESIUM STEARATE METHYLPARABEN POLYDEXTROSE POLYETHYLENE GLYCOL, UNSPECIFIED POLYVINYL ACETATE PHTHALATE PROPYLPARABEN PROPYLENE GLYCOL POVIDONE, UNSPECIFIED SHELLAC DIMETHICONE SILICON DIOXIDE 5"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each tablet) Bisacodyl 5 mg"
+  ],
+  "purpose": [
+    "Purpose Stimulant Laxative"
+  ],
+  "indications_and_usage": [
+    "Uses for relief of occasional constipation and irregularity this product generally produces bowel movement in 6 to 12 hours"
+  ],
+  "warnings": [
+    "Warnings Do not use if you cannot swallow without chewing Ask a doctor before use if you have • stomach pain, nausea, vomiting • noticed a sudden change in bowel habits that lasts more than 2 weeks When using this product • do not chew or crush tablet(s) • do not use within 1 hour after taking an antacid or milk • it may cause stomach discomfort, faintness and cramps Stop use and ask a doctor if • you have rectal bleeding or no bowel movement after using this product. These could be signs of a serious condition. • you need to use a laxative for more than 1 week If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions take with a glass of water adults and children 12 years and older: take 1 to 3 tablets in a single daily dose children 12 and under: ask a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information • Tamper Evident: Do not use if imprinted seal under cap is missing or broken • store at room temperature 15°-30°C (59°-86°F) • avoid excessive humidity • package not child resistant"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients acacia, ammonium hydroxide, calcium carbonate, corn starch, D&C yellow #10 lake, FD&C yellow #6 lake, hypromellose, iron oxide black, lactose, magnesium stearate, methylparaben, PEG, polydextrose, polyvinyl acetate phthalate, propylparaben, propylene glycol, povidone, shellac, simethicone, silica, sodium alginate, sodium benzoate, sodium bicarbonate, stearic acid, sucrose, talc, titanium dioxide, triacetin, triethyl citrate, wax."
+  ],
+  "questions": [
+    "Questions or comments? 1-800-540-3765"
+  ],
+  "how_supplied": [
+    "HOW SUPPLIED NDC: 71335-1531-0: 25 Tablets in a BOTTLE NDC: 71335-1531-1: 30 Tablets in a BOTTLE NDC: 71335-1531-2: 2 Tablets in a BOTTLE NDC: 71335-1531-3: 3 Tablets in a BOTTLE NDC: 71335-1531-4: 4 Tablets in a BOTTLE NDC: 71335-1531-5: 10 Tablets in a BOTTLE NDC: 71335-1531-6: 90 Tablets in a BOTTLE NDC: 71335-1531-7: 8 Tablets in a BOTTLE NDC: 71335-1531-8: 100 Tablets in a BOTTLE NDC: 71335-1531-9: 20 Tablets in a BOTTLE Repackaged/Relabeled by: Bryant Ranch Prepack, Inc. Burbank, CA 91504"
+  ],
+  "package_label_principal_display_panel": [
+    "Bisacodyl 5mg Tablet Label"
+  ],
+  "set_id": "06940a9d-02bb-4b8e-b1cf-d69d94a30b67",
+  "id": "28debe6e-1735-4f92-a4f2-96d6b3e690bf",
+  "effective_time": "20240119",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "stimulant laxative enteric coated"
+    ],
+    "generic_name": [
+      "BISACODYL"
+    ],
+    "manufacturer_name": [
+      "Bryant Ranch Prepack"
+    ],
+    "product_ndc": [
+      "71335-1531"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BISACODYL"
+    ],
+    "rxcui": [
+      "308753"
+    ],
+    "spl_id": [
+      "28debe6e-1735-4f92-a4f2-96d6b3e690bf"
+    ],
+    "spl_set_id": [
+      "06940a9d-02bb-4b8e-b1cf-d69d94a30b67"
+    ],
+    "package_ndc": [
+      "71335-1531-0",
+      "71335-1531-1",
+      "71335-1531-2",
+      "71335-1531-3",
+      "71335-1531-4",
+      "71335-1531-5",
+      "71335-1531-6",
+      "71335-1531-7",
+      "71335-1531-8",
+      "71335-1531-9"
+    ],
+    "original_packager_product_ndc": [
+      "57896-441"
+    ],
+    "nui": [
+      "N0000009371",
+      "N0000175812",
+      "N0000009871"
+    ],
+    "pharm_class_pe": [
+      "Increased Large Intestinal Motility [PE]",
+      "Stimulation Large Intestine Fluid/Electrolyte Secretion [PE]"
+    ],
+    "pharm_class_epc": [
+      "Stimulant Laxative [EPC]"
+    ],
+    "unii": [
+      "10X0709Y6I"
+    ]
+  }
+}

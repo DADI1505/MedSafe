@@ -1,0 +1,112 @@
+{
+  "spl_product_data_elements": [
+    "Leg Pain Relief ZINC, COPPER, HYPERICUM PERFORATUM SUCROSE LACTOSE ZINC ZINC COPPER COPPER HYPERICUM PERFORATUM HYPERICUM PERFORATUM"
+  ],
+  "active_ingredient": [
+    "Active Ingredients** Zincum metallicum 6C HPUS Cuprum metallicum 6C HPUS Hypericum perforatum 30C HPUS The letters HPUS indicate that this ingredient is officially included in the Homeopathic Pharmacopoeia of the United States."
+  ],
+  "purpose": [
+    "Purpose* Zincum metallicum 6C HPUS ..... Relieves restless legs Cuprum metallicum 6C HPUS ..... Relieves sudden muscle cramps Hypericum perforatum 30C HPUS ..... Relieves shooting pain"
+  ],
+  "indications_and_usage": [
+    "Uses* temporarily relieves symptoms of leg pain such as: restless legs, leg cramps, shooting pain"
+  ],
+  "warnings": [
+    "Warnings Ask a doctor before use in children under 2 years of age. Stop use and ask a doctor if symptoms persist for more than 7 days or worsen. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use in children under 2 years of age."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if symptoms persist for more than 7 days or worsen."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 2 years of age and older: At the onset of symptoms, dissolve 5 pellets of the most appropriate medicine(s) under the tounge 3 times a day until symptoms are releived, or as directed by a doctor. If pain occurs at night, take 5 pellets before bedtime. Children under 2 years of age: Ask a doctor."
+  ],
+  "spl_unclassified_section": [
+    "Other information do not used if the label sealing the clear tube cap is broken or missing",
+    "Notes: *These \"Uses\" have not been evaluated by the Food And Drug Administration. **C, K, CK and X are homeopathic dilutions: see BoironUSA.com/info for details."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients lactose, sucrose"
+  ],
+  "questions": [
+    "Questions, Comments? BoironUSA.com info@boiron.com 1-800-BOIRON-1 (1-800-264-7661) Distributed by Boiron Inc., 6 Campus Boulevard, Newtown Square, PA 19073-3267"
+  ],
+  "package_label_principal_display_panel": [
+    "Principle Display Panel - Leg Pain Relief image"
+  ],
+  "set_id": "07f85300-bf90-11e7-81d0-424c58303031",
+  "id": "06ea67d8-b619-776b-e063-6294a90a3185",
+  "effective_time": "20231004",
+  "version": "6",
+  "openfda": {
+    "brand_name": [
+      "Leg Pain Relief"
+    ],
+    "generic_name": [
+      "ZINC, COPPER, HYPERICUM PERFORATUM"
+    ],
+    "manufacturer_name": [
+      "Laboratoires Boiron"
+    ],
+    "product_ndc": [
+      "0220-9228"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ZINC",
+      "COPPER",
+      "HYPERICUM PERFORATUM"
+    ],
+    "spl_id": [
+      "06ea67d8-b619-776b-e063-6294a90a3185"
+    ],
+    "spl_set_id": [
+      "07f85300-bf90-11e7-81d0-424c58303031"
+    ],
+    "package_ndc": [
+      "0220-9228-43"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0306969228432"
+    ],
+    "nui": [
+      "M0005152",
+      "N0000175831",
+      "N0000008595",
+      "N0000008924",
+      "N0000175830"
+    ],
+    "pharm_class_cs": [
+      "Copper [CS]"
+    ],
+    "pharm_class_epc": [
+      "Copper-containing Intrauterine Device [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Decreased Embryonic Implantation [PE]",
+      "Decreased Sperm Motility [PE]",
+      "Inhibit Ovum Fertilization [PE]"
+    ],
+    "unii": [
+      "J41CSQ7QDS",
+      "789U1901C5",
+      "XK4IUX8MNB"
+    ]
+  }
+}

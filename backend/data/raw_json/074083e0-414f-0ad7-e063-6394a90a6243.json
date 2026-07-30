@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "PERSISTENT BODY ACNE WASH 8.5OZ Salicylic Acid WATER SALICYLIC ACID SALICYLIC ACID SODIUM HYDROXIDE EDETATE DISODIUM ANHYDROUS GLYCOLIC ACID SODIUM C14-16 OLEFIN SULFONATE SORBITOL GLUCONOLACTONE CHLORPHENESIN COCAMIDOPROPYL HYDROXYSULTAINE BUTYL ACRYLATE/METHYL METHACRYLATE/METHACRYLIC ACID COPOLYMER (18000 MW)"
+  ],
+  "active_ingredient": [
+    "Active ingredient Salicylic Acid (1%)"
+  ],
+  "purpose": [
+    "Purpose Acne treatment"
+  ],
+  "indications_and_usage": [
+    "Use For the treatment of acne."
+  ],
+  "warnings": [
+    "Warnings For external use only. When using this product Avoid contact with eyes. If contact occurs, immediately fulsh with water. Skin irritation and dryness is more likely to occur if you use another topical ance medication at the same time. If irritation occurs, only use one topical acne medication at a time. Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product Avoid contact with eyes. If contact occurs, immediately fulsh with water. Skin irritation and dryness is more likely to occur if you use another topical ance medication at the same time. If irritation occurs, only use one topical acne medication at a time."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Wet body Gently massage over body for 20-30 seconds Rinse thoroughly and pat dry Recommended for daily use"
+  ],
+  "storage_and_handling": [
+    "Other information Store at room temperature"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water Sodium C14-16 Olefin Sulfonate Cocamidopropyl Hydroxysultaine Sorbitol Gluconolactone Chlorphenesin Sodium Hydroxide Acrylates Copolymer Disodium EDTA Glycolic Acid"
+  ],
+  "package_label_principal_display_panel": [
+    "label label"
+  ],
+  "set_id": "074079cd-866d-0af0-e063-6394a90a7214",
+  "id": "074083e0-414f-0ad7-e063-6394a90a6243",
+  "effective_time": "20231009",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "PERSISTENT BODY ACNE WASH 8.5OZ"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID"
+    ],
+    "manufacturer_name": [
+      "China Ningbo Shangge Cosmetics Technology Corp."
+    ],
+    "product_ndc": [
+      "58503-169"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "spl_id": [
+      "074083e0-414f-0ad7-e063-6394a90a6243"
+    ],
+    "spl_set_id": [
+      "074079cd-866d-0af0-e063-6394a90a7214"
+    ],
+    "package_ndc": [
+      "58503-169-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0849607073648"
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

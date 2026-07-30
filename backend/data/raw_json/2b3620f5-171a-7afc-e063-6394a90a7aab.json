@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "Kids Face and Body Sunscreen SPF 50 Zinc Oxide OLIVE OIL COCOA BUTTER SHEA BUTTER CANDELILLA WAX BUTYLOCTYL SALICYLATE ZINC OXIDE ZINC OXIDE LEVOMENOL TOCOPHEROL COCONUT OIL ORYZANOL CARNAUBA WAX SUNFLOWER OIL"
+  ],
+  "dosage_and_administration": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Zinc Oxide 21.0%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent sunburn If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use on broken or damaged skin When using this product Keep out of eyes. Rinse with water to remove Stop use and ask a doctor if rash occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "do_not_use": [
+    "Do not use on broken or damaged skin"
+  ],
+  "when_using": [
+    "When using this product Keep out of eyes. Rinse with water to remove"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "instructions_for_use": [
+    "Directions Apply liberally and spread evenly by hand 15 minutes before sun exposure Reapply: • after 80 minutes of swimming or sweating • immediately after towel use • at least every 2 hours For children under 6 months of age, ask a doctor Sun Protection Measures: Spending time in the sun can increase your risk of skin cancer and early skin aging. To decrease this risk, regularly use sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: • Limit time in the sun, especially from 10a.m. - 2p.m. • Wear long-sleeved shirts, pants, hats and sunglasses"
+  ],
+  "other_safety_information": [
+    "Other Information Protect the product in this container from excessive heat and direct sun Avoid long-term exposure storage above 40°C (104°F) May stain some fabrics"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Bisabolol, Butyloctyl Salicylate, Butyrospermum Parkii (Shea) Butter*, Cocos Nucifera (Coconut) Oil*, Copernicia Cerifera (Carnauba) Wax, Euphorbia Cerifera (Candelila) Wax, Helianthus Annuus (Sunflower) Seed Oil, Olea Europaea (Olive) Fruit Oil, Oryzanol, Theobroma Cacao (Cocoa) Seed Butter, Tocopherol. *Organic"
+  ],
+  "package_label_principal_display_panel": [
+    "HelloBello-sunscreen-family-stick_BIORIUS_Aug2023_AO HelloBello-sunscreen-family-stick-box_BIORIUS_Aug2023_AO"
+  ],
+  "set_id": "01cc4ea0-e3de-32f1-e063-6394a90a1375",
+  "id": "2b3620f5-171a-7afc-e063-6394a90a7aab",
+  "effective_time": "20250108",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Kids Face and Body Sunscreen SPF 50"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Hello Bello"
+    ],
+    "product_ndc": [
+      "73418-103"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "2b3620f5-171a-7afc-e063-6394a90a7aab"
+    ],
+    "spl_set_id": [
+      "01cc4ea0-e3de-32f1-e063-6394a90a1375"
+    ],
+    "package_ndc": [
+      "73418-103-01",
+      "73418-103-08"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "spl_product_data_elements": [
+    "OneSkin OS-01 SHIELD Broad Spectrum SPF 30 Mineral Sunscreen Untinted Zinc Oxide GLYCERIN HELIANTHUS ANNUUS SPROUT XANTHAN GUM PHENOXYETHANOL ISOSTEARIC ACID TETRAHEXYLDECYL ASCORBATE CAPRYLYL/CAPRYL OLIGOGLUCOSIDE ALLANTOIN POLYHYDROXYSTEARIC ACID (2300 MW) STARCH, RICE LECITHIN, SOYBEAN MEDIUM-CHAIN TRIGLYCERIDES CETYL PALMITATE POLYGLYCERYL-3 PENTARICINOLEATE PHYTATE SODIUM ETHYLHEXYLGLYCERIN ZINC OXIDE ZINC OXIDE SHEANUT LEVOMENOL HYDROLYZED JOJOBA ESTERS (POTASSIUM SALTS) ACACIA HEXYLENE GLYCOL .ALPHA.-TOCOPHEROL ACETATE WATER SORBITAN MONOPALMITATE METHYL DIHYDROABIETATE CETOSTEARYL ALCOHOL SORBITAN OLIVATE PEPTIDE-T GREEN TEA LEAF POTASSIUM SORBATE COCO GLUCOSIDE ETHYL FERULATE SODIUM BENZOATE ACAI CAESALPINIA SPINOSA FRUIT POD CAPRYLYL GLYCOL PROPYLENE GLYCOL"
+  ],
+  "active_ingredient": [
+    "Active ingredients – Zinc Oxide 17.5 %"
+  ],
+  "purpose": [
+    "Purpose – Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses – Helps prevent sunburn If used as directed with other sun protection measures (See direction), decreases the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "warnings": [
+    "Warning – For external use only"
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin"
+  ],
+  "when_using": [
+    "When using this product keep out of eye. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask doctor if rash occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away."
+  ],
+  "dosage_and_administration": [
+    "Direction- Apply liberally 15 minutes before sun exposure. Reapply at least every two hours. Use a water-resistant sunscreen if swimming or sweating. Children under 6 months of age: Ask a doctor. Sun protection measures: spending time in the sun increases your risk of skin cancer and early skin aging. To decrease the risk, regularly use a sunscreen with a broad-spectrum value of 15 or higher and other sun protection measures including: Limit time in the sun. especially from 10 am to 2 pm Wear long-sleeved shirts, pants hats and sunglasses."
+  ],
+  "other_safety_information": [
+    "Other information: Protect the product in this container from excessive heat and direct sun."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients: Water(aqua), Caprylic/Capric Triglyceride, Glycerin, Methyl Dihydroabietate, Cetearyl Alcohol, Cetyl Palmitate, Coco-Glucoside, Caprylyl/Capryl Glucoside, Sorbitan Palmitate, Sorbitan Olivate, Butyrospermum Parkii (Shea) Nut Extract, Ethyl Ferulate, Bisabolol, Allantoin, Hydrolyzed Jojoba Esters, Acacia Senegal Gum, Polyhydroxystearic Acid, Polyglyceryl-3 Polyricinoleate, Isostearic Acid, Lecithin, Tocopheryl Acetate, Tetrahexyldecyl Ascorbate, Decapeptide-52*, Oryza Sativa (rice) Starch,Camellia Sinensis Leaf Extract, Euterpe Oleracea Fruit Extract, Caesalpinia Spinosa Fruit Pod Extract, Helianthus Annuus (Sunflower) Sprout Extract, Caprylyl Glycol, Ethylhexylglycerin, Hexylene Glycol, Xanthan Gum, Sodium Phytate, Propylene Glycol, Phenoxyethanol, sodium Benzoate, Potassium Sorbate."
+  ],
+  "package_label_principal_display_panel": [
+    "OneSkin OS-01 SHIELD Broad Spectrum SPF 30 Mineral Sunscreen Untinted"
+  ],
+  "set_id": "02f9c859-8d7d-5146-e063-6394a90a57b5",
+  "id": "28dc4575-f136-e553-e063-6394a90ab84e",
+  "effective_time": "20241209",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "OneSkin OS-01 SHIELD Broad Spectrum SPF 30 Mineral Sunscreen Untinted"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Allure Labs"
+    ],
+    "product_ndc": [
+      "62742-4229"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "28dc4575-f136-e553-e063-6394a90ab84e"
+    ],
+    "spl_set_id": [
+      "02f9c859-8d7d-5146-e063-6394a90a57b5"
+    ],
+    "package_ndc": [
+      "62742-4229-1",
+      "62742-4229-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

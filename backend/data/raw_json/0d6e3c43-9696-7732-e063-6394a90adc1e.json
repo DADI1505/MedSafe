@@ -1,0 +1,82 @@
+{
+  "spl_product_data_elements": [
+    "Equate Calaspray Pramoxine HCl 1%, Zinc Acetate 0.1% PHENOXYETHANOL WATER HYPROMELLOSE, UNSPECIFIED CITRIC ACID MONOHYDRATE CAMPHOR (SYNTHETIC) ETHYLHEXYLGLYCERIN PROPYLENE GLYCOL SODIUM CITRATE ALCOHOL PRAMOXINE HYDROCHLORIDE PRAMOXINE ZINC ACETATE ZINC CATION POLYSORBATE 40"
+  ],
+  "active_ingredient": [
+    "Pramoxine HCl 1%, Zinc acetate 0.1%"
+  ],
+  "purpose": [
+    "Topical analgesic / Skin protectant"
+  ],
+  "indications_and_usage": [
+    "For the temporary relief of pain and itching associated with rashes due to poison ivy, oak and sumac insect bites minor skin irritations minor cuts dries the oozing and weeping of poison ivy, oak, and sumac"
+  ],
+  "warnings": [
+    "For external use only. Flammable. Keep away from fire or flame. Do not use on deep or puncture wounds, animal bites, or serious burns. When using this product avoid contact with eyes. In case of contact with eyes, flush thoroughly with water. avoid contact with broken skin, do not inhale or ingest, contents under pressure. Do not puncture or incinerate. Do not store at temperature above 120F. Stop use and ask a doctor if condition worsens, rash or irritation develops and lasts for more than 7 days or clears up and occurs again within a few days."
+  ],
+  "keep_out_of_reach_of_children": [
+    "If product is swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Adults and children 2 years or older: apply to affected are not more than 3 to 4 times daily. Children under 2 years of age: ask a doctor. To apply to face, spray into palm of hand and gently apply."
+  ],
+  "inactive_ingredient": [
+    "Alcohol denat., camphor, citric acid, ethylhexylglycerin, fragrance, glycerin, hydroxypropyl methylcellulose, phenoxyethanol, polysorbate 40, propylene glycol, sodium citrate, water."
+  ],
+  "package_label_principal_display_panel": [
+    "Label"
+  ],
+  "set_id": "027ed5ab-05ec-569f-e063-6394a90abbc3",
+  "id": "0d6e3c43-9696-7732-e063-6394a90adc1e",
+  "effective_time": "20231226",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Equate Calaspray"
+    ],
+    "generic_name": [
+      "PRAMOXINE HCL 1%, ZINC ACETATE 0.1%"
+    ],
+    "manufacturer_name": [
+      "Walmart Inc"
+    ],
+    "product_ndc": [
+      "79903-212"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "PRAMOXINE HYDROCHLORIDE",
+      "ZINC ACETATE"
+    ],
+    "rxcui": [
+      "1294033"
+    ],
+    "spl_id": [
+      "0d6e3c43-9696-7732-e063-6394a90adc1e"
+    ],
+    "spl_set_id": [
+      "027ed5ab-05ec-569f-e063-6394a90abbc3"
+    ],
+    "package_ndc": [
+      "79903-212-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0194346121601"
+    ],
+    "unii": [
+      "88AYB867L5",
+      "FM5526K07A"
+    ]
+  }
+}

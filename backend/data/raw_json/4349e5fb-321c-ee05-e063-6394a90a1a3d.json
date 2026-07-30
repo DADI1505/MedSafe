@@ -1,0 +1,95 @@
+{
+  "spl_product_data_elements": [
+    "Dendracin Neurodendraxcin Methyl Salicylate, Menthol and Capsaicin WATER BENZOCAINE GLYCERYL MONOSTEARATE PEG-100 STEARATE STEARIC ACID PROPYLENE GLYCOL CETYL ALCOHOL DIMETHYL SULFOXIDE POLOXAMER 407 ALOE VERA LEAF BORAGE SEED OIL AMMONIO METHACRYLATE COPOLYMER TYPE A GINGER LECITHIN, SOYBEAN METHYLPARABEN PROPYLPARABEN DMDM HYDANTOIN SODIUM STEAROYL GLUTAMATE TROLAMINE METHYL SALICYLATE SALICYLIC ACID MENTHOL MENTHOL CAPSAICIN CAPSAICIN"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS Methyl Salicylate 30% Menthol 10% Capsaicin 0.025%"
+  ],
+  "purpose": [
+    "Purpose Topical Analgesic"
+  ],
+  "indications_and_usage": [
+    "USES: For temporary relief of mild pain due to muscular strain, arthritis, and simple back pain. Does not cure any disease."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep away from children and pets. If swallowed get medical help or contact a Poison Control Center right away."
+  ],
+  "warnings": [
+    "WARNINGS: For external use only. Do not use in eyes, mouth, on mucous membranes, or genitals. Do not allow treated skin to contact infants or pets. Do not tightly bandage. Do not use with heating pad. Do not use with other topical pain products. May stain furniture, clothing or bedding."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Use only as directed. Shake before each use. Prior to first use, rub small amount to check for sensitivity. Gently rub over painful areas. Dry before contact with clothes or bedding to avoid staining. Wash hands after use. Do not use more than 4 times daily or if pregnant or nursing. If placed into eyes, rinse with cold water and call a doctor."
+  ],
+  "do_not_use": [
+    "Do Not Use: On cuts or infected skin, on children less than 12 years old, in large amounts, especially over raw or blistered skin, if allergic to any ingredients, PABA, aspirin products, or sulfa. Store below 90°F/32°C."
+  ],
+  "stop_use": [
+    "Stop Use and Ask a Physician: For severe undiagnosed pain. If pain worsens or persist for more than 7 days. If pain clears up and then recurs in a few days. If itching or rash occurs."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Aloe Barbadensis (Aloe Vera) Leaf Juice, Ammonium Acryloyldimethyltaurate/VP Copolymer, Benzocaine, Borago Officinalis Seed Oil (Borage Oil), Cetyl Alcohol, Dimethyl Sulfoxide, DMDM Hydantoin, Glyceryl Stearate, Methylparaben, PEG 100 Stearate, Poloxamer 407, Propylene Glycol, Propylparaben, Lecithin (Soy), Stearic Acid, Sodium Stearoyl Glucamate, Triethanolamine, Water, Officinale Root Extract."
+  ],
+  "spl_unclassified_section": [
+    "Manufactured for Physician’s Science and Nature Inc. 220 Newport Center Drive 11-634, Newport Beach, CA 92660"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Physician's Science and Nature Inc. DENDRACIN Neurodendraxcin ® Professional Formula Dermatologically Tested Hypoallergenic Topical Pain Relief Lotion Deep Penetrating Action 60 ml (2 fl oz) NDC 27495-014-02 120 ml (4 fl oz) NDC 27495-014-04 2 oz Label 4oz Label"
+  ],
+  "set_id": "05742cd5-ece2-4007-bdf0-46b76d23df74",
+  "id": "4349e5fb-321c-ee05-e063-6394a90a1a3d",
+  "effective_time": "20251110",
+  "version": "12",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Dendracin Neurodendraxcin"
+    ],
+    "generic_name": [
+      "METHYL SALICYLATE, MENTHOL AND CAPSAICIN"
+    ],
+    "manufacturer_name": [
+      "Physicians Science & Nature Inc."
+    ],
+    "product_ndc": [
+      "27495-014"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "METHYL SALICYLATE",
+      "MENTHOL",
+      "CAPSAICIN"
+    ],
+    "rxcui": [
+      "1116967",
+      "1116971"
+    ],
+    "spl_id": [
+      "4349e5fb-321c-ee05-e063-6394a90a1a3d"
+    ],
+    "spl_set_id": [
+      "05742cd5-ece2-4007-bdf0-46b76d23df74"
+    ],
+    "package_ndc": [
+      "27495-014-02",
+      "27495-014-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0327495014047"
+    ],
+    "unii": [
+      "LAV5U5022Y",
+      "L7T10EIP3A",
+      "S07O44R1ZM"
+    ]
+  }
+}

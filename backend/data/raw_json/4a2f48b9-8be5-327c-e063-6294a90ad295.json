@@ -1,0 +1,62 @@
+{
+  "spl_product_data_elements": [
+    "Nitrous Oxide Nitrous Oxide NITROUS OXIDE NITROUS OXIDE"
+  ],
+  "package_label_principal_display_panel": [
+    "NITROUS OXIDE USP UN1070 DO NOT REMOVE THIS LABEL. Rx only. WARNING: Administration of Nitrous Oxide may be hazardous or contraindicated. For use only by or under the supervision of a licensed practitioner who is experienced in the use and administration of Nitrous Oxide and is familiar with the indications, effects, dosages, methods, and frequency and duration of administration, and with the hazards, contraindications and side effects, and the precautions to be taken. DANGER: MAY CAUSE OR INTENSIFY FIRE; OXIDIZER. CONTAINS GAS UNDER PRESSURE; MAY EXPLODE IF HEATED. MAY CAUSE DROWSINESS OR DIZZINESS. MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION. MAY CAUSE FROSTBITE. Obtain, read and follow all safety instructions before use. Keep away from clothing and other combustible materials. Keep valves and fittings free from grease and oil. Avoid breathing contents. Do not get in eyes, on skin, or on clothing. Use and store only outdoors or in a well-ventilated place. Wear protective gloves, protective clothing, and either eye or face protection. In case of fire: Stop leak if safe to do so. Store locked up. Dispose of contents/container in accordance with container supplier/owner instructions. Use a back flow preventive device in the piping. Close valve after each use and when empty. Use only with equipment rated for cylinder pressure. Do not open valve until connected to equipment cleaned for oxygen service. Protect from sunlight when ambient temperature exceeds 52 C (125 F). Read and follow the Safety Data Sheet (SDS) before use. FIRST AID: IF INHALED: Remove person to fresh air and keep comfortable for breathing. Get medical help if you feel unwell. IF ON SKIN: Immediately thaw frosted parts with lukewarm water. Do not rub affected area. Get emergency medical help immediately. CAS: 10024-97-2 WARNING: This product can expose you to chemicals including Nitrous Oxide, which is known to the State of California to cause birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov. RED BALL OXYGEN Red Ball Oxygen Co, Inc. 609 North Market Street Shreveport, LA 71107 318-425-3211 CONTENTS LITERS nitrous oxide 2026"
+  ],
+  "set_id": "02a3cf7f-d0a5-4edd-bc84-d9162558434b",
+  "id": "4a2f48b9-8be5-327c-e063-6294a90ad295",
+  "effective_time": "20260206",
+  "version": "21",
+  "openfda": {
+    "application_number": [
+      "NDA206009"
+    ],
+    "brand_name": [
+      "Nitrous Oxide"
+    ],
+    "generic_name": [
+      "NITROUS OXIDE"
+    ],
+    "manufacturer_name": [
+      "Red Ball Oxygen Co., Inc."
+    ],
+    "product_ndc": [
+      "46362-003"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "RESPIRATORY (INHALATION)"
+    ],
+    "substance_name": [
+      "NITROUS OXIDE"
+    ],
+    "rxcui": [
+      "347166"
+    ],
+    "spl_id": [
+      "4a2f48b9-8be5-327c-e063-6294a90ad295"
+    ],
+    "spl_set_id": [
+      "02a3cf7f-d0a5-4edd-bc84-d9162558434b"
+    ],
+    "package_ndc": [
+      "46362-003-01",
+      "46362-003-02",
+      "46362-003-03",
+      "46362-003-04",
+      "46362-003-05",
+      "46362-003-06",
+      "46362-003-07"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "K50XQU1029"
+    ]
+  }
+}

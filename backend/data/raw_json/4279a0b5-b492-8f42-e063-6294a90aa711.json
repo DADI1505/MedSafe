@@ -1,0 +1,75 @@
+{
+  "spl_product_data_elements": [
+    "Iris and Romeo Weekend Skin Warm Glow Zinc Oxide GLYCERIN ASCORBYL GLUCOSIDE HYDROLYZED JOJOBA ESTERS (ACID FORM) DIMETHICONE METHYLPROPANEDIOL STEARALKONIUM HECTORITE SILICON DIOXIDE POLYGLYCERYL-3 DIISOSTEARATE CAPRYLYL GLYCOL ALLANTOIN LECITHIN, SOYBEAN PHENYLPROPANOL POLYGLYCERYL-4 DIISOSTEARATE/POLYHYDROXYSTEARATE/SEBACATE FERRIC OXIDE RED FERRIC OXIDE YELLOW FERROSOFERRIC OXIDE ALKYL (C12-15) BENZOATE BUTYLOCTYL SALICYLATE .ALPHA.-BISABOLOL, (+)- ZINC OXIDE ZINC OXIDE SODIUM HYDROXIDE WATER NIACINAMIDE TETRASODIUM GLUTAMATE DIACETATE SODIUM CHLORIDE POLYGLYCERYL-2 DIPOLYHYDROXYSTEARATE TITANIUM DIOXIDE MICA TOCOPHEROL STANNIC OXIDE"
+  ],
+  "dosage_and_administration": [
+    "Iris and Romeo Weekend Skin Warm Glow Dosage and Administration"
+  ],
+  "inactive_ingredient": [
+    "Iris and Romeo Weekend Skin Warm Glow Inactive ingredients"
+  ],
+  "indications_and_usage": [
+    "Iris and Romeo Weekend Skin Warm Glow Indications & usage"
+  ],
+  "active_ingredient": [
+    "Iris and Romeo Weekend Skin Warm Glow Active Ingredients"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Iris and Romeo Weekend Skin Warm Glow keep out of reach of children"
+  ],
+  "purpose": [
+    "Iris and Romeo Weekend Skin Warm Glow purpose"
+  ],
+  "warnings": [
+    "Iris and Romeo Weekend Skin Warm Glow Warning Label"
+  ],
+  "package_label_principal_display_panel": [
+    "Iris and Romeo Weekend Skin Warm Glow PDP"
+  ],
+  "set_id": "0852977a-83e5-26cf-e063-6294a90ab3f9",
+  "id": "4279a0b5-b492-8f42-e063-6294a90aa711",
+  "effective_time": "20251031",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Iris and Romeo Weekend Skin Warm Glow"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Iris and Romeo"
+    ],
+    "product_ndc": [
+      "83247-1838"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "4279a0b5-b492-8f42-e063-6294a90aa711"
+    ],
+    "spl_set_id": [
+      "0852977a-83e5-26cf-e063-6294a90ab3f9"
+    ],
+    "package_ndc": [
+      "83247-1838-1",
+      "83247-1838-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

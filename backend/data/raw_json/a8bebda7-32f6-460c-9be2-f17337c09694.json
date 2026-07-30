@@ -1,0 +1,97 @@
+{
+  "spl_product_data_elements": [
+    "equaline first aid antibiotic bacitracin zinc, neomycin, polymyxin B BACITRACIN ZINC BACITRACIN NEOMYCIN SULFATE NEOMYCIN POLYMYXIN B SULFATE POLYMYXIN B PETROLATUM COCOA BUTTER COTTONSEED OIL OLIVE OIL SODIUM PYRUVATE .ALPHA.-TOCOPHEROL ACETATE Translucent"
+  ],
+  "active_ingredient": [
+    "Active ingredients (in each gram) Bacitracin zinc equivalent to 400 units bacitracin Neomycin sulfate equivalent to 3.5 mg of neomycin base Polymyxin B 5,000 units as polymyxin B sulfate"
+  ],
+  "purpose": [
+    "Purpose First aid antibiotic"
+  ],
+  "indications_and_usage": [
+    "Uses first aid to help prevent infection in minor: • cuts • scrapes • burns"
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use • if you are allergic to any of the ingredients • in the eyes • over large areas of the body Ask a doctor before use if you have • deep or puncture wounds • animal bites • serious burns Stop use and ask a doctor if • you need to use longer than 1 week • condition persists or gets worse • rash or other allergic reaction develops Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+  ],
+  "do_not_use": [
+    "Do not use • if you are allergic to any of the ingredients • in the eyes • over large areas of the body"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor before use if you have • deep or puncture wounds • animal bites • serious burns"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if • you need to use longer than 1 week • condition persists or gets worse • rash or other allergic reaction develops"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+  ],
+  "dosage_and_administration": [
+    "Directions • clean the affected area • apply a small amount of this product (an amount equal to the surface area of the tip of a finger) on the area 1 to 3 times daily • may be covered with a sterile bandage"
+  ],
+  "storage_and_handling": [
+    "Other information • store at 20-25°C (68-77°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients cocoa butter, cottonseed oil, olive oil, sodium pyruvate, tocopheryl acetate, white petrolatum"
+  ],
+  "questions": [
+    "Questions or comments? 1-855-423-2630"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel EQUALINE ® Compare to Neosporin ® active ingredients helps prevent infection in minor: -cuts -scrapes -burns doctor recommended #1 combination of active ingredients EQUALINE ® Compare to Neosporin ® active ingredients original ointment first aid antibiotic bacitracin zinc• neomycin sulfate • polymyxin B sulfate long lasting infection protection NET WT 1 OZ (28g) 067-el-first-aid-antibiotic"
+  ],
+  "set_id": "022e009e-0192-4089-86f3-4d63448e0f88",
+  "id": "a8bebda7-32f6-460c-9be2-f17337c09694",
+  "effective_time": "20240918",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M004"
+    ],
+    "brand_name": [
+      "equaline first aid antibiotic"
+    ],
+    "generic_name": [
+      "BACITRACIN ZINC, NEOMYCIN, POLYMYXIN B"
+    ],
+    "manufacturer_name": [
+      "United Natural Foods, Inc. dba UNFI"
+    ],
+    "product_ndc": [
+      "41163-209"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BACITRACIN ZINC",
+      "NEOMYCIN SULFATE",
+      "POLYMYXIN B SULFATE"
+    ],
+    "rxcui": [
+      "204602"
+    ],
+    "spl_id": [
+      "a8bebda7-32f6-460c-9be2-f17337c09694"
+    ],
+    "spl_set_id": [
+      "022e009e-0192-4089-86f3-4d63448e0f88"
+    ],
+    "package_ndc": [
+      "41163-209-64",
+      "41163-209-58"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "89Y4M234ES",
+      "057Y626693",
+      "19371312D4"
+    ]
+  }
+}

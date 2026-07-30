@@ -1,0 +1,109 @@
+{
+  "spl_product_data_elements": [
+    "Camilia Tummy ACTIVATED CHARCOAL, MATRICARIA CHAMOMILLA, COPPER, CITRULLUS COLOCYNTHIS FRUIT PULP CITRULLUS COLOCYNTHIS FRUIT PULP CITRULLUS COLOCYNTHIS FRUIT PULP ALCOHOL COPPER COPPER ACTIVATED CHARCOAL ACTIVATED CHARCOAL WATER MATRICARIA CHAMOMILLA MATRICARIA CHAMOMILLA"
+  ],
+  "active_ingredient": [
+    "Active ingredients** (in each 1 mL vial) Carbo vegetabilis 6C HPUS (0.25 mL) Chamomilla 15C HPUS (0.25 mL) Colocynthis 9C HPUS (0.25 mL) Cuprum metallicum 6C HPUS (0.25 mL) The letters \"HPUS\" indicate that the components in this product are officially monographed in the Homeopathic Pharmacopoeia of the United States."
+  ],
+  "purpose": [
+    "Purpose* Carbo vegetabilis 6C HPUS (0.25 mL) ... Relieves bloating and painful gas Chamomilla 15C HPUS (0.25 mL) ... Relieves baby colic with fussiness and restlessness Colocynthis 9C HPUS (0.25 mL) ... Relieves abdominal pain associated with baby colic Cuprum metallicum 6C HPUS (0.25 mL) ... Relieves abdominal pain associated with baby colic"
+  ],
+  "indications_and_usage": [
+    "Uses* temporarily relieves gas and colic symptoms such as: tummy pain bloating fussiness and crying excessive or painful gas"
+  ],
+  "warnings": [
+    ""
+  ],
+  "do_not_use": [
+    "Do not use if your child has a known allergy to any ingredient in this product."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if symptoms persist for more than 3 days or worsen."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Children 1 month of age and older: Give 1 dose at the onset of symptoms. Wait 15 minutes, then repeat if needed for up to a total of 9 doses per 24 hours. For best results, administer before meals. 1. Tear open the foil pouch at the notched edge. 2. Snap off one pre-measured dose. 3. Twist to open. 4. Holding the child upright, squeeze entire contents into mouth."
+  ],
+  "inactive_ingredient": [
+    "alcohol, purified water"
+  ],
+  "questions": [
+    "Camilia.com BoironUSA.com Info@Boiron.com 1-800-BOIRON-1 (1-800-264-7661) Made in France Distributed by Boiron, Inc. Newtown Square, PA 19073"
+  ],
+  "spl_unclassified_section": [
+    "do not use if glued carton end flaps are open or if inner foil pouch and vials are not intact do not refrigerate or freeze after opening foil pouch: store unused vials in the foil pouch and in the box for no longer than 3 months after opening the vial: use product immediately then discard contains 0.0008% alcohol GAS & COLIC RELIEF* Fussiness Bloating Painful Gas* 5 Doses 30 Doses 40 Doses 0.034 FL OZ (1 mL) per dose 99.999% ALCOHOL-FREE *CLAIMS BASED ON TRADITIONAL HOMEOPATHIC PRACTICE NOT ACCEPTED MEDICAL EVIDENCE. NOT FDA EVALUATED. **C,K,CK, and X are homeopathic dilutions: see BoironUSA.com/info for details."
+  ],
+  "package_label_principal_display_panel": [
+    "0925 label Label LABE LABEL LABEL LABEL LABEL"
+  ],
+  "set_id": "06c011fd-2814-2a57-e063-6394a90a8099",
+  "id": "3eeec291-529d-b221-e063-6294a90ac440",
+  "effective_time": "20250916",
+  "version": "7",
+  "openfda": {
+    "brand_name": [
+      "Camilia Tummy"
+    ],
+    "generic_name": [
+      "ACTIVATED CHARCOAL, MATRICARIA CHAMOMILLA, COPPER, CITRULLUS COLOCYNTHIS FRUIT PULP"
+    ],
+    "manufacturer_name": [
+      "Boiron"
+    ],
+    "product_ndc": [
+      "0220-9099"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CITRULLUS COLOCYNTHIS FRUIT PULP",
+      "COPPER",
+      "ACTIVATED CHARCOAL",
+      "MATRICARIA CHAMOMILLA"
+    ],
+    "spl_id": [
+      "3eeec291-529d-b221-e063-6294a90ac440"
+    ],
+    "spl_set_id": [
+      "06c011fd-2814-2a57-e063-6394a90a8099"
+    ],
+    "package_ndc": [
+      "0220-9099-07",
+      "0220-9099-09",
+      "0220-9099-47"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "M0005152",
+      "N0000175831",
+      "N0000008595",
+      "N0000008924",
+      "N0000175830"
+    ],
+    "pharm_class_cs": [
+      "Copper [CS]"
+    ],
+    "pharm_class_epc": [
+      "Copper-containing Intrauterine Device [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Decreased Embryonic Implantation [PE]",
+      "Decreased Sperm Motility [PE]",
+      "Inhibit Ovum Fertilization [PE]"
+    ],
+    "unii": [
+      "23H32AOH17",
+      "789U1901C5",
+      "2P3VWU3H10",
+      "G0R4UBI2ZZ"
+    ]
+  }
+}

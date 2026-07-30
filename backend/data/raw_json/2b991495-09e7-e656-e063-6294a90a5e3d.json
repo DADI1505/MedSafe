@@ -1,0 +1,74 @@
+{
+  "spl_product_data_elements": [
+    "Skinfuse Shield SPF 30 Zinc Oxide WATER ETHYL MACADAMIATE GLYCERIN PROPANEDIOL POLYGLYCERYL-3 RICINOLEATE JOJOBA OIL ZINC OXIDE ZINC CATION"
+  ],
+  "active_ingredient": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "dosage_and_administration": [
+    "Dosage & Administration Evenly apply to skin before exposure to sun and as needed."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children warning Keep out of reach of children."
+  ],
+  "package_label_principal_display_panel": [
+    "label label"
+  ],
+  "set_id": "02d46d44-2476-4f96-9c72-783c392317de",
+  "id": "2b991495-09e7-e656-e063-6294a90a5e3d",
+  "effective_time": "20250113",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Skinfuse Shield SPF 30"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Owen Biosciences, Inc."
+    ],
+    "product_ndc": [
+      "59958-240"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "2b991495-09e7-e656-e063-6294a90a5e3d"
+    ],
+    "spl_set_id": [
+      "02d46d44-2476-4f96-9c72-783c392317de"
+    ],
+    "package_ndc": [
+      "59958-240-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

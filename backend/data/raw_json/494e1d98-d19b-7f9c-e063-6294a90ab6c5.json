@@ -1,0 +1,75 @@
+{
+  "spl_product_data_elements": [
+    "Nighttime Cold and Flu Acetaminophen, Dextromethorphan, Doxylamine succinate GLYCERIN ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN DOXYLAMINE SUCCINATE DOXYLAMINE"
+  ],
+  "dosage_and_administration": [
+    "Directions take only as directed only use the dose cup provided do not exceed 4 doses per 24 hrs adults & children 12 yrs & over 30 mL every 6 hrs children 4 to under 12 yrs ask a doctor children under 4 yrs do not use"
+  ],
+  "warnings": [
+    "Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 4 doses in 24 hrs, which is the maximum daily amount for this product with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy Alert: Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If skin reaction occurs, stop use and seek medical help right away Sore throat warning: If sore throat is severe, persist for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients alcohol, citric acid, D&C Yellow No. 10, FD&C Blue No.1, flavor, glycerin, propylene glycol, purified water, saccharin sodium, sodium benzoate, sodium citrate, sorbitol, sucralose"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves common cold/flu symptoms: cough due to minor throat & bronchial irritation sore throat headache minor aches & pains fever runny nose and sneezing"
+  ],
+  "keep_out_of_reach_of_children": [
+    "If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms"
+  ],
+  "purpose": [
+    "Active Ingredients (in each 30 mL) Purpose Acetaminophen 650 mg……………………………………………………………………………………………………………….……….. Pain reliever/fever reducer Dextromethorphan HBr 30 mg…………………………………………………………………………………………………….….………….……. Cough suppressant Doxylamine succinate 12.5 mg………………………………………………………………………………………………………………………….……. Antihistamine"
+  ],
+  "package_label_principal_display_panel": [
+    "fre fre2"
+  ],
+  "set_id": "02e5f475-4e9f-2856-e063-6294a90a21fd",
+  "id": "494e1d98-d19b-7f9c-e063-6294a90ab6c5",
+  "effective_time": "20260126",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Nighttime Cold and Flu"
+    ],
+    "generic_name": [
+      "ACETAMINOPHEN, DEXTROMETHORPHAN, DOXYLAMINE SUCCINATE"
+    ],
+    "manufacturer_name": [
+      "Walgreen Company"
+    ],
+    "product_ndc": [
+      "0363-9143"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACETAMINOPHEN",
+      "DEXTROMETHORPHAN HYDROBROMIDE",
+      "DOXYLAMINE SUCCINATE"
+    ],
+    "spl_id": [
+      "494e1d98-d19b-7f9c-e063-6294a90ab6c5"
+    ],
+    "spl_set_id": [
+      "02e5f475-4e9f-2856-e063-6294a90a21fd"
+    ],
+    "package_ndc": [
+      "0363-9143-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "362O9ITL9D",
+      "9D2RTI9KYH",
+      "V9BI9B5YI2"
+    ]
+  }
+}

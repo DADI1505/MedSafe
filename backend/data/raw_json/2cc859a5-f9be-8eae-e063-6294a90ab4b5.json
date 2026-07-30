@@ -1,0 +1,101 @@
+{
+  "spl_product_data_elements": [
+    "WHP Sleeplessness Arsenic Trioxide - Arabic Coffee Bean - Lachesis Muta Venom - Passiflora Incarnata Flowering Top SUCROSE LACTOSE PASSIFLORA INCARNATA FLOWERING TOP PASSIFLORA INCARNATA FLOWERING TOP ARABICA COFFEE BEAN ARABICA COFFEE BEAN ARSENIC TRIOXIDE ARSENIC CATION (3+) LACHESIS MUTA VENOM LACHESIS MUTA VENOM white"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS ARSENICUM ALB 6C COFFEA CRUDA 6C LACHESIS 6C PASSIFLORA 6C"
+  ],
+  "purpose": [
+    "USES Temporarily eases occasional sleeplessness."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN As with all medications, keep out of reach of children."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS ARSENICUM ALB Vomiting COFFEA CRUDA Sleeplessness LACHESIS Sore throat PASSIFLORA Sleeplessness"
+  ],
+  "warnings": [
+    "STOP USE AND ASK DOCTOR If symptoms persist or recur, discontinue use. If pregnant or nursing, consult a licensed practitioner before using this product."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Sucrose/Lactose"
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Directions: Adults and children 12 years and older: 2 pills dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children 4 years to under 12 years: 1 pill dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children under 4 years: Consult a licensed practitioner."
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL WHP Sleeplessness label WHP Sleeplessness box"
+  ],
+  "set_id": "06d15d06-c7ef-8e85-e063-6294a90ab2a2",
+  "id": "2cc859a5-f9be-8eae-e063-6294a90ab4b5",
+  "effective_time": "20250128",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "WHP Sleeplessness"
+    ],
+    "generic_name": [
+      "ARSENIC TRIOXIDE - ARABIC COFFEE BEAN - LACHESIS MUTA VENOM - PASSIFLORA INCARNATA FLOWERING TOP"
+    ],
+    "manufacturer_name": [
+      "Washington Homeopathic Products"
+    ],
+    "product_ndc": [
+      "71919-803"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PASSIFLORA INCARNATA FLOWERING TOP",
+      "ARABICA COFFEE BEAN",
+      "ARSENIC TRIOXIDE",
+      "LACHESIS MUTA VENOM"
+    ],
+    "spl_id": [
+      "2cc859a5-f9be-8eae-e063-6294a90ab4b5"
+    ],
+    "spl_set_id": [
+      "06d15d06-c7ef-8e85-e063-6294a90ab2a2"
+    ],
+    "package_ndc": [
+      "71919-803-14"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185371",
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "M0006342",
+      "M0016962",
+      "M0516536"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Food Allergenic Extract [EPC]",
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Dietary Proteins [CS]",
+      "Plant Proteins [CS]",
+      "Seed Storage Proteins [CS]"
+    ],
+    "unii": [
+      "CLF5YFS11O",
+      "3SW678MX72",
+      "S7V92P67HO",
+      "VSW71SS07I"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "spl_product_data_elements": [
+    "Cold-EEZE Cold Remedy Zinc Gluconate GLYCINE ISOMALT ACESULFAME ZINC GLUCONATE ZINC CATION P"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredient Active ingredient (per lozenge ) Zinc Gluconate 2X HPUS † (2.3%) (13.3 mg zinc) † The letters ‘HPUS’ indicate that the active ingredient is in the official Homeopathic Pharmacopeia of the United States."
+  ],
+  "purpose": [
+    "Purposes Cold remedy"
+  ],
+  "indications_and_usage": [
+    "Uses reduces the duration of the common cold reduces the severity of cold symptoms: cough, sore throat, nasal congestion, post nasal drip and/or hoarseness"
+  ],
+  "warnings": [
+    "Warnings Do not use for treatment of influenza or allergies. This product is intended only to reduce the duration of the common cold and its symptoms. Ask a doctor or pharmacist before use if you are taking minocycline, doxycycline, tetracycline or are on Coumadin (warfarin) therapy. Zinc treatment may inhibit the absorption of these medicines. When using this product do not take on an empty stomach (to avoid possible minor stomach upset) it may cause a laxative effect Stop use and ask your doctor if symptoms persist more than 7 days If pregnant or breastfeeding , ask a healthcare professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use for treatment of influenza or allergies. This product is intended only to reduce the duration of the common cold and its symptoms."
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking minocycline, doxycycline, tetracycline or are on Coumadin (warfarin) therapy. Zinc treatment may inhibit the absorption of these medicines."
+  ],
+  "when_using": [
+    "When using this product do not take on an empty stomach (to avoid possible minor stomach upset) it may cause a laxative effect"
+  ],
+  "stop_use": [
+    "Stop use and ask your doctor if symptoms persist more than 7 days"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding , ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions • take one lozenge at the onset of symptoms • dissolve entire lozenge in mouth • do not chew • do not swallow whole • do not eat or drink for 15 minutes after use • repeat every 2-4 hours until symptoms subside Adults 18 years and over do not exceed 6 lozenges per day Children 12 to under 18 years do not exceed 4 lozenges per day Children under 12 years ask a doctor before use"
+  ],
+  "dosage_and_administration_table": [
+    "<table border=\"0\" width=\"100%\"><tbody><tr><td>Adults 18 years and over</td><td>do not exceed 6 lozenges per day</td></tr><tr><td>Children 12 to under 18 years</td><td>do not exceed 4 lozenges per day</td></tr><tr><td>Children under 12 years</td><td>ask a doctor before use</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information store in a cool, dry place after opening best if used within 6 months after opening"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients acesulfame-K, glycine, isomalt, natural flavors"
+  ],
+  "questions": [
+    "Questions of comments? call 1-800-505-2653 (Mon – Fri: 8AM – 5PM EST)"
+  ],
+  "package_label_principal_display_panel": [
+    "Cold-EEZE ® COLD REMEDY ZINC GLUCONATE HOMEOPATHIC SHORTENS YOUR COLD ® SUGAR FREE NATURAL WILD CHERRY FLAVOR 25 Zinc Lozenges CLINICALLY TESTED to Shorten Colds by 42%* Pharmacist Recommended ©2022 Vespyr Brands ® , Inc. All rights reserved Cold-EEZE ® is a registred trademark of Vespyr Brands ® , Inc. Distributed by Vespyr Brands®, Inc. East Windsor, NJ 08520 *A clinical study found the Cold-EEZE formula reduces the duration of the common cold by 42%, when taken at the first sign of symptoms and used as directed. The double blind placebo controlled study was conducted at the Cleveland Clinic and published in a peer reviewed journal. This product has not been evaluated by the FDA label"
+  ],
+  "set_id": "0326ab93-0b3b-7f29-e063-6294a90a01be",
+  "id": "51434bc7-09e9-5c03-e063-6394a90a9550",
+  "effective_time": "20260501",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "Cold-EEZE Cold Remedy"
+    ],
+    "generic_name": [
+      "ZINC GLUCONATE"
+    ],
+    "manufacturer_name": [
+      "Vespyr Brands LLC"
+    ],
+    "product_ndc": [
+      "71179-324"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ZINC GLUCONATE"
+    ],
+    "spl_id": [
+      "51434bc7-09e9-5c03-e063-6394a90a9550"
+    ],
+    "spl_set_id": [
+      "0326ab93-0b3b-7f29-e063-6294a90a01be"
+    ],
+    "package_ndc": [
+      "71179-324-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "U6WSN5SQ1Z"
+    ]
+  }
+}

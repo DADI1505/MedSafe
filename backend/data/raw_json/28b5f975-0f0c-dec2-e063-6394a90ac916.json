@@ -1,0 +1,113 @@
+{
+  "spl_product_data_elements": [
+    "Adult Allergy Relief CalmCo Allergy Relief PROPYLENE GLYCOL SUCROSE CORN SYRUP NEOTAME SODIUM CHLORIDE SUCRALOSE STARCH, CORN MALTITOL GLYCERYL MONO AND DIPALMITOSTEARATE HYDROXYPROPYL BETADEX ACACIA WATER FD&C RED NO. 40 POLYETHYLENE GLYCOL 400 POVIDONE K30 CARRAGEENAN TRISODIUM CITRATE DIHYDRATE DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredient and Purpose Active Ingredient and Purpose Active ingredient Purpose Diphenhydramine HCl 25 mg................. Anthistamine"
+  ],
+  "active_ingredient_table": [
+    "<table border=\"0\" width=\"100%\"><tbody><tr><td><content styleCode=\"italics\"><content styleCode=\"bold\">Active ingredient</content></content></td><td><content styleCode=\"italics\"><content styleCode=\"bold\">Purpose</content></content></td></tr><tr><td>Diphenhydramine HCl 25 mg.................</td><td>Anthistamine</td></tr></tbody></table>"
+  ],
+  "purpose": [
+    "Active ingredient Purpose Diphenhydramine HCl 25 mg................. Anthistamine"
+  ],
+  "purpose_table": [
+    "<table border=\"0\" width=\"100%\"><tbody><tr><td><content styleCode=\"italics\"><content styleCode=\"bold\">Active ingredient</content></content></td><td><content styleCode=\"italics\"><content styleCode=\"bold\">Purpose</content></content></td></tr><tr><td>Diphenhydramine HCl 25 mg.................</td><td>Anthistamine</td></tr></tbody></table>"
+  ],
+  "indications_and_usage": [
+    "Uses • temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: ■ runny nose ■ itchy, watery eyes ■ sneezing ■ itching of the nose or throat • temporarily relieves these symptoms due to the common cold: ■ runny nose ■ sneezing"
+  ],
+  "warnings": [
+    "Warnings Do not use • To make child sleepy • with any other product containing diphenhydramine, even one used on skin ask a doctor before use if you have • a breathing problem such as emphysema or chronic bronchitis • glaucoma • trouble urinating due to an enlarged prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers when using this product • marked drowsiness may occur • avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery • excitability may occur, especially in children If pregnant or breast-feeding ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "do_not_use": [
+    "Do not use • To make child sleepy • with any other product containing diphenhydramine, even one used on skin"
+  ],
+  "ask_doctor": [
+    "ask a doctor before use if you have • a breathing problem such as emphysema or chronic bronchitis • glaucoma • trouble urinating due to an enlarged prostate gland"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers"
+  ],
+  "when_using": [
+    "when using this product • marked drowsiness may occur • avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery • excitability may occur, especially in children"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "other_safety_information": [
+    "Other Information • each piece: contains sodium 9 mg . low sodium • store in a cool dry place between 20-25°C (68-77°F). • Child Resistant Container ; do not use if printed seal under cap is broken or missing."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients FD&C Red# 40, flavors, geleol mono and diglycerides, glucose syrup, gum atabic, hydroxypropyl betadex, maltitol solution, neotame, polyethylene glycol 400, povidone K30, propylene glycol, purified water, seaweed extract ( carrageenan), sodium chloride, starch, sucralose, sucrose, trisodium citrate dihydrate."
+  ],
+  "dosage_and_administration": [
+    "Directions take every 4 to 6 hours, or as directed by a doctor do not take more than 6 times in 24 hours chew each piece thoroughly before swallowing Age (Yrs) Dose ( per piece) adults and children 12 years and over 1 to 2 pieces (25mg to 50 mg) children under 12 years do not use"
+  ],
+  "dosage_and_administration_table": [
+    "<table border=\"0\" width=\"100%\"><tbody><tr><td><content styleCode=\"bold\">Age (Yrs)</content></td><td><content styleCode=\"bold\">Dose ( per piece)</content></td></tr><tr><td>adults and children 12 years and over</td><td>1 to 2 pieces (25mg to 50 mg)</td></tr><tr><td>children under 12 years</td><td>do not use</td></tr></tbody></table>"
+  ],
+  "questions": [
+    "Questions or Comments? Call 941-203-4590 or visit calmco.com"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel PDP Dr Kids A LABEL Dr Kids A"
+  ],
+  "set_id": "08288825-0f38-b6a3-e063-6394a90aa358",
+  "id": "28b5f975-0f0c-dec2-e063-6394a90ac916",
+  "effective_time": "20241207",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Adult Allergy Relief"
+    ],
+    "generic_name": [
+      "CALMCO ALLERGY RELIEF"
+    ],
+    "manufacturer_name": [
+      "CalmCo"
+    ],
+    "product_ndc": [
+      "73282-2520"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIPHENHYDRAMINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "2046528"
+    ],
+    "spl_id": [
+      "28b5f975-0f0c-dec2-e063-6394a90ac916"
+    ],
+    "spl_set_id": [
+      "08288825-0f38-b6a3-e063-6394a90aa358"
+    ],
+    "package_ndc": [
+      "73282-2520-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0313992000904"
+    ],
+    "unii": [
+      "TC2D6JAD40"
+    ]
+  }
+}

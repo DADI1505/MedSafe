@@ -1,0 +1,101 @@
+{
+  "spl_product_data_elements": [
+    "Tiger Balm Neck and Shoulder Rub Camphor (Synthetic) and Menthol Camphor (Synthetic) Camphor (Synthetic) Menthol, Unspecified Form Menthol, Unspecified Form Carbomer Homopolymer, Unspecified Type Diazolidinyl Urea Eucalyptus oil FD&C Blue No. 1 Glycerin Peg-120 Methyl Glucose Dioleate Methylparaben Propylene Glycol Propylparaben Trolamine Water"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information This product may cause allergic reaction on some individuals. Test on small area before use.",
+    "Manufactured by OLIC (Thailand) Limited for Haw Par Healthcare Ltd., Singapore under licence from Haw Par Corporation Ltd."
+  ],
+  "active_ingredient": [
+    "Active Ingredients Purpose Camphor 11% Topical Analgesic Menthol 10% Topical Analgesic"
+  ],
+  "active_ingredient_table": [
+    "<table width=\"60%\"><col width=\"80%\" align=\"left\" valign=\"top\"/><col width=\"20%\" align=\"right\" valign=\"top\"/><thead><tr><th><content styleCode=\"italics\">Active Ingredients</content></th><th><content styleCode=\"italics\">Purpose</content></th></tr></thead><tbody><tr><td>Camphor 11%</td><td>Topical Analgesic</td></tr><tr><td>Menthol 10%</td><td>Topical Analgesic</td></tr></tbody></table>"
+  ],
+  "purpose": [
+    "Active Ingredients Purpose Camphor 11% Topical Analgesic Menthol 10% Topical Analgesic"
+  ],
+  "purpose_table": [
+    "<table width=\"60%\"><col width=\"80%\" align=\"left\" valign=\"top\"/><col width=\"20%\" align=\"right\" valign=\"top\"/><thead><tr><th><content styleCode=\"italics\">Active Ingredients</content></th><th><content styleCode=\"italics\">Purpose</content></th></tr></thead><tbody><tr><td>Camphor 11%</td><td>Topical Analgesic</td></tr><tr><td>Menthol 10%</td><td>Topical Analgesic</td></tr></tbody></table>"
+  ],
+  "indications_and_usage": [
+    "Uses For temporary relief of minor aches and pains of neck and shoulder muscles."
+  ],
+  "warnings": [
+    "Warnings For external use only When using this product Use only as directed Avoid contact with eyes and mucous membranes Do not apply to wounds, damaged or irritated skin Do not bandage or cover with wrap or use heating pad Do not use 1 hour prior to bathing or within 30 minutes after bathing. Stop use and ask a doctor if Condition worsens Severe skin irritation occurs Pain persists for more than 7 days Pain clears up and then recurs a few days later. If pregnant or breastfeeding, or if you have sensitive skin, ask a healthcare professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.",
+    "California WARNING: This product can expose you to chemicals including diethanolamine (DEA), which is known to the State of California to cause cancer. For more information go to www.P65Warnings.ca.gov. Image"
+  ],
+  "when_using": [
+    "When using this product Use only as directed Avoid contact with eyes and mucous membranes Do not apply to wounds, damaged or irritated skin Do not bandage or cover with wrap or use heating pad Do not use 1 hour prior to bathing or within 30 minutes after bathing."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if Condition worsens Severe skin irritation occurs Pain persists for more than 7 days Pain clears up and then recurs a few days later."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, or if you have sensitive skin, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions For adults and children over 12 years, rub well on the affected area Repeat 3 to 4 times daily For children 12 years of age or younger, consult a doctor before use."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Carbomer, Dementholised Mint Oil, Diazolidinyl Urea, Eucalyptus Oil, FD&C Blue 1, Glycerin, Lavender Fragrance, Methyl Glucose Dioleate, Methylparaben, Propylene Glycol, Propylparaben, Triethanolamine (TEA), Water."
+  ],
+  "questions": [
+    "Questions/Comments (925) 292-3888"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 50 g Tube Carton NDC 66761-341-52 TIGER BALM ® TIGER BALM ® NECK & SHOULDER RUB Pain Relieving Cream Non-Greasy Soothing Relief LAVENDER Fragrance Soothing relief for stressed and strained muscles Net Wt. 1.76 oz (50g) PRINCIPAL DISPLAY PANEL - 50 g Tube Carton"
+  ],
+  "set_id": "02a65b25-78b2-4e29-9484-40e2228fb384",
+  "id": "96180462-a12e-46d8-b08c-b333544a288d",
+  "effective_time": "20250909",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Tiger Balm Neck and Shoulder Rub"
+    ],
+    "generic_name": [
+      "CAMPHOR (SYNTHETIC) AND MENTHOL"
+    ],
+    "manufacturer_name": [
+      "Haw Par Healthcare Ltd."
+    ],
+    "product_ndc": [
+      "66761-341"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CAMPHOR (SYNTHETIC)",
+      "MENTHOL, UNSPECIFIED FORM"
+    ],
+    "spl_id": [
+      "96180462-a12e-46d8-b08c-b333544a288d"
+    ],
+    "spl_set_id": [
+      "02a65b25-78b2-4e29-9484-40e2228fb384"
+    ],
+    "package_ndc": [
+      "66761-341-51",
+      "66761-341-52"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "5TJD82A1ET",
+      "L7T10EIP3A"
+    ]
+  }
+}

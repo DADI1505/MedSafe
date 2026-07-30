@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Family Wellness Regular Strength Antacid 126 Regular strength Antacid Calcium carbonate CALCIUM CARBONATE CALCIUM CATION ADIPIC ACID STARCH, CORN CROSPOVIDONE DEXTROSE, UNSPECIFIED FORM FD&C BLUE NO. 1 MAGNESIUM STEARATE MALTODEXTRIN SUCROSE TALC D&C RED NO. 27 D&C RED NO. 30 D&C YELLOW NO. 10 FD&C YELLOW NO. 6 reddish pink G126"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENT (in each tablet) Calcium carbonate 500 mg"
+  ],
+  "purpose": [
+    "PURPOSE Antacid"
+  ],
+  "indications_and_usage": [
+    "USE(S) relieves: acid indigestion heartburn"
+  ],
+  "warnings": [
+    "WARNINGS ."
+  ],
+  "ask_doctor_or_pharmacist": [
+    "ASK A DOCTOR OR PHARMACIST BEFORE USE IF YOU ARE presently taking a prescription drug. Antacids may interact with certain prescription drugs."
+  ],
+  "when_using": [
+    "WHEN USING THIS PRODUCT do not take more than 15 tablets in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks, except under the advice and supervision of a doctor."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "IF PREGNANT OR/BREASTFEEDING, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN ."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS adults and children 12 years of age and over: chew 2-4 tablets as symptoms occur, or as directed by a doctor."
+  ],
+  "storage_and_handling": [
+    "OTHER INFORMATION each tablet contains: elemental calcium 200 mg do not use if printed seal under cap is torn or missing. store at room temperature. Keep the container tightly closed."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS adipic acid, corn starch, crospovidone, D&C red 27 lake, D&C red 30 lake, D&C yellow 10 lake, dextrose, FD&C blue 1 lake, FD&C yellow 6 lake, flavors, magnesium stearate, maltodextrin, sucrose, talc."
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL Family Wellness TM COMPARE TO THE ACTIVE INGREDIENT IN REGULAR STRENGTH TUMS® * Regular Strength Antacid Tablets Calcium Carbonate 500 mg Assorted Fruit FLAVORS 150 Chewable Tablets 126-fw.jpg"
+  ],
+  "set_id": "049cce87-7ae2-4135-9c4b-7b181b24f930",
+  "id": "049cce87-7ae2-4135-9c4b-7b181b24f930",
+  "effective_time": "20240417",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "part331"
+    ],
+    "brand_name": [
+      "Family Wellness Regular Strength Antacid 126 Regular strength Antacid"
+    ],
+    "generic_name": [
+      "CALCIUM CARBONATE"
+    ],
+    "manufacturer_name": [
+      "Family Dollar Services, Inc."
+    ],
+    "product_ndc": [
+      "55319-921"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CALCIUM CARBONATE"
+    ],
+    "rxcui": [
+      "308907"
+    ],
+    "spl_id": [
+      "049cce87-7ae2-4135-9c4b-7b181b24f930"
+    ],
+    "spl_set_id": [
+      "049cce87-7ae2-4135-9c4b-7b181b24f930"
+    ],
+    "package_ndc": [
+      "55319-921-17"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "H0G9379FGK"
+    ]
+  }
+}

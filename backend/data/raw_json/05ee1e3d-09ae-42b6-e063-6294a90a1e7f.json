@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "Reoganic Body Firming StretchCream Niacinamide, Adenosine ADENOSINE ADENOSINE NIACINAMIDE NIACINAMIDE WATER SHEA BUTTER"
+  ],
+  "active_ingredient": [
+    "Niacinamide, Adenosine"
+  ],
+  "inactive_ingredient": [
+    "Water Caprylic/Capric Triglyceride Dipropylene Glycol Glycerin Butyrospermum Parkii (Shea) Butter Cetearyl Alcohol Myreth-3 Myristat Argania Spinosa Kernel Oil Squalane Dimethicone 1,2-Hexanediol Panthenol Macadamia Ternifolia Seed Oil Glyceryl Stearate Hydroxyethyl Urea Stearic Acid Palmitic Acid Hydrogenated Lecithin Caprylyl Glycol Carbomer Tocopheryl Acetate Xanthan Gum Arginine Allantoin Ethylhexylglycerin Disodium EDTA Salix Alba (Willow) Bark Extract Tremella Fuciformis (Mushroom) Extract Melaleuca Alternifolia (Tea Tree) Extract Olea Europaea (Olive) Fruit Extract Nelumbo Nucifera Flower Extract Portulaca Oleracea Extract Salvia Officinalis (Sage) Leaf Extract Centella Asiatica Extract Chamomilla Recutita (Matricaria) Flower Extract Rosmarinus Officinalis (Rosemary) Leaf Extract Butylene Glycol Ceramide NP Ceramide NS Phytosphingosine Cholesterol Ceramide AP Ceramide AS Folic Acid Ceramide EOP"
+  ],
+  "purpose": [
+    "skin protect"
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF THE CHILDREN"
+  ],
+  "indications_and_usage": [
+    "Gently massage the entire body, including the abdomen, thighs, breasts and buttocks, which require intensive care in the morning and evening. It is recommended to reapply often when the skin is tight due to dryness or in the middle of pregnancy (after 15 weeks)."
+  ],
+  "warnings": [
+    "(Precautions for use) 1. During using product or after use, if there are any abnormal symptoms or side effects such as red spots, swelling or itching in the area of use due to direct sunlight, consult with a specialist. 2. Refrain from using on areas with scars, etc. 3. Precautions for storage and handling A) Keep out of reach of children B) Store away from direct sunlight"
+  ],
+  "dosage_and_administration": [
+    "topical use only"
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "1"
+  ],
+  "set_id": "05ee1e29-0daa-9cbd-e063-6394a90a0749",
+  "id": "05ee1e3d-09ae-42b6-e063-6294a90a1e7f",
+  "effective_time": "20230922",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Reoganic Body Firming StretchCream"
+    ],
+    "generic_name": [
+      "NIACINAMIDE, ADENOSINE"
+    ],
+    "manufacturer_name": [
+      "LAON COMMERCE co ltd"
+    ],
+    "product_ndc": [
+      "82083-0026"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ADENOSINE",
+      "NIACINAMIDE"
+    ],
+    "spl_id": [
+      "05ee1e3d-09ae-42b6-e063-6294a90a1e7f"
+    ],
+    "spl_set_id": [
+      "05ee1e29-0daa-9cbd-e063-6394a90a0749"
+    ],
+    "package_ndc": [
+      "82083-0026-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000178375",
+      "N0000175788"
+    ],
+    "pharm_class_epc": [
+      "Adenosine Receptor Agonist [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Adenosine Receptor Agonists [MoA]"
+    ],
+    "unii": [
+      "K72T3FS567",
+      "25X51I8RD4"
+    ]
+  }
+}

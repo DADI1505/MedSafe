@@ -1,0 +1,79 @@
+{
+  "spl_product_data_elements": [
+    "Sheer Protection SPF 30 Zinc Oxide SIMMONDSIA CHINENSIS SEED WAX LONICERA JAPONICA FLOWER ETHYL MACADAMIATE PORPHYRA UMBILICALIS PHELLODENDRON AMURENSE BARK GLYCERYL ISOSTEARATE .ALPHA.-TOCOPHEROL ACETATE, D- LECITHIN, SOYBEAN SODIUM HYDROXIDE HYDROGENATED PALM GLYCERIDES ALCOHOL DOCOSANOL HYPROMELLOSES SODIUM LACTATE CITRIC ACID MONOHYDRATE ZINC OXIDE ZINC OXIDE LEVOMENOL SANDALWOOD LONICERA CAPRIFOLIUM FLOWER POTASSIUM CETYL PHOSPHATE CETOSTEARYL ALCOHOL WATER GLYCERIN SODIUM STEAROYL LACTYLATE POLYHYDROXYSTEARIC ACID (2300 MW) BARLEY ISODECYL NEOPENTANOATE HYDROXYPROPYL CORN STARCH (5% SUBSTITUTION BY WEIGHT) MACADAMIA OIL FYTIC ACID ERGOTHIONEINE GLYCERYL MONOSTEARATE HAMAMELIS VIRGINIANA TOP WATER MEDIUM-CHAIN TRIGLYCERIDES RICE BRAN CANDELILLA WAX POLYGLYCERIN-3 POLYGLYCERYL-10 PENTASTEARATE KUKUI NUT OIL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient(s): Zinc Oxide (13.5%)"
+  ],
+  "purpose": [
+    "Purpose: Sunscreen"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If the product is swallowed, get medical help or contact a Posion Control center right away."
+  ],
+  "indications_and_usage": [
+    "Uses: Helps prevent sunburn If used as directed with other protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "warnings": [
+    "Warnings: For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If the product is swallowed, get medical help or contact a Posion Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions: Apply liberally 15 min before sun exposure. Use a water resistant sunscreen if swimming or sweating. Reapply at least every 2 hours Children under 6 months: Ask a doctor. Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10am - 2pm. Wear long sleeve shirts, pants, hats, and sunglasses."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Candelilla/Jojoba/Rice Bran Polyglyceryl-3 Esters, Isodecyl Neopentanoate, Ethyl Macadamiate, Aleurites Moluccanus Seed Oil, Hydroxypropyl Starch Phosphate, Glyceryl Stearate, Hamamelis Virginiana (Witch Hazel) Water, Glyceryl Isostearate, Cetearyl Alcohol, Porphyra Umbilicalis (Red Algae) Extract, Macadamia Ternifolia Seed Oil, Bisabolol (L-alpha), Phellodendron Amurense Bark Extract, Tocopheryl Acetate (D-alpha), Lonicera Caprifolium (Honeysuckle) Flower Extract, Lonicera Japonica (Honeysuckle) Flower Extract, Ergothioneine (L), Hordeum Distichon (Barley) Extract, Santalum Album (Sandalwood) Extract, Sodium Stearoyl Lactylate, Alcohol, Polyglyceryl-10 Pentastearate, Behenyl Alcohol, Hydroxypropyl Methylcellulose, Polyhydroxystearic Acid, Potassium Cetyl Phosphate, Lecithin, Phytic Acid, Hydrogenated Palm Glycerides, Sodium Lactate, Sodium Hydroxide, Citric Acid"
+  ],
+  "other_safety_information": [
+    "Other Information: Protect the product from excessive heat and direct sun."
+  ],
+  "package_label_principal_display_panel": [
+    "Sheer Protection SPF 2oz"
+  ],
+  "set_id": "0450dcc9-3f8f-e2c2-e063-6294a90af60b",
+  "id": "471e4ae2-62c6-2ec3-e063-6394a90ac882",
+  "effective_time": "20251229",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Sheer Protection SPF 30"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Skin Script, LLC"
+    ],
+    "product_ndc": [
+      "83657-610"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "471e4ae2-62c6-2ec3-e063-6394a90ac882"
+    ],
+    "spl_set_id": [
+      "0450dcc9-3f8f-e2c2-e063-6294a90af60b"
+    ],
+    "package_ndc": [
+      "83657-610-03",
+      "83657-610-08",
+      "83657-610-63"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

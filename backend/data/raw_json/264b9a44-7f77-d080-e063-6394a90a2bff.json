@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Degree Advanced Stress Control Dry Spray 72H Antiperspirant Deodorant BENZYL SALICYLATE BENZYL ALCOHOL CITRAL SILICON DIOXIDE ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE MALTODEXTRIN PROPYLENE CARBONATE GLYCINE LIMONENE, (+)- ISOBUTANE .BETA.-CITRONELLOL, (R)- BUTANE 1,1-DIFLUOROETHANE CYCLOMETHICONE 5 PPG-14 BUTYL ETHER DISTEARDIMONIUM HECTORITE CALCIUM CHLORIDE PROPANE BUTYLATED HYDROXYTOLUENE ISOMETHYL-.ALPHA.-IONONE .ALPHA.-HEXYLCINNAMALDEHYDE GERANIOL"
+  ],
+  "description": [
+    "DEGREE ADVANCED STRESS CONTROL DRY SPRAY 72H ANTIPERSPIRANT DEODORANT - aluminum sesquichlorohydrate aerosol, spray"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient Aluminum Sesquichlorohydrate (17.6%)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses reduces underarm wetness"
+  ],
+  "dosage_and_administration": [
+    "Directions For underarms use only"
+  ],
+  "warnings": [
+    "Warnings"
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Butane, Hydrofluorocarbon 152a, Cyclopentasiloxane, Isobutane, PPG-14 Butyl Ether, Fragrance (Parfum), Glycine, Disteardimonium Hectorite, Calcium Chloride, Propane, Sodium Starch Octenylsuccinate, BHT, Propylene Carbonate, Maltodextrin, Hydrolyzed Corn Starch Octenylsuccinate, Silica, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Salicylate, Citral, Citronellol, Geraniol, Hexyl Cinnamal, Limonene"
+  ],
+  "questions": [
+    "Questions? Call toll-free 1-866-334-7331"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Degree Stress Control Dry Spray AP Deo"
+  ],
+  "set_id": "05f24576-ca8f-fb7d-e063-6294a90a946b",
+  "id": "264b9a44-7f77-d080-e063-6394a90a2bff",
+  "effective_time": "20241106",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Degree"
+    ],
+    "generic_name": [
+      "ADVANCED STRESS CONTROL DRY SPRAY 72H ANTIPERSPIRANT DEODORANT"
+    ],
+    "manufacturer_name": [
+      "Conopco, Inc. d/b/a Unilever"
+    ],
+    "product_ndc": [
+      "64942-2222"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM SESQUICHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "264b9a44-7f77-d080-e063-6394a90a2bff"
+    ],
+    "spl_set_id": [
+      "05f24576-ca8f-fb7d-e063-6294a90a946b"
+    ],
+    "package_ndc": [
+      "64942-2222-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "UCN889409V"
+    ]
+  }
+}

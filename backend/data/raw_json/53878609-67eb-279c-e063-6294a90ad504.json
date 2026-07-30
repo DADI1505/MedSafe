@@ -1,0 +1,94 @@
+{
+  "spl_product_data_elements": [
+    "GeriGentle Alcohol Pads ISOPROPYL ALCOHOL WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information Store at room temperature 15-30 (59-86°F)"
+  ],
+  "active_ingredient": [
+    "Active ingredient Isopropyl Alcohol, 70% v/v Purpose Antiseptic"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Use For preparation of skin prior to injection"
+  ],
+  "warnings": [
+    "Warnings For external use only. Flammable, keep away from fire or flame. Do not use with electrocautery procedures in the eyes on mucous membranes on irritated skin. Stop use and ask a doctor if irritation or redness develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control center right away."
+  ],
+  "do_not_use": [
+    "Do not use with electrocautery procedures in the eyes on mucous membranes on irritated skin."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if irritation or redness develops."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Wipe injection site vigorously and discard."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Purified water"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling:69771-013-01 Label",
+    "Package Labeling:69771-015-10 Outer Packge0 Inner Packge0",
+    "Package Labeling:69771-015-05 Outer Packge02 Inner Packge02"
+  ],
+  "set_id": "05cda9fa-e503-6e37-e063-6394a90a2711",
+  "id": "53878609-67eb-279c-e063-6294a90ad504",
+  "effective_time": "20260605",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "GeriGentle Alcohol Pads"
+    ],
+    "generic_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Geri-Gentle Corporation"
+    ],
+    "product_ndc": [
+      "69771-015"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "rxcui": [
+      "797544"
+    ],
+    "spl_id": [
+      "53878609-67eb-279c-e063-6294a90ad504"
+    ],
+    "spl_set_id": [
+      "05cda9fa-e503-6e37-e063-6394a90a2711"
+    ],
+    "package_ndc": [
+      "69771-015-01",
+      "69771-015-10",
+      "69771-015-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0648289901184"
+    ],
+    "unii": [
+      "ND2M416302"
+    ]
+  }
+}

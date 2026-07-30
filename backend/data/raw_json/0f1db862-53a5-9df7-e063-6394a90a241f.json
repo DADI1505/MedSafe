@@ -1,0 +1,108 @@
+{
+  "spl_product_data_elements": [
+    "Blue Scorpion Pain and Inflammation Relief HETEROCTENUS PRINCEPS VENOM, APIS MELLIFICA, RHUS TOXICODENDRON CITRIC ACID MONOHYDRATE APIS MELLIFERA APIS MELLIFERA WATER TOXICODENDRON PUBESCENS LEAF TOXICODENDRON PUBESCENS LEAF RHOPALURUS PRINCEPS VENOM RHOPALURUS PRINCEPS VENOM"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: Apis Mellifica 6X Heteroctenus Princeps Venom 3X Rhus Tox 6X"
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Directions Adults and children 12 years and over: Administer 2 ml under tongue twice per day. Children under 12: Consult a physician."
+  ],
+  "dosage_and_administration_table": [
+    "<table border=\"0\" width=\"100%\"><tbody><tr><td>Adults and children 12 years and over:</td><td>Administer 2 ml under tongue twice per day.</td></tr><tr><td/><td/></tr><tr><td>Children under 12:</td><td>Consult a physician.</td></tr></tbody></table>"
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Citric Acid, Distilled water"
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or call a Poison Control Center right away."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: Uses For the temporary relief of pain and inflammation"
+  ],
+  "purpose": [
+    "PURPOSE: Hereroctenus princeps venom 3x.....Pain, inflammation Apis Mellifica 6X ..............................Pain, inflammation Rhus Tox 6X.....................................Pain, inflammation"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast feeding... If pregnant or breast feeding, ask a health professional before use."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor Stop use and ask a doctor if symptoms persist for more than 3 days or worsen."
+  ],
+  "spl_unclassified_section": [
+    "OTHER INFORMATION: Refrigerate after opening Do not freeze"
+  ],
+  "warnings": [
+    "Warning Stop use and ask doctor if symptoms persist for more than 3 days or worsen."
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: Principal display panel Label Label 1 oz"
+  ],
+  "set_id": "03ef74f2-46d3-345c-e063-6394a90a4cbf",
+  "id": "0f1db862-53a5-9df7-e063-6394a90a241f",
+  "effective_time": "20240116",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "Blue Scorpion Pain and Inflammation Relief"
+    ],
+    "generic_name": [
+      "HETEROCTENUS PRINCEPS VENOM, APIS MELLIFICA, RHUS TOXICODENDRON"
+    ],
+    "manufacturer_name": [
+      "Blue Scorpion Inc."
+    ],
+    "product_ndc": [
+      "83627-901"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "APIS MELLIFERA",
+      "TOXICODENDRON PUBESCENS LEAF",
+      "RHOPALURUS PRINCEPS VENOM"
+    ],
+    "spl_id": [
+      "0f1db862-53a5-9df7-e063-6394a90a241f"
+    ],
+    "spl_set_id": [
+      "03ef74f2-46d3-345c-e063-6394a90a4cbf"
+    ],
+    "package_ndc": [
+      "83627-901-01",
+      "83627-901-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185021",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0002274"
+    ],
+    "pharm_class_epc": [
+      "Standardized Insect Venom Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Bee Venoms [CS]"
+    ],
+    "unii": [
+      "7S82P3R43Z",
+      "6IO182RP7A",
+      "1A0769Q0NA"
+    ]
+  }
+}

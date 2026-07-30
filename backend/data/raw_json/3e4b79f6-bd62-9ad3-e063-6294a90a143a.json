@@ -1,0 +1,113 @@
+{
+  "spl_product_data_elements": [
+    "Medi-first Protective Coating Bandage benzethonium chloride and benzocaine ISOBUTANE ALCOHOL BUTANE PROPANE COPOVIDONE K25-31 BENZETHONIUM CHLORIDE BENZETHONIUM BENZOCAINE BENZOCAINE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredients Benzethonium Chloride 0.2% w/w Benzocaine 3.2% w/w"
+  ],
+  "purpose": [
+    "Purpose Topical antiseptic Topical anesthetic"
+  ],
+  "indications_and_usage": [
+    "Uses First aid to help protect against infection in minor cuts and scrapes burns"
+  ],
+  "warnings": [
+    "Warnings For external use only Flammable keep away from fire or flame contents under pressure do not puncture or incinerate container do not expose to temperatures above 120° F"
+  ],
+  "do_not_use": [
+    "Do not use in or near eyes or other mucus membranes in case of serious burns in case of deep or puncture wounds for a prolonged period of time on a large portion of the body"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens or symptoms persist for more than 7 days condition clears up and recurs within a few days redness, swelling, or irritation occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions clean the affected area shake can well before using hold 4-6 inches from surface and spray area until wet may be covered with sterile bandage. If bandaged, let dry first for adult institutional use only not intended for use on children"
+  ],
+  "other_safety_information": [
+    "Other information avoid inhaling use only as directed intentional misuse by deliberately concentrating and inhaling contents may be harmful or fatal"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Ethyl alcohol, isobutane, n-butane, propane, PVP-VA copolymer"
+  ],
+  "questions": [
+    "Questions or comments? 1-800-634-7680"
+  ],
+  "package_label_principal_display_panel": [
+    "Medi-First Bandage Spray Label Medi-First® Protective Coating Bandage Spray Benzethonium Chloride 0.2% Topical Antiseptic Benzocaine 3.2% Topical Ansthetic Provides a protective coating for minor burns, cuts, skin irritation, and minor insect bites Water soluble Aerosol WARNING:FLAMMABLE Contents Under Pressure, Read Back Panel Carefully Net Weight 3 OZ (85g) MF Bandage"
+  ],
+  "set_id": "05b0aef9-1553-4e95-8798-f41e5999bb46",
+  "id": "3e4b79f6-bd62-9ad3-e063-6294a90a143a",
+  "effective_time": "20250908",
+  "version": "9",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Medi-first Protective Coating Bandage"
+    ],
+    "generic_name": [
+      "BENZETHONIUM CHLORIDE AND BENZOCAINE"
+    ],
+    "manufacturer_name": [
+      "Unifirst First Aid Corporation"
+    ],
+    "product_ndc": [
+      "47682-450"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZETHONIUM CHLORIDE",
+      "BENZOCAINE"
+    ],
+    "rxcui": [
+      "1049110"
+    ],
+    "spl_id": [
+      "3e4b79f6-bd62-9ad3-e063-6294a90a143a"
+    ],
+    "spl_set_id": [
+      "05b0aef9-1553-4e95-8798-f41e5999bb46"
+    ],
+    "package_ndc": [
+      "47682-450-17"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0347682450175"
+    ],
+    "nui": [
+      "N0000185508",
+      "N0000175629",
+      "N0000184306",
+      "M0000728"
+    ],
+    "pharm_class_epc": [
+      "Standardized Chemical Allergen [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]"
+    ],
+    "unii": [
+      "PH41D05744",
+      "U3RSY48JW5"
+    ]
+  }
+}

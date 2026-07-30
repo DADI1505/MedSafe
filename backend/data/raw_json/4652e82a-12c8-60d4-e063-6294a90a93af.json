@@ -1,0 +1,111 @@
+{
+  "spl_product_data_elements": [
+    "DayTime Cold/Flu Relief ACETAMINOPHEN, DEXTROMETHORPHAN HBr, PHENYLEPHRINE HCl FD&C RED NO. 40 FD&C YELLOW NO. 6 GELATIN GLYCERIN POLYETHYLENE GLYCOL, UNSPECIFIED POVIDONE PROPYLENE GLYCOL WATER SORBITOL SORBITAN TITANIUM DIOXIDE ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE 604"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredients (in each Softgel) Acetaminophen ................325 mg Dextromethorphan HBr ......10 mg Phenylephrine HCl .........5 mg"
+  ],
+  "purpose": [
+    "Purpose Acetaminophen ........................Pain reliever/Fever reducer Dextromethorphan HBr .............Cough suppressant Phenylephrine HCl ............... Antihistamine"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves common cold/flu symptoms: ■ nasal congestion ■cough due to to minor throat & bronchial irritation ■ sore throat ■ headache ■ minor aches and pains ■ fever"
+  ],
+  "warnings": [
+    "Warnings Liver warning : This product contains acetaminophen. Severe liver damage may occur if you take ■ more than 4doses in 24 hrs, which is the maximum daily amount for this product ■ with other drugs containing acetaminophen ■ 3 or more alcoholic drinks daily while using this product. Allergy Alert: Acetaminophen may cause severe skin reactions. Symptoms may include ■ skin reddening ■ blisters ■ rash. If skin reaction occurs, stop use and seek medical help right away. Sore throat warning : If sore throat is severe, lasts for more than 2 days, occurs with or is followed by fever, headache, rash, nausea or vomiting, consult a doctor promptly."
+  ],
+  "do_not_use": [
+    "Do not use: ■ with any other products containing Acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist ■ if you are now taking a prescription Monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have ■ liver disease ■ heart disease ■ thyroid disease ■ diabetis ■ high blood pressure ■ trouble urinating due to an enlarged prostate gland ■ cough that occurs with too much phlegm (mucus) ■ persistant or chronic cough as occurs with smoking, asthma or emphysema"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are if you are taking the blood thinning drug warfarin."
+  ],
+  "when_using": [
+    "When using this produc t, do not use more than directed."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if ■ you get nervous, dizzy or sleepless ■ symptoms get worse or\"last more than 5 days (children) or 7 days (adults) ■ fever gets worse or lasts more than 3 days ■ redness or swelling is present ■ new symptoms occur ■ cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding , ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "overdosage": [
+    "In case of accidental overdose , get medical help or contact a Poison Control center right away. Quick medical attention is critical for adults as well as children even if you do not notice any signs or symptoms."
+  ],
+  "dosage_and_administration": [
+    "Directions ■ take only as directed (see Warning) ■ do not exceed 4 doses per 24 hours adults & children 12 yrs & over 2 soft gels with water every 4 hours children 4 to under 12 years: ask a doctor children under 4 years: do not use ■ when using other Daytime or Nighttime products, carefully read each label to ensure correct dosing."
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"400px\" border=\"4\"><caption/><tbody><tr><td>adults &amp; children   12 yrs &amp; over </td><td>2 soft gels with water every 4 hours</td></tr><tr><td>children 4 to under 12 years:</td><td>ask a doctor</td></tr><tr><td>children under 4 years:</td><td>do not use</td></tr></tbody></table>"
+  ],
+  "other_safety_information": [
+    "Other information ■ store at room temperature 20-25º C (68-77º F) ■ avoid excessive heat"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients FD&C Red No. 40, FD&C Yellow No.6, gelatin, Glycerin, Polyethylene glycol, Povidone, propylene glycol, Purified water, Sorbitol sorbitan solution, Titanium dioxide"
+  ],
+  "questions": [
+    "Questions? Call Weekdays from 9:30 AM to 4:30 PM EST at 1-877-798-5944"
+  ],
+  "package_label_principal_display_panel": [
+    "Product Label: exchange select DayTime Cold/Flu Relief exchange select DayTime COLD/FLU RELIEF 24 Softgels Manufactured For Your Military Exchange By AptaPharma Inc., 1533 Union Avenue, Pennsauken, NJ 08110 1-877-798-5944 aptapharma.com res 604-03 Crtn"
+  ],
+  "set_id": "04f9134e-1311-4843-90db-9244b9e61e1d",
+  "id": "4652e82a-12c8-60d4-e063-6294a90a93af",
+  "effective_time": "20251219",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "DayTime Cold/Flu Relief"
+    ],
+    "generic_name": [
+      "ACETAMINOPHEN, DEXTROMETHORPHAN HBR, PHENYLEPHRINE HCL"
+    ],
+    "manufacturer_name": [
+      "ARMY AND AIR FORCE EXCHANGE SERVICE"
+    ],
+    "product_ndc": [
+      "55301-604"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACETAMINOPHEN",
+      "DEXTROMETHORPHAN HYDROBROMIDE",
+      "PHENYLEPHRINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1086997"
+    ],
+    "spl_id": [
+      "4652e82a-12c8-60d4-e063-6294a90a93af"
+    ],
+    "spl_set_id": [
+      "04f9134e-1311-4843-90db-9244b9e61e1d"
+    ],
+    "package_ndc": [
+      "55301-604-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "362O9ITL9D",
+      "9D2RTI9KYH",
+      "04JA59TNSJ"
+    ]
+  }
+}

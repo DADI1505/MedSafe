@@ -1,0 +1,105 @@
+{
+  "spl_product_data_elements": [
+    "Allergy 36ct, Caseys 4good Diphenhydramine HCl 25mg MAGNESIUM STEARATE POLYVINYL ALCOHOL, UNSPECIFIED SILICON DIOXIDE DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE D&C RED NO. 27 ALUMINUM LAKE STEARIC ACID TALC POLYETHYLENE GLYCOL, UNSPECIFIED STARCH, CORN DIBASIC CALCIUM PHOSPHATE DIHYDRATE MICROCRYSTALLINE CELLULOSE TITANIUM DIOXIDE 44;329"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts ​Drug Facts",
+    "Other information Other information each tablet contains: calcium 30 mg store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) protect from moisture see end flap for expiration date and lot number"
+  ],
+  "active_ingredient": [
+    "Active ingredient Active ingredient (in each tablet) Diphenhydramine HCl 25 mg"
+  ],
+  "purpose": [
+    "Purpose Purpose Antihistamine"
+  ],
+  "indications_and_usage": [
+    "Uses Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes itching of the nose or throat sneezing temporarily relieves these symptoms due to the common cold: runny nose sneezing"
+  ],
+  "warnings": [
+    "Warnings Warnings Do not use Do not use to make a child sleepy with any other product containing diphenhydramine, even one used on skin Ask a doctor before Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product When using this product marked drowsiness may occur avoid alcoholic beverages alcohol, sedatives, and tranquilizers may increase drowsiness use caution when driving a motor vehicle or operating machinery excitability may occur, especially in children If pregnant or breast-feeding If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use Do not use to make a child sleepy with any other product containing diphenhydramine, even one used on skin"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlargement of the prostate gland"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers."
+  ],
+  "when_using": [
+    "When using this product When using this product marked drowsiness may occur avoid alcoholic beverages alcohol, sedatives, and tranquilizers may increase drowsiness use caution when driving a motor vehicle or operating machinery excitability may occur, especially in children"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "dosage_and_administration": [
+    "Directions Directions do not take more than directed take every 4 to 6 hours, or as directed by a doctor do not take more than 6 times in 24 hours adults and children 12 years and over 1 to 2 tablets children 6 to under 12 years 1 tablet children under 6 years do not use"
+  ],
+  "dosage_and_administration_table": [
+    "<table border=\"0\" width=\"100%\"><tbody><tr><td>adults and children 12 years and over</td><td>1 to 2 tablets</td></tr><tr><td>children 6 to under 12 years</td><td>1 tablet</td></tr><tr><td>children under 6 years</td><td>do not use</td></tr></tbody></table>"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Inactive ingredients corn starch, D&C red #27 aluminum lake, dibasic calcium phosphate dihydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, silicon dioxide, stearic acid, talc, titanium dioxide"
+  ],
+  "questions": [
+    "Questions or comments? Questions or comments? 1-877-507-6516 (8 AM-4:30 PM CST)"
+  ],
+  "package_label_principal_display_panel": [
+    "Allergy 36ct, Casey's 4good TM Compare to the Active Ingredient in Benadryl ® Allergy ULTRATAB ® Tablets * Allergy Diphenhydramine HCI 25mg Antihistamine Relieves: Itchy, Watery Eyes, Itchy Nose or Throat, Runny Nose, Sneezing [Casey's logo] [tablet image] 36 TABLETS PDP/Package"
+  ],
+  "set_id": "04b78b23-424d-9762-e063-6394a90a52e3",
+  "id": "2969af45-edf5-cd89-e063-6394a90ae4b8",
+  "effective_time": "20241216",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Allergy 36ct, Caseys 4good"
+    ],
+    "generic_name": [
+      "DIPHENHYDRAMINE HCL 25MG"
+    ],
+    "manufacturer_name": [
+      "Lil' Drug Store Products, Inc."
+    ],
+    "product_ndc": [
+      "66715-6314"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIPHENHYDRAMINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1049630"
+    ],
+    "spl_id": [
+      "2969af45-edf5-cd89-e063-6394a90ae4b8"
+    ],
+    "spl_set_id": [
+      "04b78b23-424d-9762-e063-6394a90a52e3"
+    ],
+    "package_ndc": [
+      "66715-6314-8"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "TC2D6JAD40"
+    ]
+  }
+}

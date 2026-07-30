@@ -1,0 +1,75 @@
+{
+  "spl_product_data_elements": [
+    "SOL Science The Fifty Zinc Oxide LECITHIN, SOYBEAN POLYGLYCERYL-2 DIPOLYHYDROXYSTEARATE PHENYLPROPANOL HYDROLYZED JOJOBA ESTERS (ACID FORM) METHYLPROPANEDIOL CAPRYLYL GLYCOL XANTHAN GUM ISOAMYL LAURATE HEXYLENE GLYCOL TOCOPHEROL CETYL ALCOHOL ETHYLHEXYLGLYCERIN GLYCERIN SILICON DIOXIDE WATER .ALPHA.-BISABOLOL, (+)- BUTYLOCTYL SALICYLATE CETETH-20 PULLULAN SQUALANE STEARETH-20 ZINC OXIDE ZINC OXIDE CYCLODEXTRINS"
+  ],
+  "dosage_and_administration": [
+    "SOL Science The Fifty Dosage and Administration"
+  ],
+  "inactive_ingredient": [
+    "SOL Science The Fifty Inactive ingredients"
+  ],
+  "indications_and_usage": [
+    "SOL Science The Fifty Indications & usage"
+  ],
+  "active_ingredient": [
+    "SOL Science The Fifty Active Ingredients"
+  ],
+  "keep_out_of_reach_of_children": [
+    "SOL Science The Fifty keep out of reach of children"
+  ],
+  "purpose": [
+    "SOL Science The Fifty purpose"
+  ],
+  "warnings": [
+    "SOL Science The Fifty Warning Label"
+  ],
+  "package_label_principal_display_panel": [
+    "SOL Science The Fifty PDP"
+  ],
+  "set_id": "01548858-8b0e-494a-e063-6294a90a8e99",
+  "id": "437d3d3f-bb8f-cfee-e063-6394a90abd55",
+  "effective_time": "20251113",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "SOL Science The Fifty"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Beauty Pie"
+    ],
+    "product_ndc": [
+      "83282-139"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "437d3d3f-bb8f-cfee-e063-6394a90abd55"
+    ],
+    "spl_set_id": [
+      "01548858-8b0e-494a-e063-6294a90a8e99"
+    ],
+    "package_ndc": [
+      "83282-139-01",
+      "83282-139-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

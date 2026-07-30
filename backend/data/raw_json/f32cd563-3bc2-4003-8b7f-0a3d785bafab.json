@@ -1,0 +1,106 @@
+{
+  "spl_product_data_elements": [
+    "MBM 5 Large Intestine Colon (Suis), Hydrastis Canadensis, Senna (Cassia Angustifolia), Cuprum Metallicum, Nitricum Acidum, Agaricus Muscarius, Arnica Montana, Baptisia Tinctoria SUS SCROFA COLON SUS SCROFA COLON GOLDENSEAL GOLDENSEAL SENNA LEAF SENNA LEAF COPPER COPPER NITRIC ACID NITRIC ACID AMANITA MUSCARIA FRUITING BODY AMANITA MUSCARIA FRUITING BODY ARNICA MONTANA WHOLE ARNICA MONTANA BAPTISIA TINCTORIA WHOLE BAPTISIA TINCTORIA WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: Colon (Suis) 3C, Hydrastis Canadensis 3C, Senna (Cassia Angustifolia) 3C, Cuprum Metallicum 89C, 144C, Nitricum Acidum 89C, 233C, Agaricus Muscarius 144C, Arnica Montana 144C, Baptisia Tinctoria 144C."
+  ],
+  "purpose": [
+    "INDICATIONS: For the temporary relief of feelings of being stuck."
+  ],
+  "warnings": [
+    "WARNINGS: If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if seal is broken or missing."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Feel the emotion fully, breathe deeply-connected breaths. Put 5 drops under tongue to release emotion. Continue 5 drops 2 times daily as needed. Consult a physician for use in children under 12 years of age."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: For the temporary relief of feelings of being stuck."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Demineralized Water, 25% Organic Ethanol"
+  ],
+  "questions": [
+    "QUESTIONS: MFD FOR: The Wellness Center for Research and Education, Inc. 1237 S. Victoria Ave., Suite 169 Oxnard, CA 93035"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: Dr. Theresa Dale's MIND BODY MERIDIAN NDC: 50181-0083-1 Fibonacci Series 5 Large Intestine Stuck HOMEOPATHIC 1 fluid oz. (30 ml) MBM 5 Large Intestine"
+  ],
+  "set_id": "0804f33c-28d8-4d5d-8002-36e1daa6cca3",
+  "id": "f32cd563-3bc2-4003-8b7f-0a3d785bafab",
+  "effective_time": "20250606",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "MBM 5 Large Intestine"
+    ],
+    "generic_name": [
+      "COLON (SUIS), HYDRASTIS CANADENSIS, SENNA (CASSIA ANGUSTIFOLIA), CUPRUM METALLICUM, NITRICUM ACIDUM, AGARICUS MUSCARIUS, ARNICA MONTANA, BAPTISIA TINCTORIA"
+    ],
+    "manufacturer_name": [
+      "The Wellness Center"
+    ],
+    "product_ndc": [
+      "50181-0083"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SUS SCROFA COLON",
+      "GOLDENSEAL",
+      "SENNA LEAF",
+      "COPPER",
+      "NITRIC ACID",
+      "AMANITA MUSCARIA FRUITING BODY",
+      "ARNICA MONTANA WHOLE",
+      "BAPTISIA TINCTORIA WHOLE"
+    ],
+    "spl_id": [
+      "f32cd563-3bc2-4003-8b7f-0a3d785bafab"
+    ],
+    "spl_set_id": [
+      "0804f33c-28d8-4d5d-8002-36e1daa6cca3"
+    ],
+    "package_ndc": [
+      "50181-0083-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "M0005152",
+      "N0000175831",
+      "N0000008595",
+      "N0000008924",
+      "N0000175830"
+    ],
+    "pharm_class_cs": [
+      "Copper [CS]"
+    ],
+    "pharm_class_epc": [
+      "Copper-containing Intrauterine Device [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Decreased Embryonic Implantation [PE]",
+      "Decreased Sperm Motility [PE]",
+      "Inhibit Ovum Fertilization [PE]"
+    ],
+    "unii": [
+      "94J255A0UC",
+      "ZW3Z11D0JV",
+      "AK7JF626KX",
+      "789U1901C5",
+      "411VRN1TV4",
+      "DIF093I037",
+      "O80TY208ZW",
+      "5K1UO2888Y"
+    ]
+  }
+}

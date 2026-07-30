@@ -1,0 +1,84 @@
+{
+  "spl_product_data_elements": [
+    "Saint Cough Spray GINSENOSIDES EPIGALLOCATECHIN GALLATE ACETYLCYSTEINE NATTOKINASE MENTHOL MENTHOL WATER"
+  ],
+  "active_ingredient": [
+    "Active ingredient Menthol 3.2%"
+  ],
+  "purpose": [
+    "Purpose Cough Suppressant"
+  ],
+  "indications_and_usage": [
+    "Use To relieve cough, eliminate phlegm, anti-inflammatory, and relieve headache, sore throat, red eyes, throat and lung discomfort symptoms Suitable for cough caused by the following diseases: Cold, trachea and bronchitis, pulmonary fibrosis, pulmonary sarcoidosis",
+    "Usage This product has been diluted and accurately dosed in accordance with FDA medication recommendations, 5 ml per vial, and it can be used by inhalation in an atomizer, each vial can be used once, 2-3 times a day. Choose an atomizer and use it according to the manufacturer's instructions. It is recommended to use mesh-sieve atomizer, medical-grade products should be selected, and that is product with medical device approval numbers."
+  ],
+  "warnings": [
+    "Warnings For external use only For nebulization inhalation only, do not take orally. Please keep this product out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Please keep this product out of the reach of children."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Please keep this product out of the reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions see important warnings under \"When using this product\" adults & children 2 years & over: use 1 tablespoon of solution for each quart of water or 1½ teaspoonful of solution for each pint of water add solution directly to cold water only in a hot steam vaporizer (follow manufacturer's directions for using vaporizer) breathe in the medicated vapors use up to three times daily or as directed by a doctor children under 2 years: ask a doctor"
+  ],
+  "when_using": [
+    "When using this product Use as instructed. The persons with a history of allergies should try and observe."
+  ],
+  "ask_doctor": [
+    "Counsult a doctor when using: COPD, or a persistent chronic cough Asthma and emphsema patients Long-term smoking and coughing or cancer patients Patients with severe pulmonary heart disease Pregnant women, lactating women and children under the age of 12."
+  ],
+  "other_safety_information": [
+    "Other information: The product should be stored strictly away from light and should be kept at low temperature. The total amount is 15.22 ounces (150 ml), including 90 vials, 0.1691 ounces (5ml) per vial."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredient EGCG, Ginsenosides, N-Acetyl Cysteine, Nattokinase, Medical Purified Water"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL 72784-101-01 PDP"
+  ],
+  "set_id": "00f8f724-87bc-e3f5-e063-6394a90a2eed",
+  "id": "2bb95e5d-e06b-c456-e063-6394a90ac3f5",
+  "effective_time": "20250115",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Saint"
+    ],
+    "generic_name": [
+      "COUGH SPRAY"
+    ],
+    "manufacturer_name": [
+      "Saint Medicine, Inc."
+    ],
+    "product_ndc": [
+      "72784-101"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "RESPIRATORY (INHALATION)"
+    ],
+    "substance_name": [
+      "MENTHOL"
+    ],
+    "spl_id": [
+      "2bb95e5d-e06b-c456-e063-6394a90ac3f5"
+    ],
+    "spl_set_id": [
+      "00f8f724-87bc-e3f5-e063-6394a90a2eed"
+    ],
+    "package_ndc": [
+      "72784-101-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

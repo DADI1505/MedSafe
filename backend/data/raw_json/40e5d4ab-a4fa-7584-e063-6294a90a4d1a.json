@@ -1,0 +1,103 @@
+{
+  "spl_product_data_elements": [
+    "SYMBIO MUC EYE DROPS Mucor racemosus WATER SODIUM CHLORIDE BENZALKONIUM CHLORIDE MUCOR RACEMOSUS MUCOR RACEMOSUS"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: Mucor racemosus 5X"
+  ],
+  "warnings": [
+    "WARNINGS: Do not use if the tamper evident strip is broken or removed from the base of the cap. • Contact lens wearers consult physician prior to using. • To avoid contamination – do not touch tip to any surface. • Replace cap after every use. • Use within 30 days of opening. • EXPIRATION DATE ONLY REFERS TO THE UNOPENED BOTTLE. • The use of this container by more than one person may spread infection."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Put 1 – 2 drops in affected eye(s), twice daily."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Purified water USP, sodium chloride"
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or call a Poison Control Center right away."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: This remedy is indicated for red and irritated eyes, dry eyes, and allergy eyes with burning and itching according to traditional homeopathic practice.*"
+  ],
+  "questions": [
+    "QUESTIONS: Call toll-free from US & CA +1-844-880-4881 or visit our website www.biological-health.com"
+  ],
+  "purpose": [
+    "PURPOSE: Irritated eyes.*"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast feeding... If pregnant or breast feeding, ask a health professional before use."
+  ],
+  "ask_doctor": [
+    "ASK DOCTOR: Consult a physician if symptoms worsen or last for more than 7 days."
+  ],
+  "spl_unclassified_section": [
+    "OTHER INFORMATION: Protect from light and heat. For professional distribution only. *These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration."
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: Muc Eye"
+  ],
+  "set_id": "078747dd-ce4c-6714-e063-6394a90aedf8",
+  "id": "40e5d4ab-a4fa-7584-e063-6294a90a4d1a",
+  "effective_time": "20251011",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "SYMBIO MUC EYE DROPS"
+    ],
+    "generic_name": [
+      "MUCOR RACEMOSUS"
+    ],
+    "manufacturer_name": [
+      "Symbiopathic"
+    ],
+    "product_ndc": [
+      "69710-125"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "MUCOR RACEMOSUS"
+    ],
+    "spl_id": [
+      "40e5d4ab-a4fa-7584-e063-6294a90a4d1a"
+    ],
+    "spl_set_id": [
+      "078747dd-ce4c-6714-e063-6394a90aedf8"
+    ],
+    "package_ndc": [
+      "69710-125-61"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185372",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0008890",
+      "M0000728"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Fungal Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Fungal Proteins [CS]",
+      "Allergens [CS]"
+    ],
+    "unii": [
+      "17RH99LQ7G"
+    ]
+  }
+}

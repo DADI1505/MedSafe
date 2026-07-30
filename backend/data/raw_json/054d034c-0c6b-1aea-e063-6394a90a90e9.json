@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Gallium Phosphoricum Gallium Phosphoricum GALLIUM PHOSPHIDE GALLIUM CATION SUCROSE Gallium Phosphoricum Gallium Phosphoricum GALLIUM PHOSPHIDE GALLIUM CATION SUCROSE Gallium Phosphoricum Gallium Phosphoricum GALLIUM PHOSPHIDE GALLIUM CATION SUCROSE Gallium Phosphoricum Gallium Phosphoricum GALLIUM PHOSPHIDE GALLIUM CATION SUCROSE Gallium Phosphoricum Gallium Phosphoricum GALLIUM PHOSPHIDE GALLIUM CATION SUCROSE Gallium Phosphoricum Gallium Phosphoricum GALLIUM PHOSPHIDE GALLIUM CATION SUCROSE Gallium Phosphoricum Gallium Phosphoricum GALLIUM PHOSPHIDE GALLIUM CATION SUCROSE Gallium Phosphoricum Gallium Phosphoricum GALLIUM PHOSPHIDE GALLIUM CATION SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Gallium Phosphoricum 6C 5g Gallium Phosphoricum 6C 30g Gallium Phosphoricum 6C 100g Gallium Phosphoricum 12C 5g Gallium Phosphoricum 12C 30g Gallium Phosphoricum 12C 100g Gallium Phosphoricum 30C 1g Gallium Phosphoricum 30C 5g Gallium Phosphoricum 30C 30g Gallium Phosphoricum 30C 100g Gallium Phosphoricum 100C 1g Gallium Phosphoricum 100C 5g Gallium Phosphoricum 100C 30g Gallium Phosphoricum 100C 100g Gallium Phosphoricum 200C 1g Gallium Phosphoricum 200C 5g Gallium Phosphoricum 200C 30g Gallium Phosphoricum 200C 100g Gallium Phosphoricum 500C 1g Gallium Phosphoricum 500C 5g Gallium Phosphoricum 500C 30g Gallium Phosphoricum 500C 100g Gallium Phosphoricum 1M 1g Gallium Phosphoricum 1M 5g Gallium Phosphoricum 1M 30g Gallium Phosphoricum 1M 100g Gallium Phosphoricum LM1 30g Gallium Phosphoricum 30C 5g"
+  ],
+  "set_id": "054d034c-0c6a-1aea-e063-6394a90a90e9",
+  "id": "054d034c-0c6b-1aea-e063-6394a90a90e9",
+  "effective_time": "20230914",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Gallium Phosphoricum"
+    ],
+    "generic_name": [
+      "GALLIUM PHOSPHORICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3912",
+      "37662-3918",
+      "37662-3919",
+      "37662-3917",
+      "37662-3913",
+      "37662-3915",
+      "37662-3916",
+      "37662-3914"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "GALLIUM PHOSPHIDE"
+    ],
+    "spl_id": [
+      "054d034c-0c6b-1aea-e063-6394a90a90e9"
+    ],
+    "spl_set_id": [
+      "054d034c-0c6a-1aea-e063-6394a90a90e9"
+    ],
+    "package_ndc": [
+      "37662-3918-1",
+      "37662-3918-2",
+      "37662-3918-3",
+      "37662-3918-4",
+      "37662-3919-1",
+      "37662-3912-1",
+      "37662-3912-2",
+      "37662-3912-3",
+      "37662-3917-1",
+      "37662-3917-2",
+      "37662-3917-3",
+      "37662-3917-4",
+      "37662-3913-1",
+      "37662-3913-2",
+      "37662-3913-3",
+      "37662-3915-1",
+      "37662-3915-2",
+      "37662-3915-3",
+      "37662-3915-4",
+      "37662-3916-1",
+      "37662-3916-2",
+      "37662-3916-3",
+      "37662-3916-4",
+      "37662-3914-1",
+      "37662-3914-2",
+      "37662-3914-3",
+      "37662-3914-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3J421F73DV"
+    ]
+  }
+}

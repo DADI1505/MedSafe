@@ -1,0 +1,79 @@
+{
+  "spl_product_data_elements": [
+    "Clear System Clarifying Gel Cleanser Salicylic Acid SALICYLIC ACID SALICYLIC ACID WATER COCAMIDOPROPYL BETAINE SODIUM C14-16 OLEFIN SULFONATE PEG-150 DISTEARATE ISOPENTYLDIOL COCO-GLUCOSIDE PHENOXYETHANOL SODIUM BENZOATE"
+  ],
+  "active_ingredient": [
+    "DRUG FACTS Active Ingredients : Salicylic Acid 2%"
+  ],
+  "purpose": [
+    "Purpose Acne Treatment"
+  ],
+  "indications_and_usage": [
+    "Uses • For the treatment of acne"
+  ],
+  "warnings": [
+    "Warnings: • For external use only. When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time."
+  ],
+  "keep_out_of_reach_of_children": [
+    "• Keep out of the reach of children. If swallowed get medical help or contact a Poison Control center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions: • Lather in hands with water and wash face for 30 seconds • Rinse clean • Keep out of eyes"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients: Water, Cocamidopropyl Betaine, Sodium C14-16 Olefin Sulfonate, PEG-150 Distearate, Isopentyldiol, Coco-Glucoside, Phenoxyethanol, Sodium Benzoate"
+  ],
+  "package_label_principal_display_panel": [
+    "Geologie Clear System Clarifying Gel Cleanser Labeling CLEAR SYSTEM Clarifying Gel Cleanser Geologie 20 mL .68 fl oz 40 mL 1.35 fl oz 60 mL 2 fl ozz Geologie.com Made in USA of Imported Materials Distributed by Geologie New York, NY 10025 20 mL Tube 40 mL Tube 60 mL Tube res 189-20 20mL 189-40 40mL 189-60 60mL"
+  ],
+  "set_id": "08248e40-aa71-4dfb-8a75-af8886ccb976",
+  "id": "5b594792-4e9d-4f6c-8307-1909759ac797",
+  "effective_time": "20241204",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "Clear System Clarifying Gel Cleanser"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID"
+    ],
+    "manufacturer_name": [
+      "Bentley Laboratories, LLC"
+    ],
+    "product_ndc": [
+      "54111-189"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "562600"
+    ],
+    "spl_id": [
+      "5b594792-4e9d-4f6c-8307-1909759ac797"
+    ],
+    "spl_set_id": [
+      "08248e40-aa71-4dfb-8a75-af8886ccb976"
+    ],
+    "package_ndc": [
+      "54111-189-20",
+      "54111-189-40",
+      "54111-189-60"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

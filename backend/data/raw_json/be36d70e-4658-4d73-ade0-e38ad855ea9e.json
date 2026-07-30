@@ -1,0 +1,116 @@
+{
+  "spl_product_data_elements": [
+    "LivCalm ALOE FEROX LEAF, ACTIVATED CHARCOAL, GOLDENSEAL, STRYCHNOS NUX-VOMICA SEED, OKOUBAKA AUBREVILLEI BARK, and BERBERIS VULGARIS ROOT BARK ALOE FEROX LEAF ALOE FEROX LEAF ACTIVATED CHARCOAL ACTIVATED CHARCOAL GOLDENSEAL GOLDENSEAL STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED OKOUBAKA AUBREVILLEI BARK OKOUBAKA AUBREVILLEI BARK BERBERIS VULGARIS ROOT BARK BERBERIS VULGARIS ROOT BARK Water Alcohol"
+  ],
+  "active_ingredient": [
+    "Ingredients: Aloe 6X Carbo veg. 6X Hydrastis 6X Nux vomica 6X Okoubaca 6X Berberis vulgaris 12X Selected ingredients prepared by spagyric processes."
+  ],
+  "active_ingredient_table": [
+    "<table width=\"50%\" styleCode=\"Noautorules\"><col width=\"50%\" align=\"left\" valign=\"top\"/><col width=\"50%\" align=\"right\" valign=\"top\"/><thead><tr><th colspan=\"2\">Ingredients:</th></tr></thead><tbody><tr><td>Aloe</td><td>6X</td></tr><tr><td>Carbo veg.</td><td>6X</td></tr><tr><td>Hydrastis</td><td>6X</td></tr><tr><td>Nux vomica</td><td>6X</td></tr><tr><td>Okoubaca</td><td>6X</td></tr><tr><td>Berberis vulgaris</td><td>12X</td></tr></tbody></table>"
+  ],
+  "inactive_ingredient": [
+    "Contains 17% alcohol by volume."
+  ],
+  "indications_and_usage": [
+    "Indications For relief of symptoms related to minor gastritis, indigestion, cramps, and food sensitivities."
+  ],
+  "purpose": [
+    "For relief of symptoms related to minor gastritis, indigestion, cramps, and food sensitivities."
+  ],
+  "dosage_and_administration": [
+    "Dosage Unless otherwise prescribed, adults take 15-20 drops, 3 times per day in water or herbal tea. For pediatric dosages, consult your practitioner."
+  ],
+  "warnings": [
+    "Warning If symptoms persist, contact a licensed practitioner. If you have known sensitivity to any of the ingredients, please consult your licensed practitioner before use. If you are pregnant or nursing a baby, seek the advice of a health care professional before use. Keep out of the reach of children."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children."
+  ],
+  "storage_and_handling": [
+    "Protect from light and heat."
+  ],
+  "spl_unclassified_section": [
+    "Tamper Evident Do not use this product if tamper evident strip is broken or removed from base of cap.",
+    "Distributed by: BioResource Inc. Cotati, CA 94931 Made in Germany Manufactured by: PEKANA ® GmbH D-88353 Kisslegg"
+  ],
+  "questions": [
+    "To report adverse events, contact BioResource at 321B Blodgett Street, Cotati, CA 94931"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 100 ml Bottle Box LivCalm Oral Drops Homeopathic Medicine For relief of symptoms related to minor gastritis, indigestion, cramps, and food sensitivities 3.34 FL OZ (100 ml) PEKANA ® PRINCIPAL DISPLAY PANEL - 100 ml Bottle Box"
+  ],
+  "set_id": "0402a941-7eb6-4e60-8e5c-fb3bc65bc88a",
+  "id": "be36d70e-4658-4d73-ade0-e38ad855ea9e",
+  "effective_time": "20221227",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "LivCalm"
+    ],
+    "generic_name": [
+      "ALOE FEROX LEAF, ACTIVATED CHARCOAL, GOLDENSEAL, STRYCHNOS NUX-VOMICA SEED, OKOUBAKA AUBREVILLEI BARK, AND BERBERIS VULGARIS ROOT BARK"
+    ],
+    "manufacturer_name": [
+      "PEKANA Natuheilmittel GmbH"
+    ],
+    "product_ndc": [
+      "59469-328"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ALOE FEROX LEAF",
+      "ACTIVATED CHARCOAL",
+      "GOLDENSEAL",
+      "STRYCHNOS NUX-VOMICA SEED",
+      "OKOUBAKA AUBREVILLEI BARK",
+      "BERBERIS VULGARIS ROOT BARK"
+    ],
+    "spl_id": [
+      "be36d70e-4658-4d73-ade0-e38ad855ea9e"
+    ],
+    "spl_set_id": [
+      "0402a941-7eb6-4e60-8e5c-fb3bc65bc88a"
+    ],
+    "package_ndc": [
+      "59469-328-40"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0016962",
+      "M0516536"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Plant Proteins [CS]",
+      "Seed Storage Proteins [CS]"
+    ],
+    "unii": [
+      "0D145J8EME",
+      "2P3VWU3H10",
+      "ZW3Z11D0JV",
+      "269XH13919",
+      "MK2074187Z",
+      "1TH8Q20J0U"
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "spl_product_data_elements": [
+    "Vicks VapoCOOL SEVERE Menthol WATER CORN SYRUP SUCROSE BETA CAROTENE MENTHOL MENTHOL HONEY vapor Lemon"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "In case of overdose, get medical help or contact a Poison Control Center right away.",
+    "DIST. BY: PROCTER & GAMBLE, CINCINNATI, OH 45202"
+  ],
+  "active_ingredient": [
+    "Active ingredients (per drop) Menthol 20 mg Purpose Oral anesthetic"
+  ],
+  "purpose": [
+    "Purpose Oral anesthetic"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves occasional minor irritation and pain due to sore throat sore mouth"
+  ],
+  "warnings": [
+    "Warnings Sore Throat Warning – Severe or persistent sore throat or sore throat accompanied by high fever, headache, nausea, and vomiting may be serious. Consult doctor promptly. Do not use more than 2 days or administer to children under 12 years of age."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have a severe sore throat accompanied by difficulty in breathing or that lasts more than 2 days a sore throat accompanied by fever, headache, rash, swelling, nausea or vomiting"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if sore mouth symptoms do not improve in 7 days, or if irritation, pain, or redness persists or worsens"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding , ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 12 years and over: dissolve 1 drop slowly in the mouth. Repeat every 2 hours as needed or as directed by a doctor. children under 12 years, do not use."
+  ],
+  "storage_and_handling": [
+    "Other information Store at no greater than 25°C (77°F) contains soy"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients beta carotene, corn syrup, flavors, honey, sucrose, water"
+  ],
+  "questions": [
+    "Questions? 1-800-707-1709"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 70 drops in a bag VALUE PACK VICKS ® VapoCOOL™ SEVERE MENTHOL ·ORAL ANESTHETIC MAX STRENGTH • FAST RELIEF SOOTHES SORE THROAT HONEY LEMON CHILL 70 MEDICATED DROPS 797"
+  ],
+  "set_id": "042b6ea0-baf3-52d2-e063-6394a90ac6fb",
+  "id": "4040c99e-ff21-d707-e063-6394a90a99f7",
+  "effective_time": "20251003",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M022"
+    ],
+    "brand_name": [
+      "Vicks VapoCOOL SEVERE"
+    ],
+    "generic_name": [
+      "MENTHOL"
+    ],
+    "manufacturer_name": [
+      "The Procter & Gamble Manufacturing Company"
+    ],
+    "product_ndc": [
+      "69423-797"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MENTHOL"
+    ],
+    "rxcui": [
+      "1995300"
+    ],
+    "spl_id": [
+      "4040c99e-ff21-d707-e063-6394a90a99f7"
+    ],
+    "spl_set_id": [
+      "042b6ea0-baf3-52d2-e063-6394a90ac6fb"
+    ],
+    "package_ndc": [
+      "69423-797-18",
+      "69423-797-45",
+      "69423-797-70"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0323900045699"
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

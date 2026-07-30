@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "DCH Pain Relief Lidocaine HCl 4% STEARETH-21 ETHYLHEXYLGLYCERIN LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS GLYCERYL MONOSTEARATE CETETH-20 PHOSPHATE CARBOMER COPOLYMER TYPE B (ALLYL PENTAERYTHRITOL CROSSLINKED) ALOE VERA LEAF AMINOMETHYLPROPANOL DIHEXADECYL PHOSPHATE EDETATE DISODIUM CAPRYLYL TRISILOXANE METHYLPARABEN CETOSTEARYL ALCOHOL WATER C30-45 ALKYL CETEARYL DIMETHICONE CROSSPOLYMER DIMETHICONE 200 ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Lidocaine HCl 4%"
+  ],
+  "purpose": [
+    "Topical Analgesic"
+  ],
+  "dosage_and_administration": [
+    "Temporarily relieves minor pain."
+  ],
+  "warnings": [
+    "For external use only. Do not use on large areas of the body or on cut, irritated, or swollen skin, on puncture wounds, for more than one week without consulting a doctor. When using this product use only as directed. Read and follow directions on this carton, avoid contact with eyes and mucous membranes, do not apply to wounds or damaged, broken, or irritated skin, do not bandage tightly or apply local heat (such as heating pads) or a medicated patch to the area of use, do not use at the same time as other topical analgesics, a transient burning sensation may occur upon application but generally disappears in several days, avoid applying into skin folds. Stop use and ask a doctor if the condition worsens, redness is present, irritation develops, symptoms persist for more than 7 days or clear up and occur again within a few days, you experience signs of skin injury, such as pain, swelling, or blistering where the product was applied."
+  ],
+  "keep_out_of_reach_of_children": [
+    "In case of accidental ingestion, seek professional assistance or contact a Poison Control Center immediately."
+  ],
+  "indications_and_usage": [
+    "Adults and children over 12 years : apply a thin layer to the affected area every 6 to 8 hours, not to exceed 3 applications in a 24-hour period. AFTER APPLYING, WASH HANDS WITH SOAP AND WATER. Children under 12 years or younger: ask a doctor."
+  ],
+  "inactive_ingredient": [
+    "Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Alcohol Denat., Aloe Barbadensis Leaf Extract, Aminomethyl Propanol, C30-45 Alkyl Cetearyl Dimethicone Crosspolymer, Caprylyl Methicone, Cetearyl Alcohol, Ceteth-20 Phosphate, Dicetyl Phosphate, Dimethicone, Disodium EDTA, Ethylhexylglycerin, Glyceryl Stearate, Methylparaben, Steareth-21, Water."
+  ],
+  "package_label_principal_display_panel": [
+    "Carton"
+  ],
+  "set_id": "00dd70f3-ecc3-33ba-e063-6294a90a4f32",
+  "id": "29a5ddde-6c5b-87ce-e063-6394a90aa48c",
+  "effective_time": "20241219",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "DCH Pain Relief"
+    ],
+    "generic_name": [
+      "LIDOCAINE HCL 4%"
+    ],
+    "manufacturer_name": [
+      "Derma Care Research Labs, LLC"
+    ],
+    "product_ndc": [
+      "72839-361"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "LIDOCAINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1010895"
+    ],
+    "spl_id": [
+      "29a5ddde-6c5b-87ce-e063-6394a90aa48c"
+    ],
+    "spl_set_id": [
+      "00dd70f3-ecc3-33ba-e063-6294a90a4f32"
+    ],
+    "package_ndc": [
+      "72839-361-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0850009221759"
+    ],
+    "unii": [
+      "V13007Z41A"
+    ]
+  }
+}

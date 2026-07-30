@@ -1,0 +1,101 @@
+{
+  "spl_product_data_elements": [
+    "WHP Flu like Symptoms Bryonia Alba Root - Gelsemium Sempervirens Root - Toxicodendron Pubescens Leaf - Arsenic Trioxide Strychnos - Nux-Vomica Seed SUCROSE LACTOSE BRYONIA ALBA ROOT BRYONIA ALBA ROOT GELSEMIUM SEMPERVIRENS ROOT GELSEMIUM SEMPERVIRENS ROOT TOXICODENDRON PUBESCENS LEAF TOXICODENDRON PUBESCENS LEAF ARSENIC TRIOXIDE ARSENIC CATION (3+) STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED white"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS BRYONIA 6C GELSEMIUM 6C RHUS TOX 6C ARSENICUM ALB 6C NUX VOM 6C"
+  ],
+  "purpose": [
+    "USES Temporarily relieves flu-like symptoms."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN As with all medications, keep out of reach of children."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS BRYONIA Worse motion GELSEMIUM Lethargy RHUS TOX Better motion ARSENICUM ALB Vomiting NUX VOM Vomiting"
+  ],
+  "warnings": [
+    "STOP USE AND ASK DOCTOR If symptoms persist or recur, discontinue use. If pregnant or nursing, consult a licensed practitioner before using this product."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Directions: Adults and children 12 years and older: 2 pills dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children 4 years to under 12 years: 1 pill dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children under 4 years: Consult a licensed practitioner."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Sucrose/Lactose"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL Flu-like Symptom label Flu-like Symptoms box"
+  ],
+  "set_id": "0670e4b8-34bc-5c31-e063-6394a90a6718",
+  "id": "2cc85a7a-bae6-f3b2-e063-6294a90ae7c1",
+  "effective_time": "20250128",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "WHP Flu like Symptoms"
+    ],
+    "generic_name": [
+      "BRYONIA ALBA ROOT - GELSEMIUM SEMPERVIRENS ROOT - TOXICODENDRON PUBESCENS LEAF - ARSENIC TRIOXIDE STRYCHNOS - NUX-VOMICA SEED"
+    ],
+    "manufacturer_name": [
+      "Washington Homeopathic Products"
+    ],
+    "product_ndc": [
+      "71919-801"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BRYONIA ALBA ROOT",
+      "GELSEMIUM SEMPERVIRENS ROOT",
+      "TOXICODENDRON PUBESCENS LEAF",
+      "ARSENIC TRIOXIDE",
+      "STRYCHNOS NUX-VOMICA SEED"
+    ],
+    "spl_id": [
+      "2cc85a7a-bae6-f3b2-e063-6294a90ae7c1"
+    ],
+    "spl_set_id": [
+      "0670e4b8-34bc-5c31-e063-6394a90a6718"
+    ],
+    "package_ndc": [
+      "71919-801-14"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0016962",
+      "M0516536"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Plant Proteins [CS]",
+      "Seed Storage Proteins [CS]"
+    ],
+    "unii": [
+      "T7J046YI2B",
+      "639KR60Q1Q",
+      "6IO182RP7A",
+      "S7V92P67HO",
+      "269XH13919"
+    ]
+  }
+}

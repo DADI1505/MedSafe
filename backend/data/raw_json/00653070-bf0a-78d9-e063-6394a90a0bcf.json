@@ -1,0 +1,126 @@
+{
+  "spl_product_data_elements": [
+    "Ammonium Causticum Ammonium Causticum AMMONIA AMMONIA SUCROSE Ammonium Causticum Ammonium Causticum AMMONIA AMMONIA SUCROSE Ammonium Causticum Ammonium Causticum AMMONIA AMMONIA SUCROSE Ammonium Causticum Ammonium Causticum AMMONIA AMMONIA SUCROSE Ammonium Causticum Ammonium Causticum AMMONIA AMMONIA SUCROSE Ammonium Causticum Ammonium Causticum AMMONIA AMMONIA SUCROSE Ammonium Causticum Ammonium Causticum AMMONIA AMMONIA SUCROSE Ammonium Causticum Ammonium Causticum AMMONIA AMMONIA SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Ammonium Causticum 6C 5g Ammonium Causticum 6C 30g Ammonium Causticum 6C 100g Ammonium Causticum 12C 5g Ammonium Causticum 12C 30g Ammonium Causticum 12C 100g Ammonium Causticum 30C 1g Ammonium Causticum 30C 5g Ammonium Causticum 30C 30g Ammonium Causticum 30C 100g Ammonium Causticum 100C 1g Ammonium Causticum 100C 5g Ammonium Causticum 100C 30g Ammonium Causticum 100C 100g Ammonium Causticum 200C 1g Ammonium Causticum 200C 5g Ammonium Causticum 200C 30g Ammonium Causticum 200C 100g Ammonium Causticum 500C 1g Ammonium Causticum 500C 5g Ammonium Causticum 500C 30g Ammonium Causticum 500C 100g Ammonium Causticum 1M 1g Ammonium Causticum 1M 5g Ammonium Causticum 1M 30g Ammonium Causticum 1M 100g Ammonium Causticum 10M 1g Ammonium Causticum 10M 5g Ammonium Causticum 10M 30g Ammonium Causticum 10M 100g"
+  ],
+  "set_id": "00653070-bf09-78d9-e063-6394a90a0bcf",
+  "id": "00653070-bf0a-78d9-e063-6394a90a0bcf",
+  "effective_time": "20230713",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Ammonium Causticum"
+    ],
+    "generic_name": [
+      "AMMONIUM CAUSTICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3616",
+      "37662-3621",
+      "37662-3623",
+      "37662-3618",
+      "37662-3619",
+      "37662-3620",
+      "37662-3622",
+      "37662-3617"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "AMMONIA"
+    ],
+    "spl_id": [
+      "00653070-bf0a-78d9-e063-6394a90a0bcf"
+    ],
+    "spl_set_id": [
+      "00653070-bf09-78d9-e063-6394a90a0bcf"
+    ],
+    "package_ndc": [
+      "37662-3621-1",
+      "37662-3621-2",
+      "37662-3621-3",
+      "37662-3621-4",
+      "37662-3623-1",
+      "37662-3623-2",
+      "37662-3623-3",
+      "37662-3623-4",
+      "37662-3618-1",
+      "37662-3618-2",
+      "37662-3618-3",
+      "37662-3618-4",
+      "37662-3619-1",
+      "37662-3619-2",
+      "37662-3619-3",
+      "37662-3619-4",
+      "37662-3620-1",
+      "37662-3620-2",
+      "37662-3620-3",
+      "37662-3620-4",
+      "37662-3622-1",
+      "37662-3622-2",
+      "37662-3622-3",
+      "37662-3622-4",
+      "37662-3617-1",
+      "37662-3617-2",
+      "37662-3617-3",
+      "37662-3616-1",
+      "37662-3616-2",
+      "37662-3616-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "5138Q19F1X"
+    ]
+  }
+}

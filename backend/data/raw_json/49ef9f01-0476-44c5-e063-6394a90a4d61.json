@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "Crest Plus Tartar Protection Sodium Fluoride SODIUM BENZOATE SODIUM ACID PYROPHOSPHATE SODIUM HYDROXIDE SODIUM LAURYL SULFATE XANTHAN GUM SACCHARIN SODIUM CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM TITANIUM DIOXIDE SORBITOL WATER HYDRATED SILICA SODIUM FLUORIDE FLUORIDE ION POTASSIUM SORBATE CARBOXYPOLYMETHYLENE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Dist. by Procter & Gamble, Cincinnati, OH 45202"
+  ],
+  "active_ingredient": [
+    "Active ingredient Sodium fluoride 0.243% (0.15% w/v fluoride ion)"
+  ],
+  "purpose": [
+    "Purpose Anticavity toothpaste"
+  ],
+  "indications_and_usage": [
+    "Use helps protect against cavities"
+  ],
+  "warnings": [
+    "Warning Keep out of reach of children under 6 yrs. of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children under 6 yrs. of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 2 yrs. & older: brush teeth thoroughly after meals or at least twice a day or use as directed by a dentist do not swallow to minimize swallowing use a pea-sized amount in children under 6 supervise children's brushing until good habits are established children under 2 yrs.: ask a dentist"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients sorbitol, water, hydrated silica, disodium pyrophosphate, sodium hydroxide, sodium lauryl sulfate, flavor, xanthan gum, sodium saccharin, carbomer, cellulose gum, sodium benzoate, potassium sorbate, titanium dioxide"
+  ],
+  "questions": [
+    "Questions? 1-800-492-7378"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 161 g Tube Carton ADA Accepted American Dental Association Crest plus FLUORIDE ANTICAVITY TOOTHPASTE NET WT 4.2 OZ (119 g) TARTAR PROTECTION HELPS PREVENT TARTAR & CAVITIES Regular Paste LABEL"
+  ],
+  "set_id": "08767b0f-ed6e-8d32-e063-6294a90a10cd",
+  "id": "49ef9f01-0476-44c5-e063-6394a90a4d61",
+  "effective_time": "20260203",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M021"
+    ],
+    "brand_name": [
+      "Crest Plus Tartar Protection"
+    ],
+    "generic_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "manufacturer_name": [
+      "The Procter & Gamble Manufacturing Company"
+    ],
+    "product_ndc": [
+      "69423-817"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "DENTAL"
+    ],
+    "substance_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "rxcui": [
+      "891775"
+    ],
+    "spl_id": [
+      "49ef9f01-0476-44c5-e063-6394a90a4d61"
+    ],
+    "spl_set_id": [
+      "08767b0f-ed6e-8d32-e063-6294a90a10cd"
+    ],
+    "package_ndc": [
+      "69423-817-24",
+      "69423-817-42",
+      "69423-817-57"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8ZYQ1474W7"
+    ]
+  }
+}

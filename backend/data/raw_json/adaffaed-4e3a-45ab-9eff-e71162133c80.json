@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "Menopause Angelica Archangelica, Aralia Quinquefolia, Cimicifuga Racemosa, Hydrastis Canadensis, Pulsatilla, Sabina, Sepia, Sulphuricum Acidum, Lachesis Mutus ANGELICA ARCHANGELICA ROOT ANGELICA ARCHANGELICA ROOT AMERICAN GINSENG AMERICAN GINSENG BLACK COHOSH BLACK COHOSH GOLDENSEAL GOLDENSEAL PULSATILLA VULGARIS WHOLE ANEMONE PULSATILLA JUNIPERUS SABINA LEAFY TWIG JUNIPERUS SABINA LEAFY TWIG SEPIA OFFICINALIS JUICE SEPIA OFFICINALIS JUICE SULFURIC ACID SULFURIC ACID LACHESIS MUTA VENOM LACHESIS MUTA VENOM WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: Angelica Archangelica 3X, Aralia Quinquefolia 3X, Cimicifuga Racemosa 3X, Hydrastis Canadensis 3X, Pulsatilla 12X, Sabina 12X, Sepia 12X, Sulphuricum Acidum 12X, Lachesis Mutus 15X."
+  ],
+  "purpose": [
+    "PURPOSE: Angelica Archangelica - nausea,** Aralia Quinquefolia – low back pain,** Cimicifuga Racemosa – minor back pain,** Hydrastis Canadensis - headache,** Pulsatilla - moodiness,** Sabina – hormone support,** Sepia – irregular menses,** Sulphuricum Acidum – fertility support,** Lachesis Mutus – headache** **Claims based on traditional homeopathic practice, not accepted medical evidencel. Not FDA evaluated."
+  ],
+  "indications_and_usage": [
+    "USES: For temporary relief of flushes of heat with attacks of perspiration, physical weakness with headaches, moodiness with symptoms ever-changing. **Claims based on traditional homeopathic practice, not accepted medical evidencel. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS: If pregnant or breast-feeding, ask a health care professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in a cool, dry place."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: • 10 drops orally, 3 times a day. • Consult a health care professional for use in children under 12 years of age."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Demineralized Water, 25% Ethanol"
+  ],
+  "questions": [
+    "QUESTIONS: Distributed by: BioActive Nutritional, Inc. 1803 N. Wickham Rd. Melbourne, FL 32935 bioactivenutritional.com 1-800-288-9525"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: BIO Active Nutritional MENOPAUSE HOMEOPATHIC 1 fl. oz. (30mL) MENOPAUSE"
+  ],
+  "set_id": "03ce1f50-6af5-4640-825f-67fcb25e76e6",
+  "id": "adaffaed-4e3a-45ab-9eff-e71162133c80",
+  "effective_time": "20250624",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "Menopause"
+    ],
+    "generic_name": [
+      "ANGELICA ARCHANGELICA, ARALIA QUINQUEFOLIA, CIMICIFUGA RACEMOSA, HYDRASTIS CANADENSIS, PULSATILLA, SABINA, SEPIA, SULPHURICUM ACIDUM, LACHESIS MUTUS"
+    ],
+    "manufacturer_name": [
+      "BioActive Nutritional, Inc."
+    ],
+    "product_ndc": [
+      "43857-0446"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ANGELICA ARCHANGELICA ROOT",
+      "AMERICAN GINSENG",
+      "BLACK COHOSH",
+      "GOLDENSEAL",
+      "PULSATILLA VULGARIS WHOLE",
+      "JUNIPERUS SABINA LEAFY TWIG",
+      "SEPIA OFFICINALIS JUICE",
+      "SULFURIC ACID",
+      "LACHESIS MUTA VENOM"
+    ],
+    "spl_id": [
+      "adaffaed-4e3a-45ab-9eff-e71162133c80"
+    ],
+    "spl_set_id": [
+      "03ce1f50-6af5-4640-825f-67fcb25e76e6"
+    ],
+    "package_ndc": [
+      "43857-0446-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "DTN01M69SN",
+      "8W75VCV53Q",
+      "K73E24S6X9",
+      "ZW3Z11D0JV",
+      "I76KB35JEV",
+      "Z5BEX9K2G1",
+      "QDL83WN8C2",
+      "O40UQP6WCF",
+      "VSW71SS07I"
+    ]
+  }
+}

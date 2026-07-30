@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "L-Arginine 7401 L-Arginine ARGININE ARGININE ALCOHOL WATER"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS L-Arginine 4X, 7X, 12X"
+  ],
+  "questions": [
+    "QUESTIONS Professional Formulas PO Box 2034 Lake Oswego, OR 97035"
+  ],
+  "indications_and_usage": [
+    "INDICATIONS For the temporary relief of minor muscle pain or inflammation, general weakness, muscle fatigue, diminished memory, confusion, or diminished sexual desire or performance.*"
+  ],
+  "purpose": [
+    "*Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS In case of overdose, get medical help or contact a poison control center right away. Keep out of the reach of children. If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take 10 drops up to 3 times per day. Consult a physician for use in children under 12 years of age."
+  ],
+  "other_safety_information": [
+    "OTHER INFORMATION Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS 20% ethanol, purified water."
+  ],
+  "package_label_principal_display_panel": [
+    "LABEL Est 1985 Professional Formulas Complementary Health L-Arginine Homeopathic Remedy 2 FL. OZ. (59 mL) Label image"
+  ],
+  "set_id": "07c10c55-5e96-4ec0-95cc-019fd0a4bca7",
+  "id": "a01a3e86-482e-439b-8852-edd7072bd159",
+  "effective_time": "20260108",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "L-Arginine 7401"
+    ],
+    "generic_name": [
+      "L-ARGININE"
+    ],
+    "manufacturer_name": [
+      "Professional Complementary Health Formulas"
+    ],
+    "product_ndc": [
+      "63083-7401"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ARGININE"
+    ],
+    "spl_id": [
+      "a01a3e86-482e-439b-8852-edd7072bd159"
+    ],
+    "spl_set_id": [
+      "07c10c55-5e96-4ec0-95cc-019fd0a4bca7"
+    ],
+    "package_ndc": [
+      "63083-7401-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "94ZLA3W45F"
+    ]
+  }
+}

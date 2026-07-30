@@ -1,0 +1,113 @@
+{
+  "spl_product_data_elements": [
+    "BencoCaine Topical Anesthetic Benzocaine POLYETHYLENE GLYCOL 3350 SACCHARIN SODIUM POLYETHYLENE GLYCOL 400 BENZOCAINE BENZOCAINE DYE-FREE"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Benzocaine 200 mg (in each g)"
+  ],
+  "purpose": [
+    "Purpose Oral Anesthetic"
+  ],
+  "indications_and_usage": [
+    "For oral mucosal use only, as directed by dentist. For the temporary relif of pain due to minor dental procedures."
+  ],
+  "warnings": [
+    "Warnings Warnings Methemoglolllnemla warning: Use of this product may cause methemoglobinemia, a seriouscondit~n that must be treated promptly because tt reduces the amount of oxygen carried in the blood. This can occur even if you have used this product before. Stop use and seek immediate medical attention if you or a child in your care develops: • pale, gray or blue colored skin (cyanosis) •headache rapid heart rate • shortness of breath • dizziness or lightheadedness • fatigue or lack of energy"
+  ],
+  "other_safety_information": [
+    "Allergy Alert Allergy Alert Do not use on patients with a history of allergies to local anesthetics suchasprocaine,butacaine, benzocaine or other \"caine\" anesthetics."
+  ],
+  "do_not_use": [
+    "Do not use •for more than 7 days unless directed by a physician. If sore mouth symptoms do not improve in 7 days; irritation, pain, or redness persists or worsens; or worsens; or if swelling, rash or fever develops,see your physician promptly. • for teething •in children under 2 years of age"
+  ],
+  "when_using": [
+    "When using this product Avoid contact with eyes. If contact occurs, flush with water."
+  ],
+  "spl_unclassified_section": [
+    "Do not exceed recommended dosage If more than used for pain is accidentally swallowed, get medical help or contact a Poison Control Center right away.",
+    "Other Information Store at 59 -86°F(15-30°C). Protect from freezing."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast feeding, ask a physician before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children"
+  ],
+  "dosage_and_administration": [
+    "Directions • Apply only amount needed to the oral mucosa to prevent or relieve pain. • children under 2 years of age: do not use"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients flavoring, PEG 3350, PEG 400, sodium saccharin."
+  ],
+  "questions": [
+    "Questions or Comments? 800.GO.BENCO or benco.com"
+  ],
+  "package_label_principal_display_panel": [
+    "Bencocaine Topical Wrap_dye-free_99091791"
+  ],
+  "set_id": "05e31aaa-a932-f48b-e063-6394a90af32e",
+  "id": "2b3a8cb2-17a2-ed01-e063-6394a90ae069",
+  "effective_time": "20250108",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M022"
+    ],
+    "brand_name": [
+      "BencoCaine Topical Anesthetic"
+    ],
+    "generic_name": [
+      "BENZOCAINE"
+    ],
+    "manufacturer_name": [
+      "Benco Dental"
+    ],
+    "product_ndc": [
+      "66975-341"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "DENTAL"
+    ],
+    "substance_name": [
+      "BENZOCAINE"
+    ],
+    "rxcui": [
+      "238910",
+      "1541816"
+    ],
+    "spl_id": [
+      "2b3a8cb2-17a2-ed01-e063-6394a90ae069"
+    ],
+    "spl_set_id": [
+      "05e31aaa-a932-f48b-e063-6394a90af32e"
+    ],
+    "package_ndc": [
+      "66975-341-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185508",
+      "N0000175629",
+      "N0000184306",
+      "M0000728"
+    ],
+    "pharm_class_epc": [
+      "Standardized Chemical Allergen [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]"
+    ],
+    "unii": [
+      "U3RSY48JW5"
+    ]
+  }
+}

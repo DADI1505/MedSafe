@@ -1,0 +1,63 @@
+{
+  "spl_product_data_elements": [
+    "Oxygen Oxygen OXYGEN OXYGEN"
+  ],
+  "package_label_principal_display_panel": [
+    "Oxygen, Refrigerated Liquid USP Oxygen, Refrigerated Liquid USP UN 1073 Contents: ______ Liters CAS NO: 7782-44-7 Danger: MAY CAUSE OR INTENSIFY FIRE; OXIDIZER. CONTAINS REFRIGERATED GAS; MAY CAUSE CRYOGENIC BURNS OR INJURY. COMBUSTIBLES IN CONTACT WITH LIQUID OXYGEN MAY EXPLODE ON IGNITION OR IMPACT. Do not handle until all safety precautions have been read and understood. Keep and store away from clothing and other combustible materials. Keep valves and fittings free from grease and oil. Use and store only outdoors or in a well-ventilated place. Wear cold insulating gloves, face shield, and eye protection. In case of fire: Stop leak if safe to do so. Use a back flow preventative device in the piping. Use only with equipment of compatible materials of construction and rated for cylinder pressure. Use only with equipment cleaned for oxygen service.DO NOT change or force fit connections. Avoid spills. Do not walk on or roll equipment over spills. Close valve after each use and when empty. Always keep container in upright position. Read and follow the Safety Data Sheet (SDS) before use. FIRST AID: IF ON SKIN: Thaw frosted parts with lukewarm water. Do not rub affected area Get immediate medical advice/attention. DO NOT REMOVE THIS PRODUCT LABEL. WARNING: No smoking or vaping. For emergency use only when administered by properly trained personnel for oxygen deficiency and resuscitation. For all other medical applications, Rx Required. Uninterrupted use of high concentrations of oxygen over a long duration, without monitoring its effect on oxygen content of arterial blood, may be harmful. Do not attempt to use on patients who have stopped breathing unless used in conjunction with resuscitative equipment. Produced by Air Liquefaction. NO SMOKING NO VAPING Commonwealth Home Health Care, Inc. 300 Blairs Circle Blairs. Virginia 24527 434-797-2332 Oxygen-Refrigerated.jpg",
+    "Oxygen, Compressed USP Oxygen, Compressed USP UN 1072 DANGER: MAY CAUSE OR INTENSIFY FIRE; OXIDIZER. CONTANS GAS UNDER PRESSURE; MAY EXPLODE IF HEATED. Do not handle until all safety precautions have been read and understood. Keep and store away from clothing and other combustible materials. Keep valves and fittings free from grease and oil. Use and store only outdoors or in a well-ventilated place. In case of fire: Stop leak if safe to do so Use a back flow preventative device in the piping. Use with only with compatible materials of construction and rated for cylinder pressure. Use only with equipment cleaned for oxygen service. Open valve slowly. Close valve after each use and when empty. Protect from sunlight when ambient temperature exceeds 52°C (125°F). Read and follow the Safety Data Sheet (SDS) before use. DO NOT REMOVE THIS PRODUCT LABEL. WARNING: No smoking or vaping. For emergency use only when administered by properly trained personnel for oxygen deficiency and resuscitation. For all other medical applications, Rx Required. Uninterrupted use of high concentrations of oxygen over a long duration, without monitoring its effect on oxygen content of arterial blood, may be harmful. Do not attempt to use on patients who have stopped breathing unless used in conjunction with resuscitative equipment. Produced by Air Liquefaction. NO SMOKING NO VAPING CAS NO: 7782-44-7 Contents Size 113 Liters M4 165 Liters M6 255 Liters C 425 Liters D 680 Liters E 7080 Liters H ____Liters Other Commonwealth Home Health Care, Inc. 300 Blairs Circle Blairs. Virginia 24527 434-797-2332 Oxygen-Compressed.jpg"
+  ],
+  "set_id": "06bd1b09-21f1-6e1e-e054-00144ff8d46c",
+  "id": "53c12ab1-e8dc-b66b-e063-6394a90a0004",
+  "effective_time": "20260608",
+  "version": "31",
+  "openfda": {
+    "brand_name": [
+      "Oxygen"
+    ],
+    "generic_name": [
+      "OXYGEN"
+    ],
+    "manufacturer_name": [
+      "Commonwealth Home Health Care, Inc."
+    ],
+    "product_ndc": [
+      "54528-001"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "RESPIRATORY (INHALATION)"
+    ],
+    "substance_name": [
+      "OXYGEN"
+    ],
+    "rxcui": [
+      "312173"
+    ],
+    "spl_id": [
+      "53c12ab1-e8dc-b66b-e063-6394a90a0004"
+    ],
+    "spl_set_id": [
+      "06bd1b09-21f1-6e1e-e054-00144ff8d46c"
+    ],
+    "package_ndc": [
+      "54528-001-01",
+      "54528-001-02",
+      "54528-001-03",
+      "54528-001-04",
+      "54528-001-05",
+      "54528-001-06",
+      "54528-001-07",
+      "54528-001-08",
+      "54528-001-09",
+      "54528-001-10"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "S88TT14065"
+    ]
+  }
+}

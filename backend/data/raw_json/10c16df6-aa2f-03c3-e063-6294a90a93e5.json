@@ -1,0 +1,113 @@
+{
+  "spl_product_data_elements": [
+    "PANADOL PM acetaminophen and diphenhydramine HCl CARNAUBA WAX CROSPOVIDONE (120 .MU.M) FD&C BLUE NO. 1 FD&C BLUE NO. 2 HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED POLYSORBATE 80 POVIDONE, UNSPECIFIED STARCH, CORN SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID TITANIUM DIOXIDE ACETAMINOPHEN ACETAMINOPHEN DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE Caplet PM"
+  ],
+  "active_ingredient": [
+    "Active ingredients (in each caplet) Acetaminophen 500 mg Diphenhydramine HCl 25 mg"
+  ],
+  "purpose": [
+    "Purposes Pain reliever Nighttime sleep-aid"
+  ],
+  "indications_and_usage": [
+    "Uses temporary relief of occasional headaches and minor aches and pains with accompanying sleeplessness"
+  ],
+  "warnings": [
+    "Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert: acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. with any other product containing diphenhydramine, even one used on skin in children under 12 years of age if you are allergic to acetaminophen or any of the inactive ingredients in this product Ask a doctor before use if you have liver disease glaucoma a breathing problem such as emphysema or chronic bronchitis trouble urinating due to an enlarged prostate gland Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin sedatives or tranquilizers When using this product drowsiness will occur avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of a serious underlying medical illness. pain gets worse or lasts more than 10 days redness or swelling is present any new symptoms appear These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning: Taking more than the recommended dose can cause serious health problems. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+  ],
+  "adverse_reactions": [
+    "Allergy alert: acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away."
+  ],
+  "do_not_use": [
+    "Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. with any other product containing diphenhydramine, even one used on skin in children under 12 years of age if you are allergic to acetaminophen or any of the inactive ingredients in this product"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have liver disease glaucoma a breathing problem such as emphysema or chronic bronchitis trouble urinating due to an enlarged prostate gland"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin sedatives or tranquilizers"
+  ],
+  "when_using": [
+    "When using this product drowsiness will occur avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of a serious underlying medical illness. pain gets worse or lasts more than 10 days redness or swelling is present any new symptoms appear These could be signs of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "overdosage": [
+    "Overdose warning: Taking more than the recommended dose can cause serious health problems. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+  ],
+  "dosage_and_administration": [
+    "Directions do not take more than directed (see overdose warning) adults and children 12 years of age and over: take 2 caplets at bedtime, if needed, or as directed by a doctor do not give to children under 12 years of age"
+  ],
+  "storage_and_handling": [
+    "Other information store below 25°C (77°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients carnauba wax, crospovidone, FD&C blue #1 aluminum lake, FD&C blue #2 aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, povidone, pregelatinized starch, sodium starch glycolate, stearic acid, titanium dioxide"
+  ],
+  "questions": [
+    "Questions or comments? 1-800-455-7139"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel NDC 0135-0608-01 PANADOL EXTRA STRENGTH PM ACETAMNOPHEN Pain Reliever DIPHENHYDRAMINE HCl Nighttime Sleep-Aid 24 CAPLETS Tamper-Evident Feature: Do not use if printed bottle seal (under cap) is missing or broken. READ AND KEEP CARTON FOR COMPLETE INFORMATION Trademarks are owned by or licensed to the GSK group of companies. Distributed by: GSK Consumer Healthcare, Warren, NJ 07059 ©2016 GSK group of companies or its licensor. 101639XE 101639XE_Panadol PM_24 ct.JPG"
+  ],
+  "set_id": "01e7dddb-755c-4745-b701-edcdb6209064",
+  "id": "10c16df6-aa2f-03c3-e063-6294a90a93e5",
+  "effective_time": "20240206",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "M013"
+    ],
+    "brand_name": [
+      "PANADOL PM"
+    ],
+    "generic_name": [
+      "ACETAMINOPHEN AND DIPHENHYDRAMINE HCL"
+    ],
+    "manufacturer_name": [
+      "Haleon US Holdings LLC"
+    ],
+    "product_ndc": [
+      "0135-0608"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACETAMINOPHEN",
+      "DIPHENHYDRAMINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1092189",
+      "1094718"
+    ],
+    "spl_id": [
+      "10c16df6-aa2f-03c3-e063-6294a90a93e5"
+    ],
+    "spl_set_id": [
+      "01e7dddb-755c-4745-b701-edcdb6209064"
+    ],
+    "package_ndc": [
+      "0135-0608-01",
+      "0135-0608-02",
+      "0135-0608-04",
+      "0135-0608-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "362O9ITL9D",
+      "TC2D6JAD40"
+    ]
+  }
+}

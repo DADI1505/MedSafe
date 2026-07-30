@@ -1,0 +1,105 @@
+{
+  "spl_product_data_elements": [
+    "DYE-FREE CHILDRENS LORATADINE LORATADINE ASPARTAME ANHYDROUS CITRIC ACID SILICON DIOXIDE MAGNESIUM STEARATE MANNITOL MICROCRYSTALLINE CELLULOSE SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID LORATADINE LORATADINE white to off-white 106"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "DISTRIBUTED BY: Walmart Inc., Bentonville, AR 72716"
+  ],
+  "active_ingredient": [
+    "Active Ingredient (in each tablet) Loratadine USP, 5 mg"
+  ],
+  "purpose": [
+    "Purpose Antihistamine"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes sneezing itching of the nose or throat"
+  ],
+  "warnings": [
+    "Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed. Taking more than directed may cause drowsiness. Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "do_not_use": [
+    "Do not use if you have ever had an allergic reaction to this product or any of its ingredients."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose."
+  ],
+  "when_using": [
+    "When using this product do not take more than directed. Taking more than directed may cause drowsiness."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "dosage_and_administration": [
+    "Directions chew or crush tablets completely before swallowing. adults and children 6 years and over chew 2 tablets daily; not more than 2 tablets in 24 hours children 2 to under 6 years of age chew 1 tablet daily; not more than 1 tablet in 24 hours children under 2 years of age ask a doctor consumers with liver or kidney disease ask a doctor"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"60%\"><col width=\"45%\" align=\"left\" valign=\"top\"/><col width=\"55%\" align=\"left\" valign=\"top\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">adults and children 6 years and over</td><td styleCode=\"Rrule\">chew 2 tablets daily; not more than 2 tablets in 24 hours</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">children 2 to under 6 years of age</td><td styleCode=\"Rrule\">chew 1 tablet daily; not more than 1 tablet in 24 hours</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">children under 2 years of age</td><td styleCode=\"Rrule\">ask a doctor</td></tr><tr><td styleCode=\"Lrule Rrule\">consumers with liver or kidney disease</td><td styleCode=\"Rrule\">ask a doctor</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other Information phenylketonurics: contains phenylalanine 1.25 mg per tablet. TAMPER EVIDENT: DO NOT USE IF BLISTER UNITS ARE TORN, BROKEN OR SHOW ANY SIGNS OF TAMPERING. store between 20° to 25°C (68° to 77°F)."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients aspartame, citric acid anhydrous, colloidal silicon dioxide, flavor, magnesium stearate, mannitol, microcrystalline cellulose, sodium starch glycolate, stearic acid"
+  ],
+  "questions": [
+    "Questions? Call toll-free Monday to Friday 8:30 am to 5:00 pm EST at 1-888-287-1915 ."
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 5 mg Tablet Blister Pack Carton NDC 79903-008-30 equate™ Compare to Children's Claritin® Chewables active ingredient* childrens Non-Drowsy** LORATADINE CHEWABLE Tablets USP, 5mg Antihistamine 24 HOURS Dye-Free AGES 2 YEARS AND OLDER Indoor & Outdoor Allergies Grape Flavored 30 Chewable Tablets The chewable tablets are to be chewed before swallowing. Relief of: Sneezing Runny nose Itchy, watery eyes Itchy throat or nose **When taken as directed. See Drug Facts Panel. PRINCIPAL DISPLAY PANEL - 5 mg Tablet Blister Pack Carton"
+  ],
+  "set_id": "01d6de60-58b0-453f-a0be-95146ce29ea3",
+  "id": "0ea6e88f-9c1d-1fe5-e063-6394a90ae867",
+  "effective_time": "20240111",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "ANDA210088"
+    ],
+    "brand_name": [
+      "DYE-FREE CHILDRENS LORATADINE"
+    ],
+    "generic_name": [
+      "LORATADINE"
+    ],
+    "manufacturer_name": [
+      "WAL-MART STORES, INC"
+    ],
+    "product_ndc": [
+      "79903-008"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LORATADINE"
+    ],
+    "rxcui": [
+      "665078"
+    ],
+    "spl_id": [
+      "0ea6e88f-9c1d-1fe5-e063-6394a90ae867"
+    ],
+    "spl_set_id": [
+      "01d6de60-58b0-453f-a0be-95146ce29ea3"
+    ],
+    "package_ndc": [
+      "79903-008-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "7AJO3BO7QN"
+    ]
+  }
+}

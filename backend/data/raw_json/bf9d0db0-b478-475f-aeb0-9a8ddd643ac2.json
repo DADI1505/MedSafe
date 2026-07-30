@@ -1,0 +1,101 @@
+{
+  "spl_product_data_elements": [
+    "Powerbright Moisturizer SPF 50 Octocrylene, Homosalate, Avobenzone, and Octisalate Octocrylene Octocrylene Homosalate Homosalate Avobenzone Avobenzone Octisalate Octisalate Water SAFFLOWER OIL Butylene Glycol ALKYL (C12-15) BENZOATE Niacinamide Polysorbate 80 Glycerin Ammonium Acryloyldimethyltaurate/VP Copolymer Pentylene Glycol Propanediol POLYMETHYLSILSESQUIOXANE (4.5 MICRONS) PPG-12/Smdi Copolymer Caprylyl Glycol Glycogen LAVANDIN OIL YLANG-YLANG LEAF OIL SILICON DIOXIDE LEVOMENOL Gluconolactone Ethylhexylglycerin HYALURONATE SODIUM GLYCYRRHIZINATE DIPOTASSIUM Trisodium Ethylenediamine Disuccinate Sodium Benzoate Sodium Hydroxide LAMINARIA DIGITATA Eucalyptol LAVANDULA ANGUSTIFOLIA SUBSP. ANGUSTIFOLIA FLOWER LINALOOL, (+/-)- Benzyl Benzoate Benzyl Salicylate Farnesol LIMONENE, (+)- Geraniol Isoeugenol"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredient Octocrylene 8.0% Homosalate 5.0% Avobenzone 3.0% Octisalate 3.0%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent sunburn. If used as directed with other sun protection measures (see Directions ), helps decrease the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin."
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply liberally 30 minutes before sun exposure. Reapply at least every two hours. Use a water resistant sunscreen if swimming or sweating. Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To help decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. – 2 p.m. wear long-sleeve shirts, pants, hats and sunglasses. Children under 6 months: ask a doctor."
+  ],
+  "storage_and_handling": [
+    "Other information Protect this product from excessive heat and direct sun."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water/Aqua/Eau, Carthamus Tinctorius (Safflower) Oleosomes, Butylene Glycol, C12-15 Alkyl Benzoate, Niacinamide, Polysorbate 80, Laminaria Digitata Extract, Lavandula Hybrida Oil, Lavandula Angustifolia (Lavender) Flower Extract, Cananga Odorata Flower Oil, Eucalyptol, Glycerin, Pentylene Glycol, PPG-12/SMDI Copolymer, Bisabolol, Ethylhexylglycerin, Caprylyl Glycol, Glycogen, Sodium Hyaluronate, Dipotassium Glycyrrhizate, Gluconolactone, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Glyceryl Polyacrylate, Propanediol, Trisodium Ethylenediamine Disuccinate, Ammonium Acryloyldimethyltaurate/ VP Copolymer, Polymethylsilsesquioxane, Silica, Sodium Benzoate, Sodium Hydroxide, Benzyl Benzoate, Benzyl Salicylate, Farnesol, Limonene, Linalool, Geraniol, Isoeugenol."
+  ],
+  "questions": [
+    "Questions or comments Call toll free 1-800-831-5150 in the US."
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 50 mL Bottle Carton powerbright moisturizer SPF 50 broad spectrum dark spot defense 1.7 US FL OZ / 50 mL e dermalogica PRINCIPAL DISPLAY PANEL - 50 mL Bottle Carton"
+  ],
+  "set_id": "02c731ee-c5cb-4158-9b1f-e826593c3526",
+  "id": "bf9d0db0-b478-475f-aeb0-9a8ddd643ac2",
+  "effective_time": "20241227",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Powerbright Moisturizer SPF 50"
+    ],
+    "generic_name": [
+      "OCTOCRYLENE, HOMOSALATE, AVOBENZONE, AND OCTISALATE"
+    ],
+    "manufacturer_name": [
+      "Dermalogica, LLC."
+    ],
+    "product_ndc": [
+      "68479-020"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OCTOCRYLENE",
+      "HOMOSALATE",
+      "AVOBENZONE",
+      "OCTISALATE"
+    ],
+    "spl_id": [
+      "bf9d0db0-b478-475f-aeb0-9a8ddd643ac2"
+    ],
+    "spl_set_id": [
+      "02c731ee-c5cb-4158-9b1f-e826593c3526"
+    ],
+    "package_ndc": [
+      "68479-020-02",
+      "68479-020-01",
+      "68479-020-05",
+      "68479-020-06"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "5A68WGF6WM",
+      "V06SV4M95S",
+      "G63QQF2NOX",
+      "4X49Y0596W"
+    ]
+  }
+}

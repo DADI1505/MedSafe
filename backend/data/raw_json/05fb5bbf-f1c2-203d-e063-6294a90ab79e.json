@@ -1,0 +1,121 @@
+{
+  "spl_product_data_elements": [
+    "Petroleum Etherum Petroleum Etherum SUCROSE NAPHTHA NAPHTHA Petroleum Etherum Petroleum Etherum SUCROSE NAPHTHA NAPHTHA Petroleum Etherum Petroleum Etherum SUCROSE NAPHTHA NAPHTHA Petroleum Etherum Petroleum Etherum SUCROSE NAPHTHA NAPHTHA Petroleum Etherum Petroleum Etherum SUCROSE NAPHTHA NAPHTHA Petroleum Etherum Petroleum Etherum NAPHTHA NAPHTHA SUCROSE Petroleum Etherum Petroleum Etherum SUCROSE NAPHTHA NAPHTHA"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Petroleum Etherum 6C 5g Petroleum Etherum 6C 30g Petroleum Etherum 6C 100g Petroleum Etherum 12C 5g Petroleum Etherum 12C 30g Petroleum Etherum 12C 100g Petroleum Etherum 30C 1g Petroleum Etherum 30C 5g Petroleum Etherum 30C 30g Petroleum Etherum 30C 100g Petroleum Etherum 100C 1g Petroleum Etherum 100C 5g Petroleum Etherum 100C 30g Petroleum Etherum 100C 100g Petroleum Etherum 200C 1g Petroleum Etherum 200C 5g Petroleum Etherum 200C 30g Petroleum Etherum 200C 100g Petroleum Etherum 500C 1g Petroleum Etherum 500C 5g Petroleum Etherum 500C 30g Petroleum Etherum 500C 100g Petroleum Etherum 1M 1g Petroleum Etherum 1M 5g Petroleum Etherum 1M 30g Petroleum Etherum 1M 100g"
+  ],
+  "set_id": "05fb5bbf-f1c1-203d-e063-6294a90ab79e",
+  "id": "05fb5bbf-f1c2-203d-e063-6294a90ab79e",
+  "effective_time": "20230922",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Petroleum Etherum"
+    ],
+    "generic_name": [
+      "PETROLEUM ETHERUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3992",
+      "37662-3993",
+      "37662-3994",
+      "37662-3997",
+      "37662-3996",
+      "37662-3995",
+      "37662-3998"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "NAPHTHA"
+    ],
+    "spl_id": [
+      "05fb5bbf-f1c2-203d-e063-6294a90ab79e"
+    ],
+    "spl_set_id": [
+      "05fb5bbf-f1c1-203d-e063-6294a90ab79e"
+    ],
+    "package_ndc": [
+      "37662-3993-1",
+      "37662-3993-2",
+      "37662-3993-3",
+      "37662-3994-1",
+      "37662-3994-2",
+      "37662-3994-3",
+      "37662-3994-4",
+      "37662-3997-1",
+      "37662-3997-2",
+      "37662-3997-3",
+      "37662-3997-4",
+      "37662-3996-1",
+      "37662-3996-2",
+      "37662-3996-3",
+      "37662-3996-4",
+      "37662-3995-1",
+      "37662-3995-2",
+      "37662-3995-3",
+      "37662-3995-4",
+      "37662-3998-1",
+      "37662-3998-2",
+      "37662-3998-3",
+      "37662-3998-4",
+      "37662-3992-1",
+      "37662-3992-2",
+      "37662-3992-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O3L624621X"
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "spl_product_data_elements": [
+    "Kaopectate Peppermint Flavor Anti Diarrheal bismuth subsalicylate BISMUTH SUBSALICYLATE BISMUTH CATION Carboxymethylcellulose Sodium, Unspecified Fd&C Red No. 40 Microcrystalline Cellulose SODIUM SALICYLATE SORBIC ACID SUCROSE WATER XANTHAN GUM Front Label Back Label"
+  ],
+  "active_ingredient": [
+    "Active ingredient (per 15 mL) Purposes Bismuth subsalicylate 262 mg Anti-diarrheal Upset stomach reliever"
+  ],
+  "active_ingredient_table": [
+    "<table cellpadding=\"4\" width=\"40%\"><colgroup><col styleCode=\"Lrule\"/><col styleCode=\"Rrule\"/></colgroup><tbody><tr><td styleCode=\"Lrule\"><content styleCode=\"bold\"><content styleCode=\"italics\">Active ingredient (per 15 mL)</content></content></td><td align=\"right\" styleCode=\"Rrule\" valign=\"top\"><content styleCode=\"bold\"><content styleCode=\"italics\">Purposes</content></content></td></tr><tr><td styleCode=\"Lrule\" valign=\"top\">Bismuth subsalicylate 262 mg</td><td align=\"right\" styleCode=\"Rrule\" valign=\"top\">Anti-diarrheal  Upset stomach reliever</td></tr></tbody></table>"
+  ],
+  "purpose": [
+    "Active ingredient (per 15 mL) Purposes Bismuth subsalicylate 262 mg Anti-diarrheal Upset stomach reliever"
+  ],
+  "purpose_table": [
+    "<table cellpadding=\"4\" width=\"40%\"><colgroup><col styleCode=\"Lrule\"/><col styleCode=\"Rrule\"/></colgroup><tbody><tr><td styleCode=\"Lrule\"><content styleCode=\"bold\"><content styleCode=\"italics\">Active ingredient (per 15 mL)</content></content></td><td align=\"right\" styleCode=\"Rrule\" valign=\"top\"><content styleCode=\"bold\"><content styleCode=\"italics\">Purposes</content></content></td></tr><tr><td styleCode=\"Lrule\" valign=\"top\">Bismuth subsalicylate 262 mg</td><td align=\"right\" styleCode=\"Rrule\" valign=\"top\">Anti-diarrheal  Upset stomach reliever</td></tr></tbody></table>"
+  ],
+  "indications_and_usage": [
+    "Uses relieves: traveler’s diarrhea diarrhea upset stomach due to overindulgence in food and drink, including: heartburn indigestion nausea gas belching fullness"
+  ],
+  "warnings": [
+    "Warnings"
+  ],
+  "spl_unclassified_section": [
+    "Reye's syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness. Allergy Alert: Contains salicylate. Do not take if you are allergic to salicylates (including aspirin) taking other salicylate products Do not use if you have an ulcer a bleeding problem bloody or black stool Ask a doctor before use if you have a sodium-restricted diet fever mucus in the stool Ask a doctor or pharmacist before use if you are taking any drug for diabetes gout arthritis anticoagulation (thinning the blood) When using this product a temporary, but harmless, darkening of the stool and/or tongue may occur Stop use and ask a doctor if symptoms get worse ringing in the ears or loss of hearing occurs diarrhea lasts more than 2 days If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.",
+    "Other Information each 15 mL dose cup contains: sodium 6 mg and salicylate 135mg store at room temperature 20º-25º C (68º-77º F)"
+  ],
+  "do_not_use": [
+    "Do not use if you have an ulcer a bleeding problem bloody or black stool"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have a sodium-restricted diet fever mucus in the stool",
+    "Ask a doctor or pharmacist before use if you are taking any drug for diabetes gout arthritis anticoagulation (thinning the blood)"
+  ],
+  "when_using": [
+    "When using this product a temporary, but harmless, darkening of the stool and/or tongue may occur"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if symptoms get worse ringing in the ears or loss of hearing occurs diarrhea lasts more than 2 days"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions shake well immediately before each use only use pre-measured dose cup adults and children 12 years of age and older: 1 dose (30 mL) every 1/2 hour to 1 hour as needed. do not exceed 8 doses (240 mL) in 24 hours use until diarrhea stops but not more than 2 days children under 12 years: ask a doctor drink plenty of clear fluids to help prevent dehydration caused by diarrhea"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients carboxymethylcellulose sodium, FD&C Red No. 40, flavor microcrystalline cellulose, purified water, sodium salicylate, sorbic acid, sucrose, xanthan gum"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel NEW IMPROVED TASTE! Kaopectate ® Bismuth Subsalicylate 262 MG • Anti-Diarrheal • Upset Stomach Reliever Diarrhea & Upset Stomach ✓ Begins controlling symptoms from the first dose ✓ Quickly relieves urgency, gas, and cramping ✓ Effective on diarrhea from bacteria, viruses, and other causes 11 fl oz (325mL) Peppermint Flavor 681PPT11KA0 F Kaopectate Peppermint 11 oz Do not use if inner seal is broken or missing Kramer Laboratories Bridgewater, NJ 08807 1-800-824-4894 Lot: Exp: PEEL CORNER TO READ COMPLETE DRUG FACTS AND INFORMATION 681PPT11KA0LB"
+  ],
+  "set_id": "0316f469-e9fa-47c3-bb20-bd4588b40bcc",
+  "id": "7661cb13-fcaa-4bbe-a803-8ecb666550d7",
+  "effective_time": "20251219",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M008"
+    ],
+    "brand_name": [
+      "Kaopectate Peppermint Flavor Anti Diarrheal"
+    ],
+    "generic_name": [
+      "BISMUTH SUBSALICYLATE"
+    ],
+    "manufacturer_name": [
+      "Kramer Laboratories"
+    ],
+    "product_ndc": [
+      "55505-199"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BISMUTH SUBSALICYLATE"
+    ],
+    "rxcui": [
+      "308762",
+      "642346"
+    ],
+    "spl_id": [
+      "7661cb13-fcaa-4bbe-a803-8ecb666550d7"
+    ],
+    "spl_set_id": [
+      "0316f469-e9fa-47c3-bb20-bd4588b40bcc"
+    ],
+    "package_ndc": [
+      "55505-199-36",
+      "55505-199-64"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "M0002611",
+      "N0000180183"
+    ],
+    "pharm_class_cs": [
+      "Bismuth [CS]"
+    ],
+    "pharm_class_epc": [
+      "Bismuth [EPC]"
+    ],
+    "unii": [
+      "62TEY51RR1"
+    ]
+  }
+}

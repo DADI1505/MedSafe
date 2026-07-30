@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Tungsten Sulphuratum Tungsten Sulphuratum TUNGSTEN DISULFIDE DISULFIDE ION SUCROSE Tungsten Sulphuratum Tungsten Sulphuratum TUNGSTEN DISULFIDE DISULFIDE ION SUCROSE Tungsten Sulphuratum Tungsten Sulphuratum TUNGSTEN DISULFIDE DISULFIDE ION SUCROSE Tungsten Sulphuratum Tungsten Sulphuratum TUNGSTEN DISULFIDE DISULFIDE ION SUCROSE Tungsten Sulphuratum Tungsten Sulphuratum TUNGSTEN DISULFIDE DISULFIDE ION SUCROSE Tungsten Sulphuratum Tungsten Sulphuratum TUNGSTEN DISULFIDE DISULFIDE ION SUCROSE Tungsten Sulphuratum Tungsten Sulphuratum TUNGSTEN DISULFIDE DISULFIDE ION SUCROSE Tungsten Sulphuratum Tungsten Sulphuratum TUNGSTEN DISULFIDE DISULFIDE ION SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Tungsten Sulphuratum 6C 5g Tungsten Sulphuratum 6C 30g Tungsten Sulphuratum 6C 100g Tungsten Sulphuratum 12C 5g Tungsten Sulphuratum 12C 30g Tungsten Sulphuratum 12C 100g Tungsten Sulphuratum 30C 1g Tungsten Sulphuratum 30C 5g Tungsten Sulphuratum 30C 30g Tungsten Sulphuratum 30C 100g Tungsten Sulphuratum 100C 1g Tungsten Sulphuratum 100C 5g Tungsten Sulphuratum 100C 30g Tungsten Sulphuratum 100C 100g Tungsten Sulphuratum 200C 1g Tungsten Sulphuratum 200C 5g Tungsten Sulphuratum 200C 30g Tungsten Sulphuratum 200C 100g Tungsten Sulphuratum 500C 1g Tungsten Sulphuratum 500C 5g Tungsten Sulphuratum 500C 30g Tungsten Sulphuratum 500C 100g Tungsten Sulphuratum 1M 1g Tungsten Sulphuratum 1M 5g Tungsten Sulphuratum 1M 30g Tungsten Sulphuratum 1M 100g Tungsten Sulphuratum LM1 30g"
+  ],
+  "set_id": "02e9bc35-4a24-4ef5-e063-6394a90a3e42",
+  "id": "02e9bc35-4a25-4ef5-e063-6394a90a3e42",
+  "effective_time": "20230814",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Tungsten Sulphuratum"
+    ],
+    "generic_name": [
+      "TUNGSTEN SULPHURATUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3704",
+      "37662-3707",
+      "37662-3708",
+      "37662-3709",
+      "37662-3705",
+      "37662-3710",
+      "37662-3706",
+      "37662-3711"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "TUNGSTEN DISULFIDE"
+    ],
+    "spl_id": [
+      "02e9bc35-4a25-4ef5-e063-6394a90a3e42"
+    ],
+    "spl_set_id": [
+      "02e9bc35-4a24-4ef5-e063-6394a90a3e42"
+    ],
+    "package_ndc": [
+      "37662-3704-1",
+      "37662-3704-2",
+      "37662-3704-3",
+      "37662-3707-1",
+      "37662-3707-2",
+      "37662-3707-3",
+      "37662-3707-4",
+      "37662-3708-1",
+      "37662-3708-2",
+      "37662-3708-3",
+      "37662-3708-4",
+      "37662-3709-1",
+      "37662-3709-2",
+      "37662-3709-3",
+      "37662-3709-4",
+      "37662-3705-1",
+      "37662-3705-2",
+      "37662-3705-3",
+      "37662-3710-1",
+      "37662-3710-2",
+      "37662-3710-3",
+      "37662-3710-4",
+      "37662-3706-1",
+      "37662-3706-2",
+      "37662-3706-3",
+      "37662-3706-4",
+      "37662-3711-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "6JHT6TE2T7"
+    ]
+  }
+}

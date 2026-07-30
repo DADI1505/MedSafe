@@ -1,0 +1,84 @@
+{
+  "spl_product_data_elements": [
+    "Lightning X POVIDONE IODINE WIPE POVIDONE IODINE WIPE POVIDONE-IODINE IODINE HYDROXYETHYL CELLULOSE (100 MPA.S AT 2%)"
+  ],
+  "dosage_and_administration": [
+    "dosage"
+  ],
+  "warnings": [
+    "warning"
+  ],
+  "inactive_ingredient": [
+    "inactive"
+  ],
+  "indications_and_usage": [
+    "indication"
+  ],
+  "keep_out_of_reach_of_children": [
+    "keep out of reach of children"
+  ],
+  "purpose": [
+    "purpose"
+  ],
+  "package_label_principal_display_panel": [
+    "package"
+  ],
+  "set_id": "04be4c2f-742b-7058-e063-6394a90a460d",
+  "id": "5132d07e-82ca-171a-e063-6394a90aa3b4",
+  "effective_time": "20260225",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Lightning X POVIDONE IODINE WIPE"
+    ],
+    "generic_name": [
+      "POVIDONE IODINE WIPE"
+    ],
+    "manufacturer_name": [
+      "Changzhou Maokang Medical Products Co., Ltd."
+    ],
+    "product_ndc": [
+      "59050-107"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "POVIDONE-IODINE"
+    ],
+    "rxcui": [
+      "797730"
+    ],
+    "spl_id": [
+      "5132d07e-82ca-171a-e063-6394a90aa3b4"
+    ],
+    "spl_set_id": [
+      "04be4c2f-742b-7058-e063-6394a90a460d"
+    ],
+    "package_ndc": [
+      "59050-107-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175486",
+      "M0011640"
+    ],
+    "pharm_class_epc": [
+      "Antiseptic [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Iodine [CS]"
+    ],
+    "unii": [
+      "85H0HZU99M"
+    ]
+  }
+}

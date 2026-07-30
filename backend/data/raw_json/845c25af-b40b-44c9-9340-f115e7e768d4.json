@@ -1,0 +1,100 @@
+{
+  "spl_product_data_elements": [
+    "Cold Flu Relief Berry Cold Flu Relief Berry PELARGONIUM SIDOIDES ROOT PELARGONIUM SIDOIDES ROOT ACONITUM NAPELLUS ACONITUM NAPELLUS EUCALYPTUS GLOBULUS LEAF EUCALYPTUS GLOBULUS LEAF BRYONIA ALBA ROOT BRYONIA ALBA ROOT EUPATORIUM PERFOLIATUM FLOWERING TOP EUPATORIUM PERFOLIATUM FLOWERING TOP GELSEMIUM SEMPERVIRENS ROOT GELSEMIUM SEMPERVIRENS ROOT PHOSPHORUS PHOSPHORUS IPECAC IPECAC ARONIA MELANOCARPA FRUIT JUICE CITRIC ACID MONOHYDRATE ALCOHOL GLYCERIN LACTOSE MONOHYDRATE MALTODEXTRIN WATER SORBITOL POTASSIUM SORBATE NATURAL BERRY FLAVOR"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Pelargonium sidoides 1X Aconitum napellus 4X Eucalyptus globulus 2X Bryonia 4X Eupatorium perfoliatum 6X Gelsemium sempervirens 4X Phosphorus 6X Ipecacuanha 3X"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredient Aronia Juice Citric Acid Ethyl Alcohol Glycerin Lactose Monohydrate Maltodextrin Natural Flavor Potassium Sorbate Purified Water Sorbitol"
+  ],
+  "dosage_and_administration": [
+    "Dosage & Administration Directions For best results, use at the first sign of symptoms and continue to use for an additional 48 hours after symptoms cease. Shake well before each use. Use only with enclosed dosage cup. Adults & children 13 years of age and older: Take 1½ teaspoon (tsp) (7.5 mL) three times daily. Children 6 to 12 years of age: Take 1 teaspoon (5 mL) three times daily. Children under 6 years of age: consult a doctor."
+  ],
+  "purpose": [
+    "Purpose Temporarily relieves flu symptoms. Shortens duration and reduces severity of symptoms associated with the common cold and throat/nasal/bronchial irritations: chills/fever, chest congestion, cough, headache, hoarseness, body aches, sore throat, sneezing/runny nose, nasal congestion."
+  ],
+  "indications_and_usage": [
+    "Indications & Usage Temporarily relieves flu symptoms. Shortens duration and reduces severity of symptoms associated with the common cold and throat/nasal/bronchial irritations: chills/fever, chest congestion, cough, headache, hoarseness, body aches, sore throat, sneezing/runny nose, nasal congestion."
+  ],
+  "warnings": [
+    "Warnings Sore throat warning: if sore throat is severe, persists more than 2 days, is accompanied or followed by a fever, headache, rash, nausea, or vomiting, consult a doctor promptly."
+  ],
+  "ask_doctor": [
+    "Ask Doctor Ask a doctor before use if you have a persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema, a cough that is accompanied by excessive phlegm (mucus), been taking any medications, an allergy to plants of the Geraniaceae family."
+  ],
+  "stop_use": [
+    "Stop Use Stop use and ask a doctor if new symptoms occur, symptoms get worse or last more than 7 days, fever worsens or lasts more than 3 days, cough lasts more than 7 days or occurs with rash or persistent headache. These could be signs of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "Pregnancy or Breast Feeding If pregnant or breast-feeding, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Keep out of reach of children."
+  ],
+  "overdosage": [
+    "Overdose In case of overdose, seek medical help or contact a Poison Control Center right away."
+  ],
+  "package_label_principal_display_panel": [
+    "LH15148_B03_Umcka_ColdFluRelief_Syrup_Berry_4oz_LBL_FNL.jpg LHBN15148_B04_Umcka_ColdFluRelief_Syrup_Berry_4oz_CTN_FNL.jpg"
+  ],
+  "set_id": "03241f9f-8188-48ed-9177-42ef1e6c0fd6",
+  "id": "845c25af-b40b-44c9-9340-f115e7e768d4",
+  "effective_time": "20250910",
+  "version": "4",
+  "openfda": {
+    "brand_name": [
+      "Cold Flu Relief Berry"
+    ],
+    "generic_name": [
+      "COLD FLU RELIEF BERRY"
+    ],
+    "manufacturer_name": [
+      "Schwabe North America"
+    ],
+    "product_ndc": [
+      "53499-0148"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PELARGONIUM SIDOIDES ROOT",
+      "ACONITUM NAPELLUS",
+      "EUCALYPTUS GLOBULUS LEAF",
+      "BRYONIA ALBA ROOT",
+      "EUPATORIUM PERFOLIATUM FLOWERING TOP",
+      "GELSEMIUM SEMPERVIRENS ROOT",
+      "PHOSPHORUS",
+      "IPECAC"
+    ],
+    "spl_id": [
+      "845c25af-b40b-44c9-9340-f115e7e768d4"
+    ],
+    "spl_set_id": [
+      "03241f9f-8188-48ed-9177-42ef1e6c0fd6"
+    ],
+    "package_ndc": [
+      "53499-0148-5"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0033674151488"
+    ],
+    "unii": [
+      "H6J53HEX8E",
+      "U0NQ8555JD",
+      "S546YLW6E6",
+      "T7J046YI2B",
+      "1W0775VX6E",
+      "639KR60Q1Q",
+      "27YLU75U4W",
+      "62I3C8233L"
+    ]
+  }
+}

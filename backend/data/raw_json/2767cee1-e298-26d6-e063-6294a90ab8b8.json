@@ -1,0 +1,98 @@
+{
+  "spl_product_data_elements": [
+    "Dextromethorphan HBr 15 mg Dextromethorphan HBr FD&C RED NO. 40 FD&C BLUE NO. 1 GELATIN GLYCERIN POLYETHYLENE GLYCOL 400 POVIDONE WATER PROPYLENE GLYCOL SORBITOL DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN CLEAR OVAL PC6"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each softgel) Dextromethorphan HBr, USP 15 mg"
+  ],
+  "purpose": [
+    "Purpose Cough suppressant"
+  ],
+  "indications_and_usage": [
+    "Use temporarily relieves cough due to minor throat and bronchial irritation as may occur with a cold"
+  ],
+  "warnings": [
+    "Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if the user has a cough that occurs with too much phlegm (mucus) a cough that lasts or is chronic as occurs with smoking, asthma, or emphysema Stop use and ask a doctor if cough lasts for more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if the user has a cough that occurs with too much phlegm (mucus) a cough that lasts or is chronic as occurs with smoking, asthma, or emphysema"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if cough lasts for more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions do not take more than 8 capsules in any 24-hour period this adult product is not intended for use in children under 12 years of age adults and children 12 years of age and over take 2 capsules every 6 to 8 hours, as needed children under 12 years of age do not use"
+  ],
+  "dosage_and_administration_table": [
+    "<table border=\"1\"><tbody><tr><td><paragraph>adults and children 12 years of age and over</paragraph></td><td><paragraph> take 2 capsules every 6 to 8 hours, as needed</paragraph></td></tr><tr><td><paragraph>children under 12 years of age</paragraph></td><td><paragraph> do not use</paragraph></td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information store at 20-25°C (68-77°F) avoid excessive heat above 40°C (104°F) protect from light"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients FD&C blue #1, FD&C Red #40, gelatin, glycerin, polyethylene glycol, povidone, propylene glycol, purified water, sorbitol special, and white edible ink Manufactured by: Humanwell PuraCap Pharmaceutical (Wuhan) Ltd. Wuhan, Hubei 430206, China"
+  ],
+  "questions": [
+    "Questions or comments? Call toll free 1-855-215-8180"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - Shipping Label Dextromethorphan HBr Capsules, 15 mg Quantity : 12000 Capsules NDC No. : 53345-011-01 IMPORTANT: Inspect immediate upon receipt. This is a bulk shipment intended for further processing only. Protect from heat, humidity, and light. Do not refrigerate. CAUTION : \"FOR FURTHER MANUFACTURING, PROCESSING OR REPACKING\" Shipping Label"
+  ],
+  "set_id": "028b025e-2dde-4bef-ba7b-61774e855b4b",
+  "id": "2767cee1-e298-26d6-e063-6294a90ab8b8",
+  "effective_time": "20241121",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Dextromethorphan HBr 15 mg"
+    ],
+    "generic_name": [
+      "DEXTROMETHORPHAN HBR"
+    ],
+    "manufacturer_name": [
+      "Humanwell PuraCap Pharmaceutical (Wuhan), Ltd."
+    ],
+    "product_ndc": [
+      "53345-011"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DEXTROMETHORPHAN HYDROBROMIDE"
+    ],
+    "rxcui": [
+      "1090487"
+    ],
+    "spl_id": [
+      "2767cee1-e298-26d6-e063-6294a90ab8b8"
+    ],
+    "spl_set_id": [
+      "028b025e-2dde-4bef-ba7b-61774e855b4b"
+    ],
+    "package_ndc": [
+      "53345-011-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "9D2RTI9KYH"
+    ]
+  }
+}

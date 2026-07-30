@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Witch Hazel Witch Hazel WITCH HAZEL WITCH HAZEL ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Active ingredient Witch Hazel 86%"
+  ],
+  "purpose": [
+    "Purpose Astringent"
+  ],
+  "indications_and_usage": [
+    "Uses Relieves minor skin irritation due to: insect bites minor cuts minor scrapes"
+  ],
+  "warnings": [
+    "Warnings For external use only. Avoid spraying in eyes. Contents under pressure. Do not puncture or incinerate. Do not store at temperature above 120°F. Keep out of the reach of children. Use only as directed. Intentional misuse by deliberately concentrating and inhaling the contents can be harmful or fatal. When using this product avoid contact with the eyes. If contact occurs rinse thoroughly with water. Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "safe_handling_warning": [
+    "Avoid spraying in eyes. Contents under pressure. Do not puncture or incinerate. Do not store at temperature above 120°F. Keep out of the reach of children. Use only as directed. Intentional misuse by deliberately concentrating and inhaling the contents can be harmful or fatal."
+  ],
+  "when_using": [
+    "When using this product avoid contact with the eyes. If contact occurs rinse thoroughly with water."
+  ],
+  "ask_doctor": [
+    "Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply as often as necessary to apply to face, moisten cotton ball or cleansing pad and gently wipe skin"
+  ],
+  "other_safety_information": [
+    "Other information store at room temperature"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredient alcohol (14%)"
+  ],
+  "questions": [
+    "Questions? Call 1-866-964-0939"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel meijer witch hazel CONTINUOUS Spray Witch Hazel 86%/Astringent Cleanses & Soothes irritated, inflamed, oily, or blemished skin Natural astringent for face & body NET WT. 6.0 0Z. (170 g) image 1"
+  ],
+  "set_id": "03f23b04-e7f7-49b7-e063-6294a90ad58a",
+  "id": "42784a86-d834-e49c-e063-6394a90ac9ac",
+  "effective_time": "20251031",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Witch Hazel"
+    ],
+    "generic_name": [
+      "WITCH HAZEL"
+    ],
+    "manufacturer_name": [
+      "Meijer Distribution Inc"
+    ],
+    "product_ndc": [
+      "79481-0617"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "WITCH HAZEL"
+    ],
+    "rxcui": [
+      "1987674"
+    ],
+    "spl_id": [
+      "42784a86-d834-e49c-e063-6394a90ac9ac"
+    ],
+    "spl_set_id": [
+      "03f23b04-e7f7-49b7-e063-6294a90ad58a"
+    ],
+    "package_ndc": [
+      "79481-0617-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "101I4J0U34"
+    ]
+  }
+}

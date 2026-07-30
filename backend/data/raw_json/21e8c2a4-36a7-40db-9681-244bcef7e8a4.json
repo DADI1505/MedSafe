@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Hand Recovery Alcohol ALCOHOL ALCOHOL Water"
+  ],
+  "active_ingredient": [
+    "Ethanol 70% v/v"
+  ],
+  "purpose": [
+    "Antimicrobial"
+  ],
+  "warnings": [
+    "For external use only. Flammable. Keep away from children."
+  ],
+  "when_using": [
+    "Do not use in or near eyes. In case of eye contact, rinse thoroughly with water."
+  ],
+  "stop_use": [
+    "If redness or irritation develop and persist for more than 72 hours."
+  ],
+  "keep_out_of_reach_of_children": [
+    "If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Apply lotion directly onto body and rub with hands until dry. Product may be used on all skin surfaces. Children under 6 years of age should be supervised when using this product."
+  ],
+  "indications_and_usage": [
+    "Apply lotion directly onto body and rub with hands until dry. Product may be used on all skin surfaces. Children under 6 years of age should be supervised when using this product."
+  ],
+  "other_safety_information": [
+    "Do not store above 110oF (43oC). For additional information, see Safety Data Sheet (SDS)."
+  ],
+  "inactive_ingredient": [
+    "Glycereth-18 (and) glycereth-18 ethylhexanoate, PEG-10 dimethicone, PEG-75 lanolin, ethylene glycol distearate, acrylate crosspolymer, 2-amino-2-methyl-1-propanol, water (aqua), PEG 1450, cocamide MEA"
+  ],
+  "questions": [
+    "Call 1-888-300-1225, Monday through Friday 8:00AM to 5:00PM EST/EDT."
+  ],
+  "package_label_principal_display_panel": [
+    "image description"
+  ],
+  "set_id": "074a760f-9031-40c1-9867-95ef0345418d",
+  "id": "21e8c2a4-36a7-40db-9681-244bcef7e8a4",
+  "effective_time": "20250108",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "part333A"
+    ],
+    "brand_name": [
+      "Hand Recovery"
+    ],
+    "generic_name": [
+      "ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Derma Glove"
+    ],
+    "product_ndc": [
+      "70741-007"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "1809903"
+    ],
+    "spl_id": [
+      "21e8c2a4-36a7-40db-9681-244bcef7e8a4"
+    ],
+    "spl_set_id": [
+      "074a760f-9031-40c1-9867-95ef0345418d"
+    ],
+    "package_ndc": [
+      "70741-007-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

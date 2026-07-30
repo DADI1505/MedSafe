@@ -1,0 +1,95 @@
+{
+  "spl_product_data_elements": [
+    "Lancome Paris High Resolution Refill 3X Triple Action Renewal Anti Wrinkle Broad Spectrum SPF 15 Sunscreen Avobenzone, Octisalate and Octocrylene Avobenzone Avobenzone Octisalate Octisalate Octocrylene Octocrylene WATER GLYCERIN DIMETHICONE POLYTETRAFLUOROETHYLENE OCTYLDODECANOL ALCOHOL ISOPROPYL ISOSTEARATE ARACHIDYL ALCOHOL .ALPHA.-TOCOPHEROL ACETATE, D- SODIUM CHLORIDE HYALURONATE SODIUM PHENOXYETHANOL ACETYL TRIFLUOROMETHYLPHENYL VALYLGLYCINE, DL- ADENOSINE PEG-100 STEARATE DOCOSANOL POLYSORBATE 80 CELLABURATE (MW 12000, 32% BUTYRYL, 18% ACETYL) POLYVINYL ALCOHOL (100000 MW) DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (HARD PARTICLE) DIMETHICONOL (100000 CST) LIMONENE, (+)- MANGANESE GLUCONATE ION LINALOOL, (+/-)- BENZYL ALCOHOL ISOHEXADECANE CAPRYLOYL SALICYLIC ACID ISOMETHYL-.ALPHA.-IONONE CARBOMER HOMOPOLYMER TYPE B (ALLYL SUCROSE CROSSLINKED) GERANIOL DISODIUM STEAROYL GLUTAMATE EDETATE DISODIUM CETYL ALCOHOL CETOSTEARYL ALCOHOL METHYLPARABEN CETEARYL GLUCOSIDE BUTYLPHENYL METHYLPROPIONAL .BETA.-CITRONELLOL, (R)- BUTYLENE GLYCOL COUMARIN"
+  ],
+  "active_ingredient": [
+    "Active ingredients Avobenzone 3% Octisalate 5% Octocrylene 3%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses - helps prevent sunburn - if used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin"
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions For sunscreen use: ● apply generously and evenly 15 minutes before sun exposure ● reapply at least every 2 hours ● use a water resistant sunscreen if swimming or sweating ● Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: ● limit time in the sun, especially from 10 a.m. – 2 p.m. ● wear long-sleeved shirts, pants, hats, and sunglasses ● children under 6 months of age: Ask a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information protect the product in this container from excessive heat and direct sun"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, glycerin, dimethicone, PTFE, octyldodecanol, alcohol denat., isopropyl isostearate, methylsilanol/silicate crosspolymer, arachidyl alcohol, tocopheryl acetate, medicago sativa (alfalfa) extract, hydrolyzed rice protein, sodium chloride, sodium hyaluronate, phenoxyethanol, acetyl trifluoromethylphenyl valylglycine, adenosine, PEG-100 stearate, behenyl alcohol, polysorbate 80, silica, cellulose acetate butyrate, polyphosphorylcholine glycol acrylate, polyvinyl alcohol, dimethicone/vinyl dimethicone crosspolymer, ammonium acryloyldimethyltaurate/steareth-25 methacrylate crosspolymer, dimethiconol, limonene, ammonium polyacryloyldimethyl taurate, manganese gluconate, linalool, benzyl alcohol, isohexadecane, capryloyl salicylic acid, alpha-isomethyl ionone, acrylamide/sodium acryloyldimethyltaurate copolymer, carbomer, geraniol, disodium stearoyl glutamate, disodium EDTA, cetyl alcohol, cetearyl alcohol, methylparaen, cetearyl glucoside, butylphenyl methylpropional, methylisothiazolinone, citronellol, butylene glycol, coumarin, fragrance"
+  ],
+  "questions": [
+    "Questions or comments? 1-800-LANCOME (1-800-526-2663) Monday - Friday (9 a.m. - 5 p.m. EST)"
+  ],
+  "package_label_principal_display_panel": [
+    "image of a label"
+  ],
+  "set_id": "02c51b56-e39a-4b3b-88c6-b7dc9c165f7e",
+  "id": "801a726b-77b7-4658-b15d-d95648ac4085",
+  "effective_time": "20231230",
+  "version": "12",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Lancome Paris High Resolution Refill 3X Triple Action Renewal Anti Wrinkle Broad Spectrum SPF 15 Sunscreen"
+    ],
+    "generic_name": [
+      "AVOBENZONE, OCTISALATE AND OCTOCRYLENE"
+    ],
+    "manufacturer_name": [
+      "L'Oreal USA Products Inc"
+    ],
+    "product_ndc": [
+      "49967-502"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "AVOBENZONE",
+      "OCTISALATE",
+      "OCTOCRYLENE"
+    ],
+    "spl_id": [
+      "801a726b-77b7-4658-b15d-d95648ac4085"
+    ],
+    "spl_set_id": [
+      "02c51b56-e39a-4b3b-88c6-b7dc9c165f7e"
+    ],
+    "package_ndc": [
+      "49967-502-01",
+      "49967-502-02",
+      "49967-502-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "G63QQF2NOX",
+      "4X49Y0596W",
+      "5A68WGF6WM"
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "spl_product_data_elements": [
+    "Smart Care Hot Wheels HAND SANITIZER Ethyl Alcohol ALCOHOL ALCOHOL ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER (60000 MPA.S) ALOE VERA LEAF AMINOMETHYLPROPANOL DENATONIUM BENZOATE GLYCERIN .ALPHA.-TOCOPHEROL ACETATE WATER"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "KILLS 99% OF GERMS * *Effective at killing 99.9% Escherichia coli, Staphylococcus aureus. HOTWHEELS.COM HOT WHEELS TM and associated trademarks and trade dress are owned by, and used under license from, Mattel. ©2024 Mattel. DESIGNED IN U.S.A. MANUFACTURED IN CHINA Smart Care ® WWW.SMARTCAREUS.COM 1-909-434-0911 INTERNATIONAL PATENTS, COPYRIGHTS AND TRADEMARKS GRANTED OR PENDING WORLDWIDE DISTRIBUTED BY ASHTEL STUDIOS INC. ONTARIO, CALIFORNIA 91761"
+  ],
+  "active_ingredient": [
+    "Active ingredient Ethyl Alcohol 70% v/v"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Uses Decreases bacteria on skin."
+  ],
+  "warnings": [
+    "Warnings: For external use only Flammability. Keep away from fire or flame. Do not use • If you are allergic to any of the ingredients. When using this product • Do not get into eyes. If contact occurs, rinse thoroughly with water. Stop use and ask a doctor • If irritation or rash develops and continues for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions • Adults and children 6 years and older Spray onto hands and rub together until dry. Recommended for repeat use. • Children under 6 years of age Should be supervised when using this product."
+  ],
+  "storage_and_handling": [
+    "Other Information • Store between 15-30C (59-86F) • Avoid freezing and excessive heat above 40C (104F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aloe Barbadensis Gel, Aminomethyl Propanol, Denatonium Benzoate, Fragrance, Glycerin, Tocopheryl Acetate, Water."
+  ],
+  "questions": [
+    "Questions or comments? Call toll free 1-877-274-8358"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging HotWheelsHandSanitizerSpray"
+  ],
+  "set_id": "046d534c-1bde-439c-9a90-8713aaada1a1",
+  "id": "4fefd6bd-35d5-4cbe-a933-572c5d5c6532",
+  "effective_time": "20250225",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Smart Care Hot Wheels HAND SANITIZER"
+    ],
+    "generic_name": [
+      "ETHYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Ashtel Studios, Inc."
+    ],
+    "product_ndc": [
+      "70108-085"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "1041849"
+    ],
+    "spl_id": [
+      "4fefd6bd-35d5-4cbe-a933-572c5d5c6532"
+    ],
+    "spl_set_id": [
+      "046d534c-1bde-439c-9a90-8713aaada1a1"
+    ],
+    "package_ndc": [
+      "70108-085-01",
+      "70108-085-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0810147882953"
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

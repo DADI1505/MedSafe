@@ -1,0 +1,110 @@
+{
+  "spl_product_data_elements": [
+    "ValuMeds 24-Hour Allergy Relief FEXOFENADINE HYDROCHLORIDE SILICON DIOXIDE CROSCARMELLOSE SODIUM HYPROMELLOSE, UNSPECIFIED FERROSOFERRIC OXIDE FERRIC OXIDE RED FERRIC OXIDE YELLOW LACTOSE MONOHYDRATE POLYETHYLENE GLYCOL, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE TITANIUM DIOXIDE FEXOFENADINE HYDROCHLORIDE FEXOFENADINE Peach Color G6"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information safety sealed: do not use if imprinted foil under bottle cap is opened or torn store between 20° and 25°C (68° and 77°F) protect from excessive moisture"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each tablet) Fexofenadine HCl USP, 180 mg Purpose Antihistamine"
+  ],
+  "purpose": [
+    "Purpose Antihistamine"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes sneezing itching of the nose or throat"
+  ],
+  "warnings": [
+    "Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed do not take at the same time as aluminum or magnesium antacids do not take with fruit juices (see Directions) Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding: ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use if you have ever had an allergic reaction to this product or any of its ingredients"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have kidney disease. Your doctor should determine if you need a different dose."
+  ],
+  "when_using": [
+    "When using this product do not take more than directed do not take at the same time as aluminum or magnesium antacids do not take with fruit juices (see Directions)"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding: ask a health professional before use"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 6 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"100%\"><tbody><tr><td> adults and children 12 years of age and over</td><td>take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours</td></tr><tr><td>children under 6 years   of age </td><td>do not use</td></tr><tr><td>adults 65 years of age   and older </td><td>ask a doctor </td></tr><tr><td> consumers with kidney disease </td><td>ask a doctor </td></tr></tbody></table>"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients colloidal silicon dioxide, croscarmellose sodium, hypromellose, iron oxide black, iron oxide red, iron oxide yellow, lactose monohydrate, macrogol, magnesium stearate, microcrystalline cellulose, pregelatinized starch, titanium dioxide"
+  ],
+  "questions": [
+    "Questions? call 1-908-242-6108 Mon-Fri 8:00 AM to 5:00 PM EST"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: ​82725-1002-1 Label 1 Label chart Label",
+    "Package Labeling: 82725-1002-2 Label 2.1 Label 2",
+    "Package Labeling: 82725-1002-3 Label"
+  ],
+  "set_id": "036f8eaa-7eb9-46f4-b42e-3c8c7e49e450",
+  "id": "41db4a75-4edb-8ee4-e063-6294a90aa7bd",
+  "effective_time": "20251023",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "ANDA211075"
+    ],
+    "brand_name": [
+      "ValuMeds 24-Hour Allergy Relief"
+    ],
+    "generic_name": [
+      "FEXOFENADINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Cabinet Health P.B.C."
+    ],
+    "product_ndc": [
+      "82725-1002"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "FEXOFENADINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "997420"
+    ],
+    "spl_id": [
+      "41db4a75-4edb-8ee4-e063-6294a90aa7bd"
+    ],
+    "spl_set_id": [
+      "036f8eaa-7eb9-46f4-b42e-3c8c7e49e450"
+    ],
+    "package_ndc": [
+      "82725-1002-1",
+      "82725-1002-2",
+      "82725-1002-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0040232689246",
+      "0850069928087"
+    ],
+    "unii": [
+      "2S068B75ZU"
+    ]
+  }
+}

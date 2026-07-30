@@ -1,0 +1,94 @@
+{
+  "spl_product_data_elements": [
+    "BerbereX Wound Cleanser Benzethonium Chloride ALLANTOIN ALLANTOIN BENZETHONIUM CHLORIDE BENZETHONIUM water ALCOHOL ALOE VERA WHOLE HYDRASTIS CANADENSIS WHOLE PANAX QUINQUEFOLIUS WHOLE hydrogen peroxide"
+  ],
+  "active_ingredient": [
+    "Active Ingredient/Purpose Allantoin 0.5%........................Skin Protectant Benzethonium Chloride 0.1%............Antiseptic Uses helps protect skin and supports healing of minor cuts, scrapes, burns and wounds, including pressure sores, diabetic ulcers, cracked skin and lips topical antiseptic to help decrease the risk of skin infections"
+  ],
+  "purpose": [
+    "Uses helps protect skin and supports healing of minor cuts, scrapes, burns and wounds, including pressure sores, diabetic ulcers, cracked skin and lips topical antiseptic to help decrease the risk of skin infections"
+  ],
+  "warnings": [
+    "Warnings For external use only."
+  ],
+  "indications_and_usage": [
+    "Do not use in large quantities, particularly over raw surfaces or blistered areas"
+  ],
+  "ask_doctor": [
+    "Ask doctor before use if you have deep or puncture wounds animal bites serious burns"
+  ],
+  "stop_use": [
+    "Stop use and ask doctor if condition worsens symptons persist for more than 7 days or clear up and occur again within a few days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately"
+  ],
+  "dosage_and_administration": [
+    "Directions: Adults and children 2 years of age and older: use to clean minor cut, scrapes, and burns by thoroughly flushing the affected area let air dry cover with adhesive bandage or sterile gauze apply a small amount of this product on the area 1 to 3 times daily Children under 2 years of age: do not use, consult a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients: Aloe barbadensis Mill, Ethanol, Hydrastis canadensis L., Hydrogen Peroxide, Panax quinquefolis L., Water"
+  ],
+  "package_label_principal_display_panel": [
+    "4oz label",
+    "8oz label",
+    "16oz label"
+  ],
+  "set_id": "08b28f52-21fc-4694-a163-91c8193b4008",
+  "id": "d3e2c5a1-5f63-4c96-8fbe-1ba6c8c5d93d",
+  "effective_time": "20250530",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "BerbereX Wound Cleanser"
+    ],
+    "generic_name": [
+      "BENZETHONIUM CHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Cosco International, Inc."
+    ],
+    "product_ndc": [
+      "52261-0500"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALLANTOIN",
+      "BENZETHONIUM CHLORIDE"
+    ],
+    "rxcui": [
+      "1437628",
+      "1487627"
+    ],
+    "spl_id": [
+      "d3e2c5a1-5f63-4c96-8fbe-1ba6c8c5d93d"
+    ],
+    "spl_set_id": [
+      "08b28f52-21fc-4694-a163-91c8193b4008"
+    ],
+    "package_ndc": [
+      "52261-0500-1",
+      "52261-0500-2",
+      "52261-0500-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0799475062131",
+      "0799475062148"
+    ],
+    "unii": [
+      "344S277G0Z",
+      "PH41D05744"
+    ]
+  }
+}

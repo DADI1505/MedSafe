@@ -1,0 +1,95 @@
+{
+  "spl_product_data_elements": [
+    "Soothe Chewable Citric Acid SUCROSE SORBITOL GELATIN .DELTA.8-TETRAHYDROCANNABINOL, (6AS-CIS)- POTASSIUM SORBATE SPIRULINA PLATENSIS CORN SYRUP WATER CITRIC ACID MONOHYDRATE ANHYDROUS CITRIC ACID"
+  ],
+  "active_ingredient": [
+    "Active ingredients (in each chewable) Citric Acid 75mg Purpose Antacid"
+  ],
+  "purpose": [
+    "Purpose Antacid"
+  ],
+  "indications_and_usage": [
+    "Uses For the relief of Heartburn, acid indigestion, and upset stomach associated with these symptoms."
+  ],
+  "warnings": [
+    "Warnings Do not take more than 4 chewables in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks except under the advice and supervision of a physician Do not use Do not take more than 4 chewables in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks except under the advice and supervision of a physician Ask a doctor before use if you are Presently taking a prescription drug, Antacids may interact with certain prescription drugs Stop using and ask a doctor if Presently taking a prescription drug, Antacids may interact with certain prescription drugs If pregnant or breast-feeding consult a health professional before use Keep out of reach of children In case of overdose seek medical help or contact a poison control center right away Keep out of reach of children In case of overdose, seek medical help or contact a poison control center right away"
+  ],
+  "do_not_use": [
+    "Do not use Do not take more than 4 chewables in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks except under the advice and supervision of a physician"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you are Presently taking a prescription drug, Antacids may interact with certain prescription drugs"
+  ],
+  "stop_use": [
+    "Stop using and ask a doctor if Presently taking a prescription drug, Antacids may interact with certain prescription drugs"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding consult a health professional before use Keep out of reach of children In case of overdose seek medical help or contact a poison control center right away Keep out of reach of children In case of overdose, seek medical help or contact a poison control center right away"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children In case of overdose seek medical help or contact a poison control center right away Keep out of reach of children In case of overdose, seek medical help or contact a poison control center right away"
+  ],
+  "overdosage": [
+    "Keep out of reach of children In case of overdose, seek medical help or contact a poison control center right away"
+  ],
+  "dosage_and_administration": [
+    "Directions Adults 18 years of age and over: take up 1 chewable and repeat every 6 to 8 hours or as directed by a physician Do not swallow whole"
+  ],
+  "other_safety_information": [
+    "Other information Store at 68-77 degrees F Avoid direct sunlight"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Artificial flavors, Gelatin, Delta 8 Tetrahydrocannabinol, Light corn syrup, Potassium Sorbate, Sorbitol, Spirulina platensis powder, Sugar, Water."
+  ],
+  "package_label_principal_display_panel": [
+    "bag label"
+  ],
+  "set_id": "04a27a71-b7b2-12aa-e063-6294a90a312f",
+  "id": "2bca3c4b-7fc3-7ded-e063-6294a90ae46d",
+  "effective_time": "20250115",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M001"
+    ],
+    "brand_name": [
+      "Soothe Chewable"
+    ],
+    "generic_name": [
+      "CITRIC ACID"
+    ],
+    "manufacturer_name": [
+      "Carolina Cannabis Creations LLC"
+    ],
+    "product_ndc": [
+      "82876-840"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CITRIC ACID MONOHYDRATE"
+    ],
+    "spl_id": [
+      "2bca3c4b-7fc3-7ded-e063-6294a90ae46d"
+    ],
+    "spl_set_id": [
+      "04a27a71-b7b2-12aa-e063-6294a90a312f"
+    ],
+    "package_ndc": [
+      "82876-840-20"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0850024328389"
+    ],
+    "unii": [
+      "2968PHW8QP"
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "spl_product_data_elements": [
+    "Josie Maran Argan Daily Moisturizer SPF47 Zinc Oxide, Titanium Dioxide WATER CYCLOMETHICONE 5 ETHYLHEXYL PALMITATE MEDIUM-CHAIN TRIGLYCERIDES POLYGLYCERYL-6 DIOLEATE POLYSILICONE-15 ARGAN OIL GLYCERIN COCO-CAPRYLATE/CAPRATE YELLOW WAX PHENOXYETHANOL POLYHYDROXYSTEARIC ACID (2300 MW) METHICONE (20 CST) ALUMINUM OXIDE .ALPHA.-TOCOPHEROL ACETATE SODIUM CHLORIDE TRIETHOXYCAPRYLYLSILANE POLYGLYCERYL-10 LAURATE APRICOT LEVOMENOL JOJOBA OIL DIMETHICONE ALOE VERA LEAF LAURETH-12 LINALOOL, (+/-)- ETHYLHEXYLGLYCERIN LIMONENE, (+/-)- GREEN TEA LEAF .ALPHA.-AMYLCINNAMALDEHYDE POTASSIUM SORBATE SODIUM BENZOATE CITRIC ACID MONOHYDRATE ZINC OXIDE ZINC OXIDE TITANIUM DIOXIDE TITANIUM DIOXIDE"
+  ],
+  "boxed_warning": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Zinc Oxide 6.4%** Titanium Dioxide 5.1%**"
+  ],
+  "purpose": [
+    "Purpose Sunscreen Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses · helps prevent sunburn · if used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "warnings_and_cautions": [
+    "Warnings For external use only Do not use on damaged or broken skin. Stop use and ask a doctor if rash occurs. When using this product · keep out of eyes · rinse with water to remove Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "instructions_for_use": [
+    "Directions: • apply liberally 15 minutes before sun exposure • use a water resistant sunscreen if swimming or sweating • reapply at least every 2 hours • children under 6 months: Ask a doctor"
+  ],
+  "when_using": [
+    "Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease the risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: • Limit time in the sun, especially from 10am - 2pm. • Wear long-sleeve shirts, pants, hats, and sunglasses"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Aqua (Water)**, Ethylhexyl Palmitate, Caprylic/Capric Triglyceride**, Aloe Barbadensis Leaf Juice*, Polyglyceryl-6 Polyricinoleate**, Cyclopentasiloxane, Polysilicone-11, Argania Spinosa (Argan) Kernel Oil**, Glycerin**, Cera Alba (Beeswax)*, Coco-Caprylate/Caprate, Phenoxyethanol, Polyhydroxystearic Acid, Methicone, Alumina, Tocopheryl Acetate, Sodium Chloride**, Triethoxycaprylylsilane, Polyglyceryl-10 Laurate, Parfum (Fragrance)**, Bisabolol, Dimethicone, Simmondsia Chinensis (Jojoba) Seed Oil*, Laureth-12, Ethylhexylglycerin, Camellia Sinensis (Green Tea) Leaf Extract*, Citric Acid**, Potassium Sorbate**, Sodium Benzoate**. *ORGANIC **NATURAL"
+  ],
+  "other_safety_information": [
+    "Other Information: · Protect this product from excessive heat and direct sun."
+  ],
+  "dosage_and_administration": [
+    "Apply as needed"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children"
+  ],
+  "warnings": [
+    "For external use only Do not use on damaged or broken skin When using this product, keep out of eyes"
+  ],
+  "package_label_principal_display_panel": [
+    "Principle Display Panel \\ Image Components 15 ml carton 15 ml label 120 ml carton 60 ml carton 5 ml carton 5 ml label 120 ml label 60 ml label"
+  ],
+  "set_id": "027821e6-db7d-4c03-956a-00313488ebc7",
+  "id": "f23abcad-41ef-193e-e053-2a95a90a0ffd",
+  "effective_time": "20230114",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Josie Maran Argan Daily Moisturizer SPF47"
+    ],
+    "generic_name": [
+      "ZINC OXIDE, TITANIUM DIOXIDE"
+    ],
+    "manufacturer_name": [
+      "Autumn Harp, Inc."
+    ],
+    "product_ndc": [
+      "51514-0332"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE",
+      "TITANIUM DIOXIDE"
+    ],
+    "spl_id": [
+      "f23abcad-41ef-193e-e053-2a95a90a0ffd"
+    ],
+    "spl_set_id": [
+      "027821e6-db7d-4c03-956a-00313488ebc7"
+    ],
+    "package_ndc": [
+      "51514-0332-1",
+      "51514-0332-2",
+      "51514-0332-3",
+      "51514-0332-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z",
+      "15FIX9V2JP"
+    ]
+  }
+}

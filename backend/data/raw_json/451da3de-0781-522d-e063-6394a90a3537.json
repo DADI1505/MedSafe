@@ -1,0 +1,107 @@
+{
+  "spl_product_data_elements": [
+    "Childrens Mucus Relief Chest Congestion Guaifenesin ANHYDROUS CITRIC ACID EDETATE DISODIUM FD&C BLUE NO. 1 FD&C RED NO. 40 POTASSIUM CITRATE PROPYLENE GLYCOL WATER SODIUM BENZOATE SORBITOL SUCRALOSE XANTHAN GUM GUAIFENESIN GUAIFENESIN"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each 5 mL) Guaifenesin, USP 100 mg"
+  ],
+  "purpose": [
+    "Purpose Expectorant"
+  ],
+  "indications_and_usage": [
+    "Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive"
+  ],
+  "warnings": [
+    "Warnings Ask a doctor before use if the child has cough that occurs with too much phlegm (mucus) persistent or chronic cough such as occurs with asthma Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious illness. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if the child has cough that occurs with too much phlegm (mucus) persistent or chronic cough such as occurs with asthma"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious illness."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions do not take more than 6 doses in any 24-hour period measure only with dosing cup provided do not use dosing cup with other products mL = milliliter Age Dose children 6 years to under 12 years 5 mL – 10 mL every 4 hours children 4 years to under 6 years 2.5 mL – 5 mL every 4 hours children under 4 years do not use"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"83%\"><col width=\"42%\"/><col width=\"41%\"/><thead><tr><th align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><content styleCode=\"bold\">Age</content></th><th align=\"center\" styleCode=\"Rrule Botrule Toprule \" valign=\"top\"><content styleCode=\"bold\">Dose</content></th></tr></thead><tbody><tr><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>children 6 years to under 12 years</paragraph></td><td styleCode=\"Rrule Toprule Botrule \" valign=\"top\"><paragraph>5 mL &#x2013; 10 mL every 4 hours</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>children 4 years to under 6 years</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>2.5 mL &#x2013; 5 mL every 4 hours</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>children under 4 years</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>do not use</paragraph></td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information each 5 mL contains: sodium 3 mg Tamper evident: do not use if printed inner seal under cap is torn or missing. store at room temperature do not refrigerate dosing cup provided"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients anhydrous citric acid, edetate disodium, FD&C Blue #1, FD&C Red #40, flavors, potassium citrate propylene glycol, purified water, sodium benzoate ,sorbitol, sucralose, xanthan gum."
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 118 mL Bottle Carton QC QUALITY CHOICE NDC 63868-770-04 Children's Mucus relief Expectorant Guaifenesin Oral Solution, USP Each Dose of Grape Flavored Children’s Mucus Relief: Relieves Chest Congestion Breaks up Mucus Alcohol Free See New Dosing Information Grape Flavor 4 FL OZ (118 mL) IMPORTANT: Keep this carton for future reference on full labeling. DOSAGE CUP INCLUDED *This product is not manufactured or distributed by Reckitt Benckiser, distributor of Children’s Mucinex.® Distributed by C.D.M.A.,Inc© 43157 W. Nine Mile Novi, MI 48376-0995 www.qualitychoice.com Questions: 248-449-9300 QC 100% Satisfaction Guaranteed. Quality Choice Childrens Mucus Relief Expectorant Grape Flavor 4 FL OZ"
+  ],
+  "package_label_principal_display_panel_table": [
+    "<table width=\"100%\"><col width=\"100%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">IMPORTANT:</content></paragraph><paragraph>Keep this carton for future reference on full labeling.</paragraph></td></tr></tbody></table>"
+  ],
+  "set_id": "034d39c0-9aad-4dff-a158-a041b9f0504f",
+  "id": "451da3de-0781-522d-e063-6394a90a3537",
+  "effective_time": "20251204",
+  "version": "8",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Childrens Mucus Relief Chest Congestion"
+    ],
+    "generic_name": [
+      "GUAIFENESIN"
+    ],
+    "manufacturer_name": [
+      "Chain Drug Manufacturing Assn"
+    ],
+    "product_ndc": [
+      "63868-770"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "GUAIFENESIN"
+    ],
+    "rxcui": [
+      "310604"
+    ],
+    "spl_id": [
+      "451da3de-0781-522d-e063-6394a90a3537"
+    ],
+    "spl_set_id": [
+      "034d39c0-9aad-4dff-a158-a041b9f0504f"
+    ],
+    "package_ndc": [
+      "63868-770-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000193956",
+      "N0000008867",
+      "N0000009560"
+    ],
+    "pharm_class_epc": [
+      "Expectorant [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Decreased Respiratory Secretion Viscosity [PE]",
+      "Increased Respiratory Secretions [PE]"
+    ],
+    "unii": [
+      "495W7451VQ"
+    ]
+  }
+}

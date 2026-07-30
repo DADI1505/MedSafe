@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "Sierra Soft Alcohol Hand Sanitizer ETHYL ALCOHOL WATER ISOPROPYL ALCOHOL PROPYLENE GLYCOL ALCOHOL ALCOHOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredient Ethyl Alcohol 70% Purpose Antibacterial"
+  ],
+  "purpose": [
+    "Purpose Antibacterial"
+  ],
+  "indications_and_usage": [
+    "Uses For sanitizing to reduce bacteria on the skin."
+  ],
+  "warnings": [
+    "Warnings For external use only Flammable: Keep away from fire or flame When using this product avoid contact with eyes. In case of eye contact, flush with water Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product avoid contact with eyes. In case of eye contact, flush with water"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions • Apply one shot of foaming sanitizer to dry hands • Rub into skin • No rinsing required"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water, Isopropyl Alcohol, Propylene Glycol, PEG-12 Dimethicone Crosspolymer, Bis-PEG-12 Dimethicone"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Label"
+  ],
+  "set_id": "012463da-94cf-4975-9fa2-6c323855bf57",
+  "id": "32fc8e73-ae3b-da3a-e063-6294a90aacec",
+  "effective_time": "20250417",
+  "version": "10",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Sierra Soft Alcohol Hand Sanitizer"
+    ],
+    "generic_name": [
+      "ETHYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "CWGC LA Inc."
+    ],
+    "product_ndc": [
+      "70415-100"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "582753"
+    ],
+    "spl_id": [
+      "32fc8e73-ae3b-da3a-e063-6294a90aacec"
+    ],
+    "spl_set_id": [
+      "012463da-94cf-4975-9fa2-6c323855bf57"
+    ],
+    "package_ndc": [
+      "70415-100-10"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0881314705573"
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

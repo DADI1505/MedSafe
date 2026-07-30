@@ -1,0 +1,106 @@
+{
+  "spl_product_data_elements": [
+    "Hemorrhoidal cooling gel Phenylephrine HCl, Witch hazel ALOE VERA LEAF METHYLPARABEN PROPYLENE GLYCOL HYDROXYETHYL CELLULOSE, UNSPECIFIED PROPYLPARABEN SODIUM CITRATE SULISOBENZONE ALPHA-TOCOPHEROL ACETATE PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE WITCH HAZEL WITCH HAZEL EDETATE DISODIUM POLYSORBATE 80 WATER"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredients Phenylephrine HCl 0.25% Witch hazel 50.0%"
+  ],
+  "purpose": [
+    "Purposes Vasoconstrictor Astringent"
+  ],
+  "indications_and_usage": [
+    "Uses helps relieve the local itching and discomfort associated with hemorrhoids temporary relief of irritation and burning temporarily shrinks hemorrhoidal tissue aids in protecting irritated anorectal areas"
+  ],
+  "warnings": [
+    "Warnings For external use only Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use if you are presently taking a prescription drug for high blood pressure or depression. When using this product do not exceed the recommended daily dosage unless directed by a doctor do not put this product into the rectum by using fingers or any mechanical device or applicator Stop use and ask a doctor if bleeding occurs condition worsens or does not improve within 7 days If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes difficulty in urination due to enlargement of the prostate gland"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are presently taking a prescription drug for high blood pressure or depression."
+  ],
+  "when_using": [
+    "When using this product do not exceed the recommended daily dosage unless directed by a doctor do not put this product into the rectum by using fingers or any mechanical device or applicator"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if bleeding occurs condition worsens or does not improve within 7 days"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "dosage_and_administration": [
+    "Directions adults: when practical, cleanse the affected area by patting or blotting with an appropriate cleansing wipe. Gently dry by patting or blotting with a tissue or a soft cloth before applying gel. when first opening the tube, peel off the foil seal apply externally to the affected area up to 4 times daily, especially at night, in the morning or after each bowel movement children under 12 years of age: ask a doctor"
+  ],
+  "other_safety_information": [
+    "Other information store at 20-25°C (68-77°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients aloe barbadensis leaf extract, edetate disodium,hydroxyethyl cellulose, methylparaben, polysorbate 80, propylene glycol,propylparaben,purified water, sodium citrate, sulisobenzone, vitamin E acetate"
+  ],
+  "questions": [
+    "Questions or comments? Call 1-877-290-4008"
+  ],
+  "package_label_principal_display_panel": [
+    "735A-Walgreens-Hemorrhoidal cooling gel-carton.jpg 735A-Walgreens-Hemorrhoidal cooling gel-tube.jpg"
+  ],
+  "set_id": "03bbe258-e00d-13cc-e063-6394a90ae345",
+  "id": "0bbdecbd-91ce-600d-e063-6294a90a4ca4",
+  "effective_time": "20231205",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M015"
+    ],
+    "brand_name": [
+      "Hemorrhoidal cooling gel"
+    ],
+    "generic_name": [
+      "PHENYLEPHRINE HCL, WITCH HAZEL"
+    ],
+    "manufacturer_name": [
+      "WALGREENS"
+    ],
+    "product_ndc": [
+      "0363-9712"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "PHENYLEPHRINE HYDROCHLORIDE",
+      "WITCH HAZEL"
+    ],
+    "rxcui": [
+      "249465"
+    ],
+    "spl_id": [
+      "0bbdecbd-91ce-600d-e063-6294a90a4ca4"
+    ],
+    "spl_set_id": [
+      "03bbe258-e00d-13cc-e063-6394a90ae345"
+    ],
+    "package_ndc": [
+      "0363-9712-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0311917042732"
+    ],
+    "unii": [
+      "04JA59TNSJ",
+      "101I4J0U34"
+    ]
+  }
+}

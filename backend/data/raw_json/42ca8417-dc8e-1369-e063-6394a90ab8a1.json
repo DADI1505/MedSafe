@@ -1,0 +1,97 @@
+{
+  "spl_product_data_elements": [
+    "Expedition BackCountry SPF 50 octocrylene, octisalate, and avobenzone WATER ALOE VERA LEAF CARRAGEENAN CHAMOMILE SYMPHYTUM UPLANDICUM LEAF COMFREY ROOT TARAXACUM OFFICINALE LEAF ECHINACEA, UNSPECIFIED SAMBUCUS NIGRA FLOWER AMERICAN GINSENG MACROCYSTIS PYRIFERA LAVANDULA ANGUSTIFOLIA FLOWERING TOP CYMBOPOGON SCHOENANTHUS TOP ALTHAEA OFFICINALIS ROOT ACHILLEA MILLEFOLIUM FLOWER GREEN TEA LEAF PHENETHYL BENZOATE STEARIC ACID GLYCERYL STEARATE SE CETYL DIMETHICONE 150 GLYCERIN SODIUM HYDROXIDE CETOSTEARYL ALCOHOL POLYSORBATE 60 TRICONTANYL POVIDONE HIGH DENSITY POLYETHYLENE CARBOMER COPOLYMER TYPE B (ALLYL PENTAERYTHRITOL CROSSLINKED) CETYL ALCOHOL METHYLPARABEN DIAZOLIDINYL UREA PROPYLPARABEN OCTOCRYLENE OCTOCRYLENE OCTISALATE OCTISALATE AVOBENZONE AVOBENZONE CAPRYLYL GLYCOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other Information protect this product from excessive cold, heat, and direct sun"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Octocrylene 10.0% Octisalate 5.0% Avobenzone 3.0%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin"
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply liberally 15 minutes before sun exposure reapply: after 80 minutes of swimming or sweating immediately after towel drying at least every 2 hours Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. - 2 p.m. wear long-sleeve shirts, pants, hats and sunglasses children under 6 months: Ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients aqueous extracts of: aloe barbadensis leaf extract, algae extract (hawaiian seaplant), chamomilla recutita (matricaria) flower extract, symphytum officinale (comfrey) root & leaf extract, taraxacum officinale (dandelion) leaf extract, echinacea purpurea (coneflower) extract, sambucus nigra (elder) flower extract, panax quinquefolium (ginseng) root extract, macrocystis pyrifera (kelp) extract, lavandula angustifolia (lavender) extract, cymbopogon schoenanthus (lemon grass) extract, althea officinalis (marshmallow) root extract, achillea millefolium (yarrow flower) extract, camellia sinensis (white tea) extract, phenethyl benzoate, octyl dodecyl citrate crosspolymer, stearic acid, glyceryl stearate se, cetyl dimethicone, glycerin, sodium hydroxide, emulsifying wax, tricontanyl-pvp, polyethylene, acrylates/c10-30 alkyl acrylates cross-polymer, cetyl alcohol, methylparaben, diazolidinyl urea, propylparaben, and caprylyl glycol."
+  ],
+  "questions": [
+    "Questions or comments? Call toll free 1-800-368-7327"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel 60 ml NDC: 52854-952-01 60 ml NDC: 52854-952-01 label"
+  ],
+  "set_id": "06c1ac52-474c-db5c-e063-6294a90afb5f",
+  "id": "42ca8417-dc8e-1369-e063-6394a90ab8a1",
+  "effective_time": "20251104",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Expedition BackCountry SPF 50"
+    ],
+    "generic_name": [
+      "OCTOCRYLENE, OCTISALATE, AND AVOBENZONE"
+    ],
+    "manufacturer_name": [
+      "Tropical Seas, Inc."
+    ],
+    "product_ndc": [
+      "52854-952"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OCTOCRYLENE",
+      "OCTISALATE",
+      "AVOBENZONE"
+    ],
+    "spl_id": [
+      "42ca8417-dc8e-1369-e063-6394a90ab8a1"
+    ],
+    "spl_set_id": [
+      "06c1ac52-474c-db5c-e063-6294a90afb5f"
+    ],
+    "package_ndc": [
+      "52854-952-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0079608915528"
+    ],
+    "unii": [
+      "5A68WGF6WM",
+      "4X49Y0596W",
+      "G63QQF2NOX"
+    ]
+  }
+}

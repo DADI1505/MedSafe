@@ -1,0 +1,122 @@
+{
+  "spl_product_data_elements": [
+    "Sleepy Time CP Aconitum, Arsenicum Alb, Calc Carb, Coffea Cruda, Magnesium Met, Nux Vom, Pulsatilla, Sepia, Sulphur ACONITUM NAPELLUS WHOLE ACONITUM NAPELLUS ARSENIC TRIOXIDE ARSENIC CATION (3+) OYSTER SHELL CALCIUM CARBONATE, CRUDE OYSTER SHELL CALCIUM CARBONATE, CRUDE ARABICA COFFEE BEAN ARABICA COFFEE BEAN MAGNESIUM MAGNESIUM STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED PULSATILLA VULGARIS WHOLE ANEMONE PULSATILLA SEPIA OFFICINALIS JUICE SEPIA OFFICINALIS JUICE SULFUR SULFUR CITRIC ACID MONOHYDRATE GLYCERIN POTASSIUM SORBATE WATER"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS (HPUS*) - equal amounts of: Aconitum 30X, Arsenicum Alb 30X, Calc Carb 30X, Coffea Cruda 30X, Magnesium Met 30X, Nux Vom 30X, Pulsatilla 30X, Sepia 30X, Sulphur 30X"
+  ],
+  "indications_and_usage": [
+    "USES: Temporarily relieves occasional sleeplessness.**"
+  ],
+  "purpose": [
+    "USES: Temporarily relieves occasional sleeplessness.**"
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Adults & children above 12 years: 10 drops orally 3 times daily, or as directed by a health care professional."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF THE REACH OF CHILDREN . In case of overdose (or accidental ingestion) get medical help or contact a Poison Control Center right away."
+  ],
+  "warnings": [
+    "WARNINGS: IF PREGNANT OR BREAST-FEEDING , ask a health care professional before use. KEEP OUT OF THE REACH OF CHILDREN. In case of overdose (or accidental ingestion) get medical help or contact a Poison Control Center right away. Do not use if TAMPER EVIDENT seal is broken or missing."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Citric Acid, Glycerin USP, Natural Cherry Flavor, Potassium Sorbate, Purified Water"
+  ],
+  "questions": [
+    "QUESTIONS & COMMENTS? Natural Creations, Inc. / Woodbine, IA 51579 / 712-647-1600"
+  ],
+  "references": [
+    "*The letters \"HPUS\" indicate the components in the product are officially monographed in the Homeopathic Pharmacopeia of the United States. **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "package_label_principal_display_panel": [
+    "NDC:43406-0675-1 Sleepy Time CP HOMEOPATHIC 1 fl oz (30mL) / Alcohol Free image description"
+  ],
+  "set_id": "03cbb408-7e2a-49e8-b83a-b8d932a10459",
+  "id": "b30c6c13-693d-4b4a-b6f6-e1a0f196c1c4",
+  "effective_time": "20251216",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Sleepy Time CP"
+    ],
+    "generic_name": [
+      "ACONITUM, ARSENICUM ALB, CALC CARB, COFFEA CRUDA, MAGNESIUM MET, NUX VOM, PULSATILLA, SEPIA, SULPHUR"
+    ],
+    "manufacturer_name": [
+      "Natural Creations, Inc"
+    ],
+    "product_ndc": [
+      "43406-0675"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACONITUM NAPELLUS WHOLE",
+      "ARSENIC TRIOXIDE",
+      "OYSTER SHELL CALCIUM CARBONATE, CRUDE",
+      "ARABICA COFFEE BEAN",
+      "MAGNESIUM",
+      "STRYCHNOS NUX-VOMICA SEED",
+      "PULSATILLA VULGARIS WHOLE",
+      "SEPIA OFFICINALIS JUICE",
+      "SULFUR"
+    ],
+    "spl_id": [
+      "b30c6c13-693d-4b4a-b6f6-e1a0f196c1c4"
+    ],
+    "spl_set_id": [
+      "03cbb408-7e2a-49e8-b83a-b8d932a10459"
+    ],
+    "package_ndc": [
+      "43406-0675-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0877730002716"
+    ],
+    "nui": [
+      "N0000185371",
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "M0006342",
+      "M0016962",
+      "M0516536",
+      "N0000185001"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Food Allergenic Extract [EPC]",
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Dietary Proteins [CS]",
+      "Plant Proteins [CS]",
+      "Seed Storage Proteins [CS]"
+    ],
+    "unii": [
+      "U0NQ8555JD",
+      "S7V92P67HO",
+      "2E32821G6I",
+      "3SW678MX72",
+      "I38ZP9992A",
+      "269XH13919",
+      "I76KB35JEV",
+      "QDL83WN8C2",
+      "70FD1KFU70"
+    ]
+  }
+}

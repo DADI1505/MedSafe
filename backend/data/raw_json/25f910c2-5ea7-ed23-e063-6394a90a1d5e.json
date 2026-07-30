@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Hand Sanitizer Lavender Ethyl Alcohol WATER ISOPROPYL ALCOHOL HYDROXYETHYL CELLULOSE (100 MPA.S AT 2%) CHIA SEED OIL GLYCERIN SUNFLOWER OIL ROSEMARY POLYSORBATE 20 ALCOHOL ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Ethyl Alcohol 62%"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "warnings": [
+    "For external use only. Flammable. Keep away from fire or flame."
+  ],
+  "when_using": [
+    "When using this product avoid contact with eyes. If eye contact occurs, rinse with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if skin irritation or redness develops."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of accidental ingestion, seek medical help or contact a Poison Control Center immediately."
+  ],
+  "indications_and_usage": [
+    "Uses to help reduce bacteria on the skin"
+  ],
+  "dosage_and_administration": [
+    "Directions apply enough gel to wet hands and rub together until dry. Use 1 to 3 times daily."
+  ],
+  "storage_and_handling": [
+    "Other information do not store above 104°F (40°C)."
+  ],
+  "questions": [
+    "Questions, Comments? customer.questions@wholefoods.com 1-844-963-8255"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, isopropyl alcohol, hydroxyethylcellulose, salvia hispanica (chia) seed oil, glycerin, helianthus annuus (sunflower) seed oil, rosmarinus officinalis (rosemary) leaf extract, fragrance (natural)*, polysorbate 20. *Complies with ISO 9235, see www.wholefoodsmarket.com for more information."
+  ],
+  "package_label_principal_display_panel": [
+    "LHS32"
+  ],
+  "set_id": "07f7e966-e57e-dede-e063-6294a90acbf5",
+  "id": "25f910c2-5ea7-ed23-e063-6394a90a1d5e",
+  "effective_time": "20241102",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Hand Sanitizer Lavender"
+    ],
+    "generic_name": [
+      "ETHYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Whole Foods Market, Inc."
+    ],
+    "product_ndc": [
+      "42681-7162"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "581660"
+    ],
+    "spl_id": [
+      "25f910c2-5ea7-ed23-e063-6394a90a1d5e"
+    ],
+    "spl_set_id": [
+      "07f7e966-e57e-dede-e063-6294a90acbf5"
+    ],
+    "package_ndc": [
+      "42681-7162-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "spl_product_data_elements": [
+    "Equate Rub Camphor, Eucalyptus Oil, Menthol TURPENTINE OIL MENTHOL MENTHOL CEDAR LEAF OIL NUTMEG OIL PETROLATUM CAMPHOR (SYNTHETIC) CAMPHOR (SYNTHETIC) EUCALYPTUS OIL EUCALYPTUS OIL THYMOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredients Camphor (synthetic) 4.8% .....................................................Cough suppressant & topical analgesic Eucalyptus Oil 1.2% .............................................................. Cough suppressant Menthol 2.6% .........................................................................Cough suppressant & topical analgesic"
+  ],
+  "purpose": [
+    "Purpose Cough suppressant & topical analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves cough due to minor throat and bronchial irritation associated with a cold temporarily relieves minor aches and pains of muscles and joints"
+  ],
+  "warnings": [
+    "Warnings For external use only; avoid contact with eyes. Do not use by mouth in nostrils on wounds or damaged skin with tight bandages Ask a doctor before use if you have cough that occurs with too much phlegm (mucus) persistent or chronic cough such as occurs with smoking, asthma or emphysema When using this product, do not heat microwave add to hot water or any container where heating water. May cause splattering and result in burns. Stop use and ask a doctor if muscle aches and pains worsen or persist for more than 7 days or clear up and occur again within a few days. cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have cough that occurs with too much phlegm (mucus) persistent or chronic cough such as occurs with smoking, asthma or emphysema"
+  ],
+  "when_using": [
+    "When using this product, do not heat microwave add to hot water or any container where heating water. May cause splattering and result in burns."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if muscle aches and pains worsen or persist for more than 7 days or clear up and occur again within a few days. cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition."
+  ],
+  "pregnancy": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions See important warnings under \"When using this product\" • adults and children 2 years and over: > Rub a thick layer on the throat and chest for cough, or rub on sore aching muscles or joints > Clothing should be left loose about the throat and chest to help vapors reach the nose and mouth > Use up to 3 times daily or as directed by doctor Cover with a warm, dry cloth if desired • children under 2 years: do not use"
+  ],
+  "other_safety_information": [
+    "Other information store at room temperature"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients cedarleaf oil, nutmeg oil, petrolatum, thymol, turpentine oil"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL"
+  ],
+  "set_id": "01e1f418-c232-e89e-e063-6294a90abd35",
+  "id": "40a9e9b0-0089-a3cc-e063-6394a90a23bc",
+  "effective_time": "20251008",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Equate Rub"
+    ],
+    "generic_name": [
+      "CAMPHOR, EUCALYPTUS OIL, MENTHOL"
+    ],
+    "manufacturer_name": [
+      "Walmart Inc"
+    ],
+    "product_ndc": [
+      "79903-194"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MENTHOL",
+      "CAMPHOR (SYNTHETIC)",
+      "EUCALYPTUS OIL"
+    ],
+    "rxcui": [
+      "727137"
+    ],
+    "spl_id": [
+      "40a9e9b0-0089-a3cc-e063-6394a90a23bc"
+    ],
+    "spl_set_id": [
+      "01e1f418-c232-e89e-e063-6294a90abd35"
+    ],
+    "package_ndc": [
+      "79903-194-17"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "L7T10EIP3A",
+      "5TJD82A1ET",
+      "2R04ONI662"
+    ]
+  }
+}

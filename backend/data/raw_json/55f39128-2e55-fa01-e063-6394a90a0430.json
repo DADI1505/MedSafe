@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "Hand Sanitizing Wipes Ethyl Alcohol WATER GLYCERIN GLYCERYL MONOCAPRYLOCAPRATE ALOE VERA LEAF ISOPROPYL MYRISTATE .ALPHA.-TOCOPHEROL ACETATE ALCOHOL ALCOHOL"
+  ],
+  "spl_unclassified_section": [
+    "Claims germ-x ® SINCE 1997 ADVANCED ALCOHOL HAND SANITIZER WIPES",
+    "Claims Great for on the Go! OFFICE SCHOOL ON-THE-GO Germ-X Advanced Hand Sanitizing wipes contian moisturizers while killing 99.99% of many harmful germs and bacteria in as little as 15 seconds. Convenient, easy to carry and can be used anytime, anywhere. To Open: Peel up film label slowly. To Dispense: Grab wipe and pull through opening. To Reseal: Run thumb firmly down over label to seal. To Dispose: Place in trash can after use. Do Nut Flush *Effective at eliminating more than 99.99% of many common harmful germs and bacteria in as little as 15 seconds."
+  ],
+  "active_ingredient": [
+    "Active ingredient Ethyl Alcohol 70% v/v"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Use to decrease bacteria on the skin"
+  ],
+  "warnings": [
+    "Warnings For external use only: hands Flammable, keep away from fire or flame."
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water. avoid contact with broken skin do not inhale or ingest"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if irritation and redness develop condition persists for more than 72 hours"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions wipe hands thoroughly with product and allow to dry for children under 6, use only under adult supervision not recommended for infants"
+  ],
+  "storage_and_handling": [
+    "Other information do not store above 105º F may discolor some fabrics or surfaces harmful to wood finishes and plastics"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, glycerin, glyceryl caprylate/caprate, Aloe barbadensis leaf juice, isopropyl myristate, tocopheryl acetate, fragrance"
+  ],
+  "adverse_reactions": [
+    "Adverse reaction Distributed by UpLift Brands, LLC St. Louis, MO 36114 1-866-MY-GERMX Pat. 9,161,982"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal display panel OFFICE SCHOOL ON-THE-GO germ-X ® SINCE 1997 ADVANCED 70% ALCOHOL HAND SANITIZER WIPES Kills more than 99.99% of Germs* with added moisturizers LIFT HERE FRESH SCENT 20 SOFT WIPES DO NOT FLUSH image description"
+  ],
+  "set_id": "044361fe-1e16-4fea-9094-a2d88c890d9c",
+  "id": "55f39128-2e55-fa01-e063-6394a90a0430",
+  "effective_time": "20260706",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Hand Sanitizing Wipes"
+    ],
+    "generic_name": [
+      "ETHYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "UpLift Brands LLC"
+    ],
+    "product_ndc": [
+      "83986-028"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "1489307"
+    ],
+    "spl_id": [
+      "55f39128-2e55-fa01-e063-6394a90a0430"
+    ],
+    "spl_set_id": [
+      "044361fe-1e16-4fea-9094-a2d88c890d9c"
+    ],
+    "package_ndc": [
+      "83986-028-64"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

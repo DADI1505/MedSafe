@@ -1,0 +1,102 @@
+{
+  "spl_product_data_elements": [
+    "Childrens Allegra Allergy Fexofenadine Hydrochloride FEXOFENADINE HYDROCHLORIDE FEXOFENADINE ASPARTAME CROSPOVIDONE LACTOSE MONOHYDRATE MAGNESIUM STEARATE METHACRYLIC ACID AND ETHYL ACRYLATE COPOLYMER CELLULOSE, MICROCRYSTALLINE POVIDONE SILICON DIOXIDE Orange Cream e;311;AV"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information phenylketonurics: contains phenylalanine 3.8 mg per tablet safety sealed: do not use if carton is opened or if individual blister units are torn or opened store between 20 º and 25 º C (68 º and 77 º F) use tablet immediately after opening individual blister contains lactose"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each tablet) Fexofenadine HCI 30 mg"
+  ],
+  "purpose": [
+    "Purpose Antihistamine"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, water eyes itching of the nose or throat"
+  ],
+  "warnings": [
+    "Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed do not take at the same time as aluminum or magnesium antacids do not take with fruit juices (see Directions ) Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use if you have ever had an allergic reaction to this product or any of its ingredients."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed do not take at the same time as aluminum or magnesium antacids do not take with fruit juices (see Directions )"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions place 1 tablet on tongue; tablet disintegrates, with or without water adults and children 12 years of age and over take 2 tablets every 12 hours on an empty stomach; do not take more than 4 tablets in 24 hours children 6 to under 12 years of age take 1 tablet every 12 hours on an empty stomach; do not take more than 2 tablets in 24 hours children under 6 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor"
+  ],
+  "dosage_and_administration_table": [
+    "<table><col width=\"319\"/><col width=\"319\"/><tbody><tr><td styleCode=\"Toprule Rrule \">adults and children 12 years of age and over</td><td styleCode=\"Toprule Lrule \">take 2 tablets every 12 hours on an empty stomach; do not take more than 4 tablets in 24 hours</td></tr><tr><td styleCode=\"Toprule Rrule \">children 6 to under 12 years of age</td><td styleCode=\"Toprule Lrule \">take 1 tablet every 12 hours on an empty stomach; do not take more than 2 tablets in 24 hours</td></tr><tr><td styleCode=\"Toprule Rrule \">children under 6 years of age</td><td styleCode=\"Toprule Lrule \">do not use</td></tr><tr><td styleCode=\"Toprule Rrule \">adults 65 years of age and older</td><td styleCode=\"Toprule Lrule \">ask a doctor</td></tr><tr><td styleCode=\"Toprule Rrule \">consumers with kidney disease</td><td styleCode=\"Toprule Lrule \">ask a doctor</td></tr></tbody></table>"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients aspartame, crospovidone, flavors, lactose monohydrate, magnesium stearate, methacrylic acid copolymer, microcrystalline cellulose, povidone, silicon dioxide"
+  ],
+  "questions": [
+    "Questions or comments? call toll-free 1-800-633-1610 or www.allegra.com Dist. By: Chattem, Inc, a Sanofi Company, Chattanooga, TN 37409-0219 ©2015"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL NDC 41167-4232-1 NON-DROWSY Children’s Allegra ® Allergy fexofenadine HC l orally disintegrating tablet 30 mg/antihista mine Indoor and Outdoor Aller gies Orange Cream flavor 12 Orally Disintegrating Tablets PRINCIPAL DISPLAY PANEL NDC 41167-4232-1 NON-DROWSY Children’s Allegra® Allergy fexofenadine HCl orally disintegrating tablet 30 mg/antihistamine Indoor and Outdoor Allergies Orange Cream flavor 12 Orally Disintegrating Tablets",
+    "PRINCIPAL DISPLAY PANEL NDC 41167-4232-6 NON-DROWSY Children’s Allegra ® Allergy fexofenadine HC l orally disintegrating tablet 30 mg/antihista mine Indoor and Outdoor Aller gies Orange Cream flavor 2 4 Orally Disintegrating Tablets PRINCIPAL DISPLAY PANEL NDC 41167-4232-6 NON-DROWSY Children’s Allegra® Allergy fexofenadine HCl orally disintegrating tablet 30 mg/antihistamine Indoor and Outdoor Allergies Orange Cream flavor 24 Orally Disintegrating Tablets"
+  ],
+  "set_id": "06115cea-5a44-409d-85ed-bb71743491c1",
+  "id": "44cdb5d9-8c36-41e1-af5a-35983ab0cc52",
+  "effective_time": "20250218",
+  "version": "16",
+  "openfda": {
+    "application_number": [
+      "NDA021909"
+    ],
+    "brand_name": [
+      "Childrens Allegra Allergy"
+    ],
+    "generic_name": [
+      "FEXOFENADINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Chattem, Inc."
+    ],
+    "product_ndc": [
+      "41167-4232"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "FEXOFENADINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "997482",
+      "997484"
+    ],
+    "spl_id": [
+      "44cdb5d9-8c36-41e1-af5a-35983ab0cc52"
+    ],
+    "spl_set_id": [
+      "06115cea-5a44-409d-85ed-bb71743491c1"
+    ],
+    "package_ndc": [
+      "41167-4232-1",
+      "41167-4232-6"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "2S068B75ZU"
+    ]
+  }
+}

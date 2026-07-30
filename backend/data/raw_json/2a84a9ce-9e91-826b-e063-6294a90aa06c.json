@@ -1,0 +1,94 @@
+{
+  "spl_product_data_elements": [
+    "American Crew All In One Face Balm Broad Spectrum SPF 15 Octisalate,Homosalate,Avobenzone,Octocrylene ALKYL (C12-15) BENZOATE SQUALANE GLYCERIN DIMETHICONE CETOSTEARYL ALCOHOL BEHENTRIMONIUM CHLORIDE POLYQUATERNIUM-37 (10000 MPA.S) .ALPHA.-BISABOLOL, (+/-)- DEXPANTHENOL 4-HYDROXY ACETOPHENONE GLYCERYL DIBEHENATE ALLANTOIN CAPRYLYL GLYCOL 1,2-HEXANEDIOL .ALPHA.-TOCOPHEROL ACETATE TRIBEHENIN FARNESOL EDETATE DISODIUM ANHYDROUS SODIUM CITRATE, UNSPECIFIED FORM GLYCYRRHIZINATE DIPOTASSIUM PHENOXYETHANOL SACCHARIDE ISOMERATE HYDROXYCITRONELLAL BENZYL SALICYLATE LIMONENE, (+)- LINALOOL, (+/-)- .BETA.-CITRONELLOL, (R)- EUGENOL GERANIOL BENZYL BENZOATE CITRAL CINNAMYL ALCOHOL OCTISALATE OCTISALATE HOMOSALATE HOMOSALATE AVOBENZONE AVOBENZONE OCTOCRYLENE OCTOCRYLENE"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Octisalate 5.0% Homosalate 5.0% Avobenzone 2.0% Octocrylene 2.0%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent sunburn • If used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "warnings": [
+    "Warnings •For external use only •Do notuse on damaged or broken skin •When using this product: Keep out of eyes. Rinse with water to remove. •Stop use and ask a doctor if a rash occurs •Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control center right away"
+  ],
+  "instructions_for_use": [
+    "Directions •Apply liberally 15 minutes before sun exposure •Use a water resistant sunscreen if swimming or sweating •Reapply at least every 2 hours •Children under 6 months: Ask a doctor."
+  ],
+  "when_using": [
+    "Sun protection measures Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: •Limit time in the sun, especially from 10 am - 2 pm •Wear long-sleeved shirts, pants, hats and sunglasses."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Aqua/Water/Eau, C12-15 Alkyl Benzoate, Squalane, Glycerin, Dimethicone, Cetearyl Alcohol, Behentrimonium Chloride, Polyquaternium-37, Bisabolol, Panthenol, Hydroxyacetophenone, Glyceryl Dibehenate, Allantoin, Tocopheryl Acetate, Tribehenin, Glyceryl Behenate, Farnesol, Disodium EDTA, Sodium Citrate, Dipotassium Glycyrrhizate, Dimethicone Crosspolymer, Saccharide Isomerate, Parfum (Fragrance), Caprylyl Glycol, 1,2-Hexanediol, Phenoxyethanol, Hydroxycitronellal,"
+  ],
+  "questions": [
+    "Questions? 1-800-598-2739"
+  ],
+  "keep_out_of_reach_of_children": [
+    "•Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control center right away"
+  ],
+  "dosage_and_administration": [
+    "Apply liberally 15 minutes before sun exposure"
+  ],
+  "package_label_principal_display_panel": [
+    "American Crew All in One Face Balm Broad Spectrum SPF 15 170mL 170ML",
+    "American Crew All in One Face Balm Broad Spectrum SPF 15 50mL 50mL"
+  ],
+  "set_id": "012be422-1b4c-443c-9484-02efc744296d",
+  "id": "2a84a9ce-9e91-826b-e063-6294a90aa06c",
+  "effective_time": "20241230",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "American Crew All In One Face Balm Broad Spectrum SPF 15"
+    ],
+    "generic_name": [
+      "OCTISALATE,HOMOSALATE,AVOBENZONE,OCTOCRYLENE"
+    ],
+    "manufacturer_name": [
+      "Revlon Consumer Products Corp"
+    ],
+    "product_ndc": [
+      "10967-651"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OCTISALATE",
+      "HOMOSALATE",
+      "AVOBENZONE",
+      "OCTOCRYLENE"
+    ],
+    "spl_id": [
+      "2a84a9ce-9e91-826b-e063-6294a90aa06c"
+    ],
+    "spl_set_id": [
+      "012be422-1b4c-443c-9484-02efc744296d"
+    ],
+    "package_ndc": [
+      "10967-651-51",
+      "10967-651-24"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0669316222027"
+    ],
+    "unii": [
+      "4X49Y0596W",
+      "V06SV4M95S",
+      "G63QQF2NOX",
+      "5A68WGF6WM"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "DR.JART EVERY SUN DAY MINERAL SUN SCREEN titanium dioxide, zinc oxide BUTYLENE GLYCOL DICAPRYLATE/DICAPRATE CYCLOMETHICONE 5 ALUMINUM HYDROXIDE TOCOPHEROL SORBITAN MONOCAPRYLATE CAPRYLYL TRISILOXANE BUTYLOCTYL SALICYLATE TITANIUM DIOXIDE TITANIUM DIOXIDE WATER MAGNESIUM SULFATE, UNSPECIFIED ORANGE OIL LIMONENE, (+)- DISTEARDIMONIUM HECTORITE ZINC OXIDE ZINC OXIDE TRIETHOXYCAPRYLYLSILANE ETHYLHEXYLGLYCERIN METHYL METHACRYLATE/GLYCOL DIMETHACRYLATE CROSSPOLYMER CITRAL STEARIC ACID GLYCERYL CAPRYLATE 1,2-HEXANEDIOL MANDARIN OIL LITSEA OIL PROPANEDIOL POLYGLYCERYL-3 POLYDIMETHYLSILOXYETHYL DIMETHICONE (4000 MPA.S)"
+  ],
+  "active_ingredient": [
+    "Active ingredients Titanium Dioxide 4.10% Zinc Oxide 11.50%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Use Helps prevent sunburn"
+  ],
+  "warnings": [
+    "Wanings For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin"
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply liberally 15 minutes before sun exposure Reapply at least every two hours ■ Use a water resistant sunscreen if swim- ming or sweating ■ Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Sp- ectrum SPF value of 15 or higher and other sun protection measures including: * limit time in the sun, especially from 10 am to 2 pm * wear long-sleeved shirts, pants, hats, and sunglasses ■ Children under 6 months of age: ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients WATER\\AQUA\\EAU, CYCLOPENTASILOXANE, PROPANEDIOL, BUTYLENE GLYCOL DICAPRYLATE/DI-CAPRATE, LAURYL POLYGLYCERYL-3 POLYDIMETHYLSILOXYETHYL DIMETHICONE, METHYL METHACRYLATE CROSSPOLYMER, BUTYLOCTYL SALICYLATE, CAPRYLYL METHICONE, MAGNESIUM SULFATE, DISTEARDIMONIUM HECTORITE, 1,2-HEXANEDIOL, STEARIC ACID, POLYGLYCERYL-3 POLYDIMETHYLSILOXYETHYL DIMETHICONE, TRIETHOXYCAPRYLYLSILANE, SORBITAN CAPRYLATE, GLYCERYL CAPRYLATE, ETHYLHEXYLGLYCERIN, CITRUS NOBILIS (MANDARIN ORANGE) PEEL OIL, LITSEA CUBEBA FRUIT OIL, CITRUS AURANTIUM DULCIS (ORANGE) OIL, ALUMINUM HYDROXIDE, LIMONENE, CITRAL, TOCOPHEROL <ILN50931>"
+  ],
+  "storage_and_handling": [
+    "Other information Protect the product in this container from excessive heat and direct sunlight"
+  ],
+  "package_label_principal_display_panel": [
+    "Every Sun Day Mineral Sunscreen UVA/UVB Protection Broad Spectrum SPF 50+ Sunscreen 50mL / 1.69 fl. oz. Principal Display Panel"
+  ],
+  "set_id": "02a671ed-485d-d6b7-e063-6394a90ad4af",
+  "id": "2d828e05-0be7-79cb-e063-6294a90a7716",
+  "effective_time": "20250206",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "DR.JART EVERY SUN DAY MINERAL SUN SCREEN"
+    ],
+    "generic_name": [
+      "TITANIUM DIOXIDE, ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Have & Be Co., Ltd."
+    ],
+    "product_ndc": [
+      "49404-306"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "TITANIUM DIOXIDE",
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "2d828e05-0be7-79cb-e063-6294a90a7716"
+    ],
+    "spl_set_id": [
+      "02a671ed-485d-d6b7-e063-6394a90ad4af"
+    ],
+    "package_ndc": [
+      "49404-306-01",
+      "49404-306-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "15FIX9V2JP",
+      "SOI2LOH54Z"
+    ]
+  }
+}

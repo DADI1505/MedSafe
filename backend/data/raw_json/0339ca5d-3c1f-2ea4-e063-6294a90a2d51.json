@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Mercurius Aceticus Mercurius Aceticus SUCROSE MERCUROUS ACETATE ACETATE ION Mercurius Aceticus Mercurius Aceticus SUCROSE MERCUROUS ACETATE ACETATE ION Mercurius Aceticus Mercurius Aceticus MERCUROUS ACETATE ACETATE ION SUCROSE Mercurius Aceticus Mercurius Aceticus MERCUROUS ACETATE ACETATE ION SUCROSE Mercurius Aceticus Mercurius Aceticus MERCUROUS ACETATE ACETATE ION SUCROSE Mercurius Aceticus Mercurius Aceticus SUCROSE MERCUROUS ACETATE ACETATE ION Mercurius Aceticus Mercurius Aceticus SUCROSE MERCUROUS ACETATE ACETATE ION Mercurius Aceticus Mercurius Aceticus SUCROSE MERCUROUS ACETATE ACETATE ION"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Mercurius Aceticus 6C 5g Mercurius Aceticus 6C 30g Mercurius Aceticus 6C 100g Mercurius Aceticus 12C 5g Mercurius Aceticus 12C 30g Mercurius Aceticus 12C 100g Mercurius Aceticus 30C 1g Mercurius Aceticus 30C 5g Mercurius Aceticus 30C 30g Mercurius Aceticus 30C 100g Mercurius Aceticus 100C 1g Mercurius Aceticus 100C 5g Mercurius Aceticus 100C 30g Mercurius Aceticus 100C 100g Mercurius Aceticus 200C 1g Mercurius Aceticus 200C 5g Mercurius Aceticus 200C 30g Mercurius Aceticus 200C 100g Mercurius Aceticus 500C 1g Mercurius Aceticus 500C 5g Mercurius Aceticus 500C 30g Mercurius Aceticus 500C 100g Mercurius Aceticus 1M 1g Mercurius Aceticus 1M 5g Mercurius Aceticus 1M 30g Mercurius Aceticus 1M 100g Mercurius Aceticus LM1 30g"
+  ],
+  "set_id": "0339ca5d-3c1e-2ea4-e063-6294a90a2d51",
+  "id": "0339ca5d-3c1f-2ea4-e063-6294a90a2d51",
+  "effective_time": "20230818",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Mercurius Aceticus"
+    ],
+    "generic_name": [
+      "MERCURIUS ACETICUS"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3769",
+      "37662-3775",
+      "37662-3773",
+      "37662-3771",
+      "37662-3770",
+      "37662-3772",
+      "37662-3774",
+      "37662-3776"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MERCUROUS ACETATE"
+    ],
+    "spl_id": [
+      "0339ca5d-3c1f-2ea4-e063-6294a90a2d51"
+    ],
+    "spl_set_id": [
+      "0339ca5d-3c1e-2ea4-e063-6294a90a2d51"
+    ],
+    "package_ndc": [
+      "37662-3775-1",
+      "37662-3775-2",
+      "37662-3775-3",
+      "37662-3775-4",
+      "37662-3773-1",
+      "37662-3773-2",
+      "37662-3773-3",
+      "37662-3773-4",
+      "37662-3771-1",
+      "37662-3771-2",
+      "37662-3771-3",
+      "37662-3771-4",
+      "37662-3770-1",
+      "37662-3770-2",
+      "37662-3770-3",
+      "37662-3769-1",
+      "37662-3769-2",
+      "37662-3769-3",
+      "37662-3772-1",
+      "37662-3772-2",
+      "37662-3772-3",
+      "37662-3772-4",
+      "37662-3774-1",
+      "37662-3774-2",
+      "37662-3774-3",
+      "37662-3774-4",
+      "37662-3776-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "DTW66XA971"
+    ]
+  }
+}

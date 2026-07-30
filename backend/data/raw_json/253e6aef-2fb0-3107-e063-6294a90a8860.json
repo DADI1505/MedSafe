@@ -1,0 +1,82 @@
+{
+  "spl_product_data_elements": [
+    "Degree Advanced Cool Rush 72H Antiperspirant Deodorant ISOEUGENOL EUGENOL GLYCINE CITRAL .ALPHA.-HEXYLCINNAMALDEHYDE MINERAL OIL HIGH DENSITY POLYETHYLENE CALCIUM CHLORIDE ALKYL (C12-15) BENZOATE HYDROGENATED CASTOR OIL ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE CYCLOMETHICONE 5 BUTYLATED HYDROXYTOLUENE MALTODEXTRIN PEG-8 DISTEARATE TALC SILICON DIOXIDE PPG-14 BUTYL ETHER STEARYL ALCOHOL LIMONENE, (+)- LINALOOL, (+/-)- COUMARIN .BETA.-CITRONELLOL, (R)- GERANIOL ISOMETHYL-.ALPHA.-IONONE BENZYL ALCOHOL"
+  ],
+  "description": [
+    "DEGREE ADVANCED COOL RUSH 72H ANTIPERSPIRANT DEODORANT - aluminum Sesquichlorohydrate stick"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient Aluminum Sesquichlorohydrate (16%)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses reduces underarm wetness"
+  ],
+  "warnings": [
+    "Warnings • For external use only. • Do not use on broken skin . • Ask a doctor before use if you have kidney disease. • Stop use if rash or irritation occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "• Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply to underarms only"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Cyclopentasiloxane, Stearyl Alcohol, PPG-14 Butyl Ether, C12-15 Alkyl Benzoate, Mineral Oil, Glycine, Hydrogenated Castor Oil, Fragrance (Parfum), Calcium Chloride, Talc, Polyethylene, PEG-8 Distearate, Sodium Starch Octenylsuccinate, Maltodextrin, Hydrolyzed Corn Starch Octenylsuccinate, BHT, Silica, Alpha-Isomethyl Ionone, Benzyl Alcohol, Citral, Citronellol, Coumarin, Eugenol, Geraniol, Hexyl Cinnamal, Isoeugenol, Limonene. Linalool"
+  ],
+  "questions": [
+    "Questions? Call toll-free 1-866-334-7331"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Degree Cool Rush AP Deo IS"
+  ],
+  "set_id": "04cc67ba-e790-3e7b-e063-6394a90a1f22",
+  "id": "253e6aef-2fb0-3107-e063-6294a90a8860",
+  "effective_time": "20241024",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Degree"
+    ],
+    "generic_name": [
+      "ADVANCED COOL RUSH 72H ANTIPERSPIRANT DEODORANT"
+    ],
+    "manufacturer_name": [
+      "Conopco Inc. d/b/a/ Unilever"
+    ],
+    "product_ndc": [
+      "64942-2198"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM SESQUICHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "253e6aef-2fb0-3107-e063-6294a90a8860"
+    ],
+    "spl_set_id": [
+      "04cc67ba-e790-3e7b-e063-6394a90a1f22"
+    ],
+    "package_ndc": [
+      "64942-2198-1",
+      "64942-2198-2",
+      "64942-2198-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "UCN889409V"
+    ]
+  }
+}

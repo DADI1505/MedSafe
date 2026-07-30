@@ -1,0 +1,81 @@
+{
+  "spl_product_data_elements": [
+    "CLEAR MED 5% BENZOYL PEROXIDE WATER SULFUR BUTYLENE GLYCOL CARBOMER COPOLYMER TYPE A POTASSIUM SORBATE PHENOXYETHANOL SODIUM BENZOATE SODIUM HYDROXIDE BENZOYL PEROXIDE BENZOYL PEROXIDE"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS BENZOYL PEROXIDE 5%"
+  ],
+  "purpose": [
+    "PURPOSE ACNE TREATMENT"
+  ],
+  "indications_and_usage": [
+    "USE HELPS REDUCE ACNE BREAKOUTS."
+  ],
+  "warnings": [
+    "WARNINGS FOR EXTERNAL USE ONLY. DO NOT USE IF YOU ARE ALLERGIC OR SENSITIVE TO BENZOYL PEROXIDE. WHEN USING THIS PRODUCT AVOID CONTACT WITH EYES, LIPS AND MOUTH. IF CONTACT OCCURS, FLUSH THOROUGHLY WITH WATER. AVOID UNNECESSARY SUN EXPOSURE. MAY BLEACH FABRIC. MILD IRRITATION MAY BE REDUCED BY USING THE PRODUCT LESS FREQUENTLY OR IN A LOWER CONCENTRATION. DISCONTINUE USE, IF IRRITATION OCCURS AND CONSULT YOUR DOCTOR. USING OTHER TOPICAL ACNE MEDICATION AT THE SAME TIME OR IMMEDIATELY FOLLOWING USE OF THIS PRODUCT MAY INCREASE DRYNESS OR IRRITATION OF THE SKIN."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS ALWAYS PATCH TEST A SMALL AREA BEFORE FIRST APPLICATION. APPLY SPARINGLY TO AFFECTED AREAS ONCE OR TWICE DAILY AS NEEDED, AVOIDING THE EYE AREA. DRYNESS AND LIGHT PEELING MAY OCCUR DURING THE FIRST FEW WEEKS OF USAGE."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS WATER, SULFUR 3%, BUTYLENE GLYCOL, CARBOMER, POTASSIUM SORBATE, PHENOXYETHANOL, SODIUM BENZOATE, SODIUM HYDROXIDE."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN. IF SWALLOWED, GET MEDICAL HELP OR CONTACT A POISON CONTROL CENTER RIGHT AWAY."
+  ],
+  "questions": [
+    "QUESTIONS OR COMMENTS: WWW.CONTROLCORRECTIVE.COM TOLL FREE 1-866-290-4290 MADE IN USA"
+  ],
+  "package_label_principal_display_panel": [
+    "01b UC_Clear Med 5pct"
+  ],
+  "set_id": "03799b2c-cab1-4672-9004-29e4873d022f",
+  "id": "474bae9f-b921-2d83-e063-6394a90abd27",
+  "effective_time": "20251231",
+  "version": "10",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "CLEAR MED 5%"
+    ],
+    "generic_name": [
+      "BENZOYL PEROXIDE"
+    ],
+    "manufacturer_name": [
+      "CONTROL CORRECTIVE SKINCARE INC"
+    ],
+    "product_ndc": [
+      "70764-106"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZOYL PEROXIDE"
+    ],
+    "rxcui": [
+      "106309"
+    ],
+    "spl_id": [
+      "474bae9f-b921-2d83-e063-6394a90abd27"
+    ],
+    "spl_set_id": [
+      "03799b2c-cab1-4672-9004-29e4873d022f"
+    ],
+    "package_ndc": [
+      "70764-106-11",
+      "70764-106-51"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "W9WZN9A0GM"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Dove Even Tone plus Niacinamide Shea Butter and Vanilla Antiperspirant Deodorant STEARYL ALCOHOL HYDROGENATED CASTOR OIL HIGH DENSITY POLYETHYLENE CYCLOMETHICONE 5 BUTYLATED HYDROXYTOLUENE ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY PPG-14 BUTYL ETHER SUNFLOWER OIL SILICON DIOXIDE ALKYL (C12-15) BENZOATE DIMETHICONE STEARETH-100 POLYETHYLENE GLYCOL 400 NIACINAMIDE 12-HYDROXYSTEARIC ACID BENZYL BENZOATE LIMONENE, (+)- BENZYL ALCOHOL BENZYL SALICYLATE COUMARIN LINALOOL, (+/-)- .BETA.-CITRONELLOL, (R)- .ALPHA.-HEXYLCINNAMALDEHYDE"
+  ],
+  "description": [
+    "DOVE EVEN TONE+ NIACINAMIDE SHEA BUTTER & VANILLA ANTIPERSPIRANT DEODORANT - aluminum zirconium tetrachlorohydrex gly stick"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient Aluminum Zirconium Tetrachlorohydrex GLY (11.4 %)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses • reduces underarm wetness"
+  ],
+  "warnings": [
+    "Warnings • For external use only. • Do not use on broken skin . • Ask a doctor before use if you have kidney disease. • Stop use if rash or irritation occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "• Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply to underarms only"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Cyclopentasiloxane, Stearyl Alcohol, C12-15 Alkyl Benzoate, PPG-14 Butyl Ether, Hydrogenated Castor Oil, PEG-8, Fragrance (Parfum), Dimethicone, Hydroxystearic Acid, Polyethylene, Silica, Helianthus Annuus (Sunflower) Seed Oil, Steareth-100, BHT, Niacinamide, Benzyl Alcohol, Benzyl Benzoate, Salicylate, Citronellol, Coumarin, Hexyl Cinnamal, Limonene, Linalool."
+  ],
+  "questions": [
+    "Questions? Call 1-800-761-3683"
+  ],
+  "package_label_principal_display_panel": [
+    "Dove Shea Butter AP IS"
+  ],
+  "set_id": "0035a027-54d2-6de3-e063-6294a90a1266",
+  "id": "26455377-405e-e53d-e063-6394a90ac340",
+  "effective_time": "20241106",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Dove"
+    ],
+    "generic_name": [
+      "EVEN TONE PLUS NIACINAMIDE SHEA BUTTER AND VANILLA ANTIPERSPIRANT DEODORANT"
+    ],
+    "manufacturer_name": [
+      "Conopco Inc. d/b/a/ Unilever"
+    ],
+    "product_ndc": [
+      "64942-2137"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY"
+    ],
+    "spl_id": [
+      "26455377-405e-e53d-e063-6394a90ac340"
+    ],
+    "spl_set_id": [
+      "0035a027-54d2-6de3-e063-6294a90a1266"
+    ],
+    "package_ndc": [
+      "64942-2137-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8O386558JE"
+    ]
+  }
+}

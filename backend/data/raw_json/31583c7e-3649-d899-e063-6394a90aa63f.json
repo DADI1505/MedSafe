@@ -1,0 +1,109 @@
+{
+  "spl_product_data_elements": [
+    "Diphenhydramine Hydrochloride Diphenhydramine Hydrochloride CITRIC ACID CHERRY FD&C RED NO. 40 GLYCERIN PROPYLENE GLYCOL WATER SODIUM BENZOATE SODIUM CITRATE SODIUM SACCHARIN SORBITOL SOLUTION SUCRALOSE DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE"
+  ],
+  "active_ingredient": [
+    "Active ingredients (in each 5 mL teaspoonful) Purpose Diphenhydramine Hydrochloride 12.5mg .............................Antihistamine"
+  ],
+  "indications_and_usage": [
+    "Uses - sneezing - runny nose - itchy, watery eyes - itching of the nose or throat - temporarily relieves these symptoms due to hay fever or other upper respiratory allergies:"
+  ],
+  "warnings": [
+    "Warnings Do not use - to make a child sleepy - with any other product containing diphenhydramine, even one used on skin"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have - glaucoma - trouble urinating due to an enlarged prostate gland - a breathing problem such as emphysema or chronic bronchitis"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers."
+  ],
+  "when_using": [
+    "When using this product - marked drowsiness may occur - avoid alcoholic drinks - alcohol, sedatives, and tranquilizers may increase drowsiness - be careful when driving a motor vehicle or operating machinery - excitability may occur, especially in children"
+  ],
+  "pregnancy": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "dosage_and_administration": [
+    "Directions - take every 4 to 6 hours or as directed by a doctor - do not take more then directed - mL=milliliter - find right dose on chart below Children under 2 years Do not use Children 2 to 5 years Ask a doctor Children 6 to 11 years 1-2 teaspoonful Adults and children 12 years and over 2-4 teaspoonful"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"100%\"> <caption/> <tbody> <tr> <td> Children under 2 years</td> <td> Do not use</td> </tr> <tr> <td> Children 2 to 5 years</td> <td> Ask a doctor</td> </tr> <tr> <td> Children 6 to 11 years</td> <td> 1-2 teaspoonful</td> </tr> <tr> <td> Adults and children 12 years and over</td> <td> 2-4 teaspoonful</td> </tr> </tbody> </table>"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients citric acid, flavor, FD&C red no. 40, glycerin, propylene glycol, purified water, sodium benzoate, sodium citrate, sodium saccharin, sorbitol solution, sucralose."
+  ],
+  "storage_and_handling": [
+    "Other information - each 1 tsp (5mL) contains: sodium 4 mg - store at 59°-86°F (15°-30°C) [see USP Controlled Room Temperature]. Protect from freezing. - tamper evident by foil seal under cap. Do not use if foil seal is broken or missing."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "overdosage": [
+    "In case of accidental overdose, seek professional help or contact a Poison Control Center immediately."
+  ],
+  "questions": [
+    "Questions? You may report side effects by calling Oncor Pharmaceuticals (9 a.m. to 5 p.m. EST), at 1-443-876-7600 or FDA at 1-800-FDA-1088."
+  ],
+  "spl_unclassified_section": [
+    ""
+  ],
+  "purpose": [
+    "Principal Display Panel Oncor Pharmaceuticals NDC 83720-502-16 Diphenhydramine Hydrochloride Oral Solution 12.5 mg/5 ml Antihistamine Cherry Flavor RELIEVES - Sneezing - Itchy, Watery Eyes - Runny Nose - Itchy Throat due to Allergies DO NOT USE IF TAMPER EVIDENT SEAL UNDER CAP IS BROKEN OR MISSING Alcohol Free NET WT. 16 OZ. (473 ml) NDC 83720-502-04 Diphenhydramine Hydrochloride Oral Solution 12.5 mg/5 ml Antihistamine Cherry Flavor RELIEVES - Sneezing - Itchy, Watery Eyes - Runny Nose - Itchy Throat due to Allergies DO NOT USE IF TAMPER EVIDENT SEAL UNDER CAP IS BROKEN OR MISSING Alcohol Free NET WT. 4 OZ. (118 ml) Manufactured In USA For : Oncor Pharmaceuticals 6755 Business Pkwy Suite 202 Elkridge, MD 21075 United States. Rev. 03/25"
+  ],
+  "package_label_principal_display_panel": [
+    "Diphenhydramine (16 oz) Diphenhydramine (4 oz)"
+  ],
+  "set_id": "06ecba97-c790-4672-a8c3-f9caf6272d26",
+  "id": "31583c7e-3649-d899-e063-6394a90aa63f",
+  "effective_time": "20250327",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Diphenhydramine Hydrochloride"
+    ],
+    "generic_name": [
+      "DIPHENHYDRAMINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Oncor Pharmaceuticals"
+    ],
+    "product_ndc": [
+      "83720-502"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIPHENHYDRAMINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1049906"
+    ],
+    "spl_id": [
+      "31583c7e-3649-d899-e063-6394a90aa63f"
+    ],
+    "spl_set_id": [
+      "06ecba97-c790-4672-a8c3-f9caf6272d26"
+    ],
+    "package_ndc": [
+      "83720-502-16",
+      "83720-502-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0383720502048",
+      "0383720502161"
+    ],
+    "unii": [
+      "TC2D6JAD40"
+    ]
+  }
+}

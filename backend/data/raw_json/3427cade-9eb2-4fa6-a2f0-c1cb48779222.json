@@ -1,0 +1,94 @@
+{
+  "spl_product_data_elements": [
+    "Wart Drops 2078 Wart Drops LACTIC ACID, DL- LACTIC ACID, DL- SCROPHULARIA NODOSA WHOLE SCROPHULARIA NODOSA WHOLE CAUSTICUM CAUSTICUM THUJA OCCIDENTALIS LEAF THUJA OCCIDENTALIS LEAF OYSTER SHELL CALCIUM CARBONATE, CRUDE OYSTER SHELL CALCIUM CARBONATE, CRUDE SOLANUM DULCAMARA WHOLE SOLANUM DULCAMARA WHOLE NAJA NAJA VENOM NAJA NAJA VENOM SODIUM SULFATE SODIUM SULFATE ANHYDROUS ALCOHOL WATER"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS Lacticum acidum 4X Scrophularia nodosa 4X Causticum 6X, 12X Thuja occidentalis 6X, 12X Calcarea carbonica 12X Dulcamara 12X Naja tripudians 12X Natrum sulphuricum 12X"
+  ],
+  "questions": [
+    "QUESTIONS Professional Formulas PO Box 2034 Lake Oswego, OR 97035"
+  ],
+  "indications_and_usage": [
+    "INDICATIONS For the temporary relief of small growths on, or thickening of the skin.*"
+  ],
+  "purpose": [
+    "*Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS Consult a doctor if condition worsens or if symptoms persist. Keep out of the reach of children. In case of overdose, get medical help or contact a poison control center right away. If pregnant or breastfeeding, ask a healthcare professional before use. Keep out of the reach of children. If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take 10 drops up to 3 times per day. Consult a physician for use in children under 12 years of age."
+  ],
+  "other_safety_information": [
+    "OTHER INFORMATION Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS 20% ethanol, purified water."
+  ],
+  "package_label_principal_display_panel": [
+    "LABEL Est 1985 Professional Formulas Complementary Health Wart Drops Homeopathic Remedy 2 FL. OZ. (59 mL) Label image"
+  ],
+  "set_id": "05b3c208-d5c3-441a-b3c3-d3c4df2805cd",
+  "id": "3427cade-9eb2-4fa6-a2f0-c1cb48779222",
+  "effective_time": "20260108",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Wart Drops 2078"
+    ],
+    "generic_name": [
+      "WART DROPS"
+    ],
+    "manufacturer_name": [
+      "Professional Complementary Health Formulas"
+    ],
+    "product_ndc": [
+      "63083-2078"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LACTIC ACID, DL-",
+      "SCROPHULARIA NODOSA WHOLE",
+      "CAUSTICUM",
+      "THUJA OCCIDENTALIS LEAF",
+      "OYSTER SHELL CALCIUM CARBONATE, CRUDE",
+      "SOLANUM DULCAMARA WHOLE",
+      "NAJA NAJA VENOM",
+      "SODIUM SULFATE"
+    ],
+    "spl_id": [
+      "3427cade-9eb2-4fa6-a2f0-c1cb48779222"
+    ],
+    "spl_set_id": [
+      "05b3c208-d5c3-441a-b3c3-d3c4df2805cd"
+    ],
+    "package_ndc": [
+      "63083-2078-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3B8D35Y7S4",
+      "7H443NUB2T",
+      "DD5FO1WKFU",
+      "0T0DQN8786",
+      "2E32821G6I",
+      "G72JA9DHK5",
+      "ZZ4AG7L7VM",
+      "0YPR65R21J"
+    ]
+  }
+}

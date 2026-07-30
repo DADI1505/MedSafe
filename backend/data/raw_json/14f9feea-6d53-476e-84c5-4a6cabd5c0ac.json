@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "Colgate Max Fresh Cool Mint SODIUM FLUORIDE SODIUM FLUORIDE FLUORIDE ION SORBITOL WATER HYDRATED SILICA SODIUM LAURYL SULFATE POLYETHYLENE GLYCOL 600 CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED GLYCERIN COCAMIDOPROPYL BETAINE SACCHARIN SODIUM HYPROMELLOSE, UNSPECIFIED FD&C BLUE NO. 1 TITANIUM DIOXIDE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "DIST. BY: COLGATE-PALMOLIVE COMPANY, NEW YORK, NY 10022 USA"
+  ],
+  "active_ingredient": [
+    "Active ingredient Sodium Fluoride 0.24% (0.14% w/v fluoride ion)"
+  ],
+  "purpose": [
+    "Purpose Anticavity"
+  ],
+  "indications_and_usage": [
+    "Use helps protect against cavities"
+  ],
+  "warnings": [
+    "Warnings Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 2 years of age and older brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician children 2 to 6 years use only a pea sized amount and supervise child's brushing and rinsing (to minimize swallowing) children under 2 years ask a dentist or physician"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"90%\" styleCode=\"Noautorules\"><col width=\"25%\" align=\"left\" valign=\"top\"/><col width=\"75%\" align=\"left\" valign=\"top\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">adults and children 2 years of age and older</td><td>brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">children 2 to 6 years</td><td>use only a pea sized amount and supervise child&apos;s brushing and rinsing (to minimize swallowing)</td></tr><tr><td styleCode=\"Rrule\">children under 2 years</td><td>ask a dentist or physician</td></tr></tbody></table>"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Sorbitol, Water, Hydrated Silica, Sodium Lauryl Sulfate, Flavor, PEG-12, Cellulose Gum, Glycerin, Cocamidopropyl Betaine, Sodium Saccharin, Hydroxypropyl Methylcellulose, Blue 1, Titanium Dioxide."
+  ],
+  "questions": [
+    "Questions? 1-800-468-6502"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 178 g Tube Carton Colgate ® Anticavity Fluoride Toothpaste Cool Mint WITH BREATH STRIPS NET WT 6.3 OZ (178 g) MaxFresh ® FRESHNESS POWERED BY ULTRAFREEZE 10X LONGER LASTING COOL FOR FRESH BREATH† PRINCIPAL DISPLAY PANEL - 178 g Tube Carton"
+  ],
+  "set_id": "00652bb2-090c-4eaa-8fc2-e0be6913a724",
+  "id": "14f9feea-6d53-476e-84c5-4a6cabd5c0ac",
+  "effective_time": "20260722",
+  "version": "8",
+  "openfda": {
+    "application_number": [
+      "M021"
+    ],
+    "brand_name": [
+      "Colgate Max Fresh Cool Mint"
+    ],
+    "generic_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "manufacturer_name": [
+      "Colgate-Palmolive Company"
+    ],
+    "product_ndc": [
+      "35000-903"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "DENTAL"
+    ],
+    "substance_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "spl_id": [
+      "14f9feea-6d53-476e-84c5-4a6cabd5c0ac"
+    ],
+    "spl_set_id": [
+      "00652bb2-090c-4eaa-8fc2-e0be6913a724"
+    ],
+    "package_ndc": [
+      "35000-903-60",
+      "35000-903-01",
+      "35000-903-75",
+      "35000-903-78",
+      "35000-903-99",
+      "35000-903-58",
+      "35000-903-95"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8ZYQ1474W7"
+    ]
+  }
+}

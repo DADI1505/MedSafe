@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "LidoPlus Pain Relief LIDOCAINE HYDROCHLORIDE ALOE VERA LEAF WATER ARNICA MONTANA FLOWER INDIAN FRANKINCENSE C13-14 ISOPARAFFIN CETYL ALCOHOL ETHYLHEXYLGLYCERIN GLUCOSAMINE SULFATE GLYCERYL MONOSTEARATE GLYCERIN HAMAMELIS VIRGINIANA TOP LAURETH-7 PEG-100 STEARATE PHENOXYETHANOL POLYSORBATE 20 STEARIC ACID LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredients: Lidocaine HCl 4.00% Topical Anesthetic"
+  ],
+  "purpose": [
+    "Topical Anesthetic"
+  ],
+  "indications_and_usage": [
+    "Indications: For the temporary relief of pain and itching associated with minor burns, sunburn, minor cuts, scrapes, insect bites and minor skin irritations."
+  ],
+  "warnings": [
+    "Warnings: For external use only. • Avoid contact with eyes. • If condition worsens or symptoms persist for more than seven days, discontinue use and consult physician. Keep out of reach of children. If swallowed, consult physician. Do not use in large quantities, particularly over raw surfaces or blistered areas. If pregnant or breast feeding, contact physician prior to use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, consult physician."
+  ],
+  "do_not_use": [
+    "Do not use in large quantities, particularly over raw surfaces or blistered areas."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast feeding, contact physician prior to use."
+  ],
+  "dosage_and_administration": [
+    "Directions: • Adults and children two-years of age or older: Apply to affected area not more than three to four times daily. • Children under two-years of age: consult a physician."
+  ],
+  "inactive_ingredient": [
+    "Other Ingredients: Aloe Barbadensis Leaf (Aloe Vera Gel) Juice, Aqua (Deionized Water), Arnica Montana Flower Extract, Boswellia Serrata Extract, C13-14 Isoparaffin, Cetyl Alcohol, Chondroitin Sulfate, Dimethyl Sulfone (MSM), Ethylhexylglycerin, Glucosamine Sulfate, Glyceryl Stearate, Glycerin, Hamamelis Virginiana (Witch Hazel) Extract, Laureth-7, PEG-100 Stearate, Phenoxyethanol, Polyacrylamide, Polysorbate-20, Stearic Acid."
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Label 2"
+  ],
+  "set_id": "07bacc6c-60a6-4297-8663-904a22bdc040",
+  "id": "48355fe4-49c2-3ad4-e063-6294a90a215f",
+  "effective_time": "20260112",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "LidoPlus Pain Relief"
+    ],
+    "generic_name": [
+      "LIDOCAINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Centura Pharmaceuticals, Inc"
+    ],
+    "product_ndc": [
+      "70372-723"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "LIDOCAINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1010895"
+    ],
+    "spl_id": [
+      "48355fe4-49c2-3ad4-e063-6294a90a215f"
+    ],
+    "spl_set_id": [
+      "07bacc6c-60a6-4297-8663-904a22bdc040"
+    ],
+    "package_ndc": [
+      "70372-723-01",
+      "70372-723-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0816957011453"
+    ],
+    "unii": [
+      "V13007Z41A"
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "spl_product_data_elements": [
+    "Glycerin Laxative Glycerin based Gentle and Effective Laxative Adult Constipation Relief STEARIC ACID SODIUM HYDROXIDE WATER GLYCERIN GLYCERIN"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient (in each suppository) Glycerin, USP 2 grams"
+  ],
+  "purpose": [
+    "Purpose Active ingredient (in each suppository) ...............Purpose Glycerin, USP 2 grams ...................................... Laxative"
+  ],
+  "indications_and_usage": [
+    "Uses • relieves occasional constipation (irregularity) • generally produces bowel movement in ¼ to 1 hour"
+  ],
+  "warnings": [
+    "Warnings For rectal use only"
+  ],
+  "do_not_use": [
+    "Do not use laxative products for longer than 1 week unless directed by a doctor"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have • stomach pain • nausea • vomiting • noticed a sudden change in bowel habits that lasts over 2 weeks"
+  ],
+  "when_using": [
+    "When using this product you may have rectal discomfort or a burning sensation"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These could be signs of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 6 years of age and over : insert 1 suppository well into the rectum and retain for 15 minutes; it need not melt to produce laxative action. Do not exceed 1 suppository daily or as directed by a doctor. children 2 to under 6 years: use Child Suppositories children under 2 years: ask a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information • keep tightly closed • avoid excessive heat"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients: purified water, sodium hydroxide, stearic acid"
+  ],
+  "package_label_principal_display_panel": [
+    "Glycerin Suppository"
+  ],
+  "set_id": "03b4be69-6488-76be-e063-6394a90a7edf",
+  "id": "2beb2049-b67f-b7a5-e063-6394a90a3a15",
+  "effective_time": "20250117",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M015"
+    ],
+    "brand_name": [
+      "Glycerin Laxative"
+    ],
+    "generic_name": [
+      "GLYCERIN BASED GENTLE AND EFFECTIVE LAXATIVE ADULT CONSTIPATION RELIEF"
+    ],
+    "manufacturer_name": [
+      "NeilMed Pharmaceuticals Inc."
+    ],
+    "product_ndc": [
+      "13709-322"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "RECTAL"
+    ],
+    "substance_name": [
+      "GLYCERIN"
+    ],
+    "rxcui": [
+      "104155"
+    ],
+    "spl_id": [
+      "2beb2049-b67f-b7a5-e063-6394a90a3a15"
+    ],
+    "spl_set_id": [
+      "03b4be69-6488-76be-e063-6394a90a7edf"
+    ],
+    "package_ndc": [
+      "13709-322-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185370",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0009417"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Chemical Allergen [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Glycerol [CS]"
+    ],
+    "unii": [
+      "PDC6A3C0OX"
+    ]
+  }
+}

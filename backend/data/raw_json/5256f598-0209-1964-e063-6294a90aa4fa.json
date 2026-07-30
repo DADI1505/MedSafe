@@ -1,0 +1,69 @@
+{
+  "spl_product_data_elements": [
+    "Nitrous Oxide Nitrous Oxide NITROUS OXIDE NITROUS OXIDE"
+  ],
+  "package_label_principal_display_panel": [
+    "NITROUS OXIDE USP UN1070 Rx Only. WARNING: Administration of Nitrous Oxide may be hazardous or contraindicated. For use only by or under the supervision of a licensed practitioner who is experienced in the use and administration of Nitrous Oxide and is familiar with the indications, effects, dosages, methods, and frequency and duration of administration, and with the hazards, contraindications and side effects, and the precautions to be taken. DANGER: MAY CAUSE OR INTENSIFY FIRE; OXIDIZER. CONTAINS GAS UNDER PRESSURE; MAY EXPLODE IF HEATED. MAY CAUSE DROWSINESS OR DIZZINESS. MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION. MAY CAUSE FROSTBITE. Do not handle until all safety precautions have been read and understood. Keep and store away from clothing and other combustible materials. Keep valves and fittings free from grease and oil. Avoid breathing gas. Do not get in eyes, on skin or on clothing. Use and store only outdoors or in a well-ventilated place. In case of fire: Stop leak if safe to do so. Use a back flow preventive device in the piping. Use only with equipment of compatible materials of construction and rated for cylinder pressure. Use only with equipment cleaned for oxygen service. Open valve slowly. Close valve after each use and when empty. Protect from sunlight when ambient temperature exceeds 52 C (125 F). Read and follow the Safety Data Sheet (SDS) before use. FIRST AID: IF INHALED: Remove person to fresh air and keep comfortable for breathing. Call a POISON CENTER or doctor/physician if you feel unwell. IF ON SKIN: Thaw frosted parts with lukewarm water. Do not rub affected area. Get immediate medical advice/attention. CAS: 10024-97-2 DO NOT REMOVE THIS PRODUCT LABEL. AWG AMERICAN WELDING AND GAS 1346 Monad Road, Billings, MT 59101 406.256.3344 nitrous oxide"
+  ],
+  "set_id": "07aa2a86-d01e-470f-a12c-9908118bedc6",
+  "id": "5256f598-0209-1964-e063-6294a90aa4fa",
+  "effective_time": "20260521",
+  "version": "19",
+  "openfda": {
+    "application_number": [
+      "NDA205704"
+    ],
+    "brand_name": [
+      "Nitrous Oxide"
+    ],
+    "generic_name": [
+      "NITROUS OXIDE"
+    ],
+    "manufacturer_name": [
+      "American Welding & Gas"
+    ],
+    "product_ndc": [
+      "44076-012"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "RESPIRATORY (INHALATION)"
+    ],
+    "substance_name": [
+      "NITROUS OXIDE"
+    ],
+    "rxcui": [
+      "312022"
+    ],
+    "spl_id": [
+      "5256f598-0209-1964-e063-6294a90aa4fa"
+    ],
+    "spl_set_id": [
+      "07aa2a86-d01e-470f-a12c-9908118bedc6"
+    ],
+    "package_ndc": [
+      "44076-012-01",
+      "44076-012-02",
+      "44076-012-03",
+      "44076-012-04",
+      "44076-012-05",
+      "44076-012-06",
+      "44076-012-07",
+      "44076-012-08",
+      "44076-012-09",
+      "44076-012-10",
+      "44076-012-11",
+      "44076-012-12",
+      "44076-012-13",
+      "44076-012-14"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "K50XQU1029"
+    ]
+  }
+}

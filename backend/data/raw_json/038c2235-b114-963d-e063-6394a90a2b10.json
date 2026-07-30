@@ -1,0 +1,121 @@
+{
+  "spl_product_data_elements": [
+    "Acidum Sulphuricum Acidum Sulphuricum SULFURIC ACID SULFURIC ACID SUCROSE Acidum Sulphuricum Acidum Sulphuricum SULFURIC ACID SULFURIC ACID SUCROSE Acidum Sulphuricum Acidum Sulphuricum SULFURIC ACID SULFURIC ACID SUCROSE Acidum Sulphuricum Acidum Sulphuricum SULFURIC ACID SULFURIC ACID SUCROSE Acidum Sulphuricum Acidum Sulphuricum SULFURIC ACID SULFURIC ACID SUCROSE Acidum Sulphuricum Acidum Sulphuricum SULFURIC ACID SULFURIC ACID SUCROSE Acidum Sulphuricum Acidum Sulphuricum SULFURIC ACID SULFURIC ACID SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Acidum Sulphuricum 6C 5g Acidum Sulphuricum 6C 30g Acidum Sulphuricum 6C 100g Acidum Sulphuricum 12C 5g Acidum Sulphuricum 12C 30g Acidum Sulphuricum 12C 100g Acidum Sulphuricum 30C 1g Acidum Sulphuricum 30C 5g Acidum Sulphuricum 30C 30g Acidum Sulphuricum 30C 100g Acidum Sulphuricum 100C 1g Acidum Sulphuricum 100C 5g Acidum Sulphuricum 100C 30g Acidum Sulphuricum 100C 100g Acidum Sulphuricum 200C 1g Acidum Sulphuricum 200C 5g Acidum Sulphuricum 200C 30g Acidum Sulphuricum 200C 100g Acidum Sulphuricum 500C 1g Acidum Sulphuricum 500C 5g Acidum Sulphuricum 500C 30g Acidum Sulphuricum 500C 100g Acidum Sulphuricum 1M 1g Acidum Sulphuricum 1M 5g Acidum Sulphuricum 1M 30g Acidum Sulphuricum 1M 100g"
+  ],
+  "set_id": "038c2235-b113-963d-e063-6394a90a2b10",
+  "id": "038c2235-b114-963d-e063-6394a90a2b10",
+  "effective_time": "20230822",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Acidum Sulphuricum"
+    ],
+    "generic_name": [
+      "ACIDUM SULPHURICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3817",
+      "37662-3819",
+      "37662-3823",
+      "37662-3818",
+      "37662-3821",
+      "37662-3820",
+      "37662-3822"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SULFURIC ACID"
+    ],
+    "spl_id": [
+      "038c2235-b114-963d-e063-6394a90a2b10"
+    ],
+    "spl_set_id": [
+      "038c2235-b113-963d-e063-6394a90a2b10"
+    ],
+    "package_ndc": [
+      "37662-3819-1",
+      "37662-3819-2",
+      "37662-3819-3",
+      "37662-3819-4",
+      "37662-3823-1",
+      "37662-3823-2",
+      "37662-3823-3",
+      "37662-3823-4",
+      "37662-3818-1",
+      "37662-3818-2",
+      "37662-3818-3",
+      "37662-3821-1",
+      "37662-3821-2",
+      "37662-3821-3",
+      "37662-3821-4",
+      "37662-3820-1",
+      "37662-3820-2",
+      "37662-3820-3",
+      "37662-3820-4",
+      "37662-3822-1",
+      "37662-3822-2",
+      "37662-3822-3",
+      "37662-3822-4",
+      "37662-3817-1",
+      "37662-3817-2",
+      "37662-3817-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O40UQP6WCF"
+    ]
+  }
+}

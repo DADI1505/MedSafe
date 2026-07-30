@@ -1,0 +1,100 @@
+{
+  "spl_product_data_elements": [
+    "Archies Dry Eye Relief Polyethylene glycol 400, Propylene glycol POTASSIUM CHLORIDE POLYETHYLENE GLYCOL 400 POLYETHYLENE GLYCOL 400 WATER HYDROCHLORIC ACID SODIUM CHLORIDE PROPYLENE GLYCOL PROPYLENE GLYCOL HYPROMELLOSE, UNSPECIFIED SODIUM HYDROXIDE BORIC ACID"
+  ],
+  "active_ingredient": [
+    "Active ingredients Polyethylene glycol 400 0.4% Propylene glycol 0.3%"
+  ],
+  "purpose": [
+    "Purposes Lubricant Lubricant"
+  ],
+  "indications_and_usage": [
+    "Use for the temporary relief of burning and irritation of the eye due to dryness of the eye"
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use if this solution changes color or becomes cloudy if you are sensitive to any ingredient in this product When using this product to avoid contamination, do not touch tip of container to any surface. do not reuse. Once opened, discard. Stop use and ask a doctor if you feel eye pain changes in vision occur redness or irritation of the eye(s) gets worse or lasts more than 72 hours If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "do_not_use": [
+    "Do not use if this solution changes color or becomes cloudy if you are sensitive to any ingredient in this product"
+  ],
+  "when_using": [
+    "When using this product to avoid contamination, do not touch tip of container to any surface. do not reuse. Once opened, discard."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if you feel eye pain changes in vision occur redness or irritation of the eye(s) gets worse or lasts more than 72 hours"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions instill 1 or 2 drops in the affected eye(s) as needed"
+  ],
+  "other_safety_information": [
+    "Other information store at 15°-25°C (59°-77°F) use only if single-use container is intact use before expiration date marked on container RETAIN THIS CARTON FOR FUTURE REFERENCE"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients boric acid, hypromellose, potassium chloride, purified water, sodium chloride. May contain hydrochloric acid and/or sodium hydroxide to adjust pH."
+  ],
+  "package_label_principal_display_panel": [
+    "Archie's Dry Eye Relief 30ct Archie's Dry Eye Relief 30ct",
+    "Archie's Dry Eye Relief 60ct Archie's Dry Eye Relief 60ct"
+  ],
+  "set_id": "07da099b-6b7f-984d-e063-6294a90a12ac",
+  "id": "474a8539-a4cf-d2de-e063-6394a90aa58b",
+  "effective_time": "20251230",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M018"
+    ],
+    "brand_name": [
+      "Archies Dry Eye Relief"
+    ],
+    "generic_name": [
+      "POLYETHYLENE GLYCOL 400, PROPYLENE GLYCOL"
+    ],
+    "manufacturer_name": [
+      "Archie's Remedies"
+    ],
+    "product_ndc": [
+      "83737-001"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "POLYETHYLENE GLYCOL 400",
+      "PROPYLENE GLYCOL"
+    ],
+    "rxcui": [
+      "477589"
+    ],
+    "spl_id": [
+      "474a8539-a4cf-d2de-e063-6394a90aa58b"
+    ],
+    "spl_set_id": [
+      "07da099b-6b7f-984d-e063-6294a90a12ac"
+    ],
+    "package_ndc": [
+      "83737-001-30",
+      "83737-001-60"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0197644244324",
+      "0197644107315"
+    ],
+    "unii": [
+      "B697894SGQ",
+      "6DC9Q167V3"
+    ]
+  }
+}

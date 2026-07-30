@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Trillium Pendulum Trillium Pendulum TRILLIUM ERECTUM ROOT TRILLIUM ERECTUM ROOT SUCROSE Trillium Pendulum Trillium Pendulum TRILLIUM ERECTUM ROOT TRILLIUM ERECTUM ROOT SUCROSE Trillium Pendulum Trillium Pendulum TRILLIUM ERECTUM ROOT TRILLIUM ERECTUM ROOT SUCROSE Trillium Pendulum Trillium Pendulum TRILLIUM ERECTUM ROOT TRILLIUM ERECTUM ROOT SUCROSE Trillium Pendulum Trillium Pendulum TRILLIUM ERECTUM ROOT TRILLIUM ERECTUM ROOT SUCROSE Trillium Pendulum Trillium Pendulum TRILLIUM ERECTUM ROOT TRILLIUM ERECTUM ROOT SUCROSE Trillium Pendulum Trillium Pendulum TRILLIUM ERECTUM ROOT TRILLIUM ERECTUM ROOT SUCROSE Trillium Pendulum Trillium Pendulum TRILLIUM ERECTUM ROOT TRILLIUM ERECTUM ROOT SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Trillium Pendulum 6C 5g Trillium Pendulum 6C 30g Trillium Pendulum 6C 100g Trillium Pendulum 12C 5g Trillium Pendulum 12C 30g Trillium Pendulum 12C 100g Trillium Pendulum 30C 1g Trillium Pendulum 30C 5g Trillium Pendulum 30C 30g Trillium Pendulum 30C 100g Trillium Pendulum 100C 1g Trillium Pendulum 100C 5g Trillium Pendulum 100C 30g Trillium Pendulum 100C 100g Trillium Pendulum 200C 1g Trillium Pendulum 200C 5g Trillium Pendulum 200C 30g Trillium Pendulum 200C 100g Trillium Pendulum 500C 1g Trillium Pendulum 500C 5g Trillium Pendulum 500C 30g Trillium Pendulum 500C 100g Trillium Pendulum 1M 1g Trillium Pendulum 1M 5g Trillium Pendulum 1M 30g Trillium Pendulum 1M 100g Trillium Pendulum LM1 30g"
+  ],
+  "set_id": "08677f2c-1455-86e9-e063-6394a90ac784",
+  "id": "08677f2c-1456-86e9-e063-6394a90ac784",
+  "effective_time": "20231023",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Trillium Pendulum"
+    ],
+    "generic_name": [
+      "TRILLIUM PENDULUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-4176",
+      "37662-4182",
+      "37662-4177",
+      "37662-4178",
+      "37662-4179",
+      "37662-4181",
+      "37662-4183",
+      "37662-4180"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "TRILLIUM ERECTUM ROOT"
+    ],
+    "spl_id": [
+      "08677f2c-1456-86e9-e063-6394a90ac784"
+    ],
+    "spl_set_id": [
+      "08677f2c-1455-86e9-e063-6394a90ac784"
+    ],
+    "package_ndc": [
+      "37662-4182-1",
+      "37662-4182-2",
+      "37662-4182-3",
+      "37662-4182-4",
+      "37662-4177-1",
+      "37662-4177-2",
+      "37662-4177-3",
+      "37662-4178-1",
+      "37662-4178-2",
+      "37662-4178-3",
+      "37662-4178-4",
+      "37662-4179-1",
+      "37662-4179-2",
+      "37662-4179-3",
+      "37662-4179-4",
+      "37662-4176-1",
+      "37662-4176-2",
+      "37662-4176-3",
+      "37662-4181-1",
+      "37662-4181-2",
+      "37662-4181-3",
+      "37662-4181-4",
+      "37662-4183-1",
+      "37662-4180-1",
+      "37662-4180-2",
+      "37662-4180-3",
+      "37662-4180-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "AHW6F0T2X0"
+    ]
+  }
+}

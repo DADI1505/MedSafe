@@ -1,0 +1,84 @@
+{
+  "spl_product_data_elements": [
+    "SKIN MEDICA Purifying Foaming Wash salicylic acid salicylic acid salicylic acid ALLANTOIN BUTYLENE GLYCOL CAMPHOR OIL COCAMIDOPROPYLAMINE OXIDE EDETATE DISODIUM ANHYDROUS HAMAMELIS VIRGINIANA TOP TEA TREE OIL MENTHOL, UNSPECIFIED FORM METHYLISOTHIAZOLINONE PANTHENOL SALIX NIGRA BARK SAGE SODIUM C14-16 OLEFIN SULFONATE SODIUM METHYL COCOYL TAURATE POLYSORBATE 20 WATER SODIUM CITRATE"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Salicylic Acid 2.0%"
+  ],
+  "purpose": [
+    "Purpose Acne Treatment"
+  ],
+  "indications_and_usage": [
+    "Use For the treatment of acne."
+  ],
+  "warnings": [
+    "Warnings For external use only. When using this product Skin irritation and dryness is most likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time."
+  ],
+  "when_using": [
+    "When using this product Skin irritation and dryness is most likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions AM/PM Moisten skin with warm water. Dispense two full pumps of Purifying Foaming Wash into palm of hand, apply by gently massaging over the entire affected area, rinse thoroughly and pat dry. Avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Because excessive drying of the skin may occur, start with one application daily, then gradually increase to two or three times daily if needed or as directed by a doctor. If bothersome dryness or peeling occurs, reduce application to once a day or every other day. Sensitivity Test for a New User. Apply product sparingly to one or two small affected areas during the first 3 days. If no discomfort occurs, follow the directions stated above."
+  ],
+  "other_safety_information": [
+    "Other information Store at controlled room temperature 15°- 30°C (59°- 86°F)."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water, Sodium C14-16 Olefin Sulfonate, Butylene Glycol, Sodium Methyl Cocoyl Taurate, Cocamidopropylamine Oxide, Polysorbate 20, Sodium Citrate, Salix Nigra (Willow) Bark Extract, Hamamelis Virginiana (Witch Hazel) Bark/Leaf/Twig Extract, Salvia Officinalis (Sage) Leaf Extract, Allantoin, Panthenol, Menthol, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Cinnamomum Camphora (Camphor) Bark Oil, Disodium EDTA, Methylisothiazolinone"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Skin Medica ® Purifying Foaming Wash This acne treatment foaming wash with salicylic acid helps remove excess oil and impurities to clear skin and prevent new acne blemishes. CLEANSE 5 Fl. Oz / 147.9 mL SkinMedica® Purifying Foaming Wash This instant foaming wash with salicylic acid helps remove excess oil and impurities. CLEANSE 147.9 mL / 5 Fl. Oz."
+  ],
+  "set_id": "064d9e2b-077f-4229-b653-666fc5479ae2",
+  "id": "5b33bda9-8388-4b2c-baaa-efb3f206131b",
+  "effective_time": "20130301",
+  "version": "8",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "SKIN MEDICA Purifying Foaming Wash"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID"
+    ],
+    "manufacturer_name": [
+      "Allergan, Inc."
+    ],
+    "product_ndc": [
+      "0023-4948"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "562600",
+      "1421168"
+    ],
+    "spl_id": [
+      "5b33bda9-8388-4b2c-baaa-efb3f206131b"
+    ],
+    "spl_set_id": [
+      "064d9e2b-077f-4229-b653-666fc5479ae2"
+    ],
+    "package_ndc": [
+      "0023-4948-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

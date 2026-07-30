@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Isopropyl Rubbing Alcohol Isopropyl Alcohol WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information does not contain, nor is intended as a substitute for grain or ethyl alcohol will produce serious gastric disturbances if taken internally"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Isopropyl Alcohol 70% v/v"
+  ],
+  "purpose": [
+    "Purpose First Aid Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Uses First aid to help prevent the risk of infection in: minor cuts scrapes burns"
+  ],
+  "warnings": [
+    "WARNINGS For external use only Flammable keep away from fire or flame, heat, spark, electrical. Flash point 72°F do not use with electrocautery procedures. Ask a doctor before use if you have deep or puncture wounds, animal bites or serious burns. When using this product do not get into eyes do not apply over large areas of the body do not use longer than 1 week unless directed by a doctor Stop use and ask a doctor if the condition persists or gets worse Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have deep or puncture wounds, animal bites or serious burns."
+  ],
+  "when_using": [
+    "When using this product do not get into eyes do not apply over large areas of the body do not use longer than 1 week unless directed by a doctor"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if the condition persists or gets worse"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions clean infected area apply 1 to 3 times daily"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredient Purified Water"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL REF: P907132 NDC 43128-002-32 Pro ADVANTAGE® Isopropyl Rubbing Alcohol 70% USP Tamper evident cap for your protection. If ring-band is detached from cap or missing do not use. WARNING: Flammable Made in USA for: NDC, Inc., 407 New Sanford Rd. La Vergne, TN 37086 www.ProAdvantagebyNDC.com 32 fl. oz. (946 mL) PRINCIPAL DISPLAY PANEL"
+  ],
+  "set_id": "07bfadf4-7452-4c7a-b60e-feb658b92e73",
+  "id": "47e5c09a-4f6a-9963-e063-6394a90a3476",
+  "effective_time": "20260108",
+  "version": "12",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Isopropyl Rubbing Alcohol"
+    ],
+    "generic_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "NDC, Inc."
+    ],
+    "product_ndc": [
+      "43128-002"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "rxcui": [
+      "808520"
+    ],
+    "spl_id": [
+      "47e5c09a-4f6a-9963-e063-6394a90a3476"
+    ],
+    "spl_set_id": [
+      "07bfadf4-7452-4c7a-b60e-feb658b92e73"
+    ],
+    "package_ndc": [
+      "43128-002-32",
+      "43128-002-01",
+      "43128-002-16"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "ND2M416302"
+    ]
+  }
+}

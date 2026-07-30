@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Degree Advanced Vanilla and Jasmine Dry Spray 72H Antiperspirant Deodorant ISOEUGENOL BENZYL ALCOHOL CITRAL SILICON DIOXIDE ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE MALTODEXTRIN PROPYLENE CARBONATE GLYCINE LIMONENE, (+)- ISOBUTANE .BETA.-CITRONELLOL, (R)- BUTANE 1,1-DIFLUOROETHANE CYCLOMETHICONE 5 PPG-14 BUTYL ETHER DISTEARDIMONIUM HECTORITE CALCIUM CHLORIDE PROPANE BUTYLATED HYDROXYTOLUENE ISOMETHYL-.ALPHA.-IONONE .ALPHA.-HEXYLCINNAMALDEHYDE"
+  ],
+  "description": [
+    "DEGREE ADVANCED VANILLA & JASMINE DRY SPRAY 72H ANTIPERSPIRANT DEODORANT - aluminum sesquichlorohydrate aerosol, spray"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient Aluminum Sesquichlorohydrate (17.6%)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses reduces underarm wetness"
+  ],
+  "dosage_and_administration": [
+    "Directions For underarms use only"
+  ],
+  "warnings": [
+    "Warnings"
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Butane, Hydrofluorocarbon 152a, Cyclopentasiloxane, Isobutane, PPG-14 Butyl Ether, Fragrance (Parfum), Glycine, Disteardimonium Hectorite, Calcium Chloride, Propane, Sodium Starch Octenylsuccinate, BHT, Propylene Carbonate, Maltodextrin, Hydrolyzed Corn Starch Octenylsuccinate, Silica, Alpha-Isomethyl Ionone, Benzyl Alcohol, Citral, Citronellol, Hexyl Cinnamal, Isoeugenol, Limonene"
+  ],
+  "questions": [
+    "Questions? Call toll-free 1-866-334-7331"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Degree Vanilla Dry Spray AP Deo"
+  ],
+  "set_id": "05e03aed-9e2f-f287-e063-6294a90a911b",
+  "id": "264b90cf-2a04-d347-e063-6294a90abd79",
+  "effective_time": "20241106",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Degree"
+    ],
+    "generic_name": [
+      "ADVANCED VANILLA AND JASMINE DRY SPRAY 72H ANTIPERSPIRANT DEODORANT"
+    ],
+    "manufacturer_name": [
+      "Conopco, Inc. d/b/a Unilever"
+    ],
+    "product_ndc": [
+      "64942-2220"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM SESQUICHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "264b90cf-2a04-d347-e063-6294a90abd79"
+    ],
+    "spl_set_id": [
+      "05e03aed-9e2f-f287-e063-6294a90a911b"
+    ],
+    "package_ndc": [
+      "64942-2220-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "UCN889409V"
+    ]
+  }
+}

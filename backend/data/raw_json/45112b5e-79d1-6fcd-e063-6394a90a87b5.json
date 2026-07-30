@@ -1,0 +1,97 @@
+{
+  "spl_product_data_elements": [
+    "LidoPatch Pain Relief Lidocaine, Menthol PROPYLPARABEN CARBOXYMETHYLCELLULOSE SODIUM POLYACRYLATE (2500000 MW) TITANIUM DIOXIDE PROPYLENE GLYCOL POLYVINYL ALCOHOL, UNSPECIFIED WATER METHYLPARABEN EDETATE DISODIUM GLYCERIN TARTARIC ACID DIHYDROXYALUMINUM AMINOACETATE POLYSORBATE 80 ISOPROPYL MYRISTATE LIDOCAINE LIDOCAINE MENTHOL MENTHOL"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Lidocaine 4% Menthol 1%"
+  ],
+  "purpose": [
+    "Purpose Topical Analgesic Topical Analgesic"
+  ],
+  "indications_and_usage": [
+    "For temporary relief of pain."
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use if you are allergic or sensitive to lidocaine or menthol. Do not reuse, apply to intact skin only. Do not use if pouch is damaged or opened. Handling and Disposal hands should be washed after the handling and eye contact should be avoided do not store patch outside the sealed pouch apply immediately after removal from protective pouch fold used patches so that the adhesive side sticks to itself and safely discard used patches or pieces of cut patches where children and pets cannot get them kept out of the reach of children both before and after use Stop use and ask a doctor if excessive redness or irritation is present condition worsens pain persists for more than 7 days symptoms clear up and occur again within a few days If pregnant or breast-feeding , ask a health professional before use."
+  ],
+  "dosage_and_administration": [
+    "Directions adults: apply patch to affected area for a maximum of 12 hours. Do not use more than 1 patch every 24 hours. children: consult your physician remove protective film, gently apply to affected area"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Dihydroxyaluminium Aminoacetate,Disodium EDTA,Glycerine ,Sopropyl Myristate, Methylparaben,Polysorbate 80,Polyvinyl Alcohol,Propylene Glycol,Propylparaben, Sodium Carboxymethyl Cellulose,Sodium Polyacrylate Tartaric Acid,Titanium Dioxide, Water"
+  ],
+  "other_safety_information": [
+    "Questions? Email support@lidopatch.com or call 866-284-2948"
+  ],
+  "package_label_principal_display_panel": [
+    "3ct box outer box label label label 2"
+  ],
+  "set_id": "07289aa1-43ed-df31-e063-6394a90a764a",
+  "id": "45112b5e-79d1-6fcd-e063-6394a90a87b5",
+  "effective_time": "20251203",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "LidoPatch Pain Relief"
+    ],
+    "generic_name": [
+      "LIDOCAINE, MENTHOL"
+    ],
+    "manufacturer_name": [
+      "JAR Laboratories"
+    ],
+    "product_ndc": [
+      "10882-529"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "LIDOCAINE",
+      "MENTHOL"
+    ],
+    "spl_id": [
+      "45112b5e-79d1-6fcd-e063-6394a90a87b5"
+    ],
+    "spl_set_id": [
+      "07289aa1-43ed-df31-e063-6394a90a764a"
+    ],
+    "package_ndc": [
+      "10882-529-01",
+      "10882-529-03",
+      "10882-529-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175682",
+      "M0000897",
+      "N0000175426",
+      "N0000175976"
+    ],
+    "pharm_class_epc": [
+      "Amide Local Anesthetic [EPC]",
+      "Antiarrhythmic [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Amides [CS]"
+    ],
+    "pharm_class_pe": [
+      "Local Anesthesia [PE]"
+    ],
+    "unii": [
+      "98PI200987",
+      "L7T10EIP3A"
+    ]
+  }
+}

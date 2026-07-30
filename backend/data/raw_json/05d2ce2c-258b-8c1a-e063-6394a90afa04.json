@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Niccolum Nitricum Niccolum Nitricum NICKEL NITRATE NICKEL CATION SUCROSE Niccolum Nitricum Niccolum Nitricum NICKEL NITRATE NICKEL CATION SUCROSE Niccolum Nitricum Niccolum Nitricum NICKEL NITRATE NICKEL CATION SUCROSE Niccolum Nitricum Niccolum Nitricum NICKEL NITRATE NICKEL CATION SUCROSE Niccolum Nitricum Niccolum Nitricum NICKEL NITRATE NICKEL CATION SUCROSE Niccolum Nitricum Niccolum Nitricum NICKEL NITRATE NICKEL CATION SUCROSE Niccolum Nitricum Niccolum Nitricum NICKEL NITRATE NICKEL CATION SUCROSE Niccolum Nitricum Niccolum Nitricum NICKEL NITRATE NICKEL CATION SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Niccolum Nitricum 6C 5g Niccolum Nitricum 6C 30g Niccolum Nitricum 6C 100g Niccolum Nitricum 12C 5g Niccolum Nitricum 12C 30g Niccolum Nitricum 12C 100g Niccolum Nitricum 30C 1g Niccolum Nitricum 30C 5g Niccolum Nitricum 30C 30g Niccolum Nitricum 30C 100g Niccolum Nitricum 100C 1g Niccolum Nitricum 100C 5g Niccolum Nitricum 100C 30g Niccolum Nitricum 100C 100g Niccolum Nitricum 200C 1g Niccolum Nitricum 200C 5g Niccolum Nitricum 200C 30g Niccolum Nitricum 200C 100g Niccolum Nitricum 500C 1g Niccolum Nitricum 500C 5g Niccolum Nitricum 500C 30g Niccolum Nitricum 500C 100g Niccolum Nitricum 1M 1g Niccolum Nitricum 1M 5g Niccolum Nitricum 1M 30g Niccolum Nitricum 1M 100g Niccolum Nitricum LM1 30g"
+  ],
+  "set_id": "05d2ce2c-258a-8c1a-e063-6394a90afa04",
+  "id": "05d2ce2c-258b-8c1a-e063-6394a90afa04",
+  "effective_time": "20230920",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Niccolum Nitricum"
+    ],
+    "generic_name": [
+      "NICCOLUM NITRICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3960",
+      "37662-3965",
+      "37662-3967",
+      "37662-3962",
+      "37662-3961",
+      "37662-3966",
+      "37662-3963",
+      "37662-3964"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "NICKEL NITRATE"
+    ],
+    "spl_id": [
+      "05d2ce2c-258b-8c1a-e063-6394a90afa04"
+    ],
+    "spl_set_id": [
+      "05d2ce2c-258a-8c1a-e063-6394a90afa04"
+    ],
+    "package_ndc": [
+      "37662-3965-1",
+      "37662-3965-2",
+      "37662-3965-3",
+      "37662-3965-4",
+      "37662-3967-1",
+      "37662-3962-1",
+      "37662-3962-2",
+      "37662-3962-3",
+      "37662-3962-4",
+      "37662-3961-1",
+      "37662-3961-2",
+      "37662-3961-3",
+      "37662-3966-1",
+      "37662-3966-2",
+      "37662-3966-3",
+      "37662-3966-4",
+      "37662-3963-1",
+      "37662-3963-2",
+      "37662-3963-3",
+      "37662-3963-4",
+      "37662-3964-1",
+      "37662-3964-2",
+      "37662-3964-3",
+      "37662-3964-4",
+      "37662-3960-1",
+      "37662-3960-2",
+      "37662-3960-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "50L0S38I2D"
+    ]
+  }
+}

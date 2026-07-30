@@ -1,0 +1,80 @@
+{
+  "effective_time": "20210130",
+  "inactive_ingredient": [
+    "Other Ingredients: Sucrose"
+  ],
+  "purpose": [
+    "Enter section text here"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children."
+  ],
+  "warnings": [
+    "Warnings: Consult your health care provider if symptoms persist more than 5 days or worsen."
+  ],
+  "questions": [
+    "Developed and Made by True Botanica, LLC 1005 Richards Rd., Suite D Hartland, WI 53029 800-315-8783 www.truebotanica.com"
+  ],
+  "spl_product_data_elements": [
+    "Chamomilla Chamomilla SUCROSE MATRICARIA RECUTITA MATRICARIA RECUTITA"
+  ],
+  "openfda": {
+    "brand_name": [
+      "Chamomilla"
+    ],
+    "generic_name": [
+      "CHAMOMILLA"
+    ],
+    "manufacturer_name": [
+      "True Botanica, LLC"
+    ],
+    "product_ndc": [
+      "53645-1320"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MATRICARIA RECUTITA"
+    ],
+    "spl_id": [
+      "ba25c348-bf46-cd75-e053-2995a90ac151"
+    ],
+    "spl_set_id": [
+      "063080b2-a0e6-461a-a55b-0c2429b66cf1"
+    ],
+    "package_ndc": [
+      "53645-1320-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "G0R4UBI2ZZ"
+    ]
+  },
+  "version": "3",
+  "dosage_and_administration": [
+    "Directions for Use: Place globules under tongue for 30 seconds. Adults~3-5 globules 3 times a day. Children 2-12 years ~ 1-3 globules 3 times a day. Under 2 years, consult your doctor. Use until symptoms are relieved or as directed by your health care provider."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding ask a health professional before use."
+  ],
+  "do_not_use": [
+    "TAMPER EVIDENT: Do not use if safety seal is broken before first use."
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Display Panel"
+  ],
+  "indications_and_usage": [
+    "Use: Calming effects. For temporary relief of spasms. May also be used for standard homeopathic indications or as directed by your physician."
+  ],
+  "set_id": "063080b2-a0e6-461a-a55b-0c2429b66cf1",
+  "id": "ba25c348-bf46-cd75-e053-2995a90ac151",
+  "active_ingredient": [
+    "Chamomilla 30X, HPUS The letters HPUS indicate that these ingredients are officially included in the Homeopathic Pharmacopoeia of the United States."
+  ]
+}

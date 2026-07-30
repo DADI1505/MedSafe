@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Selenium Muriaticum Selenium Muriaticum DISELENIUM DICHLORIDE SELENIDE ION SUCROSE Selenium Muriaticum Selenium Muriaticum DISELENIUM DICHLORIDE SELENIDE ION SUCROSE Selenium Muriaticum Selenium Muriaticum DISELENIUM DICHLORIDE SELENIDE ION SUCROSE Selenium Muriaticum Selenium Muriaticum DISELENIUM DICHLORIDE SELENIDE ION SUCROSE Selenium Muriaticum Selenium Muriaticum DISELENIUM DICHLORIDE SELENIDE ION SUCROSE Selenium Muriaticum Selenium Muriaticum DISELENIUM DICHLORIDE SELENIDE ION SUCROSE Selenium Muriaticum Selenium Muriaticum DISELENIUM DICHLORIDE SELENIDE ION SUCROSE Selenium Muriaticum Selenium Muriaticum DISELENIUM DICHLORIDE SELENIDE ION SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Selenium Muriaticum 6C 5g Selenium Muriaticum 6C 30g Selenium Muriaticum 6C 100g Selenium Muriaticum 12C 5g Selenium Muriaticum 12C 30g Selenium Muriaticum 12C 100g Selenium Muriaticum 30C 1g Selenium Muriaticum 30C 5g Selenium Muriaticum 30C 30g Selenium Muriaticum 30C 100g Selenium Muriaticum 100C 1g Selenium Muriaticum 100C 5g Selenium Muriaticum 100C 30g Selenium Muriaticum 100C 100g Selenium Muriaticum 200C 1g Selenium Muriaticum 200C 5g Selenium Muriaticum 200C 30g Selenium Muriaticum 200C 100g Selenium Muriaticum 500C 1g Selenium Muriaticum 500C 5g Selenium Muriaticum 500C 30g Selenium Muriaticum 500C 100g Selenium Muriaticum 1M 1g Selenium Muriaticum 1M 5g Selenium Muriaticum 1M 30g Selenium Muriaticum 1M 100g Selenium Muriaticum LM1 30g"
+  ],
+  "set_id": "0715ccf1-5c4e-2e1d-e063-6394a90aac0b",
+  "id": "0715b97d-d02c-1d5a-e063-6394a90aaf58",
+  "effective_time": "20231006",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Selenium Muriaticum"
+    ],
+    "generic_name": [
+      "SELENIUM MURIATICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-4096",
+      "37662-4101",
+      "37662-4103",
+      "37662-4100",
+      "37662-4098",
+      "37662-4099",
+      "37662-4097",
+      "37662-4102"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DISELENIUM DICHLORIDE"
+    ],
+    "spl_id": [
+      "0715b97d-d02c-1d5a-e063-6394a90aaf58"
+    ],
+    "spl_set_id": [
+      "0715ccf1-5c4e-2e1d-e063-6394a90aac0b"
+    ],
+    "package_ndc": [
+      "37662-4096-1",
+      "37662-4096-2",
+      "37662-4096-3",
+      "37662-4101-1",
+      "37662-4101-2",
+      "37662-4101-3",
+      "37662-4101-4",
+      "37662-4103-1",
+      "37662-4100-1",
+      "37662-4100-2",
+      "37662-4100-3",
+      "37662-4100-4",
+      "37662-4098-1",
+      "37662-4098-2",
+      "37662-4098-3",
+      "37662-4098-4",
+      "37662-4099-1",
+      "37662-4099-2",
+      "37662-4099-3",
+      "37662-4099-4",
+      "37662-4097-1",
+      "37662-4097-2",
+      "37662-4097-3",
+      "37662-4102-1",
+      "37662-4102-2",
+      "37662-4102-3",
+      "37662-4102-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "2A5292FC4P"
+    ]
+  }
+}

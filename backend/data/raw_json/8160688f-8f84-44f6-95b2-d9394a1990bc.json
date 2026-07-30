@@ -1,0 +1,81 @@
+{
+  "spl_product_data_elements": [
+    "ANTIBACTERIAL BERRY MEDLEY Benzalkonium chloride BENZALKONIUM CHLORIDE BENZALKONIUM WATER SODIUM LAURETH-3 SULFATE COCAMIDOPROPYL BETAINE COCOYL METHYL MONOETHANOLAMINE CITRIC ACID MONOHYDRATE METHYLISOTHIAZOLINONE IODOPROPYNYL BUTYLCARBAMATE SODIUM CHLORIDE D&C RED NO. 33 FD&C BLUE NO. 1"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "NEW kill Germs and Odors Distributed by: Universal Distribution Center LLC 330 Applegarth Road, Monroe Township, NJ08831 www.universaldc.com Made in China"
+  ],
+  "active_ingredient": [
+    "Active ingredient Benzalkonium chloride 0.13%"
+  ],
+  "purpose": [
+    "Purpose Antibacterial"
+  ],
+  "indications_and_usage": [
+    "Use for handwashing to decrease bacteria on the skin"
+  ],
+  "warnings": [
+    "Warning For external use only When using this product • avoid contact with eyes • in case of eye contact, flush with water Stop use and ask a doctor if • irritation or redness develops • condition persists for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions • wet hands and apply soap • lather all surfaces of hands and fingers by rubbing vigorously for at least 20 seconds • rinse hands well and dry"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water(Aqua), Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamide Methyl MEA, Citric Acid, Methylisothiazolinone, Iodopropynyl Butylcarbamate, Fragrance, Sodium Chloride, D&C Red No.33, FD&C Blue No. 1."
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging ANTIBACTERIAL BERRY MEDLEY"
+  ],
+  "set_id": "0619a051-3f7d-4037-962c-e2e855a12342",
+  "id": "8160688f-8f84-44f6-95b2-d9394a1990bc",
+  "effective_time": "20251226",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "ANTIBACTERIAL BERRY MEDLEY"
+    ],
+    "generic_name": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Universal Distribution Center LLC"
+    ],
+    "product_ndc": [
+      "52000-436"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "rxcui": [
+      "1046593"
+    ],
+    "spl_id": [
+      "8160688f-8f84-44f6-95b2-d9394a1990bc"
+    ],
+    "spl_set_id": [
+      "0619a051-3f7d-4037-962c-e2e855a12342"
+    ],
+    "package_ndc": [
+      "52000-436-64"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "F5UM2KM3W7"
+    ]
+  }
+}

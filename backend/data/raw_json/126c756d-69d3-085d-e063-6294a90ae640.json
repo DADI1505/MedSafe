@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "XtraCare Anti-Dandruff Conditioner mint and eucalyptus PYRITHIONE ZINC WATER STEARYL ALCOHOL GLYCERIN CETRIMONIUM CHLORIDE CETYL ALCOHOL POLYQUATERNIUM-37 (3000 MPA.S) DMDM HYDANTOIN C13-16 ISOPARAFFIN TRIDECETH-6 CITRIC ACID MONOHYDRATE EDETATE DISODIUM COCOS NUCIFERA WHOLE SHEA BUTTER FD&C BLUE NO. 1 FD&C YELLOW NO. 5 PYRITHIONE ZINC PYRITHIONE ZINC"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Purpose Pyrithione zinc 0.5% .................. Anti-dandruff"
+  ],
+  "purpose": [
+    "XtraCare Anti-Dandruff Shampoo + pyrithione zinc nourishing coconut & shea butter fight flakes leaving hair healthy & shiny"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "indications_and_usage": [
+    "Uses helps prevent recurrence of flaking and itching associated with dandruff. Gentle enough for everyday use. For best results, use with XtraCare nourishing coconut & shea butter conditioner."
+  ],
+  "warnings": [
+    "WARNINGS For external use only When using this product Avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Stop use and ask a doctor if Condition worsens or does not improve after regular use of this product as directed."
+  ],
+  "dosage_and_administration": [
+    "Directions Wet hair, massage onto scalp, rinse. Repeat if desired. For best results use at least twice a week or as directed by a doctor."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients water, sodium laureth sulfate, cocamidopropyl betaine, sodium chloride, cocamide MEA, lauryl methyl gluceth-10, glycerin, carbomer, DMDM hydantoin, fragrance, triethanolamine, disodium EDTA, cocos nucifera (coconut) fruit extract, shea nut butter."
+  ],
+  "other_safety_information": [
+    "Other information store at 20°C to 25°C (68° to 77°F)"
+  ],
+  "package_label_principal_display_panel": [
+    "label image"
+  ],
+  "set_id": "08330f44-45e2-47cb-bd2e-cef15ba61aee",
+  "id": "126c756d-69d3-085d-e063-6294a90ae640",
+  "effective_time": "20240228",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M032"
+    ],
+    "brand_name": [
+      "XtraCare Anti-Dandruff Conditioner mint and eucalyptus"
+    ],
+    "generic_name": [
+      "PYRITHIONE ZINC"
+    ],
+    "manufacturer_name": [
+      "Rejoice International Inc."
+    ],
+    "product_ndc": [
+      "57337-027"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "PYRITHIONE ZINC"
+    ],
+    "spl_id": [
+      "126c756d-69d3-085d-e063-6294a90ae640"
+    ],
+    "spl_set_id": [
+      "08330f44-45e2-47cb-bd2e-cef15ba61aee"
+    ],
+    "package_ndc": [
+      "57337-027-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0849607050731"
+    ],
+    "unii": [
+      "R953O2RHZ5"
+    ]
+  }
+}

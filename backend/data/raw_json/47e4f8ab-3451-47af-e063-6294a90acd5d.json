@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "Crest Plus Baking Soda and Peroxide Whitening with Tartar Protection Sodium Fluoride HYDRATED SILICA WATER PROPYLENE GLYCOL SODIUM BICARBONATE SODIUM PYROPHOSPHATE SORBITOL POLYETHYLENE GLYCOL 600 GLYCERIN SODIUM HYDROXIDE SODIUM LAURYL SULFATE SACCHARIN SODIUM POLOXAMER 407 XANTHAN GUM CARBOXYMETHYLCELLULOSE SODIUM CALCIUM PEROXIDE TITANIUM DIOXIDE SODIUM FLUORIDE FLUORIDE ION"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Dist. by Procter & Gamble, Cincinnati, OH 45202"
+  ],
+  "active_ingredient": [
+    "Active ingredient Sodium fluoride 0.243% (0.16% w/v fluoride ion)"
+  ],
+  "purpose": [
+    "Purpose Anticavity toothpaste"
+  ],
+  "indications_and_usage": [
+    "Use helps protect against cavities"
+  ],
+  "warnings": [
+    "Warning Keep out of reach of children under 6 yrs. of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children under 6 yrs. of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 2 yrs. & older: brush teeth thoroughly after meals or at least twice a day or use as directed by a dentist do not swallow to minimize swallowing use a pea-sized amount in children under 6 supervise children's brushing until good habits are established children under 2 yrs.: ask a dentist"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients glycerin, hydrated silica, water, propylene glycol, sodium bicarbonate, tetrasodium pyrophosphate, sorbitol, PEG-12, flavor, sodium hydroxide, sodium lauryl sulfate, sodium saccharin, poloxamer 407, xanthan gum, cellulose gum, calcium peroxide, titanium dioxide"
+  ],
+  "questions": [
+    "Questions? 1-800-492-7378"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 119 g Tube Carton New Formula with 2X Peroxide Crest Plus Baking Soda & Peroxide Whitening With Tartar Protection Fresh Mint Net Wt 4.2 OZ (119g) artwork"
+  ],
+  "set_id": "07ed767e-225c-e9c5-e063-6394a90af931",
+  "id": "47e4f8ab-3451-47af-e063-6294a90acd5d",
+  "effective_time": "20260108",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "M021"
+    ],
+    "brand_name": [
+      "Crest Plus Baking Soda and Peroxide Whitening with Tartar Protection"
+    ],
+    "generic_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "manufacturer_name": [
+      "The Procter & Gamble Manufacturing Company"
+    ],
+    "product_ndc": [
+      "69423-814"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "DENTAL"
+    ],
+    "substance_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "rxcui": [
+      "891775"
+    ],
+    "spl_id": [
+      "47e4f8ab-3451-47af-e063-6294a90acd5d"
+    ],
+    "spl_set_id": [
+      "07ed767e-225c-e9c5-e063-6394a90af931"
+    ],
+    "package_ndc": [
+      "69423-814-24",
+      "69423-814-42",
+      "69423-814-57",
+      "69423-814-82",
+      "69423-814-11",
+      "69423-814-35",
+      "69423-814-85"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8ZYQ1474W7"
+    ]
+  }
+}

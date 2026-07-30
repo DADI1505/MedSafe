@@ -1,0 +1,84 @@
+{
+  "spl_product_data_elements": [
+    "COXIR INTENSIVE EGF PEPTIDE SERUM NIACINAMIDE, ADENOSINE NIACINAMIDE NIACINAMIDE ADENOSINE ADENOSINE Water Butylene Glycol Glycerin"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS NIACINAMIDE 2.0% ADENOSINE 0.04%"
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Water(Aqua), Butylene glycol, Glycerin, Alcohol, Propylene Glycol, 1,2-Hexanediol, PEG/PPG-18/4 Copolymer, Betaine, Phenoxyethanol, Triethanolamine, Carbomer, Allantoin, Ethylhexylglycerin, Glyceryl Acrylate/Acrylic Acid Copolymer, Parfum, PVM/MA Copolymer, Dipropylene Glycol, Thymus Vulgaris (Thyme) Extract, Camellia sinensis Callus Culture extracts, Bambusa Vulgaris Callus Culture Extract, Malva Sylvestris (Mallow) Flower Extract, Leontopodium alpinum extract, Snail Secretion Filtrate, Hydrolyzed Collagen, Sodium Benzoate, Potassium Sorbate, Citric Acid, Caprylyl Glycol, Punica Granatum Fruit Extract, Panax Ginseng Root Extract, Carthamus Tinctorius (Safflower) Flower Extract, Acanthopanax Senticosus (Eleuthero) Root Extract, Solanum Lycopersicum (Tomato) Fruit Extract, Nelumbo Nucifera Seed Extract, Lonicera Japonica (Honeysuckle) Flower Extract, Lilium Tigrinum Extract, Chrysanthemum Indicum Flower Extract, Tropolone, Copper Tripeptide-1, Oligopeptide-1"
+  ],
+  "purpose": [
+    "PURPOSE Skin Brightening Anti wrinkle"
+  ],
+  "warnings": [
+    "WARNINGS For external use only. Avoid contact with eyes. Keep out of reach of children. Discontinue use if signs of irritation appear."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN Keep out of reach of children"
+  ],
+  "indications_and_usage": [
+    "Uses ■ Intensive EGF peptide serum is formulated with EGF, peptide and collagen for brightening and firming."
+  ],
+  "dosage_and_administration": [
+    "Directions ■ Can be used daily, AM and PM. Gently massage onto face in circular motions untill absorbed."
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of carton"
+  ],
+  "set_id": "03a97ef0-6ad1-47ef-a8f4-fd32fd02a199",
+  "id": "4c2a01bc-c624-4feb-a024-e83aa1a5fefe",
+  "effective_time": "20210714",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "COXIR INTENSIVE EGF PEPTIDE SERUM"
+    ],
+    "generic_name": [
+      "NIACINAMIDE, ADENOSINE"
+    ],
+    "manufacturer_name": [
+      "NOKSIBCHO cosmetic Co., Ltd."
+    ],
+    "product_ndc": [
+      "73590-0073"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "NIACINAMIDE",
+      "ADENOSINE"
+    ],
+    "spl_id": [
+      "4c2a01bc-c624-4feb-a024-e83aa1a5fefe"
+    ],
+    "spl_set_id": [
+      "03a97ef0-6ad1-47ef-a8f4-fd32fd02a199"
+    ],
+    "package_ndc": [
+      "73590-0073-1",
+      "73590-0073-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000178375",
+      "N0000175788"
+    ],
+    "pharm_class_epc": [
+      "Adenosine Receptor Agonist [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Adenosine Receptor Agonists [MoA]"
+    ],
+    "unii": [
+      "25X51I8RD4",
+      "K72T3FS567"
+    ]
+  }
+}

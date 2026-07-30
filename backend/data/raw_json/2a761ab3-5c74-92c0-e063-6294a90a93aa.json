@@ -1,0 +1,105 @@
+{
+  "spl_product_data_elements": [
+    "Loperamide Hydrochloride Loperamide Hydrochloride ANHYDROUS LACTOSE CROSCARMELLOSE SODIUM CROSPOVIDONE D&C YELLOW NO. 10 FD&C BLUE NO. 1 TRISTEARIN MAGNESIUM STEARATE POWDERED CELLULOSE STARCH, PREGELATINIZED CORN LOPERAMIDE HYDROCHLORIDE LOPERAMIDE 123"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each caplet) Loperamide HCl USP, 2 mg"
+  ],
+  "purpose": [
+    "Purpose Anti-diarrheal"
+  ],
+  "indications_and_usage": [
+    "Use controls symptoms of diarrhea, including Travelers' Diarrhea"
+  ],
+  "warnings": [
+    "Warnings Allergy alert: Do not use if you have ever had a rash or other allergic reaction to loperamide HCI Heart alert: Taking more than directed can cause serious heart problems or death Do not use if you have bloody or black stool Ask a doctor before use if you have fever mucus in the stool a history of liver disease a history of abnormal heart rhythm Ask a doctor or pharmacist before use if you are taking a prescription drug. Loperamide may interact with certain prescription drugs. When using this product tiredness, drowsiness or dizziness may occur. Be careful when driving or operating machinery. Stop use and ask a doctor if symptoms get worse diarrhea lasts for more than 2 days you get abdominal swelling or bulging. These may be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "do_not_use": [
+    "Do not use if you have bloody or black stool"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have fever mucus in the stool a history of liver disease a history of abnormal heart rhythm",
+    "Ask a doctor or pharmacist before use if you are taking a prescription drug. Loperamide may interact with certain prescription drugs."
+  ],
+  "when_using": [
+    "When using this product tiredness, drowsiness or dizziness may occur. Be careful when driving or operating machinery."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if symptoms get worse diarrhea lasts for more than 2 days you get abdominal swelling or bulging. These may be signs of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions drink plenty of clear fluids to help prevent dehydration caused by diarrhea find right dose on chart. If possible, use weight to dose; otherwise, use age. adults and children 12 years and over 2 caplets after the first loose stool; 1 caplet after each subsequent loose stool; but no more than 4 caplets in 24 hours children 9-11 years (60-95 lbs) 1 caplet after the first loose stool; 1/2 caplet after each subsequent loose stool; but no more than 3 caplets in 24 hours children 6-8 years (48-59 lbs) 1 caplet after the first loose stool; 1/2 caplet after each subsequent loose stool; but no more than 2 caplets in 24 hours children 2-5 years (34-47 lbs) ask a doctor children under 2 years (up to 33 lbs) do not use"
+  ],
+  "dosage_and_administration_table": [
+    "<table border=\"0\" width=\"100%\"><tbody><tr><td>adults and children 12 years and over</td><td>2 caplets after the first loose stool; 1 caplet after each subsequent loose stool; but no more than 4 caplets in 24 hours</td></tr><tr><td><paragraph>children 9-11 years</paragraph><paragraph>(60-95 lbs)</paragraph></td><td>1 caplet after the first loose stool; 1/2 caplet after each subsequent loose stool; but no more than 3 caplets in 24 hours</td></tr><tr><td><paragraph>children 6-8 years</paragraph><paragraph>(48-59 lbs)</paragraph></td><td>1 caplet after the first loose stool; 1/2 caplet after each subsequent loose stool; but no more than 2 caplets in 24 hours</td></tr><tr><td><paragraph>children 2-5 years</paragraph><paragraph>(34-47 lbs)</paragraph></td><td>ask a doctor</td></tr><tr><td><paragraph>children under 2 years</paragraph><paragraph>(up to 33 lbs)</paragraph></td><td>do not use</td></tr></tbody></table>"
+  ],
+  "other_safety_information": [
+    "Other information store between 20° - 25° C (68° - 77° F) see side panel for lot number and expiration date TAMPER EVIDENT: THIS PRODUCT IS PROTECTED WITH SEALED BLISTER UNITS. DO NOT USE IF ANY ARE TORN OR BROKEN."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients anhydrous lactose, croscarmellose sodium, crospovidone, D&C yellow no. 10 aluminum lake, FD&C blue no. 1 aluminum lake, hydrogenated vegetable oil, magnesium stearate, powdered cellulose, pregelatinized starch"
+  ],
+  "questions": [
+    "Questions or comments? Call toll free 1-800-MEDLINE (633-5463) Monday-Friday 9AM-5PM CST"
+  ],
+  "spl_unclassified_section": [
+    "Manufacturing Information Packaged for: Medline Industries, LP Three Lakes Drive, Northfield, IL 60093 USA Packaged in USA with domestic and foreign materials www.medline.com 1-800-MEDLINE (633-5463) REF: OTCS0801C2 V1 RG22OHM"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Label V1 RG22OHM"
+  ],
+  "set_id": "03d68bcf-6413-4fe3-8263-39cc315452d2",
+  "id": "2a761ab3-5c74-92c0-e063-6294a90a93aa",
+  "effective_time": "20241229",
+  "version": "8",
+  "openfda": {
+    "application_number": [
+      "ANDA074091"
+    ],
+    "brand_name": [
+      "Loperamide Hydrochloride"
+    ],
+    "generic_name": [
+      "LOPERAMIDE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Medline Industries, LP"
+    ],
+    "product_ndc": [
+      "53329-664"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LOPERAMIDE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "978010"
+    ],
+    "spl_id": [
+      "2a761ab3-5c74-92c0-e063-6294a90a93aa"
+    ],
+    "spl_set_id": [
+      "03d68bcf-6413-4fe3-8263-39cc315452d2"
+    ],
+    "package_ndc": [
+      "53329-664-57"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "77TI35393C"
+    ]
+  }
+}

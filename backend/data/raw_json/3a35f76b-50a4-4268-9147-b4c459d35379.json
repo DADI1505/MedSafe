@@ -1,0 +1,122 @@
+{
+  "spl_product_data_elements": [
+    "Vascular HP Aesculus Hippocastanum, Collinsonia Canadensis, Echinacea (Angustifolia), Hamamelis Virginiana, Pulsatilla (Pratensis), Arnica Montana, Carbo Vegetabilis, Graphites, Hydrofluoricum Acidum, Lycopodium Clavatum, Nitricum Acidum, Nux Vomica, Paeonia Officinalis, Sepia HORSE CHESTNUT HORSE CHESTNUT COLLINSONIA CANADENSIS ROOT COLLINSONIA CANADENSIS ROOT ECHINACEA ANGUSTIFOLIA WHOLE ECHINACEA ANGUSTIFOLIA HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK PULSATILLA PRATENSIS WHOLE PULSATILLA PRATENSIS WHOLE ARNICA MONTANA WHOLE ARNICA MONTANA ACTIVATED CHARCOAL ACTIVATED CHARCOAL GRAPHITE GRAPHITE HYDROFLUORIC ACID FLUORIDE ION LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE NITRIC ACID NITRIC ACID STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED PAEONIA OFFICINALIS ROOT PAEONIA OFFICINALIS ROOT SEPIA OFFICINALIS JUICE SEPIA OFFICINALIS JUICE WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: (in each drop): 11.10% of Arnica Montana 12X, Carbo Vegetabilis 12X, Graphites 12X, Hydrofluoricum Acidum 12X, Lycopodium Clavatum 12X, Nitricum Acidum 12X, Nux Vomica 12X, Paeonia Officinalis 12X, Sepia 12X; 0.10% of Aesculus Hippocastanum 3X, Collinsonia Canadensis 3X, Echinacea (Angustifolia) 3X, Hamamelis Virginiana 3X, Pulsatilla (Pratensis) 3X."
+  ],
+  "purpose": [
+    "INDICATIONS: For temporary relief of itching & mild burning in anus, chills up & down back, and hemorrhoids.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS: If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in a cool, dry place."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Adults and children 10 drops orally, 3 times daily or as otherwise directed by a health care professional. If symptoms persist for more than 7 days, consult your health care professional. Consult a physician for use in children under 12 years of age."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: For temporary relief of itching & mild burning in anus, chills up & down back, and hemorrhoids.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Demineralized water, 20% Ethanol."
+  ],
+  "questions": [
+    "QUESTIONS: Dist. by Energique, Inc. 201 Apple Blvd. Woodbine, IA 51579 800.869.8078"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE DISPLAY LABEL: ENERGIQUE SINCE 1987 HOMEOPATHIC REMEDY VASCULAR HP 1 fl. oz. (30 ml) Vascular HP"
+  ],
+  "set_id": "0519549f-4591-46ae-ae55-6b395ae63a6d",
+  "id": "3a35f76b-50a4-4268-9147-b4c459d35379",
+  "effective_time": "20241031",
+  "version": "4",
+  "openfda": {
+    "brand_name": [
+      "Vascular HP"
+    ],
+    "generic_name": [
+      "AESCULUS HIPPOCASTANUM, COLLINSONIA CANADENSIS, ECHINACEA (ANGUSTIFOLIA), HAMAMELIS VIRGINIANA, PULSATILLA (PRATENSIS), ARNICA MONTANA, CARBO VEGETABILIS, GRAPHITES, HYDROFLUORICUM ACIDUM, LYCOPODIUM CLAVATUM, NITRICUM ACIDUM, NUX VOMICA, PAEONIA OFFICINALIS, SEPIA"
+    ],
+    "manufacturer_name": [
+      "Energique, Inc."
+    ],
+    "product_ndc": [
+      "44911-0508"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "HORSE CHESTNUT",
+      "COLLINSONIA CANADENSIS ROOT",
+      "ECHINACEA ANGUSTIFOLIA WHOLE",
+      "HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK",
+      "PULSATILLA PRATENSIS WHOLE",
+      "ARNICA MONTANA WHOLE",
+      "ACTIVATED CHARCOAL",
+      "GRAPHITE",
+      "HYDROFLUORIC ACID",
+      "LYCOPODIUM CLAVATUM SPORE",
+      "NITRIC ACID",
+      "STRYCHNOS NUX-VOMICA SEED",
+      "PAEONIA OFFICINALIS ROOT",
+      "SEPIA OFFICINALIS JUICE"
+    ],
+    "spl_id": [
+      "3a35f76b-50a4-4268-9147-b4c459d35379"
+    ],
+    "spl_set_id": [
+      "0519549f-4591-46ae-ae55-6b395ae63a6d"
+    ],
+    "package_ndc": [
+      "44911-0508-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0016962",
+      "M0516536"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Plant Proteins [CS]",
+      "Seed Storage Proteins [CS]"
+    ],
+    "unii": [
+      "3C18L6RJAZ",
+      "O2630F3XDR",
+      "VB06AV5US8",
+      "T7S323PKJS",
+      "8E272251DI",
+      "O80TY208ZW",
+      "2P3VWU3H10",
+      "4QQN74LH4O",
+      "RGL5YE86CZ",
+      "C88X29Y479",
+      "411VRN1TV4",
+      "269XH13919",
+      "8R564U2E1P",
+      "QDL83WN8C2"
+    ]
+  }
+}

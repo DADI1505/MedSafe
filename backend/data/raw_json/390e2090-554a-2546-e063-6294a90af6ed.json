@@ -1,0 +1,94 @@
+{
+  "spl_product_data_elements": [
+    "Stopain Extra Strength MENTHOL DIMETHYL SULFONE EUCALYPTUS OIL GLUCOSAMINE SULFATE HYDROXYPROPYL CELLULOSE, UNSPECIFIED PEG-8 DIMETHICONE PENTYLENE GLYCOL PEPPERMINT OIL TROLAMINE WATER MENTHOL MENTHOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other Information • Store at room temperature"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Menthol 8.0% Purpose Topical Analgesic"
+  ],
+  "purpose": [
+    "Purpose Topical Analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses For the temporary relief of minor aches and pains of muscles and joints associated with: • simple backache • arthritis • stains • bruises • sprains"
+  ],
+  "warnings": [
+    "Warnings For external use only. Avoid contact with eyes. Flammable: Keep away from fire or flame. When using this product • use only as directed • do not bandage tightly or use a heating pad • do not apply to wounds or damaged skin Stop use and ask a doctor if condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days • redness is present • excessive irritation of the skin develops If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product • use only as directed • do not bandage tightly or use a heating pad • do not apply to wounds or damaged skin"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days • redness is present • excessive irritation of the skin develops"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 2 years of age and older: • apply directly onto affected area, not more than 3 to 4 times daily • wash hands after use Children under 2 years of age: do not use, consult a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients acrylic acid/vinyl ester copolymer, dimethylsulfone (MSM), eucalyptus oil, glucosamine sulfate, hydroxypropylcellulose, PEG-8 dimethicone, pentylene glycol, peppermint oil, SD alcohol 39C, triethanolamine, water (USP)."
+  ],
+  "questions": [
+    "Questions or comments? 1-800-201-7246"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Label 1"
+  ],
+  "set_id": "07e9a235-6d10-4407-8729-beaf936e97ad",
+  "id": "390e2090-554a-2546-e063-6294a90af6ed",
+  "effective_time": "20250703",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Stopain Extra Strength"
+    ],
+    "generic_name": [
+      "MENTHOL"
+    ],
+    "manufacturer_name": [
+      "Troy Manufacturing, Inc."
+    ],
+    "product_ndc": [
+      "63936-8801"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MENTHOL"
+    ],
+    "rxcui": [
+      "283257",
+      "1541592"
+    ],
+    "spl_id": [
+      "390e2090-554a-2546-e063-6294a90af6ed"
+    ],
+    "spl_set_id": [
+      "07e9a235-6d10-4407-8729-beaf936e97ad"
+    ],
+    "package_ndc": [
+      "63936-8801-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

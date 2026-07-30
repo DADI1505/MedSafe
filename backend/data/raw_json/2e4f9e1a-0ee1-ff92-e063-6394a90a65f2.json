@@ -1,0 +1,112 @@
+{
+  "spl_product_data_elements": [
+    "Nerve Mushroom gummies Nerve Mushroom gummies PHOSPHATIDYL SERINE THIAMINE FOLIC ACID CYANOCOBALAMIN PIPERINE AMINO ACIDS AMINO ACIDS CITICOLINE ALPHA LIPOIC ACID PYRIDOXINE CURCUMIN BARLEY MALT BARLEY MALT HERICIUM ERINACEUS FRUITING BODY ACETYL L-TYROSINE ACETYLCARNITINE"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Amino acids 2% , BARLEY MALT 1%"
+  ],
+  "purpose": [
+    "Purpose Promote brain health Regulate the immune system"
+  ],
+  "indications_and_usage": [
+    "Uses Regulating immunity"
+  ],
+  "warnings": [
+    "Warnings For internal use only"
+  ],
+  "do_not_use": [
+    "Do not use If you are allergic to any ingredients"
+  ],
+  "when_using": [
+    "When Using Section When using this product , do not take other medications at the same time If taking antibiotics at the same time , please interval at least 2 hours orfollow medical advice. If discomfort occurs after consumption , please stop using and consult adoctor"
+  ],
+  "stop_use": [
+    "Stop Use section No side effects"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Children , pregnant women , and nursing mothers should not consume it ."
+  ],
+  "dosage_and_administration": [
+    "Instructions Once a day , 2 gummies each time , taken with warm water Seal and place in a cool and dry placem This product cannot replace medication for treatment"
+  ],
+  "storage_and_handling": [
+    "Other information Other information store at 20-30°C ( 68-77F ) protect from excessive moisture"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredient Lsion's Mane ( Dual Extraction ) , Acetylenelcarnitine , Citicoline , Alpha Lipoic acid, Curcumin , Phosphatidylserine ( sunflower lecithin ) , N-AcetylL-Tyrosine , Thiamine ( B1 ) , Piperine , Vitamin B6 , Vitamin B9 , Vitamin B"
+  ],
+  "package_label_principal_display_panel": [
+    "83739-003-01"
+  ],
+  "set_id": "07a81afd-b86f-87af-e063-6294a90a65f9",
+  "id": "2e4f9e1a-0ee1-ff92-e063-6394a90a65f2",
+  "effective_time": "20250216",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Nerve Mushroom gummies"
+    ],
+    "generic_name": [
+      "NERVE MUSHROOM GUMMIES"
+    ],
+    "manufacturer_name": [
+      "XIAN CHIANG COMPANY LIMITED"
+    ],
+    "product_ndc": [
+      "83739-003"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "AMINO ACIDS",
+      "BARLEY MALT"
+    ],
+    "spl_id": [
+      "2e4f9e1a-0ee1-ff92-e063-6394a90a65f2"
+    ],
+    "spl_set_id": [
+      "07a81afd-b86f-87af-e063-6294a90a65f9"
+    ],
+    "package_ndc": [
+      "83739-003-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175797",
+      "M0000922",
+      "N0000185371",
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "M0006342",
+      "M0016962",
+      "N0000185016"
+    ],
+    "pharm_class_epc": [
+      "Amino Acid Hypertonic Solution [EPC]",
+      "Non-Standardized Food Allergenic Extract [EPC]",
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Amino Acids [CS]",
+      "Allergens [CS]",
+      "Dietary Proteins [CS]",
+      "Plant Proteins [CS]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "unii": [
+      "0O72R8RF8A",
+      "R3NBG8914U"
+    ]
+  }
+}

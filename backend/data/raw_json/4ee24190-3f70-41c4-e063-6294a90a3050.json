@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "B-Pure Moisturizing Hand Sanitizer Creamy Vanilla and Honey Scented ALCOHOL WATER GLYCERIN HEXAMETHYLINDANOPYRAN LINALOOL, (+/-)- LINALYL ACETATE TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES BENZYL SALICYLATE ISOMETHYL-.ALPHA.-IONONE .BETA.-CITRONELLOL, (R)- COUMARIN LEMON OIL, COLD PRESSED VANILLIN TERPINEOL LIMONENE, (+)- JUNIPERUS VIRGINIANA OIL GERANYL ACETATE HYDROXYCITRONELLAL FD&C YELLOW NO. 5 FD&C YELLOW NO. 6 ALCOHOL ALCOHOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information Store below 110°F (43°C)"
+  ],
+  "active_ingredient": [
+    "Active ingredient Ethyl Alcohol, 70% v/v Purpose Antimicrobial"
+  ],
+  "purpose": [
+    "Purpose Antimicrobial"
+  ],
+  "indications_and_usage": [
+    "Uses hand sanitizer to help reduce bacteria on skin"
+  ],
+  "warnings": [
+    "Warnings For external use only. Flammable, keep away from fire or flame. Do not use in or near the eyes In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation, excessive redness or rash develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use in or near the eyes In case of contact, rinse eyes thoroughly with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if irritation, excessive redness or rash develops."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Spray product in hands and rub together."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, fragrance, glycerin, hexamethylindanopyran, linalool, linalyl acetate, tetramethyl acetyloctahydronaphthalenes, benzyl salicylate, alpha-isomethyl ionone, citronellol, dimethyl phenethyl acetate, coumarin, citrus limon peel oil, vanillin, terpineol, rose ketones, limonene, juniperus virginiana oil, geranyl acetate, hydroxycitronellal, yellow 5, yellow 6"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Label01"
+  ],
+  "set_id": "0225ef4f-a035-4096-9da2-44dcb902443a",
+  "id": "4ee24190-3f70-41c4-e063-6294a90a3050",
+  "effective_time": "20260407",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "B-Pure Moisturizing Hand Sanitizer Creamy Vanilla and Honey Scented"
+    ],
+    "generic_name": [
+      "ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Fourstar Group USA, Inc."
+    ],
+    "product_ndc": [
+      "80684-209"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "1041849"
+    ],
+    "spl_id": [
+      "4ee24190-3f70-41c4-e063-6294a90a3050"
+    ],
+    "spl_set_id": [
+      "0225ef4f-a035-4096-9da2-44dcb902443a"
+    ],
+    "package_ndc": [
+      "80684-209-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0049696678339"
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

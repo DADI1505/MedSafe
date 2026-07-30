@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "Axe Dark Temptation Dark Chocolate 48H Sweat and Odor Protection Antiperspirant ISOPROPYL PALMITATE TALC CYCLOMETHICONE 5 HYDROGENATED CASTOR OIL BUTYLATED HYDROXYTOLUENE ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY STEARYL ALCOHOL PPG-14 BUTYL ETHER MINERAL OIL STEARETH-100 LIMONENE, (+)- LINALOOL, (+/-)- COUMARIN"
+  ],
+  "dependence": [
+    "AXE DARK TEMPTATION DARK CHOCOLATE 48H SWEAT & ODOR PROTECTION ANTIPERSPIRANT - aluminum zirconium tetrachlorohydrex gly stick"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient Aluminum Zirconium Tetrachlorohydrex GLY (19.0 %)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses reduces underarm wetness"
+  ],
+  "warnings": [
+    "Warnings • For external use only. • Do not use on broken skin . • Ask a doctor before use if you have kidney disease. • Stop use if rash or irritation occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "• Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply to underarms only"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Isopropyl Palmitate, Stearyl Alcohol, Cyclopentasiloxane, PPG-14 Butyl Ether, Mineral Oil, Talc, Hydrogenated Castor Oil, Fragrance (Parfum), Steareth-100, BHT, Coumarin, Limonene, Linalool"
+  ],
+  "questions": [
+    "Questions? Call toll-free 1-800-450-7580"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Axe Dark Temptation AP IS"
+  ],
+  "set_id": "04377fa2-7d05-503b-e063-6394a90a0a42",
+  "id": "26473383-282b-fb10-e063-6394a90a5fa2",
+  "effective_time": "20241106",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Axe"
+    ],
+    "generic_name": [
+      "DARK TEMPTATION DARK CHOCOLATE 48H SWEAT AND ODOR PROTECTION ANTIPERSPIRANT"
+    ],
+    "manufacturer_name": [
+      "Conopco Inc. d/b/a/ Unilever"
+    ],
+    "product_ndc": [
+      "64942-2183"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY"
+    ],
+    "spl_id": [
+      "26473383-282b-fb10-e063-6394a90a5fa2"
+    ],
+    "spl_set_id": [
+      "04377fa2-7d05-503b-e063-6394a90a0a42"
+    ],
+    "package_ndc": [
+      "64942-2183-1",
+      "64942-2183-2",
+      "64942-2183-3",
+      "64942-2183-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8O386558JE"
+    ]
+  }
+}

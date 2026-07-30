@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "Native Mineral Sunscreen Broad Spectrum SPF 30 Sweet Peach and Nectar Zinc Oxide ZINC OXIDE ZINC OXIDE POLYHYDROXYSTEARIC ACID (2300 MW) CAPRYLIC/CAPRIC TRIGLYCERIDE ARACHIDYL ALCOHOL ARACHIDYL GLUCOSIDE HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL BENZYL ALCOHOL XANTHAN GUM COCONUT ALKANES COCO GLUCOSIDE COCO-CAPRYLATE/CAPRATE WATER GLYCERIN TOCOPHEROL BEHENYL ALCOHOL CETEARYL ALCOHOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Distr. by Native San Francisco, CA 94111"
+  ],
+  "active_ingredient": [
+    "ZINC OXIDE 20% Sunscreen"
+  ],
+  "purpose": [
+    "Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin"
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply liberally 15 minutes before sun exposure reapply at least every 2 hours use water resistant sunscreen if swimming or sweating Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in sun, especially from 10 a.m. – 2 p.m. wear long-sleeved shirts, pants, hats, and sunglasses children under 6 months: ask a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information protect this product from excessive heat and direct sun"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, caprylic/capric triglyceride, coconut alkanes, glycerin, cetearyl alcohol, coco-glucoside, arachidyl alcohol, behenyl alcohol, arachidyl glucoside, polyhydroxystearic acid, benzyl alcohol, xanthan gum, coco-caprylate/caprate, fragrance, tocopherol, helianthus annuus (sunflower) seed oil"
+  ],
+  "questions": [
+    "Questions or comments? Please contact support#\\@nativecos.com"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 147 mL Tube SWEET PEACH & NECTAR NO OXYBENZONE NO OCTINOXATE NATIVE MINERAL SUNSCREEN SUNSCREEN WITH ZINC OXIDE BROAD SPECTRUM SPF 30 5 FL OZ (147 mL) Nat"
+  ],
+  "set_id": "026dcaee-d33c-b874-e063-6394a90ad2e7",
+  "id": "4745a6d1-d9f6-2ff9-e063-6394a90a2825",
+  "effective_time": "20251231",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Native Mineral Sunscreen Broad Spectrum SPF 30 Sweet Peach and Nectar"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "The Procter & Gamble Manufacturing Company"
+    ],
+    "product_ndc": [
+      "69423-731"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "4745a6d1-d9f6-2ff9-e063-6394a90a2825"
+    ],
+    "spl_set_id": [
+      "026dcaee-d33c-b874-e063-6394a90ad2e7"
+    ],
+    "package_ndc": [
+      "69423-731-14"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "TrueLipids 1% Hydrocortisone Barrier Cream Hydrocortisone MEDIUM-CHAIN TRIGLYCERIDES TOCOPHEROL POLYGLYCERYL-2 STEARATE CANDELILLA WAX POTASSIUM STEARATE ENOXOLONE HYDROCORTISONE HYDROCORTISONE STEARIC ACID GLYCERYL MONOSTEARATE C10-30 CHOLESTEROL/LANOSTEROL ESTERS CAPRYLYL GLYCOL NIACINAMIDE PHYTOSPHINGOSINE EDETATE DISODIUM ANHYDROUS PETROLATUM GLYCERIN GLYCERYL DISTEARATE XANTHAN GUM 1,2-HEXANEDIOL CERAMIDE NP ISOSTEARYL ISOSTEARATE WATER NEOPENTYL GLYCOL DIHEPTANOATE STEARYL ALCOHOL CETYL ALCOHOL PROPANEDIOL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient.........Purpose Hydrocortisone 1% .....Anti-itch"
+  ],
+  "purpose": [
+    "Uses temporarily relieves itching associated with minor skin irritations, inflammation, and rashes due to: eczema psoriasis poison ivy, oak, sumac insect bites detergents soaps cosmetics jewelry seborrheic dermatitis temporarily relieves external anal and genital itching other uses of this product should only be under the advice and supervision of a doctor"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "indications_and_usage": [
+    "Stop use and ask a doctor if condition worsens rectal bleeding occurs symptoms persist more than 7 days or clear up and occur again within a few days. do not begin use of any other hydrocortisone product unless you have asked a doctor"
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use in the genital area if you have a vaginal discharge. consult a doctor for the treatment of diaper rash. consult a doctor when using this product avoid contact with eyes do not use more than directed unless told to do so by a doctor do not put directly into rectim by using fingers or any mechanical device or applicator"
+  ],
+  "dosage_and_administration": [
+    "Directions for itching of skin irritation, inflammation and rashes: adults and children 2 years of age and older: apply to affected area not more than 3-4 times daily children under 2 years of age: ask a doctor for external anal and genital itching adult: when practical clean the affected area with mild soap and water and rinse thoroughly gently dry by patting or blotting with toilet tissueor a soft cloth before applying"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water, Caprylic/capric Triglyceride, Petrolatum, Neopentyl Glycol Diheptanoate, Glyceryl Stearate, Polyglyceryl-2 Stearate, Isostearyl Isostearate, Cetyl Allcohol, Propanediol (from Corn) , Glycerin, Stearyl Alcohol, Euphorbia Cerifera (Candelilla Wax), C10-30 Cholesterol/Lanosterol Esters, Potassium Stearate, Glycyrrhetinic Acid(from Licorice root), Glyceryl Distearate, Stearic Acid, Caprylyl Glycol, Xanthan Gum, Niacinamide, 1,2-Hexanediol, Phytospingosine, Disodium EDTA, Ceramide NP, Tocopherol"
+  ],
+  "other_safety_information": [
+    "Other information store at 20°-25ºC (68º-77ºF)"
+  ],
+  "package_label_principal_display_panel": [
+    "CLMD Sensitive Skin Care True Lipids 1% Hydrocortisone Barrier Cream Net Wt 1.7 fl oz (50g) hydrocortisone"
+  ],
+  "set_id": "037395dc-5b96-052e-e063-6394a90a26e4",
+  "id": "46012e53-986d-7eb7-e063-6294a90a56ac",
+  "effective_time": "20251215",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "TrueLipids 1% Hydrocortisone Barrier Cream"
+    ],
+    "generic_name": [
+      "HYDROCORTISONE"
+    ],
+    "manufacturer_name": [
+      "Claridei Laboratories"
+    ],
+    "product_ndc": [
+      "61387-252"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "HYDROCORTISONE"
+    ],
+    "rxcui": [
+      "106258"
+    ],
+    "spl_id": [
+      "46012e53-986d-7eb7-e063-6294a90a56ac"
+    ],
+    "spl_set_id": [
+      "037395dc-5b96-052e-e063-6394a90a26e4"
+    ],
+    "package_ndc": [
+      "61387-252-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0851714005030"
+    ],
+    "nui": [
+      "N0000175576",
+      "N0000175450"
+    ],
+    "pharm_class_epc": [
+      "Corticosteroid [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Corticosteroid Hormone Receptor Agonists [MoA]"
+    ],
+    "unii": [
+      "WI4X0X7BPJ"
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "spl_product_data_elements": [
+    "Head and Shoulders Bare Minimal Ingredients Pyrithione Zinc POLYQUATERNIUM-10 (30000 MPA.S AT 2%) SODIUM BENZOATE CITRIC ACID MONOHYDRATE SODIUM COCOYL ISETHIONATE WATER PYRITHIONE ZINC PYRITHIONE ZINC BUTYL ACRYLATE/METHYL METHACRYLATE/METHACRYLIC ACID COPOLYMER (18000 MW) LAURAMIDOPROPYL BETAINE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Dist. by PROCTER & GAMBLE, CINCINNATI, OH 45202"
+  ],
+  "active_ingredient": [
+    "Active ingredient Pyrithione zinc 1%"
+  ],
+  "purpose": [
+    "Purpose Anti-dandruff"
+  ],
+  "indications_and_usage": [
+    "Uses fights recurrence of the symptoms of dandruff."
+  ],
+  "warnings": [
+    "Warnings For external use only. When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed. Keep this and all drugs out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep this and all drugs out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions for best results use at least twice a week or as directed by a doctor. shake before use, wet hair, massage onto scalp, rinse, repeat if desired."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Water, lauramidopropyl betaine, sodium cocoyl isethionate, fragrance, acrylates copolymer, polyquaternium-10, sodium benzoate, citric acid"
+  ],
+  "questions": [
+    "Questions (or comments)? 1-800-723-9569"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 400 mL Bottle Label head & shoulders ® PYRITHIONE ZINC DANDRUFF SHAMPOO BARE MINIMAL INGREDIENTS SHAMPOO PURE CLEAN 0% SULFATES DYES SILICONES 13.5 FL OZ (400 mL) HS"
+  ],
+  "set_id": "003c585f-9fda-c86e-e063-6394a90ae377",
+  "id": "47461ad3-a11d-2a11-e063-6294a90a0f8f",
+  "effective_time": "20251231",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M032"
+    ],
+    "brand_name": [
+      "Head and Shoulders Bare Minimal Ingredients"
+    ],
+    "generic_name": [
+      "PYRITHIONE ZINC"
+    ],
+    "manufacturer_name": [
+      "The Procter & Gamble Manufacturing Company"
+    ],
+    "product_ndc": [
+      "69423-721"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "PYRITHIONE ZINC"
+    ],
+    "rxcui": [
+      "209884",
+      "1043244"
+    ],
+    "spl_id": [
+      "47461ad3-a11d-2a11-e063-6294a90a0f8f"
+    ],
+    "spl_set_id": [
+      "003c585f-9fda-c86e-e063-6394a90ae377"
+    ],
+    "package_ndc": [
+      "69423-721-40"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "R953O2RHZ5"
+    ]
+  }
+}

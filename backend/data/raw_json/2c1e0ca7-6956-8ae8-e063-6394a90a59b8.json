@@ -1,0 +1,77 @@
+{
+  "spl_product_data_elements": [
+    "The Zoeun Skin Total Conditioner Sturgeon extract TOCOPHEROL FRAGRANCE 13576 STURGEON, UNSPECIFIED STURGEON, UNSPECIFIED"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Sturgeon extract 98.4%"
+  ],
+  "purpose": [
+    "Purposes Skin Protectant, Total Skin Care"
+  ],
+  "indications_and_usage": [
+    "Uses Skin Moisturizing, Brightening, Wrinkle Care"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Warnings Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "stop_use": [
+    "Warnings Stop using and ask a doctor if irritation or rash appears and lasts."
+  ],
+  "when_using": [
+    "Warnings When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "warnings": [
+    "Warnings For external use only."
+  ],
+  "dosage_and_administration": [
+    "Directions • All ages can use. • Whenever wish to, apply directly to the skin, and let the skin absorb without wiping."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Fragrance, Tocopherol."
+  ],
+  "package_label_principal_display_panel": [
+    "Display panel Total Conditioner"
+  ],
+  "set_id": "0523b245-36a0-97c7-e063-6294a90a53e1",
+  "id": "2c1e0ca7-6956-8ae8-e063-6394a90a59b8",
+  "effective_time": "20250120",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "The Zoeun Skin Total Conditioner"
+    ],
+    "generic_name": [
+      "STURGEON EXTRACT"
+    ],
+    "manufacturer_name": [
+      "Sturgeonbio Co.,Ltd"
+    ],
+    "product_ndc": [
+      "83636-602"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "STURGEON, UNSPECIFIED"
+    ],
+    "spl_id": [
+      "2c1e0ca7-6956-8ae8-e063-6394a90a59b8"
+    ],
+    "spl_set_id": [
+      "0523b245-36a0-97c7-e063-6294a90a53e1"
+    ],
+    "package_ndc": [
+      "83636-602-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "X502F5DQD4"
+    ]
+  }
+}

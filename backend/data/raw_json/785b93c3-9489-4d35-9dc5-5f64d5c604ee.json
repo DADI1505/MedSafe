@@ -1,0 +1,74 @@
+{
+  "spl_product_data_elements": [
+    "FLUOCINONIDE FLUOCINONIDE FLUOCINONIDE FLUOCINONIDE ANHYDROUS CITRIC ACID CARBOMER HOMOPOLYMER TYPE C DIETHYLENE GLYCOL MONOETHYL ETHER DIISOPROPANOLAMINE GLYCERYL MONOSTEARATE PEG-100 STEARATE PROPYLENE GLYCOL WATER white to off-white"
+  ],
+  "spl_unclassified_section": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL.PRINCIPAL DISPLAY PANEL NDC 70771-1393-2 Fluocinonide Cream USP, 0.1% Rx only 30 g Fluocinonide Cream"
+  ],
+  "set_id": "08d69d3f-c628-4b08-a7ae-0f7ec5599d3a",
+  "id": "785b93c3-9489-4d35-9dc5-5f64d5c604ee",
+  "effective_time": "20240816",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "ANDA208989"
+    ],
+    "brand_name": [
+      "FLUOCINONIDE"
+    ],
+    "generic_name": [
+      "FLUOCINONIDE"
+    ],
+    "manufacturer_name": [
+      "Zydus Lifesciences Limited"
+    ],
+    "product_ndc": [
+      "70771-1393"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "FLUOCINONIDE"
+    ],
+    "rxcui": [
+      "485647"
+    ],
+    "spl_id": [
+      "785b93c3-9489-4d35-9dc5-5f64d5c604ee"
+    ],
+    "spl_set_id": [
+      "08d69d3f-c628-4b08-a7ae-0f7ec5599d3a"
+    ],
+    "package_ndc": [
+      "70771-1393-2",
+      "70771-1393-3",
+      "70771-1393-5"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0372578087067"
+    ],
+    "nui": [
+      "N0000175576",
+      "N0000175450"
+    ],
+    "pharm_class_epc": [
+      "Corticosteroid [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Corticosteroid Hormone Receptor Agonists [MoA]"
+    ],
+    "unii": [
+      "2W4A77YPAN"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "spl_product_data_elements": [
+    "Cold-EEZE Cold Remedy UltraMELT Chews Zinc Gluconate GLYCINE SUCRALOSE ACESULFAME POTASSIUM ZINC GLUCONATE ZINC CATION XYLITOL HYDROXYPROPYL CELLULOSE, UNSPECIFIED MAGNESIUM STEARATE ISOMALT FD&C YELLOW NO. 5 ALUMINUM LAKE ERYTHRITOL FD&C RED NO. 40 C 2nd side orange-pink"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredient Active ingredient (per tablet ) Zinc Gluconate 1X HPUS † (2.22%) (13.3 mg zinc) † The letters ‘HPUS’ indicate that the active ingredient is in the official Homeopathic Pharmacopeia of the United States."
+  ],
+  "purpose": [
+    "Purposes Cold remedy"
+  ],
+  "indications_and_usage": [
+    "Uses reduces the duration of the common cold reduces the severity of cold symptoms: cough, sore throat, nasal congestion, post nasal drip and/or hoarseness"
+  ],
+  "warnings": [
+    "Warnings Do not use for treatment of influenza or allergies. This product is intended only to reduce the duration of the common cold and its symptoms. Ask a doctor or pharmacist before use if you are taking minocycline, doxycycline, tetracycline or are on Coumadin (warfarin) therapy. Zinc treatment may inhibit the absorption of these medicines. When using this product do not take on an empty stomach (to avoid possible minor stomach upset) Stop use and ask your doctor if symptoms persist more than 7 days If pregnant or breastfeeding , ask a healthcare professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use for treatment of influenza or allergies. This product is intended only to reduce the duration of the common cold and its symptoms."
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking minocycline, doxycycline, tetracycline or are on Coumadin (warfarin) therapy. Zinc treatment may inhibit the absorption of these medicines."
+  ],
+  "when_using": [
+    "When using this product do not take on an empty stomach (to avoid possible minor stomach upset)"
+  ],
+  "stop_use": [
+    "Stop use and ask your doctor if symptoms persist more than 7 days"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding , ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions • take one chewable tablet at the onset of symptoms • chew slowly and dissolve completely in mouth before swallowing • do not swallow whole • do not eat or drink for 15 minutes after use • repeat every 2-4 hours until symptoms subside Adults 18 years and over do not exceed 6 chewable tablets per day Children 12 to under 18 years do not exceed 4 chewable tablets per day Children under 12 years ask a doctor before use"
+  ],
+  "dosage_and_administration_table": [
+    "<table border=\"0\" width=\"100%\"><tbody><tr><td>Adults 18 years and over</td><td>do not exceed 6 chewable tablets per day</td></tr><tr><td>Children 12 to under 18 years</td><td>do not exceed 4 chewable tablets per day</td></tr><tr><td>Children under 12 years</td><td>ask a doctor before use</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information store in a cool, dry place after opening best if used within 6 months after opening"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients acesulfame potassium, erythritol, FD&C red no. 40 aluminum lake, FD&C yellow No. 5 (tartrazine) aluminum lake, glycine, hydroxypropyl cellulose, isomalt, magnesium stearate, natural flavors, sucarlose, xylitol"
+  ],
+  "questions": [
+    "Questions? call 1-800-505-2653 (Mon – Fri: 8AM – 5PM EST)"
+  ],
+  "package_label_principal_display_panel": [
+    "Cold-EEZE ® COLD REMEDY ZINC GLUCONATE HOMEOPATHIC SHORTENS YOUR COLD ® UltraMELT ® Chews GREAT Tasting QUICK DISSOLVING Tablets NATURAL ORANGE FLAVOR 24 Chewable Tablets ©2022 Vespyr Brands ® , Inc. Cold-EEZE ® and ULTRAMELT ® are registered trademarks of Vespyr Brands ® , Inc. Distributed by Vespyr Brands ® , Inc. East Windsor, NJ 08520 USA This product has not been evaluated by the FDA Made in Denmark www.coldeeze.com label"
+  ],
+  "set_id": "04b6992d-c7c5-56c7-e063-6394a90ae8d0",
+  "id": "514358e2-3cb7-5306-e063-6294a90a59bb",
+  "effective_time": "20260501",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "Cold-EEZE Cold Remedy UltraMELT Chews"
+    ],
+    "generic_name": [
+      "ZINC GLUCONATE"
+    ],
+    "manufacturer_name": [
+      "Vespyr Brands LLC"
+    ],
+    "product_ndc": [
+      "71179-350"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ZINC GLUCONATE"
+    ],
+    "spl_id": [
+      "514358e2-3cb7-5306-e063-6294a90a59bb"
+    ],
+    "spl_set_id": [
+      "04b6992d-c7c5-56c7-e063-6394a90ae8d0"
+    ],
+    "package_ndc": [
+      "71179-350-24"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "U6WSN5SQ1Z"
+    ]
+  }
+}

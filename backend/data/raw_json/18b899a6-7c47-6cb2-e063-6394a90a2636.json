@@ -1,0 +1,136 @@
+{
+  "spl_product_data_elements": [
+    "Headache Relief Acetaminophen, Aspirin, Caffeine ASPIRIN ASPIRIN CAFFEINE CAFFEINE ACETAMINOPHEN ACETAMINOPHEN HYPROMELLOSE, UNSPECIFIED MICROCRYSTALLINE CELLULOSE MINERAL OIL CARNAUBA WAX SILICON DIOXIDE POVIDONE STEARIC ACID STARCH, CORN SODIUM STARCH GLYCOLATE TYPE A Capsule shaped tablet TCL477"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredients (in each caplet) Acetaminophen 250 mg Aspirin 250 mg (NSAID*) Caffeine 65 mg *nonsteroidal anti-inflammatory drug"
+  ],
+  "purpose": [
+    "Purposes Pain reliever Pain reliever Pain reliever aid"
+  ],
+  "indications_and_usage": [
+    "Uses Temporarily relieves minor aches and pains due to: headache a cold arthritis muscular aches toothache premenstrual and menstrual cramps"
+  ],
+  "warnings": [
+    "Reye’s syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye’s syndrome, a rare but serious illness. Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Allergy alert: Aspirin may cause a severe allergic reaction which may include: hives facial swelling asthma (wheezing) shock Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 8 caplets in 24 hours, which is the maximum daily amount with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you are age 60 or older have had stomach ulcers or bleeding problems take a blood thinning (anticoagulant) or steroid drug take other drugs containing prescription or nonprescription NSAIDs (aspirin, ibuprofen, naproxen, or others) have 3 or more alcoholic drinks every day while using this product take more or for a longer time than directed Caffeine warning: The recommended dose of this product contains about as much caffeine as a cup of coffee. Limit the use of caffeine-containing medications, foods, or beverages while taking this product because too much caffeine may cause nervousness, irritability, sleeplessness, and, occasionally, rapid heartbeat."
+  ],
+  "do_not_use": [
+    "Do not use if you have ever had an allergic reaction to acetaminophen, aspirin or any other pain reliever/fever reducer with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have liver disease stomach bleeding warning applies to you you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis, or kidney disease you are taking a diuretic you have asthma"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking a prescription drug for diabetes, gout, or arthritis any other drug or are under a doctor’s care for any serious condition"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if an allergic reaction occurs. Seek medical help right away. you experience any of the following signs of stomach bleeding: -feel faint -vomit blood -have bloody or black stools -have stomach pain that does not get better ringing in the ears or loss of hearing occurs painful area is red or swollen pain gets worse or lasts for more than 10 days fever gets worse or lasts for more than 3 days any new symptoms occur These could be signs of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use aspirin at 20 weeks or later in pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms"
+  ],
+  "dosage_and_administration": [
+    "Directions do not use more than directed drink a full glass of water with each dose adults and children 12 years of age and over: take 2 caplets every 6 hours; not more than 8 caplets in 24 hours children under 12 years: ask a doctor"
+  ],
+  "other_safety_information": [
+    "Other information store at 20°- 25°C (68°- 77°F); excursions permitted between 15°-30°C (59°-86°F) use by expiration date on package"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients carnauba wax, colloidal silicon dioxide, hypromellose, microcrystalline cellulose, mineral oil, povidone, pregelatinized starch, sodium starch glycolate, stearic acid"
+  ],
+  "questions": [
+    "Questions or comments ? Call 1-877-290-4008"
+  ],
+  "package_label_principal_display_panel": [
+    "477R-Headache Relief-100ct_label 477R-Headache Relief-100ct_IFC 477R-Headache Relief-24ct_label 477R-Headache Relief-24ct_IFC"
+  ],
+  "set_id": "07d34e7a-c0c6-f3c4-e063-6294a90aa5c3",
+  "id": "18b899a6-7c47-6cb2-e063-6394a90a2636",
+  "effective_time": "20240518",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M013"
+    ],
+    "brand_name": [
+      "Headache Relief"
+    ],
+    "generic_name": [
+      "ACETAMINOPHEN, ASPIRIN, CAFFEINE"
+    ],
+    "manufacturer_name": [
+      "WALGREENS"
+    ],
+    "product_ndc": [
+      "0363-7012"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ASPIRIN",
+      "CAFFEINE",
+      "ACETAMINOPHEN"
+    ],
+    "rxcui": [
+      "308297"
+    ],
+    "spl_id": [
+      "18b899a6-7c47-6cb2-e063-6394a90a2636"
+    ],
+    "spl_set_id": [
+      "07d34e7a-c0c6-f3c4-e063-6294a90aa5c3"
+    ],
+    "package_ndc": [
+      "0363-7012-42",
+      "0363-7012-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000000160",
+      "N0000008836",
+      "M0001335",
+      "N0000175722",
+      "N0000175578",
+      "N0000008832",
+      "N0000175739",
+      "N0000175729",
+      "N0000175790",
+      "M0023046"
+    ],
+    "pharm_class_moa": [
+      "Cyclooxygenase Inhibitors [MoA]"
+    ],
+    "pharm_class_pe": [
+      "Decreased Prostaglandin Production [PE]",
+      "Decreased Platelet Aggregation [PE]",
+      "Central Nervous System Stimulation [PE]"
+    ],
+    "pharm_class_cs": [
+      "Anti-Inflammatory Agents, Non-Steroidal [CS]",
+      "Xanthines [CS]"
+    ],
+    "pharm_class_epc": [
+      "Nonsteroidal Anti-inflammatory Drug [EPC]",
+      "Platelet Aggregation Inhibitor [EPC]",
+      "Central Nervous System Stimulant [EPC]",
+      "Methylxanthine [EPC]"
+    ],
+    "unii": [
+      "R16CO5Y76E",
+      "3G6A5W338E",
+      "362O9ITL9D"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "spl_product_data_elements": [
+    "Anti-Diarrheal Bismuth Subsalicylate CALCIUM CARBONATE SILICON DIOXIDE D&C RED NO. 27 ALUMINUM OXIDE MAGNESIUM STEARATE MANNITOL MICROCRYSTALLINE CELLULOSE POLYSORBATE 80 SODIUM STARCH GLYCOLATE TYPE A CORN BISMUTH SUBSALICYLATE SALICYLIC ACID G172"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Product distributed by: Lil' Drug Store Products, Inc. 9300 Earhart Lane SW, Cedar Rapids, IA 52404"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each caplet) Bismuth subsalicylate 262 mg"
+  ],
+  "purpose": [
+    "Purpose Upset stomach reliever and anti-diarrheal"
+  ],
+  "indications_and_usage": [
+    "Uses relieves: indigestion nausea heartburn diarrhea upset stomach associated with these symptoms"
+  ],
+  "warnings": [
+    "Warnings Reye's syndrome Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness. Allergy alert Contains salicylate. Do not take if you are allergic to salicylates (including aspirin) taking other salicylate products Do not use if you have bloody or black stool an ulcer a bleeding problem Ask a doctor before use if you have fever mucus in the stool Ask a doctor or pharmacist before use if you are taking any drug for anticoagulation (thinning of the blood) diabetes gout arthritis When using this product a temporary, but harmless darkening of the stool and/or tongue may occur. Stop use and ask a doctor if symptoms get worse ringing in the ears or loss of hearing occurs diarrhea lasts more than 2 days If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center immediately."
+  ],
+  "do_not_use": [
+    "Do not use if you have bloody or black stool an ulcer a bleeding problem"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have fever mucus in the stool"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking any drug for anticoagulation (thinning of the blood) diabetes gout arthritis"
+  ],
+  "when_using": [
+    "When using this product a temporary, but harmless darkening of the stool and/or tongue may occur."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if symptoms get worse ringing in the ears or loss of hearing occurs diarrhea lasts more than 2 days"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions swallow caplet(s) with water, do not chew adults and children 12 years and over: 2 caplets every 1/2 to 1 hour as needed do not take more than 8 doses (16 caplets) in 24 hours use until diarrhea stops but not more than 2 days children under 12 years: ask a doctor drink plenty of clear fluids to help prevent dehydration caused by diarrhea"
+  ],
+  "storage_and_handling": [
+    "Other information each caplet contains: calcium 27 mg, salicylate 102 mg and sodium 2 mg very low sodium store at 59°-77°F (15°-25°C), in a dry place"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients calcium carbonate, colloidal silicon dioxide, D&C red 27 lake, magnesium stearate, mannitol, microcrystalline cellulose, polysorbate 80, sodium starch glycolate"
+  ],
+  "questions": [
+    "Questions or comments? call toll-free 1-877-507-6516 (M-F 8AM-4:30PM CST)"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 262 mg Caplet Bottle Carton QUALITY ⋆ GUARANTEED ⋆ Anti- Diarrheal Bismuth subsalicylate 262 mg Upset Stomach Reliever/ Anti-diarrheal Relieves the Symptoms of Diarrhea ACTUAL SIZE 24 Caplets Lil' Drug Store ® PRINCIPAL DISPLAY PANEL - 262 mg Caplet Bottle Carton"
+  ],
+  "set_id": "079901b3-393b-44f0-85c9-2d8911f2a42a",
+  "id": "27c3b3bd-50fc-cd26-e063-6394a90ab634",
+  "effective_time": "20241125",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M008"
+    ],
+    "brand_name": [
+      "Anti-Diarrheal"
+    ],
+    "generic_name": [
+      "BISMUTH SUBSALICYLATE"
+    ],
+    "manufacturer_name": [
+      "Lil' Drug Store Products, Inc."
+    ],
+    "product_ndc": [
+      "66715-6841"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BISMUTH SUBSALICYLATE"
+    ],
+    "rxcui": [
+      "308760"
+    ],
+    "spl_id": [
+      "27c3b3bd-50fc-cd26-e063-6394a90ab634"
+    ],
+    "spl_set_id": [
+      "079901b3-393b-44f0-85c9-2d8911f2a42a"
+    ],
+    "package_ndc": [
+      "66715-6841-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0366715684141"
+    ],
+    "nui": [
+      "M0002611",
+      "N0000180183"
+    ],
+    "pharm_class_cs": [
+      "Bismuth [CS]"
+    ],
+    "pharm_class_epc": [
+      "Bismuth [EPC]"
+    ],
+    "unii": [
+      "62TEY51RR1"
+    ]
+  }
+}

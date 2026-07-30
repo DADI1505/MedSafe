@@ -1,0 +1,102 @@
+{
+  "spl_product_data_elements": [
+    "Lancome Paris UV Expert Aquagel Defense 50 Plus Sunscreen Broad Spectrum SPF 50 Plus Primer and Moisturizer with Antioxidant Vitamin E Avobenzone, Homosalate, Octisalate and Octocrylene AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE WATER ALCOHOL STYRENE/ACRYLAMIDE COPOLYMER (500000 MW) DIMETHICONE 2-ETHYLHEXYL ACRYLATE, METHACRYLATE, METHYL METHACRYLATE, OR BUTYL METHACRYLATE/HYDROXYPROPYL DIMETHICONE COPOLYMER (30000-300000 MW) TOCOPHEROL DICAPRYLYL ETHER SODIUM POLYACRYLATE (2500000 MW) SODIUM DODECYLBENZENESULFONATE SODIUM BENZOATE DIETHYLHEXYL SYRINGYLIDENEMALONATE PHENOXYETHANOL PEG-8 LAURATE TRISODIUM ETHYLENEDIAMINE DISUCCINATE MENTHYL LACTATE, (-)- PENTYLENE GLYCOL MENTHA X PIPERITA WHOLE XANTHAN GUM PROPANEDIOL LEONTOPODIUM NIVALE SUBSP. ALPINUM FLOWERING TOP CAPRYLYL GLYCOL MEDIUM-CHAIN TRIGLYCERIDES CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) MORINGA OLEIFERA LEAF SODIUM PHOSPHATE, DIBASIC, ANHYDROUS BUTYLENE GLYCOL CITRIC ACID MONOHYDRATE POTASSIUM SORBATE GLYCERIN"
+  ],
+  "active_ingredient": [
+    "Active ingredients Avobenzone 3% Homosalate 15% Octisalate 5% Octocrylene 7%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses - helps prevent sunburn - if used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "safe_handling_warning": [
+    "Flammable until dry. Do not use near fire, flame, or heat."
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin"
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions For sunscreen use: ● apply generously and evenly 15 minutes before sun exposure ● reapply at least every 2 hours ● use a water resistant sunscreen if swimming or sweating ● Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: ● limit time in the sun, especially from 10 a.m. – 2 p.m. ● wear long-sleeved shirts, pants, hats, and sunglasses ● children under 6 months of age: Ask a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information protect the product in this container from excessive heat and direct sun"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, alcohol denat., styrene/acrylates copolymer, dimethicone, acrylates/dimethicone copolymer, tocopherol, dicaprylyl ether, sodium polyacrylate, sodium dodecylbenzenesulfonate, sodium benzoate, diethylhexyl syringylidenemalonate, phenoxyethanol, PEG-8 laurate, trisodium ethylenediamine disuccinate, menthyl lactate, pentylene glycol, mentha piperita (peppermint) extract, xanthan gum, propanediol, leontopodium alpinum flower/leaf extract, caprylyl glycol, caprylic/capric triglyceride, acrylates/c10-30 alkyl acrylate crosspolymer, moringa oleifera seed extract, rosa meichibon/delgramaue callus, disodium phosphate, butylene glycol, citric acid, potassium sorbate, glycerin, fragrance"
+  ],
+  "questions": [
+    "Questions or comments? 1-800-LANCOME (1-800-526-2663) Monday - Friday (9 a.m. - 5 p.m. EST)"
+  ],
+  "package_label_principal_display_panel": [
+    "image of a carton"
+  ],
+  "set_id": "0200a00f-2b57-454d-933d-a7d48644be6e",
+  "id": "68dea1e6-2dc9-43cc-96f7-e10f0592a216",
+  "effective_time": "20240625",
+  "version": "8",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Lancome Paris UV Expert Aquagel Defense 50 Plus Sunscreen Broad Spectrum SPF 50 Plus Primer and Moisturizer with Antioxidant Vitamin E"
+    ],
+    "generic_name": [
+      "AVOBENZONE, HOMOSALATE, OCTISALATE AND OCTOCRYLENE"
+    ],
+    "manufacturer_name": [
+      "L'Oreal USA Products Inc"
+    ],
+    "product_ndc": [
+      "49967-614"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "AVOBENZONE",
+      "HOMOSALATE",
+      "OCTISALATE",
+      "OCTOCRYLENE"
+    ],
+    "spl_id": [
+      "68dea1e6-2dc9-43cc-96f7-e10f0592a216"
+    ],
+    "spl_set_id": [
+      "0200a00f-2b57-454d-933d-a7d48644be6e"
+    ],
+    "package_ndc": [
+      "49967-614-01",
+      "49967-614-02",
+      "49967-614-03",
+      "49967-614-04",
+      "49967-614-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "G63QQF2NOX",
+      "V06SV4M95S",
+      "4X49Y0596W",
+      "5A68WGF6WM"
+    ]
+  }
+}

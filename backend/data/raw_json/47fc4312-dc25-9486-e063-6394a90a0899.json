@@ -1,0 +1,81 @@
+{
+  "spl_product_data_elements": [
+    "Triple Prep SPF 40 Avobenzone, Octisalate, Octocrylene, Homosalate SODIUM BENZOATE CITRIC ACID MONOHYDRATE ARGININE SODIUM DILAURAMIDOGLUTAMIDE LYSINE POLYMETHYLSILSESQUIOXANE (11 MICRONS) AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER TOCOPHEROL ECTOINE LEVOMENOL CALCIUM SODIUM PHOSPHATE GLYCERIN POLYGLYCERIN-3 POLYGLYCERYL-3 LAURATE HYALURONATE SODIUM SODIUM LAUROYL GLUTAMATE ACRYLATES CROSSPOLYMER-4 GLUCONOLACTONE NIACINAMIDE AMMONIUM ACRYLOYLDIMETHYLTAURATE, DIMETHYLACRYLAMIDE, LAURYL METHACRYLATE AND LAURETH-4 METHACRYLATE COPOLYMER, TRIMETHYLOLPROPANE TRIACRYLATE CROSSLINKED (45000 MPA.S) BUTYLENE GLYCOL CALCIUM GLUCONATE OCTISALATE OCTISALATE AVOBENZONE AVOBENZONE WATER ISODODECANE OCTOCRYLENE OCTOCRYLENE HOMOSALATE HOMOSALATE BUTYLOCTYL SALICYLATE"
+  ],
+  "active_ingredient": [
+    "Active Ingredients: Avobenzone 3%, Homosalate 7%, Octisalate 5%, Octocrylene 6%"
+  ],
+  "purpose": [
+    "Helps prevent sunburn If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If product is swallowed, get medical help, or contact a poison control center right away."
+  ],
+  "warnings": [
+    "For External use only Do not use on damaged or broken skin When using this product , keep out of eyes. Rinse with water to remove"
+  ],
+  "indications_and_usage": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "dosage_and_administration": [
+    "Apply generously and evenly 15 minutes before sun exposure Reapply at least every 2 hours Use a water-resistant sunscreen if swimming or sweating Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 a.m.- 2 p.m. Wear long-sleeved shirts, pants, hats, and sunglasses Children under 6 months: Ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Water, Isododecane, Butyloctyl Salicylate, Calcium Aluminum Borosilicate, Glycerin, Polymethylsilsesquioxane, Polyglycerin-3, Polyglyceryl-3 Lactate/Laurate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ectoin, Acrylates Crosspolymer, Gluconolactone, Arginine, Butylene Glycol, Sodium Benzoate, Polyacrylate Crosspolymer-6, Bisabolol, Tocopherol, Citric Acid, Niacinamide, Sodium Dilauramidoglutamide Lysine, Sodium Hyaluronate, Calcium Gluconate, Sodium Polyglutamate, Hydrolyzed Rhodophyceae Extract"
+  ],
+  "package_label_principal_display_panel": [
+    "TRIPLE PREP Weightless Multitasking Moisturizer SPF 40 Broad Spectrum Sunscreen SPF 40 PA +++ 1.7 fl. oz. / 50 mL Carton"
+  ],
+  "set_id": "004df4e5-dba9-6030-e063-6394a90a76d3",
+  "id": "47fc4312-dc25-9486-e063-6394a90a0899",
+  "effective_time": "20260109",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Triple Prep SPF 40"
+    ],
+    "generic_name": [
+      "AVOBENZONE, OCTISALATE, OCTOCRYLENE, HOMOSALATE"
+    ],
+    "manufacturer_name": [
+      "Supergoop, LLC"
+    ],
+    "product_ndc": [
+      "75936-621"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OCTISALATE",
+      "AVOBENZONE",
+      "OCTOCRYLENE",
+      "HOMOSALATE"
+    ],
+    "spl_id": [
+      "47fc4312-dc25-9486-e063-6394a90a0899"
+    ],
+    "spl_set_id": [
+      "004df4e5-dba9-6030-e063-6394a90a76d3"
+    ],
+    "package_ndc": [
+      "75936-621-01",
+      "75936-621-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "4X49Y0596W",
+      "G63QQF2NOX",
+      "5A68WGF6WM",
+      "V06SV4M95S"
+    ]
+  }
+}

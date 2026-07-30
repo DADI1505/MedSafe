@@ -1,0 +1,96 @@
+{
+  "spl_product_data_elements": [
+    "Gas Relief Extra Strength SIMETHICONE DIMETHICONE DIMETHICONE D&C YELLOW NO. 10 FD&C BLUE NO. 1 FD&C RED NO. 40 GELATIN GLYCERIN PEPPERMINT OIL WATER SORBITAN SORBITOL TITANIUM DIOXIDE MANNITOL PO"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each softgel) Simethicone 125 mg"
+  ],
+  "purpose": [
+    "Purpose Antigas"
+  ],
+  "indications_and_usage": [
+    "Uses for the relief of pressure, bloating, and fullness commonly referred to as gas"
+  ],
+  "warnings": [
+    "Warnings If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions adults : swallow with water 1 or 2 softgels as needed after meals and at bedtime do not exceed 4 softgels in 24 hours except under the advise and supervision of a physician"
+  ],
+  "storage_and_handling": [
+    "Other information store between 20-25ºC (68-77º) do not refrigerate protect from light, heat, and moisture"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients D&C yellow #10, edible ink, FD&C blue #1, FD&C red #40, gelatin, glycerin, mannitol, peppermint oil, purified water, sorbitan, sorbitol, titanium dioxide"
+  ],
+  "questions": [
+    "Questions or comments? Call toll free 1-800-934-1204 Monday-Friday 9AM-5PM EST"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Compare to the active ingredient in Gas-X® Extra Strength† EXTRA STRENGTH GAS RELIEF SIMETHICONE, 125 mg ANTIGAS FAST RELIEF OF PRESSURE BLOATING DISCOMFORT SOFTGELS SMALL, EASY TO SWALLOW †This product is not manufactured or distributed by GSK Consumer Healthcare, distributor of Gas-X® Extra Strength. TAMPER EVIDENT: DO NOT USE IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING. KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. Distributed by BJ's Wholesale Club 25 Research Drive Westborough, MA 01581",
+    "Product Label BERKLEY JENSEN (BJ's Extra Strength Gas Relief Simethicone 125 mg"
+  ],
+  "set_id": "0198f55b-735d-4354-83aa-acdc644af2c9",
+  "id": "03fbef9b-9830-45cb-a6bc-f627f9f7191d",
+  "effective_time": "20251119",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M002"
+    ],
+    "brand_name": [
+      "Gas Relief Extra Strength"
+    ],
+    "generic_name": [
+      "SIMETHICONE"
+    ],
+    "manufacturer_name": [
+      "BJWC (Berkley & Jensen / BJ's)"
+    ],
+    "product_ndc": [
+      "68391-597"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIMETHICONE"
+    ],
+    "rxcui": [
+      "198852"
+    ],
+    "spl_id": [
+      "03fbef9b-9830-45cb-a6bc-f627f9f7191d"
+    ],
+    "spl_set_id": [
+      "0198f55b-735d-4354-83aa-acdc644af2c9"
+    ],
+    "package_ndc": [
+      "68391-597-12"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0888670010020"
+    ],
+    "nui": [
+      "N0000010282"
+    ],
+    "pharm_class_pe": [
+      "Skin Barrier Activity [PE]"
+    ],
+    "unii": [
+      "92RU3N3Y1O"
+    ]
+  }
+}

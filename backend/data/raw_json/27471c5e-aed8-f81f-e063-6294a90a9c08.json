@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Gas-Aid Drops for infants simethicone BENZOIC ACID MAGNESIUM ALUMINUM SILICATE WATER SORBITOL XANTHAN GUM DIMETHICONE DIMETHICONE"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each 0.3 mL) simethicone 20 mg"
+  ],
+  "purpose": [
+    "Purpose Antigas"
+  ],
+  "indications_and_usage": [
+    "Uses relieves the symptoms of gas frequently caused by air swallowing or certain formulas or foods"
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "warnings": [
+    "Warnings When using this product do not exceed 12 doses per day Keep out of reach of children. In case of overdose get medical help or contact a poison control center immediately."
+  ],
+  "when_using": [
+    "When using this product do not exceed 12 doses per day Keep out of reach of children. In case of overdose get medical help or contact a poison control center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions shake well before using all dosages may be repeated as needed, after meals and at bedtime fill enclosed dropper to recommend dosage level dispense liquid slowly into baby's mouth, toward the inner cheek may mix with 1 oz. of cool water, infant formula or other suitable liquids clean dropper after each use and close the bottle to maintain child resistance age (yr) weight (lb) dose infants under2 under 24 0.3 mL children over 2 over 24 0.6 mL"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"441px\"><caption/><tbody><tr><td> age (yr) </td><td>weight (lb) </td><td> dose</td></tr><tr><td> infants under2</td><td> under 24</td><td> 0.3 mL</td></tr><tr><td> children over 2</td><td> over 24</td><td><paragraph> 0.6 mL </paragraph></td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information store at room temperature"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients benzoic acid, flavor, magnesium aluminum silicate, purified water, simethicone emulsion, sorbitol, xanthan gum"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Gas-Aid drops for infant's Fast relief of Simethicone Anti-Gas No Saccharin or artificial flavor Alcohol and dye Free Non-staining 1 fl oz (30 mL) Box"
+  ],
+  "set_id": "06665701-5f1c-4f8f-8775-e0a4a9ef2029",
+  "id": "27471c5e-aed8-f81f-e063-6294a90a9c08",
+  "effective_time": "20241119",
+  "version": "15",
+  "openfda": {
+    "application_number": [
+      "M002"
+    ],
+    "brand_name": [
+      "Gas-Aid Drops for infants"
+    ],
+    "generic_name": [
+      "SIMETHICONE"
+    ],
+    "manufacturer_name": [
+      "Leosons Overseas Corp"
+    ],
+    "product_ndc": [
+      "69626-5200"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIMETHICONE"
+    ],
+    "rxcui": [
+      "198857"
+    ],
+    "spl_id": [
+      "27471c5e-aed8-f81f-e063-6294a90a9c08"
+    ],
+    "spl_set_id": [
+      "06665701-5f1c-4f8f-8775-e0a4a9ef2029"
+    ],
+    "package_ndc": [
+      "69626-5200-9"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000010282"
+    ],
+    "pharm_class_pe": [
+      "Skin Barrier Activity [PE]"
+    ],
+    "unii": [
+      "92RU3N3Y1O"
+    ]
+  }
+}

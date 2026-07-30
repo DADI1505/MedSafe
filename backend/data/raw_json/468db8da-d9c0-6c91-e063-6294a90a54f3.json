@@ -1,0 +1,94 @@
+{
+  "spl_product_data_elements": [
+    "MGC Health Cough Drops Creamy Strawberry CORN SYRUP SUCROSE WATER CITRIC ACID MONOHYDRATE BETA CAROTENE LACTIC ACID POTASSIUM CITRATE LECITHIN, SOYBEAN TITANIUM DIOXIDE FD&C BLUE NO. 2 FD&C RED NO. 40 SODIUM CHLORIDE SUCRALOSE MALIC ACID MENTHOL MENTHOL PECTIN PECTIN"
+  ],
+  "active_ingredient": [
+    "Active Ingredient(s) Menthol 2.5 mg Pactin 7 mg"
+  ],
+  "purpose": [
+    "Purpose Pectin: oral demulcent Menthol: cough suppressant, oral anesthetic"
+  ],
+  "indications_and_usage": [
+    "Use temporarily relieves the following symptoms associated with sore mouth and sore throat: minor discomfort irritated areas"
+  ],
+  "warnings": [
+    "Warnings Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or follow headache, rash, swelling, nausea, or vomiting, consult a doctor promptly. These may be serious."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have: ■ persistent or chronic cough such as occurs with smoking, asthma, or emphysema ■ cough accompanied by excessive phlegm (mucus)."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if ■ sore mouth does not improve in 7 days m, irritation, pain, or redness persists or worsens."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 5 ears and over: dissolve 1 or 2 drops (one at a time) slowly in the mouth. Repeat as needed children under 5 years: ask a doctor."
+  ],
+  "storage_and_handling": [
+    "Other information ■ 15 calories per drop ■ contains: SOY."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients beta carotene, citric acid, FD&C blue 2, FD&C red 40, flavors, glucose syrup, lactic acid, malle acid, potassium citrate, soy lecithin, sucrose, titanium dioxide,sucralose, water."
+  ],
+  "questions": [
+    "Call Toll-Free 866-306-9136 or visit our website: www.mgc.us customerservice@mgc.us"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Label - Principal Display Panel 30 Drops NDC: 83173-129-30 MGC label 30CT"
+  ],
+  "set_id": "043a5e11-30c3-44cd-e063-6394a90a318b",
+  "id": "468db8da-d9c0-6c91-e063-6294a90a54f3",
+  "effective_time": "20251222",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "MGC Health"
+    ],
+    "generic_name": [
+      "COUGH DROPS CREAMY STRAWBERRY"
+    ],
+    "manufacturer_name": [
+      "Medical Group Care LLC"
+    ],
+    "product_ndc": [
+      "83173-129"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MENTHOL",
+      "PECTIN"
+    ],
+    "rxcui": [
+      "2664063"
+    ],
+    "spl_id": [
+      "468db8da-d9c0-6c91-e063-6294a90a54f3"
+    ],
+    "spl_set_id": [
+      "043a5e11-30c3-44cd-e063-6394a90a318b"
+    ],
+    "package_ndc": [
+      "83173-129-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0383173000559"
+    ],
+    "unii": [
+      "L7T10EIP3A",
+      "89NA02M4RX"
+    ]
+  }
+}

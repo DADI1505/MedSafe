@@ -1,0 +1,96 @@
+{
+  "spl_product_data_elements": [
+    "Sinusitis Drops 2060 Sinusitis Drops BLACK MUSTARD SEED BLACK MUSTARD SEED PULSATILLA MONTANA WHOLE PULSATILLA MONTANA WHOLE EUPHORBIA RESINIFERA RESIN EUPHORBIA RESINIFERA RESIN CALCIUM SULFIDE CALCIUM SULFIDE POTASSIUM DICHROMATE DICHROMATE ION LUFFA OPERCULATA FRUIT LUFFA OPERCULATA FRUIT SILICON DIOXIDE SILICON DIOXIDE GUAIAC GUAIAC MERCURIC SULFIDE MERCURIC CATION ALCOHOL WATER"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS Sinapis nigra 3X Pulsatilla 4X Euphorbium officinarum 6X Hepar sulphuris calcareum 6X Kali bichromicum 6X Luffa operculata 6X Silicea 6X Guaiacum 8X Cinnabaris 12X"
+  ],
+  "questions": [
+    "QUESTIONS Professional Formulas PO Box 2034 Lake Oswego, OR 97035"
+  ],
+  "indications_and_usage": [
+    "INDICATIONS For the temporary relief of runny nose, nasal congestion, headache, or mild facial or ear pain due to a cold, hay fever, or other upper respiratory allergies.*"
+  ],
+  "purpose": [
+    "*Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS If symptoms do not improve or are accompanied by fever, consult a doctor. Keep out of the reach of children. In case of overdose, get medical help or contact a poison control center right away. If pregnant or breastfeeding, ask a healthcare professional before use. Keep out of the reach of children. If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take 10 drops up to 3 times per day for up to 6 weeks. For immediate onset of symptoms, take 10 to 15 drops every 15 minutes up to 3 hours. For less severe symptoms, take 10-15 drops hourly up to 8 hours. Consult a physician for use in children under 12 years of age."
+  ],
+  "other_safety_information": [
+    "OTHER INFORMATION Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS 20% ethanol, purified water."
+  ],
+  "package_label_principal_display_panel": [
+    "LABEL Est 1985 Professional Formulas Complementary Health Sinusitis Drops Homeopathic Remedy 2 FL. OZ. (59 mL) Label image"
+  ],
+  "set_id": "00469764-e0ab-45cf-8e61-6bdc67d31e54",
+  "id": "33890a6e-1d1f-42eb-aa45-05cb5bd86e33",
+  "effective_time": "20260108",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Sinusitis Drops 2060"
+    ],
+    "generic_name": [
+      "SINUSITIS DROPS"
+    ],
+    "manufacturer_name": [
+      "Professional Complementary Health Formulas"
+    ],
+    "product_ndc": [
+      "63083-2060"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BLACK MUSTARD SEED",
+      "PULSATILLA MONTANA WHOLE",
+      "EUPHORBIA RESINIFERA RESIN",
+      "CALCIUM SULFIDE",
+      "POTASSIUM DICHROMATE",
+      "LUFFA OPERCULATA FRUIT",
+      "SILICON DIOXIDE",
+      "GUAIAC",
+      "MERCURIC SULFIDE"
+    ],
+    "spl_id": [
+      "33890a6e-1d1f-42eb-aa45-05cb5bd86e33"
+    ],
+    "spl_set_id": [
+      "00469764-e0ab-45cf-8e61-6bdc67d31e54"
+    ],
+    "package_ndc": [
+      "63083-2060-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8LTY55LQ8D",
+      "24K790T39B",
+      "1TI1O9028K",
+      "1MBW07J51Q",
+      "T4423S18FM",
+      "C4MO6809HU",
+      "ETJ7Z6XBU4",
+      "03C8A0DFJ8",
+      "ZI0T668SF1"
+    ]
+  }
+}

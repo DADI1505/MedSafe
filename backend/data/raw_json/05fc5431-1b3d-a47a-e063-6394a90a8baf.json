@@ -1,0 +1,128 @@
+{
+  "spl_product_data_elements": [
+    "Rhododendron Chrysanthum Rhododendron Chrysanthum SUCROSE RHODODENDRON AUREUM LEAF RHODODENDRON AUREUM LEAF Rhododendron Chrysanthum Rhododendron Chrysanthum SUCROSE RHODODENDRON AUREUM LEAF RHODODENDRON AUREUM LEAF Rhododendron Chrysanthum Rhododendron Chrysanthum SUCROSE RHODODENDRON AUREUM LEAF RHODODENDRON AUREUM LEAF Rhododendron Chrysanthum Rhododendron Chrysanthum SUCROSE RHODODENDRON AUREUM LEAF RHODODENDRON AUREUM LEAF Rhododendron Chrysanthum Rhododendron Chrysanthum SUCROSE RHODODENDRON AUREUM LEAF RHODODENDRON AUREUM LEAF Rhododendron Chrysanthum Rhododendron Chrysanthum SUCROSE RHODODENDRON AUREUM LEAF RHODODENDRON AUREUM LEAF Rhododendron Chrysanthum Rhododendron Chrysanthum SUCROSE RHODODENDRON AUREUM LEAF RHODODENDRON AUREUM LEAF Rhododendron Chrysanthum Rhododendron Chrysanthum SUCROSE RHODODENDRON AUREUM LEAF RHODODENDRON AUREUM LEAF Rhododendron Chrysanthum Rhododendron Chrysanthum SUCROSE RHODODENDRON AUREUM LEAF RHODODENDRON AUREUM LEAF"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Rhododendron Chrysanthum 6C 5g Rhododendron Chrysanthum 6C 30g Rhododendron Chrysanthum 6C 100g Rhododendron Chrysanthum 12C 5g Rhododendron Chrysanthum 12C 30g Rhododendron Chrysanthum 12C 100g Rhododendron Chrysanthum 30C 1g Rhododendron Chrysanthum 30C 5g Rhododendron Chrysanthum 30C 30g Rhododendron Chrysanthum 30C 100g Rhododendron Chrysanthum 100C 1g Rhododendron Chrysanthum 100C 5g Rhododendron Chrysanthum 100C 30g Rhododendron Chrysanthum 100C 100g Rhododendron Chrysanthum 200C 1g Rhododendron Chrysanthum 200C 5g Rhododendron Chrysanthum 200C 30g Rhododendron Chrysanthum 200C 100g Rhododendron Chrysanthum 500C 1g Rhododendron Chrysanthum 500C 5g Rhododendron Chrysanthum 500C 30g Rhododendron Chrysanthum 500C 100g Rhododendron Chrysanthum 1M 1g Rhododendron Chrysanthum 1M 5g Rhododendron Chrysanthum 1M 30g Rhododendron Chrysanthum 1M 100g Rhododendron Chrysanthum 10M 1g Rhododendron Chrysanthum 10M 5g Rhododendron Chrysanthum 10M 30g Rhododendron Chrysanthum 10M 100g Rhododendron Chrysanthum LM1 30g"
+  ],
+  "set_id": "05fc5431-1b3c-a47a-e063-6394a90a8baf",
+  "id": "05fc5431-1b3d-a47a-e063-6394a90a8baf",
+  "effective_time": "20230922",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Rhododendron Chrysanthum"
+    ],
+    "generic_name": [
+      "RHODODENDRON CHRYSANTHUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3999",
+      "37662-4000",
+      "37662-4003",
+      "37662-4001",
+      "37662-4005",
+      "37662-4006",
+      "37662-4002",
+      "37662-4004",
+      "37662-4007"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "RHODODENDRON AUREUM LEAF"
+    ],
+    "spl_id": [
+      "05fc5431-1b3d-a47a-e063-6394a90a8baf"
+    ],
+    "spl_set_id": [
+      "05fc5431-1b3c-a47a-e063-6394a90a8baf"
+    ],
+    "package_ndc": [
+      "37662-4000-1",
+      "37662-4000-2",
+      "37662-4000-3",
+      "37662-4003-1",
+      "37662-4003-2",
+      "37662-4003-3",
+      "37662-4003-4",
+      "37662-4001-1",
+      "37662-4001-2",
+      "37662-4001-3",
+      "37662-4001-4",
+      "37662-4005-1",
+      "37662-4005-2",
+      "37662-4005-3",
+      "37662-4005-4",
+      "37662-4006-1",
+      "37662-4006-2",
+      "37662-4006-3",
+      "37662-4006-4",
+      "37662-4002-1",
+      "37662-4002-2",
+      "37662-4002-3",
+      "37662-4002-4",
+      "37662-3999-1",
+      "37662-3999-2",
+      "37662-3999-3",
+      "37662-4004-1",
+      "37662-4004-2",
+      "37662-4004-3",
+      "37662-4004-4",
+      "37662-4007-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "IV92NQJ73U"
+    ]
+  }
+}

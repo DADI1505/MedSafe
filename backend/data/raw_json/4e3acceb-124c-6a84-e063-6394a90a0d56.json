@@ -1,0 +1,77 @@
+{
+  "spl_product_data_elements": [
+    "HCBIOPHARM CELL DETOX ATOPY FLUSH TOXINS THAT TRIGGER ATOPIC SKIN, IMPROVE SKIN HEALTH GREEN TEA LEAF GERANIUM THUNBERGII WHOLE PORTULACA OLERACEA LEAF PORTULACA OLERACEA LEAF TARAXACUM OFFICINALE PLANTAGO ASIATICA LONICERA JAPONICA FLOWER SAURURUS CHINENSIS WHOLE SAURURUS CHINENSIS WHOLE CUSCUTA JAPONICA SEED GLYCYRRHIZA GLABRA"
+  ],
+  "active_ingredient": [
+    "Saururus chinensis 1X Portulaca oleracea Leaf 1X"
+  ],
+  "purpose": [
+    "Detoxifies cesium, narcotics, dioxin, heavy metal, pesticides, and artificial chemicals from human cells.*"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children"
+  ],
+  "dosage_and_administration": [
+    "Take two (2) capsules twice a day. If severe, take two (2) capsules three times a day."
+  ],
+  "indications_and_usage": [
+    "To detoxify toxic substances from human cells, such as cesium, narcotics, dioxin, heavy metal, pesticides, and artificial chemicals* To improve skin health* To promote anti-inflammatory and anti-oxidant support*"
+  ],
+  "inactive_ingredient": [
+    "Cuscuta Seed (Cuscuta japonica), Asiatic Plantain (Plantago asiatica), Japanese Honeysuckle (Lonicera japonica) Flower, Thunberg’s Geranium (Geranium thunbergii), Green Tea Leaf, Dandelion (Taraxacum officinale), Licorice (Glycyrrhiza glabra)"
+  ],
+  "warnings": [
+    "Individuals with known medical conditions should consult a doctor prior to using this."
+  ],
+  "other_safety_information": [
+    "Do not use if seal is broken. Do not eat freshness packet enclosed. Keep out of direct sunlight, high temperature, and humidity. Store in a cool, dry place."
+  ],
+  "package_label_principal_display_panel": [
+    "cell detox atopy"
+  ],
+  "set_id": "04a6a84c-d44f-beef-e063-6394a90ad9c8",
+  "id": "4e3acceb-124c-6a84-e063-6394a90a0d56",
+  "effective_time": "20260330",
+  "version": "4",
+  "openfda": {
+    "brand_name": [
+      "HCBIOPHARM CELL DETOX ATOPY"
+    ],
+    "generic_name": [
+      "FLUSH TOXINS THAT TRIGGER ATOPIC SKIN, IMPROVE SKIN HEALTH"
+    ],
+    "manufacturer_name": [
+      "HCBIOPHARM"
+    ],
+    "product_ndc": [
+      "80353-150"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PORTULACA OLERACEA LEAF",
+      "SAURURUS CHINENSIS WHOLE"
+    ],
+    "spl_id": [
+      "4e3acceb-124c-6a84-e063-6394a90a0d56"
+    ],
+    "spl_set_id": [
+      "04a6a84c-d44f-beef-e063-6394a90ad9c8"
+    ],
+    "package_ndc": [
+      "80353-150-02",
+      "80353-150-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "9JW9D9JGHZ",
+      "6DRV3D37XS"
+    ]
+  }
+}

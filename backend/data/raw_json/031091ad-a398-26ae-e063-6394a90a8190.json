@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Strontium Oxydatum Strontium Oxydatum SUCROSE STRONTIUM OXIDE STRONTIUM OXIDE Strontium Oxydatum Strontium Oxydatum SUCROSE STRONTIUM OXIDE STRONTIUM OXIDE Strontium Oxydatum Strontium Oxydatum SUCROSE STRONTIUM OXIDE STRONTIUM OXIDE Strontium Oxydatum Strontium Oxydatum SUCROSE STRONTIUM OXIDE STRONTIUM OXIDE Strontium Oxydatum Strontium Oxydatum SUCROSE STRONTIUM OXIDE STRONTIUM OXIDE Strontium Oxydatum Strontium Oxydatum SUCROSE STRONTIUM OXIDE STRONTIUM OXIDE Strontium Oxydatum Strontium Oxydatum SUCROSE STRONTIUM OXIDE STRONTIUM OXIDE Strontium Oxydatum Strontium Oxydatum SUCROSE STRONTIUM OXIDE STRONTIUM OXIDE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Strontium Oxydatum 6C 5g Strontium Oxydatum 6C 30g Strontium Oxydatum 6C 100g Strontium Oxydatum 12C 5g Strontium Oxydatum 12C 30g Strontium Oxydatum 12C 100g Strontium Oxydatum 30C 1g Strontium Oxydatum 30C 5g Strontium Oxydatum 30C 30g Strontium Oxydatum 30C 100g Strontium Oxydatum 100C 1g Strontium Oxydatum 100C 5g Strontium Oxydatum 100C 30g Strontium Oxydatum 100C 100g Strontium Oxydatum 200C 1g Strontium Oxydatum 200C 5g Strontium Oxydatum 200C 30g Strontium Oxydatum 200C 100g Strontium Oxydatum 500C 1g Strontium Oxydatum 500C 5g Strontium Oxydatum 500C 30g Strontium Oxydatum 500C 100g Strontium Oxydatum 1M 1g Strontium Oxydatum 1M 5g Strontium Oxydatum 1M 30g Strontium Oxydatum 1M 100g Strontium Oxydatum LM1 30g"
+  ],
+  "set_id": "031091ad-a397-26ae-e063-6394a90a8190",
+  "id": "031091ad-a398-26ae-e063-6394a90a8190",
+  "effective_time": "20230816",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Strontium Oxydatum"
+    ],
+    "generic_name": [
+      "STRONTIUM OXYDATUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3720",
+      "37662-3726",
+      "37662-3723",
+      "37662-3722",
+      "37662-3721",
+      "37662-3724",
+      "37662-3725",
+      "37662-3727"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "STRONTIUM OXIDE"
+    ],
+    "spl_id": [
+      "031091ad-a398-26ae-e063-6394a90a8190"
+    ],
+    "spl_set_id": [
+      "031091ad-a397-26ae-e063-6394a90a8190"
+    ],
+    "package_ndc": [
+      "37662-3720-1",
+      "37662-3720-2",
+      "37662-3720-3",
+      "37662-3726-1",
+      "37662-3726-2",
+      "37662-3726-3",
+      "37662-3726-4",
+      "37662-3723-1",
+      "37662-3723-2",
+      "37662-3723-3",
+      "37662-3723-4",
+      "37662-3722-1",
+      "37662-3722-2",
+      "37662-3722-3",
+      "37662-3722-4",
+      "37662-3721-1",
+      "37662-3721-2",
+      "37662-3721-3",
+      "37662-3724-1",
+      "37662-3724-2",
+      "37662-3724-3",
+      "37662-3724-4",
+      "37662-3725-1",
+      "37662-3725-2",
+      "37662-3725-3",
+      "37662-3725-4",
+      "37662-3727-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "64RA22280P"
+    ]
+  }
+}

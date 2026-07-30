@@ -1,0 +1,69 @@
+{
+  "spl_product_data_elements": [
+    "Mesalamine Mesalamine MESALAMINE MESALAMINE ETHYLCELLULOSE (10 MPA.S) HYPROMELLOSE 2910 (5 MPA.S) METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1) TALC TRIETHYL CITRATE FD&C BLUE NO. 1 GELATIN WATER SODIUM LAURYL SULFATE TITANIUM DIOXIDE FERROSOFERRIC OXIDE POTASSIUM HYDROXIDE PROPYLENE GLYCOL SHELLAC SUCROSE STARCH, CORN opaque blue cap opaque blue body 452"
+  ],
+  "spl_unclassified_section": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Mesalamine Extended-Release Capsules, 0.375 g 120 capsules NDC 70771-1625-7 Rx only mfg label"
+  ],
+  "set_id": "04073681-a834-4f45-91c5-224b608b30e6",
+  "id": "e6ae9f47-11d7-4676-b1ae-0c4f4d1830c6",
+  "effective_time": "20241130",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "ANDA208954"
+    ],
+    "brand_name": [
+      "Mesalamine"
+    ],
+    "generic_name": [
+      "MESALAMINE"
+    ],
+    "manufacturer_name": [
+      "Zydus Lifesciences Limited"
+    ],
+    "product_ndc": [
+      "70771-1625"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MESALAMINE"
+    ],
+    "rxcui": [
+      "825130"
+    ],
+    "spl_id": [
+      "e6ae9f47-11d7-4676-b1ae-0c4f4d1830c6"
+    ],
+    "spl_set_id": [
+      "04073681-a834-4f45-91c5-224b608b30e6"
+    ],
+    "package_ndc": [
+      "70771-1625-7"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175781",
+      "M0000971"
+    ],
+    "pharm_class_epc": [
+      "Aminosalicylate [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Aminosalicylic Acids [CS]"
+    ],
+    "unii": [
+      "4Q81I59GXC"
+    ]
+  }
+}

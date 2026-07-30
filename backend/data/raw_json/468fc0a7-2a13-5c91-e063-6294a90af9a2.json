@@ -1,0 +1,111 @@
+{
+  "spl_product_data_elements": [
+    "Vitapirena ACETAMINOPHEN ANHYDROUS CITRIC ACID SODIUM BICARBONATE POVIDONE K30 WATER FRUCTOSE SUCRALOSE ACETAMINOPHEN ACETAMINOPHEN SILICON DIOXIDE +Chamomile"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Distributed by: PHARMADEL LLC. New Castle, DE 19720"
+  ],
+  "active_ingredient": [
+    "Active ingredient & Purposes Active ingredient (in each packet) Purposes Acetaminophen 500 mg Pain reliever/ fever reducer"
+  ],
+  "active_ingredient_table": [
+    "<table border=\"0\" width=\"100%\"><tbody><tr><td><content styleCode=\"italics\"><content styleCode=\"bold\">Active ingredient (in each packet)</content></content></td><td><content styleCode=\"italics\"><content styleCode=\"bold\">Purposes</content></content></td></tr><tr><td><content styleCode=\"bold\">Acetaminophen 500 mg</content></td><td>Pain reliever/ fever reducer</td></tr></tbody></table>"
+  ],
+  "purpose": [
+    "Active ingredient (in each packet) Purposes Acetaminophen 500 mg Pain reliever/ fever reducer"
+  ],
+  "purpose_table": [
+    "<table border=\"0\" width=\"100%\"><tbody><tr><td><content styleCode=\"italics\"><content styleCode=\"bold\">Active ingredient (in each packet)</content></content></td><td><content styleCode=\"italics\"><content styleCode=\"bold\">Purposes</content></content></td></tr><tr><td><content styleCode=\"bold\">Acetaminophen 500 mg</content></td><td>Pain reliever/ fever reducer</td></tr></tbody></table>"
+  ],
+  "indications_and_usage": [
+    "Uses For the temporary relief of minor aches and pains associated with sore throat headache the common cold/ flu muscular aches backache minor pain from arthritis and to reduce fever"
+  ],
+  "warnings": [
+    "Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if: adult takes more than 8 packets in 24 hours, which is the maximum daily amount for this product child takes more than 5 packets in 24 hours with other drugs containing acetaminophen adult has 3 or more alcoholic drinks everyday while using this product Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if allergic to acetaminophen or any other of the inactive ingredients in this product Ask a doctor before use if the user has liver disease is a child with pain from arthritis Ask a doctor or pharmacist before use if the user is taking the blood thinning drug warfarin Stop use and ask a doctor if adult’s pain gets worse or lasts more than 10 days child’s pain gets worse or lasts more than 5 days fever gets worse or lasts more than 3 days redness or swelling is present any new symptoms appear If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children. In case of an accidental overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+  ],
+  "do_not_use": [
+    "Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if allergic to acetaminophen or any other of the inactive ingredients in this product"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if the user has liver disease is a child with pain from arthritis"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if the user is taking the blood thinning drug warfarin"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if adult’s pain gets worse or lasts more than 10 days child’s pain gets worse or lasts more than 5 days fever gets worse or lasts more than 3 days redness or swelling is present any new symptoms appear"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of an accidental overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+  ],
+  "dosage_and_administration": [
+    "Directions do not take more than directed Age Dose adults and children 12 years of age and over take one (1) packet, every 4 hours. Do not exceed; adults 8 packets or children 5 packets in 24 hours children under 12 years of age do not use"
+  ],
+  "dosage_and_administration_table": [
+    "<table border=\"0\" width=\"100%\"><tbody><tr><td><content styleCode=\"bold\">Age</content></td><td><content styleCode=\"bold\">Dose</content></td></tr><tr><td>adults and children 12 years of age and over</td><td>take one (1) packet, every 4 hours. Do not exceed; <content styleCode=\"bold\">adults 8 packets </content>or <content styleCode=\"bold\">children 5 packets</content> in 24 hours </td></tr><tr><td>children under 12 years of age</td><td><content styleCode=\"bold\">do not use</content></td></tr></tbody></table>"
+  ],
+  "other_safety_information": [
+    "Other information each 5g packet contains: 1 78 mg sodium store at room temprature 77-86° F (25-30° C)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients chamomile lemon flavor, citric acid monohydrate, fructose, povidone k30, silicon dioxide, sodium bicarbonate, sucralose, water"
+  ],
+  "questions": [
+    "Questions? +1-866--359-3478 (M-F) 9 AM - 5 PM EST or www.pharmadel.com"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel PDP Vitapirena CL"
+  ],
+  "set_id": "0547bc1f-d000-f5a6-e063-6294a90ac73d",
+  "id": "468fc0a7-2a13-5c91-e063-6294a90af9a2",
+  "effective_time": "20251222",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M013"
+    ],
+    "brand_name": [
+      "Vitapirena"
+    ],
+    "generic_name": [
+      "ACETAMINOPHEN"
+    ],
+    "manufacturer_name": [
+      "Pharmadel LLC"
+    ],
+    "product_ndc": [
+      "55758-012"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACETAMINOPHEN"
+    ],
+    "rxcui": [
+      "2668206"
+    ],
+    "spl_id": [
+      "468fc0a7-2a13-5c91-e063-6294a90af9a2"
+    ],
+    "spl_set_id": [
+      "0547bc1f-d000-f5a6-e063-6294a90ac73d"
+    ],
+    "package_ndc": [
+      "55758-012-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "362O9ITL9D"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Walgreens Infants Dye Free Gas Relief Simethicone CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED ANHYDROUS CITRIC ACID MICROCRYSTALLINE CELLULOSE POLYSORBATE 60 POTASSIUM SORBATE WATER SODIUM BENZOATE SORBITAN MONOSTEARATE SORBITOL XANTHAN GUM DIMETHICONE, UNSPECIFIED DIMETHICONE white to off white, opaque"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each 0.3 mL) Simethicone 20 mg"
+  ],
+  "purpose": [
+    "Purpose Antigas"
+  ],
+  "indications_and_usage": [
+    "Uses relieves the discomfort of infant gas frequently caused by air swallowing or certain formulas or foods"
+  ],
+  "warnings": [
+    "Warnings Keep out of reach of children. Overdose warning: In case of overdose, get medical help or contact a Poison Control Center right away at 1-800-222-1222. Quick medical attention is critical even if you do not notice any signs or symptoms"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. Overdose warning: In case of overdose, get medical help or contact a Poison Control Center right away at 1-800-222-1222. Quick medical attention is critical even if you do not notice any signs or symptoms"
+  ],
+  "dosage_and_administration": [
+    "Directions shake well before using find right dose on chart below. if possible, use weight to dose; otherwise use age. only use the enclosed syringe. Do not use other syringe, dropper, spoon or dosing device when giving this medicine to your child . remove cap and insert syringe into the bottle. pull syringe up until filled to the prescribed level, if you pass the prescribed level, simply push syringe back until you have reached the desired level, Slowly dispense the liquid into your child’s mouth (towards inner cheek) all dosages may be repeated needed, after meals and at bedtime or as directed by a physician. do not exceed 12 doses per day. dosage can also be mixed with 1 oz. cool water, infant formula or other suitable liquids replace cap tightly to maintain child resistance mL= milliliter Age (yr) Weight (lb) Dose( mL) infants under 2 under 24 0.3 children over 2 over 24 0.6"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"100%\"><col width=\"42%\"/><col width=\"36%\"/><col width=\"22%\"/><tbody><tr><td align=\"center\" styleCode=\"Botrule Lrule Toprule \" valign=\"top\"><paragraph>Age (yr)</paragraph></td><td align=\"center\" styleCode=\"Botrule Lrule Toprule \" valign=\"top\"><paragraph>Weight (lb)</paragraph></td><td align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph>Dose( mL)</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>infants under 2</paragraph></td><td align=\"center\" styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>under 24</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>0.3</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Botrule Lrule \" valign=\"top\"><paragraph>children over 2</paragraph></td><td align=\"center\" styleCode=\"Botrule Lrule \" valign=\"top\"><paragraph>over 24</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>0.6</paragraph></td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information tamper evident: do not use if printed seal under cap is broken or missing store at room temperature do not freeze see bottom panel for lot number and expiration date"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients carboxymethylcellulose sodium, citric acid, microcrystalline cellulose, natural flavors, polysorbate 60, potassium sorbate, purified water, sodium benzoate, sorbitan monostearate, sorbitol, xanthan gum. Questions? 1-866-467-2748"
+  ],
+  "questions": [
+    "Questions? 1-866-467-2748"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Walgreens Compare to infant’s Mylicon Gas Relief active ingredient†† Infants' Dye- Free Gas Relief Simethicone 20 mg PER DOSE /ANTI-GAS DYE FREE NONSTAINING FORMULA ALCOHOL FREE No saccharin No artificial flavor Includes dosing syringe 100 DOSES DYE FREE 1 FL OZ (30 mL) 200 WILMOT RD., DEERFIELD, IL 60015 100% SATISFACTION GUARANTEED Walgreens.com ©2017 Walgreen Co, WALGREENS PHARMACIST RECOMMENDED‡ ‡Walgreens Pharmacist Survey ‡‡ This product is not manufactured or distributed by infirst Healthcare Inc., the distributor of Infants’ Mylicon ® Gas Relief. IMPORTANT: KEEP THIS CARTON FOR FUTURE REFERENCE ON FULL LABELING infants' Dye-Free Gas Relief Simethicone 20 mg PER DOSE /ANTI GAS 100 Doses 1 FL OZ (30 mL)"
+  ],
+  "package_label_principal_display_panel_table": [
+    "<table width=\"100%\"><col width=\"100%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><list listType=\"unordered\"><item>IMPORTANT: KEEP THIS CARTON FOR FUTURE REFERENCE ON FULL LABELING</item></list></td></tr></tbody></table>"
+  ],
+  "set_id": "05d2a37f-f47d-40e6-a799-120d846bf5d6",
+  "id": "44f53b14-087e-0b75-e063-6394a90a2873",
+  "effective_time": "20251202",
+  "version": "8",
+  "openfda": {
+    "application_number": [
+      "M002"
+    ],
+    "brand_name": [
+      "Walgreens Infants Dye Free Gas Relief"
+    ],
+    "generic_name": [
+      "SIMETHICONE"
+    ],
+    "manufacturer_name": [
+      "WALGREEN CO."
+    ],
+    "product_ndc": [
+      "0363-0790"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIMETHICONE, UNSPECIFIED"
+    ],
+    "rxcui": [
+      "198857"
+    ],
+    "spl_id": [
+      "44f53b14-087e-0b75-e063-6394a90a2873"
+    ],
+    "spl_set_id": [
+      "05d2a37f-f47d-40e6-a799-120d846bf5d6"
+    ],
+    "package_ndc": [
+      "0363-0790-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "92RU3N3Y1O"
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "spl_product_data_elements": [
+    "Aveeno Baby Eczema Therapy Nighttime Balm Oatmeal GLYCERIN WATER CETOSTEARYL ALCOHOL ISOCETYL ALCOHOL DIMETHICONE CETYL ALCOHOL BENZYL ALCOHOL ETHYLHEXYLGLYCERIN SODIUM CETOSTEARYL SULFATE BENZOIC ACID STEARIC ACID DIBASIC POTASSIUM PHOSPHATE POTASSIUM PHOSPHATE, UNSPECIFIED FORM P-ANISIC ACID MEDIUM-CHAIN TRIGLYCERIDES SODIUM HYDROXIDE OAT KERNEL OIL CERAMIDE NP CITRIC ACID MONOHYDRATE OAT OATMEAL OATMEAL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Distributed by: Kenvue Brands LLC Summit, NJ 07901"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Colloidal Oatmeal 1%"
+  ],
+  "purpose": [
+    "Purpose Skin Protectant"
+  ],
+  "indications_and_usage": [
+    "Uses Temporarily protects and helps relieve minor skin irritation and itching due to: eczema rashes"
+  ],
+  "warnings": [
+    "Warnings For external use only. When using this product do not get into eyes. Stop use and ask a doctor if: condition worsens symptoms last more than 7 days or clear up and occur again within a few days. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product do not get into eyes."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if: condition worsens symptoms last more than 7 days or clear up and occur again within a few days."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply as needed."
+  ],
+  "storage_and_handling": [
+    "Other Information Do not use if quality seal is broken or missing. Protect from Excessive Heat (40°C/104°F)."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Glycerin, Water, Cetearyl Alcohol, Isocetyl Alcohol, Dimethicone, Cetyl Alcohol, Benzyl Alcohol, Ethylhexylglycerin, Sodium Cetearyl Sulfate, Benzoic Acid, Stearic Acid, Dipotassium Phosphate, Potassium Phosphate, p-Anisic Acid, Caprylic/Capric Triglyceride, Sodium Hydroxide, Avena Sativa (Oat) Kernel Oil, Ceramide NP, Citric Acid, Avena Sativa (Oat) Kernel Extract"
+  ],
+  "questions": [
+    "Questions? 866-428-3366; Outside US, dial collect 215-273-8755 www.aveeno.com"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 28 g Jar Label Recommended by Pediatricians & Dermatologists Aveeno ® baby NET WT. 1 OZ (28 g) eczema therapy nighttime balm colloidal oatmeal skin protectant + ceramide clinically proven to relieve itchy, dry, irritated skin due to eczema ACCEPTED e NATIONALECZEMA.ORG NATIONAL ECZEMA ASSOCIATION Aveeno_1"
+  ],
+  "set_id": "04d90e45-c2ee-4122-b919-a0eb6d11b59a",
+  "id": "2f7fd057-b6de-f854-e063-6394a90a1241",
+  "effective_time": "20250304",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Aveeno Baby Eczema Therapy Nighttime Balm"
+    ],
+    "generic_name": [
+      "OATMEAL"
+    ],
+    "manufacturer_name": [
+      "Kenvue Brands LLC"
+    ],
+    "product_ndc": [
+      "69968-0540"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OATMEAL"
+    ],
+    "rxcui": [
+      "240651"
+    ],
+    "spl_id": [
+      "2f7fd057-b6de-f854-e063-6394a90a1241"
+    ],
+    "spl_set_id": [
+      "04d90e45-c2ee-4122-b919-a0eb6d11b59a"
+    ],
+    "package_ndc": [
+      "69968-0540-2",
+      "69968-0540-5",
+      "69968-0540-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0381371167258"
+    ],
+    "nui": [
+      "N0000185371",
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "M0006342",
+      "M0016962",
+      "N0000185016"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Food Allergenic Extract [EPC]",
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Dietary Proteins [CS]",
+      "Plant Proteins [CS]"
+    ],
+    "unii": [
+      "8PI54V663Y"
+    ]
+  }
+}

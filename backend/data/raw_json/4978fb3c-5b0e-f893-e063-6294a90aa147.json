@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Right Guard X Antiperspirant and Deodorant DrySpray Fresh Blast Right Guard X Antiperspirant and Deodorant DrySpray Fresh Blast ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE CYCLOMETHICONE"
+  ],
+  "dosage_and_administration": [
+    "Dosage & Administration"
+  ],
+  "warnings": [
+    "Warnings"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredient"
+  ],
+  "indications_and_usage": [
+    "Indications & Usage"
+  ],
+  "active_ingredient": [
+    "OTC-Active Ingredient"
+  ],
+  "ask_doctor": [
+    "OTC-Ask Doctor"
+  ],
+  "do_not_use": [
+    "OTC Do Not Use"
+  ],
+  "keep_out_of_reach_of_children": [
+    "OTC Keep out of the reach of children"
+  ],
+  "purpose": [
+    "OTC Purpose"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Label Principal Display Panel"
+  ],
+  "set_id": "05aa1a1a-9e51-2781-e063-6394a90aef6b",
+  "id": "4978fb3c-5b0e-f893-e063-6294a90aa147",
+  "effective_time": "20260128",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Right Guard X Antiperspirant and Deodorant DrySpray Fresh Blast"
+    ],
+    "generic_name": [
+      "RIGHT GUARD X ANTIPERSPIRANT AND DEODORANT DRYSPRAY FRESH BLAST"
+    ],
+    "manufacturer_name": [
+      "Thriving Brands LLC"
+    ],
+    "product_ndc": [
+      "82699-006"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM CHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "4978fb3c-5b0e-f893-e063-6294a90aa147"
+    ],
+    "spl_set_id": [
+      "05aa1a1a-9e51-2781-e063-6394a90aef6b"
+    ],
+    "package_ndc": [
+      "82699-006-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "HPN8MZW13M"
+    ]
+  }
+}

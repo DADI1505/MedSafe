@@ -1,0 +1,112 @@
+{
+  "spl_product_data_elements": [
+    "Re-Lieved Lidocaine Patch Lidocaine Patch 4% LIDOCAINE LIDOCAINE ACRYLIC ACID/ETHYLENE COPOLYMER (600 MPA.S)"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Lidocaine 4%"
+  ],
+  "purpose": [
+    "Purpose Topical Analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses For the temporary relief of pain"
+  ],
+  "warnings": [
+    "Warnings For external use only. The adhesoin properties of this patch may cause an extended period of redness. Please visit www.re-lieved.com for more information."
+  ],
+  "do_not_use": [
+    "Do not use If you are allergic to Lidocaine. On open wounds or on damaged, broken or irritated skin. Remove immidiately if you sense a burning sensation after application."
+  ],
+  "when_using": [
+    "When using this product Do not use other topical products Do not allow contact with eyes or mucous membranes Keep away from excessive heat. Do not apply heating pad to area of use Apply only to clean, dry and untreated skin Use only as directed. Read and follow all directions and warnings on this label"
+  ],
+  "ask_doctor": [
+    "Ask your doctor or pharmacist before use if you are using blood thinning medication, steroids, or non-steroidal anti-inflammatory druns (NSAIDs), or if you have sensitive skin."
+  ],
+  "stop_use": [
+    "Stop use or ask a doctor if Condition worsens Symptoms persist for more than 7 days"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast feeding ask a physician before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If put in mouth, get medical help or contact a poison control center right away. Dispose of used product away from children and pets."
+  ],
+  "dosage_and_administration": [
+    "Directions adults/children Clean and dry affected area Peel patch off plastic liner and place patch on affected area for no more than 12 hours Wash hands after applying patch Under age 12, consult a physician before use For easier removal of the patch, apply rubbing alcohol or baby oil to adhesive edge while gently peeling. Store new and used patch away from children and pets."
+  ],
+  "other_safety_information": [
+    "Other information store at room termperature Do not exceed 100 o Fahrenheit, 38 o Celsius"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Acrylic adhesive, Polyethylene Foam"
+  ],
+  "package_label_principal_display_panel": [
+    "Re-Lieved Lidocaine 4% 20 Foam Patches in Indivdual Pouches Drug Facts Front Panel"
+  ],
+  "set_id": "00b40dda-53ad-0458-e063-6394a90aa835",
+  "id": "2b73f1e8-9919-ede5-e063-6294a90ac3bd",
+  "effective_time": "20250111",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Re-Lieved Lidocaine Patch"
+    ],
+    "generic_name": [
+      "LIDOCAINE PATCH 4%"
+    ],
+    "manufacturer_name": [
+      "Transfer Technology"
+    ],
+    "product_ndc": [
+      "71662-000"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "LIDOCAINE"
+    ],
+    "rxcui": [
+      "1737778"
+    ],
+    "spl_id": [
+      "2b73f1e8-9919-ede5-e063-6294a90ac3bd"
+    ],
+    "spl_set_id": [
+      "00b40dda-53ad-0458-e063-6394a90aa835"
+    ],
+    "package_ndc": [
+      "71662-000-01",
+      "71662-000-20"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175682",
+      "M0000897",
+      "N0000175426",
+      "N0000175976"
+    ],
+    "pharm_class_epc": [
+      "Amide Local Anesthetic [EPC]",
+      "Antiarrhythmic [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Amides [CS]"
+    ],
+    "pharm_class_pe": [
+      "Local Anesthesia [PE]"
+    ],
+    "unii": [
+      "98PI200987"
+    ]
+  }
+}

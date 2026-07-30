@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "Avagard D Alcohol Alcohol Alcohol Beheneth-10 Docosanol Cetyl Palmitate Dimethicone Glycerin Polyethylene Glycol, unspecified Squalane Water"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Ethyl Alcohol, 61% w/w"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Uses instant healthcare personnel hand antiseptic reduces bacteria that potentially can cause disease recommended for repeated use"
+  ],
+  "warnings": [
+    "Warnings Flammable, keep away from fire or flame. For external use only When using this product Keep out of eyes. If contact with eyes occurs, rinse promptly and thoroughly with water. Stop use and ask a doctor if significant irritation, or sensitization develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product Keep out of eyes. If contact with eyes occurs, rinse promptly and thoroughly with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if significant irritation, or sensitization develops."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply to clean, dry hands. Wet hands thoroughly with product and allow to dry."
+  ],
+  "other_safety_information": [
+    "Other information Store at 20-25°C (68-77°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredient beheneth-10, behenyl alcohol, C20-40 pareth-24, cetyl palmitate, diisopropyl dimer dilinoleate, dimethicone, glycerin, polyethylene glycol, squalane, water"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel NDC 48878-0231-7 3M ESPE Avagard™ D Instant Hand Antiseptic With Moisturizers Contains: 61% w/w ethyl alcohol Destroys Bacteria. Not Your Skin. Flammable, keep away from fire or flame, heat, sparks and sources of static discharge. REF 2317 500 ml • 16fl oz Principal Display Panel"
+  ],
+  "set_id": "00c56d8d-02e6-4839-86cc-00767428d5e9",
+  "id": "5e2221bd-9805-4950-a952-5f726f8e2dda",
+  "effective_time": "20260108",
+  "version": "9",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Avagard D"
+    ],
+    "generic_name": [
+      "ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Solventum US LLC"
+    ],
+    "product_ndc": [
+      "48878-0231"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "spl_id": [
+      "5e2221bd-9805-4950-a952-5f726f8e2dda"
+    ],
+    "spl_set_id": [
+      "00c56d8d-02e6-4839-86cc-00767428d5e9"
+    ],
+    "package_ndc": [
+      "48878-0231-7"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

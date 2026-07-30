@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Formula 3 TOLNAFTATE APRICOT KERNEL OIL RICE BRAN OIL SESAME OIL SAFFLOWER OIL JOJOBA OIL .ALPHA.-TOCOPHEROL ACETATE METHYLPARABEN PROPYLPARABEN BUTYLPARABEN TOLNAFTATE TOLNAFTATE"
+  ],
+  "spl_unclassified_section": [
+    "FORMULA 3"
+  ],
+  "active_ingredient": [
+    "Active ingredient: Tolnaftate 1%"
+  ],
+  "purpose": [
+    "Purpose Antifungal"
+  ],
+  "indications_and_usage": [
+    "Uses: For effective treatment of most athlete's foot and ringworm. Relieves: Itching Soreness Scaling Burning Cracking Irritation Redness Prevents the recurrence of most athlete's foot (dermatophytosis) with daily use."
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use on children under 2 years of age unless directed by a doctor. When using this product avoid contact with eyes. Stop use and ask a doctor if When using for athlete's foot or ringworm: If irritation occurs or if there is no improvement within 4 weeks, discontinue use and consult a doctor. When using for the prevention of athlete's foot: If irritation occurs,discontinue use and consult a doctor. If pregnant or breastfeeding ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions For treatment of athlete's foot and ringworm Clean the affected area and dry thoroughly. Apply a thin layer of the product over affected area twice daily (morning and night) or as directed by a doctor. Supervise children in the use of this product. For athlete's foot: Pay special attention to spaces between the toes; wear well fitting, ventilated shoes, and change shoes and socks at least once daily. For athlete's foot and ringworm, use daily for 4 weeks. If condition persists longer, consult a doctor. This product is not effective on scalp or nail. To prevent athlete's foot: Clean the feet and dry thoroughly. Apply a thin layer of the product to the feet once or twice daily (morning and/or night) Supervise children in the use of this product. Pay special attention to spaces between the toes; wear well fitting, ventilated shoes, and change shoes and socks at least once daily."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Apricot Kernel Oil, Rice Bran Oil, Sesame Seed Oil, Safflower Oil, simmondsia chinensis, Vitamin E Acetate, Methyl Paraben, Propyl Paraben and Butyl Paraben."
+  ],
+  "package_label_principal_display_panel": [
+    "Product label image description image description image description"
+  ],
+  "set_id": "0895274b-a09d-4264-a43f-852e44eb3163",
+  "id": "3ca9d5fc-af08-41f8-e063-6394a90aaaef",
+  "effective_time": "20250818",
+  "version": "22",
+  "openfda": {
+    "application_number": [
+      "M005"
+    ],
+    "brand_name": [
+      "Formula 3"
+    ],
+    "generic_name": [
+      "TOLNAFTATE"
+    ],
+    "manufacturer_name": [
+      "The Tetra Corporation"
+    ],
+    "product_ndc": [
+      "49406-003"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "TOLNAFTATE"
+    ],
+    "rxcui": [
+      "313423"
+    ],
+    "spl_id": [
+      "3ca9d5fc-af08-41f8-e063-6394a90aaaef"
+    ],
+    "spl_set_id": [
+      "0895274b-a09d-4264-a43f-852e44eb3163"
+    ],
+    "package_ndc": [
+      "49406-003-15"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "06KB629TKV"
+    ]
+  }
+}

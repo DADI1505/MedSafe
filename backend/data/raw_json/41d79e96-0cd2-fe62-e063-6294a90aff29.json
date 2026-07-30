@@ -1,0 +1,115 @@
+{
+  "spl_product_data_elements": [
+    "Advanced Eye Relief Dry Eye Rejuvenation glycerin propylene glycol BENZALKONIUM CHLORIDE BORIC ACID EDETATE DISODIUM POTASSIUM CHLORIDE WATER SODIUM BORATE SODIUM CHLORIDE HYDROCHLORIC ACID SODIUM HYDROXIDE GLYCERIN GLYCERIN PROPYLENE GLYCOL PROPYLENE GLYCOL"
+  ],
+  "active_ingredient": [
+    "Active ingredients Glycerin (0.3%) Propylene glycol (1.0%)"
+  ],
+  "purpose": [
+    "Purpose Lubricant Lubricant"
+  ],
+  "indications_and_usage": [
+    "Uses temporary relief of burning and irritation due to dryness of the eye prevents further irritation"
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use if solution changes color or becomes cloudy When using this product do not touch tip of container to any surface to avoid contamination remove contact lenses before using replace cap after use Stop use and ask a doctor if you experience eye pain, changes in vision, continued redness or irritation of the eye condition worsens or persists for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use if solution changes color or becomes cloudy"
+  ],
+  "when_using": [
+    "When using this product do not touch tip of container to any surface to avoid contamination remove contact lenses before using replace cap after use"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if you experience eye pain, changes in vision, continued redness or irritation of the eye condition worsens or persists for more than 72 hours"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions instill 1 or 2 drops in the affected eye(s) as needed"
+  ],
+  "spl_unclassified_section": [
+    "Other information store at 15–25°C (59–77 °F) keep tightly closed use before expiration date marked on the carton and bottle"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients benzalkonium chloride, boric acid, edetate disodium, potassium chloride, purified water, sodium borate, sodium chloride. Hydrochloric acid and/or sodium hydroxide may be used to adjust pH."
+  ],
+  "questions": [
+    "Questions or comments? [phone icon] Call:1-800-553-5340 Marketed by: Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA"
+  ],
+  "package_label_principal_display_panel": [
+    "Package/Label Principal Display Panel BAUSCH + LOMB ADVANCED Eye Relief ® Dry Eye LUBRICANT EYE DROPS Fast relief from dry eyes Replenishes tears Rejuvenates eyes STERILE 1.0 FL OZ (30 mL) 6319221 carton"
+  ],
+  "set_id": "027969ee-64e4-4b08-bab7-c4cc8ed22f5f",
+  "id": "41d79e96-0cd2-fe62-e063-6294a90aff29",
+  "effective_time": "20251023",
+  "version": "11",
+  "openfda": {
+    "application_number": [
+      "M018"
+    ],
+    "brand_name": [
+      "Advanced Eye Relief Dry Eye Rejuvenation"
+    ],
+    "generic_name": [
+      "GLYCERIN PROPYLENE GLYCOL"
+    ],
+    "manufacturer_name": [
+      "Bausch & Lomb Incorporated"
+    ],
+    "product_ndc": [
+      "24208-454"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "GLYCERIN",
+      "PROPYLENE GLYCOL"
+    ],
+    "rxcui": [
+      "259195"
+    ],
+    "spl_id": [
+      "41d79e96-0cd2-fe62-e063-6294a90aff29"
+    ],
+    "spl_set_id": [
+      "027969ee-64e4-4b08-bab7-c4cc8ed22f5f"
+    ],
+    "package_ndc": [
+      "24208-454-32",
+      "24208-454-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185370",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0009417"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Chemical Allergen [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Glycerol [CS]"
+    ],
+    "unii": [
+      "PDC6A3C0OX",
+      "6DC9Q167V3"
+    ]
+  }
+}

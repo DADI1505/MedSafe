@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "DCH Scar Allantoin 0.5% POLYETHYLENE GLYCOL 200 TOCOPHEROL PANTHENOL WATER GLYCERIN ONION ALLANTOIN ALLANTOIN PROPYLENE GLYCOL XANTHAN GUM ALOE VERA LEAF BLACK WALNUT CHAMOMILE CUCUMBER ALCOHOL ETHYLHEXYLGLYCERIN BENZYL ALCOHOL HYALURONATE SODIUM"
+  ],
+  "active_ingredient": [
+    "Allantoin 0.5%"
+  ],
+  "purpose": [
+    "Skin Protectant."
+  ],
+  "dosage_and_administration": [
+    "Temporarily protects and helps relieve chapped or cracked skin."
+  ],
+  "warnings": [
+    "For external use only . When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if the condition worsens or symptoms persist for more than 7 days or clear up and occur again within a few days. Do not use on deep or puncture wounds, animal bites, and serious burns."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If the product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "indications_and_usage": [
+    "Apply as needed."
+  ],
+  "inactive_ingredient": [
+    "Water, Alcohol Denat., PEG-4, Propylene Glycol, Xanthan Gum, Allium Cepa (Onion) Bulk Extract, Panthenol, Sodium Hyaluronate, Aloe Barbadensis Leaf Extract, Chamomilla Recutita (Matricaria) Flower Extract, Cucumis Sativus (Cucumber) Fruit Extract, Tocopherol, Glycerin, Juglans Nigra (Black Walnut) Leaf Extract, Ethylhexylglycerin, Benzyl Alcohol, Fragrance."
+  ],
+  "package_label_principal_display_panel": [
+    "Carton"
+  ],
+  "set_id": "00edbc64-9d32-5751-e063-6294a90a400b",
+  "id": "29a4e82a-2134-3542-e063-6394a90a96a5",
+  "effective_time": "20241219",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "DCH Scar"
+    ],
+    "generic_name": [
+      "ALLANTOIN 0.5%"
+    ],
+    "manufacturer_name": [
+      "Derma Care Research Labs, LLC"
+    ],
+    "product_ndc": [
+      "72839-097"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALLANTOIN"
+    ],
+    "rxcui": [
+      "1442087"
+    ],
+    "spl_id": [
+      "29a4e82a-2134-3542-e063-6394a90a96a5"
+    ],
+    "spl_set_id": [
+      "00edbc64-9d32-5751-e063-6294a90a400b"
+    ],
+    "package_ndc": [
+      "72839-097-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0850009221698"
+    ],
+    "unii": [
+      "344S277G0Z"
+    ]
+  }
+}

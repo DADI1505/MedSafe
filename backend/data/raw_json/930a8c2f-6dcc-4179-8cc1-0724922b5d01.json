@@ -1,0 +1,130 @@
+{
+  "spl_product_data_elements": [
+    "Pollen Distress Allium Cepa, Apis Mellifica, Aralia Racemosa, Arundo Mauritanica, Baptisia Tinctoria, Echinacea (Angustifolia), Euphrasia Officinalis, Gelsemium Sempervirens, Histaminum Hydrochloricum, Lycopodium Clavatum, Rhus Tox, Sabadilla, Sanguinaria Canadensis, Urtica Urens ONION ONION APIS MELLIFERA APIS MELLIFERA ARALIA RACEMOSA ROOT ARALIA RACEMOSA ROOT ARUNDO PLINIANA ROOT ARUNDO PLINIANA ROOT BAPTISIA TINCTORIA ROOT BAPTISIA TINCTORIA ROOT ECHINACEA ANGUSTIFOLIA WHOLE ECHINACEA ANGUSTIFOLIA EUPHRASIA STRICTA EUPHRASIA STRICTA GELSEMIUM SEMPERVIRENS ROOT GELSEMIUM SEMPERVIRENS ROOT HISTAMINE DIHYDROCHLORIDE HISTAMINE LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE TOXICODENDRON PUBESCENS LEAF TOXICODENDRON PUBESCENS LEAF SCHOENOCAULON OFFICINALE SEED SCHOENOCAULON OFFICINALE SEED SANGUINARIA CANADENSIS ROOT SANGUINARIA CANADENSIS ROOT URTICA URENS WHOLE URTICA URENS WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: (in each spray) 6.67% of Allium Cepa 6X, Apis Mellifica 6X, Aralia Racemosa 6X, Arundo Mauritanica 30C, Baptisia Tinctoria 3X, Echinacea 4X, Euphrasia Officinalis 6X, Gelsemium Sempervirens 200C, Histaminum Hydrochloricum 12X, Lycopodium Clavatum 6X, Rhus Tox 200C, Sabadilla 6X, Sanguinaria Canadensis 200C, Urtica Urens 3X, 200C."
+  ],
+  "purpose": [
+    "PURPOSE May temporarily relieve these symptoms associated with seasonal pollen distress: • runny nose • itchy, watery eyes • rash • headache • sneezing** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS: Do not use if you have ever had an allergic reaction to this product or any of its ingredients. Stop use and ask a doctor if symptoms persist for more than 7 days, worsen, or if new symptoms occur. Keep out of reach of children. In case of overdose, get medical help or call a Poison Control Center right away. If pregnant or breast feeding, ask a health professional before use. Do not use if TAMPER EVIDENT seal around neck of bottle is missing or broken. Store at room temperature."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or call a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Adults and children over 12: Spray twice under the tongue three times per day. For severe symptoms, dosage may be taken up to six times the first day. Children 12 and under: Consult a doctor prior to use."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: May temporarily relieve these symptoms associated with seasonal pollen distress: • runny nose • itchy, watery eyes • rash • headache • sneezing** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Organic alcohol 20% v/v, Purified water."
+  ],
+  "questions": [
+    "QUESTIONS: DIST. BY LIDDELL LABORATORIES INC. 201 APPLE BLVD. WOODBINE, IA 51579 WWW.LIDDELL.NET 1-800-460-7733"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: ORAL SPRAYS LIDDELL LABORATORIES EST. 1994 01 Pln Pollen Distress HOMEOPATHIC DOCTOR FORMULATED Readily absorbed. Safe. No Known side effects. Easy to use. 1.0 FL OZ (30 ml) Pollen Distress LBL Pollen Distress CTN"
+  ],
+  "set_id": "034fcd90-81f7-4597-b58b-e2ed7047f6bd",
+  "id": "930a8c2f-6dcc-4179-8cc1-0724922b5d01",
+  "effective_time": "20260126",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Pollen Distress"
+    ],
+    "generic_name": [
+      "ALLIUM CEPA, APIS MELLIFICA, ARALIA RACEMOSA, ARUNDO MAURITANICA, BAPTISIA TINCTORIA, ECHINACEA (ANGUSTIFOLIA), EUPHRASIA OFFICINALIS, GELSEMIUM SEMPERVIRENS, HISTAMINUM HYDROCHLORICUM, LYCOPODIUM CLAVATUM, RHUS TOX, SABADILLA, SANGUINARIA CANADENSIS, URTICA URENS"
+    ],
+    "manufacturer_name": [
+      "Liddell Laboratories, Inc."
+    ],
+    "product_ndc": [
+      "50845-0284"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ONION",
+      "APIS MELLIFERA",
+      "ARALIA RACEMOSA ROOT",
+      "ARUNDO PLINIANA ROOT",
+      "BAPTISIA TINCTORIA ROOT",
+      "ECHINACEA ANGUSTIFOLIA WHOLE",
+      "EUPHRASIA STRICTA",
+      "GELSEMIUM SEMPERVIRENS ROOT",
+      "HISTAMINE DIHYDROCHLORIDE",
+      "LYCOPODIUM CLAVATUM SPORE",
+      "TOXICODENDRON PUBESCENS LEAF",
+      "SCHOENOCAULON OFFICINALE SEED",
+      "SANGUINARIA CANADENSIS ROOT",
+      "URTICA URENS WHOLE"
+    ],
+    "spl_id": [
+      "930a8c2f-6dcc-4179-8cc1-0724922b5d01"
+    ],
+    "spl_set_id": [
+      "034fcd90-81f7-4597-b58b-e2ed7047f6bd"
+    ],
+    "package_ndc": [
+      "50845-0284-1",
+      "50845-0284-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0363113112962"
+    ],
+    "nui": [
+      "N0000185371",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "M0006342",
+      "M0022575",
+      "N0000185021",
+      "N0000185001",
+      "M0002274"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Food Allergenic Extract [EPC]",
+      "Standardized Insect Venom Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Dietary Proteins [CS]",
+      "Vegetable Proteins [CS]",
+      "Bee Venoms [CS]"
+    ],
+    "unii": [
+      "492225Q21H",
+      "7S82P3R43Z",
+      "T90W4582DU",
+      "ZXE7LB03WC",
+      "5EF0HWI5WU",
+      "VB06AV5US8",
+      "C9642I91WL",
+      "639KR60Q1Q",
+      "3POA0Q644U",
+      "C88X29Y479",
+      "6IO182RP7A",
+      "6NAF1689IO",
+      "N9288CD508",
+      "IHN2NQ5OF9"
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Yttrium Muriaticum Yttrium Muriaticum SUCROSE YTTRIUM CHLORIDE YTTRIUM CATION Yttrium Muriaticum Yttrium Muriaticum SUCROSE YTTRIUM CHLORIDE YTTRIUM CATION Yttrium Muriaticum Yttrium Muriaticum SUCROSE YTTRIUM CHLORIDE YTTRIUM CATION Yttrium Muriaticum Yttrium Muriaticum SUCROSE YTTRIUM CHLORIDE YTTRIUM CATION Yttrium Muriaticum Yttrium Muriaticum SUCROSE YTTRIUM CHLORIDE YTTRIUM CATION Yttrium Muriaticum Yttrium Muriaticum SUCROSE YTTRIUM CHLORIDE YTTRIUM CATION Yttrium Muriaticum Yttrium Muriaticum SUCROSE YTTRIUM CHLORIDE YTTRIUM CATION Yttrium Muriaticum Yttrium Muriaticum SUCROSE YTTRIUM CHLORIDE YTTRIUM CATION"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Yttrium Muriaticum 6C 5g Yttrium Muriaticum 6C 30g Yttrium Muriaticum 6C 100g Yttrium Muriaticum 12C 5g Yttrium Muriaticum 12C 30g Yttrium Muriaticum 12C 100g Yttrium Muriaticum 30C 1g Yttrium Muriaticum 30C 5g Yttrium Muriaticum 30C 30g Yttrium Muriaticum 30C 100g Yttrium Muriaticum 100C 1g Yttrium Muriaticum 100C 5g Yttrium Muriaticum 100C 30g Yttrium Muriaticum 100C 100g Yttrium Muriaticum 200C 1g Yttrium Muriaticum 200C 5g Yttrium Muriaticum 200C 30g Yttrium Muriaticum 200C 100g Yttrium Muriaticum 500C 1g Yttrium Muriaticum 500C 5g Yttrium Muriaticum 500C 30g Yttrium Muriaticum 500C 100g Yttrium Muriaticum 1M 1g Yttrium Muriaticum 1M 5g Yttrium Muriaticum 1M 30g Yttrium Muriaticum 1M 100g Yttrium Muriaticum LM1 30g"
+  ],
+  "set_id": "06ebe185-4e6f-a2fa-e063-6294a90ac3cd",
+  "id": "06ebaed3-b023-e651-e063-6394a90afc8a",
+  "effective_time": "20231004",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Yttrium Muriaticum"
+    ],
+    "generic_name": [
+      "YTTRIUM MURIATICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-4079",
+      "37662-4086",
+      "37662-4081",
+      "37662-4082",
+      "37662-4084",
+      "37662-4085",
+      "37662-4083",
+      "37662-4080"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "YTTRIUM CHLORIDE"
+    ],
+    "spl_id": [
+      "06ebaed3-b023-e651-e063-6394a90afc8a"
+    ],
+    "spl_set_id": [
+      "06ebe185-4e6f-a2fa-e063-6294a90ac3cd"
+    ],
+    "package_ndc": [
+      "37662-4086-1",
+      "37662-4081-1",
+      "37662-4081-2",
+      "37662-4081-3",
+      "37662-4081-4",
+      "37662-4082-1",
+      "37662-4082-2",
+      "37662-4082-3",
+      "37662-4082-4",
+      "37662-4084-1",
+      "37662-4084-2",
+      "37662-4084-3",
+      "37662-4084-4",
+      "37662-4085-1",
+      "37662-4085-2",
+      "37662-4085-3",
+      "37662-4085-4",
+      "37662-4083-1",
+      "37662-4083-2",
+      "37662-4083-3",
+      "37662-4083-4",
+      "37662-4079-1",
+      "37662-4079-2",
+      "37662-4079-3",
+      "37662-4080-1",
+      "37662-4080-2",
+      "37662-4080-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "11521XLD38"
+    ]
+  }
+}

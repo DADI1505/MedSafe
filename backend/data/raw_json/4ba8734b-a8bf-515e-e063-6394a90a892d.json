@@ -1,0 +1,114 @@
+{
+  "spl_product_data_elements": [
+    "GLADSKIN ECZEMACT ECZEMA COLLOIDAL OATMEAL OATMEAL OATMEAL WATER GLYCERIN PETROLATUM CETOSTEARYL ALCOHOL MINERAL OIL ARGININE HYDROCHLORIDE SODIUM CHLORIDE POLYOXYL 20 CETOSTEARYL ETHER TROMETHAMINE CALCIUM CHLORIDE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Company Information Distributed by Micreos North America, Inc. Encinitas, CA 92024 gladskin.com"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Colloidal Oatmeal (0.02%)"
+  ],
+  "purpose": [
+    "Purpose Skin Protectant"
+  ],
+  "indications_and_usage": [
+    "Uses Temporarily protects and helps relieve minor skin irritation and itching due to eczema."
+  ],
+  "warnings": [
+    "Warnings For external use only. When using this product do not get into eyes. Stop use and ask a doctor if: Conditions worsen Symptoms last more than 7 days or clear up and occur again within a few days. Keep out of reach of children . If swallowed, get medical help or contact a poison control center right away."
+  ],
+  "when_using": [
+    "When using this product do not get into eyes."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if: Conditions worsen Symptoms last more than 7 days or clear up and occur again within a few days."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children . If swallowed, get medical help or contact a poison control center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply as needed"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Water, Glycerin, Petrolatum, Mineral Oil, Cetearyl Alcohol, Ceteareth-20, Arginine HCl, Sodium Chloride, Tromethamine, Calcium Chloride, sr-(Methionyl Staphylococcus Simulans Polypeptide-1 Dipeptide-53 Staphylococcus Phage 2638A Polypeptide-1)* *Micreobalance™ is a proprietary smart protein that rebalances the skin microbiome."
+  ],
+  "questions": [
+    "Questions? (888) 802-1668"
+  ],
+  "package_label_principal_display_panel": [
+    "Product Packaging 1"
+  ],
+  "set_id": "06f9af75-c5ff-d37b-e063-6394a90a4f6c",
+  "id": "4ba8734b-a8bf-515e-e063-6394a90a892d",
+  "effective_time": "20260225",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "GLADSKIN ECZEMACT ECZEMA"
+    ],
+    "generic_name": [
+      "COLLOIDAL OATMEAL"
+    ],
+    "manufacturer_name": [
+      "Micreos North America, Inc."
+    ],
+    "product_ndc": [
+      "73105-003"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OATMEAL"
+    ],
+    "rxcui": [
+      "2267204"
+    ],
+    "spl_id": [
+      "4ba8734b-a8bf-515e-e063-6394a90a892d"
+    ],
+    "spl_set_id": [
+      "06f9af75-c5ff-d37b-e063-6394a90a4f6c"
+    ],
+    "package_ndc": [
+      "73105-003-50",
+      "73105-003-00"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185371",
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "M0006342",
+      "M0016962",
+      "N0000185016"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Food Allergenic Extract [EPC]",
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Dietary Proteins [CS]",
+      "Plant Proteins [CS]"
+    ],
+    "unii": [
+      "8PI54V663Y"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "spl_product_data_elements": [
+    "Air Air NITROGEN OXYGEN OXYGEN"
+  ],
+  "package_label_principal_display_panel": [
+    "AIR, COMPRESSED UN1002 Medical Air, USP Rx only. WARNING: Administration of Medical Air may be hazardous or contraindicated. For use only by or under the supervision of a licensed practitioner who is experienced in the use and administration of Medical Air and is familiar with the indications, effects, dosages, methods, and frequency, and duration of administration, and with the hazards, contraindications and side effects, and the precautions to be taken. WARNING: CONTAINS GAS UNDER PRESSURE; MAY EXPLODE IF HEATED. SUPPORTS COMBUSTION. Obtain, read and follow all safety instructions before use. Use a back flow preventive device in the piping. Mixture of Oxygen USP and Nitrogen NF. Use only with equipment rated for cylinder pressure. Do not open valve until connected to equipment prepared for use. Close valve after each use and when empty. Protect from sunlight when ambient temperature exceeds 52 C (125 F). Read and follow the Safety Data Sheet (SDS) before use. CAS: 132259-10-0 DO NOT REMOVE THIS PRODUCT LABEL. CONTENTS: LTRS: CU.FT MAINE OXY MOLECULES THAT POWER OUR COMMUNITIES 22 Albiston Way Auburn, ME 04210 (800) 377-9433 In Case of Emergency: 1-800-535-5053 air 2025"
+  ],
+  "set_id": "03140c87-86d2-4753-abd1-737e50c9041e",
+  "id": "548b57df-c364-18ff-e063-6394a90a226e",
+  "effective_time": "20260618",
+  "version": "14",
+  "openfda": {
+    "application_number": [
+      "NDA205767"
+    ],
+    "brand_name": [
+      "Air"
+    ],
+    "generic_name": [
+      "AIR"
+    ],
+    "manufacturer_name": [
+      "Maine Oxy-Acetylene Supply Company"
+    ],
+    "product_ndc": [
+      "51887-502"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "RESPIRATORY (INHALATION)"
+    ],
+    "substance_name": [
+      "OXYGEN"
+    ],
+    "rxcui": [
+      "413101"
+    ],
+    "spl_id": [
+      "548b57df-c364-18ff-e063-6394a90a226e"
+    ],
+    "spl_set_id": [
+      "03140c87-86d2-4753-abd1-737e50c9041e"
+    ],
+    "package_ndc": [
+      "51887-502-01",
+      "51887-502-02",
+      "51887-502-03",
+      "51887-502-04",
+      "51887-502-05",
+      "51887-502-06",
+      "51887-502-07",
+      "51887-502-08"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "S88TT14065"
+    ]
+  }
+}

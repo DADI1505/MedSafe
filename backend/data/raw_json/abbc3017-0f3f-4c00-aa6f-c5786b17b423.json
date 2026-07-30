@@ -1,0 +1,102 @@
+{
+  "spl_product_data_elements": [
+    "Childrens Tukol Acetaminophen Fever Reducer Pain Reducer ACETAMINOPHEN ACETAMINOPHEN ACETAMINOPHEN ANHYDROUS CITRIC ACID BUTYLPARABEN FD&C RED NO. 40 GLYCERIN HIGH FRUCTOSE CORN SYRUP MICROCRYSTALLINE CELLULOSE CARBOXYMETHYLCELLULOSE SODIUM PROPYLENE GLYCOL WATER SODIUM BENZOATE SORBITOL SUCRALOSE XANTHAN GUM"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient (in each 5 mL = 1 teaspoonful) Acetaminophen 160 mg"
+  ],
+  "purpose": [
+    "Purpose Pain reliever/fever reducer"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily reduces fever relieves minor aches and pains due to: the common cold flu headache sore throat toothache"
+  ],
+  "warnings": [
+    "Warnings Liver warning: This product cantains acetaminophen. Severe liver damage may occur if your child takes more than 5 doses in 24 hours which is the maxium daily amount with other drugs containing acetaminophen Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If skin reaction occurs, stop use and seek medical help right away. Sore throat warning: if sore throat is severe, persists more than 2 days, is accompanied or followed by fever, headache, rash, nausea or vomitting, consult a doctor promptly."
+  ],
+  "do_not_use": [
+    "Do not use with any other drug containing acetaminophen (prescription or non prescription). If you are not sure whether a drug containd acetaminophen, ask a doctor or pharmacist"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if the child has liver disease"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if the child is taking the blood thinning drug warfarin."
+  ],
+  "when_using": [
+    "When using this product do not exceed recommended dose (see overdose warning)"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if pain gets worse or lasts more than 5 days fever gets worse or lasts more tha 3 days new symptoms occur redness or swelling is present These could be signs of a serious condition"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. Keep out of reach of children."
+  ],
+  "overdosage": [
+    "Overdose warning: In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away. Quick medical attention is critical even if you do not notice any signs or symptoms."
+  ],
+  "dosage_and_administration": [
+    "Directions * product is not labeled with directions or complete warning for adult use Shake well before using 1mL = milliliter; tsp = teaspoonful find the right dose on chart below. If posssible, use weight to dose: otherwise use age. if needed, repeat dose every 4 hours while symptons last do not give more than 5 times in 24 hours do not give for more than 5 days unless directed by a doctor weight (lb) age dose (mL or tsp) under 24 under 2 years ask a doctor 24 - 35 2 - 3 years 5 mL (1 tsp) 36- 47 4 - 5 years 7.5 mL (1 1/2 tsp) 48 - 59 6 - 8 years 10 mL (10 mL (2 tsp) 60- 71 9 - 10 years 12.5 mg (2 1/2 tsp) 72 95 11 years 15 mL (3 tsp) use only enclosed dosing cup specfically designed for use with this product"
+  ],
+  "other_safety_information": [
+    "Attention: use only enclosed dosing cup specfically designed for use with this product",
+    "Other information each 5 mL (1 tsp) contains: sodium 3 mg store between 20-25°C (68-77°F ) do not refrigerate keep carton for complete Drug facts"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients anhydrous citric acid, butylparaben, FD&C red # 40, flavor, glycerin, high fructose corn syrup, microcrystalline cellulose and carboxymethylcellulose sodium, propylene glycol, purified water, sodium benzoate, sorbitol solution, sucralose, xanthan gum"
+  ],
+  "questions": [
+    "Questions? Call 1-877-99-GENOM (43666)"
+  ],
+  "package_label_principal_display_panel": [
+    "Children's Tukol® Fever Pain product label Children's Tukol® Acetaminophen - Pain Reliever-Fever Reducer Oral Suspension DO NOT USE IF PRINTED NECKBAND IS BROKEN OR MISSION NEW Ages 2 - 11 Fever Reducer Pain Reducer CHERRY FLAVOR 4 FL OZ (118 mL) 160 mg per 5 mL Distributer by Genomma Lab USA Inc., Houston, TX 77027 BX--058 LOT No. Exp. AptaPharmTukol FeverPain 525 AptaPharmTukol FeverPain 525"
+  ],
+  "set_id": "0540111a-fcde-492d-9ed5-bbd714b2acf0",
+  "id": "abbc3017-0f3f-4c00-aa6f-c5786b17b423",
+  "effective_time": "20170415",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "part343"
+    ],
+    "brand_name": [
+      "Childrens Tukol Acetaminophen Fever Reducer Pain Reducer"
+    ],
+    "generic_name": [
+      "ACETAMINOPHEN"
+    ],
+    "manufacturer_name": [
+      "Genomma Lab USA, Inc."
+    ],
+    "product_ndc": [
+      "50066-525"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACETAMINOPHEN"
+    ],
+    "rxcui": [
+      "307668"
+    ],
+    "spl_id": [
+      "abbc3017-0f3f-4c00-aa6f-c5786b17b423"
+    ],
+    "spl_set_id": [
+      "0540111a-fcde-492d-9ed5-bbd714b2acf0"
+    ],
+    "package_ndc": [
+      "50066-525-24"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "362O9ITL9D"
+    ]
+  }
+}

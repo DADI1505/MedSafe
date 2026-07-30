@@ -1,0 +1,99 @@
+{
+  "spl_product_data_elements": [
+    "Endopar Glandula Suprarenalis Suis, Hypophysis Suis, Hypothalamus Suis, Oophorinum (Suis), Orchitinum (Bovine), Pineal Gland, Thyroidinum, Arsenicum Album, Baryta Carbonica, Natrum Muriaticum, Phosphoricum Acidum, Pulsatilla (Pratensis) SUS SCROFA ADRENAL GLAND SUS SCROFA ADRENAL GLAND SUS SCROFA PITUITARY GLAND SUS SCROFA PITUITARY GLAND SUS SCROFA HYPOTHALAMUS SUS SCROFA HYPOTHALAMUS SUS SCROFA OVARY SUS SCROFA OVARY BOS TAURUS TESTICLE BOS TAURUS TESTICLE SUS SCROFA PINEAL GLAND SUS SCROFA PINEAL GLAND THYROID SUS SCROFA THYROID ARSENIC TRIOXIDE ARSENIC CATION (3+) BARIUM CARBONATE BARIUM CATION SODIUM CHLORIDE CHLORIDE ION PHOSPHORIC ACID PHOSPHORIC ACID PULSATILLA PRATENSIS WHOLE PULSATILLA PRATENSIS WHOLE WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: (in each drop): 9.08% Arsenicum Album 12X, Baryta Carbonica 12X, Glandula Suprarenalis Suis 8X, Hypophysis Suis 8X, Hypothalamus Suis 8X, Natrum Muriaticum 12X, Oophorinum (Suis) 8X, Phosphoricum Acidum 12X, Pineal Gland 8X, Pulsatilla (Pratensis) 12X, Thyroidinum 8X; 0.10% of Orchitinum (Bovine) 8X."
+  ],
+  "purpose": [
+    "INDICATIONS: May temporarily relieve nervous exhaustion, mental sluggishness, weak pulse, cold hands and feet, muscular exhaustion, and may help those easily fatigued.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS: If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in a cool, dry place."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Adults and children 5 to 10 drops orally, 3 times daily or as otherwise directed by a health care professional. If symptoms persist for more than 7 days, consult your health care professional. Consult a physician for use in children under 12 years of age."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: May temporarily relieve nervous exhaustion, mental sluggishness, weak pulse, cold hands and feet, muscular exhaustion, and may help those easily fatigued.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Demineralized water, 20% Ethanol."
+  ],
+  "questions": [
+    "QUESTIONS: Dist. by Energique, Inc. 201 Apple Blvd Woodbine, IA 51579 800.869.8078"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: ENERGIQUE SINCE 1987 HOMEOPATHIC REMEDY ENDOPAR 1 fl. oz. (30 ml) Endopar"
+  ],
+  "set_id": "06375c3e-cc05-4450-9117-1d3dc72636eb",
+  "id": "934e2722-e570-4979-a279-73112634d788",
+  "effective_time": "20231121",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "Endopar"
+    ],
+    "generic_name": [
+      "GLANDULA SUPRARENALIS SUIS, HYPOPHYSIS SUIS, HYPOTHALAMUS SUIS, OOPHORINUM (SUIS), ORCHITINUM (BOVINE), PINEAL GLAND, THYROIDINUM, ARSENICUM ALBUM, BARYTA CARBONICA, NATRUM MURIATICUM, PHOSPHORICUM ACIDUM, PULSATILLA (PRATENSIS)"
+    ],
+    "manufacturer_name": [
+      "Energique, Inc."
+    ],
+    "product_ndc": [
+      "44911-0440"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SUS SCROFA ADRENAL GLAND",
+      "SUS SCROFA PITUITARY GLAND",
+      "SUS SCROFA HYPOTHALAMUS",
+      "SUS SCROFA OVARY",
+      "BOS TAURUS TESTICLE",
+      "SUS SCROFA PINEAL GLAND",
+      "THYROID",
+      "ARSENIC TRIOXIDE",
+      "BARIUM CARBONATE",
+      "SODIUM CHLORIDE",
+      "PHOSPHORIC ACID",
+      "PULSATILLA PRATENSIS WHOLE"
+    ],
+    "spl_id": [
+      "934e2722-e570-4979-a279-73112634d788"
+    ],
+    "spl_set_id": [
+      "06375c3e-cc05-4450-9117-1d3dc72636eb"
+    ],
+    "package_ndc": [
+      "44911-0440-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0363113701005"
+    ],
+    "unii": [
+      "398IYQ16YV",
+      "L0PFEMQ1DT",
+      "N6R0856Z79",
+      "S7YTV04R8O",
+      "PR4RXL6G2H",
+      "050QZ2EDK7",
+      "6RV024OAUQ",
+      "S7V92P67HO",
+      "6P669D8HQ8",
+      "451W47IQ8X",
+      "E4GA8884NN",
+      "8E272251DI"
+    ]
+  }
+}

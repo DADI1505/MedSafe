@@ -1,0 +1,126 @@
+{
+  "spl_product_data_elements": [
+    "Anacardium Occidentale Anacardium Occidentale ANACARDIUM OCCIDENTALE FRUIT ANACARDIUM OCCIDENTALE FRUIT SUCROSE Anacardium Occidentale Anacardium Occidentale ANACARDIUM OCCIDENTALE FRUIT ANACARDIUM OCCIDENTALE FRUIT SUCROSE Anacardium Occidentale Anacardium Occidentale ANACARDIUM OCCIDENTALE FRUIT ANACARDIUM OCCIDENTALE FRUIT SUCROSE Anacardium Occidentale Anacardium Occidentale ANACARDIUM OCCIDENTALE FRUIT ANACARDIUM OCCIDENTALE FRUIT SUCROSE Anacardium Occidentale Anacardium Occidentale ANACARDIUM OCCIDENTALE FRUIT ANACARDIUM OCCIDENTALE FRUIT SUCROSE Anacardium Occidentale Anacardium Occidentale ANACARDIUM OCCIDENTALE FRUIT ANACARDIUM OCCIDENTALE FRUIT SUCROSE Anacardium Occidentale Anacardium Occidentale ANACARDIUM OCCIDENTALE FRUIT ANACARDIUM OCCIDENTALE FRUIT SUCROSE Anacardium Occidentale Anacardium Occidentale ANACARDIUM OCCIDENTALE FRUIT ANACARDIUM OCCIDENTALE FRUIT SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Anacardium Occidentale 6C 5g Anacardium Occidentale 6C 30g Anacardium Occidentale 6C 100g Anacardium Occidentale 12C 5g Anacardium Occidentale 12C 30g Anacardium Occidentale 12C 100g Anacardium Occidentale 30C 1g Anacardium Occidentale 30C 5g Anacardium Occidentale 30C 30g Anacardium Occidentale 30C 100g Anacardium Occidentale 100C 1g Anacardium Occidentale 100C 5g Anacardium Occidentale 100C 30g Anacardium Occidentale 100C 100g Anacardium Occidentale 200C 1g Anacardium Occidentale 200C 5g Anacardium Occidentale 200C 30g Anacardium Occidentale 200C 100g Anacardium Occidentale 500C 1g Anacardium Occidentale 500C 5g Anacardium Occidentale 500C 30g Anacardium Occidentale 500C 100g Anacardium Occidentale 1M 1g Anacardium Occidentale 1M 5g Anacardium Occidentale 1M 30g Anacardium Occidentale 1M 100g Anacardium Occidentale 10M 1g Anacardium Occidentale 10M 5g Anacardium Occidentale 10M 30g Anacardium Occidentale 10M 100g"
+  ],
+  "set_id": "01e66d35-229b-cf1a-e063-6294a90ad034",
+  "id": "01e66d3c-0a9b-0871-e063-6394a90ae891",
+  "effective_time": "20230801",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Anacardium Occidentale"
+    ],
+    "generic_name": [
+      "ANACARDIUM OCCIDENTALE"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3648",
+      "37662-3651",
+      "37662-3649",
+      "37662-3652",
+      "37662-3653",
+      "37662-3654",
+      "37662-3655",
+      "37662-3650"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ANACARDIUM OCCIDENTALE FRUIT"
+    ],
+    "spl_id": [
+      "01e66d3c-0a9b-0871-e063-6394a90ae891"
+    ],
+    "spl_set_id": [
+      "01e66d35-229b-cf1a-e063-6294a90ad034"
+    ],
+    "package_ndc": [
+      "37662-3651-1",
+      "37662-3651-2",
+      "37662-3651-3",
+      "37662-3651-4",
+      "37662-3649-1",
+      "37662-3649-2",
+      "37662-3649-3",
+      "37662-3648-1",
+      "37662-3648-2",
+      "37662-3648-3",
+      "37662-3652-1",
+      "37662-3652-2",
+      "37662-3652-3",
+      "37662-3652-4",
+      "37662-3653-1",
+      "37662-3653-2",
+      "37662-3653-3",
+      "37662-3653-4",
+      "37662-3654-1",
+      "37662-3654-2",
+      "37662-3654-3",
+      "37662-3654-4",
+      "37662-3655-1",
+      "37662-3655-2",
+      "37662-3655-3",
+      "37662-3655-4",
+      "37662-3650-1",
+      "37662-3650-2",
+      "37662-3650-3",
+      "37662-3650-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "4A10JR4E7E"
+    ]
+  }
+}

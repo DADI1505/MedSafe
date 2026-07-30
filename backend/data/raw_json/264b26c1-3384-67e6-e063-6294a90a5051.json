@@ -1,0 +1,81 @@
+{
+  "spl_product_data_elements": [
+    "Degree Advanced Shower Clean 72H Antiperspirant Deodorant MINERAL OIL HIGH DENSITY POLYETHYLENE CINNAMYL ALCOHOL CALCIUM CHLORIDE GLYCINE ALKYL (C12-15) BENZOATE HYDROGENATED CASTOR OIL ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE CYCLOMETHICONE 5 BUTYLATED HYDROXYTOLUENE MALTODEXTRIN PEG-8 DISTEARATE TALC SILICON DIOXIDE PPG-14 BUTYL ETHER STEARYL ALCOHOL CITRAL LIMONENE, (+)- BENZYL CINNAMATE LINALOOL, (+/-)- COUMARIN .BETA.-CITRONELLOL, (R)- .ALPHA.-HEXYLCINNAMALDEHYDE"
+  ],
+  "description": [
+    "DEGREE ADVANCED SHOWER CLEAN 72H ANTIPERSPIRANT DEODORANT - aluminum Sesquichlorohydrate stick"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient Aluminum Sesquichlorohydrate (16%)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses reduces underarm wetness"
+  ],
+  "warnings": [
+    "Warnings • For external use only. • Do not use on broken skin . • Ask a doctor before use if you have kidney disease. • Stop use if rash or irritation occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "• Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply to underarms only"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Cyclopentasiloxane, Stearyl Alcohol, PPG-14 Butyl Ether, C12-15 Alkyl Benzoate, Mineral Oil, Glycine, Hydrogenated Castor Oil, Fragrance (Parfum), Calcium Chloride, Talc, Polyethylene, PEG-8 Distearate, Sodium Starch Octenylsuccinate, Maltodextrin, Hydrolyzed Corn Starch Octenylsuccinate, BHT, Silica, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Benzoate, Benzyl Cinnamate, Benzyl Salicylate, Cinnamyl Alcohol, Citral, Citronellol, Coumarin, Hexyl Cinnamal, Limonene. Linalool"
+  ],
+  "questions": [
+    "Questions? Call 1-866-334-7331"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Degree Shower Clean AP Deo IS"
+  ],
+  "set_id": "04cad7af-ae02-d00c-e063-6294a90a290f",
+  "id": "264b26c1-3384-67e6-e063-6294a90a5051",
+  "effective_time": "20241106",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Degree"
+    ],
+    "generic_name": [
+      "ADVANCED SHOWER CLEAN 72H ANTIPERSPIRANT DEODORANT"
+    ],
+    "manufacturer_name": [
+      "Conopco Inc. d/b/a/ Unilever"
+    ],
+    "product_ndc": [
+      "64942-2196"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM SESQUICHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "264b26c1-3384-67e6-e063-6294a90a5051"
+    ],
+    "spl_set_id": [
+      "04cad7af-ae02-d00c-e063-6294a90a290f"
+    ],
+    "package_ndc": [
+      "64942-2196-1",
+      "64942-2196-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "UCN889409V"
+    ]
+  }
+}

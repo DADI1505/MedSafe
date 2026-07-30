@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Degree Advanced Iced Eucalyptus Dry Spray 72H Antiperspirant Deodorant PROPYLENE CARBONATE ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE MALTODEXTRIN SILICON DIOXIDE GLYCINE LIMONENE, (+)- ISOBUTANE .BETA.-CITRONELLOL, (R)- BUTANE 1,1-DIFLUOROETHANE CYCLOMETHICONE 5 PPG-14 BUTYL ETHER DISTEARDIMONIUM HECTORITE CALCIUM CHLORIDE .ALPHA.-HEXYLCINNAMALDEHYDE LINALOOL, (+/-)- PROPANE BUTYLATED HYDROXYTOLUENE"
+  ],
+  "description": [
+    "DEGREE ADVANCED ICED EUCALYPTUS DRY SPRAY 72H ANTIPERSPIRANT DEODORANT - aluminum Sesquichlorohydrate aerosol, spray"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient Aluminum Sesquichlorohydrate (17.6%)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses reduces underarm wetness"
+  ],
+  "dosage_and_administration": [
+    "Directions For underarms use only"
+  ],
+  "warnings": [
+    "Warnings"
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Butane, Hydrofluorocarbon 152a, Cyclopentasiloxane, Isobutane, PPG-14 Butyl Ether, Glycine, Fragrance (Parfum), Disteardimonium Hectorite, Calcium Chloride, Propane, Sodium Starch Octenylsuccinate, BHT, Propylene Carbonate, Maltodextrin, Hydrolyzed Corn Starch Octenylsuccinate, Silica, Citronellol, Hexyl Cinnamal, Limonene, Linalool"
+  ],
+  "questions": [
+    "Questions? Call toll-free 1-866-334-7331"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Degree Eucalyptus Dry Spray AP"
+  ],
+  "set_id": "04d9c5a8-1f40-f7c0-e063-6294a90a92ae",
+  "id": "264b530d-f4cb-85e4-e063-6294a90afcde",
+  "effective_time": "20241106",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Degree"
+    ],
+    "generic_name": [
+      "ADVANCED ICED EUCALYPTUS DRY SPRAY 72H ANTIPERSPIRANT DEODORANT"
+    ],
+    "manufacturer_name": [
+      "Conopco, Inc. d/b/a Unilever"
+    ],
+    "product_ndc": [
+      "64942-2200"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM SESQUICHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "264b530d-f4cb-85e4-e063-6294a90afcde"
+    ],
+    "spl_set_id": [
+      "04d9c5a8-1f40-f7c0-e063-6294a90a92ae"
+    ],
+    "package_ndc": [
+      "64942-2200-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "UCN889409V"
+    ]
+  }
+}

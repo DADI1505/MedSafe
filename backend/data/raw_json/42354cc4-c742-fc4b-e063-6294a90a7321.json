@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "PUBLIX Extra Strength Simethicone D&C YELLOW NO. 10 FD&C BLUE NO. 1 FD&C RED NO. 40 GELATIN, UNSPECIFIED GLYCERIN PEPPERMINT OIL WATER TITANIUM DIOXIDE DIMETHICONE, UNSPECIFIED DIMETHICONE RP113"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each softgel) Simethicone 125 mg"
+  ],
+  "purpose": [
+    "Purpose Antigas"
+  ],
+  "indications_and_usage": [
+    "Uses for relief of: pressure, bloating and fullness commonly referred to as gas"
+  ],
+  "warnings": [
+    "Warnings Keep out of reach of children"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children"
+  ],
+  "dosage_and_administration": [
+    "Directions adults: swallow with water 1 or 2 softgels as needed after meals and at bedtime. do not exceed 4 softgels in 24 hours except under the advice and supervision of a physician."
+  ],
+  "storage_and_handling": [
+    "Other information store at room temperature protect from light, heat and moisture."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients D&C yellow No. 10, FD&C blue No. 1, FD&C red No. 40, gelatin, glycerin, peppermint oil, purified water, titanium dioxide. Questions or comments? 1-866-467-2748"
+  ],
+  "questions": [
+    "Questions or comments? 1-866-467-2748"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel NDC 41415-113-30 *Compare to the active ingredient Gas-X® Extra Strength Extra Strength Gas Relief SIMETHICONE 125 MG / ANTI-GAS Relieves: Discomfort Pressure Bloating 30 SOFTGELS IMPORTANT: Keep this carton for future reference on full labeling. DISTRIBUTED BY: PUBLIX SUPER MARKETS, INC., 3300 PUBLIX CORPORATE PARKWAY LAKELAND, FL 33811 1-888-267-3037 publix.com PUBLIX GUARANTEE: COMPLETE SATISFACTION OR YOUR MONEY BACK *This product is not manufactured or distributed by GSK Consumer Healthcare, Inc., the distributor of Gas-X ® Extra Strength. DO NOT USE IF ANY INDIVIDUAL BLISTERS UNIT IS BROKEN OR OPEN. Extra Strength Gas Relief 30 Softgels"
+  ],
+  "set_id": "089d77c9-7aa0-4eee-8363-c47a2d5928cf",
+  "id": "42354cc4-c742-fc4b-e063-6294a90a7321",
+  "effective_time": "20251028",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "M002"
+    ],
+    "brand_name": [
+      "PUBLIX Extra Strength"
+    ],
+    "generic_name": [
+      "SIMETHICONE"
+    ],
+    "manufacturer_name": [
+      "PUBLIX SUPER MARKETS, INC"
+    ],
+    "product_ndc": [
+      "41415-113"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIMETHICONE, UNSPECIFIED"
+    ],
+    "rxcui": [
+      "198852"
+    ],
+    "spl_id": [
+      "42354cc4-c742-fc4b-e063-6294a90a7321"
+    ],
+    "spl_set_id": [
+      "089d77c9-7aa0-4eee-8363-c47a2d5928cf"
+    ],
+    "package_ndc": [
+      "41415-113-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0041415182738"
+    ],
+    "unii": [
+      "92RU3N3Y1O"
+    ]
+  }
+}

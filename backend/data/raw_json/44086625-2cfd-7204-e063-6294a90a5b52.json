@@ -1,0 +1,107 @@
+{
+  "spl_product_data_elements": [
+    "cetirizine hydrochloride Cetirizine Hydrochloride LACTOSE MONOHYDRATE MAGNESIUM STEARATE POLYETHYLENE GLYCOL, UNSPECIFIED POVIDONE, UNSPECIFIED TITANIUM DIOXIDE CETIRIZINE HYDROCHLORIDE CETIRIZINE STARCH, CORN HYPROMELLOSES POLYSORBATE 20 C;2"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each tablet) Cetirizine HCl 10 mg"
+  ],
+  "purpose": [
+    "Purpose Antihistamine"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat"
+  ],
+  "warnings": [
+    "Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding: if breast-feeding: not recommended if pregnant: ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)."
+  ],
+  "do_not_use": [
+    "Do not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose."
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers."
+  ],
+  "when_using": [
+    "When using this product drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding: if breast-feeding: not recommended if pregnant: ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"100%\"><col width=\"38%\"/><col width=\"62%\"/><tbody><tr><td styleCode=\"Botrule Lrule Toprule \" valign=\"top\"><paragraph>adults and children 6 years and over</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms.</paragraph></td></tr><tr><td styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>adults 65 years and over</paragraph></td><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>ask a doctor</paragraph></td></tr><tr><td styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>children under 6 years of age</paragraph></td><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>ask a doctor</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule \" valign=\"top\"><paragraph>consumers with liver or kidney disease</paragraph></td><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>ask a doctor</paragraph></td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information store between 20 - 25°C (68 - 77°F) TAMPER EVIDENT: DO NOT USE IF SAFETY SEAL IS BROKEN OR MISSING FROM BOTTLE."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, polysorbate, povidone, pregelatinized starch, and titanium dioxide"
+  ],
+  "questions": [
+    "Questions or comments? 1-613-231-4610 Weekdays 9AM-5PM EST"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Cetirizine Hydrochloride Tablets 10 mg Antihistamine image"
+  ],
+  "set_id": "03c0a599-072a-10ef-e063-6394a90a9698",
+  "id": "44086625-2cfd-7204-e063-6294a90a5b52",
+  "effective_time": "20251120",
+  "version": "13",
+  "openfda": {
+    "application_number": [
+      "ANDA076047"
+    ],
+    "brand_name": [
+      "cetirizine hydrochloride"
+    ],
+    "generic_name": [
+      "CETIRIZINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "PD-Rx Pharmaceuticals, Inc."
+    ],
+    "product_ndc": [
+      "72789-458"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CETIRIZINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1014678"
+    ],
+    "spl_id": [
+      "44086625-2cfd-7204-e063-6294a90a5b52"
+    ],
+    "spl_set_id": [
+      "03c0a599-072a-10ef-e063-6394a90a9698"
+    ],
+    "package_ndc": [
+      "72789-458-51",
+      "72789-458-30",
+      "72789-458-90",
+      "72789-458-10"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "64O047KTOA"
+    ]
+  }
+}

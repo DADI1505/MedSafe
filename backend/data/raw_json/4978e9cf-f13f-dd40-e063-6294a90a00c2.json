@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Dry Idea Antiperspirant and Deodorant Fragrance Free Dry Idea Antiperspirant and Deodorant Fragrance Free CYCLOMETHICONE ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE"
+  ],
+  "dosage_and_administration": [
+    "Dosage & Administration"
+  ],
+  "warnings": [
+    "Warnings"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredient"
+  ],
+  "indications_and_usage": [
+    "Indications & Usage"
+  ],
+  "active_ingredient": [
+    "OTC-Active Ingredient"
+  ],
+  "ask_doctor": [
+    "OTC-Ask Doctor"
+  ],
+  "do_not_use": [
+    "OTC Do Not Use"
+  ],
+  "keep_out_of_reach_of_children": [
+    "OTC Keep out of the reach of children"
+  ],
+  "purpose": [
+    "OTC Purpose"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Label Principal Display Panel"
+  ],
+  "set_id": "05567059-9157-d509-e063-6394a90a72e5",
+  "id": "4978e9cf-f13f-dd40-e063-6294a90a00c2",
+  "effective_time": "20260128",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Dry Idea Antiperspirant and Deodorant Fragrance Free"
+    ],
+    "generic_name": [
+      "DRY IDEA ANTIPERSPIRANT AND DEODORANT FRAGRANCE FREE"
+    ],
+    "manufacturer_name": [
+      "Thriving Brands LLC"
+    ],
+    "product_ndc": [
+      "82699-004"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM CHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "4978e9cf-f13f-dd40-e063-6294a90a00c2"
+    ],
+    "spl_set_id": [
+      "05567059-9157-d509-e063-6394a90a72e5"
+    ],
+    "package_ndc": [
+      "82699-004-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "HPN8MZW13M"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "spl_product_data_elements": [
+    "Air Air OXYGEN OXYGEN"
+  ],
+  "package_label_principal_display_panel": [
+    "AIR, COMPRESSED UN1002 MEDICAL AIR, USP Rx only. WARNING: Administration of Medical Air may be hazardous or contraindicated. For use only by or under the supervision of a licensed practitioner who is experienced in the use and administration of Medical Air and is familiar with the indications, effects, dosages, methods, and frequency and duration of administration, and with the hazards, contraindications and side effects, and the precautions to be taken. Mixture of oxygen USP and nitrogen NF. WARNING: CONTAINS GAS UNDER PRESSURE; MAY EXPLODE IF HEATED. SUPPORTS COMBUSTION. Obtain, read and follow all safety instructions before use. Use a back flow preventive device in the piping. Close valve after each use and when empty. Use only with equipment rated for cylinder pressure. Do not open valve until connected to equipment prepared for use. Protect from sunlight when ambient temperature exceeds 52 C (125 F). Read and follow the Safety Data Sheet (SDS) before use. CAS 132259-10-0 DO NOT REMOVE THIS PRODUCT LABEL. SYOXSA SYOXSA, INC. 6996 COMMERCE AVE EL PASSO, TX 79915 915-771-7674 air 2025"
+  ],
+  "set_id": "0087ce2c-2c34-4a37-83e1-e0cabb87fc7c",
+  "id": "45c6f9cd-d7d7-40ca-e063-6294a90ad945",
+  "effective_time": "20251212",
+  "version": "9",
+  "openfda": {
+    "application_number": [
+      "NDA205889"
+    ],
+    "brand_name": [
+      "Air"
+    ],
+    "generic_name": [
+      "AIR"
+    ],
+    "manufacturer_name": [
+      "SYOXSA, Inc."
+    ],
+    "product_ndc": [
+      "23647-003"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "RESPIRATORY (INHALATION)"
+    ],
+    "substance_name": [
+      "OXYGEN"
+    ],
+    "rxcui": [
+      "347123"
+    ],
+    "spl_id": [
+      "45c6f9cd-d7d7-40ca-e063-6294a90ad945"
+    ],
+    "spl_set_id": [
+      "0087ce2c-2c34-4a37-83e1-e0cabb87fc7c"
+    ],
+    "package_ndc": [
+      "23647-003-01",
+      "23647-003-02",
+      "23647-003-03",
+      "23647-003-04",
+      "23647-003-05",
+      "23647-003-06"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "S88TT14065"
+    ]
+  }
+}

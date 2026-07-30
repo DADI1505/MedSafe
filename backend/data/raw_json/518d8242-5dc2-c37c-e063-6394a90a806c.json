@@ -1,0 +1,105 @@
+{
+  "spl_product_data_elements": [
+    "Hand Guard High Foaming Antiseptic Hand and Body Wash CHLOROXYLENOL WATER PROPYLENE GLYCOL SODIUM LAURETH SULFATE DECYL GLUCOSIDE FD&C RED NO. 40 METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE DMDM HYDANTOIN ALOE VERA LEAF CHLOROXYLENOL CHLOROXYLENOL"
+  ],
+  "active_ingredient": [
+    "Drug Facts Box OTC-Active Ingredient Section Chloroxylenol 0.3%"
+  ],
+  "purpose": [
+    "Drug Facts Box OTC-Purpose Section Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Drug Facts Box OTC-Indications & Usage Section for hand-washing to decrease bacteria on the skin"
+  ],
+  "warnings": [
+    "Drug Facts Box OTC-Warnings Section For external use only"
+  ],
+  "when_using": [
+    "Drug Facts Box OTC-When Using Section do not get into eyes if contact occurs, rinse eyes thoroughly with water"
+  ],
+  "stop_use": [
+    "Drug Facts Box OTC-Stop Use Section irritation and redness develop"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Drug Facts Box OTC-Keep Out of Reach of Children Section if swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "dosage_and_administration": [
+    "Drug Facts Box OTC-Dosage & Administration Section wet hands and forearms apply 5 milliliters (teaspoonful) or palmful to hands and forearms scrub thoroughly for 1 minute and rinse"
+  ],
+  "inactive_ingredient": [
+    "Drug Facts Box OTC-Inactive Ingredient Section water, decyl glucoside, sodium laureth sulfate, cocamide MIPA, propylene glycol, DMDM hydantoin, fragrance, methylchloroisothiazolinone, methylisothiazolinone, aloe barbadensis, FD&C RED NO. 40"
+  ],
+  "package_label_principal_display_panel": [
+    "Hand Guard High Foaming Antiseptic Hand & Body Wash 6876 Hand Guard High Foaming Hand and Body Wash WeChem HandGuard"
+  ],
+  "set_id": "00956253-e0e8-49b7-9015-671a14f8df73",
+  "id": "518d8242-5dc2-c37c-e063-6394a90a806c",
+  "effective_time": "20260511",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Hand Guard High Foaming Antiseptic Hand and Body Wash"
+    ],
+    "generic_name": [
+      "CHLOROXYLENOL"
+    ],
+    "manufacturer_name": [
+      "Wechem, Inc."
+    ],
+    "product_ndc": [
+      "31507-876"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CHLOROXYLENOL"
+    ],
+    "rxcui": [
+      "413261"
+    ],
+    "spl_id": [
+      "518d8242-5dc2-c37c-e063-6394a90a806c"
+    ],
+    "spl_set_id": [
+      "00956253-e0e8-49b7-9015-671a14f8df73"
+    ],
+    "package_ndc": [
+      "31507-876-06",
+      "31507-876-17",
+      "31507-876-24",
+      "31507-876-01",
+      "31507-876-03",
+      "31507-876-05",
+      "31507-876-07",
+      "31507-876-09",
+      "31507-876-10",
+      "31507-876-11",
+      "31507-876-12",
+      "31507-876-13",
+      "31507-876-14",
+      "31507-876-15",
+      "31507-876-28",
+      "31507-876-27",
+      "31507-876-55",
+      "31507-876-08",
+      "31507-876-16",
+      "31507-876-18",
+      "31507-876-19",
+      "31507-876-20",
+      "31507-876-35"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "0F32U78V2Q"
+    ]
+  }
+}

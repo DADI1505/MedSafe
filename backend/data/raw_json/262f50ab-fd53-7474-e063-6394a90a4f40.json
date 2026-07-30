@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Licefreee AfterLice Pramoxine HCI TEA TREE OIL BENZETHONIUM CHLORIDE MENTHOL POLYOXYL 35 CASTOR OIL ALCOHOL WATER PANTHENOL POLYQUATERNIUM-10 (400 CPS AT 2%) PRAMOXINE HYDROCHLORIDE PRAMOXINE"
+  ],
+  "active_ingredient": [
+    "Active ingredient Pramoxine HCI 1%"
+  ],
+  "warnings": [
+    "For external use only"
+  ],
+  "when_using": [
+    "When using this product avoid contact with eyes"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worstens symptoms last more than 7 days or clear up and occur again within a few days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "storage_and_handling": [
+    "Other Information Store at 59-86ºF (15-30ºC)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients alcohol, benzethonium CI, menthol, panthenol, polyoxyl 35 castor oil, polyquaternium-10, purified water, tea tree oil"
+  ],
+  "questions": [
+    "Questions or comments? Call 1-800-482-4464."
+  ],
+  "indications_and_usage": [
+    "Uses for the temporary relief of itching associated with insect bites minor skin irritations"
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 2 years of age and older: spray on affected area not more than 3-4 times daily Children under 2 years; do not use; consult a doctor"
+  ],
+  "purpose": [
+    "Pain and itch relief spray for scalp irritation caused by lice bites and lice treatments."
+  ],
+  "package_label_principal_display_panel": [
+    "Licefreee AfterLice"
+  ],
+  "set_id": "06c4cc42-a215-3949-e063-6394a90a665e",
+  "id": "262f50ab-fd53-7474-e063-6394a90a4f40",
+  "effective_time": "20241105",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Licefreee AfterLice"
+    ],
+    "generic_name": [
+      "PRAMOXINE HCI"
+    ],
+    "manufacturer_name": [
+      "Tec Laboratories Inc."
+    ],
+    "product_ndc": [
+      "51879-260"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "PRAMOXINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1294036"
+    ],
+    "spl_id": [
+      "262f50ab-fd53-7474-e063-6394a90a4f40"
+    ],
+    "spl_set_id": [
+      "06c4cc42-a215-3949-e063-6394a90a665e"
+    ],
+    "package_ndc": [
+      "51879-260-06"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "88AYB867L5"
+    ]
+  }
+}

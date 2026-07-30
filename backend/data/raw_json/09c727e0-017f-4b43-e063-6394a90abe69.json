@@ -1,0 +1,100 @@
+{
+  "spl_product_data_elements": [
+    "Povidone-Iodine Scrub Sterile POVIDONE-IODINE CITRIC ACID MONOHYDRATE NONOXYNOL-10 GLYCERIN SODIUM HYDROXIDE POTASSIUM IODIDE WATER POVIDONE-IODINE IODINE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information • saturating solution contains 0.75% titratable iodine • latex free • for hospital or professional use only"
+  ],
+  "active_ingredient": [
+    "Active ingredient Povidone-Iodine 7.5% Purpose Antiseptic"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Use • For preparation prior to surgery • Helps to reduce bacteria that can potentially cause skin infection"
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not apply to persons allergic to iodine Do not use • in the eyes Ask a doctor before use if injuries are • deep wounds • puncture wounds • serious burns Stop use and ask a doctor if • irritation and redness develop • condition persists for more than 72 hours • infection occurs Avoid pooling beneath the patient. Prolonged exposure to wet solution may cause skin irritation. Keep out of reach of children. If swallowed or gets in eyes, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use • in the eyes"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if injuries are • deep wounds • puncture wounds • serious burns"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if • irritation and redness develop • condition persists for more than 72 hours • infection occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed or gets in eyes, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Clean the area. Apply product to the operative site prior to surgery using sponge sticks to prep desired area."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Citric Acid, Alkyl Glucoside, Nonoxynol-10, Glycerin, Sodium Hydroxide, Potassium Iodide, Purified Water"
+  ],
+  "package_label_principal_display_panel": [
+    "Product Label BoxLabel"
+  ],
+  "set_id": "033b108a-4c2b-4950-9fe1-b159e88a16d6",
+  "id": "09c727e0-017f-4b43-e063-6394a90abe69",
+  "effective_time": "20231110",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Povidone-Iodine Scrub Sterile"
+    ],
+    "generic_name": [
+      "POVIDONE-IODINE"
+    ],
+    "manufacturer_name": [
+      "Cardinal Health 200, Inc"
+    ],
+    "product_ndc": [
+      "63517-255"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "POVIDONE-IODINE"
+    ],
+    "rxcui": [
+      "1037204"
+    ],
+    "spl_id": [
+      "09c727e0-017f-4b43-e063-6394a90abe69"
+    ],
+    "spl_set_id": [
+      "033b108a-4c2b-4950-9fe1-b159e88a16d6"
+    ],
+    "package_ndc": [
+      "63517-255-21"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175486",
+      "M0011640"
+    ],
+    "pharm_class_epc": [
+      "Antiseptic [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Iodine [CS]"
+    ],
+    "unii": [
+      "85H0HZU99M"
+    ]
+  }
+}

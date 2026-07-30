@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "NATUREANCE BODY BALM CAMPHOR .ALPHA.-HEXYLCINNAMALDEHYDE LINALOOL, (+/-)- HYDROXYCITRONELLAL FARNESOL .ALPHA.-AMYLCINNAMALDEHYDE BENZYL SALICYLATE .BETA.-CITRONELLOL, (R)- WATER CAMPHOR (SYNTHETIC) CAMPHOR (SYNTHETIC) ALCOHOL GLYCERIN POLYSORBATE 20 ARNICA MONTANA FLOWER LIMONENE, (+/-)- FD&C BLUE NO. 1 CITRONELLA OIL FD&C YELLOW NO. 5 BENZYL BENZOATE GERANIOL CITRAL EUGENOL"
+  ],
+  "active_ingredient": [
+    "Camphor 1%"
+  ],
+  "purpose": [
+    "External Analgesic"
+  ],
+  "indications_and_usage": [
+    "USE For the temporary relief of pain."
+  ],
+  "warnings": [
+    "For external use only. · Ask a doctor before use if you have redness over affected area."
+  ],
+  "when_using": [
+    "Avoid contact with eyes. Use only as directed. Do not apply to wounds or damaged, broken, or irritated skin. Do not bandage tightly or use with a heating pad If you experience an allergic reaction, discontinue use, and consult a physician."
+  ],
+  "stop_use": [
+    "Condition worsens. Redness is present. Irritation develops. Symptoms persist for more than 7 days or clear up occur again within a few days. You experience signs injury, such as pain, swelling or blistering where the product was applied."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast – feeding Ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "If swallowed, get medical help, or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Adults and Children over 12 years Apply to affected area not more than three to four times daily. Children under 12 years of age: do not use, consult a doctor."
+  ],
+  "other_safety_information": [
+    "Store tightly closed in a dry place at controlled room temperature between 59°-86° F (15°-30° C)."
+  ],
+  "inactive_ingredient": [
+    "Alcohol Denat, Water (Aqua), Glycerin, Polysorbate 20, Fragrance, Parfum, Arnica Montana Flower Extract, Cymbopogon Nardus (Citronella) Oil, FD&C Yellow No.5 (CI 19140), FD&C Blue No.1 (CI 42090), Benzyl Benzoate, Limonene, Benzyl Salicylate, Geraniol, Hexyl Cinnamal, Citral, Amyl Cinnamal, Citronellol, Linalool, Hydroxycitronellal, Eugenol, Farnesol."
+  ],
+  "package_label_principal_display_panel": [
+    "NATUREANCE BODY BALM EROS GLOBAL BODY BALM"
+  ],
+  "set_id": "05b84fd2-8d8f-9249-e063-6294a90ae29f",
+  "id": "05b859cc-c48d-ba90-e063-6294a90a87f8",
+  "effective_time": "20230919",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "NATUREANCE BODY BALM"
+    ],
+    "generic_name": [
+      "CAMPHOR"
+    ],
+    "manufacturer_name": [
+      "EROS GLOBAL CORP"
+    ],
+    "product_ndc": [
+      "80465-100"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CAMPHOR (SYNTHETIC)"
+    ],
+    "spl_id": [
+      "05b859cc-c48d-ba90-e063-6294a90a87f8"
+    ],
+    "spl_set_id": [
+      "05b84fd2-8d8f-9249-e063-6294a90ae29f"
+    ],
+    "package_ndc": [
+      "80465-100-08"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "5TJD82A1ET"
+    ]
+  }
+}

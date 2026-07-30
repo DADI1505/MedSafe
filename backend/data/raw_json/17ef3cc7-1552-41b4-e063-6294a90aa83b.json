@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Loratadine Loratadine ASPARTAME ANHYDROUS CITRIC ACID SILICON DIOXIDE MAGNESIUM STEARATE MANNITOL MICROCRYSTALLINE CELLULOSE SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID LORATADINE LORATADINE white to off-white LC5"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each chewable tablet) Loratadine USP, 5 mg"
+  ],
+  "purpose": [
+    "Purpose Antihistamine"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes sneezing itching of the nose or throat"
+  ],
+  "warnings": [
+    "Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed. Taking more than directed may cause drowsiness. Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or beast-feeding , ask a health professional before use. Keep Out of Reach of Children In case of overdose, get medical help or contact a Poison Control Center right away (1800-222-1222)."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep Out of Reach of Children In case of overdose, get medical help or contact a Poison Control Center right away (1800-222-1222)."
+  ],
+  "dosage_and_administration": [
+    "Directions chew or crush tablets completely before swallowing. adults and children 6 years and over chew 2 tablets daily; not more than 2 chewable tablets in 24 hours children 2 to under 6 years of age chew 1 tablet daily; not more than 1 chewable tablet in 24 hours children under 2 years of age ask a doctor consumers with liver or kidney disease ask a doctor Other information phenylketonurics: contains phenylalanine 1.25 mg per tablet. TAMPER EVIDENT: DO NOT USE IF BLISTER UNITS ARE TORN, BROKEN OR SHOW ANY SIGNS OF TAMPERING. store between 20° to 25°C (68° to 77°F)."
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"100%\"><colgroup><col width=\"47%\"/><col width=\"47%\"/></colgroup><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>adults and children 6 years and over</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>chew 2 tablets daily; not more than 2 chewable tablets in 24 hours</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>children 2 to under 6 years of age</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>chew 1 tablet daily; not more than 1 chewable tablet in 24 hours</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>children under 2 years of age</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>ask a doctor</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>consumers with liver or kidney disease</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>ask a doctor</paragraph></td></tr></tbody></table>"
+  ],
+  "other_safety_information": [
+    "Other information phenylketonurics: contains phenylalanine 1.25 mg per tablet. TAMPER EVIDENT: DO NOT USE IF BLISTER UNITS ARE TORN, BROKEN OR SHOW ANY SIGNS OF TAMPERING. store between 20° to 25°C (68° to 77°F)."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients aspartame, citric acid anhydrous, colloidal silicon dioxide, flavor, magnesium stearate, mannitol, microcrystalline cellulose, sodium starch glycolate, stearic acid Questions? 1800-632-6900"
+  ],
+  "questions": [
+    "Questions? 1800-632-6900"
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Package/Label Principal Display Panel kroger-30ct"
+  ],
+  "set_id": "087ee83f-71aa-3d47-e063-6394a90aed4d",
+  "id": "17ef3cc7-1552-41b4-e063-6294a90aa83b",
+  "effective_time": "20240508",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "ANDA210088"
+    ],
+    "brand_name": [
+      "Loratadine"
+    ],
+    "generic_name": [
+      "LORATADINE"
+    ],
+    "manufacturer_name": [
+      "KROGER COMPANY"
+    ],
+    "product_ndc": [
+      "30142-565"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LORATADINE"
+    ],
+    "rxcui": [
+      "665078"
+    ],
+    "spl_id": [
+      "17ef3cc7-1552-41b4-e063-6294a90aa83b"
+    ],
+    "spl_set_id": [
+      "087ee83f-71aa-3d47-e063-6394a90aed4d"
+    ],
+    "package_ndc": [
+      "30142-565-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0041260012334"
+    ],
+    "unii": [
+      "7AJO3BO7QN"
+    ]
+  }
+}

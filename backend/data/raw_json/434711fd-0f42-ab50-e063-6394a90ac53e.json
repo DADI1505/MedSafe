@@ -1,0 +1,96 @@
+{
+  "spl_product_data_elements": [
+    "WU YANG BRAND PAIN RELIEVING MEDICATED MENTHOL AND CAMPHOR ANGELICA DAHURICA ROOT BUTYLATED HYDROXYTOLUENE CINNAMON OIL DIPSACUS ASPER ROOT DRAGON'S BLOOD DRYNARIA FORTUNEI ROOT GARDENIA JASMINOIDES FRUIT GINGER LANOLIN LIGHT MINERAL OIL LONICERA JAPONICA FLOWER METHYL SALICYLATE MYRRH NATURAL LATEX RUBBER NEPETA TENUIFOLIA FLOWERING TOP PETROLATUM POLYISOBUTYLENE (800000 MW) RHEUM OFFICINALE ROOT ROSIN SAFFLOWER SAPOSHNIKOVIA DIVARICATA ROOT SENEGALIA CATECHU WOOD TARAXACUM MONGOLICUM WHOLE ZANTHOXYLUM NITIDUM ROOT ZINC OXIDE MENTHOL MENTHOL CAMPHOR (SYNTHETIC) CAMPHOR (SYNTHETIC)"
+  ],
+  "active_ingredient": [
+    "Active ingredients Menthol 5% Camphor 3%"
+  ],
+  "purpose": [
+    "Purpose External analgesic External analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses For the temporary relief of minor aches and pains of muscles and joints due to: ■ arthritis ■ strains ■ simple backache ■ bruises ■ sprains"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "do_not_use": [
+    "Do not use ■ on wounds ■ on damaged or irritated skin ■ if excessive irritation develops ■ otherwise than as directed, to do so may be dangerous"
+  ],
+  "when_using": [
+    "When using this product ■ avoid contact with the eyes or mucous membranes ■ do not bandage tightly"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if ■ condition worsens ■ symptoms persist for more than 7 days ■ symptoms clear up and occur again within a few days ■ when using for pain of arthritis if: ■ pain persists for more than 10 days ■ redness is present ■ in conditions affecting children under 12 years of age"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children to avoid accidental poisoning. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions ■ Adults and children 2 years of age and older: Cut to desired size, remove clear backing, and apply to affected area not more than 3 to 4 times daily. ■ Children under 2 years of age: Do not use, consult a doctor."
+  ],
+  "storage_and_handling": [
+    "Other information ■ store at 15º to 30º C (59º to 86º F) in a dry place away from sunlight"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients angelica dahurica root, butylated hydroxytoluene, cinnamon oil, dipsacus asper root, dragon's blood, drynaria fortunei root, gardenia jasminoides fruit, ginger, lanolin, light mineral oil, lonicera japonica flower, methyl salicylate, myrrh, natural latex rubber, nepeta tenuifolia flowering top, petrolatum, polyisobutylene, rheum officinale root, rosin, safflower, saposhnikovia divaricata root, senegalia catechu wood, taraxacum mongolicum whole, zanthoxylum nitidum root and zinc oxide."
+  ],
+  "questions": [
+    "Questions or comments? (888) 221-3496 M-F 9 am to 5 pm ■ you may also report serious side effects to this phone number"
+  ],
+  "package_label_principal_display_panel": [
+    "WU YANG BRAND PAIN RELIEVING MEDICATED PLASTER External Analgesic NDC 55614-700-01 Large Pain Relief Patches 10 Plasters Each plaster 3.9 x 11 inches (10 x 28 cm) - 1 Plaster per pouch IMAGE OF BOX",
+    "WU YANG BRAND PAIN RELIEVING MEDICATED PLASTER External Analgesic NDC 55614-700-02 Cut To Size Pain Relief Patches 1 Plaster 3.9 x 78.7 inches (10 x 200 cm) IMAGE OF CANISTER"
+  ],
+  "set_id": "05c6b95a-aeb6-4234-97c7-8d77eccb38d8",
+  "id": "434711fd-0f42-ab50-e063-6394a90ac53e",
+  "effective_time": "20251110",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "WU YANG BRAND PAIN RELIEVING MEDICATED"
+    ],
+    "generic_name": [
+      "MENTHOL AND CAMPHOR"
+    ],
+    "manufacturer_name": [
+      "MADISON ONE ACME INC"
+    ],
+    "product_ndc": [
+      "55614-700"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TRANSDERMAL"
+    ],
+    "substance_name": [
+      "MENTHOL",
+      "CAMPHOR (SYNTHETIC)"
+    ],
+    "rxcui": [
+      "2393604"
+    ],
+    "spl_id": [
+      "434711fd-0f42-ab50-e063-6394a90ac53e"
+    ],
+    "spl_set_id": [
+      "05c6b95a-aeb6-4234-97c7-8d77eccb38d8"
+    ],
+    "package_ndc": [
+      "55614-700-01",
+      "55614-700-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "L7T10EIP3A",
+      "5TJD82A1ET"
+    ]
+  }
+}

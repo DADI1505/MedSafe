@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "Muscle Ice Phytolacca Decandra, Bellis Perennis, Ledum Palustre, Ruta Graveolens, Symphytum Officinale, Magnesia Phosphorica, Silicea, Menthol (Crystals) PHYTOLACCA AMERICANA ROOT PHYTOLACCA AMERICANA ROOT BELLIS PERENNIS WHOLE BELLIS PERENNIS LEDUM PALUSTRE TWIG LEDUM PALUSTRE TWIG RUTA GRAVEOLENS FLOWERING TOP RUTA GRAVEOLENS FLOWERING TOP COMFREY ROOT COMFREY ROOT MAGNESIUM PHOSPHATE, DIBASIC TRIHYDRATE MAGNESIUM CATION SILICON DIOXIDE SILICON DIOXIDE MENTHOL WATER PHENOXYETHANOL CAPRYLYL GLYCOL SORBIC ACID SODIUM HYDROXIDE POLYETHYLENE GLYCOL 1600 PEG-8 DIMETHICONE POLYETHYLENE GLYCOL 700 CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) TOCOPHEROL ALOE VERA LEAF EDETATE DISODIUM POTASSIUM SORBATE SPANISH THYME OIL GINGER OIL LAVENDER OIL HYPERICUM OIL ALCOHOL CITRIC ACID MONOHYDRATE SODIUM BENZOATE"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: (in gel): 4% of Menthol; 0.20% of Bellis 6X, Ledum Palustre 6X, Phytolacca Decandra 4X, Ruta Graveolens 6X, Symphytum Officinale 6X; 0.001% of Magnesia Phosphorica 9X, Silicea 9X."
+  ],
+  "purpose": [
+    "INDICATIONS: May temporarily relieve minor aches and pains of muscles and joints.** **Claims based on traditional homeopathic principles, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS: For external use only. Avoid contact with eyes. If condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days, discontinue use of this product and consult a doctor. Do not apply to wounds or damaged skin, or mucous membranes. Do not bandage tightly. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Do not use if saftey seal is broken or missing."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Adults : Apply to affected area not more than 3 to 4 times daily. Children 2 years of age and older: C onsult a health professional. Do not use on children under 2 years of age."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: May temporarily relieve minor aches and pains of muscles and joints.** **Claims based on traditional homeopathic principles, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Purified Water, Aloe Vera Leaf Juice, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Phenoxyethanol, Caprylyl Glycol, Sorbic Acid, PEG-33, PEG-8 Dimethicone, PEG-14, Sodium Hydroxide (Solution), Tocopherols (Derived from Soy Bean), EDETATE Disodium (EDTA), Ginger (Zingiber Officinale) Root Oil, English Lavender (Lavandula Angustifolia) Flower Oil, Spanish Thyme (Thymus Zygis) Aerial Parts Oil, St. John’s Wort (Hypericum Perforatum) Aerial Parts Oil, Potassium Sorbate, Sodium Benzoate, Ethanol and Citric Acid."
+  ],
+  "questions": [
+    "QUESTIONS Dist. by Peaceful Mountain, Inc. Woodbine, IA 51579 888-303-3388 www.peacefulmountain.com"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: muscle ice peaceful mountain THE HEIGHT OF HEALTH homeopathic pain relieving gel paraben-free Net wt. 2 oz (57 g) Muscle Ice"
+  ],
+  "set_id": "03b6e2a9-f335-4ae2-9011-80bd019afb72",
+  "id": "808ca891-4122-4b5b-8602-52cc114a37f2",
+  "effective_time": "20240613",
+  "version": "4",
+  "openfda": {
+    "brand_name": [
+      "Muscle Ice"
+    ],
+    "generic_name": [
+      "PHYTOLACCA DECANDRA, BELLIS PERENNIS, LEDUM PALUSTRE, RUTA GRAVEOLENS, SYMPHYTUM OFFICINALE, MAGNESIA PHOSPHORICA, SILICEA, MENTHOL (CRYSTALS)"
+    ],
+    "manufacturer_name": [
+      "Peaceful Mountain, Inc."
+    ],
+    "product_ndc": [
+      "43846-0073"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "PHYTOLACCA AMERICANA ROOT",
+      "BELLIS PERENNIS WHOLE",
+      "LEDUM PALUSTRE TWIG",
+      "RUTA GRAVEOLENS FLOWERING TOP",
+      "COMFREY ROOT",
+      "MAGNESIUM PHOSPHATE, DIBASIC TRIHYDRATE",
+      "SILICON DIOXIDE"
+    ],
+    "spl_id": [
+      "808ca891-4122-4b5b-8602-52cc114a37f2"
+    ],
+    "spl_set_id": [
+      "03b6e2a9-f335-4ae2-9011-80bd019afb72"
+    ],
+    "package_ndc": [
+      "43846-0073-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "11E6VI8VEG",
+      "2HU33I03UY",
+      "877L01IZ0P",
+      "N94C2U587S",
+      "M9VVZ08EKQ",
+      "HF539G9L3Q",
+      "ETJ7Z6XBU4"
+    ]
+  }
+}

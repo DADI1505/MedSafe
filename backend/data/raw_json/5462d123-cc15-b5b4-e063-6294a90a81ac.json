@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Secret Clinical Clear Clean Lavender Aluminum Zirconium Octachlorohydrex Gly WATER CYCLOPENTASILOXANE DIMETHICONE PROPYLENE GLYCOL CALCIUM CHLORIDE PEG/PPG-18/18 DIMETHICONE ALUMINUM ZIRCONIUM OCTACHLOROHYDREX GLY ALUMINUM ZIRCONIUM OCTACHLOROHYDREX GLY ALCOHOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Dist. by PROCTER & GAMBLE, CINCINNATI, OH 45202."
+  ],
+  "active_ingredient": [
+    "Active ingredient Aluminum zirconium octachlorohydrex Gly 20% (anhydrous)"
+  ],
+  "purpose": [
+    "Purpose Antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Use reduces underarm wetness"
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use on broken skin Ask a doctor before use if you have kidney disease Stop use if rash or irritation occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on broken skin"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have kidney disease"
+  ],
+  "stop_use": [
+    "Stop use if rash or irritation occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply to underarms only apply 2-3 clicks of product to underarms at bedtime"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, cyclopentasiloxane, dimethicone, propylene glycol, alcohol denat., calcium chloride, PEG/PPG-18/18 dimethicone, fragrance"
+  ],
+  "questions": [
+    "Questions? 1-800-964-1947"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 73 g Canister Carton Secret ® CLINICAL 72 HR CLEAR GEL Clinically proven prescription strength wetness protection notes of Clean Lavender aluminum zirconium octachlorohydrex GLY antiperspirant / deodorant NET WT. 2.6 OZ (73 g) SEC"
+  ],
+  "set_id": "01e0cb6a-e3aa-9a5d-e063-6394a90acca6",
+  "id": "5462d123-cc15-b5b4-e063-6294a90a81ac",
+  "effective_time": "20260616",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Secret Clinical Clear Clean Lavender"
+    ],
+    "generic_name": [
+      "ALUMINUM ZIRCONIUM OCTACHLOROHYDREX GLY"
+    ],
+    "manufacturer_name": [
+      "The Procter & Gamble Manufacturing Company"
+    ],
+    "product_ndc": [
+      "69423-725"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM ZIRCONIUM OCTACHLOROHYDREX GLY"
+    ],
+    "spl_id": [
+      "5462d123-cc15-b5b4-e063-6294a90a81ac"
+    ],
+    "spl_set_id": [
+      "01e0cb6a-e3aa-9a5d-e063-6394a90acca6"
+    ],
+    "package_ndc": [
+      "69423-725-45",
+      "69423-725-73",
+      "69423-725-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "P9D3YP29MY"
+    ]
+  }
+}

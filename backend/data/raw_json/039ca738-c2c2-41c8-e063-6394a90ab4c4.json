@@ -1,0 +1,94 @@
+{
+  "spl_product_data_elements": [
+    "eos Natural SPF 15 Lip Balm Pineapple Coconut Zinc Oxide YELLOW WAX JOJOBA OIL HELIANTHUS ANNUUS SEED WAX ACACIA DECURRENS FLOWER WAX STEVIA REBAUDIUNA LEAF ROSEMARY OIL COCONUT OIL POLYGLYCERIN-3 RICE BRAN ZINC OXIDE ZINC OXIDE BIS-DIGLYCERYL POLYACYLADIPATE-2 SUNFLOWER OIL TOCOPHEROL COCOA BUTTER SHEA BUTTER FENNEL OIL SOYBEAN OIL CITRIC ACID MONOHYDRATE DIMETHICONE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    ""
+  ],
+  "purpose": [
+    "Active Ingredients Purpose Zinc Oxide 8% Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent sunburn."
+  ],
+  "warnings": [
+    "WARNINGS For external use only."
+  ],
+  "do_not_use": [
+    "Do not use • on damaged or broken skin."
+  ],
+  "when_using": [
+    "When using this product • keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if • rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply liberally 15 minutes before sun exposure. Reapply: - after 80 minutes of swimming or sweating - immediately after towel drying - at least every 2 hours Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures, including: - Limit time in the sun, especially from 10 a.m.-2 p.m. - Wear long-sleeved shirts, pants, hats, and sunglasses. Children under 6 months of age: Ask a doctor."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Helianthus annuus (Sunflower) Seed Oil, Beeswax (Cire D'abeille), Bis-Diglyceryl Polyacylapidate-2, Cocos Nucifera (Coconut) Oil, Oryza Sativa (Rice) Bran Wax, Flavor (Aroma), Dimethicone, Jojoba Esters, Helianthus annuus (Sunflower) Seed Wax, Butyrospermum Parkii (Shea) Butter, Theobroma Cacao (Cocoa) Seed Butter, Foeniculum Vulgare (Fennel) Oil, Rosemarinus Officinalis (Rosemary) Leaf Oil, Acacia Decurrens Flower Wax, Stevia Rebaudiana Leaf/Stem Extract, Tocopherol, Polyglycerin-3, Glycine Soja (Soyabean) Oil, Citric Acid."
+  ],
+  "other_safety_information": [
+    "Other Information Protect the product in this container from excessive heat and direct sun."
+  ],
+  "questions": [
+    "Questions or comments? (866) 547-4372"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel 0.14 o.z. (4g) eos Natural SPF 15 Lip Balm 0.14 o.z. (4g) Label",
+    "Principal Display Panel 2 X 0.14 o.z. (4g) 2 X eos Natural SPF 15 Lip Balm 0.14 o.z. (4g) Label"
+  ],
+  "set_id": "039ca738-c2c1-41c8-e063-6394a90ab4c4",
+  "id": "039ca738-c2c2-41c8-e063-6394a90ab4c4",
+  "effective_time": "20230823",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "eos Natural SPF 15 Lip Balm Pineapple Coconut"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "eos Products LLC"
+    ],
+    "product_ndc": [
+      "70170-0022"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "039ca738-c2c2-41c8-e063-6394a90ab4c4"
+    ],
+    "spl_set_id": [
+      "039ca738-c2c1-41c8-e063-6394a90ab4c4"
+    ],
+    "package_ndc": [
+      "70170-0022-1",
+      "70170-0022-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

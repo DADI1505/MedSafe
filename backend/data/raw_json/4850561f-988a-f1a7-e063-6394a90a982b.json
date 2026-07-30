@@ -1,0 +1,109 @@
+{
+  "spl_product_data_elements": [
+    "Fortify Menthol CINNAMON OIL EUCALYPTUS OIL TEA TREE OIL PELARGONIUM GRAVEOLENS FLOWER OIL PEPPERMINT OIL PINE NEEDLE OIL (PINUS SYLVESTRIS) ROSEMARY OIL GRAPE SEED OIL MENTHOL MENTHOL clear oil"
+  ],
+  "spl_unclassified_section": [
+    "IMPORTANT: READ ALL PRODUCT INFORMATION BEFORE USING. KEEP THIS PACKAGE FOR FULL INFORMATION.",
+    "Do not use if security seal around bottle is broken or missing.",
+    "Fortify 30 ml SKU 332001",
+    "Fortify 10 ml SKU 431301",
+    "Fortify 6 ml SKU 439901"
+  ],
+  "active_ingredient": [
+    "DRUG FACTS Active ingredient Menthol 2.7%"
+  ],
+  "purpose": [
+    "Purpose Antitussive (Cough Suppressant) Uses Temporarily calms cough due to minor throat and bronchial irritation associated with a cold or inhaled irritants. Relieves the impulse to cough to help you rest."
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not take by mouth or place in nostrils Flammable : Keep away from fire or flame."
+  ],
+  "do_not_use": [
+    "Do not use if epileptic with high blood pressure"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, or emphysema cough accompanied by excessive phlegm (mucus)."
+  ],
+  "when_using": [
+    "When using this product, do not heat microwave use near an open flame add to hot water or any container where heating water. May cause splattering and result in burns."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, do not use this product."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "indications_and_usage": [
+    "Directions See important warnings under 'When using this product'. Adults and children 12 years of age and older: rub on the throat and chest in a thick layer cover with a warm, dry cloth if desired clothing should be loose about throat and chest to help vapors reach the nose and mouth"
+  ],
+  "dosage_and_administration": [
+    "use up to three times daily or as directed by a doctor. Children under 12 years of age: ask a doctor."
+  ],
+  "other_safety_information": [
+    "Other information Close container tightly and store at room temperature away from heat"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Cinnamon oil, eucalyptus oil, melaleuca alternifolia (tea tree) leaf oil, pelargonium graveolens oil, peppermint oil, pine needle oil, rosmarinus officinalis (rosemary) leaf oil, and vitis vinifera (grape) seed oil."
+  ],
+  "questions": [
+    "Questions? 1-877-275-7253 Distributed by: SAJE NATURAL WELLNESS 22 East 5th Ave. Vancouver, BC Canada V5T 1G8 | saje.com | @sajewellness | 1-877-275-7253 | Made in Canada"
+  ],
+  "disposal_and_waste_handling": [
+    "Please recycle where possible."
+  ],
+  "package_label_principal_display_panel": [
+    "Fortify Antitussive (Cough Suppressant) Oil Blend Rub - 30 ml Saje® Natural Wellness Fortify Antitussive (Cough Suppressant) Oil Blend Rub 1 fl. oz. | 30 ml - Fortify 30 ml R3",
+    "Fortify Antitussive (Cough Suppressant) Oil Blend Rub - 10 ml Saje® Natural Wellness Fortify Antitussive (Cough Suppressant) Oil Blend Rub 0.34 fl. oz. | 10 ml - Fortify 10 ml V4",
+    "Fortify Antitussive (Cough Suppressant) Oil Blend Rub - 6 ml Saje® Natural Wellness Fortify Antitussive (Cough Suppressant) Oil Blend Rub 0.2 fl. oz. | 6 ml - Fortify 6 ml R3"
+  ],
+  "set_id": "0320a305-99d1-4909-94cc-cd6509ecb948",
+  "id": "4850561f-988a-f1a7-e063-6394a90a982b",
+  "effective_time": "20260113",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Fortify"
+    ],
+    "generic_name": [
+      "MENTHOL"
+    ],
+    "manufacturer_name": [
+      "Saje Natural Business Inc."
+    ],
+    "product_ndc": [
+      "70983-002"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MENTHOL"
+    ],
+    "spl_id": [
+      "4850561f-988a-f1a7-e063-6394a90a982b"
+    ],
+    "spl_set_id": [
+      "0320a305-99d1-4909-94cc-cd6509ecb948"
+    ],
+    "package_ndc": [
+      "70983-002-03",
+      "70983-002-04",
+      "70983-002-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

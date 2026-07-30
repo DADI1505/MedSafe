@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "Barrier Balm Barrier Balm POLYHYDROXYSTEARIC ACID (2300 MW) ZINC OXIDE .ALPHA.-TOCOPHEROL ACETATE, DL- DIMETHICONE 20 DIMETHICONE 20 SYNTHETIC WAX (1800 MW) WATER BUTYLATED HYDROXYTOLUENE PETROLATUM PETROLATUM MEDIUM-CHAIN TRIGLYCERIDES SHEA BUTTER ALUMINUM STARCH OCTENYLSUCCINATE TRIETHOXYCAPRYLYLSILANE HYALURONATE SODIUM"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Petrolatum 41.9% Dimethicone 13.0%"
+  ],
+  "purpose": [
+    "Helps prevent, temporarily protects and helps relieve chafed, chapped or cracked skin Helps prevent and protect from the drying effects of wind and cold weather Temporarily protects minor cuts, scrapes, burns"
+  ],
+  "indications_and_usage": [
+    "Directions Apply as needed"
+  ],
+  "warnings": [
+    "Warnings For external use only Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away Do not use on deep or puncture wounds, animal bites, serious burns When using this product do not get into eyes Stop use and ask doctor if condition worsens, symptoms last more than 7 days or clear up and occur again within a few days"
+  ],
+  "inactive_ingredient": [
+    "Caprylic/Capric triglyceride, Butyrospermum Parkii (Shea Butter), Aluminum Starch Octenylsuccinate, Synthetic Wax, Polyhydroxystearic Acid, Sodium Hyaluronate, Water, Zinc Oxide, Tocopheryl Acetate, Triethoxycaprylylsilane"
+  ],
+  "questions": [
+    "Questions? 858-859-1188"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "dosage_and_administration": [
+    "Apply as needed"
+  ],
+  "package_label_principal_display_panel": [
+    "48g tube carton artwork 15g carton artwork with drug facts box 28g carton artwork with drug facts box 15g tube primary container image 28g tube primary artwork image 48g tube primary artwork image"
+  ],
+  "set_id": "01df9746-991b-4363-e063-6294a90aaac6",
+  "id": "01df9746-991c-4363-e063-6294a90aaac6",
+  "effective_time": "20230801",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Barrier Balm"
+    ],
+    "generic_name": [
+      "BARRIER BALM"
+    ],
+    "manufacturer_name": [
+      "Autumn Harp, Inc."
+    ],
+    "product_ndc": [
+      "51514-0363"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "DIMETHICONE 20",
+      "PETROLATUM"
+    ],
+    "rxcui": [
+      "2665902"
+    ],
+    "spl_id": [
+      "01df9746-991c-4363-e063-6294a90aaac6"
+    ],
+    "spl_set_id": [
+      "01df9746-991b-4363-e063-6294a90aaac6"
+    ],
+    "package_ndc": [
+      "51514-0363-1",
+      "51514-0363-2",
+      "51514-0363-3",
+      "51514-0363-4",
+      "51514-0363-5",
+      "51514-0363-6"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0382575000143"
+    ],
+    "unii": [
+      "H8YMB5QY0D",
+      "4T6H12BN9U"
+    ]
+  }
+}

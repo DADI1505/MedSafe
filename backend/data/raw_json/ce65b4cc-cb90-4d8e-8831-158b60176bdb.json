@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "Tums Chewy Bites Orange and Cream ES calcium carbonate CALCIUM CARBONATE CALCIUM CATION CARBONATE ION ACACIA YELLOW WAX CARNAUBA WAX CITRIC ACID MONOHYDRATE COCONUT OIL STARCH, CORN CORN SYRUP DEXTRIN, CORN FD&C YELLOW NO. 6 FD&C YELLOW NO. 6 ALUMINUM LAKE MALTODEXTRIN METHYLPARABEN PHOSPHORIC ACID PROPYLENE GLYCOL PROPYLPARABEN WATER SHELLAC SORBIC ACID SORBITOL SOYBEAN LECITHIN SUCROSE TITANIUM DIOXIDE CORN OIL white T & Cream"
+  ],
+  "active_ingredient": [
+    "Active ingredient (per tablet) Calcium carbonate 750 mg"
+  ],
+  "purpose": [
+    "Purpose Antacid"
+  ],
+  "indications_and_usage": [
+    "Uses relieves • heartburn • acid indigestion • sour stomach • upset stomach associated with these symptoms"
+  ],
+  "warnings": [
+    "Warnings Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product • do not take more than 6 tablets in 24 hours • if pregnant do not take more than 6 tablets in 24 hours • do not use the maximum dosage for more than 2 weeks, except under the advice and supervision of a doctor Keep out of reach of children."
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs."
+  ],
+  "when_using": [
+    "When using this product • do not take more than 6 tablets in 24 hours • if pregnant do not take more than 6 tablets in 24 hours • do not use the maximum dosage for more than 2 weeks, except under the advice and supervision of a doctor"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions • adults and children 12 years of age and over: chew 2-4 tablets as symptoms occur, or as directed by a doctor. Chew or crush tablets completely before swallowing. • do not take for symptoms that persist for more than 2 weeks unless advised by a doctor"
+  ],
+  "spl_unclassified_section": [
+    "Other Information • each chewable tablet contains: elemental calcium 300 mg • do not store above 25°C (77°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients acacia, beeswax, carnauba wax, citric acid, coconut oil, corn starch, corn syrup, dextrin, FD&C yellow no. 6, FD&C yellow no. 6 aluminum lake, maltodextrin, methylparaben, natural and artificial flavors, pharmaceutical ink, phosphoric acid, propylene glycol, propylparaben, purified water, shellac, sorbic acid, sorbitol, soy lecithin, sucrose, titanium dioxide, vegetable oil"
+  ],
+  "questions": [
+    "Questions or comments? 1-800-452-0051"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel GOES TO WORK IN SECONDS! CALCIUM CARBONATE TUMS ANTACID Chewy Bites ORANGE & CREAM EXTRA STRENGTH 750 60 CHEWABLE TABLETS Tums CB Orange and Cream 60 ct"
+  ],
+  "set_id": "036ef1ed-32ef-46b8-8817-b3f63a014280",
+  "id": "ce65b4cc-cb90-4d8e-8831-158b60176bdb",
+  "effective_time": "20250214",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M001"
+    ],
+    "brand_name": [
+      "Tums Chewy Bites Orange and Cream ES"
+    ],
+    "generic_name": [
+      "CALCIUM CARBONATE"
+    ],
+    "manufacturer_name": [
+      "Haleon US Holdings LLC"
+    ],
+    "product_ndc": [
+      "0135-0642"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CALCIUM CARBONATE"
+    ],
+    "rxcui": [
+      "308915",
+      "1044532"
+    ],
+    "spl_id": [
+      "ce65b4cc-cb90-4d8e-8831-158b60176bdb"
+    ],
+    "spl_set_id": [
+      "036ef1ed-32ef-46b8-8817-b3f63a014280"
+    ],
+    "package_ndc": [
+      "0135-0642-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "H0G9379FGK"
+    ]
+  }
+}

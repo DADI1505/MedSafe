@@ -1,0 +1,125 @@
+{
+  "spl_product_data_elements": [
+    "Pepto Bismol CHEWABLES Bismuth Subsalicylate CALCIUM CARBONATE MAGNESIUM STEARATE MANNITOL POVIDONE D&C RED NO. 27 ALUMINUM LAKE SACCHARIN SODIUM TALC BISMUTH SUBSALICYLATE SALICYLIC ACID Pepto;Bismol"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "TAMPER EVIDENT: Do not use if the printed inner wrap is broken or missing.",
+    "MADE IN MEXICO DIST. BY PROCTER & GAMBLE CINCINNATI OH 45202"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each tablet) Bismuth subsalicylate 262 mg"
+  ],
+  "purpose": [
+    "Purpose Upset stomach reliever and antidiarrheal"
+  ],
+  "indications_and_usage": [
+    "Uses relieves travelers' diarrhea diarrhea upset stomach due to overindulgence in food and drink, including: heartburn indigestion nausea gas belching fullness"
+  ],
+  "warnings": [
+    "Warnings Reye's syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness. Allergy alert: Contains salicylate. Do not take if you are allergic to salicylates (including aspirin) taking other salicylate products"
+  ],
+  "do_not_use": [
+    "Do not use if you have an ulcer a bleeding problem bloody or black stool"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have fever mucus in the stool"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking any drug for anticoagulation (thinning the blood) diabetes gout arthritis"
+  ],
+  "when_using": [
+    "When using this product a temporary, but harmless, darkening of the stool and/or tongue may occur"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if symptoms get worse or last more than 2 days ringing in the ears or loss of hearing occurs diarrhea lasts more than 2 days"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "overdosage": [
+    "In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions • chew or dissolve in mouth • adults and children 12 years and over: 2 tablets (1 dose) every 1/2 hour or 4 tablets (2 doses) every hour as needed for diarrhea 2 tablets (1 dose) every 1/2 hour as needed for overindulgence (upset stomach, heartburn, indigestion, nausea) • do not exceed 8 doses (16 tablets) in 24 hours • use until diarrhea stops but not more than 2 days • children under 12 years: ask a doctor • drink plenty of clear fluids to help prevent dehydration caused by diarrhea"
+  ],
+  "storage_and_handling": [
+    "Other information each tablet contains : calcium 140 mg, magnesium 9 mg salicylate 101 mg low sodium avoid excessive heat (over 104°F or 40°C)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients calcium carbonate, D&C Red No. 27 aluminum lake, flavor, magnesium stearate, mannitol, povidone, saccharin sodium, talc"
+  ],
+  "questions": [
+    "Questions? 1-800-717-3786"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 12 Chewable Tablet Carton Pepto Bismol® Bismuth Subsalicylate Upset Stomach Reliever/ Antidiarrheal CHEWABLES 5 SYMPTOM RELIEF NAUSEA HEARTBURN INDIGESTION UPSET STOMACH DIARRHEA 12 CHEWABLE TABLETS 477"
+  ],
+  "set_id": "06fce961-5e57-b640-e063-6394a90a9e8a",
+  "id": "401d00ba-8c3f-04fa-e063-6294a90abe9e",
+  "effective_time": "20251001",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M008"
+    ],
+    "brand_name": [
+      "Pepto Bismol CHEWABLES"
+    ],
+    "generic_name": [
+      "BISMUTH SUBSALICYLATE"
+    ],
+    "manufacturer_name": [
+      "Procter & Gamble Manufactura S de RL de CV"
+    ],
+    "product_ndc": [
+      "58933-011"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BISMUTH SUBSALICYLATE"
+    ],
+    "rxcui": [
+      "211151",
+      "308761"
+    ],
+    "spl_id": [
+      "401d00ba-8c3f-04fa-e063-6294a90abe9e"
+    ],
+    "spl_set_id": [
+      "06fce961-5e57-b640-e063-6394a90a9e8a"
+    ],
+    "package_ndc": [
+      "58933-011-02",
+      "58933-011-12",
+      "58933-011-30",
+      "58933-011-48",
+      "58933-011-04",
+      "58933-011-90"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "M0002611",
+      "N0000180183"
+    ],
+    "pharm_class_cs": [
+      "Bismuth [CS]"
+    ],
+    "pharm_class_epc": [
+      "Bismuth [EPC]"
+    ],
+    "unii": [
+      "62TEY51RR1"
+    ]
+  }
+}

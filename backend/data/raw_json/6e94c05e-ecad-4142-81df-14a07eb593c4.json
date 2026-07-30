@@ -1,0 +1,143 @@
+{
+  "spl_product_data_elements": [
+    "Lycopodium Combination 9231 Lycopodium Combination MILK THISTLE MILK THISTLE CINCHONA OFFICINALIS BARK CINCHONA OFFICINALIS BARK LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE CHELIDONIUM MAJUS WHOLE CHELIDONIUM MAJUS WHOLE NUTMEG NUTMEG CITRULLUS COLOCYNTHIS FRUIT PULP CITRULLUS COLOCYNTHIS FRUIT PULP PHOSPHORUS PHOSPHORUS VERATRUM ALBUM ROOT VERATRUM ALBUM ROOT BEEF LIVER BEEF LIVER BOS TAURUS DUODENUM BOS TAURUS DUODENUM BOS TAURUS GALLBLADDER BOS TAURUS GALLBLADDER BOS TAURUS PANCREAS BOS TAURUS PANCREAS HYSSOPUS OFFICINALIS WHOLE HYSSOPUS OFFICINALIS WHOLE BOS TAURUS COLON BOS TAURUS COLON HEPATITIS A VIRUS STRAIN HM175 ANTIGEN (FORMALDEHYDE INACTIVATED) HEPATITIS A VIRUS STRAIN HM175 ANTIGEN (FORMALDEHYDE INACTIVATED) ALCOHOL WATER"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS Carduus marianus 2X Cinchona officinalis 3X Lycopodium clavatum 3X Chelidonium majus 4X Nux moschata 4X Colocynthis 6X Phosphorus 6X Veratrum album 6X Liver 8X Duodenum 10X Gallbladder 10X Pancreas 10X Thymus 10X Colon 12X Hepatitis 14X"
+  ],
+  "questions": [
+    "QUESTIONS Professional Formulas PO Box 2034 Lake Oswego, OR 97035"
+  ],
+  "indications_and_usage": [
+    "INDICATIONS For the temporary relief of loss of appetite, minor abdominal pain, nausea, or vomiting.*"
+  ],
+  "purpose": [
+    "*Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS If symptoms do not improve or are accompanied by a fever, consult a doctor. Keep out of the reach of children. In case of overdose, get medical help or contact a poison control center right away. If pregnant or breastfeeding, ask a healthcare professional before use. Keep out of the reach of children. If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take 10 drops up to 3 times per day. Consult a physician for use in children under 12 years of age."
+  ],
+  "other_safety_information": [
+    "OTHER INFORMATION Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS 40% ethanol, purified water."
+  ],
+  "package_label_principal_display_panel": [
+    "LABEL Est 1985 Professional Formulas Complementary Health Lycopodium Combination Homeopathic Remedy 1 FL. OZ. (29.5 mL) Label image"
+  ],
+  "set_id": "0403922e-dce1-4925-8877-d6b765f7fc18",
+  "id": "6e94c05e-ecad-4142-81df-14a07eb593c4",
+  "effective_time": "20260108",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Lycopodium Combination 9231"
+    ],
+    "generic_name": [
+      "LYCOPODIUM COMBINATION"
+    ],
+    "manufacturer_name": [
+      "Professional Complementary Health Formulas"
+    ],
+    "product_ndc": [
+      "63083-9231"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MILK THISTLE",
+      "CINCHONA OFFICINALIS BARK",
+      "LYCOPODIUM CLAVATUM SPORE",
+      "CHELIDONIUM MAJUS WHOLE",
+      "NUTMEG",
+      "CITRULLUS COLOCYNTHIS FRUIT PULP",
+      "PHOSPHORUS",
+      "VERATRUM ALBUM ROOT",
+      "BEEF LIVER",
+      "BOS TAURUS DUODENUM",
+      "BOS TAURUS GALLBLADDER",
+      "BOS TAURUS PANCREAS",
+      "HYSSOPUS OFFICINALIS WHOLE",
+      "BOS TAURUS COLON",
+      "HEPATITIS A VIRUS STRAIN HM175 ANTIGEN (FORMALDEHYDE INACTIVATED)"
+    ],
+    "spl_id": [
+      "6e94c05e-ecad-4142-81df-14a07eb593c4"
+    ],
+    "spl_set_id": [
+      "0403922e-dce1-4925-8877-d6b765f7fc18"
+    ],
+    "package_ndc": [
+      "63083-9231-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185371",
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "M0016962",
+      "M0006342",
+      "M0008672",
+      "M0516536",
+      "N0000185017",
+      "N0000183889",
+      "N0000183364",
+      "M0357587",
+      "M0023305"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Food Allergenic Extract [EPC]",
+      "Non-Standardized Plant Allergenic Extract [EPC]",
+      "Inactivated Hepatitis A Virus Vaccine [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Actively Acquired Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Plant Proteins [CS]",
+      "Dietary Proteins [CS]",
+      "Food Additives [CS]",
+      "Seed Storage Proteins [CS]",
+      "Hepatitis A Vaccines [CS]",
+      "Vaccines, Inactivated [CS]"
+    ],
+    "unii": [
+      "U946SH95EE",
+      "S003A158SB",
+      "C88X29Y479",
+      "7E889U5RNN",
+      "AEE24M3MQ9",
+      "23H32AOH17",
+      "27YLU75U4W",
+      "QNS6W5US1Z",
+      "W8N8R55022",
+      "HO4J712LAX",
+      "9901V1E867",
+      "1M529TNT1D",
+      "0IQW001KPE",
+      "8PD5L21RYS",
+      "5BFC8LZ6LQ"
+    ]
+  }
+}

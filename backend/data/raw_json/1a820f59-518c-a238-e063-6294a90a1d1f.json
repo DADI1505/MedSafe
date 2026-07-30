@@ -1,0 +1,84 @@
+{
+  "spl_product_data_elements": [
+    "SMOOTH GATOR Head-Ezz Analgesic MENTHOL ALOE VERA LEAF WATER DIAZOLIDINYL UREA EUCALYPTUS OIL GLYCERIN GLYCERYL MONOSTEARATE LICORICE MELALEUCA ALTERNIFOLIA LEAF PEPPERMINT OIL METHYLPARABEN METHYL SALICYLATE MINERAL OIL PEG-100 STEARATE POLYSORBATE 20 PROPYLPARABEN PROPYLENE GLYCOL .ALPHA.-TOCOPHEROL ROSEMARY TROLAMINE MENTHOL MENTHOL"
+  ],
+  "spl_unclassified_section": [
+    "DRUG FACTS",
+    "Additional Information: Store at room temperature"
+  ],
+  "active_ingredient": [
+    "Active Ingredients: Menthol 3.00% Purpose Topical Analgesic"
+  ],
+  "purpose": [
+    "Purpose Topical Analgesic"
+  ],
+  "indications_and_usage": [
+    "Indications: For the temporary relief of minor aches and pains."
+  ],
+  "warnings": [
+    "Warnings For external use only. Avoid contact with eyes. If symptoms persist for more than seven days, discontinue use and consult physician. Keep out of reach of children. If swallowed, consult physician. Do not apply to wounds or damaged skin. Do not bandage tightly."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, consult physician. Do not apply to wounds or damaged skin. Do not bandage tightly."
+  ],
+  "dosage_and_administration": [
+    "Directions: Adults and children two-years of age or older: Apply to affected area not more than three to four times daily. Children under two-years of age: consult a physician"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aloe Barbadensis Leaf (Aloe Vera Gel) Juice, Aqua (Deionized Water), Camphor, Diazolidinyl Urea, Eucalyptus Globulus Oil, Glycerin, Glyceryl Stearate, Glycyrrhiza Glabra (Licorice) Extract, Melaleuca Alternifolia (Tea Tree) Oil, Mentha Piperita (Peppermint) Oil, Methyl Paraben, Methyl Salicylate, Mineral Oil, Parfum (Fragrance), PEG-100 Stearate, Polysorbate-20, Propyl Paraben, Propylene Glycol, Retinyl Palmitate (Vitamin E), Rosmarinus Officinalis (Rosemary) Extract, Tocopheryl Acetate (Vitamine E), Triethanolamine."
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labelling: Bottle"
+  ],
+  "set_id": "02e18e5d-6fb0-4ebf-bdd6-dcc7edbb31bd",
+  "id": "1a820f59-518c-a238-e063-6294a90a1d1f",
+  "effective_time": "20240610",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "SMOOTH GATOR Head-Ezz Analgesic"
+    ],
+    "generic_name": [
+      "MENTHOL"
+    ],
+    "manufacturer_name": [
+      "Smooth Gator LLC"
+    ],
+    "product_ndc": [
+      "70673-501"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MENTHOL"
+    ],
+    "rxcui": [
+      "1442261"
+    ],
+    "spl_id": [
+      "1a820f59-518c-a238-e063-6294a90a1d1f"
+    ],
+    "spl_set_id": [
+      "02e18e5d-6fb0-4ebf-bdd6-dcc7edbb31bd"
+    ],
+    "package_ndc": [
+      "70673-501-00"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0001200000012"
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

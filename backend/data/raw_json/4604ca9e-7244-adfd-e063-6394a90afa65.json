@@ -1,0 +1,129 @@
+{
+  "spl_product_data_elements": [
+    "Asthma Therapy ARSENIC TRIOXIDE - HISTAMINE DIHYDROCHLORIDE - DERMATOPHAGOIDES PTERONYSSINUS - MAGNESIUM PHOSPHATE, DIBASIC TRIHYDRATE - STRYCHNOS NUX-VOMICA SEED - ASPIDOSPERMA QUEBRACHO-BLANCO BARK - SUPLHUR - STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED ASPIDOSPERMA QUEBRACHO-BLANCO BARK ASPIDOSPERMA QUEBRACHO-BLANCO BARK SULFUR SULFUR MANNITOL SORBITOL CROSPOVIDONE CELLULOSE, MICROCRYSTALLINE COPOVIDONE SILICON DIOXIDE LACTOSE MAGNESIUM STEARATE ARSENIC TRIOXIDE ARSENIC CATION (3+) HISTAMINE DIHYDROCHLORIDE HISTAMINE DERMATOPHAGOIDES PTERONYSSINUS DERMATOPHAGOIDES PTERONYSSINUS MAGNESIUM PHOSPHATE, DIBASIC TRIHYDRATE MAGNESIUM CATION TRP"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Purpose Arsenicum album HPUS 6c/12c/18c Wheezing, Anxiety, Inflammation in the airways Histaminum hydrochloricum HPUS 6c/12c/18c Persistent, Dry, Fitful cough House Dust Mite 6c/12c/18c Allergies Magnesia Phosphorica HPUS 6c/12c/18c Tightness in chest, Spasmodic cough Nux Vomica HPUS 6c/12c/18c Shallow breathing, Dry hacking cough, Nervousness Quebracho HPUS 6c/12c/18c Difficulty breathing, Shortness of breath Sulphur HPUS 6c/12c/18c Difficult, Irregular respiration The letters HPUS indicate that the components of this product are officially monographed in the Homeopathic Pharmacopoeia of the United States."
+  ],
+  "active_ingredient_table": [
+    "<table border=\"1\" cellpadding=\"5\"><col/><col width=\"25%\"/><col align=\"right\"/><tbody><tr><td><content styleCode=\"bold\">Active Ingredients</content></td><td/><td><content styleCode=\"bold\">Purpose</content></td></tr><tr><td>Arsenicum album HPUS</td><td>6c/12c/18c</td><td>Wheezing, Anxiety, Inflammation in the airways</td></tr><tr><td>Histaminum hydrochloricum HPUS</td><td>6c/12c/18c</td><td>Persistent, Dry, Fitful cough</td></tr><tr><td>House Dust Mite</td><td>6c/12c/18c</td><td>Allergies</td></tr><tr><td>Magnesia Phosphorica HPUS</td><td>6c/12c/18c</td><td>Tightness in chest, Spasmodic cough</td></tr><tr><td>Nux Vomica HPUS</td><td>6c/12c/18c</td><td>Shallow breathing, Dry hacking cough, Nervousness</td></tr><tr><td>Quebracho HPUS</td><td>6c/12c/18c</td><td>Difficulty breathing, Shortness of breath</td></tr><tr><td>Sulphur HPUS</td><td>6c/12c/18c</td><td>Difficult, Irregular respiration</td></tr></tbody></table>"
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    "Uses According to homeopathic indications, these ingredients provide temporary relief of Asthma and COPD like symptoms such as: • Difficulty Breathing • Inflammation in the airways • Coughing • Wheezing • Shortness of breath • Sensation of tightness of the chest • Congestion after a diagnosis of Asthma or COPD by a physician."
+  ],
+  "warnings": [
+    "Warnings USE ONLY AFTER DIAGNOSIS BY A PHYSICIAN. This product is a not a fast acting (rescue) inhaler. This product is intended to complement, not replace, standard medical treatment. Initial worsening of symptoms may occur. A physician should always be consulted to rule out serious causes. In case of overdose, get medical help or contact a Poison Control Center right away. Stop use and ask a doctor if: You experience worsening symptoms. If symptoms last longer than 7 days."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "dosage_and_administration": [
+    "Directions Suitable for adults and children 12 years and above. Dissolve entire tablet under tongue. Do not chew or swallow whole. Take 1 tablet 3 times a day or as directed by a physician. Use up to 6 times a day as needed. Take at least 10 minutes before or at least 10 minutes after eating or drinking. Children under the age of 12: consult a physician before use."
+  ],
+  "spl_unclassified_section": [
+    "Other information Active ingredients are micro-diluted in accordance with the Homeopathic Pharmacopoeia of the United States and are therefore non-toxic with no known side effects. Store in a cool dark location."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Advantol® 300, Lactose, Magnesium Stearate, Mannitol, Microcrystalline Cellulose."
+  ],
+  "do_not_use": [
+    "Do not use if tamper evident seal is torn, broken or missing."
+  ],
+  "questions": [
+    "For more information and to order related products call toll free: 888-969-6855 or trpcompany.com"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel FDA Disclaimer: Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated. Carton Label"
+  ],
+  "set_id": "07d2988b-5012-481c-9b48-a709c33d2979",
+  "id": "4604ca9e-7244-adfd-e063-6394a90afa65",
+  "effective_time": "20251215",
+  "version": "6",
+  "openfda": {
+    "brand_name": [
+      "Asthma Therapy"
+    ],
+    "generic_name": [
+      "ARSENIC TRIOXIDE - HISTAMINE DIHYDROCHLORIDE - DERMATOPHAGOIDES PTERONYSSINUS - MAGNESIUM PHOSPHATE, DIBASIC TRIHYDRATE - STRYCHNOS NUX-VOMICA SEED - ASPIDOSPERMA QUEBRACHO-BLANCO BARK - SUPLHUR -"
+    ],
+    "manufacturer_name": [
+      "TRP Company"
+    ],
+    "product_ndc": [
+      "17312-017"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "STRYCHNOS NUX-VOMICA SEED",
+      "ASPIDOSPERMA QUEBRACHO-BLANCO BARK",
+      "SULFUR",
+      "ARSENIC TRIOXIDE",
+      "HISTAMINE DIHYDROCHLORIDE",
+      "DERMATOPHAGOIDES PTERONYSSINUS",
+      "MAGNESIUM PHOSPHATE, DIBASIC TRIHYDRATE"
+    ],
+    "spl_id": [
+      "4604ca9e-7244-adfd-e063-6394a90afa65"
+    ],
+    "spl_set_id": [
+      "07d2988b-5012-481c-9b48-a709c33d2979"
+    ],
+    "package_ndc": [
+      "17312-017-14"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0858961001174"
+    ],
+    "nui": [
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0016962",
+      "M0516536",
+      "N0000185005",
+      "M0419493",
+      "M0028968"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Plant Allergenic Extract [EPC]",
+      "Standardized Insect Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Plant Proteins [CS]",
+      "Seed Storage Proteins [CS]",
+      "Antigens, Dermatophagoides [CS]",
+      "Insect Proteins [CS]"
+    ],
+    "unii": [
+      "269XH13919",
+      "52B1340190",
+      "70FD1KFU70",
+      "S7V92P67HO",
+      "3POA0Q644U",
+      "57L1Z5378K",
+      "HF539G9L3Q"
+    ]
+  }
+}

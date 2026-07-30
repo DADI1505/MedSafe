@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Premier Value Cough Drops Black Cherry Sugar Free ASPARTAME LECITHIN, SOYBEAN ISOMALT EUCALYPTUS OIL FD&C BLUE NO. 1 FD&C RED NO. 40 WATER ACESULFAME POTASSIUM MENTHOL MENTHOL B"
+  ],
+  "active_ingredient": [
+    "Active Ingredient(s) Menthol 5.8 mg"
+  ],
+  "purpose": [
+    "Purpose Purposes cough suppressant, oral anesthetic"
+  ],
+  "indications_and_usage": [
+    "Use temporary relieves: ■ cough due to cold ■ occasional minor irritation or sore throat"
+  ],
+  "warnings": [
+    "Warnings Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or follow headache, rash, swelling, nausea, or vomiting, consult a doctor promptly. These may be serious."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have: ■ persistent or chronic cough such as occurs with smoking, asthma, or emphysema ■ cough accompanied by excessive phlegm (mucus)."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if ■ cough persists for more than 1 week, tends to recur, or is accompained by fever, rash, or persistent headache. These could be signs of a serius condition. ■ sore mouth does not improve in 7 days ■ irritation, pain, or redness persists or worsens."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions ■ adults and children 5 years and over: dissolve 1 drop slowly in the mouth. Repeat every 2 hours as needed. ■ children under 5 years: ask a doctor."
+  ],
+  "storage_and_handling": [
+    "Other information ■ 5 calories per drop ■ contains: SOY."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Acesulfame potassium, aspartame, eucalyptus oil, FD&C blue 1, FD&C red 40, flavors, isomalt, soy lecithin, water"
+  ],
+  "questions": [
+    "call 1-800-245-2898. Monday - Friday, 9 AM to 4 PM EST"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Label - Principal Display Panel 25 PC NDC: 68016-886-25 PV label"
+  ],
+  "set_id": "018f20b1-06e0-eb13-e063-6394a90a5ec5",
+  "id": "468e7be2-fca6-7715-e063-6394a90abc85",
+  "effective_time": "20251222",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Premier Value"
+    ],
+    "generic_name": [
+      "COUGH DROPS BLACK CHERRY SUGAR FREE"
+    ],
+    "manufacturer_name": [
+      "Pharmacy Value Alliance LLC"
+    ],
+    "product_ndc": [
+      "68016-886"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MENTHOL"
+    ],
+    "rxcui": [
+      "476973"
+    ],
+    "spl_id": [
+      "468e7be2-fca6-7715-e063-6394a90abc85"
+    ],
+    "spl_set_id": [
+      "018f20b1-06e0-eb13-e063-6394a90a5ec5"
+    ],
+    "package_ndc": [
+      "68016-886-25"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0840986037962"
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

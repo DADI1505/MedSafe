@@ -1,7 +1,7 @@
-import { Loader2 } from "lucide-react"
-import Ask from "./pages/Ask"
-import Auth from "./pages/Auth"
-import { useAuth } from "./context/AuthContext"
+// import { Loader2 } from "lucide-react"
+// import Ask from "./pages/Ask"
+// import Auth from "./pages/Auth"
+// import { useAuth } from "./context/AuthContext"
 
 /*
   ============================================================
@@ -16,24 +16,55 @@ import { useAuth } from "./context/AuthContext"
     - "anonymous"     : pas connecté        -> <Auth />
     - "authenticated" : connecté            -> <Ask />
 */
-export default function App() {
-  const { status } = useAuth()
+// export default function App() {
+//   const { status } = useAuth()
 
-  // Pendant la vérification initiale du token.
-  if (status === "loading") {
-    return (
-      <div className="flex min-h-screen items-center justify-center bg-canvas">
-        <Loader2 className="h-8 w-8 animate-spin text-brand-600" aria-hidden="true" />
-        <span className="sr-only">Chargement…</span>
-      </div>
-    )
+//   // Pendant la vérification initiale du token.
+//   if (status === "loading") {
+//     return (
+//       <div className="flex min-h-screen items-center justify-center bg-canvas">
+//         <Loader2 className="h-8 w-8 animate-spin text-brand-600" aria-hidden="true" />
+//         <span className="sr-only">Chargement…</span>
+//       </div>
+//     )
+//   }
+
+//   // Non connecté : on montre la page d'authentification.
+//   if (status !== "authenticated") {
+//     return <Auth />
+//   }
+
+//   // Connecté : accès à la plateforme.
+//   return <Ask />
+// }
+
+
+
+
+import { useState } from "react"
+import { useAuth } from "./context/AuthContext"
+import Auth from "./pages/Auth"
+import Ask from "./pages/Ask"
+import History from "./pages/History"
+import Header from "./components/Header"
+
+export default function App() {
+  const { user, isLoading } = useAuth()
+  const [currentView, setCurrentView] = useState("ask")   // "ask" ou "history"
+
+  if (isLoading) {
+    return <div className="flex min-h-screen items-center justify-center">Chargement…</div>
   }
 
-  // Non connecté : on montre la page d'authentification.
-  if (status !== "authenticated") {
+  if (!user) {
     return <Auth />
   }
 
-  // Connecté : accès à la plateforme.
-  return <Ask />
+  return (
+    <>
+      <Header onNavigateHistory={() => setCurrentView("history")} />
+      {currentView === "ask" && <Ask />}
+      {currentView === "history" && <History onBack={() => setCurrentView("ask")} />}
+    </>
+  )
 }

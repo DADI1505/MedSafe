@@ -1,0 +1,112 @@
+{
+  "spl_product_data_elements": [
+    "EQUATE PAIN RELIEVING PATCHES LIDOCAINE 4% GLYCERIN METHYLPARABEN GELATIN LIDOCAINE LIDOCAINE PROPYLENE GLYCOL POVIDONE KAOLIN TARTARIC ACID TITANIUM DIOXIDE WATER PROPYLPARABEN SODIUM POLYACRYLATE (8000 MW) POLYACRYLIC ACID (250000 MW) POLYSORBATE 80 DIHYDROXYALUMINUM AMINOACETATE"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS Lidocaine 4.0%"
+  ],
+  "purpose": [
+    "PURPOSE Topical anesthetic"
+  ],
+  "indications_and_usage": [
+    "USES Temporarily relieves minor pain"
+  ],
+  "warnings": [
+    "WARNINGS For external use only Do not use More than one patch on your body at a time On cut, irritated or swollen skin On puncture wounds For more than one week without consulting a doctor If you are allergic to any active or inactive ingredients If pouch is damaged or opened When using this product Use only as directed Read and follow all directions and warnings on this pack Do not allow contact with the eyes Do not use at the same time as other topical analgesics Do not bandage tightly or apply local heat (such as heating pads) to the area of use Do not microwave Dispose of used patch in manner that always keeps product away from children and pets Used patches still contain the drug product that can produce serious adverse effects if a child or pet chews or ingests this patch Stop use and ask a doctor if Condition worsens Redness is present Irritation develops Symptoms persist for more than 7 days or clear up and occur again within a few days You experience signs of skin injury, such as pain, swelling or blistering where the product was applied If pregnant or breast-feeding ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "do_not_use": [
+    "Do not use More than one patch on your body at a time On cut, irritated or swollen skin On puncture wounds For more than one week without consulting a doctor If you are allergic to any active or inactive ingredients If pouch is damaged or opened"
+  ],
+  "when_using": [
+    "When using this product Use only as directed Read and follow all directions and warnings on this pack Do not allow contact with the eyes Do not use at the same time as other topical analgesics Do not bandage tightly or apply local heat (such as heating pads) to the area of use Do not microwave Dispose of used patch in manner that always keeps product away from children and pets Used patches still contain the drug product that can produce serious adverse effects if a child or pet chews or ingests this patch"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if Condition worsens Redness is present Irritation develops Symptoms persist for more than 7 days or clear up and occur again within a few days You experience signs of skin injury, such as pain, swelling or blistering where the product was applied"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Adults and children over 12 years : Clean and dry affected area. Remove film from patch (see illustration). Apply sticky side of patch to affected area. Use one patch for up to 12 hours. Discard patch after single use Children 12 years of age or younger : Consult a physician."
+  ],
+  "other_safety_information": [
+    "OTHER INFORMATION Store in a clean, dry place outside of direct sunlight. Protect from excessive moisture."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS aluminum glycinate, glycerin, kaolin, methylparaben, polyacrylic acid, polysorbate 80, propylene glycol, propylparaben, PVP, sodium polyacrylate, tartaric acid, titanium dioxide, water"
+  ],
+  "questions": [
+    "QUESTIONS CALL 1-888-287-1915"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL PRINCIPAL DISPLAY PANEL"
+  ],
+  "set_id": "01e1cc0e-e1c9-d274-e063-6294a90a409e",
+  "id": "40a9d880-e972-9394-e063-6294a90a9c3d",
+  "effective_time": "20251008",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "EQUATE PAIN RELIEVING PATCHES"
+    ],
+    "generic_name": [
+      "LIDOCAINE 4%"
+    ],
+    "manufacturer_name": [
+      "WALMART, INC"
+    ],
+    "product_ndc": [
+      "79903-197"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL",
+      "TRANSDERMAL"
+    ],
+    "substance_name": [
+      "LIDOCAINE"
+    ],
+    "rxcui": [
+      "1737778"
+    ],
+    "spl_id": [
+      "40a9d880-e972-9394-e063-6294a90a9c3d"
+    ],
+    "spl_set_id": [
+      "01e1cc0e-e1c9-d274-e063-6294a90a409e"
+    ],
+    "package_ndc": [
+      "79903-197-60"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175682",
+      "M0000897",
+      "N0000175426",
+      "N0000175976"
+    ],
+    "pharm_class_epc": [
+      "Amide Local Anesthetic [EPC]",
+      "Antiarrhythmic [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Amides [CS]"
+    ],
+    "pharm_class_pe": [
+      "Local Anesthesia [PE]"
+    ],
+    "unii": [
+      "98PI200987"
+    ]
+  }
+}

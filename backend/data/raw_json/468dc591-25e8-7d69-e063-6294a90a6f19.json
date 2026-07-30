@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "MGC Health Cough Drops Vanilla Honey CORN SYRUP WATER HONEY SUCROSE BETA CAROTENE LECITHIN, SOYBEAN MENTHOL MENTHOL B"
+  ],
+  "active_ingredient": [
+    "Active Ingredient(s) Menthol 2.5"
+  ],
+  "purpose": [
+    "Purpose Purposes cough suppressant, oral anesthetic"
+  ],
+  "indications_and_usage": [
+    "Use temporary relieves: ■ cough due to cold ■ occasional minor irritation or sore throat"
+  ],
+  "warnings": [
+    "Warnings Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or follow headache, rash, swelling, nausea, or vomiting, consult a doctor promptly. These may be serious."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have: ■ persistent or chronic cough such as occurs with smoking, asthma, or emphysema ■ cough accompanied by excessive phlegm (mucus)."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if ■ cough persists for more than 1 week, tends to recur, or is accompained by fever, rash, or persistent headache. These could be signs of a serius condition. ■ sore mouth does not improve in 7 days ■ irritation, pain, or redness persists or worsens."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 5 years and over: dissolve 2 drops (one at a time) slowly in the mouth repeat every 2 hours as needed children under 5 years: as a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information ■ 10 calories per drop ■ contains: SOY."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients beta carotene, flavors, glucose syrup, honey, soy lecithin, sucrose, water."
+  ],
+  "questions": [
+    "Call Toll-Free 866-306-9136 or visit our website: www.mac.us customerservice@mgc.Us"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Label - Principal Display Panel 30 Drops NDC: 83173-128-30 MGC label 30CT"
+  ],
+  "set_id": "043999bc-3efe-5d29-e063-6294a90a95f4",
+  "id": "468dc591-25e8-7d69-e063-6294a90a6f19",
+  "effective_time": "20251222",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "MGC Health"
+    ],
+    "generic_name": [
+      "COUGH DROPS VANILLA HONEY"
+    ],
+    "manufacturer_name": [
+      "Medical Group Care LLC"
+    ],
+    "product_ndc": [
+      "83173-128"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MENTHOL"
+    ],
+    "rxcui": [
+      "616344"
+    ],
+    "spl_id": [
+      "468dc591-25e8-7d69-e063-6294a90a6f19"
+    ],
+    "spl_set_id": [
+      "043999bc-3efe-5d29-e063-6294a90a95f4"
+    ],
+    "package_ndc": [
+      "83173-128-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0383173000566"
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

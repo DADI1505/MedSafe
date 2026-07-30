@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Capsadyn Capsaicin POLYSORBATE 80 PHENOXYETHANOL STEARIC ACID COCONUT OIL ETHYLHEXYLGLYCERIN GLYCERYL MONOSTEARATE POLYOXYL 20 CETOSTEARYL ETHER GLYCERIN WATER CAPSAICIN CAPSAICIN MYRISTYL MYRISTATE SHEA BUTTER SUNFLOWER OIL"
+  ],
+  "purpose": [
+    "Topical analgesic"
+  ],
+  "active_ingredient": [
+    "Capsaicin 0.25% as Capsaicin palmitate"
+  ],
+  "indications_and_usage": [
+    "For the temporary relief of minor aches and pains of muscles and joints associated with arthritis, muscle strains, sprains, bruises, related muscle injuries, and simple backache. Provides penetrating pain relief."
+  ],
+  "warnings": [
+    "For external use only. Do not apply to wounds and damaged skin. When using this produc t use only as directed, temporary warming of skin may be experienced after application, avoid contact with eyes or mucous membranes, do not bandage tightly, do not expose the treated area to heat, and avoid activity that may cause perspiration. Stop use and ask a doctor if condition worsens or if symptoms persist for more than 7 days or clear up and occur again within a few days."
+  ],
+  "keep_out_of_reach_of_children": [
+    "If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Adults and children 18 years of age and older: apply to affected areas not more than 3-4 times daily, rub in the cream until completely absorbed, the amount used depends on the depth of the pain, typically provides pain relief without any noticeable warming or cooling, wash hands thoroughly with soap and water after applying. Children under 18 years of age: consult a doctor."
+  ],
+  "inactive_ingredient": [
+    "Butyrospermum parkii (shea) butter, ceteareth-20, cetyl alcohol, cocos nucifera (coconut) oil, ethylhexylglycerin, glycerin, glyceryl stearate, helianthus annuus (sunflower) seed oil, myristyl myristate, phenoxyethanol, polysorbate 20, stearic acid, water."
+  ],
+  "package_label_principal_display_panel": [
+    "Carton"
+  ],
+  "set_id": "07731045-0d2b-76b7-e063-6294a90af921",
+  "id": "07731045-0d2c-76b7-e063-6294a90af921",
+  "effective_time": "20231011",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Capsadyn"
+    ],
+    "generic_name": [
+      "CAPSAICIN"
+    ],
+    "manufacturer_name": [
+      "Chorda Pharma, Inc"
+    ],
+    "product_ndc": [
+      "83009-169"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CAPSAICIN"
+    ],
+    "rxcui": [
+      "199078"
+    ],
+    "spl_id": [
+      "07731045-0d2c-76b7-e063-6294a90af921"
+    ],
+    "spl_set_id": [
+      "07731045-0d2b-76b7-e063-6294a90af921"
+    ],
+    "package_ndc": [
+      "83009-169-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0383009169016"
+    ],
+    "unii": [
+      "S07O44R1ZM"
+    ]
+  }
+}

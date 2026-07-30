@@ -1,0 +1,108 @@
+{
+  "spl_product_data_elements": [
+    "All Day Allergy Cetirizine HCl CETIRIZINE HYDROCHLORIDE CETIRIZINE GELATIN ISOPROPYL ALCOHOL POLYETHYLENE GLYCOL 400 PROPYLENE GLYCOL SODIUM HYDROXIDE SORBITAN SORBITOL SHELLAC SODIUM LAURYLSULFONATE TITANIUM DIOXIDE WATER MEDIUM-CHAIN TRIGLYCERIDES clear 291"
+  ],
+  "active_ingredient": [
+    "Active Ingredient (in each capsule) Cetirizine HCl USP,10 mg"
+  ],
+  "purpose": [
+    "Purpose Antihistamine"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat"
+  ],
+  "warnings": [
+    "Warning"
+  ],
+  "do_not_use": [
+    "Do not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose."
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives."
+  ],
+  "when_using": [
+    "When using this product drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding if breast-feeding: not recommended if pregnant: ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 6 years and over One 10 mg capsule once daily; do not take more than one 10 mg capsule in 24 hours. A 5 mg product may be appropriate for less severe symptoms. Adults 65 years and over ask a doctor. Children under 6 years of age ask a doctor Consumers with liver or kidney disease ask a doctor"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"665px\"><col/><col/><tbody><tr><td>Adults and children 6 years and over</td><td>One 10 mg capsule once daily; do not take more than one 10 mg capsule in 24 hours. A 5 mg product may be appropriate for less severe symptoms.</td></tr><tr><td>Adults 65 years and over</td><td> ask a doctor.</td></tr><tr><td>Children under 6 years of age</td><td> ask a doctor</td></tr><tr><td>Consumers with liver or kidney disease</td><td> ask a doctor</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other Information store at 20º -25ºC (68º - 77ºF) avoid high humidity and excessive heat above 40ºC (104ºF) protect from light"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients gelatin, medium chain triglyceride, polyethylene glycol 400, printing ink white, (isopropyl alcohol, propylene glycol, shellac resins, sodium lauryl sulphate, titanium dioxide) purified water, sodium hydroxide, sorbitan, sorbitol solution"
+  ],
+  "questions": [
+    "Questions or comments? Call toll free:"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal display panel †Compare to the active ingredient in Zyrtec® Allergy Relief Cetirizine HCl CAPSULES, 10 mg Antihistamine INDOOR & OUTDOOR ALLERGIES 24-HOUR RELIEF OF: Sneezing Runny nose Itchy, watery eyes Itchy throat or nose LIQUID GELS** (**LIQUID FILLED CAPSULES) †This product is not manufactured or distributed by Johnson & Johnson Consumer Inc., distributor of Zyrtec®. TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING. KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. DISTRIBUTED BY: ADUSA DISTRIBUTION, LLC SALISBURY, NC 28147",
+    "Product Label CARE ONE Allergy Relief Cetirizine HCl USP, 10 mg"
+  ],
+  "set_id": "01d0729f-11ef-4ec5-8d8e-2863407c3f95",
+  "id": "67a5a75a-7a28-4d07-99b4-8325d1776f3a",
+  "effective_time": "20250407",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "ANDA205291"
+    ],
+    "brand_name": [
+      "All Day Allergy"
+    ],
+    "generic_name": [
+      "CETIRIZINE HCL"
+    ],
+    "manufacturer_name": [
+      "Care One (American Sales Company)"
+    ],
+    "product_ndc": [
+      "41520-212"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CETIRIZINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1014675"
+    ],
+    "spl_id": [
+      "67a5a75a-7a28-4d07-99b4-8325d1776f3a"
+    ],
+    "spl_set_id": [
+      "01d0729f-11ef-4ec5-8d8e-2863407c3f95"
+    ],
+    "package_ndc": [
+      "41520-212-25"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0341520001239"
+    ],
+    "unii": [
+      "64O047KTOA"
+    ]
+  }
+}

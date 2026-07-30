@@ -1,0 +1,84 @@
+{
+  "spl_product_data_elements": [
+    "Crest 3D White Fresh Mint Sodium Fluoride CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM SODIUM HYDROXIDE SACCHARIN SODIUM CARBOXYPOLYMETHYLENE MICA TITANIUM DIOXIDE FD&C BLUE NO. 1 SODIUM FLUORIDE FLUORIDE ION POLYSORBATE 80 WATER SORBITOL HYDRATED SILICA SODIUM ACID PYROPHOSPHATE SODIUM LAURYL SULFATE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "DISTR. BY PROCTER & GAMBLE, CINCINNATI, OH 45202"
+  ],
+  "active_ingredient": [
+    "Active ingredient Sodium fluoride 0.243% (0.15% w/v fluoride ion)"
+  ],
+  "purpose": [
+    "Purpose Anticavity toothpaste"
+  ],
+  "indications_and_usage": [
+    "Use helps protect against cavities"
+  ],
+  "warnings": [
+    "Warning Keep out of reach of children under 6 yrs. of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children under 6 yrs. of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 2 yrs. & older: brush teeth thoroughly after meals or at least twice a day or use as directed by a dentist do not swallow to minimize swallowing use a pea-sized amount in children under 6 supervise children's brushing until good habits are established children under 2 yrs.: ask a dentist"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, sorbitol, hydrated silica, disodium pyrophosphate, sodium lauryl sulfate, flavor, cellulose gum, sodium hydroxide, sodium saccharin, carbomer, mica, titanium dioxide, blue 1, polysorbate 80"
+  ],
+  "questions": [
+    "Questions? 1-800-492-7378"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 65 g Tube Carton Crest ® 3D WHITE™ FLUORIDE ANTICAVITY TOOTHPASTE NET WT 2.3 OZ (65 g) ENAMEL SAFE WHITENING STAIN ERASER FRESH MINT CLEANS AWAY STUBBORN STAINS INCLUDING: COFFEE, SODA, TEA, WINE artwork"
+  ],
+  "set_id": "01f27a63-15f3-cee4-e063-6394a90afa3b",
+  "id": "47e557c1-ab4c-0c31-e063-6394a90adad8",
+  "effective_time": "20260108",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M021"
+    ],
+    "brand_name": [
+      "Crest 3D White Fresh Mint"
+    ],
+    "generic_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "manufacturer_name": [
+      "Procter & Gamble Manufactura, S. de R.L. de C.V."
+    ],
+    "product_ndc": [
+      "58933-881"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "DENTAL"
+    ],
+    "substance_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "rxcui": [
+      "891775"
+    ],
+    "spl_id": [
+      "47e557c1-ab4c-0c31-e063-6394a90adad8"
+    ],
+    "spl_set_id": [
+      "01f27a63-15f3-cee4-e063-6394a90afa3b"
+    ],
+    "package_ndc": [
+      "58933-881-23"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8ZYQ1474W7"
+    ]
+  }
+}

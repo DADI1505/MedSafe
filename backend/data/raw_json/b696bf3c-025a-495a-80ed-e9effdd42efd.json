@@ -1,0 +1,104 @@
+{
+  "spl_product_data_elements": [
+    "DIARRHEA CP Aethusa Cynapium, Arsenic Trioxide, Oyster Shell Calicum Carbonate, Crude, Matricaria Chamomilla, Citrullus Colocynthis Fruit Pulp, Iron, Lycopodium Clavatum Spore, Mercurius Solobilis, Phosphorus, Podophyllum, Anemone Pulsatilla, Delphinium Straphisagria Seed, Sulfur AETHUSA CYNAPIUM AETHUSA CYNAPIUM ARSENIC TRIOXIDE ARSENIC CATION (3+) OYSTER SHELL CALCIUM CARBONATE, CRUDE OYSTER SHELL CALCIUM CARBONATE, CRUDE MATRICARIA RECUTITA MATRICARIA RECUTITA CITRULLUS COLOCYNTHIS FRUIT PULP CITRULLUS COLOCYNTHIS FRUIT PULP IRON IRON LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE MERCURIUS SOLUBILIS MERCURIUS SOLUBILIS PHOSPHORUS PHOSPHORUS PODOPHYLLUM PODOPHYLLUM ANEMONE PULSATILLA ANEMONE PULSATILLA DELPHINIUM STAPHISAGRIA SEED DELPHINIUM STAPHISAGRIA SEED SULFUR SULFUR WATER POTASSIUM SORBATE CITRIC ACID ACETATE GLYCERIN"
+  ],
+  "active_ingredient": [
+    "Active Ingredients (HPUS*) - equal amounts of: Aethusa Cynapium 30C, Arsenicum Album 30C, Calcarea Carbonica 30C, Chamomilla 30C, Colocynthis 30C, Ferrum Metallicum 30C, Lycopodium Clavatum 30C, Mercurius Solubilis 30C, Phosphorus 30C, Podophyllum Peltatum 30C, Pulsatilla 30C, Staphysagria 30C, Sulphur 30C."
+  ],
+  "purpose": [
+    "Uses : Temporarily relieves symptoms of minor diarrhea.**"
+  ],
+  "indications_and_usage": [
+    "Uses : Temporarily relieves symptoms of minor diarrhea.**"
+  ],
+  "dosage_and_administration": [
+    "Directions: 10 drops orally 3 times daily, or as directed by a health care professional."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF THE REACH OF CHILDREN. In case of overdose (or accidental ingestion) get medical help or contact a Poison Control Center right away."
+  ],
+  "warnings": [
+    "WARNINGS: Consult a physician for use in children under 12 years of age. IF PREGNANT OR BREAST-FEEDING, ask a health care professional before use. KEEP OUT OF THE REACH OF CHILDREN. In case of overdose (or accidental ingestion) get medical help or contact a Poison Control Center right away. Do not use if TAMPER EVIDENT seal is broken or missing."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Citric Acid, Glycerin USP, Natural Cherry Flavor, Potassium Sorbate, Purified Water."
+  ],
+  "questions": [
+    "Questions & Comments? Natural Creations, Inc. / Woodbine, IA 51579 / 712-647-1600"
+  ],
+  "references": [
+    "*The letters “HPUS” indicate the components in the product are officially monographed in the Homeopathic Pharmacopeia of the United States. **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "package_label_principal_display_panel": [
+    "NDC: 43406-0059-1 DIARRHEA CP HOMEOPATHIC 1 fl oz (30 mL) / Alcohol Free Natural Cherry Flavor UPC: 877730001191 image description"
+  ],
+  "set_id": "06f51c41-1e76-4201-937a-cbaaf6a477af",
+  "id": "b696bf3c-025a-495a-80ed-e9effdd42efd",
+  "effective_time": "20251210",
+  "version": "4",
+  "openfda": {
+    "brand_name": [
+      "DIARRHEA CP"
+    ],
+    "generic_name": [
+      "AETHUSA CYNAPIUM, ARSENIC TRIOXIDE, OYSTER SHELL CALICUM CARBONATE, CRUDE, MATRICARIA CHAMOMILLA, CITRULLUS COLOCYNTHIS FRUIT PULP, IRON, LYCOPODIUM CLAVATUM SPORE, MERCURIUS SOLOBILIS, PHOSPHORUS, PODOPHYLLUM, ANEMONE PULSATILLA, DELPHINIUM STRAPHISAGRIA SEED, SULFUR"
+    ],
+    "manufacturer_name": [
+      "Natural Creations, Inc."
+    ],
+    "product_ndc": [
+      "43406-0059"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "AETHUSA CYNAPIUM",
+      "ARSENIC TRIOXIDE",
+      "OYSTER SHELL CALCIUM CARBONATE, CRUDE",
+      "MATRICARIA RECUTITA",
+      "CITRULLUS COLOCYNTHIS FRUIT PULP",
+      "IRON",
+      "LYCOPODIUM CLAVATUM SPORE",
+      "MERCURIUS SOLUBILIS",
+      "PHOSPHORUS",
+      "PODOPHYLLUM",
+      "ANEMONE PULSATILLA",
+      "DELPHINIUM STAPHISAGRIA SEED",
+      "SULFUR"
+    ],
+    "spl_id": [
+      "b696bf3c-025a-495a-80ed-e9effdd42efd"
+    ],
+    "spl_set_id": [
+      "06f51c41-1e76-4201-937a-cbaaf6a477af"
+    ],
+    "package_ndc": [
+      "43406-0059-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0877730001191"
+    ],
+    "unii": [
+      "M6936L953C",
+      "S7V92P67HO",
+      "2E32821G6I",
+      "G0R4UBI2ZZ",
+      "23H32AOH17",
+      "E1UOL152H7",
+      "C88X29Y479",
+      "324Y4038G2",
+      "27YLU75U4W",
+      "2S713A4VP3",
+      "I76KB35JEV",
+      "00543AP1JV",
+      "70FD1KFU70"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "spl_product_data_elements": [
+    "Miconazole Nitrate Athletes Foot Powder Spray Talc Free DISTEARDIMONIUM HECTORITE ISOBUTANE KAOLIN ALCOHOL ZEA MAYS SUBSP. MAYS WHOLE MICONAZOLE NITRATE MICONAZOLE"
+  ],
+  "active_ingredient": [
+    "Active ingredient Miconazole nitrate 2%"
+  ],
+  "purpose": [
+    "Purpose Antifungal"
+  ],
+  "indications_and_usage": [
+    "Uses cures most athlete's foot (linea pedis), ringworm (linea corporis) and jock itch (linea cruris) relieves symptoms of athlete's foot, including itching, burning and cracking"
+  ],
+  "warnings": [
+    "For external use only. Flammable: Do not use while smoking or near heat or flame. Do not puncture or incinerate. Contents under pressure. Do not store at temperature above 120ºF. Intentional misuse by deliberately concentrating and inhaling contents cans be harmful or fatal. When using this product do not get into eyes or mouth use only as directed Stop use and ask a doctor if irritation occurs no improvement within 4 weeks for athlete's foot and ringworm; 2 weeks for jock itch Do not use on children under 2 years of age unless directed by a doctor. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "safe_handling_warning": [
+    "Flammable: Do not use while smoking or near heat or flame. Do not puncture or incinerate. Contents under pressure. Do not store at temperature above 120ºF. Intentional misuse by deliberately concentrating and inhaling contents cans be harmful or fatal."
+  ],
+  "when_using": [
+    "When using this product do not get into eyes or mouth use only as directed"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if irritation occurs no improvement within 4 weeks for athlete's foot and ringworm; 2 weeks for jock itch"
+  ],
+  "do_not_use": [
+    "Do not use on children under 2 years of age unless directed by a doctor."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions wash affected area and dry thoroughly shake can well and spray a thin layer over affected area twice daily (morning and night) supervise children in the use of this product for athlete's foot: pay special attention to spaces between the toes; wear well-fitting, ventilated shoes, and change shoes and socks at least once daily use daily for 4 weeks for athlete's foot and ringworm; use daily for 2 weeks for jock itch, if conditions persist, consult a doctor this product is not effective on the scalp or nails in nozzle clogs, clean with a pin"
+  ],
+  "other_safety_information": [
+    "Other information store between 20º and 30ºC (68ºF and 86º)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients disteardimonium hectorite, isobutane, kaolin, SD alcohol 40-B, zea mays (corn) starch"
+  ],
+  "questions": [
+    "Questions? call 1-866-964-0939"
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Harris Teeter ANTIFUNGAL powder spray Miconazole Nitrate Cures most athlete's foot Relieves itching, cracking & burning Talc-free NET WT 4.6 OZ (130 g) Antifungal Miconazole Powder Spray Talc Free"
+  ],
+  "set_id": "02eb9c78-5a89-4958-b5a4-68f39e584cf2",
+  "id": "458bf011-d6c6-f0c4-e063-6394a90a638b",
+  "effective_time": "20251209",
+  "version": "8",
+  "openfda": {
+    "application_number": [
+      "M005"
+    ],
+    "brand_name": [
+      "Miconazole Nitrate"
+    ],
+    "generic_name": [
+      "ATHLETES FOOT POWDER SPRAY TALC FREE"
+    ],
+    "manufacturer_name": [
+      "Harris Teeter, LLC"
+    ],
+    "product_ndc": [
+      "69256-039"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MICONAZOLE NITRATE"
+    ],
+    "rxcui": [
+      "998428"
+    ],
+    "spl_id": [
+      "458bf011-d6c6-f0c4-e063-6394a90a638b"
+    ],
+    "spl_set_id": [
+      "02eb9c78-5a89-4958-b5a4-68f39e584cf2"
+    ],
+    "package_ndc": [
+      "69256-039-46"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "VW4H1CYW1K"
+    ]
+  }
+}

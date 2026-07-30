@@ -1,0 +1,107 @@
+{
+  "spl_product_data_elements": [
+    "Syphilitic Miasm Phytolacca Decandra, Anacardium Orientale, Arsenicum Album, Aurum Metallicum, Kali Iodatum, Mercurius Solubilis, Nitricum Acidum, Thuja Occidentalis PHYTOLACCA AMERICANA ROOT PHYTOLACCA AMERICANA ROOT SEMECARPUS ANACARDIUM JUICE SEMECARPUS ANACARDIUM JUICE ARSENIC TRIOXIDE ARSENIC CATION (3+) GOLD GOLD POTASSIUM IODIDE IODIDE ION MERCURIUS SOLUBILIS MERCURIUS SOLUBILIS NITRIC ACID NITRIC ACID THUJA OCCIDENTALIS LEAFY TWIG THUJA OCCIDENTALIS LEAFY TWIG WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: (in each drop): 12.50% of Phytolacca Decandra 6X, Anacardium Orientale 12X, Arsenicum Album 12X, Aurum Metallicum 12X, Kali Iodatum 12X, Mercurius Solubilis 12X, Nitricum Acidum 12X, Thuja Occidentalis 12X."
+  ],
+  "purpose": [
+    "INDICATIONS: May temporarily relieve tiredness, weakness in the morning, irritability, sluggish functions, heaviness, numbness, and staggering.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS: If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in a cool, dry place."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Adults and children 5 to 10 drops orally, 3 times daily or as otherwise directed by a health care professional. If symptoms persist for more than 7 days, consult your health care professional. Consult a physician for use in children under 12 years of age."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: May temporarily relieve tiredness, weakness in the morning, irritability, sluggish functions, heaviness, numbness, and staggering.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Demineralized water, 20% Ethanol."
+  ],
+  "questions": [
+    "QUESTIONS: Dist. by Energique, Inc. 201 Apple Blvd Woodbine, IA 51579 800-869-8078"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: ENERGIQUE SINCE 1987 HOMEOPATHIC REMEDY SYPHILITIC MIASM 1 fl. oz. (30 ml) Syphilitic Miasm"
+  ],
+  "set_id": "07459e64-f973-4220-a723-7aad305e09a6",
+  "id": "15d58bfa-aa29-48df-b9cf-4767f53fc902",
+  "effective_time": "20241030",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "Syphilitic Miasm"
+    ],
+    "generic_name": [
+      "PHYTOLACCA DECANDRA, ANACARDIUM ORIENTALE, ARSENICUM ALBUM, AURUM METALLICUM, KALI IODATUM, MERCURIUS SOLUBILIS, NITRICUM ACIDUM, THUJA OCCIDENTALIS"
+    ],
+    "manufacturer_name": [
+      "Energique, Inc."
+    ],
+    "product_ndc": [
+      "44911-0482"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PHYTOLACCA AMERICANA ROOT",
+      "SEMECARPUS ANACARDIUM JUICE",
+      "ARSENIC TRIOXIDE",
+      "GOLD",
+      "POTASSIUM IODIDE",
+      "MERCURIUS SOLUBILIS",
+      "NITRIC ACID",
+      "THUJA OCCIDENTALIS LEAFY TWIG"
+    ],
+    "spl_id": [
+      "15d58bfa-aa29-48df-b9cf-4767f53fc902"
+    ],
+    "spl_set_id": [
+      "07459e64-f973-4220-a723-7aad305e09a6"
+    ],
+    "package_ndc": [
+      "44911-0482-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0363113701678"
+    ],
+    "nui": [
+      "N0000185508",
+      "N0000175629",
+      "N0000184306",
+      "M0000728"
+    ],
+    "pharm_class_epc": [
+      "Standardized Chemical Allergen [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]"
+    ],
+    "unii": [
+      "11E6VI8VEG",
+      "Y0F0BU8RDU",
+      "S7V92P67HO",
+      "79Y1949PYO",
+      "1C4QK22F9J",
+      "324Y4038G2",
+      "411VRN1TV4",
+      "1NT28V9397"
+    ]
+  }
+}

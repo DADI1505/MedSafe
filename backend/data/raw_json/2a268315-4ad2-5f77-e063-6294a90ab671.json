@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Buildable Blur Homosalate, Octisalate, Zinc Oxide WATER SODIUM CHLORIDE TETRAHEXYLDECYL ASCORBATE DICAPRYLYL CARBONATE ETHYLHEXYL PALMITATE ALUMINUM HYDROXIDE PHENYL TRIMETHICONE FLAX SEED TRIETHOXYCAPRYLYLSILANE MICA QUATERNIUM-90 BENTONITE HYDROXYACETOPHENONE DIMETHICONE TRIBEHENIN BUTYLENE GLYCOL CETYL PEG/PPG-10/1 DIMETHICONE (HLB 1.5) PHYTATE SODIUM BUTYLOCTYL SALICYLATE PENTYLENE GLYCOL CAPRYLYL TRISILOXANE DIMETHICONE CROSSPOLYMER (450000 MPA.S AT 12% IN CYCLOPENTASILOXANE) PROPYLENE CARBONATE TITANIUM DIOXIDE FERRIC OXIDE RED ULTRAMARINE BLUE LAURYL PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE GLYCERIN METHYL METHACRYLATE/GLYCOL DIMETHACRYLATE CROSSPOLYMER CAPRYLYL GLYCOL FERRIC OXIDE YELLOW FERROSOFERRIC OXIDE HOMOSALATE HOMOSALATE ZINC OXIDE ZINC OXIDE OCTISALATE OCTISALATE"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Homosalate 9.0% Octisalate 4.5% Zinc Oxide 7.8%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "USES Uses Helps prevent sunburn If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by sun"
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin"
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Directions For sunscreen use: Apply liberally 15 minutes before sun exposure Reapply at least every 2 hours Use a water resistant sunscreen if swimming or sweating Children under 6 months of age: Ask a doctor Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease the risk, regularly use a sunscreen with Broad Spectrum SPF value of 15 or higher and other sun protection measures including: -Limit time in the sun, especially from 10 a.m. - 2 p.m. -Wear long-sleeve shirts, pants, hats, and sunglasses."
+  ],
+  "other_safety_information": [
+    "OTHER INFORMATION Other information Protect the product in this container from excessive heat and direct sun",
+    "QUESTIONS Questions? Call (888) 804-4318 or visit www.thrivecausemetics.com"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients AQUA/WATER/EAU, DIMETHICONE, BUTYLOCTYL SALICYLATE, LAURYL PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE, GLYCERIN, PENTYLENE GLYCOL, SODIUM CHLORIDE, TRIBEHENIN, BUTYLENE GLYCOL, CETYL PEG/PPG-10/1 DIMETHICONE, METHYL METHACRYLATE CROSSPOLYMER, PHENYL TRIMETHICONE, TETRAHEXYLDECYL ASCORBATE, LINUM USITATISSIMUM (LINSEED) SEED EXTRACT, DICAPRYLYL CARBONATE, TRIETHOXYCAPRYLYLSILANE, CAPRYLYL METHICONE, DIMETHICONE CROSSPOLYMER, ETHYLHEXYL PALMITATE, ALUMINUM HYDROXIDE, MICA, QUATERNIUM-90 BENTONITE, SODIUM PHYTATE, PROPYLENE CARBONATE, HYDROXYACETOPHENONE, CAPRYLYL GLYCOL, [+/- TITANIUM DIOXIDE (CI 77891), IRON OXIDES (CI 77491, 77492, 77499), ULTRAMARINES (CI 77007)]."
+  ],
+  "package_label_principal_display_panel": [
+    "Primary Package Primary Package Tube_Artwork",
+    "Secondary Package Outer package OuterPackage"
+  ],
+  "set_id": "06c62206-d832-8d9a-e063-6394a90a4c69",
+  "id": "2a268315-4ad2-5f77-e063-6294a90ab671",
+  "effective_time": "20241226",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Buildable Blur"
+    ],
+    "generic_name": [
+      "HOMOSALATE, OCTISALATE, ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "COSMAX USA, CORPORATION"
+    ],
+    "product_ndc": [
+      "68577-141"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "HOMOSALATE",
+      "ZINC OXIDE",
+      "OCTISALATE"
+    ],
+    "spl_id": [
+      "2a268315-4ad2-5f77-e063-6294a90ab671"
+    ],
+    "spl_set_id": [
+      "06c62206-d832-8d9a-e063-6394a90a4c69"
+    ],
+    "package_ndc": [
+      "68577-141-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "V06SV4M95S",
+      "SOI2LOH54Z",
+      "4X49Y0596W"
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Vanadium Muriaticum Vanadium Muriaticum VANADIUM(II) CHLORIDE VANADIUM SUCROSE Vanadium Muriaticum Vanadium Muriaticum VANADIUM(II) CHLORIDE VANADIUM SUCROSE Vanadium Muriaticum Vanadium Muriaticum VANADIUM(II) CHLORIDE VANADIUM SUCROSE Vanadium Muriaticum Vanadium Muriaticum VANADIUM(II) CHLORIDE VANADIUM SUCROSE Vanadium Muriaticum Vanadium Muriaticum VANADIUM(II) CHLORIDE VANADIUM SUCROSE Vanadium Muriaticum Vanadium Muriaticum VANADIUM(II) CHLORIDE VANADIUM SUCROSE Vanadium Muriaticum Vanadium Muriaticum VANADIUM(II) CHLORIDE VANADIUM SUCROSE Vanadium Muriaticum Vanadium Muriaticum SUCROSE VANADIUM(II) CHLORIDE VANADIUM"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Vanadium Muriaticum 6C 5g Vanadium Muriaticum 6C 30g Vanadium Muriaticum 6C 100g Vanadium Muriaticum 12C 5g Vanadium Muriaticum 12C 30g Vanadium Muriaticum 12C 100g Vanadium Muriaticum 30C 1g Vanadium Muriaticum 30C 5g Vanadium Muriaticum 30C 30g Vanadium Muriaticum 30C 100g Vanadium Muriaticum 100C 1g Vanadium Muriaticum 100C 5g Vanadium Muriaticum 100C 30g Vanadium Muriaticum 100C 100g Vanadium Muriaticum 200C 1g Vanadium Muriaticum 200C 5g Vanadium Muriaticum 200C 30g Vanadium Muriaticum 200C 100g Vanadium Muriaticum 500C 1g Vanadium Muriaticum 500C 5g Vanadium Muriaticum 500C 30g Vanadium Muriaticum 500C 100g Vanadium Muriaticum 1M 1g Vanadium Muriaticum 1M 5g Vanadium Muriaticum 1M 30g Vanadium Muriaticum 1M 100g Vanadium Muriaticum LM1 30g"
+  ],
+  "set_id": "07508699-02ba-ca6d-e063-6294a90adf05",
+  "id": "07508699-02b9-ca6d-e063-6294a90adf05",
+  "effective_time": "20231009",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Vanadium Muriaticum"
+    ],
+    "generic_name": [
+      "VANADIUM MURIATICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-4112",
+      "37662-4115",
+      "37662-4117",
+      "37662-4119",
+      "37662-4113",
+      "37662-4114",
+      "37662-4116",
+      "37662-4118"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "VANADIUM(II) CHLORIDE"
+    ],
+    "spl_id": [
+      "07508699-02b9-ca6d-e063-6294a90adf05"
+    ],
+    "spl_set_id": [
+      "07508699-02ba-ca6d-e063-6294a90adf05"
+    ],
+    "package_ndc": [
+      "37662-4115-1",
+      "37662-4115-2",
+      "37662-4115-3",
+      "37662-4115-4",
+      "37662-4117-1",
+      "37662-4117-2",
+      "37662-4117-3",
+      "37662-4117-4",
+      "37662-4119-1",
+      "37662-4113-1",
+      "37662-4113-2",
+      "37662-4113-3",
+      "37662-4114-1",
+      "37662-4114-2",
+      "37662-4114-3",
+      "37662-4114-4",
+      "37662-4116-1",
+      "37662-4116-2",
+      "37662-4116-3",
+      "37662-4116-4",
+      "37662-4118-1",
+      "37662-4118-2",
+      "37662-4118-3",
+      "37662-4118-4",
+      "37662-4112-1",
+      "37662-4112-2",
+      "37662-4112-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "5V2RJ2EWG4"
+    ]
+  }
+}

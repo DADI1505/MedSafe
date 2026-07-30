@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "MEDeTATE MEDeTATE PURSLANE BUTYLENE GLYCOL ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY Aluminum Zirconium Tetrachlorohydrex GLY ALCOHOL Water Glycerin Dipeptide Diaminobutyroyl Benzylamide Diacetate .GAMMA.-AMINOBUTYRIC ACID TOMATO GYNOSTEMMA PENTAPHYLLUM LEAF ASIAN GINSENG"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Aluminum Zirconium Tetrachlorohydrex GLY 19% Purpose Antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Use Reduces wetness due to stress"
+  ],
+  "warnings": [
+    "Warnings • For external use only • Do not use on broken skin • Stop use if rash or irritation occurs • Ask a doctor before use if you have kidney disease • Do not get into eyes • Keep out of reach of children."
+  ],
+  "instructions_for_use": [
+    "Directions Apply to clean, dry underarm skin."
+  ],
+  "inactive_ingredient": [
+    "Other Ingredients Alcohol Denat., Aqua (Water), Glycerin, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Gamma Aminobutyric Acid, Solanum Lycopersicum (Tomato) Extract, Gynostemma Pentaphyllum Extract, Panax Ginseng Root Extract, Portulaca Oleracea Extract, Butylene Glycol"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children"
+  ],
+  "purpose": [
+    "purpose section antiperspirant"
+  ],
+  "dosage_and_administration": [
+    "administration apply to clean dry underarm skin"
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel MEDeTATE 30 packettes of 3 ml - 0.1 oz wipes MEDeTATE antiperspirant wipes 30 packettes of 3 ml - 0.1 oz wipes MEDeTATE"
+  ],
+  "set_id": "07af67ac-a07f-4c39-e054-00144ff88e88",
+  "id": "329d593c-f4aa-9799-e063-6394a90a26f4",
+  "effective_time": "20250412",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "MEDeTATE"
+    ],
+    "generic_name": [
+      "MEDETATE"
+    ],
+    "manufacturer_name": [
+      "DERMAdoctor, LLC"
+    ],
+    "product_ndc": [
+      "68715-311"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY"
+    ],
+    "spl_id": [
+      "329d593c-f4aa-9799-e063-6394a90a26f4"
+    ],
+    "spl_set_id": [
+      "07af67ac-a07f-4c39-e054-00144ff88e88"
+    ],
+    "package_ndc": [
+      "68715-311-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8O386558JE"
+    ]
+  }
+}

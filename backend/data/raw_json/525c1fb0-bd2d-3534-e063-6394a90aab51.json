@@ -1,0 +1,78 @@
+{
+  "spl_product_data_elements": [
+    "Inde Wild Zinc Oxide FERRIC OXIDE YELLOW FERRIC OXIDE RED FERROSOFERRIC OXIDE ORYZA SATIVA WHOLE TRIDECYL SALICYLATE SILICON DIOXIDE TOCOPHEROL CAPRYLYL GLYCOL COCO-CAPRYLATE NYLON-12 PHENYLPROPANOL HELIANTHUS ANNUUS FLOWERING TOP LECITHIN, SOYBEAN METHYLHEPTYL ISOSTEARATE JOJOBA OIL METHYLPROPANEDIOL POLYGLYCERYL-2 DIPOLYHYDROXYSTEARATE ALLANTOIN ALKYL (C12-15) BENZOATE ROSMARINUS OFFICINALIS FLOWER .ALPHA.-BISABOLOL, (+)- ZINC OXIDE ZINC OXIDE SODIUM HYDROXIDE WATER NIACINAMIDE PROPANEDIOL TETRASODIUM GLUTAMATE DIACETATE SODIUM CHLORIDE POLYGLYCERYL-4 DIISOSTEARATE/POLYHYDROXYSTEARATE/SEBACATE"
+  ],
+  "dosage_and_administration": [
+    "Inde Wild Dosage and Administration"
+  ],
+  "inactive_ingredient": [
+    "Inde Wild Inactive Ingredient"
+  ],
+  "indications_and_usage": [
+    "Inde Wild Indications and Usage"
+  ],
+  "active_ingredient": [
+    "Inde Wild Active Ingredient"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Inde Wild Keep out of reach of children"
+  ],
+  "purpose": [
+    "Inde Wild Purpose"
+  ],
+  "warnings": [
+    "Inde Wild Warning"
+  ],
+  "package_label_principal_display_panel": [
+    "Inde Wild PDP"
+  ],
+  "set_id": "01529c59-8806-6423-e063-6294a90a49e3",
+  "id": "525c1fb0-bd2d-3534-e063-6394a90aab51",
+  "effective_time": "20260521",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Inde Wild"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Inde Wild"
+    ],
+    "product_ndc": [
+      "83054-1502"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "525c1fb0-bd2d-3534-e063-6394a90aab51"
+    ],
+    "spl_set_id": [
+      "01529c59-8806-6423-e063-6294a90a49e3"
+    ],
+    "package_ndc": [
+      "83054-1502-1",
+      "83054-1502-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "8720299509009"
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

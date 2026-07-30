@@ -1,0 +1,99 @@
+{
+  "spl_product_data_elements": [
+    "OLOPATADINE HYDROCHLORIDE Olopatadine Hydrochloride ophthalmic OLOPATADINE HYDROCHLORIDE Olopatadine BENZALKONIUM CHLORIDE HYDROCHLORIC ACID SODIUM CHLORIDE SODIUM HYDROXIDE SODIUM PHOSPHATE, DIBASIC, ANHYDROUS WATER"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Purpose Olopatadine (0.1%). (equivalent to olopatadine hydrochloride 0.111%) Antihistamine and redness reliever"
+  ],
+  "active_ingredient_table": [
+    "<table width=\"96.64%\" cellspacing=\"0pt\" cellpadding=\"0.4pt\" styleCode=\"Noautorules\"><col width=\"47%\"/><col width=\"48%\"/><tbody><tr><td valign=\"top\" styleCode=\"Rrule Botrule Lrule Toprule \"><paragraph><content styleCode=\"bold\"><content styleCode=\"italics\">Active Ingredient</content></content></paragraph></td><td align=\"center\" valign=\"top\" styleCode=\"Rrule Botrule Lrule Toprule \"><paragraph><content styleCode=\"bold\"><content styleCode=\"italics\">Purpose</content></content></paragraph></td></tr><tr><td valign=\"top\" styleCode=\"Rrule Botrule Lrule Toprule \"><paragraph>Olopatadine (0.1%).  (equivalent to olopatadine hydrochloride 0.111%)</paragraph></td><td align=\"center\" valign=\"top\" styleCode=\"Rrule Botrule Lrule Toprule \"><paragraph>Antihistamine and redness reliever</paragraph></td></tr></tbody></table>"
+  ],
+  "purpose": [
+    "Active Ingredient Purpose Olopatadine (0.1%). (equivalent to olopatadine hydrochloride 0.111%) Antihistamine and redness reliever"
+  ],
+  "purpose_table": [
+    "<table width=\"96.64%\" cellspacing=\"0pt\" cellpadding=\"0.4pt\" styleCode=\"Noautorules\"><col width=\"47%\"/><col width=\"48%\"/><tbody><tr><td valign=\"top\" styleCode=\"Rrule Botrule Lrule Toprule \"><paragraph><content styleCode=\"bold\"><content styleCode=\"italics\">Active Ingredient</content></content></paragraph></td><td align=\"center\" valign=\"top\" styleCode=\"Rrule Botrule Lrule Toprule \"><paragraph><content styleCode=\"bold\"><content styleCode=\"italics\">Purpose</content></content></paragraph></td></tr><tr><td valign=\"top\" styleCode=\"Rrule Botrule Lrule Toprule \"><paragraph>Olopatadine (0.1%).  (equivalent to olopatadine hydrochloride 0.111%)</paragraph></td><td align=\"center\" valign=\"top\" styleCode=\"Rrule Botrule Lrule Toprule \"><paragraph>Antihistamine and redness reliever</paragraph></td></tr></tbody></table>"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves itchy and red eyes due to pollen, ragweed, grass, animal hair and dander"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "do_not_use": [
+    "Do not use • if solution changes color or becomes cloudy • if you are sensitive to any ingredient in this product • to treat contact lens related irritation",
+    "When using this product • do not touch tip of container to any surface to avoid contamination • remove contact lenses before use • wait at least 10 minutes before reinserting contact lenses after use • do not wear a contact lens if your eye is red"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if you experience: • eye pain • changes in vision • increased redness of the eye • itching worsens or lasts for more than 72 hours"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions • adults and children 2 years of age and older: • put 1 drop in the affected eye(s) twice daily, every 6 to 8 hours, no more than twice per day • if using other ophthalmic products while using this product, wait at least 5 minutes between each product • replace cap after each use • children under 2 years of age: consult a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information • only for use in the eye • store between 4°C to 25°C (39°F to 77°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients benzalkonium chloride 0.01%, dibasic sodium phosphate, hydrochloric acid and/ or sodium hydroxide (to adjust PH), sodium chloride and water for injection."
+  ],
+  "questions": [
+    "Questions or comments? In the U.S., call Monday to Friday 9:00am to 7:00pm EST.at (833) 358-6431. Distributed by: McKesson Corp., Via Strategic Sourcing Services LLC. Memphis, TN 38141 Product of Spain February 2025"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL NDC 70677-1280-1 Olopatadine hydrochloride ophthalmic solution 0.1% Antihistamine and Redness Reliever Twice Daily Relief Eye Allergy Itch & Redness Relief 5 mL STERILE NDC 70677-1280-1 Olopatadine hydrochloride ophthalmic solution 0.1% Antihistamine and Redness Reliever Twice Daily Relief Eye Allergy Itch & Redness Relief 5 mL STERILE carton.jpg label.jpg"
+  ],
+  "set_id": "05ab7b8d-c828-4246-b809-1eb3e4b4129f",
+  "id": "05ab7b8d-c828-4246-b809-1eb3e4b4129f",
+  "effective_time": "20250207",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "ANDA200810"
+    ],
+    "brand_name": [
+      "OLOPATADINE HYDROCHLORIDE"
+    ],
+    "generic_name": [
+      "OLOPATADINE HYDROCHLORIDE OPHTHALMIC"
+    ],
+    "manufacturer_name": [
+      "Strategic Sourcing Services LLC"
+    ],
+    "product_ndc": [
+      "70677-1280"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "OLOPATADINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1111339"
+    ],
+    "spl_id": [
+      "05ab7b8d-c828-4246-b809-1eb3e4b4129f"
+    ],
+    "spl_set_id": [
+      "05ab7b8d-c828-4246-b809-1eb3e4b4129f"
+    ],
+    "package_ndc": [
+      "70677-1280-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0010939961211"
+    ],
+    "unii": [
+      "2XG66W44KF"
+    ]
+  }
+}

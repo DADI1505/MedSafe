@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "Hand sanitizer 2oz 2pk with aloe vera Ethyl Alcohol 70% FD&C YELLOW NO. 5 FD&C BLUE NO. 1 WATER .ALPHA.-TOCOPHEROL ACETATE ALCOHOL ALCOHOL GLYCERIN PROPYLENE GLYCOL AMINOMETHYLPROPANOL ALOE VERA LEAF CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE"
+  ],
+  "active_ingredient": [
+    "Active ingredient Ethyl Alcohol 70% V/V"
+  ],
+  "purpose": [
+    "Purpose Antimicrobial"
+  ],
+  "indications_and_usage": [
+    "Uses for handwashing to decrease bacteria on the skin recommended for repeated use"
+  ],
+  "warnings": [
+    "Warnings For external use only Flammable, keep away from heat and flame Do not use Do not use in the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if Stop use and ask a doctor if irritation and redness develop and persist for more than 72 hours. Keep out of reach of children If swallowed , get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use Do not use in the eyes. In case of contact, rinse eyes thoroughly with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if Stop use and ask a doctor if irritation and redness develop and persist for more than 72 hours."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed , get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions wet hands thoroughly with product briskly rub hands together until dry supervise children under 6 years in the use of this product"
+  ],
+  "storage_and_handling": [
+    "Other inofrmation store at room temperature may discolor certain fabrics"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water carbomer glycerin propylene glycol aminomethyl propanol fragrance aloe barbadensis leaf juice tocopheryl acetate fd&c blue no.1 fd&c yellow no.5"
+  ],
+  "package_label_principal_display_panel": [
+    "Label label 1 label 2"
+  ],
+  "set_id": "04fe378d-ee1e-ad52-e063-6294a90ae146",
+  "id": "47afd8f9-9abf-f8ff-e063-6394a90aff33",
+  "effective_time": "20260105",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Hand sanitizer 2oz 2pk with aloe vera"
+    ],
+    "generic_name": [
+      "ETHYL ALCOHOL 70%"
+    ],
+    "manufacturer_name": [
+      "Zhejiang Guoyao Jingyue Aerosol Co., Ltd."
+    ],
+    "product_ndc": [
+      "75742-022"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "581662"
+    ],
+    "spl_id": [
+      "47afd8f9-9abf-f8ff-e063-6394a90aff33"
+    ],
+    "spl_set_id": [
+      "04fe378d-ee1e-ad52-e063-6294a90ae146"
+    ],
+    "package_ndc": [
+      "75742-022-01",
+      "75742-022-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0639277921253"
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Degree Advanced Vanilla and Jasmine 72H Antiperspirant Deodorant BENZYL ALCOHOL CALCIUM CHLORIDE MINERAL OIL HIGH DENSITY POLYETHYLENE GLYCINE ALKYL (C12-15) BENZOATE HYDROGENATED CASTOR OIL ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE CYCLOMETHICONE 5 BUTYLATED HYDROXYTOLUENE MALTODEXTRIN PEG-8 DISTEARATE TALC SILICON DIOXIDE PPG-14 BUTYL ETHER STEARYL ALCOHOL LIMONENE, (+)- ISOEUGENOL .ALPHA.-HEXYLCINNAMALDEHYDE ISOMETHYL-.ALPHA.-IONONE .BETA.-CITRONELLOL, (R)- CITRAL"
+  ],
+  "description": [
+    "DEGREE ADVANCED VANILLA & JASMINE 72H ANTIPERSPIRANT DEODORANT - aluminum sesquichlorohydrate stick"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient Aluminum Sesquichlorohydrate (16%)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses reduces underarm wetness"
+  ],
+  "warnings": [
+    "Warnings • For external use only. • Do not use on broken skin . • Ask a doctor before use if you have kidney disease. • Stop use if rash or irritation occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "• Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply to underarms only"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Cyclopentasiloxane, Stearyl Alcohol, PPG-14 Butyl Ether, C12-15 Alkyl Benzoate, Mineral Oil, Glycine, Hydrogenated Castor Oil, Fragrance (Parfum), Calcium Chloride, Talc, Polyethylene, PEG-8 Distearate, Sodium Starch Octenylsuccinate, Maltodextrin, Hydrolyzed Corn Starch Octenylsuccinate, BHT, Silica, Alpha-Isomethyl Ionone, Benzyl Alcohol, Citral, Citronellol, Hexyl Cinnamal, Isoeugenol, Limonene"
+  ],
+  "questions": [
+    "Questions? Call 1-866-334-7331"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Degree Vanilla Jasmine AP Deo IS"
+  ],
+  "set_id": "06cf4357-599a-8ebb-e063-6394a90abb8b",
+  "id": "264b8c8a-e0c9-5eb2-e063-6294a90a18f8",
+  "effective_time": "20241106",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Degree"
+    ],
+    "generic_name": [
+      "ADVANCED VANILLA AND JASMINE 72H ANTIPERSPIRANT DEODORANT"
+    ],
+    "manufacturer_name": [
+      "Conopco Inc. d/b/a/ Unilever"
+    ],
+    "product_ndc": [
+      "64942-2228"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM SESQUICHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "264b8c8a-e0c9-5eb2-e063-6294a90a18f8"
+    ],
+    "spl_set_id": [
+      "06cf4357-599a-8ebb-e063-6394a90abb8b"
+    ],
+    "package_ndc": [
+      "64942-2228-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "UCN889409V"
+    ]
+  }
+}

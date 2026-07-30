@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Mentho patch cool Menthol GLYCERIN SODIUM POLYACRYLATE (2500000 MW) ALUMINUM CHLORIDE ANHYDROUS CITRIC ACID MONOHYDRATE TARTARIC ACID POLYSORBATE 80 ISOPROPYL MYRISTATE CARBOXYMETHYLCELLULOSE SODIUM (0.9 CARBOXYMETHYL SUBSTITUTION PER SACCHARIDE; 600 MPA.S AT 2%) EDETATE DISODIUM POLYACRYLIC ACID (800000 MW) TITANIUM DIOXIDE WATER CARBOMER COPOLYMER TYPE B (ALLYL PENTAERYTHRITOL CROSSLINKED) MENTHOL MENTHOL"
+  ],
+  "purpose": [
+    "Purpose For the temprorary releif of minor aches and pains of musceles and joints associated with simple backache, arthritis,strainsand sprains"
+  ],
+  "warnings": [
+    "Warnings FOR EXTERNAL USE ONLY When Using this Product Avoid contact with eyes Do not apply to open wounds, or to damaged skin Do not bandage tightly."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 3 years of age and older: apply to affected area not more than 3 to 4 times daily. Children under 3 years of age: consult doctor."
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "ask_doctor": [
+    "Stop use and ask doctor If condition worsens If symptoms persist more than 7 days or clear up and occur again with a few days"
+  ],
+  "storage_and_handling": [
+    "storage store in cool dry place avoid direct sunlight."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "active_ingredient": [
+    "Active ingridient section Menthol,Camphor,Methyl salicylate"
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENT SECTION Glycerin ,Sodium poly acryl ate ,Aluminum chloride hex hydrate 2 , Anhydrous citric acid ,Tartaric acid 1 ,Poly sorbate -80 (tween 80) 0.5 ,Isopropyl myristate alcohol 2.5 ,Car boxy methyl cellulose (CMC) 2 EDETA 0.5 ,Polyvinyl pyrolidone(PVP-K90) 3 ,Water 48.35 ,titanium dioxide 0.05,ACRYLATE/ C10-30 ALKYL ACRYLATE,cross polymer"
+  ],
+  "package_label_principal_display_panel": [
+    "Product label image description image description"
+  ],
+  "set_id": "02251a4a-fc6f-42c9-a244-6f4835de5edd",
+  "id": "4081693b-163f-bdea-e063-6294a90ad290",
+  "effective_time": "20251006",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Mentho patch cool"
+    ],
+    "generic_name": [
+      "MENTHOL"
+    ],
+    "manufacturer_name": [
+      "THE EGYPTIAN SAUDI CO FOR MEDICAL MANUFACTURING MASCOMID"
+    ],
+    "product_ndc": [
+      "72602-002"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MENTHOL"
+    ],
+    "spl_id": [
+      "4081693b-163f-bdea-e063-6294a90ad290"
+    ],
+    "spl_set_id": [
+      "02251a4a-fc6f-42c9-a244-6f4835de5edd"
+    ],
+    "package_ndc": [
+      "72602-002-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

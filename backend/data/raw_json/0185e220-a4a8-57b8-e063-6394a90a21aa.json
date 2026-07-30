@@ -1,0 +1,74 @@
+{
+  "spl_product_data_elements": [
+    "DERLADIE HerbalExtract BodySolution MIST Niacinamide ALLANTOIN GLYCERIN NIACINAMIDE NIACINAMIDE WATER CENTELLA ASIATICA"
+  ],
+  "active_ingredient": [
+    "Niacinamide"
+  ],
+  "inactive_ingredient": [
+    "Water Glycolic Acid Butylene Glycol 1,2-Hexanediol Betaine Salicylate Salicylic Acid Alpha-Arbutin Dipropylene Glycol Menthol Glutathione Betaine Allantoin Camellia Sinensis Leaf Extract Olea Europaea (Olive) Fruit Extract Centella Asiatica Extract Portulaca Oleracea Extract Chamomilla Recutita (Matricaria) Flower Extract Salvia Officinalis (Sage) Leaf Extract Rosmarinus Officinalis (Rosemary) Leaf Extract Salix Alba (Willow) Bark Extract Melaleuca Alternifolia (Tea Tree) Extract Tremella Fuciformis (Mushroom) Extract Nelumbo Nucifera Flower Extract Glycerin Melaleuca Alternifolia (Tea Tree) Leaf Oil Alcohol Denat. PEG-60 Hydrogenated Castor Oil Sodium Hyaluronate Disodium EDTA Ethylhexylglycerin"
+  ],
+  "purpose": [
+    "skin protect"
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF THE CHILDREN"
+  ],
+  "indications_and_usage": [
+    "After showering, wipe off excess water and spray the product evenly 2-3 times on the desired area (except the face) at a distance of 15-20cm."
+  ],
+  "warnings": [
+    "1. During using product or after use, if there are any abnormal symptoms or side effects such as red spots, swelling or itching in the area of use due to direct sunlight, consult with a specialist. 2. Refrain from using on areas with scars, etc. 3. Precautions for storage and handling A) Keep out of reach of children B) Store away from direct sunlight"
+  ],
+  "dosage_and_administration": [
+    "topical use only"
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "1"
+  ],
+  "set_id": "0185e1ff-22a6-2daa-e063-6394a90a5d36",
+  "id": "0185e220-a4a8-57b8-e063-6394a90a21aa",
+  "effective_time": "20230728",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "DERLADIE HerbalExtract BodySolution MIST"
+    ],
+    "generic_name": [
+      "NIACINAMIDE"
+    ],
+    "manufacturer_name": [
+      "LAON COMMERCE co ltd"
+    ],
+    "product_ndc": [
+      "82083-0023"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "VAGINAL"
+    ],
+    "substance_name": [
+      "NIACINAMIDE"
+    ],
+    "spl_id": [
+      "0185e220-a4a8-57b8-e063-6394a90a21aa"
+    ],
+    "spl_set_id": [
+      "0185e1ff-22a6-2daa-e063-6394a90a5d36"
+    ],
+    "package_ndc": [
+      "82083-0023-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "25X51I8RD4"
+    ]
+  }
+}

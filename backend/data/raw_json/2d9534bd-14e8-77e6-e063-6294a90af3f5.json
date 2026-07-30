@@ -1,0 +1,117 @@
+{
+  "spl_product_data_elements": [
+    "Pain Reliveing Patch Lidocaine 4% KAOLIN PROPYLPARABEN SODIUM POLYACRYLATE (2500000 MW) POVIDONE K90 EDETATE DISODIUM METHYLPARABEN TITANIUM DIOXIDE DIHYDROXYALUMINUM AMINOACETATE ANHYDROUS PROPYLENE GLYCOL POLYACRYLIC ACID (250000 MW) TARTARIC ACID WATER GLYCERIN POLYSORBATE 80 LIDOCAINE LIDOCAINE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts LIDOCAINE PATCH 4%"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Lidocaine 4%"
+  ],
+  "purpose": [
+    "Purpose Topical anesthetic"
+  ],
+  "indications_and_usage": [
+    "USE For the temporary relief of pain"
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use more than 1 patch on vour bodv at a time on cut, irritated.or swolen skin on puncture wounds for more than one week without consulting a doctor",
+    "DO NOT USE: More than 1 patch at a time On wounds or damaged skin For more than one week without consulting a doctor If you are allergic to any ingredients of this product"
+  ],
+  "when_using": [
+    "When using this product Use only as directed. Read and follow all directions and warnings on this carton. do not allow contact with the eyes do not bandage tightly or apply local heat (such as heating pads) to the area of use do not use at the same time as other topical analcesics dispose of used patch in manner that always keeps product away from children and pets. Used patches still contain the drug product that can produce serious adverse effects if a child or pet chews or ingests this patch."
+  ],
+  "stop_use": [
+    "STOP USE AND ASK A DOCTOR IF: Localized skin reactions occur, such as rash, itching, redness, irritation, pain, swelling and blistering Condition worsen Symptoms persist for more than 7 days Symptoms clear up and occur again within a few days"
+  ],
+  "warnings_and_cautions": [
+    "IF PREGNANT OR BREAST-FEEDING: Ask a health professional before use"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away(1-800-222-1222)."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 12 years of age and older: Wash and dry the affected area. Peel off the backing film from one side of the patch carefully Apply the exposed portion of the patch to the affected area. Gently press the patch with your hand to fit the affected area completely. Do not exercise vigorously during use to prevent the patch from falling off. Use only 1 patch for a maximum of 8 hours. Children under 12 years of age: Ask a doctor before use."
+  ],
+  "questions": [
+    "QUESTIONS OR COMMENTS: Customerservice@simplediagnostics.com 877-342-2385"
+  ],
+  "storage_and_handling": [
+    "Other information Store at room temperature 15°-30°C (59°-86°F) Store in a cool dry place away from direct sunlight"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredient Dihydroxyaluminum Aminoacetate, Edetate Disodium, Glycerin, Kaolin, Methylparaben, Polysorbate 80, Propylene Glycol, Polyacrylic Acid, Povidone K90, Propylparaben, Sodium Polyacrylate, Tartaric Acid, Titanium Dioxide, Water."
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL. PRINCIPAL DISPLAY PANEL: 5 Pain Patch Box 30 Pain Patch Carton 1 Pain Patch Pouch"
+  ],
+  "set_id": "02ed0b27-bba9-ec0c-e063-6294a90a014d",
+  "id": "2d9534bd-14e8-77e6-e063-6294a90af3f5",
+  "effective_time": "20250207",
+  "version": "10",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Pain Reliveing Patch"
+    ],
+    "generic_name": [
+      "LIDOCAINE 4%"
+    ],
+    "manufacturer_name": [
+      "simple diagnostics"
+    ],
+    "product_ndc": [
+      "62379-201"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "LIDOCAINE"
+    ],
+    "rxcui": [
+      "1737778"
+    ],
+    "spl_id": [
+      "2d9534bd-14e8-77e6-e063-6294a90af3f5"
+    ],
+    "spl_set_id": [
+      "02ed0b27-bba9-ec0c-e063-6294a90a014d"
+    ],
+    "package_ndc": [
+      "62379-201-01",
+      "62379-201-02",
+      "62379-201-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0850002860696"
+    ],
+    "nui": [
+      "N0000175682",
+      "M0000897",
+      "N0000175426",
+      "N0000175976"
+    ],
+    "pharm_class_epc": [
+      "Amide Local Anesthetic [EPC]",
+      "Antiarrhythmic [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Amides [CS]"
+    ],
+    "pharm_class_pe": [
+      "Local Anesthesia [PE]"
+    ],
+    "unii": [
+      "98PI200987"
+    ]
+  }
+}

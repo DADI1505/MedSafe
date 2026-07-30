@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "CPAP WIPES CPAP WIPES WATER PHENOXYETHANOL PHENOXYETHANOL HYDANTOIN"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Phenoxyethanol 0.3%"
+  ],
+  "purpose": [
+    "Purpose Cleaning"
+  ],
+  "indications_and_usage": [
+    "Uses CPAP WIPES to help to clean and reduce bacteria that potentially can cause disease. For use when soap and water are not available."
+  ],
+  "warnings": [
+    "Warnings For external use only."
+  ],
+  "do_not_use": [
+    "Do not use On children less than 2 months of age On open skin wounds"
+  ],
+  "when_using": [
+    "When using this product When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Kep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Wipe your CPAP Mask after each use and discard the wipe after cleaning. Let CPAP mask air dry. Keep cover closed in between uses to prevent drying. If irritation occurs discontinue use and seek medical advice. Store in a cool dry place."
+  ],
+  "storage_and_handling": [
+    "Other information -N/A"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients DMDMH, Water (Aqua)"
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "43116-031-01"
+  ],
+  "set_id": "020f8bd6-21ac-0732-e063-6394a90a125e",
+  "id": "2dc25fa7-eb08-b078-e063-6394a90acb70",
+  "effective_time": "20250209",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "CPAP WIPES"
+    ],
+    "generic_name": [
+      "CPAP WIPES"
+    ],
+    "manufacturer_name": [
+      "Shenzhen Shierjie Biological Engineering Co., LTD"
+    ],
+    "product_ndc": [
+      "43116-031"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "CUTANEOUS"
+    ],
+    "substance_name": [
+      "PHENOXYETHANOL"
+    ],
+    "spl_id": [
+      "2dc25fa7-eb08-b078-e063-6394a90acb70"
+    ],
+    "spl_set_id": [
+      "020f8bd6-21ac-0732-e063-6394a90a125e"
+    ],
+    "package_ndc": [
+      "43116-031-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0840331603354"
+    ],
+    "unii": [
+      "HIE492ZZ3T"
+    ]
+  }
+}

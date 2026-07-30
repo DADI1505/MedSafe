@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "Walgreens Dandruff Maximum Strength Anti-dandruff Selenium Sulfide Selenium Sulfide Selenium Sulfide Water Ammonium Lauryl Sulfate DISTEARYL PHTHALAMIC ACID COCO MONOETHANOLAMIDE Glycerin Titanium Dioxide Dimethicone HYPROMELLOSE, UNSPECIFIED CITRIC ACID MONOHYDRATE SODIUM LAUROYL LACTYLATE SODIUM CITRATE, UNSPECIFIED FORM Sodium Chloride Phenoxyethanol Methylchloroisothiazolinone Methylisothiazolinone FD&C BLUE NO. 1 D&C YELLOW NO. 10 EXT. D&C VIOLET NO. 2"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "DISTRIBUTED BY: WALGREEN CO. 200 WILMOT RD., DEERFIELD, IL 60015"
+  ],
+  "active_ingredient": [
+    "Active ingredient Selenium Sulfide 1%"
+  ],
+  "purpose": [
+    "Purpose Anti-dandruff"
+  ],
+  "indications_and_usage": [
+    "Use helps prevent recurrence of flaking and itching associated with dandruff."
+  ],
+  "warnings": [
+    "Warnings For external use only When using this product avoid contact with the eyes. If contact occurs, rinse eyes thoroughly with water. Stop use and ask a doctor if condition worsens or does not improve after regular use as directed. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "when_using": [
+    "When using this product avoid contact with the eyes. If contact occurs, rinse eyes thoroughly with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens or does not improve after regular use as directed."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions shake well wet hair massage onto scalp rinse repeat if desired for best results use at least twice a week or as directed by a doctor for maximum dandruff control, use every time you shampoo."
+  ],
+  "storage_and_handling": [
+    "Other information store at room temperature"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, ammonium lauryl sulfate, ammonium laureth sulfate, distearyl phthalic acid amide, cocamide MEA, fragrance, titanium dioxide, dimethicone, hydroxypropyl methylcellulose, citric acid, sodium lauroyl lactylate, aloe barbadensis leaf juice, sodium citrate, sodium chloride, phenoxyethanol, methylchloroisothiazolinone, methylisothiazolinone, blue 1, yellow 10, ext. violet 2."
+  ],
+  "questions": [
+    "Questions or Comments? 1-800-925-4733"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 325 mL Bottle Label Walgreens • WALGREENS • PHARMACIST RECOMMENDED † Compare to the active ingredient in Selsun Blue ® † † MAXIMUM STRENGTH Dandruff Shampoo SELENIUM SULFIDE 1% Moisturizing + Aloe For the relief of dandruff symptoms Helps control flakes & itching* For healthier-looking hair & scalp 11 FL OZ (325 mL) 05-4484 PRINCIPAL DISPLAY PANEL - 325 mL Bottle Label"
+  ],
+  "set_id": "0187b034-44d7-4b84-af04-d018bc9750f3",
+  "id": "fd6fd5da-41c0-4d4a-b606-0ea91ae7b71b",
+  "effective_time": "20241101",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M032"
+    ],
+    "brand_name": [
+      "Walgreens Dandruff Maximum Strength Anti-dandruff"
+    ],
+    "generic_name": [
+      "SELENIUM SULFIDE"
+    ],
+    "manufacturer_name": [
+      "Walgreen Company"
+    ],
+    "product_ndc": [
+      "0363-4139"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SELENIUM SULFIDE"
+    ],
+    "rxcui": [
+      "204642"
+    ],
+    "spl_id": [
+      "fd6fd5da-41c0-4d4a-b606-0ea91ae7b71b"
+    ],
+    "spl_set_id": [
+      "0187b034-44d7-4b84-af04-d018bc9750f3"
+    ],
+    "package_ndc": [
+      "0363-4139-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "Z69D9E381Q"
+    ]
+  }
+}

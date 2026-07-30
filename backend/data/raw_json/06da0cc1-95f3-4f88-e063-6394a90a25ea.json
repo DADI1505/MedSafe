@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Hand sanitizer 1.8oz with extra clip original Ethyl Alcohol AMINOMETHYLPROPANOL .ALPHA.-TOCOPHEROL ACETATE ALCOHOL ALCOHOL WATER CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE GLYCERIN PROPYLENE GLYCOL ALOE VERA LEAF"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Ethyl Alcohol 70.0% v/v"
+  ],
+  "purpose": [
+    "Purpose Antimicrobial"
+  ],
+  "indications_and_usage": [
+    "Use hand sanitizer to help reduce bacteria on the skin that may cause diease."
+  ],
+  "warnings": [
+    "Warnings For external use only Flammable. Keep away from heat and flame. When using this product avoid contact with face, eyes, and broken skin. In case of eye contact, flush with plenty of water and seek medical advice. Stop use and ask a doctor if irritation or redness develops Keep out if reach of children if swallowed, get medical help or contact a Poison Control Center."
+  ],
+  "when_using": [
+    "When using this product avoid contact with face, eyes, and broken skin. In case of eye contact, flush with plenty of water and seek medical advice."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if irritation or redness develops"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out if reach of children if swallowed, get medical help or contact a Poison Control Center."
+  ],
+  "dosage_and_administration": [
+    "Directions wet hands thoroughly with product and rub into skin until dry. children under 6 years of age should be supervised by an adult when using."
+  ],
+  "storage_and_handling": [
+    "Other information store at room temperature may discolor certain fabrics"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water carbomer glycerin propylene glycol aminomethyl propanol fragrance aloe barbadensis leaf juice tocopheryl acetate"
+  ],
+  "package_label_principal_display_panel": [
+    "label"
+  ],
+  "set_id": "06da0cc1-95f2-4f88-e063-6394a90a25ea",
+  "id": "06da0cc1-95f3-4f88-e063-6394a90a25ea",
+  "effective_time": "20231003",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Hand sanitizer 1.8oz with extra clip original"
+    ],
+    "generic_name": [
+      "ETHYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Rejoice International Corp."
+    ],
+    "product_ndc": [
+      "57337-147"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "581662"
+    ],
+    "spl_id": [
+      "06da0cc1-95f3-4f88-e063-6394a90a25ea"
+    ],
+    "spl_set_id": [
+      "06da0cc1-95f2-4f88-e063-6394a90a25ea"
+    ],
+    "package_ndc": [
+      "57337-147-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0849607054418"
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

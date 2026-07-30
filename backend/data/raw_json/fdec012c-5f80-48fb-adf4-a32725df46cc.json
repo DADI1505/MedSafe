@@ -1,0 +1,115 @@
+{
+  "spl_product_data_elements": [
+    "Mix-In Laxative Packets Polyethylene Glycol 3350 POLYETHYLENE GLYCOL 3350 POLYETHYLENE GLYCOL 3350 Colorless upon dissolution"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each dose) Polyethylene Glycol 3350, 17 g"
+  ],
+  "purpose": [
+    "Purpose Osmotic Laxative"
+  ],
+  "indications_and_usage": [
+    "Use relieves occasional constipation (irregularity) generally produces a bowel movement in 1 to 3 days"
+  ],
+  "warnings": [
+    "Warnings Allergy alert: Do not use if you are allergic to polyethylene glycol Do not use if you have kidney disease, except under the advice and supervision of a doctor Ask a doctor before use if you have nausea, vomiting or abdominal pain a sudden change in bowel habits that lasts over 2 weeks irritable bowel syndrome Ask a doctor or pharmacist before use if you are taking a prescription drug When using this product you may have loose, watery, more frequent stools Stop use and ask a doctor if you have rectal bleeding or your nausea, bloating, cramping or abdominal pain gets worse. These may be signs of a serious condition. you get diarrhea you need to use a laxative for longer than 1 week If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use if you have kidney disease, except under the advice and supervision of a doctor"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have nausea, vomiting or abdominal pain a sudden change in bowel habits that lasts over 2 weeks irritable bowel syndrome"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking a prescription drug"
+  ],
+  "when_using": [
+    "When using this product you may have loose, watery, more frequent stools"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if you have rectal bleeding or your nausea, bloating, cramping or abdominal pain gets worse. These may be signs of a serious condition. you get diarrhea you need to use a laxative for longer than 1 week"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions do not take more than directed unless advised by your doctor adults and children 17 years of age and older: use once a day stir and dissolve one packet of powder (17 g) in any 4 to 8 ounces of beverage (cold, hot or room temperature) then drink do not combine with starch-based thickeners used for difficulty swallowing ensure that the powder is fully dissolved before drinking do not drink if there are any clumps do not use more than 7 days children 16 years of age or under: ask a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information store at 20° - 25°C (68° - 77°F) tamper-evident: do not use if foil is open or broken"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients none"
+  ],
+  "questions": [
+    "Questions or comments? 1-888-287-1915"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal display panel NDC 49035-906-03 equate™ Compare to MiraLAX® active ingredient* Mix-In Laxative Packets Polyethylene Glycol 3350 Powder for Solution Osmotic Laxative • Relieves occasional constipation (irregularity) • Softens stool • Dissolves in any beverage 10 PACKETS NET WT 0.5 OZ (17 g) EACH 10 ONCE-DAILY DOSES TAMPER-EVIDENT: DO NOT USE IF FOIL IS OPEN OR BROKEN Satisfaction guaranteed - or we'll replace it or give you your money back. For questions or comments or to report and undesired reaction or side effect, please call 1-888-287-1915 DISTRIBUTED BY: Walmart Inc., Bentonville, AR 72716 PRODUCT OF INDIA *This product is not manufactured or distributed by Bayer HealthCare LLC, owner of the registered trademark MiraLAX®. 50844 REV0222B72603 equate 44-726 equate 44-726"
+  ],
+  "set_id": "0347c934-1e85-4f8d-8d35-bb07f16810ad",
+  "id": "fdec012c-5f80-48fb-adf4-a32725df46cc",
+  "effective_time": "20260410",
+  "version": "9",
+  "openfda": {
+    "application_number": [
+      "ANDA203928"
+    ],
+    "brand_name": [
+      "Mix-In Laxative Packets"
+    ],
+    "generic_name": [
+      "POLYETHYLENE GLYCOL 3350"
+    ],
+    "manufacturer_name": [
+      "Wal-Mart Stores Inc"
+    ],
+    "product_ndc": [
+      "49035-906"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "POLYETHYLENE GLYCOL 3350"
+    ],
+    "rxcui": [
+      "876193"
+    ],
+    "spl_id": [
+      "fdec012c-5f80-48fb-adf4-a32725df46cc"
+    ],
+    "spl_set_id": [
+      "0347c934-1e85-4f8d-8d35-bb07f16810ad"
+    ],
+    "package_ndc": [
+      "49035-906-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000010288",
+      "N0000175811",
+      "N0000009871"
+    ],
+    "pharm_class_moa": [
+      "Osmotic Activity [MoA]"
+    ],
+    "pharm_class_epc": [
+      "Osmotic Laxative [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Stimulation Large Intestine Fluid/Electrolyte Secretion [PE]"
+    ],
+    "unii": [
+      "G2M7P15E5P"
+    ]
+  }
+}

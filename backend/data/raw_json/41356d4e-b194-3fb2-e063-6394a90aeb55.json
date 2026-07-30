@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Ciele Filter and Protect Titanium dioxide, Zinc Oxide POLYMETHYLSILSESQUIOXANE (11 MICRONS) DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (SOFT PARTICLE) SILICON DIOXIDE TITANIUM DIOXIDE TITANIUM DIOXIDE ZINC OXIDE ZINC OXIDE BUTYLOCTYL SALICYLATE CAPRYLYL GLYCOL PROPANEDIOL PHYSALIS ANGULATA NIACINAMIDE TOCOPHEROL TRIDECYL SALICYLATE FERRIC OXIDE RED MICA ISODECYL SALICYLATE DIMETHICONE FERRIC OXIDE YELLOW METHICONE (20 CST) ISOCETETH-10 OCTYLDODECANOL PHENYLPROPANOL"
+  ],
+  "dosage_and_administration": [
+    "Ciele Filter and Protect Dosage and Administration"
+  ],
+  "inactive_ingredient": [
+    "Ciele Filter and Protect Inactive ingredients"
+  ],
+  "indications_and_usage": [
+    "Ciele Filter and Protect Indications & usage"
+  ],
+  "active_ingredient": [
+    "Ciele Filter and Protect Active Ingredients"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Ciele Filter and Protect keep out of reach of children"
+  ],
+  "purpose": [
+    "Ciele Filter and Protect purpose"
+  ],
+  "warnings": [
+    "Ciele Filter and Protect Warning Label"
+  ],
+  "package_label_principal_display_panel": [
+    "WL-AAI-ZT-P-1910 PDP"
+  ],
+  "set_id": "0309b0ef-baca-b41d-e063-6294a90a49d7",
+  "id": "41356d4e-b194-3fb2-e063-6394a90aeb55",
+  "effective_time": "20251015",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Ciele Filter and Protect"
+    ],
+    "generic_name": [
+      "TITANIUM DIOXIDE, ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Ciele"
+    ],
+    "product_ndc": [
+      "83103-1910"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "TITANIUM DIOXIDE",
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "41356d4e-b194-3fb2-e063-6394a90aeb55"
+    ],
+    "spl_set_id": [
+      "0309b0ef-baca-b41d-e063-6294a90a49d7"
+    ],
+    "package_ndc": [
+      "83103-1910-1",
+      "83103-1910-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0850029852414"
+    ],
+    "unii": [
+      "15FIX9V2JP",
+      "SOI2LOH54Z"
+    ]
+  }
+}

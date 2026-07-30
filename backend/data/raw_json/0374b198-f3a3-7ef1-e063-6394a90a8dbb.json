@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Niccolum Iodatum Niccolum Iodatum NICKEL IODIDE NICKEL IODIDE SUCROSE Niccolum Iodatum Niccolum Iodatum NICKEL IODIDE NICKEL IODIDE SUCROSE Niccolum Iodatum Niccolum Iodatum NICKEL IODIDE NICKEL IODIDE SUCROSE Niccolum Iodatum Niccolum Iodatum NICKEL IODIDE NICKEL IODIDE SUCROSE Niccolum Iodatum Niccolum Iodatum NICKEL IODIDE NICKEL IODIDE SUCROSE Niccolum Iodatum Niccolum Iodatum NICKEL IODIDE NICKEL IODIDE SUCROSE Niccolum Iodatum Niccolum Iodatum NICKEL IODIDE NICKEL IODIDE SUCROSE Niccolum Iodatum Niccolum Iodatum NICKEL IODIDE NICKEL IODIDE SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Niccolum Iodatum 6C 5g Niccolum Iodatum 6C 30g Niccolum Iodatum 6C 100g Niccolum Iodatum 12C 5g Niccolum Iodatum 12C 30g Niccolum Iodatum 12C 100g Niccolum Iodatum 30C 1g Niccolum Iodatum 30C 5g Niccolum Iodatum 30C 30g Niccolum Iodatum 30C 100g Niccolum Iodatum 100C 1g Niccolum Iodatum 100C 5g Niccolum Iodatum 100C 30g Niccolum Iodatum 100C 100g Niccolum Iodatum 200C 1g Niccolum Iodatum 200C 5g Niccolum Iodatum 200C 30g Niccolum Iodatum 200C 100g Niccolum Iodatum 500C 1g Niccolum Iodatum 500C 5g Niccolum Iodatum 500C 30g Niccolum Iodatum 500C 100g Niccolum Iodatum 1M 1g Niccolum Iodatum 1M 5g Niccolum Iodatum 1M 30g Niccolum Iodatum 1M 100g Niccolum Iodatum LM1 30g"
+  ],
+  "set_id": "0374b198-f3a2-7ef1-e063-6394a90a8dbb",
+  "id": "0374b198-f3a3-7ef1-e063-6394a90a8dbb",
+  "effective_time": "20230821",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Niccolum Iodatum"
+    ],
+    "generic_name": [
+      "NICCOLUM IODATUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3793",
+      "37662-3796",
+      "37662-3794",
+      "37662-3795",
+      "37662-3799",
+      "37662-3797",
+      "37662-3798",
+      "37662-3800"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "NICKEL IODIDE"
+    ],
+    "spl_id": [
+      "0374b198-f3a3-7ef1-e063-6394a90a8dbb"
+    ],
+    "spl_set_id": [
+      "0374b198-f3a2-7ef1-e063-6394a90a8dbb"
+    ],
+    "package_ndc": [
+      "37662-3796-1",
+      "37662-3796-2",
+      "37662-3796-3",
+      "37662-3796-4",
+      "37662-3794-1",
+      "37662-3794-2",
+      "37662-3794-3",
+      "37662-3795-1",
+      "37662-3795-2",
+      "37662-3795-3",
+      "37662-3795-4",
+      "37662-3799-1",
+      "37662-3799-2",
+      "37662-3799-3",
+      "37662-3799-4",
+      "37662-3793-1",
+      "37662-3793-2",
+      "37662-3793-3",
+      "37662-3797-1",
+      "37662-3797-2",
+      "37662-3797-3",
+      "37662-3797-4",
+      "37662-3798-1",
+      "37662-3798-2",
+      "37662-3798-3",
+      "37662-3798-4",
+      "37662-3800-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "AQ9OJ30HDD"
+    ]
+  }
+}

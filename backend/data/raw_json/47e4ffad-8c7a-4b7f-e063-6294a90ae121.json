@@ -1,0 +1,88 @@
+{
+  "spl_product_data_elements": [
+    "Crest Plus Cavity Protection Cool Mint Gel Sodium Fluoride SACCHARIN SODIUM SODIUM PHOSPHATE, TRIBASIC SORBITOL WATER HYDRATED SILICA SODIUM LAURYL SULFATE SODIUM PHOSPHATE FD&C BLUE NO. 1 CARBOXYMETHYLCELLULOSE SODIUM SODIUM FLUORIDE FLUORIDE ION CARBOXYPOLYMETHYLENE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Dist. by Procter & Gamble, Cincinnati OH 45202 www.crest.com"
+  ],
+  "active_ingredient": [
+    "Active ingredient Sodium fluoride 0.243% (0.15% w/v fluoride ion)"
+  ],
+  "purpose": [
+    "Purpose Anticavity toothpaste"
+  ],
+  "indications_and_usage": [
+    "Use helps protect against cavities"
+  ],
+  "warnings": [
+    "Warnings Keep out of reach of children under 6 yrs. of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children under 6 yrs. of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 2 yrs. & older: brush teeth thoroughly after meals or at least twice a day or use as directed by a dentist do not swallow to minimize swallowing use a pea-sized amount in children under 6 supervise children's brushing until good habits are established children under 2 yrs.: ask a dentist"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients sorbitol, water, hydrated silica, sodium lauryl sulfate, trisodium phosphate, cellulose gum, flavor, sodium phosphate, sodium saccharin, carbomer, blue 1"
+  ],
+  "questions": [
+    "Questions? 1-800-492-7378"
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 161 g Carton ADA ACCEPTED American Dental Association Crest Plus FLUORIDE ANTICAVITY TOOTHPASTE NET WT 5.7 OZ (161 g) CAVITY PROTECTION WITH ACTIVE FLUORIDE Cool Mint Gel Label"
+  ],
+  "set_id": "0813171e-bda5-b004-e063-6394a90ad364",
+  "id": "47e4ffad-8c7a-4b7f-e063-6294a90ae121",
+  "effective_time": "20260108",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M021"
+    ],
+    "brand_name": [
+      "Crest Plus Cavity Protection Cool Mint Gel"
+    ],
+    "generic_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "manufacturer_name": [
+      "The Procter & Gamble Manufacturing Company"
+    ],
+    "product_ndc": [
+      "69423-816"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "DENTAL"
+    ],
+    "substance_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "rxcui": [
+      "891775"
+    ],
+    "spl_id": [
+      "47e4ffad-8c7a-4b7f-e063-6294a90ae121"
+    ],
+    "spl_set_id": [
+      "0813171e-bda5-b004-e063-6394a90ad364"
+    ],
+    "package_ndc": [
+      "69423-816-82",
+      "69423-816-57"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8ZYQ1474W7"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "ElixirTripleGuard Triple Antibiotic Miconazole Nitrate cream CAPRYLIC/CAPRIC TRIGLYCERIDE CETEARETH-20 CETEARYL ALCOHOL DIMETHICONE EDETATE DISODIUM GLYCERYL STEARATE IMIDAZOLIDINYL UREA PEG-100 STEARATE PEG-40 CASTOR OIL PETROLATUM PROPYLENE GLYCOL SODIUM CETEARYL SULFATE STEARIC ACID WATER XANTHAN GUM MICONAZOLE NITRATE MICONAZOLE"
+  ],
+  "active_ingredient": [
+    "Active Ingredient (in each gram) Miconazole Nitrate 2%w/w"
+  ],
+  "purpose": [
+    "Purpose Antifungal"
+  ],
+  "indications_and_usage": [
+    "Uses Uses • For the treatment and prevention of most: • Athlete’s foot • Jock itch • Ringworm • Relieves itching, scaling, cracking, and discomfort associated with these conditions"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "do_not_use": [
+    "Do not use on children under 2 years of age unless directed by a doctor"
+  ],
+  "when_using": [
+    "When using this product Avoid contact with eyes"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if • condition persists or gets worse • a rash or other allergic reaction develops"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children In case of accidental ingestion contact a physician or Poison Control Center right away and discomfort which accompany these conditions"
+  ],
+  "dosage_and_administration": [
+    "Directions Clean the affected area and dry thoroughly • Apply a thin layer of the product over affected area twice daily (morning and night) or as directed by a healthcare professional • Supervise children in the use of this product. For athlete's foot: • Use daily for 4 weeks. If condition persists, consult a healthcare professional. • Pay special attention to the spaces between the toes • Wear well fitting, ventilated shoes • Change socks atleast once daily. For ringworm: Use daily for 4 weeks. If condition persists, consult a healthcare professional. For jock itch: Use daily for 2 weeks. If condition persists longer, consult a healthcare professional. This product is not effective on the scalp or nails."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Caprylic/capric triglyceride, Cetereath-20, Cetearyl Alcohol, Chlorocresol, Dimethicone, Disodium EDTA, Glyceryl Stearate, Imidazolidinyl Urea, PEG-100 Stearate, PEG-40 Castor Oil, Petrolatum, Propylene Glycol, Sodium Cetearyl Sulfate, Stearic Acid, Water, Xanthum Gum"
+  ],
+  "spl_unclassified_section": [
+    "Other information • Store between 15-30°C (59-86°F)"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL Elixir Elixir MycoTender Miconazole Nitrate Antifungal Cream With 2% Micronazole Nitrate CURSE JOCK ITCH & RING WORM SOOTHES AND PROMOTES HEALING 4 Oz. (113) g Tube Lable.jpg"
+  ],
+  "set_id": "0482ce9f-c98a-4f37-8b37-6df1738b6da3",
+  "id": "48749d03-2194-b2d4-e063-6394a90a731f",
+  "effective_time": "20260115",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M005"
+    ],
+    "brand_name": [
+      "ElixirTripleGuard Triple Antibiotic"
+    ],
+    "generic_name": [
+      "MICONAZOLE NITRATE CREAM"
+    ],
+    "manufacturer_name": [
+      "ELIXIR HEALTHCARE USA, LLC."
+    ],
+    "product_ndc": [
+      "84546-0007"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MICONAZOLE NITRATE"
+    ],
+    "rxcui": [
+      "998483"
+    ],
+    "spl_id": [
+      "48749d03-2194-b2d4-e063-6394a90a731f"
+    ],
+    "spl_set_id": [
+      "0482ce9f-c98a-4f37-8b37-6df1738b6da3"
+    ],
+    "package_ndc": [
+      "84546-0007-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "VW4H1CYW1K"
+    ]
+  }
+}

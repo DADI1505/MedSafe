@@ -1,0 +1,91 @@
+{
+  "spl_product_data_elements": [
+    "Leg Body Makeup Octisalate, Octocrylene CYCLOMETHICONE 5 GLYCERIN POLYGLYCERYL-4 ISOSTEARATE ALUMINUM HYDROXIDE HYALURONATE SODIUM ISOBUTANE DIMETHICONE/PEG-10/15 CROSSPOLYMER PHENOXYETHANOL ISONONYL ISONONANOATE ISODODECANE CETYL PEG/PPG-10/1 DIMETHICONE (HLB 1.5) TITANIUM DIOXIDE FERROUS OXIDE WATER DIMETHICONE DISTEARDIMONIUM HECTORITE BUTYLPARABEN SODIUM CITRATE TOCOPHEROL PENTAERYTHRITOL TETRAKIS(3-(3,5-DI-TERT-BUTYL-4-HYDROXYPHENYL)PROPIONATE) ALCOHOL DIPROPYLENE GLYCOL MAGNESIUM SULFATE, UNSPECIFIED FORM METHYLPARABEN DISODIUM STEAROYL GLUTAMATE POLYBUTENE (1400 MW) CHLORPHENESIN GLATIRAMER ACETATE OCTOCRYLENE OCTOCRYLENE OCTISALATE OCTISALATE"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Octisalate 3.2% Octocrylene 6.2%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "USES Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging cause by the sun"
+  ],
+  "warnings": [
+    "Warnings Warnings For extenal use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin"
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Directions For sunscreen use: apply liberally 15 minutes before sun exposure reapply at least every 2 hours use a water resistant sunscreen if swimming or sweating Sun Protection Measures . Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: - limit time in the sun, especially from 10 a.m. - 2p.m. -wear long-sleeved shirts, pants, hats and sunglasses children under 6 months of age: Ask a doctor"
+  ],
+  "other_safety_information": [
+    "OTHER INFORMATION Other information protect the product in this container from excessive heat and direct sun",
+    "QUESTIONS or COMMENTS Questions or comments? 1-8771-877-900-6700 Monday - Friday (9 a.m. - 5 p.m. EST)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water,Cyclopentasiloxane,Isododecane,Isononyl Isononanoate,Glycerin,Cetyl PEF/PPG-10/1 Dimethicone, Dimethicone, Magnesium Sulfate,Polyglyceryl-4 Isostearate, Dimethicone/PEG-10/15 Crosspolymer,Disodium Stearoyl Glutamate,Disteardimonium Hectorite, Phenoxyethanol, Polybutene, Methylparaben, Alcohol Denat, Chlorphenesin, Acrylonitrile/methyl methacrylate/vinylidene chloride, Copolymer, Butylparaben, Aluminum Hydroxide, Sodium Hyaluronate, Isobutane,Dipropylene Glycol, Sodium Citrate, Tocopherol, Pentaerythrityl tetra-di-butyl hydroxyhydrocinnamate; may contain, Titanium Dioxide,Iron Oxides."
+  ],
+  "package_label_principal_display_panel": [
+    "Primary Package(Inner) Primary Package",
+    "Outer Package (Secondary) Outer Package",
+    "Shade Label SHADE"
+  ],
+  "set_id": "07530636-cd21-3022-e063-6394a90a89d6",
+  "id": "2a2539e2-8b70-ce21-e063-6294a90a9d33",
+  "effective_time": "20241225",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Leg Body Makeup"
+    ],
+    "generic_name": [
+      "OCTISALATE, OCTOCRYLENE"
+    ],
+    "manufacturer_name": [
+      "COSMAX USA, CORPORATION"
+    ],
+    "product_ndc": [
+      "68577-120"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OCTOCRYLENE",
+      "OCTISALATE"
+    ],
+    "spl_id": [
+      "2a2539e2-8b70-ce21-e063-6294a90a9d33"
+    ],
+    "spl_set_id": [
+      "07530636-cd21-3022-e063-6394a90a89d6"
+    ],
+    "package_ndc": [
+      "68577-120-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "5A68WGF6WM",
+      "4X49Y0596W"
+    ]
+  }
+}

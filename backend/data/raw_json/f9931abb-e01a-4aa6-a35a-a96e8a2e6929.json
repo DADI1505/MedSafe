@@ -1,0 +1,104 @@
+{
+  "spl_product_data_elements": [
+    "Injury Drops 2034 Injury Drops ECHINACEA PURPUREA WHOLE ECHINACEA PURPUREA WHOLE ARNICA MONTANA WHOLE ARNICA MONTANA WHOLE CALENDULA OFFICINALIS FLOWERING TOP CALENDULA OFFICINALIS FLOWERING TOP BELLIS PERENNIS WHOLE BELLIS PERENNIS WHOLE BERBERIS VULGARIS ROOT BARK BERBERIS VULGARIS ROOT BARK BOS TAURUS BONE MARROW BOS TAURUS BONE MARROW RHODODENDRON TOMENTOSUM LEAFY TWIG RHODODENDRON TOMENTOSUM LEAFY TWIG PHOSPHORUS PHOSPHORUS SILICON DIOXIDE SILICON DIOXIDE COMFREY ROOT COMFREY ROOT HYPERICUM PERFORATUM WHOLE HYPERICUM PERFORATUM WHOLE RUTA GRAVEOLENS FLOWERING TOP RUTA GRAVEOLENS FLOWERING TOP TOXICODENDRON PUBESCENS LEAF TOXICODENDRON PUBESCENS LEAF ALCOHOL WATER"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS Echinacea purpurea 3X Arnica montana 3X, 6X, 12X, 100X, 1000X Calendula officinalis 3X, 12X, 30X, 100X, 1000X Bellis perennis 6X Berberis vulgaris 6X Bone marrow 6X Ledum palustre 6X Phosphorus 6X Silicea 6X Symphytum officinale 6X Hypericum perforatum 6X, 12X, 30X, 60X Ruta graveolens 6X, 12X, 30X Rhus toxicodendron 12X"
+  ],
+  "questions": [
+    "QUESTIONS Professional Formulas PO Box 2034 Lake Oswego, OR 97035"
+  ],
+  "indications_and_usage": [
+    "INDICATIONS For the temporary relief of minor joint or muscle pain, inflammation, minor sprains or strains, bruises, or minor cuts or scrapes.*"
+  ],
+  "purpose": [
+    "*Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS In case of overdose, get medical help or contact a poison control center right away. Keep out of the reach of children. If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take 10 drops up to 3 times per day for up to 6 weeks. For immediate onset of symptoms, take 10 to 15 drops every 15 minutes up to 3 hours. For less severe symptoms, take 10-15 drops hourly up to 8 hours. Consult a physician for use in children under 12 years of age."
+  ],
+  "other_safety_information": [
+    "OTHER INFORMATION Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS 20% ethanol, purified water."
+  ],
+  "package_label_principal_display_panel": [
+    "LABEL Est 1985 Professional Formulas Complementary Health Injury Drops Homeopathic Remedy 2 FL. OZ. (59 mL) Label image"
+  ],
+  "set_id": "024011a0-6471-4016-86d4-19eeb21f0d82",
+  "id": "f9931abb-e01a-4aa6-a35a-a96e8a2e6929",
+  "effective_time": "20260108",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Injury Drops 2034"
+    ],
+    "generic_name": [
+      "INJURY DROPS"
+    ],
+    "manufacturer_name": [
+      "Professional Complementary Health Formulas"
+    ],
+    "product_ndc": [
+      "63083-2034"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ECHINACEA PURPUREA WHOLE",
+      "ARNICA MONTANA WHOLE",
+      "CALENDULA OFFICINALIS FLOWERING TOP",
+      "BELLIS PERENNIS WHOLE",
+      "BERBERIS VULGARIS ROOT BARK",
+      "BOS TAURUS BONE MARROW",
+      "RHODODENDRON TOMENTOSUM LEAFY TWIG",
+      "PHOSPHORUS",
+      "SILICON DIOXIDE",
+      "COMFREY ROOT",
+      "HYPERICUM PERFORATUM WHOLE",
+      "RUTA GRAVEOLENS FLOWERING TOP",
+      "TOXICODENDRON PUBESCENS LEAF"
+    ],
+    "spl_id": [
+      "f9931abb-e01a-4aa6-a35a-a96e8a2e6929"
+    ],
+    "spl_set_id": [
+      "024011a0-6471-4016-86d4-19eeb21f0d82"
+    ],
+    "package_ndc": [
+      "63083-2034-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "QI7G114Y98",
+      "O80TY208ZW",
+      "18E7415PXQ",
+      "2HU33I03UY",
+      "1TH8Q20J0U",
+      "08X0K2M57P",
+      "877L01IZ0P",
+      "27YLU75U4W",
+      "ETJ7Z6XBU4",
+      "M9VVZ08EKQ",
+      "XK4IUX8MNB",
+      "N94C2U587S",
+      "6IO182RP7A"
+    ]
+  }
+}

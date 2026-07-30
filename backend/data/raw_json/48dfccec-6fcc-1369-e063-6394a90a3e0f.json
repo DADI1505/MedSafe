@@ -1,0 +1,76 @@
+{
+  "spl_product_data_elements": [
+    "Dr Lift SPF 50 Cream titanium dioxide, zinc oxide WATER HEPTYL UNDECYLENATE SAFFLOWER OIL GLYCERIN COCONUT OIL ZINC OXIDE ZINC OXIDE OCTINOXATE OCTINOXATE CAPRYLIC/CAPRIC/LAURIC TRIGLYCERIDE"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Zinc Oxide 9.86% Octinoxate 7.5%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "warnings": [
+    "Warnings Warnings When using this product keep out of the eye area rinse with water to remove stop use and ask a doctor if rash or irritation develops for external use onlyl keep out of reach of children"
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN"
+  ],
+  "dosage_and_administration": [
+    "Directions Directions: Apply generously and evenly thirty minutes before sun exposure. Reapply at least every two hours. Use a water-resistant sunscreen if swimming or sweating. Children under six months of age: Consult a doctor."
+  ],
+  "indications_and_usage": [
+    "Apply generously and evenly thirty minutes before sun exposure. Reapply at least every two hours."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Inactive Ingredients: Aqua, Glycerin, Cocos Nucifera (Coconut) Oil, Carthamus Tinctorius (Safflower) Seed Oil, Heptyl Undecylenate, Caprylic/Capric Triglyceride, Cetyl Alcohol, Polyglyceryl-6 Distearate, Glyceryl Stearate, PEG-100 Stearate, Titanium Dioxide, Jojoba Esters, Polyhydroxystearic Acid, Polyglyceryl-3 Beeswax, Carbomer, Disodium EDTA, *CO Glycerin, Sodium Hydroxide, Thymus Vulgaris (Thyme) Leaf Extract, Rosa Canina Fruit Extract, Gardenia Florida Fruit Extract, Fucus Vesiculosus Extract, *CO Carum Petroselinum (Parsley) Extract, *CO Centella Asiatica Leaf Extract, *CO Cucumis Sativus (Cucumber) Seed Extract, *CO Daucus Carota Sativa (Carrot) Root Extract, *CO Euphrasia Officinalis Extract, Ascorbic Acid (Vitamin C), Retinyl Palmitate (Vitamin A), Tocopheryl Acetate (Vitamin E), Phenoxyethanol, Ethylhexylglycerin. *Certified Organic"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Dr Lift Non Nano SPF 50 Cream"
+  ],
+  "set_id": "0402c4ba-ff2a-cf25-e063-6294a90a776c",
+  "id": "48dfccec-6fcc-1369-e063-6394a90a3e0f",
+  "effective_time": "20260121",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "Dr Lift SPF 50 Cream"
+    ],
+    "generic_name": [
+      "TITANIUM DIOXIDE, ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Spa de Soleil"
+    ],
+    "product_ndc": [
+      "68062-9007"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE",
+      "OCTINOXATE"
+    ],
+    "spl_id": [
+      "48dfccec-6fcc-1369-e063-6394a90a3e0f"
+    ],
+    "spl_set_id": [
+      "0402c4ba-ff2a-cf25-e063-6294a90a776c"
+    ],
+    "package_ndc": [
+      "68062-9007-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z",
+      "4Y5P7MUD51"
+    ]
+  }
+}

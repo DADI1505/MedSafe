@@ -1,0 +1,84 @@
+{
+  "spl_product_data_elements": [
+    "Degree Wild Woods 48H Antiperspirant Deodorant COUMARIN LINALOOL, (+/-)- MINERAL OIL HYDROGENATED CASTOR OIL ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY CYCLOMETHICONE 5 BUTYLATED HYDROXYTOLUENE PEG-8 DISTEARATE TALC ISOPROPYL PALMITATE PPG-14 BUTYL ETHER STEARYL ALCOHOL .BETA.-CITRONELLOL, (R)- BENZYL ALCOHOL CITRAL BENZYL SALICYLATE LIMONENE, (+)- ISOMETHYL-.ALPHA.-IONONE"
+  ],
+  "description": [
+    "DEGREE WILD WOODS 48H ANTIPERSPIRANT DEODORANT - aluminum zirconium tetrachlorohydrex gly stick"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient Aluminum Zirconium Tetrachlorohydrex GLY (18.2 %)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses reduces underarm wetness"
+  ],
+  "warnings": [
+    "Warnings • For external use only • Do not use on broken skin • Stop use if rash or irritation occurs • Ask a doctor before use if you have kidney disease ."
+  ],
+  "keep_out_of_reach_of_children": [
+    "• Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply to underarms only"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Stearyl Alcohol, PPG-14 Butyl Ether, Cyclopentasiloxane, Isopropyl Palmitate, Mineral Oil, Talc, Hydrogenated Castor Oil, PEG-8 Distearate, Fragrance (Parfum), BHT, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Salicylate, Citral, Citronellol, Coumarin, Limonene, Linalool"
+  ],
+  "questions": [
+    "Questions? Call toll-free 1-866-334-7331"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Degree Wild Woods AP Deo IS"
+  ],
+  "set_id": "05524b6e-d233-cd3b-e063-6394a90ad533",
+  "id": "264b67b9-5197-975e-e063-6394a90abf10",
+  "effective_time": "20241106",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Degree"
+    ],
+    "generic_name": [
+      "WILD WOODS 48H ANTIPERSPIRANT DEODORANT"
+    ],
+    "manufacturer_name": [
+      "Conopco Inc. d/b/a/ Unilever"
+    ],
+    "product_ndc": [
+      "64942-2214"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY"
+    ],
+    "spl_id": [
+      "264b67b9-5197-975e-e063-6394a90abf10"
+    ],
+    "spl_set_id": [
+      "05524b6e-d233-cd3b-e063-6394a90ad533"
+    ],
+    "package_ndc": [
+      "64942-2214-1",
+      "64942-2214-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0079400480392"
+    ],
+    "unii": [
+      "8O386558JE"
+    ]
+  }
+}

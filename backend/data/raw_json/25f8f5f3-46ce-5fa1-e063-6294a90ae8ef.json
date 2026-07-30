@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Hand Sanitizer Cucumber Aloe Ethyl Alcohol TRIETHYL CITRATE WATER ISOPROPYL ALCOHOL GLYCERIN SUNFLOWER OIL ROSEMARY ALCOHOL ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Purpose Ethyl Alcohol 62% Antiseptic"
+  ],
+  "purpose": [
+    "Uses ■ to help reduce bacteria on the skin."
+  ],
+  "warnings": [
+    "For external use only. Flammable. Keep away from fire or flame."
+  ],
+  "when_using": [
+    "When using this product avoid contact with eyes. If eye contact occurs, rinse with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if skin irritation or redness develops."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of accidental ingestion, seek medical help or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions ■ apply 1 to 2 sprays on hands and rub together until dry."
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "storage_and_handling": [
+    "Other information ■ do not store above 104°F (40°C)."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, isopropyl alcohol, glycerin, fragrance (natural)*, helianthus annuus (sunflower) seed oil, rosmarinus officinalis (rosemary) leaf extract, triethyl citrate. *Complies with ISO 9235, see www.wholefoodsmarket.com for more information."
+  ],
+  "questions": [
+    "Questions, Comments? ■ customer.questions@wholefoods.com ■ 1-844-936-8255"
+  ],
+  "package_label_principal_display_panel": [
+    "CAHS2 CAS2"
+  ],
+  "set_id": "074334af-c26e-4126-e063-6394a90ae4c4",
+  "id": "25f8f5f3-46ce-5fa1-e063-6294a90ae8ef",
+  "effective_time": "20241102",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Hand Sanitizer Cucumber Aloe"
+    ],
+    "generic_name": [
+      "ETHYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Whole Foods Market, Inc."
+    ],
+    "product_ndc": [
+      "42681-0009"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "1020364"
+    ],
+    "spl_id": [
+      "25f8f5f3-46ce-5fa1-e063-6294a90ae8ef"
+    ],
+    "spl_set_id": [
+      "074334af-c26e-4126-e063-6394a90ae4c4"
+    ],
+    "package_ndc": [
+      "42681-0009-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0099482461607"
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

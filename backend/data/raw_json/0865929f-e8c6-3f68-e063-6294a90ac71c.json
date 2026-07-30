@@ -1,0 +1,116 @@
+{
+  "spl_product_data_elements": [
+    "Babo Botanicals Sensitive Baby Healing Colloidal Oatmeal OLIVE OIL NASTURTIUM OFFICINALE FLOWERING TOP FILIPENDULA ULMARIA FLOWER COCOA BUTTER SHEA BUTTER CHAMOMILE CALENDULA OFFICINALIS FLOWER SUNFLOWER OIL ROSEMARY OATMEAL OATMEAL YELLOW WAX LEVOMENOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Company Information Dist: by Babo Botanicals, Inc. 60 East 56th Street New York, NY 10022"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Colloidal Oatmeal 1%"
+  ],
+  "purpose": [
+    "Purpose Skin Protectant"
+  ],
+  "indications_and_usage": [
+    "Uses Temporarily protects and helps relieve minor skin irritation and itching due to rashes eczema poison ivy ,oak, or sumac insect bites"
+  ],
+  "warnings": [
+    "Warnings For external use only. When using this product do not get into eyes Stop use and ask a doctor if conditions worsens symptoms last more than 7 days or clear up and occur again within a few days Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "when_using": [
+    "When using this product do not get into eyes"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if conditions worsens symptoms last more than 7 days or clear up and occur again within a few days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply as needed. Children under 3 months: ask a doctor."
+  ],
+  "other_safety_information": [
+    "Other information Protect this product from excessive heat and direct sun."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Helianthus Annuus (Sunflower) Seed Oil*, Beeswax*, Olea Europoaea (Olive) Fruit Oil*, Butyrospermum Parkii (Shea) Butter*, Calendula Officinalis Flower Extract*, Chamomilla Recutita (Matricaria) Flower Extract*, Nasturtium Officinale (Watercress) Flower/Leaf Extract*, Spiraea Ulmaria (Meadowsweet) Flower Extract*, Bisabolol*, Theobroma Cacao (Cocoa) Seed Butter*, Rosmarinus Officinalis (Rosemary) Leaf Extract*. *Certified Organic Ingredients"
+  ],
+  "questions": [
+    "Questions or comments? Call 1-800-422-2987 M-F 9:00AM-5:00PM EST"
+  ],
+  "package_label_principal_display_panel": [
+    "Product Packaging 1"
+  ],
+  "set_id": "08659a5c-2d10-2f98-e063-6394a90a7760",
+  "id": "0865929f-e8c6-3f68-e063-6294a90ac71c",
+  "effective_time": "20231023",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Babo Botanicals Sensitive Baby Healing"
+    ],
+    "generic_name": [
+      "COLLOIDAL OATMEAL"
+    ],
+    "manufacturer_name": [
+      "Babo Botanicals, Inc."
+    ],
+    "product_ndc": [
+      "79265-8655"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OATMEAL"
+    ],
+    "rxcui": [
+      "1545142"
+    ],
+    "spl_id": [
+      "0865929f-e8c6-3f68-e063-6294a90ac71c"
+    ],
+    "spl_set_id": [
+      "08659a5c-2d10-2f98-e063-6394a90a7760"
+    ],
+    "package_ndc": [
+      "79265-8655-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185371",
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "M0006342",
+      "M0016962",
+      "N0000185016"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Food Allergenic Extract [EPC]",
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Dietary Proteins [CS]",
+      "Plant Proteins [CS]"
+    ],
+    "unii": [
+      "8PI54V663Y"
+    ]
+  }
+}

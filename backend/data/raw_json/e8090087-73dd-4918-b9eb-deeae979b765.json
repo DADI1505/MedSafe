@@ -1,0 +1,100 @@
+{
+  "spl_product_data_elements": [
+    "Stool Softener Laxative DOCUSATE SODIUM DOCUSATE SODIUM DOCUSATE FD&C RED NO. 40 FD&C YELLOW NO. 6 GELATIN POLYETHYLENE GLYCOL, UNSPECIFIED PROPYLENE GLYCOL WATER SORBITOL GLYCERIN CITRIC ACID MONOHYDRATE SORBITAN PC1"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each softgel) Docusate Sodium USP, 100 mg"
+  ],
+  "purpose": [
+    "Purpose Stool softener laxative"
+  ],
+  "indications_and_usage": [
+    "Uses for relief of occasional constipation and irregularity this product generally produces bowel movement in 12 to 72 hours"
+  ],
+  "warnings": [
+    "Warnings Do not use if you are presently taking mineral oil, unless told to do so by a doctor. Ask a doctor before use if stomach pain nausea vomiting noticed a sudden change in bowel habits that lasts over 2 weeks Stop use and ask a doctor if you have rectal bleeding or no bowel movement after using a laxative. These could be a sign of a serious condition. you need to use a laxative for more than 1 week If pregnant or breast-feeding, ask a health care professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-2222-1222) right away."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if stomach pain nausea vomiting noticed a sudden change in bowel habits that lasts over 2 weeks"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if you have rectal bleeding or no bowel movement after using a laxative. These could be a sign of a serious condition. you need to use a laxative for more than 1 week"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health care professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-2222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions take with a glass of water adults and children 12 years and over take 1-3 softgels daily. This dose may be taken as a single daily dose or in divided doses. children 2 to under 12 years of age take 1 softgel daily children under 2 years ask a doctor"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"508px\"><col width=\"1px\"/><col width=\"1px\"/><tbody><tr><td styleCode=\" Botrule Toprule Rrule\">adults and children 12 years and over</td><td styleCode=\" Botrule Toprule\">take 1-3 softgels daily. This dose may be taken as a single daily dose or in divided doses.</td></tr><tr><td styleCode=\" Botrule Rrule\">children 2 to under 12 years of age</td><td styleCode=\" Botrule\">take 1 softgel daily</td></tr><tr><td styleCode=\" Botrule Rrule\">children under 2 years </td><td styleCode=\" Botrule\">ask a doctor</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information each softgel contains: sodium 7 mg store at 25ºC (77ºF); excursion permitted between 15-30ºC (59-86ºF)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients citric acid, FD&C Red #40, FD&C Yellow #6, gelatin, glycerin, polyethylene glycol, propylene glycol, purified water, sorbitol special, white edible ink"
+  ],
+  "questions": [
+    "Questions or comments? Call 1-877-753-3935 Monday-Friday 9AM-5PM EST"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Compare to Dulcolax® active ingredient* Regular Strength STOOL SOFTENER LAXATIVE Docusate Sodium, 100 mg Relieves Occasional Constipation Stimulant Free SOFTGELS *This product is not manufactured or distributed by Chattem, Inc., distributor of Dulcolax®. TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING. KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. Distributed by: CVS Pharmacy, Inc. One CVS Drive, Woonsocket, RI 02895",
+    "Product Label CVS Regular Strength Stool Softener Laxative Docusate sodium USP, 100 mg"
+  ],
+  "set_id": "056ec3cf-edcf-4a9a-8cfa-7cf9c4a9a138",
+  "id": "e8090087-73dd-4918-b9eb-deeae979b765",
+  "effective_time": "20260520",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M007"
+    ],
+    "brand_name": [
+      "Stool Softener Laxative"
+    ],
+    "generic_name": [
+      "DOCUSATE SODIUM"
+    ],
+    "manufacturer_name": [
+      "CVS PHARMACY, INC"
+    ],
+    "product_ndc": [
+      "51316-107"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DOCUSATE SODIUM"
+    ],
+    "rxcui": [
+      "1115005"
+    ],
+    "spl_id": [
+      "e8090087-73dd-4918-b9eb-deeae979b765"
+    ],
+    "spl_set_id": [
+      "056ec3cf-edcf-4a9a-8cfa-7cf9c4a9a138"
+    ],
+    "package_ndc": [
+      "51316-107-25",
+      "51316-107-10"
+    ],
+    "original_packager_product_ndc": [
+      "53345-008"
+    ],
+    "upc": [
+      "0050428140741"
+    ],
+    "unii": [
+      "F05Q2T2JA0"
+    ]
+  }
+}

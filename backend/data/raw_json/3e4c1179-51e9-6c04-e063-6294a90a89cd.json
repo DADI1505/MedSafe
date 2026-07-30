@@ -1,0 +1,118 @@
+{
+  "spl_product_data_elements": [
+    "Medique Diotame BISMUTH SUBSALICYLATE ASPARTAME CALCIUM CARBONATE CELLULOSE, MICROCRYSTALLINE D&C RED NO. 27 DEXTRATES MAGNESIUM STEARATE SILICON DIOXIDE MALTODEXTRIN ACACIA BISMUTH SUBSALICYLATE SALICYLIC ACID BISMUTH CATION RH;046"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each tablet) Bismuth Subsalicylate 262 mg (each tablet contains 102 mg salicylate)"
+  ],
+  "purpose": [
+    "Purpose antidiarrheal/antacid"
+  ],
+  "indications_and_usage": [
+    "Uses relieves traveler's diarrhea diarrhea upset stomach reliever due to overindulgence in food and drink, including: • heartburn • indigestion • nausea • gas • belching • fullness"
+  ],
+  "warnings": [
+    "Warnings Reye's syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's Syndrome a rare but serious illness. Allergy alert: Contains salicylate. Do not take if you are: allergic to salicylates (including aspirin) taking other salicylate products Do not use if you have bloody or black stool an ulcer a bleeding problem Ask a doctor before use if you have ​ fever mucus in the stool Ask a doctor or pharmacist if you are taking any drug for anticoagulation (thinning of the blood) diabetes gout arthritis When using this product a temporary and harmless darkening of the tongue and/or stool may occur. Stop use and ask a doctor if symptoms get worse or lasts more than 2 days ringing in the ears or loss of hearing occurs diarrhea lasts more than 2 days If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of accidental overdose, contact a physician or poison control center immediately (1-800-222-1222)."
+  ],
+  "do_not_use": [
+    "Do not use if you have bloody or black stool an ulcer a bleeding problem"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have ​ fever mucus in the stool"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist if you are taking any drug for anticoagulation (thinning of the blood) diabetes gout arthritis"
+  ],
+  "when_using": [
+    "When using this product a temporary and harmless darkening of the tongue and/or stool may occur."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if symptoms get worse or lasts more than 2 days ringing in the ears or loss of hearing occurs diarrhea lasts more than 2 days If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of accidental overdose, contact a physician or poison control center immediately (1-800-222-1222)."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of accidental overdose, contact a physician or poison control center immediately (1-800-222-1222)."
+  ],
+  "dosage_and_administration": [
+    "Directions chew or dissolve in mouth do not swallow tablets whole drink plenty of clear fluids to help prevent dehydration, which may accompany diarrhea Adults and children: (12 years and over) chew 2 tablets every 1/2 to 1 hour as needed do not exceed 16 tablets in 24 hours use until diarrhea stops but not more than 2 days ​Children under 12 years: ask a doctor"
+  ],
+  "other_safety_information": [
+    "Other information phenylketonurics: contains phenylalanine 1.1mg per tablet calcium content per tablet: 73 mg store at room temperature 59°-86°F (15°-30°C) tamper-evident sealed packets do not use any opened or torn packets"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients acacia gum, aspartame, calcium carbonate, D&C red #27 aluminum lake, dextrates, flavoring, magnesium stearate, maltodextrin, microcrystalline cellulose, peppermint flavor, silicon dioxide"
+  ],
+  "questions": [
+    "Questions or comments? 1-800-634-7680"
+  ],
+  "package_label_principal_display_panel": [
+    "Medique Diotame Label Medique® Diotame Bismuth Subsalicylate Chewable Tablets Upset Stomach/Diarrhea • Bismuth Subsalicylate 262 mg Tamper Evident Unit Dose Packets Medique"
+  ],
+  "set_id": "0667ec26-c2cd-153c-e054-00144ff88e88",
+  "id": "3e4c1179-51e9-6c04-e063-6294a90a89cd",
+  "effective_time": "20250908",
+  "version": "16",
+  "openfda": {
+    "application_number": [
+      "M008"
+    ],
+    "brand_name": [
+      "Medique Diotame"
+    ],
+    "generic_name": [
+      "BISMUTH SUBSALICYLATE"
+    ],
+    "manufacturer_name": [
+      "Unifirst First Aid Corporation"
+    ],
+    "product_ndc": [
+      "47682-210"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BISMUTH SUBSALICYLATE"
+    ],
+    "rxcui": [
+      "308761"
+    ],
+    "spl_id": [
+      "3e4c1179-51e9-6c04-e063-6294a90a89cd"
+    ],
+    "spl_set_id": [
+      "0667ec26-c2cd-153c-e054-00144ff88e88"
+    ],
+    "package_ndc": [
+      "47682-210-99",
+      "47682-210-83",
+      "47682-210-33",
+      "47682-210-13",
+      "47682-210-64"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "M0002611",
+      "N0000180183"
+    ],
+    "pharm_class_cs": [
+      "Bismuth [CS]"
+    ],
+    "pharm_class_epc": [
+      "Bismuth [EPC]"
+    ],
+    "unii": [
+      "62TEY51RR1"
+    ]
+  }
+}

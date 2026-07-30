@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "DZUL ANTI-DANDRUFF Zinc Pyrithione COCO MONOETHANOLAMIDE .ALPHA.-HEXYLCINNAMALDEHYDE ANHYDROUS CITRIC ACID SODIUM HYDROXIDE WATER PYRITHIONE ZINC PYRITHIONE ZINC SODIUM C14-16 OLEFIN SULFONATE COCAMIDOPROPYLAMINE OXIDE PHENOXYETHANOL FD&C BLUE NO. 1 LINALOOL, (+)- BENZYL SALICYLATE COUMARIN PANTHENOL GERANIOL COCAMIDOPROPYL BETAINE CAPRYLYL GLYCOL EDETATE DISODIUM POLYQUATERNIUM-7 (70/30 ACRYLAMIDE/DADMAC; 1600 KD) ISOMETHYL-.ALPHA.-IONONE HEXYLENE GLYCOL"
+  ],
+  "active_ingredient": [
+    "Zinc Pyrithione 1%"
+  ],
+  "purpose": [
+    "Anti-Dandruff"
+  ],
+  "indications_and_usage": [
+    "For the relief of the symptoms of dandruff."
+  ],
+  "warnings": [
+    "For external use only. Do not use on wounds or damaged skin or on a child under 12 years of age unless directed by a physician."
+  ],
+  "when_using": [
+    "Avoid contact with the eyes. If contact occurs, rinse eyes thoroughly with water."
+  ],
+  "stop_use": [
+    "Conditions worsens or does not improve after regular use of this product as directed."
+  ],
+  "keep_out_of_reach_of_children": [
+    "If swallowed, get medical help or contact Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Apply a small amount quantity of the product into hair and massage the scalp. Rinse thoroughly with enough water, repeat if needed. For best results, use at least twice a week or as directed by a doctor."
+  ],
+  "other_safety_information": [
+    "See on the bottom of the bottle for lot number and expiration date."
+  ],
+  "inactive_ingredient": [
+    "Water (Aqua), Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Acrylates Copolymer, Cocamide MEA, Cocamidopropylamine Oxide, Caprylyl Glycol, Hexylene Glycol, Fragrance (Parfum), Polyquaternium-7, Sodium Hydroxide, Disodium EDTA, Citric Acid, Panthenol, Phenoxyethanol, FD&C Blue No.1 (CI 42090), Hexyl Cinnamal, Benzyl Salicylate, Coumarin, Alpha-Isomethyl Ionone, Geraniol, Linalool."
+  ],
+  "questions": [
+    "QUESTION OR COMMENTS? Call (305)-900-8256"
+  ],
+  "package_label_principal_display_panel": [
+    "DZUL ANTI-DANDRUFF SHAMPOO DZUL ANTIDANDRUFF SHAMPOO"
+  ],
+  "set_id": "05e3fac4-c0ce-cbb9-e063-6294a90ac036",
+  "id": "47e60c2d-c9aa-e9c4-e063-6294a90afe19",
+  "effective_time": "20260108",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M032"
+    ],
+    "brand_name": [
+      "DZUL ANTI-DANDRUFF"
+    ],
+    "generic_name": [
+      "ZINC PYRITHIONE"
+    ],
+    "manufacturer_name": [
+      "Caball Sales, Inc."
+    ],
+    "product_ndc": [
+      "83037-001"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "PYRITHIONE ZINC"
+    ],
+    "rxcui": [
+      "209884"
+    ],
+    "spl_id": [
+      "47e60c2d-c9aa-e9c4-e063-6294a90afe19"
+    ],
+    "spl_set_id": [
+      "05e3fac4-c0ce-cbb9-e063-6294a90ac036"
+    ],
+    "package_ndc": [
+      "83037-001-08"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "R953O2RHZ5"
+    ]
+  }
+}

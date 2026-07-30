@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Dynarex Green ALCOHOL OLEIC ACID POTASSIUM HYDROXIDE WATER GLYCERIN ALCOHOL ALCOHOL SUNFLOWER OIL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENT Active Ingredient Purpose Alcohol, 30% v/v Antiseptic"
+  ],
+  "warnings": [
+    "WARNINGS For external use only Flammable, keep away from fire or flame Avoid contact with eyes and mucousal membranes"
+  ],
+  "do_not_use": [
+    "DO NOT USE Do not use with electrocautery procedures"
+  ],
+  "purpose": [
+    "PURPOSE An antiseptic wash."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS & USAGE Cleaning and antiseptic cleansing of skin."
+  ],
+  "dosage_and_administration": [
+    "DOSAGE & ADMINISTRATION Mix with water, lather and rinse off."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN KEEP OUT OF REACH OF CHILDREN, if swallowed get medical help or contact a Poison Control Center right away."
+  ],
+  "spl_unclassified_section": [
+    "OTHER INFORMATION Store at room temperature: 15 o - 30 o C (59 o - 86 o F) Avoid excessive heat"
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Inactive ingredients: Coconut acid, fragrance, glycerin, oleic acid, potassium hydroxide, water."
+  ],
+  "package_label_principal_display_panel": [
+    "Label 1363 IN GVIN010",
+    "Label 1362 IN GVIN010"
+  ],
+  "set_id": "072572be-49dd-4594-bc40-b56db57ada5b",
+  "id": "2758dc6f-a18e-fc43-e063-6294a90aade6",
+  "effective_time": "20241120",
+  "version": "8",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Dynarex Green"
+    ],
+    "generic_name": [
+      "ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Dynarex Corporation"
+    ],
+    "product_ndc": [
+      "67777-308"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "1042644"
+    ],
+    "spl_id": [
+      "2758dc6f-a18e-fc43-e063-6294a90aade6"
+    ],
+    "spl_set_id": [
+      "072572be-49dd-4594-bc40-b56db57ada5b"
+    ],
+    "package_ndc": [
+      "67777-308-01",
+      "67777-308-11",
+      "67777-308-02",
+      "67777-308-12",
+      "67777-308-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0616784136219",
+      "0616784136318"
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

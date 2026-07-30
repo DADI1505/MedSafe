@@ -1,0 +1,96 @@
+{
+  "spl_product_data_elements": [
+    "CeraVe Acne Foaming CreamWash benzoyl peroxide BENZOYL PEROXIDE BENZOYL PEROXIDE WATER GLYCERIN PROPYLENE GLYCOL COCAMIDOPROPYL HYDROXYSULTAINE SODIUM C14-16 OLEFIN SULFONATE POTASSIUM HYDROXIDE CERAMIDE NP CERAMIDE AP CERAMIDE 1 CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE NIACINAMIDE GLYCOLIC ACID SODIUM CHLORIDE TRIDECETH-6 TRIETHYL CITRATE SODIUM CITRATE HYALURONATE SODIUM SODIUM HYDROXIDE SODIUM LAUROYL LACTYLATE CHOLESTEROL PROPANEDIOL EDETATE SODIUM CAPRYLYL GLYCOL DOCUSATE SODIUM PHYTOSPHINGOSINE XANTHAN GUM ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER (60000 MPA.S) BENZOIC ACID PEG-30 DIPOLYHYDROXYSTEARATE"
+  ],
+  "active_ingredient": [
+    "Active ingredient Benzoyl peroxide 10%"
+  ],
+  "purpose": [
+    "Purpose Acne treatment"
+  ],
+  "indications_and_usage": [
+    "Use for the treatment of acne"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "do_not_use": [
+    "Do not use if you have very sensitive skin are sensitive to benzoyl peroxide"
+  ],
+  "when_using": [
+    "When using this product • skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. • avoid unnecessary sun exposure and use a sunscreen • avoid contact with the eyes, lips and mouth • avoid contact with hair and dyed fabrics, which may be bleached by this product • skin irritation may occur, characterized by redness, burning, itching, peeling or possibly swelling. Irritation may be reduced by using the product less frequently or in a lower concentration."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if skin irritation becomes severe"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions • use every morning and evening • apply a dime-size amount to damp skin and gently massage, avoiding the eye area • rinse well • use wash on entire affected area one to two times daily • because excessive drying of the skin may occur, start with one application daily, then gradually increase to two or three times daily if needed or as directed by a doctor • if bothersome dryness or peeling occurs, reduce application to once a day or every other day • if going outside, apply sunscreen after using this product. If irritation or sensitivity develops, stop use of both products and ask a doctor."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, glycerin, propylene glycol, cocamidopropyl hydroxysultaine, sodium c14-16 olefin sulfonate, potassium hydroxide, ceramide NP, ceramide AP, ceramide EOP, carbomer, , niacinamide, glycolic acid, trideceth-6, triethyl citrate, sodium citrate, sodium hyaluronate, sodium hydroxide, sodium lauroyl lactylate, cholesterol, propanediol, tetrasodium EDTA, caprylyl glycol, diethylhexyl sodium sulfosuccinate, phytosphingosine, xanthan gum, acrylates/c10-30 alkyl acrylate crosspolymer, benzoic acid, PEG-30 dipolyhydroxystearate"
+  ],
+  "other_safety_information": [
+    "Other information store at 20° - 25°C (68° to 77°F)"
+  ],
+  "questions": [
+    "Questions or comments? Toll-free number 1-888-768-2915"
+  ],
+  "package_label_principal_display_panel": [
+    "image of a carton"
+  ],
+  "set_id": "06950d35-daa8-4ea3-bd33-6e9c162e2a63",
+  "id": "5bdc623c-835c-4514-8147-9928f35cecbd",
+  "effective_time": "20240109",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "CeraVe Acne Foaming CreamWash"
+    ],
+    "generic_name": [
+      "BENZOYL PEROXIDE"
+    ],
+    "manufacturer_name": [
+      "L'Oreal USA Products Inc"
+    ],
+    "product_ndc": [
+      "49967-604"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZOYL PEROXIDE"
+    ],
+    "rxcui": [
+      "142034"
+    ],
+    "spl_id": [
+      "5bdc623c-835c-4514-8147-9928f35cecbd"
+    ],
+    "spl_set_id": [
+      "06950d35-daa8-4ea3-bd33-6e9c162e2a63"
+    ],
+    "package_ndc": [
+      "49967-604-01",
+      "49967-604-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "3606000604520"
+    ],
+    "unii": [
+      "W9WZN9A0GM"
+    ]
+  }
+}

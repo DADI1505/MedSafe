@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "Salicylic acid Wart Remover HIGH DENSITY POLYETHYLENE SALICYLIC ACID SALICYLIC ACID"
+  ],
+  "active_ingredient": [
+    "Active ingredient Salicylic acid 40%w/w"
+  ],
+  "purpose": [
+    "Purpose Wart removal"
+  ],
+  "indications_and_usage": [
+    "Use For the removal of common warts. The common wart has a rough 'cauliflower-like' appearance.."
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use this product if you are a diabetic or have poor blood circulation, except under the advice and supervision of a doctor or podiatrist Do not use on irritated, infected or reddened skin moles, birthmarks and warts with hair growing from them on genital warts and warts on the face mucous membranes ​Keep out of reach of children. ​ If swallowed, get medical help or contact a Poison Control Center right away. If discomfort persists see your doctor or podiatrist."
+  ],
+  "do_not_use": [
+    "Do not use this product if you are a diabetic or have poor blood circulation, except under the advice and supervision of a doctor or podiatrist",
+    "Do not use on irritated, infected or reddened skin moles, birthmarks and warts with hair growing from them on genital warts and warts on the face mucous membranes"
+  ],
+  "keep_out_of_reach_of_children": [
+    "​Keep out of reach of children. ​ If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "ask_doctor": [
+    "If discomfort persists see your doctor or podiatrist."
+  ],
+  "dosage_and_administration": [
+    "Directions after washing affected area, soak wart for 5 minutes in comfortably warm water dry area thoroughly if necessary cut medicated patch to fit wart apply adhesive side down of patch onto wart cover patch with pad to conceal area repeat this procedure every 48 hours as needed (until wart is removed) for up to 12 weeks"
+  ],
+  "other_safety_information": [
+    "Other information store between 59° and 86°F (15°C and 30°C)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients acrylic adhesive, polyethylene foam"
+  ],
+  "questions": [
+    "Questions? Call 1-866-964-0939"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Rite Aid PHARMACY wart remover kit salicylic acid relieves painful warts 18 medicated patches 20 concealing pads Rite Aid_Wart Remover Kit_WRKBRA-3.jpg"
+  ],
+  "set_id": "01bb867a-be7c-416b-bb00-15894d06a029",
+  "id": "3810614c-25d4-d713-e063-6394a90a9890",
+  "effective_time": "20250621",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "M028"
+    ],
+    "brand_name": [
+      "Salicylic acid"
+    ],
+    "generic_name": [
+      "WART REMOVER"
+    ],
+    "manufacturer_name": [
+      "Rite Aid Corporation"
+    ],
+    "product_ndc": [
+      "11822-0134"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "240559"
+    ],
+    "spl_id": [
+      "3810614c-25d4-d713-e063-6394a90a9890"
+    ],
+    "spl_set_id": [
+      "01bb867a-be7c-416b-bb00-15894d06a029"
+    ],
+    "package_ndc": [
+      "11822-0134-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

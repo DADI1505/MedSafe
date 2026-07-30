@@ -1,0 +1,77 @@
+{
+  "spl_product_data_elements": [
+    "Ortho Super Chocolate Fluoride Mouthwash Anticavity Mouthwash SODIUM FLUORIDE FLUORIDE ION WATER ERYTHRITOL XYLITOL TRIBASIC CALCIUM PHOSPHATE MENAQUINONE 7 CHOLECALCIFEROL INULIN GLYCERIN SODIUM GLUCONATE SODIUM BICARBONATE DIMETHYL SULFONE BENZOIC ACID SODIUM ASCORBATE XANTHAN GUM"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENT (in each 10 mL) Sodium Fluoride 0.02%"
+  ],
+  "purpose": [
+    "PURPOSE Sodium Fluoride …. Anticavity"
+  ],
+  "indications_and_usage": [
+    "USE Fluoride mouthwash"
+  ],
+  "warnings": [
+    "WARNINGS: Keep out of reach of children under 6 years of age. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away. Do not use if safety seal is broken."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children under 6 years of age. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away. Do not use if safety seal is broken."
+  ],
+  "other_safety_information": [
+    "If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away. Do not use if safety seal is broken."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS 1) Shake well before using. 2) Use daily by dispensing 10 mL, swish vigorously for 1 minute, and then spit out. 3) No need to rinse."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Water, Erythritol, Xylitol, *Hydroxamin+ ® (Nano-Hydroxyapatite, Menaquinone-7 (Vit K2), Cholecalciferol (Vit D3)), Inulin, Glycerin, Sodium Gluconate, Sodium Bicarbonate, Methylsulfonylmethane, Natural Flavors, Natural Benzoic Acid,Sodium Ascorbate (Vit C), Xanthan Gum."
+  ],
+  "package_label_principal_display_panel": [
+    "Product Labeling: Ortho Super Chocolate Fluoride Mouthwash Supermouth super chocolate fluoride mouthwash with hydroxamin+ ® unique formulation for orthodontics that reaches areas brushing & flossing don’t 16 fl oz (473 mL) SuperMouth ® 9737 Aero Drive San Diego, CA 92123 (844) MOUTHCARE res Ortho Choc Floro 111"
+  ],
+  "set_id": "04e8df30-42a8-440f-8ca9-77b5982a3730",
+  "id": "571e7f3d-a791-4fb9-a3fb-2a4df4c8b4ee",
+  "effective_time": "20250220",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M021"
+    ],
+    "brand_name": [
+      "Ortho Super Chocolate Fluoride Mouthwash"
+    ],
+    "generic_name": [
+      "ANTICAVITY MOUTHWASH"
+    ],
+    "manufacturer_name": [
+      "SuperMouth, LLC."
+    ],
+    "product_ndc": [
+      "83729-111"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "DENTAL"
+    ],
+    "substance_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "spl_id": [
+      "571e7f3d-a791-4fb9-a3fb-2a4df4c8b4ee"
+    ],
+    "spl_set_id": [
+      "04e8df30-42a8-440f-8ca9-77b5982a3730"
+    ],
+    "package_ndc": [
+      "83729-111-16"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8ZYQ1474W7"
+    ]
+  }
+}

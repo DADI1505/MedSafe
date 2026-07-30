@@ -1,0 +1,91 @@
+{
+  "spl_product_data_elements": [
+    "Unda 1 Achillea millefolium WATER ACHILLEA MILLEFOLIUM ACHILLEA MILLEFOLIUM ARCTOSTAPHYLOS UVA-URSI LEAF ARCTOSTAPHYLOS UVA-URSI LEAF VALERIAN VALERIAN ANGELICA ARCHANGELICA ROOT ANGELICA ARCHANGELICA ROOT ALCOHOL EQUISETUM ARVENSE TOP EQUISETUM ARVENSE TOP LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE LARIX DECIDUA RESIN LARIX DECIDUA RESIN SILVER SILVER"
+  ],
+  "purpose": [
+    "Uses For the temporary relief of symptoms associated with indigestion fatigue following meals occasional headaches"
+  ],
+  "warnings": [
+    "Warnings Stop use and ask a doctor if symptoms persist or worsen. If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Keep out of reach of children."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "active_ingredient": [
+    "Active ingredients Each drop contains: Angelica archangelica (European angelica) Root 4X Argentum metallicum (Silver) 12X Equisetum arvense (Common horsetail) Stem 4X Lycopodium clavatum (Clubmoss) Spore 4X Millefolium (Yarrow) Aerial Parts 4X Resina larcis (Larch turnpentine) Balsam 5X Uva-ursi (Bearberry) Leaf 4X Valeriana officinalis (Valerian) Root 4X"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Ethanol (beet), purified water"
+  ],
+  "indications_and_usage": [
+    "Uses For the temporary relief of symptoms associated with indigestion fatigue following meals occasional headaches Directions Adults and adolescents (12 years and older) Take 5 drops three times daily or as recommended by your healthcare practitioner. Children (under 12 years) Take under the direction of your healthcare practitioner."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and adolescents (12 years and older) Take 5 drops three times daily or as recommended by your healthcare practitioner. Children (under 12 years) Take under the direction of your healthcare practitioner."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if symptoms persist or wosen."
+  ],
+  "other_safety_information": [
+    "Do not use if seal is missing or broken. Store in a cool dry place."
+  ],
+  "package_label_principal_display_panel": [
+    "NDC 62106-1100-8 UNDA numbered compounds UNDA 1 Homeopathic Preparation For the temporary relief of symptoms associated with indigestion, fatigue following meals and occasional headaches. Contains 31% Alcohol 0.7 fl oz (20 ml) 62106-1100-8"
+  ],
+  "set_id": "03c2e772-efa0-5a69-e054-00144ff88e88",
+  "id": "ece42ac2-e879-2756-e053-2995a90a55cb",
+  "effective_time": "20221107",
+  "version": "20",
+  "openfda": {
+    "brand_name": [
+      "Unda 1"
+    ],
+    "generic_name": [
+      "ACHILLEA MILLEFOLIUM"
+    ],
+    "manufacturer_name": [
+      "Seroyal USA"
+    ],
+    "product_ndc": [
+      "62106-1100"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACHILLEA MILLEFOLIUM",
+      "ARCTOSTAPHYLOS UVA-URSI LEAF",
+      "VALERIAN",
+      "ANGELICA ARCHANGELICA ROOT",
+      "EQUISETUM ARVENSE TOP",
+      "LYCOPODIUM CLAVATUM SPORE",
+      "LARIX DECIDUA RESIN",
+      "SILVER"
+    ],
+    "spl_id": [
+      "ece42ac2-e879-2756-e053-2995a90a55cb"
+    ],
+    "spl_set_id": [
+      "03c2e772-efa0-5a69-e054-00144ff88e88"
+    ],
+    "package_ndc": [
+      "62106-1100-8"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "2FXJ6SW4PK",
+      "3M5V3D1X36",
+      "JWF5YAW3QW",
+      "DTN01M69SN",
+      "1DP6Y6B65Z",
+      "C88X29Y479",
+      "AD8LJ73GQF",
+      "3M4G523W1G"
+    ]
+  }
+}

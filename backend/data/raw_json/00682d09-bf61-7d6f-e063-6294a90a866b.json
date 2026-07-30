@@ -1,0 +1,126 @@
+{
+  "spl_product_data_elements": [
+    "Ammonium Phosphoricum Ammonium Phosphoricum AMMONIUM PHOSPHATE, DIBASIC PHOSPHATE ION SUCROSE Ammonium Phosphoricum Ammonium Phosphoricum SUCROSE AMMONIUM PHOSPHATE, DIBASIC PHOSPHATE ION Ammonium Phosphoricum Ammonium Phosphoricum SUCROSE AMMONIUM PHOSPHATE, DIBASIC PHOSPHATE ION Ammonium Phosphoricum Ammonium Phosphoricum AMMONIUM PHOSPHATE, DIBASIC PHOSPHATE ION SUCROSE Ammonium Phosphoricum Ammonium Phosphoricum SUCROSE AMMONIUM PHOSPHATE, DIBASIC PHOSPHATE ION Ammonium Phosphoricum Ammonium Phosphoricum SUCROSE AMMONIUM PHOSPHATE, DIBASIC PHOSPHATE ION Ammonium Phosphoricum Ammonium Phosphoricum AMMONIUM PHOSPHATE, DIBASIC PHOSPHATE ION SUCROSE Ammonium Phosphoricum Ammonium Phosphoricum AMMONIUM PHOSPHATE, DIBASIC PHOSPHATE ION SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Ammonium Phosphoricum 6C 5g Ammonium Phosphoricum 6C 30g Ammonium Phosphoricum 6C 100g Ammonium Phosphoricum 12C 5g Ammonium Phosphoricum 12C 30g Ammonium Phosphoricum 12C 100g Ammonium Phosphoricum 30C 1g Ammonium Phosphoricum 30C 5g Ammonium Phosphoricum 30C 30g Ammonium Phosphoricum 30C 100g Ammonium Phosphoricum 100C 1g Ammonium Phosphoricum 100C 5g Ammonium Phosphoricum 100C 30g Ammonium Phosphoricum 100C 100g Ammonium Phosphoricum 200C 1g Ammonium Phosphoricum 200C 5g Ammonium Phosphoricum 200C 30g Ammonium Phosphoricum 200C 100g Ammonium Phosphoricum 500C 1g Ammonium Phosphoricum 500C 5g Ammonium Phosphoricum 500C 30g Ammonium Phosphoricum 500C 100g Ammonium Phosphoricum 1M 1g Ammonium Phosphoricum 1M 5g Ammonium Phosphoricum 1M 30g Ammonium Phosphoricum 1M 100g Ammonium Phosphoricum 10M 1g Ammonium Phosphoricum 10M 5g Ammonium Phosphoricum 10M 30g Ammonium Phosphoricum 10M 100g"
+  ],
+  "set_id": "00682d09-bf60-7d6f-e063-6294a90a866b",
+  "id": "00682d09-bf61-7d6f-e063-6294a90a866b",
+  "effective_time": "20230713",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Ammonium Phosphoricum"
+    ],
+    "generic_name": [
+      "AMMONIUM PHOSPHORICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3632",
+      "37662-3636",
+      "37662-3633",
+      "37662-3634",
+      "37662-3638",
+      "37662-3635",
+      "37662-3637",
+      "37662-3639"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "AMMONIUM PHOSPHATE, DIBASIC"
+    ],
+    "spl_id": [
+      "00682d09-bf61-7d6f-e063-6294a90a866b"
+    ],
+    "spl_set_id": [
+      "00682d09-bf60-7d6f-e063-6294a90a866b"
+    ],
+    "package_ndc": [
+      "37662-3636-1",
+      "37662-3636-2",
+      "37662-3636-3",
+      "37662-3636-4",
+      "37662-3633-1",
+      "37662-3633-2",
+      "37662-3633-3",
+      "37662-3634-1",
+      "37662-3634-2",
+      "37662-3634-3",
+      "37662-3634-4",
+      "37662-3638-1",
+      "37662-3638-2",
+      "37662-3638-3",
+      "37662-3638-4",
+      "37662-3632-1",
+      "37662-3632-2",
+      "37662-3632-3",
+      "37662-3635-1",
+      "37662-3635-2",
+      "37662-3635-3",
+      "37662-3635-4",
+      "37662-3637-1",
+      "37662-3637-2",
+      "37662-3637-3",
+      "37662-3637-4",
+      "37662-3639-1",
+      "37662-3639-2",
+      "37662-3639-3",
+      "37662-3639-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "10LGE70FSU"
+    ]
+  }
+}

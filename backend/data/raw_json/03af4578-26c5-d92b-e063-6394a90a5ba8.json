@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Vanadium Bromatum Vanadium Bromatum VANADIUM(III) BROMIDE BROMIDE ION SUCROSE Vanadium Bromatum Vanadium Bromatum VANADIUM(III) BROMIDE BROMIDE ION SUCROSE Vanadium Bromatum Vanadium Bromatum VANADIUM(III) BROMIDE BROMIDE ION SUCROSE Vanadium Bromatum Vanadium Bromatum SUCROSE VANADIUM(III) BROMIDE BROMIDE ION Vanadium Bromatum Vanadium Bromatum SUCROSE VANADIUM(III) BROMIDE BROMIDE ION Vanadium Bromatum Vanadium Bromatum VANADIUM(III) BROMIDE BROMIDE ION SUCROSE Vanadium Bromatum Vanadium Bromatum VANADIUM(III) BROMIDE BROMIDE ION SUCROSE Vanadium Bromatum Vanadium Bromatum VANADIUM(III) BROMIDE BROMIDE ION SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Vanadium Bromatum 6C 5g Vanadium Bromatum 6C 30g Vanadium Bromatum 6C 100g Vanadium Bromatum 12C 5g Vanadium Bromatum 12C 30g Vanadium Bromatum 12C 100g Vanadium Bromatum 30C 1g Vanadium Bromatum 30C 5g Vanadium Bromatum 30C 30g Vanadium Bromatum 30C 100g Vanadium Bromatum 100C 1g Vanadium Bromatum 100C 5g Vanadium Bromatum 100C 30g Vanadium Bromatum 100C 100g Vanadium Bromatum 200C 1g Vanadium Bromatum 200C 5g Vanadium Bromatum 200C 30g Vanadium Bromatum 200C 100g Vanadium Bromatum 500C 1g Vanadium Bromatum 500C 5g Vanadium Bromatum 500C 30g Vanadium Bromatum 500C 100g Vanadium Bromatum 1M 1g Vanadium Bromatum 1M 5g Vanadium Bromatum 1M 30g Vanadium Bromatum 1M 100g Vanadium Bromatum LM1 30g"
+  ],
+  "set_id": "03af4578-26c4-d92b-e063-6394a90a5ba8",
+  "id": "03af4578-26c5-d92b-e063-6394a90a5ba8",
+  "effective_time": "20230824",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Vanadium Bromatum"
+    ],
+    "generic_name": [
+      "VANADIUM BROMATUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3824",
+      "37662-3827",
+      "37662-3828",
+      "37662-3830",
+      "37662-3831",
+      "37662-3825",
+      "37662-3826",
+      "37662-3829"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "VANADIUM(III) BROMIDE"
+    ],
+    "spl_id": [
+      "03af4578-26c5-d92b-e063-6394a90a5ba8"
+    ],
+    "spl_set_id": [
+      "03af4578-26c4-d92b-e063-6394a90a5ba8"
+    ],
+    "package_ndc": [
+      "37662-3827-1",
+      "37662-3827-2",
+      "37662-3827-3",
+      "37662-3827-4",
+      "37662-3824-1",
+      "37662-3824-2",
+      "37662-3824-3",
+      "37662-3828-1",
+      "37662-3828-2",
+      "37662-3828-3",
+      "37662-3828-4",
+      "37662-3830-1",
+      "37662-3830-2",
+      "37662-3830-3",
+      "37662-3830-4",
+      "37662-3831-1",
+      "37662-3825-1",
+      "37662-3825-2",
+      "37662-3825-3",
+      "37662-3826-1",
+      "37662-3826-2",
+      "37662-3826-3",
+      "37662-3826-4",
+      "37662-3829-1",
+      "37662-3829-2",
+      "37662-3829-3",
+      "37662-3829-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "KB5CDP6ZK3"
+    ]
+  }
+}

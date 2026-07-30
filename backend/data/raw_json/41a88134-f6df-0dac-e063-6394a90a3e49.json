@@ -1,0 +1,120 @@
+{
+  "spl_product_data_elements": [
+    "Tension Headache Relief Acetaminophen, Caffeine ACETAMINOPHEN ACETAMINOPHEN D&C RED NO. 27 ALUMINUM LAKE FD&C YELLOW NO. 6 ALUMINUM LAKE CAFFEINE CAFFEINE POVIDONE FD&C BLUE NO. 2 ALUMINUM LAKE STARCH, CORN CARNAUBA WAX TALC POLYETHYLENE GLYCOL, UNSPECIFIED STEARIC ACID HYPROMELLOSE, UNSPECIFIED SILICON DIOXIDE SODIUM STARCH GLYCOLATE TYPE A CORN MICROCRYSTALLINE CELLULOSE TITANIUM DIOXIDE TCL373 Capsule shaped tablet"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredients (in each caplet) Acetaminophen 500 mg Caffeine 65 mg"
+  ],
+  "purpose": [
+    "Purposes Pain reliever Pain reliever aid"
+  ],
+  "indications_and_usage": [
+    "Uses Temporarily relieves minor aches and pains due to: headache muscular aches"
+  ],
+  "warnings": [
+    "Warnings Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 6 caplets in 24 hours, which is the maximum daily amount with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Caffeine warning: The recommended dose of this product contains about as much caffeine as a cup of coffee. Limit the use of caffeine-containing medications, foods, or beverages while taking this product because too much caffeine may cause nervousness, irritability, sleeplessness, and occasionally, rapid heartbeat. Do not use if you are allergic to acetaminophen with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist Ask a doctor before use if you have liver disease Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin Stop use and ask a doctor if any new symptoms occur painful area is red or swollen pain gets worse or lasts for more than 10 days fever gets worse or lasts for more than 3 days These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+  ],
+  "do_not_use": [
+    "Do not use if you are allergic to acetaminophen with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have liver disease"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if any new symptoms occur painful area is red or swollen pain gets worse or lasts for more than 10 days fever gets worse or lasts for more than 3 days These could be signs of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+  ],
+  "dosage_and_administration": [
+    "Directions do not use more than directed adults and children 12 years and over: take 2 caplets every 6 hours; not more than 6 caplets in 24 hours children under 12 years: ask a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information store at 25°C (77°F) excursions permitted between 15°-30°C (59°-86°F) use by expiration date on package"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients carnauba wax, colloidal silicon dioxide, D&C red #27 aluminum lake, FD&C blue #2 aluminum lake, FD&C yellow #6 aluminum lake, hypromellose, microcrystalline cellulose, polyethylene glycol (PEG) 400, povidone, pregelatinized starch, sodium starch glycolate, stearic acid, talc, titanium dioxide"
+  ],
+  "questions": [
+    "Questions or comments? Call 1-877-290-4008"
+  ],
+  "package_label_principal_display_panel": [
+    "373R-200ct label 373R-100s-label"
+  ],
+  "set_id": "05364eb4-07a1-a4d9-e063-6294a90a47e5",
+  "id": "41a88134-f6df-0dac-e063-6394a90a3e49",
+  "effective_time": "20251021",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M013"
+    ],
+    "brand_name": [
+      "Tension Headache Relief"
+    ],
+    "generic_name": [
+      "ACETAMINOPHEN, CAFFEINE"
+    ],
+    "manufacturer_name": [
+      "TIME CAP LABS INC"
+    ],
+    "product_ndc": [
+      "49483-373"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACETAMINOPHEN",
+      "CAFFEINE"
+    ],
+    "rxcui": [
+      "307686"
+    ],
+    "spl_id": [
+      "41a88134-f6df-0dac-e063-6394a90a3e49"
+    ],
+    "spl_set_id": [
+      "05364eb4-07a1-a4d9-e063-6294a90a47e5"
+    ],
+    "package_ndc": [
+      "49483-373-20",
+      "49483-373-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175739",
+      "N0000175729",
+      "N0000175790",
+      "M0023046"
+    ],
+    "pharm_class_epc": [
+      "Central Nervous System Stimulant [EPC]",
+      "Methylxanthine [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Central Nervous System Stimulation [PE]"
+    ],
+    "pharm_class_cs": [
+      "Xanthines [CS]"
+    ],
+    "unii": [
+      "362O9ITL9D",
+      "3G6A5W338E"
+    ]
+  }
+}

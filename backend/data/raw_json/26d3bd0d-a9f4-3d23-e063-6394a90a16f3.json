@@ -1,0 +1,100 @@
+{
+  "spl_product_data_elements": [
+    "BANANA BOAT AVOBENZONE,HOMOSALATE,OCTISALATE,OCTOCRYLENE CAPRYLYL GLYCOL WATER HOMOSALATE HOMOSALATE ALCOHOL MINERAL OIL PANTHENOL AVOBENZONE AVOBENZONE MEDIUM-CHAIN TRIGLYCERIDES OCTOCRYLENE OCTOCRYLENE ALPHA-TOCOPHEROL ACETATE DIMETHICONE OCTISALATE OCTISALATE ISODODECANE ALOE VERA LEAF"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Avobenzone 2.7%, Homosalate 9.0%, Octisalate 4.5%, Octocrylene 7.0%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses • helps prevent sunburn • if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "Warnings • For external use only. Flammable: Do not use in the presence of a flame or spark. Keep away from sources of ignition - No smoking. May stain some fabrics and surfaces. Do not use on damaged or broken skin. When using this product Keep away from face to avoid breathing it • Keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs KEEP OUT OF REACH OF CHILDREN, ESPECIALLY WHEN REFILLING PRODUCT. IF PRODUCT IS SWALLOWED, GET MEDICAL HELP OR CONTACT A POISON CONTROL CENTER RIGHT AWAY."
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin."
+  ],
+  "when_using": [
+    "When using this product Keep away from face to avoid breathing it • Keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN, ESPECIALLY WHEN REFILLING PRODUCT. IF PRODUCT IS SWALLOWED, GET MEDICAL HELP OR CONTACT A POISON CONTROL CENTER RIGHT AWAY."
+  ],
+  "dosage_and_administration": [
+    "Directions • Hold container 4 to 6 inches from the skin to apply. Don’t spray directly into face. Apply on hand then apply to face. Spray evenly and liberally on your skin. Use in a well-ventilated area. Apply 15 minutes before sun exposure. Reapply throughout the day • at least every 2 hours, • after 80 minutes of swimming or sweating • immediately after towel drying • Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF value of 15 or higher and other sun protection measures including: • limit time in the sun, especially from 10 a.m. - 2 p.m. • wear long-sleeved shirts, pants, hats, and sunglasses • children under 6 months: Ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Alcohol Denat., Caprylic/Capric Triglyceride, Isododecane, VA/Butyl Maleate/Isobornyl Acrylate Copolymer, Caprylyl Glycol, Dimethicone, Tocopheryl Acetate, Mineral Oil, Panthenol, Water, Aloe Barbadensis Leaf Extract"
+  ],
+  "spl_unclassified_section": [
+    "Other Information protect this product from excessive heat and direct sun"
+  ],
+  "questions": [
+    "Questions or comments? Call 1-800-SafeSun, Mon-Fri"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel BANANA BOAT(R) KiDS 360 COVERAGE advanced control mist BROAD SPECTRUM SPF 50+ SUNSCREEN 50+ won't run into eyes Water Resistant (80 Minutes) Aerosol Free* 5.5 FL. OZ. (162 mL) AEROSOL-FREE REFILL AEROSOL-FREE BANANA BOAT(R) KiDS 360 COVERAGE advanced control mist BROAD SPECTRUM SPF 50+ SUNSCREEN 50+ won't run into eyes Water Resistant (80 Minutes) 5.5 FL. OZ. (162 mL) STARTER PACK 1 SPRAYER + 1 REFILL BANANA BOAT(R) BUNDLE AND SAVE KiDS 360 COVERAGE advanced control mist BROAD SPECTRUM SPF 50+ SUNSCREEN 50+ PROTECTS FROM UP TO 98% OF BURNING RAYS won't run into eyes Water Resistant (80 Minutes) 2 - 5.5 FL.OZ. (162 mL) Bottles – Total Net Wt. 11 FL.OZ. (324 mL) Label Label Label"
+  ],
+  "set_id": "05cb5a91-205f-b652-e063-6294a90a0664",
+  "id": "26d3bd0d-a9f4-3d23-e063-6394a90a16f3",
+  "effective_time": "20241113",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "BANANA BOAT"
+    ],
+    "generic_name": [
+      "AVOBENZONE,HOMOSALATE,OCTISALATE,OCTOCRYLENE"
+    ],
+    "manufacturer_name": [
+      "Edgewell Personal Care Brands LLC"
+    ],
+    "product_ndc": [
+      "63354-166"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "HOMOSALATE",
+      "AVOBENZONE",
+      "OCTOCRYLENE",
+      "OCTISALATE"
+    ],
+    "spl_id": [
+      "26d3bd0d-a9f4-3d23-e063-6394a90a16f3"
+    ],
+    "spl_set_id": [
+      "05cb5a91-205f-b652-e063-6294a90a0664"
+    ],
+    "package_ndc": [
+      "63354-166-14",
+      "63354-166-17"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0079656140330",
+      "0079656140309"
+    ],
+    "unii": [
+      "V06SV4M95S",
+      "G63QQF2NOX",
+      "5A68WGF6WM",
+      "4X49Y0596W"
+    ]
+  }
+}

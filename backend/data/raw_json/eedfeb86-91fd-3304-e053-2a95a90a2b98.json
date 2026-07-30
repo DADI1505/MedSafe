@@ -1,0 +1,81 @@
+{
+  "spl_product_data_elements": [
+    "Miranda Castros healing cell salts for bones, hair, nails and teeth Homeopathic Combination Calcarea Fluorica, Calcarea Phosphorica, Silicea SUCROSE CALCIUM FLUORIDE FLUORIDE ION TRIBASIC CALCIUM PHOSPHATE PHOSPHATE ION SILICON DIOXIDE SILICON DIOXIDE"
+  ],
+  "active_ingredient": [
+    "Active ingredients (HPUS*) Purpose Calcarea Fluorica 6X Restores elasticity and strength to veins, muscles, skin, bones and joints Calcarea Phosphorica 6X Restores tone and boosts nutrition to weakened or growing bones and teeth Silicea 6X Strengthens weakened hair and nails as well as weakened or growing bones and teeth *The letters \"HPUS\" indicate that these ingredients are officially monographed in the Homeopathic Pharmacopeia of the United States."
+  ],
+  "active_ingredient_table": [
+    "<table ID=\"i9b75397b-3f89-4201-8659-75aa738cff00\" width=\"100%\"><tbody><tr><td><content styleCode=\"bold\">Active ingredients (HPUS*)</content></td><td><content styleCode=\"bold\">Purpose</content></td></tr><tr><td>Calcarea Fluorica 6X  </td><td>Restores elasticity and strength to veins, muscles, skin, bones and joints  </td></tr><tr><td>Calcarea Phosphorica 6X  </td><td>Restores tone and boosts nutrition to weakened or growing bones and teeth  </td></tr><tr><td>Silicea 6X  </td><td>Strengthens weakened hair and nails as well as weakened or growing bones and teeth  </td></tr></tbody></table>"
+  ],
+  "indications_and_usage": [
+    "Uses: Temporarily relieves weak bones, hair, nails and teeth. This statement has not been evaluated by the FDA, it is based on documented Homeopathic Materia Medica."
+  ],
+  "warnings": [
+    "Warnings: If pregnant or breast-feeding, ask a health care professional before use. Keep out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. If symptoms persist or worsen, discontinue use and contact a health care professional. Do not use if cap seal is broken. Keep out of the reach of children."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children."
+  ],
+  "dosage_and_administration": [
+    "Dosage: Adults and children age 12 and above: 4 pellets 2-4 times a day or as directed (chewed or sucked on a clean mouth). Infants and children up to 12 years: half the adult's dose."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredient: Sucrose (gluten and lactose free)."
+  ],
+  "questions": [
+    "Questions/Comments: shop@mirandacastro.com (304) 721-4223 Gainesville, FL 32607 Product of USA Manufactured by www.ohmpharma.com Manufactured for www.mirandacastroshop.com Homeopathic Combination FOR BONES, HAIR, NAILS and TEETH"
+  ],
+  "purpose": [
+    "Homeopathic Combination FOR BONES, HAIR, NAILS and TEETH"
+  ],
+  "package_label_principal_display_panel": [
+    "NDC: 66096-636-24 MIRANDA CASTRO's healing cell salts Homeopathic Combination FOR BONES, HAIR, NAILS and TEETH Net Contents 0.85oz (24 g) Approx. 500 pellets 0.85oz bottle label"
+  ],
+  "set_id": "044a7174-f7a3-490f-9cad-01f2665d7575",
+  "id": "eedfeb86-91fd-3304-e053-2a95a90a2b98",
+  "effective_time": "20221202",
+  "version": "5",
+  "openfda": {
+    "brand_name": [
+      "Miranda Castros healing cell salts for bones, hair, nails and teeth Homeopathic Combination"
+    ],
+    "generic_name": [
+      "CALCAREA FLUORICA, CALCAREA PHOSPHORICA, SILICEA"
+    ],
+    "manufacturer_name": [
+      "OHM PHARMA INC."
+    ],
+    "product_ndc": [
+      "66096-636"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CALCIUM FLUORIDE",
+      "TRIBASIC CALCIUM PHOSPHATE",
+      "SILICON DIOXIDE"
+    ],
+    "spl_id": [
+      "eedfeb86-91fd-3304-e053-2a95a90a2b98"
+    ],
+    "spl_set_id": [
+      "044a7174-f7a3-490f-9cad-01f2665d7575"
+    ],
+    "package_ndc": [
+      "66096-636-24"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O3B55K4YKI",
+      "91D9GV0Z28",
+      "ETJ7Z6XBU4"
+    ]
+  }
+}

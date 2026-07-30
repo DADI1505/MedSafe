@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "AQUACETIC-30 Cleaning Solution for Hemodialysis Machines CITRIC ACID MONOHYDRATE ANHYDROUS CITRIC ACID WATER"
+  ],
+  "spl_unclassified_section": [
+    "INDUSTRIAL VINEGAR FOR THE CLEANING OF HEMODIALYSIS MACHINES"
+  ],
+  "active_ingredient": [
+    "Glacial Acetic Acid"
+  ],
+  "purpose": [
+    "This product is used to descale and clean hemodialysis machines."
+  ],
+  "indications_and_usage": [
+    "For use with 3-pump hemodialysis machines only, using purified water."
+  ],
+  "warnings": [
+    "Avoid contact with skin and eyes. Do not mix with hypochlorite, or with hydrogen peroxide, or in general with any chemical base."
+  ],
+  "do_not_use": [
+    "Do not mix with hypochlorite, or with hydrogen peroxide, or in general with any chemical base."
+  ],
+  "when_using": [
+    "Take appropriate security measures (protective clothing, glasses, masks)."
+  ],
+  "stop_use": [
+    "If you do not use the entire contents, discard the excess."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "This product is used to descale and clean hemodialysis machines."
+  ],
+  "storage_and_handling": [
+    "Store at room temperature. Keep container tightly closed when not in use."
+  ],
+  "inactive_ingredient": [
+    "Water."
+  ],
+  "package_label_principal_display_panel": [
+    "81943-801-01 AQUACETIC-30 LABEL"
+  ],
+  "set_id": "040775ab-41bd-cd36-e063-6394a90a08aa",
+  "id": "43485fb0-f129-7198-e063-6294a90afcde",
+  "effective_time": "20251110",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "AQUACETIC-30"
+    ],
+    "generic_name": [
+      "CLEANING SOLUTION FOR HEMODIALYSIS MACHINES"
+    ],
+    "manufacturer_name": [
+      "Aqua Medica, S.A. de C.V."
+    ],
+    "product_ndc": [
+      "81943-801"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "HEMODIALYSIS"
+    ],
+    "substance_name": [
+      "CITRIC ACID MONOHYDRATE"
+    ],
+    "spl_id": [
+      "43485fb0-f129-7198-e063-6294a90afcde"
+    ],
+    "spl_set_id": [
+      "040775ab-41bd-cd36-e063-6394a90a08aa"
+    ],
+    "package_ndc": [
+      "81943-801-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "2968PHW8QP"
+    ]
+  }
+}

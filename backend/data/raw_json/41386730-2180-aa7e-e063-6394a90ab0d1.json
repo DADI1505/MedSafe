@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "Curology Barrier Balm Skin Barrier Balm .ALPHA.-TOCOPHEROL ACETATE, DL- SHEA BUTTER WATER POLYHYDROXYSTEARIC ACID (2300 MW) TRIETHOXYCAPRYLYLSILANE SYNTHETIC WAX (1800 MW) ZINC OXIDE BUTYLATED HYDROXYTOLUENE MEDIUM-CHAIN TRIGLYCERIDES ALUMINUM STARCH OCTENYLSUCCINATE DIMETHICONE 20 DIMETHICONE 20 PETROLATUM PETROLATUM Paste"
+  ],
+  "active_ingredient": [
+    "Dimethicone 13% Petrolatum 41.9%"
+  ],
+  "purpose": [
+    "Skin Protectant"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent, temporarily protects and helps relieve chafed, chapped or cracked skin Helps prevent and protect from the drying effects of wind and cold weather Temporarily protects minor cuts scrapes burns For External Use Only Apply as needed"
+  ],
+  "warnings": [
+    "For external use only Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away Do not use on deep or puncture wounds animal bites serious burns When using this product do not get into eyes Stop use and ask doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days"
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "inactive_ingredient": [
+    "Caprylic/Capric Triglyceride, Butyrospermum Parkii (Shea) Butter, Aluminum Starch Octenylsuccinate, Synthetic Wax, Polyhydroxystearic Acid, Water, Zinc Oxide, Tocopheryl Acetate, Sodium Hyaluronate, Triethoxycaprylylsilane, BHT."
+  ],
+  "questions": [
+    "Questions? 858-859-1188"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "dosage_and_administration": [
+    "Directions Apply as needed"
+  ],
+  "package_label_principal_display_panel": [
+    "15g tube primary container image 15g carton artwork with drug facts box 28g tube primary artwork image 28g carton artwork with drug facts box 48g tube primary artwork image 48g tube carton artwork with drug facts box"
+  ],
+  "set_id": "04b2ba38-0f81-be51-e063-6294a90af821",
+  "id": "41386730-2180-aa7e-e063-6394a90ab0d1",
+  "effective_time": "20251015",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Curology Barrier Balm"
+    ],
+    "generic_name": [
+      "SKIN BARRIER BALM"
+    ],
+    "manufacturer_name": [
+      "Curology"
+    ],
+    "product_ndc": [
+      "82575-302"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "DIMETHICONE 20",
+      "PETROLATUM"
+    ],
+    "rxcui": [
+      "2665902"
+    ],
+    "spl_id": [
+      "41386730-2180-aa7e-e063-6394a90ab0d1"
+    ],
+    "spl_set_id": [
+      "04b2ba38-0f81-be51-e063-6294a90af821"
+    ],
+    "package_ndc": [
+      "82575-302-01",
+      "82575-302-02",
+      "82575-302-03",
+      "82575-302-04",
+      "82575-302-05",
+      "82575-302-06"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0382575000143"
+    ],
+    "unii": [
+      "H8YMB5QY0D",
+      "4T6H12BN9U"
+    ]
+  }
+}

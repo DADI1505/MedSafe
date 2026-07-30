@@ -1,0 +1,95 @@
+{
+  "spl_product_data_elements": [
+    "Soothe childrens Calcium carbonate CALCIUM CARBONATE CALCIUM CATION CARBONATE ION ACACIA STARCH, CORN D&C RED NO. 27 ALUMINUM LAKE D&C RED NO. 30 ALUMINUM LAKE FD&C RED NO. 40 ALUMINUM LAKE MAGNESIUM STEARATE MALTODEXTRIN SILICON DIOXIDE SODIUM LAURYL SULFATE SUCROSE TALC 44;596"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each chewable tablet) Calcium carbonate 400 mg"
+  ],
+  "purpose": [
+    "Purpose Antacid"
+  ],
+  "indications_and_usage": [
+    "Uses relieves: heartburn acid indigestion sour stomach upset stomach associated with these symptoms"
+  ],
+  "warnings": [
+    "Warnings Ask a doctor or pharmacist before use if the child is presently taking a prescription drug. Antacids may interact with certain prescription drugs. Stop use and ask a doctor if symptoms last more than two weeks. Keep this and all drugs out of the reach of children."
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if the child is presently taking a prescription drug. Antacids may interact with certain prescription drugs."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if symptoms last more than two weeks."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep this and all drugs out of the reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions find the right dose on chart below based on weight (preferred); otherwise use age chew or crush tablets completely before swallowing; do not swallow tablets whole repeat dose as needed do not take more than 3 chewable tablets (ages 2-5) or 6 chewable tablets (ages 6-11) in a 24-hour period, or use the maximum dosage of this product for more than two weeks, except under the advice and supervision of a doctor Dosing Chart Weight (lb) Age (yr) Dose (chewable tablets) under 24 under 2 ask a doctor 24-47 2-5 1 tablet 48-95 6-11 2 tablets"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"400px\"><col/><col/><col/><tbody><tr><td styleCode=\" Botrule Toprule Lrule Rrule\"><content styleCode=\"bold\">Weight (lb)</content></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><content styleCode=\"bold\">Age (yr)</content></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><content styleCode=\"bold\">Dose (chewable tablets)</content></td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\">under 24</td><td styleCode=\" Botrule Toprule Lrule Rrule\">under 2</td><td styleCode=\" Botrule Toprule Lrule Rrule\">ask a doctor</td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\">24-47</td><td styleCode=\" Botrule Toprule Lrule Rrule\">2-5</td><td styleCode=\" Botrule Toprule Lrule Rrule\">1 tablet</td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\">48-95</td><td styleCode=\" Botrule Toprule Lrule Rrule\">6-11</td><td styleCode=\" Botrule Toprule Lrule Rrule\">2 tablets</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information each tablet contains: calcium 160 mg store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) avoid excessive humidity see end flap for expiration date and lot number"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients acacia, corn starch, D&C red #27 aluminum lake, D&C red #30 aluminum lake, FD&C red #40 aluminum lake, flavor, magnesium stearate, maltodextrin, silicon dioxide, sodium lauryl sulfate, sucrose, talc"
+  ],
+  "questions": [
+    "Questions or comments? 1-800-426-9391"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel NDC 0363-5960-08 Walgreens WALGREENS PHARMACIST RECOMMENDED † Compare to the active ingredient in Pepto® Kids Chewables †† Children's Soothe® CALCIUM CARBONATE 400 mg CHEWABLE TABLETS / ANTACID • Relieves heartburn, sour stomach & acid indigestion AGES 2-11 YEARS 24 CHEWABLE TABLETS CHEW OR CRUSH TABLETS COMPLETELY BEFORE SWALLOWING. DO NOT SWALLOW TABLETS WHOLE. Bubble Gum flavor ACTUAL SIZE TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING † Our pharmacists recommend the Walgreens brand. We invite you to compare to national brands. †† This product is not manufactured or distributed by The Procter & Gamble Company, owner of the registered trademark Pepto® Kids Chewables. 50844 REV1119A59608 DISTRIBUTED BY: WALGREEN CO. 200 WILMOT RD., DEERFIELD, IL 60015 100% SATISFACTION GUARANTEED walgreens.com ©2021 Walgreen Co. Walgreens 44-596A Walgreens 44-596A"
+  ],
+  "set_id": "0235e083-5f3d-4bae-b14a-b12db623180c",
+  "id": "cd0bb2db-032c-4ab9-913f-23135b5add64",
+  "effective_time": "20260331",
+  "version": "16",
+  "openfda": {
+    "application_number": [
+      "M001"
+    ],
+    "brand_name": [
+      "Soothe childrens"
+    ],
+    "generic_name": [
+      "CALCIUM CARBONATE"
+    ],
+    "manufacturer_name": [
+      "Walgreen Company"
+    ],
+    "product_ndc": [
+      "0363-5960"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CALCIUM CARBONATE"
+    ],
+    "rxcui": [
+      "317865"
+    ],
+    "spl_id": [
+      "cd0bb2db-032c-4ab9-913f-23135b5add64"
+    ],
+    "spl_set_id": [
+      "0235e083-5f3d-4bae-b14a-b12db623180c"
+    ],
+    "package_ndc": [
+      "0363-5960-08"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0311917124087"
+    ],
+    "unii": [
+      "H0G9379FGK"
+    ]
+  }
+}

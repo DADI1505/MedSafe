@@ -1,0 +1,97 @@
+{
+  "spl_product_data_elements": [
+    "Biofreeze MENTHOL ISOPROPYL ALCOHOL DENATONIUM BENZOATE TERT-BUTYL ALCOHOL ARNICA MONTANA FLOWER CALENDULA OFFICINALIS FLOWER CHAMOMILE DIMETHYL SULFONE ALCOHOL ILEX PARAGUARIENSIS LEAF ISOPROPYL MYRISTATE JUNIPER BERRY WATER MENTHOL MENTHOL ECHINACEA ANGUSTIFOLIA WHOLE TEA LEAF OIL GLYCERIN"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredients: Menthol 10.5% Purpose: Cooling Pain Relief"
+  ],
+  "purpose": [
+    "Purpose: Cooling Pain Relief"
+  ],
+  "indications_and_usage": [
+    "Uses Temporary relief from minor aches and pains of sore muscles and joints associated with: arthritis backache strains and sprains"
+  ],
+  "warnings": [
+    "Warnings For external use only. Flammable: Keep away from excessive heat or open flame. Contents Under Pressure. Do Not Punture Or Incinerate Do Not Store At Temperature Above 120°F Ask a Doctor Before using If You have: ■ you experience pain, swelling or blistering of the skin ■ condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days ■ arthritic pain persists for more than 10 days, or redness is present When Using This Product Avoid contact with the eyes or mucous membranes; Do not apply to wounds or damaged skin; Do not use with other ointments, creams, sprays or liniments; Do not apply to irritated skin or if excessive irritation develops; Do not bandage; Wash hands after use with cool water; Do not use with heating pad or device; Store in a cool dry place Stop Use And Ask A Doctor If: Condition worsens, or if symptoms persist for more than 7 days, or clear up and recur If pregnant or breast-feeding: Ask a health professional before use Keep out of reach of children: If accidentally ingested, get medical help or contact a Poison Control Center immediately"
+  ],
+  "ask_doctor": [
+    "Ask a Doctor Before using If You have: ■ you experience pain, swelling or blistering of the skin ■ condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days ■ arthritic pain persists for more than 10 days, or redness is present"
+  ],
+  "when_using": [
+    "When Using This Product Avoid contact with the eyes or mucous membranes; Do not apply to wounds or damaged skin; Do not use with other ointments, creams, sprays or liniments; Do not apply to irritated skin or if excessive irritation develops; Do not bandage; Wash hands after use with cool water; Do not use with heating pad or device; Store in a cool dry place"
+  ],
+  "stop_use": [
+    "Stop Use And Ask A Doctor If: Condition worsens, or if symptoms persist for more than 7 days, or clear up and recur"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding: Ask a health professional before use"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children: If accidentally ingested, get medical help or contact a Poison Control Center immediately"
+  ],
+  "dosage_and_administration": [
+    "Directions: Adults and children 12 years of age and older: Spray on to the affected areas not more than 4 times daily; massage not necessary Children under 12 years of age: Consult physician"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Alcohol, Arnica Montana Flower Extract, Calendula Officinalis Flower Oil, Camellia Sinensis Leaf Oil, Chamomilla Recutita (Matricaria) Flower Extract, Denatonium Benzoate, Echinacea Angustifolia Extract, Glycerin, Ilex Paraguariensis Leaf Extract, Isopropyl Alcohol, Isopropyl Myristate, Juniperus Communis Fruit Extract, Methylsulfonylmethane, Purified Water, Tert-Butyl Alcohol"
+  ],
+  "questions": [
+    "Questions or Comments: 1-800-246-3733"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Label back label"
+  ],
+  "set_id": "00bb462a-27d0-6f74-e063-6394a90a90ec",
+  "id": "51b57ded-2d7c-d540-e063-6394a90a4744",
+  "effective_time": "20260513",
+  "version": "12",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Biofreeze"
+    ],
+    "generic_name": [
+      "MENTHOL"
+    ],
+    "manufacturer_name": [
+      "Reckitt Benckiser LLC"
+    ],
+    "product_ndc": [
+      "59316-833"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MENTHOL"
+    ],
+    "rxcui": [
+      "1489073",
+      "1489074"
+    ],
+    "spl_id": [
+      "51b57ded-2d7c-d540-e063-6394a90a4744"
+    ],
+    "spl_set_id": [
+      "00bb462a-27d0-6f74-e063-6394a90a90ec"
+    ],
+    "package_ndc": [
+      "59316-833-10",
+      "59316-833-20"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

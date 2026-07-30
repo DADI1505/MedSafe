@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "UNBLEMISH Refining Acne Wash SALICYLIC ACID SALICYLIC ACID SALICYLIC ACID BUTYL ACRYLATE/METHYL METHACRYLATE/METHACRYLIC ACID COPOLYMER (18000 MW) CETYL ALCOHOL CITRIC ACID MONOHYDRATE .BETA.-CITRONELLOL, (R)- LEMON OIL, COLD PRESSED COCAMIDOPROPYL BETAINE COCONUT ACID ETHYLHEXYLGLYCERIN GERANIOL GLYCERIN HYDROGENATED POLYBUTENE (1300 MW) LAURIC ACID LAURYL GLUCOSIDE LAVANDIN OIL LIMONENE, (+)- LINALOOL, (+/-)- MYRISTIC ACID PHENOXYETHANOL PHYTOSTERYL/OCTYLDODECYL LAUROYL GLUTAMATE POLYGLYCERYL-3 DIISOSTEARATE POTASSIUM COCOATE POTASSIUM COCOYL GLYCINATE POTASSIUM HYDROXIDE PROPANEDIOL PROPYLENE GLYCOL D&C RED NO. 33 SODIUM CHLORIDE SODIUM COCOYL ISETHIONATE SODIUM ISETHIONATE SULFUR TITANIUM DIOXIDE TOCOPHEROL D&C VIOLET NO. 2 WATER XANTHAN GUM"
+  ],
+  "active_ingredient": [
+    "Active ingredient Salicylic acid 0.5%"
+  ],
+  "purpose": [
+    "Purpose Acne treatment"
+  ],
+  "indications_and_usage": [
+    "Uses for the treatment of acne helps keep skin clear of new acne blemishes, acne pimples, blackheads and whiteheads"
+  ],
+  "warnings": [
+    "Warnings For external use only When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. rinse right away with water if it gets in eyes Stop use and ask a doctor if skin irritation occurs or gets worse Keep out of reach of children. If swallowed, get medical help right away."
+  ],
+  "when_using": [
+    "When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. rinse right away with water if it gets in eyes"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if skin irritation occurs or gets worse"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help right away."
+  ],
+  "dosage_and_administration": [
+    "Directions wet skin with lukewarm water. Using fingertips, apply a thin, even layer and massage over entire face for 30-60 seconds, avoiding all contact with eyes. rinse thoroughly; pat dry because excessive drying of the skin may occur, start with one application daily, then gradually increase to two or three times daily if needed or as directed by a doctor if bothersome dryness or peeling occurs, reduce application to once a day or every other day"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients acrylates copolymer, aqua/water/eau, cetyl alcohol, citric acid, citronellol, citrus limon (lemon) peel oil, cocamidopropyl betaine, coconut acid, ethylhexylglycerin, ext. violet 2 (CI 60730), fragrance/parfum, geraniol, glycerin, hydrogenated polyisobutene, lauric acid, lauryl glucoside, lavandula hybrida oil, limonene, linalool, myristic acid, phenoxyethanol, phytosteryl/octyldodecyl lauroyl glutamate, polyglyceryl-3 diisostearate, potassium cocoate, potassium cocoyl glycinate, potassium hydroxide, propanediol, propylene glycol, red 33 (CI 17200), sodium chloride, sodium cocoyl isethionate, sodium isethionate, sulfur, titanium dioxide (CI 77891), tocopherol, xanthan gum"
+  ],
+  "questions": [
+    "Questions? 1-888-995-5656"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel – 125 mL Carton Label RODAN+FIELDS UNBLEMISH REFINING ACNE WASH Salicylic Acid Cream Wash 125 mL/ 4.2 Fl. Oz. U.S. Figure",
+    "Principal Display Panel – 125 mL Tube Label RODAN+FIELDS UNBLEMISH Refining Acne Wash 1 Figure"
+  ],
+  "set_id": "08922efa-5a90-4dfb-b9f4-a6c4f8dba3c9",
+  "id": "132a70aa-7ab9-4b3f-9e75-612267934dab",
+  "effective_time": "20260331",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "UNBLEMISH Refining Acne Wash"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID"
+    ],
+    "manufacturer_name": [
+      "Rodan & Fields"
+    ],
+    "product_ndc": [
+      "14222-2111"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "865105"
+    ],
+    "spl_id": [
+      "132a70aa-7ab9-4b3f-9e75-612267934dab"
+    ],
+    "spl_set_id": [
+      "08922efa-5a90-4dfb-b9f4-a6c4f8dba3c9"
+    ],
+    "package_ndc": [
+      "14222-2111-1",
+      "14222-2111-2",
+      "14222-2111-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0884164014468"
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

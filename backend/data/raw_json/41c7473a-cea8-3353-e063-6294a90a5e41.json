@@ -1,0 +1,98 @@
+{
+  "spl_product_data_elements": [
+    "Coralite Cold and Hot Menthol MENTHOL MENTHOL STYRENE/ISOPRENE/STYRENE BLOCK COPOLYMER LANOLIN GLYCERYL ROSINATE NATURAL LATEX RUBBER BUTYLATED HYDROXYTOLUENE TITANIUM DIOXIDE ZINC OXIDE POLYISOBUTYLENE (85000 MW) ALUMINUM SILICATE"
+  ],
+  "active_ingredient": [
+    "Active ingredient Purpose Menthol 7.5%...............................................................Topical analgesic"
+  ],
+  "purpose": [
+    "Uses temporarily relieves minor aches and pains of muscles and joints associated with: simple backache arthritis strains bruises sprains"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "do_not_use": [
+    "Do not use on wounds or damaged skin with a heating pad or at the same time with other topical analgesic on a child under 12 years of age with arthritis-like conditions"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have redness over the affected area"
+  ],
+  "when_using": [
+    "When using this product use only as directed avoid contact with eyes or mucous membranes do not bandage tightly discontinue use at least 1 hour before a bath or shower do not use immediately after a bath or shower"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if conditions worsens or symptoms persist for more than 7 days symptoms clear up and occur again within a few days excessive skin irritation occurs"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "indications_and_usage": [
+    "Directions open pouch and remove patch carefully peel off protective backing and apply sticky side to affected area adults and children 12 years of age and older: do not wear patch for more than 8 hours apply to affected area no more than 3 times daily children under 12 years of age: consult a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information store at room temperature 20-25°C (68-77°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients aluminum silicate, butylated hydroxytoluene, glyceryl rosinate, lanolin, natural rubber, polyisobutylene (85000 MW), styrene-isoprene-styrene block copolymer, titanium dioxide, zinc oxide"
+  ],
+  "dosage_and_administration": [
+    "Distributed by: UNITED EXCHANGE CORP. Cypress, CA 90630 USA Made in China"
+  ],
+  "package_label_principal_display_panel": [
+    "90214.1"
+  ],
+  "set_id": "064a6149-a0e2-8a73-e063-6394a90a7953",
+  "id": "41c7473a-cea8-3353-e063-6294a90a5e41",
+  "effective_time": "20251022",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Coralite Cold and Hot"
+    ],
+    "generic_name": [
+      "MENTHOL"
+    ],
+    "manufacturer_name": [
+      "United Exchange Corp."
+    ],
+    "product_ndc": [
+      "65923-214"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MENTHOL"
+    ],
+    "rxcui": [
+      "1010823"
+    ],
+    "spl_id": [
+      "41c7473a-cea8-3353-e063-6294a90a5e41"
+    ],
+    "spl_set_id": [
+      "064a6149-a0e2-8a73-e063-6394a90a7953"
+    ],
+    "package_ndc": [
+      "65923-214-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0780707902141"
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

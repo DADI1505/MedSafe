@@ -1,0 +1,99 @@
+{
+  "spl_product_data_elements": [
+    "Vichy Laboratoires Aqualia Thermal UV Defense Moisturizer Broad Spectrum SPF 30 Sunscreen Avobenzone, Homosalate, Octisalate and Octocrylene AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE WATER GLYCERIN SILICON DIOXIDE DIMETHICONE NIACINAMIDE PEG-100 STEARATE GLYCERYL MONOSTEARATE MANNOSE, D- STEARIC ACID CERAMIDE NP DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (SOFT PARTICLE) SODIUM HYDROXIDE SODIUM PYRROLIDONE CARBOXYLATE MYRISTIC ACID PALMITIC ACID AMMONIUM POLYACRYLOYLDIMETHYL TAURATE (55000 MPA.S) TOCOPHEROL CAPRYLOYL GLYCINE CAPRYLYL GLYCOL TRISODIUM ETHYLENEDIAMINE DISUCCINATE XANTHAN GUM CETYL ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Active ingredients Avobenzone 3% Homosalate 5% Octisalate 5% Octocrylene 7%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin"
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "dosage_and_administration": [
+    "Directions For sunscreen use: ● apply liberally 15 minutes before sun exposure ● reapply at least every 2 hours ● use a water resistant sunscreen if swimming or sweating ● Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: ● limit time in the sun, especially from 10 a.m. – 2 p.m. ● wear long-sleeved shirts, pants, hats, and sunglasses ● children under 6 months of age: Ask a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information protect the product in this container from excessive heat and direct sun"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, glycerin, silica, dimethicone, niacinamide, PEG-100 stearate, glyceryl stearate, mannose, stearic acid, ceramide NP, dimethicone/vinyl dimethicone crosspolymer, sodium hydroxide, sodium PCA, myristic acid, palmitic acid, ammonium polyacryloyldimethyl taurate, tocopherol, capryloyl glycine, caprylyl glycol, trisodium ethylenediamine disuccinate, xanthan gum, cetyl alcohol, fragrance"
+  ],
+  "questions": [
+    "Questions or comments? Call toll free 1-877-378-4249 Monday - Friday (9 a.m. - 5 p.m. EST)"
+  ],
+  "package_label_principal_display_panel": [
+    "image of a carton"
+  ],
+  "set_id": "08bcee1c-399a-4ec8-84cf-b5e83c4fa665",
+  "id": "c44d3a93-b17d-4fc8-b972-87e75cd1d3e8",
+  "effective_time": "20240101",
+  "version": "9",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Vichy Laboratoires Aqualia Thermal UV Defense Moisturizer Broad Spectrum SPF 30 Sunscreen"
+    ],
+    "generic_name": [
+      "AVOBENZONE, HOMOSALATE, OCTISALATE AND OCTOCRYLENE"
+    ],
+    "manufacturer_name": [
+      "L'Oreal USA Products Inc."
+    ],
+    "product_ndc": [
+      "49967-869"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "AVOBENZONE",
+      "HOMOSALATE",
+      "OCTISALATE",
+      "OCTOCRYLENE"
+    ],
+    "spl_id": [
+      "c44d3a93-b17d-4fc8-b972-87e75cd1d3e8"
+    ],
+    "spl_set_id": [
+      "08bcee1c-399a-4ec8-84cf-b5e83c4fa665"
+    ],
+    "package_ndc": [
+      "49967-869-01",
+      "49967-869-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "3337875686983"
+    ],
+    "unii": [
+      "G63QQF2NOX",
+      "V06SV4M95S",
+      "4X49Y0596W",
+      "5A68WGF6WM"
+    ]
+  }
+}

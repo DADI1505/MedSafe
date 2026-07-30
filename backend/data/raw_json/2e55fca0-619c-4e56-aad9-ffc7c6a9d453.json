@@ -1,0 +1,95 @@
+{
+  "spl_product_data_elements": [
+    "LOreal Paris Revitalift Derm Intensives Invisible UV Fluid Broad Spectrum SPF 50 Sunscreen Avobenzone, Homosalate, Octisalate, and Octocrylene Avobenzone Avobenzone Homosalate Homosalate Octisalate Octisalate Octocrylene Octocrylene WATER ALCOHOL GLYCERIN DIMETHICONE BUTYLOCTYL SALICYLATE SILICON DIOXIDE ISONONYL ISONONANOATE ISOPROPYL MYRISTATE CETOSTEARYL ALCOHOL CALCIUM ALUMINUM BOROSILICATE TOCOPHEROL TERT-BUTYL ALCOHOL ASCORBYL GLUCOSIDE HYDROGENATED SOYBEAN LECITHIN SODIUM STEAROYL GLUTAMATE SODIUM DODECYLBENZENESULFONATE PHENOXYETHANOL PHENYLETHYL RESORCINOL ADENOSINE PEG-8 LAURATE POLYETHYLENE GLYCOL 1000 TRISODIUM ETHYLENEDIAMINE DISUCCINATE BETASIZOFIRAN PULLULAN AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER XANTHAN GUM ISOCETYL STEARATE CAPRYLYL GLYCOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE CETEARYL GLUCOSIDE INULIN LAURYL CARBAMATE"
+  ],
+  "active_ingredient": [
+    "Active ingredients Avobenzone 3% Homosalate 15% Octisalate 5% Octocrylene 10%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "safe_handling_warning": [
+    "Flammable until dry. Do not use near fire, flame, or heat."
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin"
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions For sunscreen use: shake well apply liberally 15 minutes before sun exposure reapply at least every 2 hours use a water resistant sunscreen if swimming or sweating Sun Protection Measures . Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. - 2 p.m. wear long-sleeved shirts, pants, hats, and sunglasses children under 6 months of age: Ask a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information protect the product in this container from excessive heat and direct sun"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, alcohol denat., glycerin, styrene/acrylates copolymer dimethicone, butyloctyl salicylate, sodium dodecylbenzenesulfonate, phenoxyethanol, phenylethyl resorcinol, adenosine, PEG-8 laurate, PEG-20, trisodium ethylenediamine disuccinate, sclerotium gum, pullulan, ammonium acryloyldimethyltaurate/vp copolymer, xanthan gum, isocetyl stearate, caprylyl glycol, carbomer, cetearyl glucoside, inulin lauryl carbamate"
+  ],
+  "package_label_principal_display_panel": [
+    "image of a carton"
+  ],
+  "set_id": "02dddfc5-61e6-433b-8d6d-a17bf3fc8ed6",
+  "id": "2e55fca0-619c-4e56-aad9-ffc7c6a9d453",
+  "effective_time": "20241228",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "LOreal Paris Revitalift Derm Intensives Invisible UV Fluid Broad Spectrum SPF 50 Sunscreen"
+    ],
+    "generic_name": [
+      "AVOBENZONE, HOMOSALATE, OCTISALATE, AND OCTOCRYLENE"
+    ],
+    "manufacturer_name": [
+      "L'Oreal USA Products Inc"
+    ],
+    "product_ndc": [
+      "49967-011"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "AVOBENZONE",
+      "HOMOSALATE",
+      "OCTISALATE",
+      "OCTOCRYLENE"
+    ],
+    "spl_id": [
+      "2e55fca0-619c-4e56-aad9-ffc7c6a9d453"
+    ],
+    "spl_set_id": [
+      "02dddfc5-61e6-433b-8d6d-a17bf3fc8ed6"
+    ],
+    "package_ndc": [
+      "49967-011-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "G63QQF2NOX",
+      "V06SV4M95S",
+      "4X49Y0596W",
+      "5A68WGF6WM"
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Germanium Muriaticum Germanium Muriaticum SUCROSE GERMANIUM TETRACHLORIDE GERMANIUM Germanium Muriaticum Germanium Muriaticum SUCROSE GERMANIUM TETRACHLORIDE GERMANIUM Germanium Muriaticum Germanium Muriaticum SUCROSE GERMANIUM TETRACHLORIDE GERMANIUM Germanium Muriaticum Germanium Muriaticum SUCROSE GERMANIUM TETRACHLORIDE GERMANIUM Germanium Muriaticum Germanium Muriaticum SUCROSE GERMANIUM TETRACHLORIDE GERMANIUM Germanium Muriaticum Germanium Muriaticum SUCROSE GERMANIUM TETRACHLORIDE GERMANIUM Germanium Muriaticum Germanium Muriaticum SUCROSE GERMANIUM TETRACHLORIDE GERMANIUM Germanium Muriaticum Germanium Muriaticum SUCROSE GERMANIUM TETRACHLORIDE GERMANIUM"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Germanium Muriaticum 6C 5g Germanium Muriaticum 6C 30g Germanium Muriaticum 6C 100g Germanium Muriaticum 12C 5g Germanium Muriaticum 12C 30g Germanium Muriaticum 12C 100g Germanium Muriaticum 30C 1g Germanium Muriaticum 30C 5g Germanium Muriaticum 30C 30g Germanium Muriaticum 30C 100g Germanium Muriaticum 100C 1g Germanium Muriaticum 100C 5g Germanium Muriaticum 100C 30g Germanium Muriaticum 100C 100g Germanium Muriaticum 200C 1g Germanium Muriaticum 200C 5g Germanium Muriaticum 200C 30g Germanium Muriaticum 200C 100g Germanium Muriaticum 500C 1g Germanium Muriaticum 500C 5g Germanium Muriaticum 500C 30g Germanium Muriaticum 500C 100g Germanium Muriaticum 1M 1g Germanium Muriaticum 1M 5g Germanium Muriaticum 1M 30g Germanium Muriaticum 1M 100g Germanium Muriaticum LM1 30g"
+  ],
+  "set_id": "07526641-587b-e5aa-e063-6294a90a7408",
+  "id": "07526641-587c-e5aa-e063-6294a90a7408",
+  "effective_time": "20231009",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Germanium Muriaticum"
+    ],
+    "generic_name": [
+      "GERMANIUM MURIATICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-4120",
+      "37662-4125",
+      "37662-4121",
+      "37662-4124",
+      "37662-4126",
+      "37662-4123",
+      "37662-4127",
+      "37662-4122"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "GERMANIUM TETRACHLORIDE"
+    ],
+    "spl_id": [
+      "07526641-587c-e5aa-e063-6294a90a7408"
+    ],
+    "spl_set_id": [
+      "07526641-587b-e5aa-e063-6294a90a7408"
+    ],
+    "package_ndc": [
+      "37662-4120-1",
+      "37662-4120-2",
+      "37662-4120-3",
+      "37662-4125-1",
+      "37662-4125-2",
+      "37662-4125-3",
+      "37662-4125-4",
+      "37662-4121-1",
+      "37662-4121-2",
+      "37662-4121-3",
+      "37662-4124-1",
+      "37662-4124-2",
+      "37662-4124-3",
+      "37662-4124-4",
+      "37662-4126-1",
+      "37662-4126-2",
+      "37662-4126-3",
+      "37662-4126-4",
+      "37662-4123-1",
+      "37662-4123-2",
+      "37662-4123-3",
+      "37662-4123-4",
+      "37662-4127-1",
+      "37662-4122-1",
+      "37662-4122-2",
+      "37662-4122-3",
+      "37662-4122-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "YSV1R803C0"
+    ]
+  }
+}

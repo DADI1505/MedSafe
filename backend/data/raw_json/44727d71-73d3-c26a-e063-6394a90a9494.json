@@ -1,0 +1,64 @@
+{
+  "spl_product_data_elements": [
+    "Nitrogen Nitrogen NITROGEN NITROGEN"
+  ],
+  "package_label_principal_display_panel": [
+    "NITROGEN, Refrigerated Liquid UN1977 CAS 7727-37-9 Nitrogen, NF DO NOT CHANGE OR FORCE FIT CONNECTIONS. WARNING: CONTAINS REFRIGERATED GAS; MAY CAUSE CRYOGENIC BURNS OR INJURY. MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION. Do not handle until all safety precautions have been read and understood. Use and store only indoors or in a well-ventilated place. Wear cold insulating gloves, face shield, and eye protection. Use a back flow preventive device in the piping. Close valve after each use and when empty. ALWAYS KEEP CONTAINER IN UPRIGHT POSITION. Read and follow the Safety Data Sheet (SDS) before use. FIRST AID: IF INHALED: Remove to fresh air and keep comfortable for breathing. IF ON SKIN: Thaw frosted parts with lukewarm water. Do not rub affected area. Get immediate medical advice/attention. Rx Only WARNING: Administration of nitrogen may be hazardous or contraindicated. For use only by or under the supervision of a licensed practitioner who is experienced in the use and administration of Nitrogen and is familiar with the indications, effects, dosages, methods, and frequency and duration of administration, and with the hazards, contraindications and side effects, and the precautions to be taken. DO NOT REMOVE THIS LABEL. Mississippi Welders Supply Company Winona, MN 55987 507-454-5231 Contents: ________ (Rev.25 September 2018) liquid nitrogen",
+    "NITROGEN, COMPRESSED,NF UN1066 NON-FLAMMABLE GAS 2 Rx only. WARNING: Administration of Nitrogen may be hazardous or contraindicated. For use only by or under the supervision of a licensed practitioner who is experienced in the use and administration of Nitrogen and is familiar with the indications, effects, dosages, methods, and frequency and duration of administration, and with the hazards, contraindications and side effects, and the precautions to be taken. WARNING: CONTAINS GAS UNDER PRESSURE MAY EXPLODE IF HEATED. MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION. Do not handle until all safety precautions have been read and understood. Use and store only outdoors or in a well-ventilated place. Use a back flow preventive device in the piping. Use only with equipment rated for cylinder pressure. Close valve after each use and when empty. Protect from sunlight when ambient temperature exceeds 52 degrees C (125 degrees F). Read and follow the Safety Data Sheet (SDS) before use. FIRST AID: IF INHALED: Remove person to fresh air and keep comfortable for breathing. Get medical advice/attentions. CAS: 7727-37-9. DO NOT REMOVE THIS PRODUCT LABEL. MISSISSIPPI WELDERS SUPPLY CO., INC. 5150 W 6TH STREET, WINONA, MN 55987 507-454-5231 CONTENTS: LTRS: CU. FT.: nitrogen"
+  ],
+  "set_id": "02b3fd81-4792-4dd6-9efb-1c3d58132a88",
+  "id": "44727d71-73d3-c26a-e063-6394a90a9494",
+  "effective_time": "20251125",
+  "version": "23",
+  "openfda": {
+    "application_number": [
+      "NDA205839"
+    ],
+    "brand_name": [
+      "Nitrogen"
+    ],
+    "generic_name": [
+      "NITROGEN"
+    ],
+    "manufacturer_name": [
+      "Mississippi Welders Supply Company, Inc."
+    ],
+    "product_ndc": [
+      "51996-003"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "RESPIRATORY (INHALATION)"
+    ],
+    "substance_name": [
+      "NITROGEN"
+    ],
+    "rxcui": [
+      "311998"
+    ],
+    "spl_id": [
+      "44727d71-73d3-c26a-e063-6394a90a9494"
+    ],
+    "spl_set_id": [
+      "02b3fd81-4792-4dd6-9efb-1c3d58132a88"
+    ],
+    "package_ndc": [
+      "51996-003-01",
+      "51996-003-02",
+      "51996-003-03",
+      "51996-003-04",
+      "51996-003-05",
+      "51996-003-06",
+      "51996-003-07",
+      "51996-003-08"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "N762921K75"
+    ]
+  }
+}

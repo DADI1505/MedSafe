@@ -1,0 +1,96 @@
+{
+  "spl_product_data_elements": [
+    "DCH Pain Relief Lidocaine 4% CUCUMBER DISODIUM COCOAMPHODIPROPIONATE SILICON DIOXIDE WATER GLYCERIN ALCOHOL PROPYLENE GLYCOL EDETATE DISODIUM TROLAMINE LIDOCAINE LIDOCAINE ALOE VERA LEAF CARBOMER 940 DIAZOLIDINYL UREA .ALPHA.-TOCOPHEROL ACETATE CHAMOMILE"
+  ],
+  "active_ingredient": [
+    "Lidocaine 4%"
+  ],
+  "purpose": [
+    "External Analgesic."
+  ],
+  "dosage_and_administration": [
+    "For the temporary relief of pain and itching due to sunburn, minor burns, insect bites, minor cuts, scrapes, and minor skin irritations."
+  ],
+  "warnings": [
+    "For external use only . Flammable --Do not use while smoking or near heat or flame. Do not use in large quantities, particularly over raw surfaces or blistered areas. When using this product avoid contact with eyes. Rinse eyes with water to remove. Contents under pressure. Do not puncture or incinerate. Do not store at temperature above 120F. Stop use and ask a doctor if the condition worsens or symptoms persist for more than 7 days or clear up and occur again within a few days, irritation develops."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If the product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "indications_and_usage": [
+    "Adults and children 2 years and older: apply to the affected area, not more than 3 to 4 times a day. Children under 2 years of age: consult a physician. To apply to face, squeeze into palm of hand and gently apply."
+  ],
+  "inactive_ingredient": [
+    "Water, Glycerin, Alcohol Denat., Propylene Glycol, Aloe Barbadensis Leaf Extract, Tocopheryl Acetate, Chamomilla Recutita (Matricaria) Flower Extract, Cucumis Sativus (Cucumber) Fruit Extract, Disodium EDTA, Triethanolamine, Diazolidinyl Urea, Simethicone."
+  ],
+  "package_label_principal_display_panel": [
+    "Label"
+  ],
+  "set_id": "00efda74-d434-04be-e063-6294a90a6d98",
+  "id": "29a59dff-e72f-12c1-e063-6294a90a576c",
+  "effective_time": "20241219",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "DCH Pain Relief"
+    ],
+    "generic_name": [
+      "LIDOCAINE 4%"
+    ],
+    "manufacturer_name": [
+      "Derma Care Research Labs, LLC"
+    ],
+    "product_ndc": [
+      "72839-226"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "LIDOCAINE"
+    ],
+    "rxcui": [
+      "1869797"
+    ],
+    "spl_id": [
+      "29a59dff-e72f-12c1-e063-6294a90a576c"
+    ],
+    "spl_set_id": [
+      "00efda74-d434-04be-e063-6294a90a6d98"
+    ],
+    "package_ndc": [
+      "72839-226-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0850009221643"
+    ],
+    "nui": [
+      "N0000175682",
+      "M0000897",
+      "N0000175426",
+      "N0000175976"
+    ],
+    "pharm_class_epc": [
+      "Amide Local Anesthetic [EPC]",
+      "Antiarrhythmic [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Amides [CS]"
+    ],
+    "pharm_class_pe": [
+      "Local Anesthesia [PE]"
+    ],
+    "unii": [
+      "98PI200987"
+    ]
+  }
+}

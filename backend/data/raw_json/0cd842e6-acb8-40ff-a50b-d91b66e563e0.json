@@ -1,0 +1,97 @@
+{
+  "spl_product_data_elements": [
+    "rexall hemorrhoidal cocoa butter, phenylephrine HCl COCOA BUTTER COCOA BUTTER PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE METHYLPARABEN PROPYLPARABEN STARCH, CORN light"
+  ],
+  "active_ingredient": [
+    "Active ingredients (in each suppository) Cocoa butter 88.44% Phenylephrine HCl 0.25%"
+  ],
+  "purpose": [
+    "Purposes Protectant Vasoconstrictor"
+  ],
+  "indications_and_usage": [
+    "Uses • helps relieve the local itching and discomfort associated with hemorrhoids • temporarily relieves burning and shrinks hemorrhoidal tissue • temporarily provides a coating for relief of anorectal discomforts • temporarily protects the inflamed, irritated anorectal surface to help make bowel movements less painful"
+  ],
+  "warnings": [
+    "Warnings For rectal use only Ask a doctor before use if you have • heart disease • high blood pressure • thyroid disease • diabetes • difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use if you are presently taking a prescription drug for high blood pressure or depression. When using this product do not exceed the recommended daily dosage unless directed by a doctor Stop use and ask a doctor if • bleeding occurs • condition worsens or does not improve within 7 days If pregnant or breast feeding, ask a health professional before use."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have • heart disease • high blood pressure • thyroid disease • diabetes • difficulty in urination due to enlargement of the prostate gland"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are presently taking a prescription drug for high blood pressure or depression."
+  ],
+  "when_using": [
+    "When using this product do not exceed the recommended daily dosage unless directed by a doctor"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if • bleeding occurs • condition worsens or does not improve within 7 days"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+  ],
+  "dosage_and_administration": [
+    "Directions • adults: when practical, cleanse the affected area by patting or blotting with an appropriate cleansing wipe. Gently dry by patting or blotting with a tissue or a soft cloth before insertion of this product. • detach one suppository from the strip; remove the foil wrapper before inserting into the rectum as follows: • hold suppository with rounded end up • see illustrations: carefully separate foil tabs by inserting tip of fingernail at end marked “peel down” • slowly and evenly peel apart (do not tear) foil by pulling tabs down both sides, to expose the suppository • remove exposed suppository from wrapper • insert one suppository into the rectum up to 4 times daily, especially at night, in the morning or after each bowel movement • children under 12 years of age: ask a doctor Other information • store at 20-25°C (68-77°F)"
+  ],
+  "storage_and_handling": [
+    "Other information • store at 20-25°C (68-77°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients methylparaben, propylparaben, topical starch"
+  ],
+  "package_label_principal_display_panel": [
+    "Package/Label Principal Display Panel Hemorrhoidal Suppositories Prompt temporary relief from burning, itching and discomfort Reduces internal swelling, soothes and protects Contains 12 Suppositories Hemorrhoidal Suppositories Carton Image 1 Hemorrhoidal Suppositories Carton Image 2"
+  ],
+  "set_id": "0415c51b-5a12-49d4-8968-0131ddb85545",
+  "id": "0cd842e6-acb8-40ff-a50b-d91b66e563e0",
+  "effective_time": "20241023",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M015"
+    ],
+    "brand_name": [
+      "rexall hemorrhoidal"
+    ],
+    "generic_name": [
+      "COCOA BUTTER, PHENYLEPHRINE HCL"
+    ],
+    "manufacturer_name": [
+      "Dolgencorp Inc"
+    ],
+    "product_ndc": [
+      "55910-279"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "RECTAL"
+    ],
+    "substance_name": [
+      "COCOA BUTTER",
+      "PHENYLEPHRINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1438497"
+    ],
+    "spl_id": [
+      "0cd842e6-acb8-40ff-a50b-d91b66e563e0"
+    ],
+    "spl_set_id": [
+      "0415c51b-5a12-49d4-8968-0131ddb85545"
+    ],
+    "package_ndc": [
+      "55910-279-53"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "512OYT1CRR",
+      "04JA59TNSJ"
+    ]
+  }
+}

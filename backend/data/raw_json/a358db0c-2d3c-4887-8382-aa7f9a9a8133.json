@@ -1,0 +1,94 @@
+{
+  "spl_product_data_elements": [
+    "Equate Dry Scalp 2 in 1 Dandruff Anti-Dandruff Pyrithione Zinc Pyrithione Zinc Pyrithione Zinc Water SODIUM LAURETH-3 SULFATE COCO MONOETHANOLAMIDE Sodium Lauryl Sulfate Glycol Distearate Dimethicone ALMOND OIL Cetyl Alcohol POLYQUATERNIUM-10 (30000 MPA.S AT 2%) GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE (1.7 SUBSTITUENTS PER SACCHARIDE) MAGNESIUM SULFATE, UNSPECIFIED FORM Sodium Benzoate Magnesium Carbonate Hydroxide AMMONIUM LAURETH-5 SULFATE Benzyl Alcohol Sodium Chloride Methylchloroisothiazolinone Methylisothiazolinone Sodium Xylenesulfonate CITRIC ACID MONOHYDRATE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Distributed by: Wal-Mart Stores, Inc., Bentonville, AR 72716"
+  ],
+  "active_ingredient": [
+    "Active ingredient Pyrithione Zinc 1%"
+  ],
+  "purpose": [
+    "Purpose Anti-dandruff"
+  ],
+  "indications_and_usage": [
+    "Use helps prevent recurrence of flaking and itching associated with dandruff."
+  ],
+  "warnings": [
+    "Warnings For external use only When using this product avoid contact with the eyes. If contact occurs, rinse eyes thoroughly with water Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "when_using": [
+    "When using this product avoid contact with the eyes. If contact occurs, rinse eyes thoroughly with water"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "dosage_and_administration": [
+    "Directions shake well wet hair massage onto scalp rinse repeat if desired for best results use at least twice a week or as directed by a doctor for maximum dandruff control, use every time you shampoo"
+  ],
+  "storage_and_handling": [
+    "Other information store at room temperature"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, sodium laureth sulfate, cocamide MEA, sodium lauryl sulfate, glycol distearate, dimethicone, fragrance, prunus amygdalus dulcis (sweet almond) oil, cetyl alcohol, polyquaternium-10, guar hydroxypropyltrimonium chloride, magnesium sulfate, sodium benzoate, magnesium carbonate hydroxide, ammonium laureth sulfate, benzyl alcohol, sodium chloride, methylchloroisothiazolinone, methylisothiazolinone, sodium xylenesulfonate, citric acid"
+  ],
+  "questions": [
+    "Satisfaction guaranteed – for questions or comments please call 1-888-287-1915."
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 1 L Bottle Label NDC 49035-256-01 equate ® Compare to Head & Shoulders® Active Ingredient* Dry Scalp 2 in 1 Dandruff Shampoo Plus Conditioner With Pyrithione Zinc With Almond Oil Helps relieve dry, itchy scalp associated with dandruff 33.8 FL OZ (1 L) 05-3708 PRINCIPAL DISPLAY PANEL - 1 L Bottle Label"
+  ],
+  "set_id": "006945c2-12a2-431e-8f59-0a1e57e2646f",
+  "id": "a358db0c-2d3c-4887-8382-aa7f9a9a8133",
+  "effective_time": "20231214",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M032"
+    ],
+    "brand_name": [
+      "Equate Dry Scalp 2 in 1 Dandruff Anti-Dandruff"
+    ],
+    "generic_name": [
+      "PYRITHIONE ZINC"
+    ],
+    "manufacturer_name": [
+      "Wal-Mart Stores, Inc."
+    ],
+    "product_ndc": [
+      "49035-256"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "PYRITHIONE ZINC"
+    ],
+    "rxcui": [
+      "209884"
+    ],
+    "spl_id": [
+      "a358db0c-2d3c-4887-8382-aa7f9a9a8133"
+    ],
+    "spl_set_id": [
+      "006945c2-12a2-431e-8f59-0a1e57e2646f"
+    ],
+    "package_ndc": [
+      "49035-256-01",
+      "49035-256-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "R953O2RHZ5"
+    ]
+  }
+}

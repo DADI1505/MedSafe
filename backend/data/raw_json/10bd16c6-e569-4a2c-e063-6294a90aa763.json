@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "Pain Relieving Petro Carbo Phenol PETROLATUM PARAFFIN ROSIN CAJUPUT OIL PICEA MARIANA LEAF OIL CAMPHOR OIL PHENOL PHENOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "DISTRIBUTED BY J.R. WATKINS, LLC, OAKLAND, CA 94612"
+  ],
+  "active_ingredient": [
+    "Active Ingredient PHENOL 1.5%"
+  ],
+  "purpose": [
+    "Purpose EXTERNAL ANALGESIC"
+  ],
+  "indications_and_usage": [
+    "Uses for temporary relief of pain and itching associated with minor burns minor cuts insect bites minor skin irritations scrapes sunburn eczema poison ivy"
+  ],
+  "warnings": [
+    "Warnings For external use only. Avoid contact with eyes Discontinue use and consult a physician if symptoms worsen persist for more than 7 days clear up the recur within a few days Do not apply over large areas of the body bandage Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center immediately."
+  ],
+  "ask_doctor": [
+    "Discontinue use and consult a physician if symptoms worsen persist for more than 7 days clear up the recur within a few days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions For adults and children 2 years and older: Apply to affected area not more than 3-4 times daily. For children under 2 years of age: Consult a physician."
+  ],
+  "storage_and_handling": [
+    "Other information store away from children at 68-77°F"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Cajeput oil, camphor oil, paraffin, partially hydrogenated rosin, petrolatum, spruce oil"
+  ],
+  "questions": [
+    "Questions or Comments? Call 1-888-384-1945"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 121 g Jar Box PAIN-RELIEVING SALVE ESTD J.R. 1868 WATKINS REMEDIES FOR BODY ® PAIN-RELIEVING SALVE WITH PHENOL FOR MINOR CUTS, BURNS, SKIN IRRITATIONS & SCRAPES PETRO-CARBO FM06613AR3 NET WT. 4.3 OZ (121g) WITH ALL-NATURAL SPRUCE OIL Principal Display Panel - 121 g Jar Box"
+  ],
+  "set_id": "050cf17d-3be7-45b9-8524-ad82af309a0e",
+  "id": "10bd16c6-e569-4a2c-e063-6294a90aa763",
+  "effective_time": "20240206",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Pain Relieving Petro Carbo"
+    ],
+    "generic_name": [
+      "PHENOL"
+    ],
+    "manufacturer_name": [
+      "J.R. Watkins, LLC."
+    ],
+    "product_ndc": [
+      "72342-060"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "PHENOL"
+    ],
+    "rxcui": [
+      "2198796"
+    ],
+    "spl_id": [
+      "10bd16c6-e569-4a2c-e063-6294a90aa763"
+    ],
+    "spl_set_id": [
+      "050cf17d-3be7-45b9-8524-ad82af309a0e"
+    ],
+    "package_ndc": [
+      "72342-060-21"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "339NCG44TV"
+    ]
+  }
+}

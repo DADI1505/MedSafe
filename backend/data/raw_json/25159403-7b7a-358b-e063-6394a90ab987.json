@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "TRADER JOES FACE AND BODY SUNSCREEN SPF 30 AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE GLYCERIN CYCLOMETHICONE 5 ALKYL (C12-15) BENZOATE VINYLPYRROLIDONE/HEXADECENE COPOLYMER PHENOXYETHANOL CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) ETHYLHEXYLGLYCERIN SODIUM BENZOATE SODIUM HYDROXIDE POTASSIUM SORBATE EDETATE DISODIUM ASCORBIC ACID .ALPHA.-TOCOPHEROL ACETATE WATER AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENT AVOBENZONE 3% HOMOSALATE 10% OCTISALATE 5% OCTOCRYLENE 7%"
+  ],
+  "purpose": [
+    "PURPOSE SUNSCREEN"
+  ],
+  "indications_and_usage": [
+    "USES HELPS PREVENT SUNSCREEN IF USED AS DIRECTED WITH OTHER SUN PROTECTION MEASURES (SEE DIRECTIONS), DECREASES THE RISK OF SKIN CANCER AND EARLY SKIN AGING CAUSED BY THE SUN."
+  ],
+  "warnings": [
+    "WARNINGS For external use only. Do not use on damaged or broken skin. When using this product , keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Apply liberally to face and body 15 minutes before sun exposure. Reapply: after 80 minutes of swimming or sweating immediately after towel drying at least every 2 hours. Children under 6 months: ask a doctor. Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF 15 value or higher along with other sun protection measures including: limit time in the sun, especially from 10 a.m. – 2 p.m. wear long sleeved shirts, pants, hats and sunglasses."
+  ],
+  "storage_and_handling": [
+    "OTHER INFORMATION Protect the product in this container from excessive heat and direct sun May stain surfaces and fabrics."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS WATER (AQUA), GLYCERIN, CYCLOPENTASILOXANE, C12-15 ALKYL BENZOATE, VP/HEXADECENE COPOLYMER, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, SODIUM BENZOATE, SODIUM HYDROXIDE, POTASSIUM SORBATE, DISODIUM EDTA, ASCORBIC ACID, TOCOPHERYL ACETATE."
+  ],
+  "questions": [
+    "QUESTIONS OR COMMENTS? 1- 626-599-3700 Monday – Friday 9 AM – 5 PM PST"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging 99200-SPF 30 sunscreen_OUT for NDC Submission"
+  ],
+  "set_id": "057ac99c-60e8-47c1-a32d-984bbd181846",
+  "id": "25159403-7b7a-358b-e063-6394a90ab987",
+  "effective_time": "20241022",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "TRADER JOES FACE AND BODY SUNSCREEN SPF 30"
+    ],
+    "generic_name": [
+      "AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE"
+    ],
+    "manufacturer_name": [
+      "Trader Joe's Company"
+    ],
+    "product_ndc": [
+      "71270-153"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "AVOBENZONE",
+      "HOMOSALATE",
+      "OCTISALATE",
+      "OCTOCRYLENE"
+    ],
+    "spl_id": [
+      "25159403-7b7a-358b-e063-6394a90ab987"
+    ],
+    "spl_set_id": [
+      "057ac99c-60e8-47c1-a32d-984bbd181846"
+    ],
+    "package_ndc": [
+      "71270-153-11"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "G63QQF2NOX",
+      "V06SV4M95S",
+      "4X49Y0596W",
+      "5A68WGF6WM"
+    ]
+  }
+}

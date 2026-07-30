@@ -17,13 +17,13 @@ class Settings(BaseSettings):
     ACCESS_TOKEN_EXPIRE_MINUTES: int = 60  # durée de vie d'un token
 
     # --- RAG / LLM ---
-    GEMINI_API_KEY: str  # clé API pour le LLM de génération
+    GROQ_API_KEY: str  # clé API pour le LLM de génération
     FAISS_INDEX_PATH: str = "data/faiss_index/medsafe.index"  # chemin de l'index vectoriel
-    EMBEDDING_MODEL_NAME: str = "all-MiniLM-L6-v2"  # modèle d'embeddings utilisé
+    EMBEDDING_MODEL_NAME: str = "paraphrase-multilingual-MiniLM-L12-v2"  # modèle d'embeddings utilisé
 
     # --- openFDA ---
     OPENFDA_BASE_URL: str = "https://api.fda.gov/drug/label.json"  # endpoint source
-
+    OPENFDA_API_KEY: str   # optionnelle, fonctionne aussi sans
     # --- CORS ---
     FRONTEND_ORIGIN: str = "http://localhost:3000"  # origine autorisée en dev
 

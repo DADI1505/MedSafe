@@ -1,0 +1,108 @@
+{
+  "spl_product_data_elements": [
+    "First Aid and Burn benzalkonium chloride, lidocaine BENZALKONIUM CHLORIDE BENZALKONIUM LIDOCAINE LIDOCAINE ALOE BARBADENSIS LEAF JUICE CETEARYL ALCOHOL DISODIUM HEDTA ETHYLHEXYLGLYCERIN GLYCERYL STEARATE/PEG-100 STEARATE MALTODEXTRIN MINERAL OIL PHENOXYETHANOL PROPYLENE GLYCOL STEARIC ACID SODIUM HYDROXIDE WATER"
+  ],
+  "active_ingredient": [
+    "Active Ingredients (in each gram): Benzalkonium Chloride 0.13% Lidocaine HCl 0.5%"
+  ],
+  "purpose": [
+    "Purpose: Topical Antiseptic Topical Anesthetic"
+  ],
+  "indications_and_usage": [
+    "Uses: Temporary relief of pain and to help prevent infection in minor cuts scrapes burns"
+  ],
+  "warnings": [
+    "Warnings: For external use only. See a doctor immediately for serious burns"
+  ],
+  "do_not_use": [
+    "Do not use: in or near the eyes over large portions of the body in large quantities particularly over raw surfaces or blistered areas longer than 7 days unless directed by a doctor more than 1 to 3 times daily"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have serious burns animal bites deep or puncture wounds"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition lasts for more than 7 days condition worsens symptoms clear up and occur again within a few days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed get medical help or contact a Poison Control Center right away. 1-800-222-1222"
+  ],
+  "dosage_and_administration": [
+    "Directions: do not use more than directed Adults and children 2 years of age and over: clean the affected area apply small amount of this product (an amount equal to the surface area of the tip of a finger) on the area 1 to 3 times daily may be covered with a sterile bandage Children under 2 years of age: ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: aloe barbadensis leaf juice, cetearyl alcohol, disodium EDTA, ethylhexylglycerin, glycerin, glyceryl stearate/PEG-100 stearate, maltodextrin, mineral oil, phenoxyethanol, propylene glycol, purified water, stearic acid, sodium hydroxide."
+  ],
+  "package_label_principal_display_panel": [
+    "5391 First aid-Burn cream H&B v24f-Small.jpg HB 0351 First Aid & Burn Cream Unit v25Small_Jpeg.jpg HB 0350 First Aid & Burn Cream Unit 10 per v25_Small_Jpeg.jpg"
+  ],
+  "set_id": "07d447f1-469c-4e34-b807-ede9a449e6ab",
+  "id": "98a02c61-1ac2-4788-93e9-a3b574960c9e",
+  "effective_time": "20260415",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M"
+    ],
+    "brand_name": [
+      "First Aid and Burn"
+    ],
+    "generic_name": [
+      "BENZALKONIUM CHLORIDE, LIDOCAINE"
+    ],
+    "manufacturer_name": [
+      "HART Health"
+    ],
+    "product_ndc": [
+      "50332-0091"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZALKONIUM CHLORIDE",
+      "LIDOCAINE"
+    ],
+    "rxcui": [
+      "1012100"
+    ],
+    "spl_id": [
+      "98a02c61-1ac2-4788-93e9-a3b574960c9e"
+    ],
+    "spl_set_id": [
+      "07d447f1-469c-4e34-b807-ede9a449e6ab"
+    ],
+    "package_ndc": [
+      "50332-0091-2",
+      "50332-0091-1",
+      "50332-0091-6",
+      "50332-0091-4",
+      "50332-0091-9"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175682",
+      "M0000897",
+      "N0000175426",
+      "N0000175976"
+    ],
+    "pharm_class_epc": [
+      "Amide Local Anesthetic [EPC]",
+      "Antiarrhythmic [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Amides [CS]"
+    ],
+    "pharm_class_pe": [
+      "Local Anesthesia [PE]"
+    ],
+    "unii": [
+      "F5UM2KM3W7",
+      "98PI200987"
+    ]
+  }
+}

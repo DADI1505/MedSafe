@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "Degree Extreme Blast 48H Antiperspirant Deodorant EUGENOL LINALOOL, (+/-)- MINERAL OIL HYDROGENATED CASTOR OIL ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY CYCLOMETHICONE 5 BUTYLATED HYDROXYTOLUENE PEG-8 DISTEARATE TALC ISOPROPYL PALMITATE PPG-14 BUTYL ETHER STEARYL ALCOHOL .BETA.-CITRONELLOL, (R)- BENZYL ALCOHOL .ALPHA.-HEXYLCINNAMALDEHYDE GERANIOL BENZYL SALICYLATE LIMONENE, (+)- ISOMETHYL-.ALPHA.-IONONE"
+  ],
+  "description": [
+    "DEGREE EXTREME BLAST 48H ANTIPERSPIRANT DEODORANT - aluminum zirconium tetrachlorohydrex gly stick"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient Aluminum Zirconium Tetrachlorohydrex GLY (18.2 %)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses reduces underarm wetness"
+  ],
+  "warnings": [
+    "Warnings • For external use only • Do not use on broken skin • Stop use if rash or irritation occurs • Ask a doctor before use if you have kidney disease ."
+  ],
+  "keep_out_of_reach_of_children": [
+    "• Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply to underarms only"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Stearyl Alcohol, PPG-14 Butyl Ether, Cyclopentasiloxane, Isopropyl Palmitate, Mineral Oil, Talc, Hydrogenated Castor Oil, PEG-8 Distearate, Fragrance (Parfum), BHT, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Salicylate, Citronellol, Eugenol, Geraniol, Hexyl Cinnamal, Limonene, Linalool"
+  ],
+  "questions": [
+    "Questions? Call 1-866-334-7331"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Degree Extreme Blast AP Deo IS"
+  ],
+  "set_id": "05513822-4672-cdf6-e063-6294a90a113a",
+  "id": "264b55da-4e3b-b0ce-e063-6294a90a39b0",
+  "effective_time": "20241106",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Degree"
+    ],
+    "generic_name": [
+      "EXTREME BLAST 48H ANTIPERSPIRANT DEODORANT"
+    ],
+    "manufacturer_name": [
+      "Conopco Inc. d/b/a/ Unilever"
+    ],
+    "product_ndc": [
+      "64942-2213"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY"
+    ],
+    "spl_id": [
+      "264b55da-4e3b-b0ce-e063-6294a90a39b0"
+    ],
+    "spl_set_id": [
+      "05513822-4672-cdf6-e063-6294a90a113a"
+    ],
+    "package_ndc": [
+      "64942-2213-1",
+      "64942-2213-2",
+      "64942-2213-4",
+      "64942-2213-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8O386558JE"
+    ]
+  }
+}

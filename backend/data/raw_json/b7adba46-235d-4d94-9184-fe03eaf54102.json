@@ -1,0 +1,95 @@
+{
+  "spl_product_data_elements": [
+    "T-Relief Extra Strength CALENDULA OFFICINALIS FLOWERING TOP, MATRICARIA RECUTITA, HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK, ACHILLEA MILLEFOLIUM, RUTA GRAVEOLENS FLOWERING TOP, COMFREY ROOT, ACONITUM NAPELLUS, ECHINACEA, UNSPECIFIED, BAPTISIA TINCTORIA ROOT, ATROPA BELLADONNA, ARNICA MONTANA, BELLIS PERENNIS and HYPERICUM PERFORATUM CALENDULA OFFICINALIS FLOWERING TOP CALENDULA OFFICINALIS FLOWERING TOP MATRICARIA RECUTITA MATRICARIA CHAMOMILLA HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK ACHILLEA MILLEFOLIUM ACHILLEA MILLEFOLIUM RUTA GRAVEOLENS FLOWERING TOP RUTA GRAVEOLENS FLOWERING TOP COMFREY ROOT COMFREY ROOT ACONITUM NAPELLUS ACONITUM NAPELLUS ECHINACEA, UNSPECIFIED ECHINACEA, UNSPECIFIED BAPTISIA TINCTORIA ROOT BAPTISIA TINCTORIA ROOT ATROPA BELLADONNA ATROPA BELLADONNA ARNICA MONTANA ARNICA MONTANA BELLIS PERENNIS BELLIS PERENNIS HYPERICUM PERFORATUM HYPERICUM PERFORATUM WATER ALCOHOL"
+  ],
+  "warnings": [
+    "WARNINGS If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If symptoms persist or worsen, a health professional should be consulted . Do not use if known sensitivity to T-Relief TM or any of its ingredients exists."
+  ],
+  "indications_and_usage": [
+    "USES Uses For the temporary relief of minor: Muscular Pain, Joint Pain, Back Pain, Nerve Pain and Arthritis Pain."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN If symptoms persist or worsen, a health professional should be consulted ."
+  ],
+  "purpose": [
+    "PURPOSE Relieves • Joint Pain • Back Pain • Muscular Pain"
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 12 years and older: 10 drops every 4 hours either under the tongue for MAX absorption or add to a cup of water and drink. Not exceed 60 drops per 24 hours. For children under 12 years: Consult your health professional."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Ethanol, Purified water"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS Each 50mL contains: *Arnica montana 3X 42%, Wild-Harvested Baptisia tinctoria 2X 9%, *Aconitum napellus 3X 7.5%, *Symphytum officinale 8X 7.5%, Organic Millefolium 2X 6%, *Ruta graveolens 3X 4%, *Arnica montana 4X 3.6%, *Arnica montana 8X 3.6%, *Bellis perennis 2X 3%, Organic Calendula officinalis 2X 3%, Organic Echinacea 2X 3%, *Hamamelis virginiana 2X 3%, *Hypericum perforatum 3X 3%, *Belladonna 3X 0.9%, Organic Chamomilla 2X 0.9%"
+  ],
+  "package_label_principal_display_panel": [
+    "T-Relief Extra Strength.jpg"
+  ],
+  "set_id": "01804104-32c2-4011-a2e4-0f4e74bd974d",
+  "id": "b7adba46-235d-4d94-9184-fe03eaf54102",
+  "effective_time": "20230928",
+  "version": "4",
+  "openfda": {
+    "brand_name": [
+      "T-Relief Extra Strength"
+    ],
+    "generic_name": [
+      "CALENDULA OFFICINALIS FLOWERING TOP, MATRICARIA RECUTITA, HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK, ACHILLEA MILLEFOLIUM, RUTA GRAVEOLENS FLOWERING TOP, COMFREY ROOT, ACONITUM NAPELLUS, ECHINACEA, UNSPECIFIED, BAPTISIA TINCTORIA ROOT, ATROPA BELLADONNA, ARNICA MONTANA, BELLIS PERENNIS AND HYPERICUM PERFORATUM"
+    ],
+    "manufacturer_name": [
+      "MediNatura Inc"
+    ],
+    "product_ndc": [
+      "62795-2010"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CALENDULA OFFICINALIS FLOWERING TOP",
+      "MATRICARIA RECUTITA",
+      "HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK",
+      "ACHILLEA MILLEFOLIUM",
+      "RUTA GRAVEOLENS FLOWERING TOP",
+      "COMFREY ROOT",
+      "ACONITUM NAPELLUS",
+      "ECHINACEA, UNSPECIFIED",
+      "BAPTISIA TINCTORIA ROOT",
+      "ATROPA BELLADONNA",
+      "ARNICA MONTANA",
+      "BELLIS PERENNIS",
+      "HYPERICUM PERFORATUM"
+    ],
+    "spl_id": [
+      "b7adba46-235d-4d94-9184-fe03eaf54102"
+    ],
+    "spl_set_id": [
+      "01804104-32c2-4011-a2e4-0f4e74bd974d"
+    ],
+    "package_ndc": [
+      "62795-2010-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "18E7415PXQ",
+      "G0R4UBI2ZZ",
+      "T7S323PKJS",
+      "2FXJ6SW4PK",
+      "N94C2U587S",
+      "M9VVZ08EKQ",
+      "U0NQ8555JD",
+      "4N9P6CC1DX",
+      "5EF0HWI5WU",
+      "WQZ3G9PF0H",
+      "O80TY208ZW",
+      "2HU33I03UY",
+      "XK4IUX8MNB"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "spl_product_data_elements": [
+    "Mckesson Hand Cleanse and Soothe with Aloe Chloroxylenol WATER SODIUM LAURETH SULFATE ISOPROPYL ALCOHOL LAURIC DIETHANOLAMIDE SODIUM CHLORIDE STYRENE/ACRYLAMIDE COPOLYMER (MW 500000) EDETATE DISODIUM DMDM HYDANTOIN IODOPROPYNYL BUTYLCARBAMATE SODIUM HYDROXIDE GLYCERETH-26 ALOE VERA LEAF FD&C YELLOW NO. 5 FD&C BLUE NO. 1 CHLOROXYLENOL CHLOROXYLENOL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Purpose Chloroxylenol (PCMX) 0.95% ................................. Antimicrobial"
+  ],
+  "purpose": [
+    "Uses an effective antimicrobial hand cleanser. kills and inhibits bacterial growth on hands. gentle cleansers leave hands clean and moisturized. reduces the possibility of cross-contamination."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "indications_and_usage": [
+    "McKesson Antimicrobial Lotion Soap With Aloe | Herbal Scent"
+  ],
+  "dosage_and_administration": [
+    "Directions Use as you would any liquid hand soap. Wet hands with water, then apply small amount of product to palm. Rub hands together vigorously for at least 15 seconds. Rinse and dry thoroughly."
+  ],
+  "warnings": [
+    "Warnings For external use only. When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Discontinue use if irritation occurs."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Aloe Barbadensis Leaf Juice, Blue 1, Cocamidopropyl Hydroxysultaine, Disodium EDTA, Ethylhexylglycerin, Fragrance, Glycereth-26, Isopropyl Alcohol, Phenoxyethanol, Sodium Chloride, Sodium Hydroxide, Sodium Laureth Sulfate, Styrene/Acrylates Copolymer, Water, Yellow 5"
+  ],
+  "package_label_principal_display_panel": [
+    "label 1 image label 2 image label 3 image label 4 image label 5 image"
+  ],
+  "set_id": "075cd889-948a-49dd-8927-e22f7a5bff99",
+  "id": "2424a55c-bc9e-7509-e063-6394a90a5552",
+  "effective_time": "20241010",
+  "version": "8",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Mckesson Hand Cleanse and Soothe with Aloe"
+    ],
+    "generic_name": [
+      "CHLOROXYLENOL"
+    ],
+    "manufacturer_name": [
+      "Mckesson Medical-Surgical Inc."
+    ],
+    "product_ndc": [
+      "68599-5204"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CHLOROXYLENOL"
+    ],
+    "spl_id": [
+      "2424a55c-bc9e-7509-e063-6394a90a5552"
+    ],
+    "spl_set_id": [
+      "075cd889-948a-49dd-8927-e22f7a5bff99"
+    ],
+    "package_ndc": [
+      "68599-5204-1",
+      "68599-5204-2",
+      "68599-5204-3",
+      "68599-5204-4",
+      "68599-5204-5"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "0F32U78V2Q"
+    ]
+  }
+}

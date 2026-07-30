@@ -1,0 +1,104 @@
+{
+  "spl_product_data_elements": [
+    "anti-diarrheal LOPERAMIDE HYDROCHLORIDE BUTYLATED HYDROXYANISOLE FD&C BLUE NO. 1 GELATIN GLYCERIN GLYCERYL CAPRYLATE POLYOXYL 40 HYDROGENATED CASTOR OIL WATER LOPERAMIDE HYDROCHLORIDE LOPERAMIDE LP2"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each capsule) Loperamide HCl 2 mg"
+  ],
+  "purpose": [
+    "Purpose Anti-diarrheal"
+  ],
+  "indications_and_usage": [
+    "Use controls symptoms of diarrhea, including Travelers' Diarrhea"
+  ],
+  "warnings": [
+    "Warnings Allergy alert: Do not use if you have ever had a rash or other allergic reaction to loperamide HCl Heart alert: Taking more than directed can cause serious heart problems or death"
+  ],
+  "do_not_use": [
+    "Do not use if you have bloody or black stool in children under 12 years of age"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have fever mucus in the stool a history of liver disease a history of abnormal heart rhythm"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking a prescription drug. Loperamide may interact with certain prescription drugs."
+  ],
+  "when_using": [
+    "When using this product tiredness, drowsiness, or dizziness may occur. Be careful when driving or operating machinery."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if symptoms get worse diarrhea lasts for more than 2 days you get abdominal swelling or bulging. These may be signs of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions drink plenty of clear fluids to help prevent dehydration caused by diarrhea. not for use in children under 12 years of age adults and children 12 years and over: 2 softgels after the first loose stool; 1 softgel after each subsequent loose stool; but no more than 4 softgels in 24 hours"
+  ],
+  "other_safety_information": [
+    "Other information store at 20°-25°C (68°-77°F). Protect from Light. avoid excessive heat above 40°C (104°F) do not use if carton or blister unit is open or torn see side panel for lot number and expiration date"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients butylated hydroxyanisole, edible ink, FD&C Blue #1, gelatin, glycerin, glyceryl caprylate, polyoxyl 40 hydrogenated castor oil, purified water"
+  ],
+  "questions": [
+    "Questions or comments? call toll free 1-888-235-2466 (Mon - Fri 9AM - 5PM EST)"
+  ],
+  "spl_unclassified_section": [
+    "THIS PRODUCT IS PACKAGED IN A CHILD-RESISTANT AND TAMPER EVIDENT PACKAGE. USE ONLY IF BLISTERS ARE INTACT. KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION . *This product is not manufactured or distrbuted by the owners of Imodium ®A-D DISTRIBUTED BY: AMAZON.COM SERVICES LLC 410 TERRY AVENUE N. SEATTLE, WA 98109 © 2024 AMAZON.COM, INC. OR ITS AFFILIATES. ALL RIGHTS RESERVED. WWW.AMAZON.COM/AMAZONBSICS R0925 L0001156 Lot # Expiration Date"
+  ],
+  "package_label_principal_display_panel": [
+    "Carton amazon basics Anti-Diarrheal NDC 72288-313-12 Compare to Imodium ®A-D* active ingredient* Loperamide Hydrochloride Capsules, 2 mg Anti-Diarrheal Controls the symptoms of diarrhea Suitable for Adults and Children 12 Years and Over 24 Softgels** **soft gelatin liquid-filled capsules each softgel contains 2 mg loperamide HCl image001"
+  ],
+  "set_id": "04a35525-ae8e-b41e-e063-6294a90ab10e",
+  "id": "4fe731b6-0352-f925-e063-6394a90a4171",
+  "effective_time": "20260420",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "NDA021855"
+    ],
+    "brand_name": [
+      "anti-diarrheal"
+    ],
+    "generic_name": [
+      "LOPERAMIDE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Amazon.com Services LLC"
+    ],
+    "product_ndc": [
+      "72288-313"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LOPERAMIDE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "978006"
+    ],
+    "spl_id": [
+      "4fe731b6-0352-f925-e063-6394a90a4171"
+    ],
+    "spl_set_id": [
+      "04a35525-ae8e-b41e-e063-6294a90ab10e"
+    ],
+    "package_ndc": [
+      "72288-313-12"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "77TI35393C"
+    ]
+  }
+}

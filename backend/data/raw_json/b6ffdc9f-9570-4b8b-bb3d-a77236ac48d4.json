@@ -1,0 +1,96 @@
+{
+  "spl_product_data_elements": [
+    "Uterine Formula 2105 Uterine Formula LINDERA AGGREGATA ROOT LINDERA AGGREGATA ROOT VITEX NEGUNDO FRUIT VITEX NEGUNDO FRUIT ACONITUM CARMICHAELI LATERAL ROOT ACONITUM CARMICHAELI LATERAL ROOT CINNAMOMUM CASSIA TWIG CINNAMOMUM CASSIA TWIG CROCUS SATIVUS FLOWER CROCUS SATIVUS FLOWER PHELLODENDRON CHINENSIS BARK PHELLODENDRON CHINENSIS BARK CRASSOSTREA GIGAS SHELL CRASSOSTREA GIGAS SHELL VISCUM ALBUM FRUITING TOP VISCUM ALBUM FRUITING TOP ASTRAGALUS PROPINQUUS ROOT ASTRAGALUS PROPINQUUS ROOT ALCOHOL WATER"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS Wu-Yao 1X Zi-Hua-Ti-Ting 1X Fu-Tzu 3X Gui-Zhi 3X Hong-Hua 3X Huang-Bo 3X Mu-Li 3X Sang-Ji-Sheng 3X Huang-Qi 6X"
+  ],
+  "questions": [
+    "QUESTIONS Professional Formulas PO Box 2034 Lake Oswego, OR 97035"
+  ],
+  "indications_and_usage": [
+    "INDICATIONS For the temporary relief of painful or heavy menses, abdominal cramping, or aches in back or legs.*"
+  ],
+  "purpose": [
+    "*Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS Severe or persistent symptoms may be serious. Consult a doctor promptly. Keep out of the reach of children. In case of overdose, get medical help or contact a poison control center right away. If pregnant or breastfeeding, ask a healthcare professional before use. Keep out of the reach of children. If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take 10 drops up to 3 times per day. Consult a physician for use in children under 12 years of age."
+  ],
+  "other_safety_information": [
+    "OTHER INFORMATION Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS 20% ethanol, purified water."
+  ],
+  "package_label_principal_display_panel": [
+    "LABEL Est 1985 Professional Formulas Complementary Health Uterine Formula Homeopathic Remedy 2 FL. OZ. (59 mL) Label image"
+  ],
+  "set_id": "0416d627-6ac8-4fcc-8f54-797ddfcaf3e7",
+  "id": "b6ffdc9f-9570-4b8b-bb3d-a77236ac48d4",
+  "effective_time": "20260108",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Uterine Formula 2105"
+    ],
+    "generic_name": [
+      "UTERINE FORMULA"
+    ],
+    "manufacturer_name": [
+      "Professional Complementary Health Formulas"
+    ],
+    "product_ndc": [
+      "63083-2105"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LINDERA AGGREGATA ROOT",
+      "VITEX NEGUNDO FRUIT",
+      "ACONITUM CARMICHAELI LATERAL ROOT",
+      "CINNAMOMUM CASSIA TWIG",
+      "CROCUS SATIVUS FLOWER",
+      "PHELLODENDRON CHINENSIS BARK",
+      "CRASSOSTREA GIGAS SHELL",
+      "VISCUM ALBUM FRUITING TOP",
+      "ASTRAGALUS PROPINQUUS ROOT"
+    ],
+    "spl_id": [
+      "b6ffdc9f-9570-4b8b-bb3d-a77236ac48d4"
+    ],
+    "spl_set_id": [
+      "0416d627-6ac8-4fcc-8f54-797ddfcaf3e7"
+    ],
+    "package_ndc": [
+      "63083-2105-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "517Q7XRT2T",
+      "WR2NH7PU9S",
+      "2A9PW94VJX",
+      "4UD6VQR2UP",
+      "00IF91KFKQ",
+      "2866QMZ434",
+      "5I0R0U8ZL0",
+      "BK9092J5MP",
+      "922OP8YUPF"
+    ]
+  }
+}

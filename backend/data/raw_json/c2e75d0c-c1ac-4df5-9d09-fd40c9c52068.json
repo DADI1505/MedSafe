@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Vital Age Defiance Human Growth Hormone, Hypophysis Suis, Hepar Suis SOMATROPIN SOMATROPIN SUS SCROFA PITUITARY GLAND SUS SCROFA PITUITARY GLAND PORK LIVER PORK LIVER WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: (in each spray) 40% of Human growth hormone 30X (2 Parts), Hypophysis suis 30X (2 Parts); 20% of Hepar suis 6X (1 Part)."
+  ],
+  "purpose": [
+    "USES: May temporarily relieve these symptoms due to aging and/or a run-down condition: low energy lack of vigor occasional sleeplessness.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS: Do not use if you have ever had an allergic reaction to this product or any of its ingredients. Stop use and ask a doctor if symptoms persist for more than 7 days, worsen, or if new symptoms occur. Keep out of reach of children. In case of overdose, get medical help or call a Poison Control Center right away. If pregnant or breast feeding, ask a doctor before use. Other information: Store at room temperature."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. In case of overdose, get medical help or call a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Adults only: Spray twice under the tongue three times a day."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: May temporarily relieve these symptoms due to aging and/or a run-down condition: low energy lack of vigor occasional sleeplessness.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Organic alcohol 30% v/v, Purified water"
+  ],
+  "questions": [
+    "QUESTIONS: DIST. BY LIDDELL LABORATORIES, INC. 201 APPLE BLVD. WOODBINE, IA 51579 WWW.LIDDELL.NET 1-800-460-7733"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: DOCTOR FORMULATED VITAL AGE DEFIANCE May help restore youthful energy and improve sleep. Readily absorbed. Safe. No known side effects. Easy to use. HOMEOPATHIC FAST ACTING ORAL SPRAY LIDDELL 1.0 FL. OZ (30 ml) Vital Age Defiance lbl Vital Age Defiance ctn"
+  ],
+  "set_id": "03505282-dba7-4f3a-910a-4058d7beb4c5",
+  "id": "c2e75d0c-c1ac-4df5-9d09-fd40c9c52068",
+  "effective_time": "20240701",
+  "version": "8",
+  "openfda": {
+    "brand_name": [
+      "Vital Age Defiance"
+    ],
+    "generic_name": [
+      "HUMAN GROWTH HORMONE, HYPOPHYSIS SUIS, HEPAR SUIS"
+    ],
+    "manufacturer_name": [
+      "Liddell Laboratories, Inc."
+    ],
+    "product_ndc": [
+      "50845-0199"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SOMATROPIN",
+      "SUS SCROFA PITUITARY GLAND",
+      "PORK LIVER"
+    ],
+    "spl_id": [
+      "c2e75d0c-c1ac-4df5-9d09-fd40c9c52068"
+    ],
+    "spl_set_id": [
+      "03505282-dba7-4f3a-910a-4058d7beb4c5"
+    ],
+    "package_ndc": [
+      "50845-0199-1",
+      "50845-0199-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0363113216967"
+    ],
+    "nui": [
+      "N0000175606",
+      "M0028842"
+    ],
+    "pharm_class_epc": [
+      "Recombinant Human Growth Hormone [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Human Growth Hormone [CS]"
+    ],
+    "unii": [
+      "NQX9KB6PCL",
+      "L0PFEMQ1DT",
+      "6EC706HI7F"
+    ]
+  }
+}

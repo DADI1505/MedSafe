@@ -1,0 +1,98 @@
+{
+  "spl_product_data_elements": [
+    "Wonderbelly Extra Strength Anti-Gas Simethicone DIMETHICONE DIMETHICONE CALCIUM CARBONATE TRIBASIC CALCIUM PHOSPHATE STARCH, CORN DIBASIC CALCIUM PHOSPHATE DIHYDRATE MAGNESIUM STEARATE SUCROSE Shortcake Rounded Corners W;201"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each tablet) Simethicone 125 mg"
+  ],
+  "purpose": [
+    "Purpose Anti-Gas"
+  ],
+  "indications_and_usage": [
+    "Uses relieves pressure bloating fullness commonly referred to as gas"
+  ],
+  "warnings": [
+    "Warnings If pregnant or breast-feeding, ask a health professsional before use. Keep out of reach of children."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professsional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions chew or crush tablets completely before swallowing. Do not swallow tablets whole. adults and children 12 years of age and older: chew 1-2 tablets as symptoms occur, or as directed by a doctor. do not take more than 4 tablets in a 24-hour period except under the advice and supervision of a doctor."
+  ],
+  "other_safety_information": [
+    "Other information each tablet contains: calcium 244 mg Store at 20-25°C (68-77°F) and keep container tightly closed do not use if safety seal on carton printed with \"SEALED FOR YOUR SAFETY\" is torn or missing read and keep outer carton for full warnings and directions"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients calcium carbonate, calcium phosphate, corn starch, natural flavors, sucrose, vegetable magnesium stearate"
+  ],
+  "questions": [
+    "Questions or comments? Call 1-512551-9770"
+  ],
+  "spl_unclassified_section": [
+    "Distributed by: Ginger Health Company Austin, Texas 78702"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel CLEAN MEDICINE No Dyes, No Artificial Sweeteners, Non-GMO,No Talc, No Titanium Dioxide WONDERBELLY BLOAT + GAS RELIEF Simethicone 125 mg | Anti-gas Fast & Tasty Relief of Bloating Gas Discomfort Abdominal Pressure STRAWBERRY SHORTCAKE Flavor 42 Chewable Tablets | EXTRA STRENGTH LABEL"
+  ],
+  "set_id": "05b84059-1e50-20e0-e063-6394a90a3d87",
+  "id": "297b38fb-3702-df73-e063-6294a90add94",
+  "effective_time": "20250201",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M002"
+    ],
+    "brand_name": [
+      "Wonderbelly Extra Strength Anti-Gas"
+    ],
+    "generic_name": [
+      "SIMETHICONE"
+    ],
+    "manufacturer_name": [
+      "Ginger Health Company"
+    ],
+    "product_ndc": [
+      "82431-201"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIMETHICONE"
+    ],
+    "rxcui": [
+      "314221"
+    ],
+    "spl_id": [
+      "297b38fb-3702-df73-e063-6294a90add94"
+    ],
+    "spl_set_id": [
+      "05b84059-1e50-20e0-e063-6394a90a3d87"
+    ],
+    "package_ndc": [
+      "82431-201-02",
+      "82431-201-10",
+      "82431-201-35",
+      "82431-201-42"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000010282"
+    ],
+    "pharm_class_pe": [
+      "Skin Barrier Activity [PE]"
+    ],
+    "unii": [
+      "92RU3N3Y1O"
+    ]
+  }
+}

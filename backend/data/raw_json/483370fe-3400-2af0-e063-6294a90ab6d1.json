@@ -1,0 +1,110 @@
+{
+  "spl_product_data_elements": [
+    "ECZEMA HAND RELIEF COLLOIDAL OATMEAL CERAMIDE 1 MACADAMIA SEED OIL GLYCERETH-8 ESTERS PHYTOSTERYL MACADAMIATE ACEGLUTAMIDE PHENYLPROPANOL LACTIC ACID PHYMATOLITHON CALCAREUM WATER POLYGLYCERYL-2 STEARATE STEARYL ALCOHOL GLYCERYL MONOSTEARATE PHENOXYETHANOL POTASSIUM SORBATE SODIUM CITRATE LECITHIN, SOYBEAN HEXAPEPTIDE-11 TOCOPHEROL CAPRYLYL GLYCOL GLYCERIN SUNFLOWER OIL CHERIMOYA SUNFLOWER SEED TRISODIUM ETHYLENEDIAMINE DISUCCINATE ALLANTOIN ROSEMARY PROPANEDIOL PENTYLENE GLYCOL SODIUM DEHYDROACETATE FOLIC ACID HYALURONATE SODIUM SODIUM LAUROYL LACTYLATE SODIUM BENZOATE CERAMIDE AP PHYTOSPHINGOSINE CHOLESTEROL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE SHEA BUTTER MEDIUM-CHAIN TRIGLYCERIDES SQUALENE OATMEAL OATMEAL HELIANTHUS ANNUUS SEED WAX ETHYLHEXYLGLYCERIN CITRIC ACID MONOHYDRATE AMYLOPECTIN, UNSPECIFIED SOURCE CAPRYLYL CAPRYLATE/CAPRATE RICE GERM XANTHAN GUM COCONUT OIL JOJOBA OIL CERAMIDE NP"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENT Colloidal Oatmeal 1%"
+  ],
+  "indications_and_usage": [
+    "USES Temporarily protects and helps relieve minor skin irritations and itching due to rashes or eczema."
+  ],
+  "purpose": [
+    "PURPOSE Skin protectant"
+  ],
+  "warnings": [
+    "WARNINGS For external use only. When using this product avoid contact with eyes. if contact occurs, rinse thoroughly with water."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN If swallowed get medical help or contact a poison control center right away."
+  ],
+  "stop_use": [
+    "STOP USE AND ASK A DOCTOR IF condition worsens symptoms last more than 7 days or clear up and occur again within a few days"
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Apply as needed to hands."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Water/Eau/Aqua, Vegetable Oil/Huile Végétale, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Butyrospermum Parkii (Shea) Butter, Polyglyceryl-2 Stearate, Stearyl Alcohol, Glyceryl Stearate, Caprylic/Capric Triglyceride, Caprylyl Caprylate/Caprate, Jojoba Oil/Macadamia Seed Oil Esters, Annona Cherimola Fruit Extract, Helianthus Annuus (Sunflower) Seed Wax, Oryza Sativa (Rice) Bran Extract, Cocos Nucifera (Coconut) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Squalene, Helianthus Annuus (Sunflower) Extract, Allantoin, Tocopherol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Phytosteryl Macadamiate, Amylopectin, Phytosterols, Lecithin, Acetyl Glutamine, Lithothamnion Calcareum Extract, Folic Acid, Bacillus/Soybean Ferment Extract, Oligopeptide-3, Sodium Hyaluronate, Oligopeptide-2, Oligopeptide-1, Hexapeptide-11, Lactic Acid, Ceramide NP, Ceramide AP, Phytosphingosine, Cholesterol, Ceramide EOP, Xanthan Gum, Potassium Sorbate, Trisodium Ethylenediamine Disuccinate, Citric Acid, Ethylhexylglycerin, Sodium Citrate, Propanediol, Pentylene Glycol, Phenylpropanol, Sodium Dehydroacetate, Caprylyl Glycol, Sodium Lauroyl Lactylate, Sodium Benzoate, Carbomer, Phenoxyethanol"
+  ],
+  "questions": [
+    "QUESTIONS? 1.866.927.2783"
+  ],
+  "package_label_principal_display_panel": [
+    "",
+    "Hand Relief"
+  ],
+  "set_id": "0389bab7-04fb-7cfc-e063-6394a90a22d8",
+  "id": "483370fe-3400-2af0-e063-6294a90ab6d1",
+  "effective_time": "20260112",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "ECZEMA HAND RELIEF"
+    ],
+    "generic_name": [
+      "COLLOIDAL OATMEAL"
+    ],
+    "manufacturer_name": [
+      "Skinfix, Inc."
+    ],
+    "product_ndc": [
+      "61328-010"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OATMEAL"
+    ],
+    "rxcui": [
+      "240651"
+    ],
+    "spl_id": [
+      "483370fe-3400-2af0-e063-6294a90ab6d1"
+    ],
+    "spl_set_id": [
+      "0389bab7-04fb-7cfc-e063-6394a90a22d8"
+    ],
+    "package_ndc": [
+      "61328-010-00"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0661430004589"
+    ],
+    "nui": [
+      "N0000185371",
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "M0006342",
+      "M0016962",
+      "N0000185016"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Food Allergenic Extract [EPC]",
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Dietary Proteins [CS]",
+      "Plant Proteins [CS]"
+    ],
+    "unii": [
+      "8PI54V663Y"
+    ]
+  }
+}

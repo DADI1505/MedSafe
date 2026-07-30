@@ -1,0 +1,78 @@
+{
+  "spl_product_data_elements": [
+    "Nitrogen Nitrogen NITROGEN NITROGEN"
+  ],
+  "package_label_principal_display_panel": [
+    "NITROGEN, COMPRESSED NF UN1066 Rx only. WARNING: Administration of Nitrogen may be hazardous or contraindicated. For use only by or under the supervision of a licensed practitioner who is experienced in the use and administration of Nitrogen and is familiar with the indications, effects, dosages, methods, and frequency and duration of administration, and with the hazards, contraindications and side effects, and the precautions to be taken. WARNING: CONTAINS GAS UNDER PRESSURE; MAY EXPLODE IF HEATED. MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION. Do not handle until all safety precautions have been read and understood. Use and store only outdoors or in a well-ventilated place. Use a back flow preventive device in the piping. Use only with equipment rated for cylinder pressure. Close valve after each use and when empty. Protect from sunlight when ambient temperature exceeds 52 C (125 F). Read and follow the Safety Data Sheet (SDS) before use. FIRST AID: IF INHALED: Remove person to fresh air and keep comfortable for breathing. Get medical advice/attention. CAS: 7727-37-9 DO NOT REMOVE THIS PRODUCT LABEL. Westair (866) WestAir 2505 Congress Street, San Diego, CA 92110 www.westairgases.com nitrogen one",
+    "Nitrogen, Refrigerated Liquid NF UN1977 ALWAYS KEEP CONTAINER IN UPRIGHT POSITION WARNING: Rx only. Administration of Nitrogen may be hazardous or contraindicated. For use only by or under the supervision of a licensed practitioner who is experienced in the use and administration of Nitrogen and is familiar with the indications, effects, dosages, methods, and frequency and duration of administration, and with the hazards, contraindications and side effects, and the precautions to be taken. WARNING: CONTAINS REFRIGERATED GAS; MAY CAUSE CRYOGENIC BURNS OR INJURY. MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION. Do not handle until all safety precautions have been read and understood. Use and store only outdoors or in a well-ventilated place. Wear cold insulating gloves, face shield, and eye protection. Use a back flow preventive device in the piping. DO NOT change or force fit connections. Close valve after each use and when empty. Always keep container in upright position. Read and follow the Safety Data Sheet (SDS) before use. FIRST AID: IF INHALED: Remove person to fresh air and keep comfortable for breathing. IF ON SKIN: Thaw frosted parts with lukewarm water. Do not rub affected area. Get immediate medical advice/attention. DO NOT REMOVE THIS LABEL. CAS: 7727-37-9 Westair (866) WestAir 2505 Congress Street, San Diego, CA 92110 www.westairgases.com nitrogen two"
+  ],
+  "set_id": "0268620b-4e8b-4b62-a768-688b477e0171",
+  "id": "4487ca09-1ab2-1181-e063-6394a90a4d46",
+  "effective_time": "20251126",
+  "version": "17",
+  "openfda": {
+    "application_number": [
+      "NDA205766"
+    ],
+    "brand_name": [
+      "Nitrogen"
+    ],
+    "generic_name": [
+      "NITROGEN"
+    ],
+    "manufacturer_name": [
+      "Westair Gases & Equipment, Inc."
+    ],
+    "product_ndc": [
+      "53440-002"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "RESPIRATORY (INHALATION)"
+    ],
+    "substance_name": [
+      "NITROGEN"
+    ],
+    "rxcui": [
+      "347021"
+    ],
+    "spl_id": [
+      "4487ca09-1ab2-1181-e063-6394a90a4d46"
+    ],
+    "spl_set_id": [
+      "0268620b-4e8b-4b62-a768-688b477e0171"
+    ],
+    "package_ndc": [
+      "53440-002-01",
+      "53440-002-02",
+      "53440-002-03",
+      "53440-002-04",
+      "53440-002-05",
+      "53440-002-06",
+      "53440-002-07",
+      "53440-002-08",
+      "53440-002-09",
+      "53440-002-10",
+      "53440-002-11",
+      "53440-002-12",
+      "53440-002-13",
+      "53440-002-14",
+      "53440-002-15",
+      "53440-002-16",
+      "53440-002-17",
+      "53440-002-18",
+      "53440-002-19",
+      "53440-002-20",
+      "53440-002-21",
+      "53440-002-22"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "N762921K75"
+    ]
+  }
+}

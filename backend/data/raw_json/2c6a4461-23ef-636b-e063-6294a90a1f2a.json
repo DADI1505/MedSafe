@@ -1,0 +1,91 @@
+{
+  "spl_product_data_elements": [
+    "Baby XtraCare Oatmeal Dimethicone WATER PETROLATUM MINERAL OIL GLYCERIN GLYCERYL MONOSTEARATE PROPYLENE GLYCOL PEG-100 STEARATE POLYACRYLAMIDE (10000 MW) CETYL ALCOHOL AVENA SATIVA WHOLE DMDM HYDANTOIN STEARYL ALCOHOL C13-14 ISOPARAFFIN LAURETH-7 EDETATE DISODIUM ALOE VERA LEAF METHYLPARABEN PROPYLPARABEN DIMETHICONE DIMETHICONE"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Purpose Dimethicone 1.2% ............................ Skin Protectant"
+  ],
+  "purpose": [
+    "Use Help prevent and temporarily protects chafed, chapped, or cracked skin."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "indications_and_usage": [
+    "Baby XtraCare® Oatmeal Daily Moisturizing Lotion Lightly Scented Dimethicon Skin Protectant with Natural Oat Extract Helps Soothe & Soften Baby's Skin 12 FL OZ (354 mL)"
+  ],
+  "dosage_and_administration": [
+    "Directions Apply liberally as often as needed."
+  ],
+  "warnings": [
+    "Warnings For extenal use only. When using this product avoid contact with eyes. In case of eye contact, flush with water. Stop use and ask a doctor if condition worsens. Symptoms last more than 7days or clear up and occur again within a few days."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients water, petrolatum, mineral oil, glycerin, glyceryl stearate, propylene glycol, PEG-100 stearate, polyacrylamide, cetyl alcohol, avena sativa (oatmeal) kernel extract, fragrance, DMDM hydantoin, stearyl alcohol, c13-14 isoparaffin, laureth-7, disodium EDTA, aloe barbadensis leaf juice, methylparaben, propylparaben."
+  ],
+  "other_safety_information": [
+    "Other Information Store at room temperature. Questions/Comments? 1-855-345-5575 DISTRIBUTED BY REJOICE INTERNATIONAL INC NORTHVILLE, MI 48168 U.S.A. MADE IN CHINA"
+  ],
+  "package_label_principal_display_panel": [
+    "8oz label image 12oz label image"
+  ],
+  "set_id": "0049462b-ff31-440f-9244-b61153625bca",
+  "id": "2c6a4461-23ef-636b-e063-6294a90a1f2a",
+  "effective_time": "20250123",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Baby XtraCare Oatmeal"
+    ],
+    "generic_name": [
+      "DIMETHICONE"
+    ],
+    "manufacturer_name": [
+      "Rejoice International"
+    ],
+    "product_ndc": [
+      "57337-070"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "DIMETHICONE"
+    ],
+    "rxcui": [
+      "876980"
+    ],
+    "spl_id": [
+      "2c6a4461-23ef-636b-e063-6294a90a1f2a"
+    ],
+    "spl_set_id": [
+      "0049462b-ff31-440f-9244-b61153625bca"
+    ],
+    "package_ndc": [
+      "57337-070-01",
+      "57337-070-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0849607058317",
+      "0849607058348"
+    ],
+    "nui": [
+      "N0000010282"
+    ],
+    "pharm_class_pe": [
+      "Skin Barrier Activity [PE]"
+    ],
+    "unii": [
+      "92RU3N3Y1O"
+    ]
+  }
+}

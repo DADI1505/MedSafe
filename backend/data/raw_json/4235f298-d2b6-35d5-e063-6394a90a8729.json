@@ -1,0 +1,101 @@
+{
+  "spl_product_data_elements": [
+    "PUBLIX Calcium Polycarbophil SODIUM LAURYL SULFATE CALCIUM POLYCARBOPHIL POLYCARBOPHIL CALCIUM CARBONATE CARAMEL CROSPOVIDONE, UNSPECIFIED HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MALTODEXTRIN MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED SILICON DIOXIDE RP120"
+  ],
+  "active_ingredient": [
+    "Drug Fats Active Ingredient (in each caplet) Calcium polycarbophil 625 mg equivalent to 500 mg polycarbophil"
+  ],
+  "purpose": [
+    "PURPOSE Bulk-forming laxative"
+  ],
+  "indications_and_usage": [
+    "USES relieves occasional constipation to help restore and maintain regularity this product generally produces bowel movement in 12 to 72 hours"
+  ],
+  "warnings": [
+    "Choking Warning: Taking this product without adequate fluid may cause it to swell and block your throat or esophagus and may cause choking. Do not take this product if you have difficulty in swallowing. If you experience chest pain, vomiting, or difficulty in swallowing or breathing after taking this product, seek immediate medical attention. Ask a doctor before use if you have abdominal pain, nausea, or vomiting a sudden change in bowel habits that persists over a period of 2 weeks Ask your doctor or pharmacist before use if you are taking any other drug. Take this product 2 or more hours before or after other drugs. All laxatives may affect how other drugs work. When using this product do not use for more than 7 days unless directed by a doctor do not take more than 8 tablets in a 24 hour period unless directed by a doctor Stop use and ask a doctor if rectal bleeding occurs or if you fail to have a bowel movement after use of this or any other laxative. These could be signs of a serious condition. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away at 1-800-222-1222."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have abdominal pain, nausea, or vomiting a sudden change in bowel habits that persists over a period of 2 weeks"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask your doctor or pharmacist before use if you are taking any other drug. Take this product 2 or more hours before or after other drugs. All laxatives may affect how other drugs work."
+  ],
+  "when_using": [
+    "When using this product do not use for more than 7 days unless directed by a doctor do not take more than 8 tablets in a 24 hour period unless directed by a doctor"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rectal bleeding occurs or if you fail to have a bowel movement after use of this or any other laxative. These could be signs of a serious condition."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "overdosage": [
+    "In case of overdose, get medical help or contact a Poison Control Center right away at 1-800-222-1222."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS take each dose of this product with at least 8 ounces (a full glass) of water or other fluid. Taking this product without enough liquid may cause choking. (See choking warning). this product works naturally so continued use for one to three days is normally required to provide full benefit. Dosage may vary according to diet, exercise, previous laxative use or severity of constipation. Age Recommended dose Daily maximum adults & children 12 years of age and over 2 caplets once a day up to 4 times a day children under 12 years consult a physician"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"100%\" styleCode=\"Noautorules\"><col width=\"33%\"/><col width=\"33%\"/><col width=\"33%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Age</content></paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Recommended dose</content></paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Daily maximum</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>adults &amp; children 12 years of age and over</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>2 caplets once a day</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>up to 4 times a day</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>children under 12 years</paragraph></td><td colspan=\"2\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>consult a physician</paragraph></td></tr></tbody></table>"
+  ],
+  "spl_unclassified_section": [
+    "OTHER INFORMATION each caplet contains: calcium 125 mg store at room temperature protect contents from moisture DO NOT USE IF PRINTED SEAL UNDER CAP IS TORN OR MISSING"
+  ],
+  "inactive_ingredient": [
+    "calcium carbonate, caramel color, crospovidone, hypromellose, magnesium stearate, maltodextrin, microcrystalline cellulose, polyethylene glycol, silicon dioxide, sodium lauryl sulfate."
+  ],
+  "questions": [
+    "Questions or Comments? 1-866-467-2748"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL NDC# 41415-021-90 *COMPARE TO THE ACTIVE INGREDIENTS FIBERCON ® Caplets Fiber Caplets CALCIUM POLYCARBOPHIL 625 mg BULK-FORMING FIBER LAXATIVE Gentle Relief of Constipation Won’t Cause Gas or Bloating 90 CAPLETS DISTRIBUTED BY: PUBLIX SUPAER MARKETS, INC., 3300 PUBLIX CORPORATE PARKWAY, LAKELAND, FL 33811 1-888-267-3037 publix.com PUBLIX GUARANTEE: COMPLETE SATISFACTION OR YOUR MONEY BACK *This product is not manufactured or distributed by Pfizer Inc., owner of the registered trademark Fibercon ® Caplets. Publix Fiber Caplets Calcium Oolycarbophil"
+  ],
+  "set_id": "02e3f4ce-8961-425c-98a9-3b9d66709ca5",
+  "id": "4235f298-d2b6-35d5-e063-6394a90a8729",
+  "effective_time": "20251028",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "M007"
+    ],
+    "brand_name": [
+      "PUBLIX"
+    ],
+    "generic_name": [
+      "CALCIUM POLYCARBOPHIL"
+    ],
+    "manufacturer_name": [
+      "PUBLIX SUPER MARKETS, INC"
+    ],
+    "product_ndc": [
+      "41415-021"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CALCIUM POLYCARBOPHIL"
+    ],
+    "rxcui": [
+      "308934"
+    ],
+    "spl_id": [
+      "4235f298-d2b6-35d5-e063-6394a90a8729"
+    ],
+    "spl_set_id": [
+      "02e3f4ce-8961-425c-98a9-3b9d66709ca5"
+    ],
+    "package_ndc": [
+      "41415-021-90"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8F049NKY49"
+    ]
+  }
+}

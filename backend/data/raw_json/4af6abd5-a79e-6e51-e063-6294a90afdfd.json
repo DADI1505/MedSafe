@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "Diaper Rash Zinc oxide STARCH, CORN GLYCERIN SORBITAN SESQUIOLEATE YELLOW WAX .ALPHA.-TOCOPHEROL ACETATE ZINC OXIDE ZINC OXIDE PETROLATUM COD LIVER OIL LANOLIN"
+  ],
+  "active_ingredient": [
+    "Active ingredient Zinc oxide 40%"
+  ],
+  "purpose": [
+    "Purpose Skin protectant"
+  ],
+  "indications_and_usage": [
+    "Uses helps treat and prevent diaper rash protects chafed skin due to diaper rash and helps seal out wetness"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "when_using": [
+    "When using this product do not get into eyes"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions change wet and soiled diapers promptly cleanse the diaper area allow to dry apply ointment liberally as often as necessary, with each diaper change, especially at bedtime or anytime when exposure to wet diapers may be prolonged"
+  ],
+  "storage_and_handling": [
+    "Other information store between 20⁰ and 25⁰C (68⁰ and 77⁰F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients petrolatum, cod liver oil, lanolin, Zea mays (corn) starch, glycerin, sorbitan sesquioleate, beeswax, tocopheryl acetate, fragrance"
+  ],
+  "adverse_reactions": [
+    "Adverse Reactions DISTRIBUTED BY UNFI, PROVIDENCE, RI 02908 USA 855-423-2630"
+  ],
+  "spl_unclassified_section": [
+    "Disclaimer *Maximum strength zinc oxide diaper rash oinment available under the product monograph. **This product is not manufactured or distributed by Johnson & Johnson Consumer Products Company, distributor of Destin ® Maximum Strength Diaper Rash Paste."
+  ],
+  "package_label_principal_display_panel": [
+    "Principal display panel Baby basics Compare to Desitin Maximum Strength Diaper Rash Paste active ingredient* Zinc Oxide Diaper Rash Ointment Skin Protectant Helps Promote Healting Protects chafed skin Hypoallergenic NET WT 4 OZ (113 g) image description",
+    "Principal display panel NDC 41163-020-26 COMPARE TO Destin ® Maximum Strength Diaper Rash Paste** Pediatrician Tested EQUALINE ® diaper rash ointment 40% zinc oxide skin protectant maximum strength* helps heal, soothe and prevent diaper rash hypoallergenic NET WT 4OZ (113 g) image description"
+  ],
+  "set_id": "014d0028-486e-4f1c-a14f-8162e393ebca",
+  "id": "4af6abd5-a79e-6e51-e063-6294a90afdfd",
+  "effective_time": "20260216",
+  "version": "18",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Diaper Rash"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "United Natural Foods, Inc. dba UNFI"
+    ],
+    "product_ndc": [
+      "41163-020"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "rxcui": [
+      "244638"
+    ],
+    "spl_id": [
+      "4af6abd5-a79e-6e51-e063-6294a90afdfd"
+    ],
+    "spl_set_id": [
+      "014d0028-486e-4f1c-a14f-8162e393ebca"
+    ],
+    "package_ndc": [
+      "41163-020-26"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

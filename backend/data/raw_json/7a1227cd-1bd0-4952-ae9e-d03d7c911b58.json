@@ -1,0 +1,94 @@
+{
+  "spl_product_data_elements": [
+    "CLENZIDERM PORE THERAPY ACNE TREATMENT SALICYLIC ACID SALICYLIC ACID SALICYLIC ACID ALCOHOL DIETHYLENE GLYCOL MONOETHYL ETHER BENZYL ALCOHOL 3-((L-MENTHYL)OXY)PROPANE-1,2-DIOL CHAMOMILE GLYCERIN MENTHOL, UNSPECIFIED FORM MENTHYL LACTATE, (-)- EXT. D&C VIOLET NO. 2 WATER"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Distributed by Obagi Cosmeceuticals LLC, Long Beach, CA 90806"
+  ],
+  "active_ingredient": [
+    "Active ingredient Salicylic acid 2%"
+  ],
+  "purpose": [
+    "Purpose Acne treatment"
+  ],
+  "indications_and_usage": [
+    "Uses for the treatment of acne dries up acne pimples helps prevent new acne pimples"
+  ],
+  "warnings": [
+    "Warnings For external use only When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. Stop use and ask a doctor if irritation becomes severe. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if irritation becomes severe."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Cleanse the skin thoroughly before applying this product. Shake product well before use. Cover the entire affected area with a thin layer one to three times daily. Because excessive drying of the skin may occur, start with one application daily, then gradually increase to two or three times daily if needed or as directed by a doctor. If bothersome dryness or peeling occurs, reduce application to once a day or every other day."
+  ],
+  "storage_and_handling": [
+    "Other information store away from heat and direct sunlight store at controlled room temperature: 15°–25°C (59°–77°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients benzyl alcohol, chamomilla recutita (matricaria) flower extract, ethoxydiglycol, ext. violet 2, fragrance, glycerin, menthol, menthoxypropanediol, menthyl lactate, SD alcohol 40-B, water (aqua)"
+  ],
+  "questions": [
+    "Questions or comments? 1.800.636.7546 Monday–Friday 9a.m.–4p.m. Pacific Time"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 148 mL Bottle Label OBAGI ® MEDICAL CLENZIderm M.D.™ Pore Therapy Salicylic Acid 2% Acne Treatment 5 fl. oz. (148 mL) Principal Display Panel - 148 mL Bottle Label"
+  ],
+  "set_id": "08c1a55e-a376-4cd6-896f-0ad2068a1fc0",
+  "id": "7a1227cd-1bd0-4952-ae9e-d03d7c911b58",
+  "effective_time": "20250101",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "CLENZIDERM PORE THERAPY ACNE TREATMENT"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID"
+    ],
+    "manufacturer_name": [
+      "Obagi Cosmeceuticals LLC"
+    ],
+    "product_ndc": [
+      "62032-612"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "251577",
+      "1235208"
+    ],
+    "spl_id": [
+      "7a1227cd-1bd0-4952-ae9e-d03d7c911b58"
+    ],
+    "spl_set_id": [
+      "08c1a55e-a376-4cd6-896f-0ad2068a1fc0"
+    ],
+    "package_ndc": [
+      "62032-612-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

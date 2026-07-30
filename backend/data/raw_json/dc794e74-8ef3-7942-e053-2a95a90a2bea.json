@@ -1,0 +1,97 @@
+{
+  "spl_product_data_elements": [
+    "Calendula Cream Calendula officinalis GLYCERIN CETOSTEARYL ALCOHOL CALENDULA OFFICINALIS FLOWERING TOP CALENDULA OFFICINALIS FLOWERING TOP WATER ROSE OIL Arnica Cream Arnica montana ARNICA MONTANA ARNICA MONTANA CALENDULA OFFICINALIS FLOWERING TOP CALENDULA OFFICINALIS FLOWERING TOP CETOSTEARYL ALCOHOL GLYCERIN WATER"
+  ],
+  "active_ingredient": [
+    "Active ingredients Calendula officinalis (Marigold) Aerial Parts MT 5.0%",
+    "Active ingredients This preparation contains: Arnica montana (Mountain arnica) Aerial Parts MT 5.0% Calendula officinalis (Marigold) Aerial Parts MT 2.0%"
+  ],
+  "purpose": [
+    "Uses For the temporary relief of symptoms associated with minor cuts and burns",
+    "Uses For the temporary relief of symptoms associated with minor sprains and bruises."
+  ],
+  "warnings": [
+    "Warnings For external use only. Stop use and ask a doctor if symptoms persist or worsen. If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+    "Warnings For external use only. Do not use on irritated skin if excessive irritation develops When using this product, avoid getting into eyes or mucous membranes. Stop use and ask a doctor if symptoms persist or worsen. If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children.",
+    "Keep out of reach of children."
+  ],
+  "overdosage": [
+    "If swallowed, get medical help or contact a Poison Control Center right away.",
+    "If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Cetostearyl alcohol, glycerin, purified water, rose oil",
+    "Inactive ingredients Cetostearyl alcohol, glycerin, purified water"
+  ],
+  "other_safety_information": [
+    "Other information Do not use if inner seal is missing or broken. Store in a cool, dry place. Contents may not fill package in order to accommodate required labeling. Please rely on stated quantity",
+    "Other information Do not use if inner seal is missing or broken. Store in a cool, dry place."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults: Apply a small amount on the affected area two to three times daily, or as recommended by your healthcare practitioner. Children: Use under the direction of your healthcare practitioner.",
+    "Directions Adults: Apply a small amount on the affected area two to three times daily, or as recommended by your healthcare practitioner. Children: Use under the direction of your healthcare practitioner."
+  ],
+  "indications_and_usage": [
+    "Uses For the temporary relief of symptoms associated with minor cuts and burns Directions Adults: Apply a small amount on the affected area two to three times daily, or as recommended by your healthcare practitioner. Children: Use under the direction of your healthcare practitioner.",
+    "Uses For the temporary relief of symptoms associated with minor sprains and bruises. Directions Adults: Apply a small amount on the affected area two to three times daily, or as recommended by your healthcare practitioner. Children: Use under the direction of your healthcare practitioner."
+  ],
+  "package_label_principal_display_panel": [
+    "NDC 62106-1177-0 UNDA topicals CALENDULA CREAM Homeopathic Preparation For the temporary relief of symptoms associated with minor cuts and burns. Net Weight 1.4 oz (40 g) 62106-1177-0",
+    "NDC 62106-1180-0 UNDA topicals ARNICA CREAM Homeopathic Preparation For the temporary relief of symptoms associated with minor sprains and bruises. Net Weight 1.4 oz. (40 g) Arnica Cream"
+  ],
+  "set_id": "079c4f1c-836d-1113-e054-00144ff8d46c",
+  "id": "dc794e74-8ef3-7942-e053-2a95a90a2bea",
+  "effective_time": "20220412",
+  "version": "11",
+  "openfda": {
+    "brand_name": [
+      "Calendula Cream",
+      "Arnica Cream"
+    ],
+    "generic_name": [
+      "CALENDULA OFFICINALIS",
+      "ARNICA MONTANA"
+    ],
+    "manufacturer_name": [
+      "Seroyal USA"
+    ],
+    "product_ndc": [
+      "62106-1177",
+      "62106-1180"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CALENDULA OFFICINALIS FLOWERING TOP",
+      "ARNICA MONTANA"
+    ],
+    "spl_id": [
+      "dc794e74-8ef3-7942-e053-2a95a90a2bea"
+    ],
+    "spl_set_id": [
+      "079c4f1c-836d-1113-e054-00144ff8d46c"
+    ],
+    "package_ndc": [
+      "62106-1177-0",
+      "62106-1180-0"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0883196316403",
+      "0883196316304"
+    ],
+    "unii": [
+      "O80TY208ZW",
+      "18E7415PXQ"
+    ]
+  }
+}

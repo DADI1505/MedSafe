@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Hand Sanitizer Orange Blossom Ethyl Alcohol WATER ISOPROPYL ALCOHOL GLYCERIN SUNFLOWER OIL ROSEMARY ALCOHOL ALCOHOL TRIETHYL CITRATE"
+  ],
+  "active_ingredient": [
+    "Active ingredient Purpose Ethyl Alcohol 62% Antiseptic"
+  ],
+  "purpose": [
+    "Uses ■ to help reduce bacteria on the skin."
+  ],
+  "warnings": [
+    "For external use only. Flammable. Keep away from fire or flame."
+  ],
+  "when_using": [
+    "When using this product avoid contact with eyes. If eye contact occurs, rinse with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if skin irritation or redness develops."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children . In case of accidental ingestion, seek medical help or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions ■ apply 1 to 2 sprays on hands and rub together until dry"
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "storage_and_handling": [
+    "Do not store above 104F (40C)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, isopropyl alcohol, fragrance (natural)*, glycerin, helianthus annuus (sunflower) seed oil, rosmarinus officinalis (rosemary) leaf extract, triethyl citrate."
+  ],
+  "questions": [
+    "Questions, Comments? ■ customer.questions@wholefoods.com ■ 1-844-936-8255"
+  ],
+  "package_label_principal_display_panel": [
+    "OBHS2DF OBHS2F"
+  ],
+  "set_id": "07436407-7a15-7cee-e063-6294a90a9651",
+  "id": "25f9071b-2013-ed04-e063-6394a90aa5ce",
+  "effective_time": "20241102",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Hand Sanitizer Orange Blossom"
+    ],
+    "generic_name": [
+      "ETHYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Whole Foods Market, Inc."
+    ],
+    "product_ndc": [
+      "42681-0007"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "1020364"
+    ],
+    "spl_id": [
+      "25f9071b-2013-ed04-e063-6394a90aa5ce"
+    ],
+    "spl_set_id": [
+      "07436407-7a15-7cee-e063-6294a90a9651"
+    ],
+    "package_ndc": [
+      "42681-0007-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0099482461584"
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

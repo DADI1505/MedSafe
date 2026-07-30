@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "Smart Care COCONUT BREEZE HAND SANITIZER Ethyl Alcohol ALCOHOL ALCOHOL ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER (60000 MPA.S) ALOE VERA LEAF AMINOMETHYLPROPANOL FD&C BLUE NO. 1 DENATONIUM BENZOATE GLYCERIN POLYOXYL 40 HYDROGENATED CASTOR OIL D&C RED NO. 33 .ALPHA.-TOCOPHEROL ACETATE WATER FD&C YELLOW NO. 5"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "MADE IN CHINA Kills up to 99.9% of common germs. Effective at killing 99.9% of Escherichia coli, Staphylococcus aureus under laboratory settings. SmartCare ​® ​ SMARTCAREUS.COM 1-909-434-0911 INTERNATIONAL COPYRIGHTS AND TRADEMARKS GRANTED OR PENDING WORLDWIDE DISTRIBUTED BY ASHTEL STUDIOS INC. ONTARIO, CALIFORNIA 91761"
+  ],
+  "active_ingredient": [
+    "Active ingredient Ethyl Alcohol 70% v/v"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Uses Decreases bacteria on skin."
+  ],
+  "warnings": [
+    "Warnings For external use only Flammable, keep away from fire or flame. Do not use • If you are allergic to any of the ingredients. When using this product • Do not get into eyes. If contact occurs, rinse thoroughly with water. Stop use and ask a doctor • If irritation or rash develops and continues for more than 72 hours.​​ Keep out of reach of children. If swallowed, call Poison Help at 1-800-222-1222 or go to PoisonHelp.org."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, call Poison Help at 1-800-222-1222 or go to PoisonHelp.org."
+  ],
+  "dosage_and_administration": [
+    "Directions • Adults and children 6 years and older Spray onto hands and rub them together until dry. Recommended for repeated use. • Children under 6 years of age Should be supervised when using this product."
+  ],
+  "storage_and_handling": [
+    "Other information • Store between 15-30°C (59-86°F) • Avoid freezing and excessive heat above 40°C (104°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aloe Barbadensis Gel, Aminomethyl Propanol, Blue 1, Denatonium Benzoate, Fragrance, Glycerin, PEG-40 Hydrogenated Castor Oil, Red 33, Tocopheryl Acetate, Water, Yellow 5"
+  ],
+  "questions": [
+    "Questions or comments? Call toll free 1-877-274-8358"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Smart Care COCONUT BREEZE HAND SANITIZER"
+  ],
+  "set_id": "062fc0fd-a501-411c-baff-0ad4c23cae3e",
+  "id": "e3d340e8-5a14-4c6e-89bd-5d1a203615c4",
+  "effective_time": "20260113",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Smart Care COCONUT BREEZE HAND SANITIZER"
+    ],
+    "generic_name": [
+      "ETHYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Ashtel Studios, Inc."
+    ],
+    "product_ndc": [
+      "70108-285"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "1041849"
+    ],
+    "spl_id": [
+      "e3d340e8-5a14-4c6e-89bd-5d1a203615c4"
+    ],
+    "spl_set_id": [
+      "062fc0fd-a501-411c-baff-0ad4c23cae3e"
+    ],
+    "package_ndc": [
+      "70108-285-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0810147889761"
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

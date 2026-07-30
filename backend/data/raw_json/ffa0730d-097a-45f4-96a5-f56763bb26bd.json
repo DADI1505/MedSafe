@@ -1,0 +1,110 @@
+{
+  "spl_product_data_elements": [
+    "La Roche Posay Laboratoire Dermatologique Cicaplast Defense B5 Glycerin GLYCERIN GLYCERIN WATER DIMETHICONE PANTHENOL PENTYLENE GLYCOL C30-45 ALKYL METHICONE POLYBUTENE (1400 MW) SODIUM CITRATE PEG/PPG-18/18 DIMETHICONE CITRIC ACID MONOHYDRATE DIMETHICONOL (2000 CST) POLYSORBATE 20 MADECASSOSIDE CAPRYLYL GLYCOL HYALURONATE SODIUM ZINC GLUCONATE COPPER GLUCONATE MANGANESE GLUCONATE TOCOPHEROL"
+  ],
+  "active_ingredient": [
+    "Active ingredient Glycerin 21%"
+  ],
+  "purpose": [
+    "Purpose Skin protectant"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily protects and helps relieve chapped or cracked skin"
+  ],
+  "warnings": [
+    "Warnings F or external use only"
+  ],
+  "do_not_use": [
+    "Do not use on deep or puncture wounds animal bites serious burns"
+  ],
+  "when_using": [
+    "When using this product do not get into eyes"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply as needed"
+  ],
+  "storage_and_handling": [
+    "Other information ● store at room temperature"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, dimethicone, panthenol, pentylene glycol, c30-45 alkyl dimethicone, polybutene, sodium citrate, PEG/PPG-18/18 dimethicone, citric acid, dimethiconol, polysorbate 20, madecassoside, caprylyl glycol, sodium hyaluronate, zinc gluconate, copper gluconate, manganese gluconate, tocopherol"
+  ],
+  "questions": [
+    "Questions or comments? 1-888-LRP-LABO 1-888-577-5226 Monday - Friday (9 a.m. - 5 p.m. EST)"
+  ],
+  "package_label_principal_display_panel": [
+    "image of a carton"
+  ],
+  "set_id": "01c8a0d5-bcd1-4639-be45-530a226401f0",
+  "id": "ffa0730d-097a-45f4-96a5-f56763bb26bd",
+  "effective_time": "20231211",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "La Roche Posay Laboratoire Dermatologique Cicaplast Defense B5"
+    ],
+    "generic_name": [
+      "GLYCERIN"
+    ],
+    "manufacturer_name": [
+      "Cosmetique Active Production"
+    ],
+    "product_ndc": [
+      "69625-587"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "GLYCERIN"
+    ],
+    "spl_id": [
+      "ffa0730d-097a-45f4-96a5-f56763bb26bd"
+    ],
+    "spl_set_id": [
+      "01c8a0d5-bcd1-4639-be45-530a226401f0"
+    ],
+    "package_ndc": [
+      "69625-587-01",
+      "69625-587-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185370",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0009417"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Chemical Allergen [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Glycerol [CS]"
+    ],
+    "unii": [
+      "PDC6A3C0OX"
+    ]
+  }
+}

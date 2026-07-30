@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Kroger Lubricant Eye carboxymethylcellulose sodium CALCIUM CHLORIDE MAGNESIUM CHLORIDE POTASSIUM CHLORIDE WATER SODIUM CHLORIDE SODIUM LACTATE SODIUM HYDROXIDE HYDROCHLORIC ACID CARBOXYMETHYLCELLULOSE SODIUM CARBOXYMETHYLCELLULOSE"
+  ],
+  "active_ingredient": [
+    "Active ingredient Carboxymethylcellulose sodium 0.5%"
+  ],
+  "purpose": [
+    "Purpose Carboxymethylcellulose sodium.............Eye Lubricant"
+  ],
+  "indications_and_usage": [
+    "Uses for the temporary relief of burning, irritation, and discomfort due to dryness of the eye or exposure to wind or sun may be used as a protectant against further irritation"
+  ],
+  "warnings": [
+    "​Warnings For external use only. ​ Do not use if solution changes color or becomes cloudy. When using the product to avoid contamination do not touch tip of container to any surface. do not reuse. once opened, discard. do not touch unit-dose tip to eye. Stop use and ask a doctor if you experience eye pain. changes in vision occur. redness or irritation of the eye continues. redness or irritation of the eye worsens or persists for more than 72 hours. Keep out of reach of children. If accidentally swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "do_not_use": [
+    "​ Do not use if solution changes color or becomes cloudy."
+  ],
+  "when_using": [
+    "When using the product to avoid contamination do not touch tip of container to any surface. do not reuse. once opened, discard. do not touch unit-dose tip to eye."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if you experience eye pain. changes in vision occur. redness or irritation of the eye continues. redness or irritation of the eye worsens or persists for more than 72 hours."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If accidentally swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions To open, twist and pull tab to remove. Instill 1 or 2 drops in the affected eye(s) as needed and discard container. If used for post-operative (e.g., LASIK) dryness and discomfort, follow your eye doctor’s instructions."
+  ],
+  "other_safety_information": [
+    "Other information Store at 15°-30°C (59°-86°F). Use only if single-use container is intact. Use before expiration date marked on container. RETAIN THIS CARTON FOR FUTURE REFERENCE"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Calcium chloride, magnesium chloride, potassium chloride, purified water, sodium chloride, and sodium lactate. May contain sodium hydroxide and/or hydrochloric acid to adjust pH."
+  ],
+  "questions": [
+    "Questions or comments? 1-800-632-6900"
+  ],
+  "package_label_principal_display_panel": [
+    "Carton"
+  ],
+  "set_id": "046f4ebc-d8f9-4755-b6ba-790fe86f3128",
+  "id": "0cfa7760-7b53-d0b6-e063-6294a90a1fef",
+  "effective_time": "20231220",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M018"
+    ],
+    "brand_name": [
+      "Kroger Lubricant Eye"
+    ],
+    "generic_name": [
+      "CARBOXYMETHYLCELLULOSE SODIUM"
+    ],
+    "manufacturer_name": [
+      "The Kroger Co."
+    ],
+    "product_ndc": [
+      "30142-373"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "CARBOXYMETHYLCELLULOSE SODIUM"
+    ],
+    "rxcui": [
+      "1188426"
+    ],
+    "spl_id": [
+      "0cfa7760-7b53-d0b6-e063-6294a90a1fef"
+    ],
+    "spl_set_id": [
+      "046f4ebc-d8f9-4755-b6ba-790fe86f3128"
+    ],
+    "package_ndc": [
+      "30142-373-33"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "K679OBS311"
+    ]
+  }
+}

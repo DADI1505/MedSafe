@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Natrum Aceticum Natrum Aceticum SODIUM ACETATE SODIUM CATION ACETATE ION SUCROSE Natrum Aceticum Natrum Aceticum SODIUM ACETATE SODIUM CATION ACETATE ION SUCROSE Natrum Aceticum Natrum Aceticum SODIUM ACETATE SODIUM CATION ACETATE ION SUCROSE Natrum Aceticum Natrum Aceticum SODIUM ACETATE SODIUM CATION ACETATE ION SUCROSE Natrum Aceticum Natrum Aceticum SODIUM ACETATE SODIUM CATION ACETATE ION SUCROSE Natrum Aceticum Natrum Aceticum SODIUM ACETATE SODIUM CATION ACETATE ION SUCROSE Natrum Aceticum Natrum Aceticum SODIUM ACETATE SODIUM CATION ACETATE ION SUCROSE Natrum Aceticum Natrum Aceticum SODIUM ACETATE SODIUM CATION ACETATE ION SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Natrum Aceticum 6C 5g Natrum Aceticum 6C 30g Natrum Aceticum 6C 100g Natrum Aceticum 12C 5g Natrum Aceticum 12C 30g Natrum Aceticum 12C 100g Natrum Aceticum 30C 1g Natrum Aceticum 30C 5g Natrum Aceticum 30C 30g Natrum Aceticum 30C 100g Natrum Aceticum 100C 1g Natrum Aceticum 100C 5g Natrum Aceticum 100C 30g Natrum Aceticum 100C 100g Natrum Aceticum 200C 1g Natrum Aceticum 200C 5g Natrum Aceticum 200C 30g Natrum Aceticum 200C 100g Natrum Aceticum 500C 1g Natrum Aceticum 500C 5g Natrum Aceticum 500C 30g Natrum Aceticum 500C 100g Natrum Aceticum 1M 1g Natrum Aceticum 1M 5g Natrum Aceticum 1M 30g Natrum Aceticum 1M 100g Natrum Aceticum LM1 30g"
+  ],
+  "set_id": "04cdea6c-8348-d855-e063-6294a90a6660",
+  "id": "04cdea6c-8349-d855-e063-6294a90a6660",
+  "effective_time": "20230907",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Natrum Aceticum"
+    ],
+    "generic_name": [
+      "NATRUM ACETICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3880",
+      "37662-3881",
+      "37662-3884",
+      "37662-3882",
+      "37662-3883",
+      "37662-3887",
+      "37662-3885",
+      "37662-3886"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SODIUM ACETATE"
+    ],
+    "spl_id": [
+      "04cdea6c-8349-d855-e063-6294a90a6660"
+    ],
+    "spl_set_id": [
+      "04cdea6c-8348-d855-e063-6294a90a6660"
+    ],
+    "package_ndc": [
+      "37662-3881-1",
+      "37662-3881-2",
+      "37662-3881-3",
+      "37662-3884-1",
+      "37662-3884-2",
+      "37662-3884-3",
+      "37662-3884-4",
+      "37662-3882-1",
+      "37662-3882-2",
+      "37662-3882-3",
+      "37662-3882-4",
+      "37662-3883-1",
+      "37662-3883-2",
+      "37662-3883-3",
+      "37662-3883-4",
+      "37662-3887-1",
+      "37662-3885-1",
+      "37662-3885-2",
+      "37662-3885-3",
+      "37662-3885-4",
+      "37662-3880-1",
+      "37662-3880-2",
+      "37662-3880-3",
+      "37662-3886-1",
+      "37662-3886-2",
+      "37662-3886-3",
+      "37662-3886-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "4550K0SC9B"
+    ]
+  }
+}

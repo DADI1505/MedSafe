@@ -1,0 +1,78 @@
+{
+  "spl_product_data_elements": [
+    "Schuessler Tissue Salts Nat Mur Fluid Balance 9 Natrum Muriaticum LACTOSE MONOHYDRATE MAGNESIUM STEARATE ANHYDROUS DIBASIC CALCIUM PHOSPHATE SODIUM CHLORIDE CHLORIDE ION"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Purpose Natrum Muriaticum 6X HPUS excessive moisture, nasal discharge, watery eyes, dryness of the lips, skin, or eyes \" HPUS \" is the Homeopathic Pharmacopoeia of the United States"
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    "Uses Temporarily relieves symptoms associated with Excessive moisture Nasal discharge Watery eyes Dryness of the lips, skin, or eyes"
+  ],
+  "warnings": [
+    "Warnings Stop use and ask a doctor if: Symptoms persist for more than 72 hours or worsen New symptoms occur Redness or swelling is present Nasal congestion worsens or sinusitis occurs Eyes feel red or itchy Skin dryness results in pain or lesions If pregnant or breastfeeding : Ask a health professional before use. Ask a doctor before use if you have : • Fever get worse or lasts more than 3 days • Symptoms persist for more than 7 days or worsen • Inflammation or inflection is present or develops. Keep out of reach of children."
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "dosage_and_administration": [
+    "Directions Use as directed Take 30 minutes away from food Adults : Acute dose: Chew 1 tablet every 30 minutes until symptoms subside up to 6 times per day. Maintenance dose: Chew 1 tablet, 4 times daily. Children 6 years and older : Acute dose: Crush 1/2 tablet, dissolve in water, and take every 30 minutes until symptoms subside, up to six times per day. Maintenance dose :Crush 1/2 tablet, dissolve in water, 4 times per day."
+  ],
+  "spl_unclassified_section": [
+    "Other Information Store below 86°F",
+    "Questions? www.schuesslertissuesalts.co or + 1-888-464-6775"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Calcium hydrogen phosphate, Lactose, Magnesium stearate"
+  ],
+  "package_label_principal_display_panel": [
+    "Product label image description image description"
+  ],
+  "set_id": "08da6353-9625-4e8f-8575-a2b49f5d2ac6",
+  "id": "3b897dbf-af2b-73c9-e063-6394a90afb17",
+  "effective_time": "20250804",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Schuessler Tissue Salts Nat Mur Fluid Balance 9"
+    ],
+    "generic_name": [
+      "NATRUM MURIATICUM"
+    ],
+    "manufacturer_name": [
+      "Martin & Pleasance Pty Ltd"
+    ],
+    "product_ndc": [
+      "84999-021"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SODIUM CHLORIDE"
+    ],
+    "spl_id": [
+      "3b897dbf-af2b-73c9-e063-6394a90afb17"
+    ],
+    "spl_set_id": [
+      "08da6353-9625-4e8f-8575-a2b49f5d2ac6"
+    ],
+    "package_ndc": [
+      "84999-021-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "9324294001521"
+    ],
+    "unii": [
+      "451W47IQ8X"
+    ]
+  }
+}

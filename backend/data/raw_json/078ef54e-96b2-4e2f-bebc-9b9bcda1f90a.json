@@ -1,0 +1,97 @@
+{
+  "spl_product_data_elements": [
+    "Simethicone 125 mg Simethicone SUCROSE DIMETHICONE DIMETHICONE MALTODEXTRIN PEPPERMINT SORBITOL STEARIC ACID DEXTROSE, UNSPECIFIED FORM MICROCRYSTALLINE CELLULOSE SILICON DIOXIDE Off white AP;040"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING",
+    "*Reliable 1 Laboratories LLC is not affiliated with the owner of the trademark Mylanta® Distributed by: Reliable 1 Laboratories LLC Valley Stream, NY 11580 www.reliable1labs.com Repackaged by: Proficient Rx LP Thousand Oaks, CA 91320"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each chewable tablet) Simethicone 125 mg"
+  ],
+  "purpose": [
+    "Antiflatulent"
+  ],
+  "indications_and_usage": [
+    "Use relieves bloating, pressure and fullness commonly referred to as gas"
+  ],
+  "warnings": [
+    "Warnings Keep out of reach of children"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children"
+  ],
+  "dosage_and_administration": [
+    "Directions • thoroughly chew 1-2 tablets as needed after meals and at bedtime • do not take more than 4 tablets per day"
+  ],
+  "storage_and_handling": [
+    "Other information store at room temperature 15°-30°C (59°-86°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients compressible sugar, dextrose, maltodextrin, microcrystaline cellulose, peppermint flavor, silicon dioxide, sorbitol, stearic acid"
+  ],
+  "questions": [
+    "Questions or comments? call 516-341-0666, 8:30 am -4:30 pm ET, Monday - Friday"
+  ],
+  "package_label_principal_display_panel": [
+    "NDC 82804-152-09 Simethicone 125 mg ANTIFLATULENT 9 CHEWABLE TABLETS *Compare to Active Ingredient in MYLANTA® GAS MAXIMUM STRENGTH 82804-152-09"
+  ],
+  "set_id": "078ef54e-96b2-4e2f-bebc-9b9bcda1f90a",
+  "id": "078ef54e-96b2-4e2f-bebc-9b9bcda1f90a",
+  "effective_time": "20240901",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M002"
+    ],
+    "brand_name": [
+      "Simethicone 125 mg"
+    ],
+    "generic_name": [
+      "SIMETHICONE"
+    ],
+    "manufacturer_name": [
+      "Proficient Rx LP"
+    ],
+    "product_ndc": [
+      "82804-152"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIMETHICONE"
+    ],
+    "rxcui": [
+      "314221"
+    ],
+    "spl_id": [
+      "078ef54e-96b2-4e2f-bebc-9b9bcda1f90a"
+    ],
+    "spl_set_id": [
+      "078ef54e-96b2-4e2f-bebc-9b9bcda1f90a"
+    ],
+    "package_ndc": [
+      "82804-152-09"
+    ],
+    "original_packager_product_ndc": [
+      "69618-032"
+    ],
+    "upc": [
+      "0382804152094"
+    ],
+    "nui": [
+      "N0000010282"
+    ],
+    "pharm_class_pe": [
+      "Skin Barrier Activity [PE]"
+    ],
+    "unii": [
+      "92RU3N3Y1O"
+    ]
+  }
+}

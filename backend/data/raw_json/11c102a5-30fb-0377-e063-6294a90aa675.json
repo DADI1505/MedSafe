@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "Meijer SPF 50 Sunscreen Avobenzone, Homosalate, Octisalate, Octocrylene OCTISALATE OCTISALATE HOMOSALATE HOMOSALATE MEDIUM-CHAIN TRIGLYCERIDES AVOBENZONE AVOBENZONE OCTOCRYLENE OCTOCRYLENE ALCOHOL TOCOPHEROL DIETHYLHEXYL SYRINGYLIDENEMALONATE ACRYLATES/OCTYLACRYLAMIDE COPOLYMER (40000 MW) GLYCERIN"
+  ],
+  "active_ingredient": [
+    "Avobenzone 3%, Homosalate 15%, Octisalate 5%, Octocrylene 10%"
+  ],
+  "purpose": [
+    "Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Helps prevent sunburn. If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "warnings": [
+    "For external use only. Flammable . Do not use while smoking or near heat or flame. Do not use on damaged or broken skin. When using this product avoid contact with eyes. Rinse eyes with water to remove, contents under pressure. Do not puncture or incinerate. Do not store at temperature above 120F. Stop use and ask a doctor if rash or irritation develops and lasts."
+  ],
+  "keep_out_of_reach_of_children": [
+    "If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Apply liberally 15 minutes before sun exposure. Reapply: after 80 minutes of swimming or sweating, immediately after towel drying, at least every 2 hours. Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. - 2 p.m., wear long-sleeved shirts, pants, hats, and sunglasses, children under 6 months of age: ask a doctor, hold container 4 to 6 inches from the skin to apply, do not spray directly onto face Spray onto hand then apply to face, do not apply in windy conditions, use in well-ventilated area."
+  ],
+  "inactive_ingredient": [
+    "Alcohol denat., acrylates/octylacrylamide copolymer, tocopherol, glycerin, caprylic/capric triglyceride, diethylhexyl syringylidenemalonate, fragrance."
+  ],
+  "package_label_principal_display_panel": [
+    "Label Label Label"
+  ],
+  "set_id": "075eacbb-3eb9-3ef5-e063-6394a90a4390",
+  "id": "11c102a5-30fb-0377-e063-6294a90aa675",
+  "effective_time": "20240219",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Meijer SPF 50 Sunscreen"
+    ],
+    "generic_name": [
+      "AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE"
+    ],
+    "manufacturer_name": [
+      "Meijer"
+    ],
+    "product_ndc": [
+      "79481-1389"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OCTISALATE",
+      "HOMOSALATE",
+      "AVOBENZONE",
+      "OCTOCRYLENE"
+    ],
+    "spl_id": [
+      "11c102a5-30fb-0377-e063-6294a90aa675"
+    ],
+    "spl_set_id": [
+      "075eacbb-3eb9-3ef5-e063-6394a90a4390"
+    ],
+    "package_ndc": [
+      "79481-1389-6",
+      "79481-1389-7"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0713733571166",
+      "0713733571173",
+      "0713733571210"
+    ],
+    "unii": [
+      "4X49Y0596W",
+      "V06SV4M95S",
+      "G63QQF2NOX",
+      "5A68WGF6WM"
+    ]
+  }
+}

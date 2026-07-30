@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "MEB Puri-vega MEB Puri-Vega CALCIUM FLUORIDE FLUORIDE ION MAGNESIUM SULFATE HEPTAHYDRATE MAGNESIUM CATION SODIUM NITRATE NITRATE ION ZINC ZINC FERRIC CHLORIDE HEXAHYDRATE POTASSIUM SILICATE CEROUS OXALATE NONAHYDRATE CEROUS CATION MANGANESE VANADIUM CALCIUM SILICATE ALUMINUM OXIDE IRON FERROSOFERRIC PHOSPHATE FERROSOFERRIC PHOSPHATE MAGNESIUM CHLORIDE CHLORIDE ION SODIUM CHLORIDE TITANIUM PHOSPHORUS KAOLIN SILICON DIOXIDE SILICON DIOXIDE SULFUR SULFUR"
+  ],
+  "active_ingredient": [
+    "Sulphur, Ferrum Phosphoricum, Natrum Nitricum, Calcarea Fluorata, Magnesia Sulphurica, Magnesia Muriatica, Zincum Metalicum"
+  ],
+  "inactive_ingredient": [
+    "Alumina Silicata, Calcarea Silicata, Natrum Muriaticum, Alumina, Ferrum Metallicum, Ferrum Muriaticum, Kali Silicatum, Titanium Metallicum, Phosphorus, Cerium Oxalicum, Maganum Metallicum, Vanadium Metallicum"
+  ],
+  "purpose": [
+    "Active Ingredients Purpose Silicea 4X HPUS ………………………………….. Ulcers Sulphur 4X HPUS………………………………….. Tumour Ferrum Phosphoricum 7X HPUS.………………… Inflammation, Ulcers Natrum Nitricum 5X HPUS……………………….. Inflammation Calcarea Fluorata 6X HPUS……………………… Inflammation, Tumor Magnesia Sulphurica 7X HPUS …………………. Internal Disease Magnesia Muriatica 7X HPUS…………………. Inflammation Zincum Metalicum 8X …………………………….. Internal Disease"
+  ],
+  "indications_and_usage": [
+    "MEB Puri-Vega is potent mineral concentrate with exceptional health benefits. Offers unparalleled support for overall well-being, including asthma, immune deficiency, rhinitis, diabetes and more.” Usage: Puri-Vega is a potent mineral concentrate enriched with various health benefits. Extracted from beneficial minerals known for their exceptional absorbability in the human body, this health blend offers unparalleled support for overall well-being. The natural healing and preventive properties of Puriton Mineral, a 100% pure mineral extract sourced from nature provides excellent effects in conditions related to Inflammation-Related Issues that can lead to many other sickness, Internal Diseases, and Ulcers that can lead to tumors."
+  ],
+  "dosage_and_administration": [
+    "Direction Take 30ml once daily in the morning on an empty stomach. For effective absorption, do not swallow immediately; hold under the tongue for 2-3 minutes before swallowing. It can also be consumed by mixing 1:1 with water, as needed. Usage as an Additive for Herbal Medicine: Mix 30 ml or 50 ml with medication as an additive when boiling. Removes toxins from the medication. Aids in nanonization, enabling better absorption of medicinal ingredients. Provides concentrated extraction without the need for re-boiling. Preserves the minerals without any loss or change in properties. For oral inflammation: Gargle with Puri-Vega 10 ml for 10 minutes or more, three times a day, to help with oral inflammation caused by weakened immunity."
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "warnings": [
+    "Individuals with specific sensitivities to ingredients or allergies should check the list of ingredients before consumption. If your symptoms do not improve and worsen even after 7 days, discontinue use and consult a doctor for further advice."
+  ],
+  "ask_doctor": [
+    "If pregnant, breastfeeding, or undergoing treatment for any medical condition, please consult a physician before taking it."
+  ],
+  "recent_major_changes": [
+    "Typo fixed in Indication and Usage"
+  ],
+  "package_label_principal_display_panel": [
+    "MEB Vega-Puri. NDC: 81488-013-03 MEB Vega-Puri. NDC: 81488-013-03"
+  ],
+  "set_id": "03865989-3034-10fc-e063-6394a90ac80b",
+  "id": "04a53245-9a12-49fa-e063-6394a90af203",
+  "effective_time": "20230905",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "MEB Puri-vega"
+    ],
+    "generic_name": [
+      "MEB PURI-VEGA"
+    ],
+    "manufacturer_name": [
+      "Kadesh Incoporation Co,Ltd"
+    ],
+    "product_ndc": [
+      "81488-013"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CALCIUM FLUORIDE",
+      "MAGNESIUM SULFATE HEPTAHYDRATE",
+      "SODIUM NITRATE",
+      "ZINC",
+      "FERROSOFERRIC PHOSPHATE",
+      "MAGNESIUM CHLORIDE",
+      "SILICON DIOXIDE",
+      "SULFUR"
+    ],
+    "spl_id": [
+      "04a53245-9a12-49fa-e063-6394a90af203"
+    ],
+    "spl_set_id": [
+      "03865989-3034-10fc-e063-6394a90ac80b"
+    ],
+    "package_ndc": [
+      "81488-013-03",
+      "81488-013-10"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O3B55K4YKI",
+      "SK47B8698T",
+      "8M4L3H2ZVZ",
+      "J41CSQ7QDS",
+      "91GQH8I5F7",
+      "02F3473H9O",
+      "ETJ7Z6XBU4",
+      "70FD1KFU70"
+    ]
+  }
+}

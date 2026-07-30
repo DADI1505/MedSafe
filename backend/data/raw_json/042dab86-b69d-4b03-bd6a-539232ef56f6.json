@@ -1,0 +1,98 @@
+{
+  "spl_product_data_elements": [
+    "Nuvicare-Allergy Relief Loratadine Tablets, 10 mg loratadine LORATADINE LORATADINE LACTOSE MONOHYDRATE MAGNESIUM STEARATE povidone STARCH, CORN P;10"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredient (in each tablet) Loratadine, 10 mg"
+  ],
+  "purpose": [
+    "Purpose Antihistamine"
+  ],
+  "indications_and_usage": [
+    "Uses Temporarily relieves these symptoms due to hay fever or other respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat"
+  ],
+  "warnings": [
+    "Warnings Do not use if you ever have had an allergic reaction to this product or any of its ingredients."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose."
+  ],
+  "when_using": [
+    "When using this product do not take more than directed. Taking more than directed may cause drowsiness."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnanct or breast-feeding , ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children . In case of overdose, get medical help or contact a poison control center right away (1-800-222-1222)"
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 6 years and over: 1 tablet daily; not more than 1 tablet in 24 hours. Children under 6 years of age: Ask a doctor. Consumers with liver or kidney disease: Ask a doctor"
+  ],
+  "other_safety_information": [
+    "Other Information Store between 20° to 25°C (68° to 77°F) (see USP Controlled Room Temperature) Protect from excessive moisture"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Lactose monohydrate, magnesium stearate, povidone, maize starch, purified water."
+  ],
+  "questions": [
+    "Questions or comments? Call 1(718) 337-8733 or email: support@nuvicare.com"
+  ],
+  "package_label_principal_display_panel": [
+    "PL0270-00 NC Allergy Relief-Loratadine 100ct"
+  ],
+  "set_id": "023a46f0-8d1c-4f62-953d-3e6458a54f6e",
+  "id": "042dab86-b69d-4b03-bd6a-539232ef56f6",
+  "effective_time": "20250701",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "ANDA214684"
+    ],
+    "brand_name": [
+      "Nuvicare-Allergy Relief Loratadine Tablets, 10 mg"
+    ],
+    "generic_name": [
+      "LORATADINE"
+    ],
+    "manufacturer_name": [
+      "NUVICARE LLC"
+    ],
+    "product_ndc": [
+      "84324-027"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LORATADINE"
+    ],
+    "rxcui": [
+      "311372"
+    ],
+    "spl_id": [
+      "042dab86-b69d-4b03-bd6a-539232ef56f6"
+    ],
+    "spl_set_id": [
+      "023a46f0-8d1c-4f62-953d-3e6458a54f6e"
+    ],
+    "package_ndc": [
+      "84324-027-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "7AJO3BO7QN"
+    ]
+  }
+}

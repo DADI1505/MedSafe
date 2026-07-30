@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "CL EB MATTE MAKEUP BROAD SPECTRUM SPF 15 ZINC OXIDE AND TITANIUM DIOXIDE ASCORBYL GLUCOSIDE POLICAPRAM SILICON DIOXIDE HYALURONATE SODIUM SACCHARINA LATISSIMA BENZOIC ACID VINYL DIMETHICONE/METHICONE SILSESQUIOXANE CROSSPOLYMER DIMETHICONE/PEG-10/15 CROSSPOLYMER PROPYLENE CARBONATE EDETATE SODIUM METHYL TRIMETHICONE BUTYLOCTYL SALICYLATE NYLON-12 BOMBYX MORI FIBER XANTHAN GUM SODIUM CITRATE ZINC OXIDE ZINC OXIDE DIMETHICONE WATER ALUMINUM OXIDE LECITHIN, SOYBEAN ALCOHOL TITANIUM DIOXIDE TITANIUM DIOXIDE PEG-10 DIMETHICONE (220 CST) BUTYLENE GLYCOL HAMAMELIS VIRGINIANA TOP WATER DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (HARD PARTICLE) HYDRATED SILICA TETRAHEXYLDECYL ASCORBATE ZINC PIDOLATE CAFFEINE TRIBASIC CALCIUM PHOSPHATE DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (SOFT PARTICLE) LAURYL PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE DISTEARDIMONIUM HECTORITE DIPROPYLENE GLYCOL LAURETH-7 SORBITAN SESQUIOLEATE BUTYLATED HYDROXYTOLUENE TRIETHOXYCAPRYLYLSILANE TOCOPHEROL ALPHA-TOCOPHEROL ACETATE SODIUM HYDROXIDE PHENOXYETHANOL FERRIC OXIDE RED FERRIC OXIDE YELLOW FERROSOFERRIC OXIDE"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Titanium Dioxide 2.4% Zinc Oxide 5.9%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Use helps prevent sunburn"
+  ],
+  "warnings": [
+    "Warnings For External use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children If product is swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin"
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If product is swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "dosage_and_administration": [
+    "Directions For sunscreen use: apply liberally 15 minutes before sun exposure reapply at least every two hours use a water resistant sunscreen if swimming or sweating Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m.–2 p.m. wear long-sleeved shirts, pants, hats and sunglasses children under 6 months of age: ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients dimethicone,water\\aqua\\eau,methyl trimethicone,peg-10 dimethicone,butylene glycol,butyloctyl salicylate,alcohol denat.,hamamelis virginiana (witch hazel) water,dimethicone/vinyl dimethicone crosspolymer,silica,hydrated silica,ascorbyl glucoside,magnesium ascorbyl phosphate,tetrahexyldecyl ascorbate,zinc pca,caffeine,sodium hyaluronate,laminaria saccharina extract,nylon-12,nylon-6,hydroxyapatite,silk powder\\serica\\poudre de soie,vinyl dimethicone/methicone silsesquioxane crosspolymer,trimethylsiloxysilicate/dimethiconol crosspolymer,dimethicone/peg-10/15 crosspolymer,polysilicone-11,lauryl peg-9 polydimethylsiloxyethyl dimethicone,propylene carbonate,alumina,disteardimonium hectorite,xanthan gum,dipropylene glycol,laureth-7,lecithin,sorbitan sesquioleate,triethoxycaprylylsilane,tocopherol,tocopheryl acetate,bht,sodium hydroxide,citric acid,tetrasodium edta,sodium citrate,phenoxyethanol,benzoic acid, [+/- titanium dioxide (ci 77891),iron oxides (ci 77491),iron oxides (ci 77492),iron oxides (ci 77499)] <iln50838>"
+  ],
+  "storage_and_handling": [
+    "Other Information protect the product in this container from excessive heat and direct sun"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel CLINIQUE even better matte makeup broad spectrum SPF15 12H oil + shine control 1 FL.OZ.LIQ/30ml Principal Display Panel"
+  ],
+  "set_id": "082b297e-d1d9-16b2-e063-6294a90a2ffd",
+  "id": "082b297e-d1da-16b2-e063-6294a90a2ffd",
+  "effective_time": "20231020",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "CL EB MATTE MAKEUP BROAD SPECTRUM SPF 15"
+    ],
+    "generic_name": [
+      "ZINC OXIDE AND TITANIUM DIOXIDE"
+    ],
+    "manufacturer_name": [
+      "CLINIQUE LABORATORIES LLC"
+    ],
+    "product_ndc": [
+      "49527-113"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE",
+      "TITANIUM DIOXIDE"
+    ],
+    "spl_id": [
+      "082b297e-d1da-16b2-e063-6294a90a2ffd"
+    ],
+    "spl_set_id": [
+      "082b297e-d1d9-16b2-e063-6294a90a2ffd"
+    ],
+    "package_ndc": [
+      "49527-113-01",
+      "49527-113-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z",
+      "15FIX9V2JP"
+    ]
+  }
+}

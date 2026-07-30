@@ -1,0 +1,99 @@
+{
+  "spl_product_data_elements": [
+    "Cough and Cold Therapy For Kids Camphor, Menthol, Eucalyptus Oil CAMPHOR (NATURAL) CAMPHOR (NATURAL) YELLOW WAX JOJOBA OIL MENTHOL MENTHOL EUCALYPTUS OIL EUCALYPTUS OIL SHEA BUTTER COCONUT OIL .ALPHA.-TOCOPHEROL OLIVE OIL"
+  ],
+  "active_ingredient": [
+    "Active ingredients Organic Camphor 4.7% Organic Menthol 2.6% Organic Eucalyptus Oil 1.2%"
+  ],
+  "purpose": [
+    "Purpose Organic Camphor 4.7%......................Topical Antitussive Organic Menthol 2.6%........................Topical Antitussive Organic Eucalyptus Oil 1.2%..............Topical Antitussive"
+  ],
+  "indications_and_usage": [
+    "Uses Temporarily relieves cough associated with the common cold."
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use by mouth in nostrils Ask a doctor before use if you have persistent or chronic cough such as occurs with asthma or if cough is accompanied by excessive phlegm (mucus). When using this product, do not heat microwave add to hot water or any container where heating water. May cause splattering and result in burns. Stop use and ask a doctor if a cough that persists for more than 1 week, tends to recur, or is accompanied by fevrer, rash, or persistent headache. A persistent cough may be a sign of a serious condition. Keep this and all drugs out of the reach of children. If swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "do_not_use": [
+    "Do not use by mouth in nostrils"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have persistent or chronic cough such as occurs with asthma or if cough is accompanied by excessive phlegm (mucus)."
+  ],
+  "when_using": [
+    "When using this product, do not heat microwave add to hot water or any container where heating water. May cause splattering and result in burns."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if a cough that persists for more than 1 week, tends to recur, or is accompanied by fevrer, rash, or persistent headache. A persistent cough may be a sign of a serious condition."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep this and all drugs out of the reach of children. If swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions See important warnings under \"When using this product\" Children 2 years and older: rub on the throat and chest in a thick layer cover with a warm dry cloth if desired clothing should be loose about throat and chest to help vapors reach the nose and mouth use up to 3 times daily or as directed by a doctor Children under 2 years of age: Ask a doctor."
+  ],
+  "storage_and_handling": [
+    "Other information Tamper-evdent. Ensure seal is intact before use."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Organic Beeswax, Organic Coconut Oil, Organic Jojoba Oil, Organic Olive Oil, Organic Shea Butter, Vitamin E."
+  ],
+  "package_label_principal_display_panel": [
+    "maple organics Cough & Cold Therapy For Kids Soothing & Calming Cough Suppressant Net Wt. 2 oz / 56 g 1"
+  ],
+  "set_id": "088df369-114c-db4f-e063-6394a90acfac",
+  "id": "2cb2d3da-78ac-4420-e063-6394a90a771a",
+  "effective_time": "20250127",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Cough and Cold Therapy For Kids"
+    ],
+    "generic_name": [
+      "CAMPHOR, MENTHOL, EUCALYPTUS OIL"
+    ],
+    "manufacturer_name": [
+      "Everlaan Organics Inc"
+    ],
+    "product_ndc": [
+      "83670-201"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CAMPHOR (NATURAL)",
+      "MENTHOL",
+      "EUCALYPTUS OIL"
+    ],
+    "rxcui": [
+      "200293"
+    ],
+    "spl_id": [
+      "2cb2d3da-78ac-4420-e063-6394a90a771a"
+    ],
+    "spl_set_id": [
+      "088df369-114c-db4f-e063-6394a90acfac"
+    ],
+    "package_ndc": [
+      "83670-201-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0628176763248"
+    ],
+    "unii": [
+      "N20HL7Q941",
+      "L7T10EIP3A",
+      "2R04ONI662"
+    ]
+  }
+}

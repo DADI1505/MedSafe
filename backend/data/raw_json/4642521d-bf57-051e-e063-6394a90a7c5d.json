@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "First Aid Beauty FAB Acne Spot Treatment Salicylic Acid HYDROXYETHYL CELLULOSE, UNSPECIFIED SODIUM HYDROXIDE GLYCOLIC ACID ALOE VERA LEAF OATMEAL BUTYLENE GLYCOL PHENOXYETHANOL UREA LEVOMENOL TANACETUM PARTHENIUM FLOWER GLYCYRRHIZA GLABRA LEUCONOSTOC/RADISH ROOT FERMENT FILTRATE SODIUM PHOSPHATE GREEN TEA LEAF POLYSORBATE 60 WATER GLYCERIN SALICYLIC ACID SALICYLIC ACID CITRIC ACID MONOHYDRATE POTASSIUM SORBATE SODIUM BENZOATE MALTODEXTRIN PAPAYA SALIX NIGRA BARK SODIUM PHOSPHATE, DIBASIC, ANHYDROUS"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "MADE IN USA FIRST AID BEAUTY LTD NEWTON, MA 02458 WWW.FIRSTAIDBEAUTY.COM"
+  ],
+  "active_ingredient": [
+    "Active ingredients Salicylic Acid 2%"
+  ],
+  "purpose": [
+    "Purpose Acne Treatment"
+  ],
+  "indications_and_usage": [
+    "Uses for the treatment of acne"
+  ],
+  "warnings": [
+    "Warnings For external use only. When using this product Skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Stop use and ask a doctor if skin irritation occurs/gets worse. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product Skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if skin irritation occurs/gets worse."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions clean facial skin thoroughly before applying apply to face with a thin layer one to three tim es daily start with one application daily to avoid excessive drying of the skin gradually increase to two or three times daily if needed or as directed by a doctor if bothersome dryness or peeling occurs, reduce application"
+  ],
+  "inactive_ingredient": [
+    "Water, butylene glycol, hydroxyethylcellulose,glycerin, phenoxyethanol, sodium hydroxide, glycolic acid, urea, aloe barbadensis leaf juice, bisabolol, colloidal oatmeal, maltodextrin, carica papaya (papaya) fruit extract, potassium sorbate, sodium benzoate, camellia sinensis leaf extract, chrysanthemum parthenium (feverfew) extract, glycyrrhiza glabra (licorice) root extract, salix nigra (willow) bark extract, disodium phosphate, polysorbate 60, leuconostoc/radish root ferment filtrate, sodium phosphate, citric acid"
+  ],
+  "questions": [
+    "Questions: 888-FAB-3063"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 22 mL carton FIrst Aid Beauty ® FAB ACNE SPOT TREATMENT GEL 2% Salicylic Acid Safe for sensitive skin 22 mL (0.75 FL OZ) FAB"
+  ],
+  "set_id": "018e4aad-2e37-d7e9-e063-6394a90a9de2",
+  "id": "4642521d-bf57-051e-e063-6394a90a7c5d",
+  "effective_time": "20251218",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "First Aid Beauty FAB Acne Spot Treatment"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID"
+    ],
+    "manufacturer_name": [
+      "The Procter & Gamble Manufacturing Company"
+    ],
+    "product_ndc": [
+      "69423-724"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "346298"
+    ],
+    "spl_id": [
+      "4642521d-bf57-051e-e063-6394a90a7c5d"
+    ],
+    "spl_set_id": [
+      "018e4aad-2e37-d7e9-e063-6394a90a9de2"
+    ],
+    "package_ndc": [
+      "69423-724-22"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

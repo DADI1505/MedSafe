@@ -1,0 +1,103 @@
+{
+  "spl_product_data_elements": [
+    "Pain Reliever PM Extra Strength Acetaminophen, Diphenhydramine HCl ACETAMINOPHEN ACETAMINOPHEN DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE SILICON DIOXIDE STARCH, CORN CROSCARMELLOSE SODIUM FD&C BLUE NO. 1 ALUMINUM LAKE MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED POLYVINYL ALCOHOL, UNSPECIFIED POVIDONE, UNSPECIFIED STEARIC ACID TALC TITANIUM DIOXIDE 44;235"
+  ],
+  "active_ingredient": [
+    "Active ingredients (in each caplet) Acetaminophen 500 mg Diphenhydramine HCl 25 mg"
+  ],
+  "purpose": [
+    "Purpose Pain reliever Nighttime sleep-aid"
+  ],
+  "indications_and_usage": [
+    "Uses temporary relief of occasional headaches and minor aches and pains with accompanying sleeplessness"
+  ],
+  "warnings": [
+    "Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Do not use with any other product containing diphenhydramine, even one used on skin in children under 12 years of age with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis liver disease glaucoma difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin taking sedatives or tranquilizers When using this product avoid alcoholic beverages drowsiness will occur do not drive a motor vehicle or operate machinery Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of a serious underlying medical illness. new symptoms occur redness or swelling is present pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+  ],
+  "do_not_use": [
+    "Do not use with any other product containing diphenhydramine, even one used on skin in children under 12 years of age with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you have ever had an allergic reaction to this product or any of its ingredients"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis liver disease glaucoma difficulty in urination due to enlargement of the prostate gland"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin taking sedatives or tranquilizers"
+  ],
+  "when_using": [
+    "When using this product avoid alcoholic beverages drowsiness will occur do not drive a motor vehicle or operate machinery"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of a serious underlying medical illness. new symptoms occur redness or swelling is present pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days These could be signs of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+  ],
+  "dosage_and_administration": [
+    "Directions do not take more than directed adults and children 12 years and over: take 2 caplets at bedtime. Do not take more than 2 caplets of this product in 24 hours. children under 12 years: do not use"
+  ],
+  "storage_and_handling": [
+    "Other information store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) see end flap for expiration date and lot number"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients colloidal silicon dioxide, corn starch, croscarmellose sodium, FD&C blue #1 aluminum lake, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, povidone, stearic acid, talc, titanium dioxide"
+  ],
+  "questions": [
+    "Questions or comments? 1-800-426-9391"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel QUALITY +PLUS NDC 50844-235-15 *Compare to active ingredients in Extra Strength Tylenol® PM EXTRA STRENGTH PAIN RELIEVER PM Acetaminophen, Diphenhydramine HCl PAIN RELIEVER/NIGHTTIME SLEEP-AID 50 Caplets Non-habit Forming ACTUAL SIZE Quality Plus 44-235 Quality Plus 44-235"
+  ],
+  "set_id": "03b871e8-3e14-4ed8-a978-45129255b272",
+  "id": "280044d2-2b08-4863-9252-4bf1e24ecea4",
+  "effective_time": "20260727",
+  "version": "16",
+  "openfda": {
+    "application_number": [
+      "M013"
+    ],
+    "brand_name": [
+      "Pain Reliever PM Extra Strength"
+    ],
+    "generic_name": [
+      "ACETAMINOPHEN, DIPHENHYDRAMINE HCL"
+    ],
+    "manufacturer_name": [
+      "L.N.K. International, Inc."
+    ],
+    "product_ndc": [
+      "50844-235"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACETAMINOPHEN",
+      "DIPHENHYDRAMINE HYDROCHLORIDE"
+    ],
+    "spl_id": [
+      "280044d2-2b08-4863-9252-4bf1e24ecea4"
+    ],
+    "spl_set_id": [
+      "03b871e8-3e14-4ed8-a978-45129255b272"
+    ],
+    "package_ndc": [
+      "50844-235-15"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0050844235151"
+    ],
+    "unii": [
+      "362O9ITL9D",
+      "TC2D6JAD40"
+    ]
+  }
+}

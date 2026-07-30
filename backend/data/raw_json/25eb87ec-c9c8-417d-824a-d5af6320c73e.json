@@ -1,0 +1,127 @@
+{
+  "spl_product_data_elements": [
+    "Hyten Formula Allium Sativum, Kidney (Bovine), Leonurus Cardiaca, Viscum Album, Aurum Metallicum, Digitalis Purpurea, Glonoinum, Lycopodium Clavatum, Rauwolfia Serpentina, Sulphur, Plumbum Aceticum, Baryta Muriatica GARLIC GARLIC BEEF KIDNEY BEEF KIDNEY LEONURUS CARDIACA WHOLE LEONURUS CARDIACA VISCUM ALBUM FRUITING TOP VISCUM ALBUM FRUITING TOP GOLD GOLD DIGITALIS DIGITALIS NITROGLYCERIN NITROGLYCERIN LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE RAUWOLFIA SERPENTINA RAUWOLFIA SERPENTINA SULFUR SULFUR LEAD ACETATE ANHYDROUS LEAD IODIDE BARIUM CHLORIDE DIHYDRATE BARIUM CATION WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: Allium Sativum 6X, Kidney 6X, Leonurus Cardiaca 6X, Viscum Album 6X, Aurum Metallicum 12X, Digitalis Purpurea 12X, Glonoinum 12X, Lycopodium Clavatum 12X, Rauwolfia Serpentina 12X, Sulphur 12X, Plumbum Aceticum 12X, 30X, Baryta Muriatica 30X."
+  ],
+  "purpose": [
+    "PURPOSE: Aids in temporary relief of headaches, frequent nosebleeds, excess water retention, nausea and dizziness.† †Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS: Professional Use Only If pregnant or breast-feeding, ask a health professional before use. In case of overdose, get medical help or contact a Poison Control Center right away. If condition worsens, seek medical attention. KEEP OUT OF REACH OF CHILDREN Do not use if tamper evident seal is broken or missing. Store in a cool place after opening"
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Adults: 2 to 3 sprays orally, three times daily. Children under twelve one half adult dosage. Do not take within 15 minutes of consuming food, beverage or brushing teeth. Consult a physician for use in children under 12 years of age."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS Aids in temporary relief of headaches, frequent nosebleeds, excess water retention, nausea and dizziness.† †Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Alcohol USP 20%, Purified Water USP."
+  ],
+  "questions": [
+    "QUESTIONS: MANUFACTURED EXCLUSIVELY FOR NUTRITIONAL SPECIALTIES, INC. PO BOX 97227 PITTSBURG, PA 15229 www.phpltd.com"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: Professional Health Products HOMEOPATHIC NDC 83027-0108-1 HYTEN FORMULA 2 FL. OZ (60 ml) HYTEN FORMULA"
+  ],
+  "set_id": "08b7b251-6048-42a6-bbed-9ed04624fee1",
+  "id": "25eb87ec-c9c8-417d-824a-d5af6320c73e",
+  "effective_time": "20230928",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Hyten Formula"
+    ],
+    "generic_name": [
+      "ALLIUM SATIVUM, KIDNEY (BOVINE), LEONURUS CARDIACA, VISCUM ALBUM, AURUM METALLICUM, DIGITALIS PURPUREA, GLONOINUM, LYCOPODIUM CLAVATUM, RAUWOLFIA SERPENTINA, SULPHUR, PLUMBUM ACETICUM, BARYTA MURIATICA"
+    ],
+    "manufacturer_name": [
+      "Nutritional Specialties, Inc."
+    ],
+    "product_ndc": [
+      "83027-0108"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "GARLIC",
+      "BEEF KIDNEY",
+      "LEONURUS CARDIACA WHOLE",
+      "VISCUM ALBUM FRUITING TOP",
+      "GOLD",
+      "DIGITALIS",
+      "NITROGLYCERIN",
+      "LYCOPODIUM CLAVATUM SPORE",
+      "RAUWOLFIA SERPENTINA",
+      "SULFUR",
+      "LEAD ACETATE ANHYDROUS",
+      "BARIUM CHLORIDE DIHYDRATE"
+    ],
+    "spl_id": [
+      "25eb87ec-c9c8-417d-824a-d5af6320c73e"
+    ],
+    "spl_set_id": [
+      "08b7b251-6048-42a6-bbed-9ed04624fee1"
+    ],
+    "package_ndc": [
+      "83027-0108-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0649818031327"
+    ],
+    "nui": [
+      "N0000185371",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "M0006342",
+      "M0016962",
+      "N0000185508",
+      "N0000175415",
+      "M0014874",
+      "N0000009909"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Food Allergenic Extract [EPC]",
+      "Standardized Chemical Allergen [EPC]",
+      "Nitrate Vasodilator [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Vasodilation [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Dietary Proteins [CS]",
+      "Plant Proteins [CS]",
+      "Nitrates [CS]"
+    ],
+    "unii": [
+      "V1V998DC17",
+      "5HOC10FSIC",
+      "8NC0C2YXK0",
+      "BK9092J5MP",
+      "79Y1949PYO",
+      "F1T8QT9U8B",
+      "G59M7S0WS3",
+      "C88X29Y479",
+      "H192N84N1G",
+      "70FD1KFU70",
+      "KL498O6790",
+      "EL5GJ3U77E"
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Antifungal Miconazole Liquid Continuous Miconazole Nitrate ACETONE DIETHYLENE GLYCOL MONOETHYL ETHER PROPYLENE GLYCOL ALCOHOL .ALPHA.-TOCOPHEROL ACETATE MICONAZOLE NITRATE MICONAZOLE"
+  ],
+  "active_ingredient": [
+    "Active ingredient Miconazole nitrate 2%"
+  ],
+  "purpose": [
+    "Purpose Antifungal"
+  ],
+  "indications_and_usage": [
+    "Uses cures most athlete's foot (tinea pedis), ringworm (tinea corporis) and jock itch (tinea cruris) relieves itching, burning and scaling"
+  ],
+  "warnings": [
+    "Warnings For external use only. Extremely flammable: Contents under pressure. Keep away from fire, sparks, and heated surfaces. Do not puncture or incinerate container. Exposure to temperatures above 120°F may cause bursting. Intentional misuse by deliberately concentrating and inhaling the contents can be harmful or fatal. When using this product avoid contact with the eyes or mouth use only as directed Stop use and ask a doctor if irritation occurs no improvement within 4 weeks for athlete's foot and ringworm, and 2 weeks for jock itch Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "safe_handling_warning": [
+    "Extremely flammable: Contents under pressure. Keep away from fire, sparks, and heated surfaces. Do not puncture or incinerate container. Exposure to temperatures above 120°F may cause bursting. Intentional misuse by deliberately concentrating and inhaling the contents can be harmful or fatal."
+  ],
+  "when_using": [
+    "When using this product avoid contact with the eyes or mouth use only as directed"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if irritation occurs no improvement within 4 weeks for athlete's foot and ringworm, and 2 weeks for jock itch"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions wash affected area and dry thoroughly shake can well and spray a thin layer over affected area twice daily (morning and night) or as directed by a doctor supervise children in the use of this product for athlete's foot: pay special attention to spaces between the toes; wear well-fitting, ventilated shoes, and change shoes and socks at least once daily for athlete's foot and ringworm, use daily for 4 weeks; for jock itch, use daily for 2 weeks if condition persists longer, consult a doctor this product is not effective on the scalp or nails"
+  ],
+  "other_safety_information": [
+    "Other information store between 20º and 30ºC (68ºF and 86ºF)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients acetone, ethoxydiglycol, propylene glycol, SD alcohol 40-B (74%w/w), tocopheryl acetate"
+  ],
+  "questions": [
+    "Questions? Call 1-866-964-0939"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel meijer MEDICATED athlete's foot Miconazole Nitrate | Antifungal Liquid Spray CONTINUOUS Cures most athlete's foot Relieves itching, scaling & burning NET WT 5.3 OZ (150 g) image 1"
+  ],
+  "set_id": "030f2a31-334b-a6d8-e063-6394a90a98fc",
+  "id": "42658b90-1275-f5db-e063-6294a90a2460",
+  "effective_time": "20251030",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M005"
+    ],
+    "brand_name": [
+      "Antifungal Miconazole Liquid Continuous"
+    ],
+    "generic_name": [
+      "MICONAZOLE NITRATE"
+    ],
+    "manufacturer_name": [
+      "Meijer Distribution Inc"
+    ],
+    "product_ndc": [
+      "79481-0599"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MICONAZOLE NITRATE"
+    ],
+    "rxcui": [
+      "998533"
+    ],
+    "spl_id": [
+      "42658b90-1275-f5db-e063-6294a90a2460"
+    ],
+    "spl_set_id": [
+      "030f2a31-334b-a6d8-e063-6394a90a98fc"
+    ],
+    "package_ndc": [
+      "79481-0599-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "VW4H1CYW1K"
+    ]
+  }
+}

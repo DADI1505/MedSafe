@@ -1,0 +1,110 @@
+{
+  "spl_product_data_elements": [
+    "HTHY Calcarea carbonica, Calcarea iodata, Ferrum iodatum, Fucus vesiculosus, Hepar sulphuris calcareum, Kali iodatum, Lapis albus Calcium Fluosilicate, Oryctolagus cuniculus (Rabbit) Adrenal Gland, Oryctolagus cuniculus (Rabbit) Pituitary Gland, Oryctolagus cuniculus (Rabbit) Spleen, Oryctolagus cuniculus (Rabbit) Thymus Gland, Oryctolagus cuniculus (Rabbit) Thyroid Gland, Spongia tosta OYSTER SHELL CALCIUM CARBONATE, CRUDE OYSTER SHELL CALCIUM CARBONATE, CRUDE CALCIUM IODIDE CALCIUM CATION FERROUS IODIDE FERROUS IODIDE FUCUS VESICULOSUS FUCUS VESICULOSUS CALCIUM SULFIDE CALCIUM SULFIDE CALCIUM HEXAFLUOROSILICATE CALCIUM HEXAFLUOROSILICATE ORYCTOLAGUS CUNICULUS ADRENAL GLAND ORYCTOLAGUS CUNICULUS ADRENAL GLAND ORYCTOLAGUS CUNICULUS PITUITARY GLAND ORYCTOLAGUS CUNICULUS PITUITARY GLAND ORYCTOLAGUS CUNICULUS SPLEEN ORYCTOLAGUS CUNICULUS SPLEEN ORYCTOLAGUS CUNICULUS THYMUS ORYCTOLAGUS CUNICULUS THYMUS SPONGIA OFFICINALIS SKELETON, ROASTED SPONGIA OFFICINALIS SKELETON, ROASTED WATER POTASSIUM IODIDE IODIDE ION ORYCTOLAGUS CUNICULUS THYROID ORYCTOLAGUS CUNICULUS THYROID ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Active ingredients Each drop contains: Calcarea carbonica 8X Calcarea iodata 4X Ferrum iodatum 6X Fucus vesiculosus (Bladderwrack) Thallus 6X Hepar sulphuris calcareum 8X Kali iodatum 6X Lapis albus (Gastein rock) Calcium Fluosilicate 6X Oryctolagus cuniculus (Rabbit) Adrenal Gland 10X Oryctolagus cuniculus (Rabbit) Pituitary Gland 10X Oryctolagus cuniculus (Rabbit) Spleen 10X Oryctolagus cuniculus (Rabbit) Thymus Gland 10X Oryctolagus cuniculus (Rabbit) Thyroid Gland 10X Spongia tosta (Roasted Sponge) 6X"
+  ],
+  "purpose": [
+    "Uses Helps promote and maintain normal metabolic functions."
+  ],
+  "warnings": [
+    "Warnings Stop use and ask a doctor if symptoms persist or worsen. If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Contains: Shellfish (oyster)"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if symptoms persist or worsen."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "overdosage": [
+    "In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "other_safety_information": [
+    "Other information Store in a cool, dry place. Use only if safety seal is intact. Contents may not fill package in order to accommodate required labeling. Please rely on stated quantity."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Ethanol (beet), purified water"
+  ],
+  "dosage_and_administration": [
+    "Directions To be taken 20 minutes away from food. Place drops directly under the tongue or into ¼ oz of water. Adults and adolescents (12 years and older): Take 10 drops two to three times daily or as recommended by your healthcare practitioner. Children (under 12 years): Take under the direction of your healthcare practitioner."
+  ],
+  "indications_and_usage": [
+    "Uses Helps promote and maintain normal metabolic functions. Directions To be taken 20 minutes away from food. Place drops directly under the tongue or into ¼ oz of water. Adults and adolescents (12 years and older): Take 10 drops two to three times daily or as recommended by your healthcare practitioner. Children (under 12 years): Take under the direction of your healthcare practitioner."
+  ],
+  "package_label_principal_display_panel": [
+    "Genestra Brands NDC 62106-0631-0 HTHY HOMEOPATHIC PREPARATION To help promote and maintain normal metabolic functions. Contains 31% Alcohol 1 fl oz (30 mL) HTHY PDP HTHY cont"
+  ],
+  "set_id": "079bede5-f618-03ed-e054-00144ff8d46c",
+  "id": "f382fc1f-d3b7-7fa7-e053-2995a90a0eab",
+  "effective_time": "20230130",
+  "version": "5",
+  "openfda": {
+    "brand_name": [
+      "HTHY"
+    ],
+    "generic_name": [
+      "CALCAREA CARBONICA, CALCAREA IODATA, FERRUM IODATUM, FUCUS VESICULOSUS, HEPAR SULPHURIS CALCAREUM, KALI IODATUM, LAPIS ALBUS CALCIUM FLUOSILICATE, ORYCTOLAGUS CUNICULUS (RABBIT) ADRENAL GLAND, ORYCTOLAGUS CUNICULUS (RABBIT) PITUITARY GLAND, ORYCTOLAGUS CUNICULUS (RABBIT) SPLEEN, ORYCTOLAGUS CUNICULUS (RABBIT) THYMUS GLAND, ORYCTOLAGUS CUNICULUS (RABBIT) THYROID GLAND, SPONGIA TOSTA"
+    ],
+    "manufacturer_name": [
+      "Seroyal USA"
+    ],
+    "product_ndc": [
+      "62106-0631"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "OYSTER SHELL CALCIUM CARBONATE, CRUDE",
+      "CALCIUM IODIDE",
+      "FERROUS IODIDE",
+      "FUCUS VESICULOSUS",
+      "CALCIUM SULFIDE",
+      "CALCIUM HEXAFLUOROSILICATE",
+      "ORYCTOLAGUS CUNICULUS ADRENAL GLAND",
+      "ORYCTOLAGUS CUNICULUS PITUITARY GLAND",
+      "ORYCTOLAGUS CUNICULUS SPLEEN",
+      "ORYCTOLAGUS CUNICULUS THYMUS",
+      "SPONGIA OFFICINALIS SKELETON, ROASTED",
+      "POTASSIUM IODIDE",
+      "ORYCTOLAGUS CUNICULUS THYROID"
+    ],
+    "spl_id": [
+      "f382fc1f-d3b7-7fa7-e053-2995a90a0eab"
+    ],
+    "spl_set_id": [
+      "079bede5-f618-03ed-e054-00144ff8d46c"
+    ],
+    "package_ndc": [
+      "62106-0631-0"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0883196138104"
+    ],
+    "unii": [
+      "2E32821G6I",
+      "8EKI9QEE2H",
+      "F5452U54PN",
+      "535G2ABX9M",
+      "1MBW07J51Q",
+      "2NVP93XVQ3",
+      "QGY289M89Q",
+      "T9F9ZW799A",
+      "01WNS05SFO",
+      "7ZO132YX2X",
+      "1PIP394IID",
+      "1C4QK22F9J",
+      "97K9E28344"
+    ]
+  }
+}

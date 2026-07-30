@@ -1,0 +1,74 @@
+{
+  "spl_product_data_elements": [
+    "Phosphorus 30 Phosphorus 30 SODIUM CHLORIDE PHOSPHORUS PHOSPHORUS WATER"
+  ],
+  "purpose": [
+    "Use: Temporary relief of headache."
+  ],
+  "indications_and_usage": [
+    "FOR ORAL USE ONLY"
+  ],
+  "dosage_and_administration": [
+    "Directions: Take the contents of one ampule under the tongue and hold for 30 seconds, then swallow. Follow inside instructions to open ampule."
+  ],
+  "warnings": [
+    "Warnings: NOT FOR INJECTION Do not use if allergic to any ingredient. Consult a physician if symptoms worsen. If pregnant or nursing, consult a physician before use. Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN."
+  ],
+  "active_ingredient": [
+    "Active Ingredient: Phosphorus (Yellow phosphorus) 30X"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Water, Salt Prepared using rhythmical processes."
+  ],
+  "questions": [
+    "Questions? Call 866.642.2858 Uriel, East Troy, WI 53120 shopuriel.com Lot:"
+  ],
+  "package_label_principal_display_panel": [
+    "Phosphorus 30X Ampule"
+  ],
+  "set_id": "01ebfc7a-d7d5-4003-ac57-da5ba242931a",
+  "id": "4bad582c-d008-f25f-e063-6394a90ae197",
+  "effective_time": "20260225",
+  "version": "4",
+  "openfda": {
+    "brand_name": [
+      "Phosphorus 30"
+    ],
+    "generic_name": [
+      "PHOSPHORUS 30"
+    ],
+    "manufacturer_name": [
+      "Uriel Pharmacy Inc."
+    ],
+    "product_ndc": [
+      "48951-8023"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PHOSPHORUS"
+    ],
+    "spl_id": [
+      "4bad582c-d008-f25f-e063-6394a90ae197"
+    ],
+    "spl_set_id": [
+      "01ebfc7a-d7d5-4003-ac57-da5ba242931a"
+    ],
+    "package_ndc": [
+      "48951-8023-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "27YLU75U4W"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "B-Pure Moisturizing Hand Sanitizer Alpine Chalet Scented ALCOHOL WATER GLYCERIN DENATONIUM BENZOATE TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES D&C GREEN NO. 5 FD&C YELLOW NO. 5 ALCOHOL ALCOHOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information Store below 110°F (43°C)"
+  ],
+  "active_ingredient": [
+    "Active ingredient Ethyl alcohol, 70% v/v Purpose Antimicrobial"
+  ],
+  "purpose": [
+    "Purpose Antimicrobial"
+  ],
+  "indications_and_usage": [
+    "Uses hand sanitizer to help reduce bacteria on skin"
+  ],
+  "warnings": [
+    "Warnings For external use only. Flammable, keep away from fire or flame. Do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation, excessive redness or rash develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if irritation, excessive redness or rash develops."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Spray product in hands and rub together."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, glycerin, fragrance, denatonium benzoate, Tetramethyl acetyloctahydronaphthalenes, green 5, yellow 5"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling Label01.jpg"
+  ],
+  "set_id": "03e83cf4-ac40-4208-943a-380a87bbf2a1",
+  "id": "53d898b4-91dc-2838-e063-6294a90a4ed2",
+  "effective_time": "20260609",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "B-Pure Moisturizing Hand Sanitizer Alpine Chalet Scented"
+    ],
+    "generic_name": [
+      "ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Fourstar Group USA, Inc."
+    ],
+    "product_ndc": [
+      "80684-215"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "1041849"
+    ],
+    "spl_id": [
+      "53d898b4-91dc-2838-e063-6294a90a4ed2"
+    ],
+    "spl_set_id": [
+      "03e83cf4-ac40-4208-943a-380a87bbf2a1"
+    ],
+    "package_ndc": [
+      "80684-215-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0049696838481"
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

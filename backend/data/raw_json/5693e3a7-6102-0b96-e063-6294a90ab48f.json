@@ -1,0 +1,106 @@
+{
+  "spl_product_data_elements": [
+    "Remedy Barrier Cream Cloths Dimethicone HYDROLYZED SOY PROTEIN (ENZYMATIC; 2000 MW) WATER GLYCERIN SOYBEAN OIL CLOVE SHEA BUTTER LECITHIN, SOYBEAN ALLANTOIN C12-20 ALKYL GLUCOSIDE C14-22 ALCOHOLS CETYL ALCOHOL DISODIUM COCOAMPHODIACETATE MEDIUM-CHAIN TRIGLYCERIDES CITRIC ACID MONOHYDRATE COCO GLUCOSIDE COCONUT ALCOHOL ETHYLENE BRASSYLATE ETHYLHEXYLGLYCERIN BUTYLENE GLYCOL ISOPROPYL MYRISTATE METHYL DIHYDROJASMONATE (SYNTHETIC) YEAST PHENOXYETHANOL .ALPHA.-TOCOPHEROL ACETATE UREA 7-DEHYDROCHOLESTEROL SUNFLOWER OIL CORN OIL VANILLA DIMETHICONE DIMETHICONE GREEN TEA LEAF POLYSORBATE 60 ISOHEXADECANE PHYMATOLITHON CALCAREUM HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER (45000 MPA.S AT 1%) Remedy Barrier Cream Cloths Fragrance Free Dimethicone PHYMATOLITHON CALCAREUM HYDROLYZED SOY PROTEIN (ENZYMATIC; 2000 MW) ISOHEXADECANE POLYSORBATE 60 WATER GLYCERIN SOYBEAN OIL CLOVE SHEA BUTTER LECITHIN, SOYBEAN ALLANTOIN C12-20 ALKYL GLUCOSIDE C14-22 ALCOHOLS CETYL ALCOHOL DISODIUM COCOAMPHODIACETATE MEDIUM-CHAIN TRIGLYCERIDES CITRIC ACID MONOHYDRATE COCO GLUCOSIDE COCONUT ALCOHOL ETHYLHEXYLGLYCERIN BUTYLENE GLYCOL ISOPROPYL MYRISTATE METHYL DIHYDROJASMONATE (SYNTHETIC) YEAST PHENOXYETHANOL .ALPHA.-TOCOPHEROL ACETATE UREA 7-DEHYDROCHOLESTEROL SUNFLOWER OIL CORN OIL DIMETHICONE DIMETHICONE GREEN TEA LEAF HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER (45000 MPA.S AT 1%)"
+  ],
+  "active_ingredient": [
+    "Active ingredient Dimethicone 3.6% w/w"
+  ],
+  "purpose": [
+    "Purpose Skin Protectant"
+  ],
+  "indications_and_usage": [
+    "Uses helps treat and prevent diaper rash. Protects minor skin irritation associated with diaper rash and helps seal out wetness help prevent and temporarily protects and helps relieve chapped or cracked skin helps protect from the drying effects of wind and cold weather"
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use on deep or puncture wounds animal bites serious burns When using this product do not get into eyes Stop use and ask a doctor condition worsens symptoms last more than 7 days or clear up and occur again within a few days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on deep or puncture wounds animal bites serious burns"
+  ],
+  "when_using": [
+    "When using this product do not get into eyes"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor condition worsens symptoms last more than 7 days or clear up and occur again within a few days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Open package as designated Remove fresh cloths and thoroughly cleanse soiled area as needed Dispose of cloths in waste receptacle, do not flush in toilet Single Patient Use only"
+  ],
+  "storage_and_handling": [
+    "Other information Protect from freezing, avoid excessive heat Keep label tightly sealed Do Not Flush Cloth: made of Rayon/Polyester"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients algae extract, allantoin, butylene glycol, butyrospermum parkii (shea butter) extract, C12-20 alkyl glucoside, C14-22 alcohols, camellia sinensis (green tea) extract, caprylic/capric triglyceride, cetyl alcohol, citric acid, cocoglucoside, coconut alcohol, 7- dehydrocholesterol, disodium cocoamphodiacetate, ethylene brassylate, ethylhexylglycerin, eugenia caryophyllus (clove) flower extract, glycerin, glycine soja (soybean) oil, helianthus annuus (sunflower) seed oil, hydrolyzed soy protein, hydroxyethyl acrylate/sodium acryloyldimethyltaurate copolymer, isohexadecane, isopropyl myristate, lecithin, methyldihydrojasmonate, phenoxyethanol, phospholipids, polysorbate 60, tocopheryl acetate, urea, vanilla plantifolia fruit extract, water, yeast ferment extract, zea mays (corn) oil."
+  ],
+  "spl_unclassified_section": [
+    "Manufacturing Information Manufactured for: Medline Industries, LP Three Lakes Drive, Northfield, IL 60093 USA Made in USA with domestic and imported materials www.medline.com 1-800-MEDLINE (633-5463) REF: MSC092508, MSC092507 V2 RE22MSC, V2 RF22MSC"
+  ],
+  "recent_major_changes": [
+    "Recent Major Changes Updates to indications and usage section"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Label Label V2 RE22MSC 074 Label V2 RF22MSC 078"
+  ],
+  "set_id": "00e0cd4a-6049-408a-ab3f-9edf97e6438a",
+  "id": "5693e3a7-6102-0b96-e063-6294a90ab48f",
+  "effective_time": "20260714",
+  "version": "12",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Remedy Barrier Cream Cloths Fragrance Free",
+      "Remedy Barrier Cream Cloths"
+    ],
+    "generic_name": [
+      "DIMETHICONE"
+    ],
+    "manufacturer_name": [
+      "Medline Industries, LP"
+    ],
+    "product_ndc": [
+      "53329-074",
+      "53329-078"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "DIMETHICONE"
+    ],
+    "rxcui": [
+      "1534833"
+    ],
+    "spl_id": [
+      "5693e3a7-6102-0b96-e063-6294a90ab48f"
+    ],
+    "spl_set_id": [
+      "00e0cd4a-6049-408a-ab3f-9edf97e6438a"
+    ],
+    "package_ndc": [
+      "53329-078-76",
+      "53329-078-91",
+      "53329-078-02",
+      "53329-074-76"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000010282"
+    ],
+    "pharm_class_pe": [
+      "Skin Barrier Activity [PE]"
+    ],
+    "unii": [
+      "92RU3N3Y1O"
+    ]
+  }
+}

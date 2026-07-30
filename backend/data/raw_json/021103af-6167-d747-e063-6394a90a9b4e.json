@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Indigo Indigo INDIGO INDIGO SUCROSE Indigo Indigo SUCROSE INDIGO INDIGO Indigo Indigo INDIGO INDIGO SUCROSE Indigo Indigo INDIGO INDIGO SUCROSE Indigo Indigo INDIGO INDIGO SUCROSE Indigo Indigo INDIGO INDIGO SUCROSE Indigo Indigo INDIGO INDIGO SUCROSE Indigo Indigo INDIGO INDIGO SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Indigo 6C 5g Indigo 6C 30g Indigo 6C 100g Indigo 12C 5g Indigo 12C 30g Indigo 12C 100g Indigo 30C 1g Indigo 30C 5g Indigo 30C 30g Indigo 30C 100g Indigo 100C 1g Indigo 100C 5g Indigo 100C 30g Indigo 100C 100g Indigo 200C 1g Indigo 200C 5g Indigo 200C 30g Indigo 200C 100g Indigo 500C 1g Indigo 500C 5g Indigo 500C 30g Indigo 500C 100g Indigo 1M 1g Indigo 1M 5g Indigo 1M 30g Indigo 1M 100g Indigo LM1 30g"
+  ],
+  "set_id": "021103af-6166-d747-e063-6394a90a9b4e",
+  "id": "021103af-6167-d747-e063-6394a90a9b4e",
+  "effective_time": "20230803",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Indigo"
+    ],
+    "generic_name": [
+      "INDIGO"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3688",
+      "37662-3694",
+      "37662-3692",
+      "37662-3695",
+      "37662-3691",
+      "37662-3690",
+      "37662-3693",
+      "37662-3689"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "INDIGO"
+    ],
+    "spl_id": [
+      "021103af-6167-d747-e063-6394a90a9b4e"
+    ],
+    "spl_set_id": [
+      "021103af-6166-d747-e063-6394a90a9b4e"
+    ],
+    "package_ndc": [
+      "37662-3694-1",
+      "37662-3694-2",
+      "37662-3694-3",
+      "37662-3694-4",
+      "37662-3692-1",
+      "37662-3692-2",
+      "37662-3692-3",
+      "37662-3692-4",
+      "37662-3695-1",
+      "37662-3688-1",
+      "37662-3688-2",
+      "37662-3688-3",
+      "37662-3691-1",
+      "37662-3691-2",
+      "37662-3691-3",
+      "37662-3691-4",
+      "37662-3690-1",
+      "37662-3690-2",
+      "37662-3690-3",
+      "37662-3690-4",
+      "37662-3693-1",
+      "37662-3693-2",
+      "37662-3693-3",
+      "37662-3693-4",
+      "37662-3689-1",
+      "37662-3689-2",
+      "37662-3689-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "1G5BK41P4F"
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "spl_product_data_elements": [
+    "Crest Bubblegum Sodium Fluoride SACCHARIN SODIUM CARBOXYPOLYMETHYLENE SORBITOL WATER HYDRATED SILICA SODIUM LAURYL SULFATE SODIUM PHOSPHATE CARBOXYMETHYLCELLULOSE SODIUM SODIUM PHOSPHATE, TRIBASIC, ANHYDROUS D&C RED NO. 28 SODIUM FLUORIDE FLUORIDE ION"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "MADE IN MEXICO DISTR. BY PROCTER & GAMBLE, CINCINNATI, OH 45202"
+  ],
+  "active_ingredient": [
+    "Active ingredient Sodium fluoride 0.243% (0.15% w/v fluoride ion)"
+  ],
+  "purpose": [
+    "Purpose Anticavity toothpaste"
+  ],
+  "indications_and_usage": [
+    "Use helps protect against cavities"
+  ],
+  "warnings": [
+    "Warnings Keep out of reach of children under 6 yrs. of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children under 6 yrs. of age."
+  ],
+  "when_using": [
+    "If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions twist off cap to remove foil seal adults and children 2 yrs. & older: brush teeth thoroughly after meals or at least twice a day or use as directed by a dentist do not swallow to minimize swallowing use a pea-sized amount in children under 6 supervise children's brushing until good habits are established children under 2 yrs.: ask a dentist"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients sorbitol, water, hydrated silica, sodium lauryl sulfate, trisodium phosphate, sodium phosphate, cellulose gum, flavor, sodium saccharin, carbomer, red 28"
+  ],
+  "questions": [
+    "Questions? 1-800-492-7378"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 119 g Tube 3+ YRS CREST ANTICAVITY TOOTHPASTE DISNEY FROZEN BUBBLEGUM NET WT 4.2 OZ (119g ) artwork"
+  ],
+  "set_id": "01f64874-6363-3dcc-e063-6394a90a2aec",
+  "id": "47e557c1-ab4a-0c31-e063-6394a90adad8",
+  "effective_time": "20260108",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M021"
+    ],
+    "brand_name": [
+      "Crest Bubblegum"
+    ],
+    "generic_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "manufacturer_name": [
+      "Procter & Gamble Manufacturing Mxico, S. de R.L. de C.V."
+    ],
+    "product_ndc": [
+      "58933-046"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "DENTAL"
+    ],
+    "substance_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "rxcui": [
+      "891775"
+    ],
+    "spl_id": [
+      "47e557c1-ab4a-0c31-e063-6394a90adad8"
+    ],
+    "spl_set_id": [
+      "01f64874-6363-3dcc-e063-6394a90a2aec"
+    ],
+    "package_ndc": [
+      "58933-046-42"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8ZYQ1474W7"
+    ]
+  }
+}

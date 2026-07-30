@@ -1,0 +1,121 @@
+{
+  "spl_product_data_elements": [
+    "Rubidium Muriaticum Rubidium Muriaticum RUBIDIUM CHLORIDE RUBIDIUM CATION SUCROSE Rubidium Muriaticum Rubidium Muriaticum RUBIDIUM CHLORIDE RUBIDIUM CATION SUCROSE Rubidium Muriaticum Rubidium Muriaticum RUBIDIUM CHLORIDE RUBIDIUM CATION SUCROSE Rubidium Muriaticum Rubidium Muriaticum RUBIDIUM CHLORIDE RUBIDIUM CATION SUCROSE Rubidium Muriaticum Rubidium Muriaticum RUBIDIUM CHLORIDE RUBIDIUM CATION SUCROSE Rubidium Muriaticum Rubidium Muriaticum RUBIDIUM CHLORIDE RUBIDIUM CATION SUCROSE Rubidium Muriaticum Rubidium Muriaticum RUBIDIUM CHLORIDE RUBIDIUM CATION SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Rubidium Muriaticum 6C 5g Rubidium Muriaticum 6C 30g Rubidium Muriaticum 6C 100g Rubidium Muriaticum 12C 5g Rubidium Muriaticum 12C 30g Rubidium Muriaticum 12C 100g Rubidium Muriaticum 30C 1g Rubidium Muriaticum 30C 5g Rubidium Muriaticum 30C 30g Rubidium Muriaticum 30C 100g Rubidium Muriaticum 100C 1g Rubidium Muriaticum 100C 5g Rubidium Muriaticum 100C 30g Rubidium Muriaticum 100C 100g Rubidium Muriaticum 200C 1g Rubidium Muriaticum 200C 5g Rubidium Muriaticum 200C 30g Rubidium Muriaticum 200C 100g Rubidium Muriaticum 500C 1g Rubidium Muriaticum 500C 5g Rubidium Muriaticum 500C 30g Rubidium Muriaticum 500C 100g Rubidium Muriaticum 1M 1g Rubidium Muriaticum 1M 5g Rubidium Muriaticum 1M 30g Rubidium Muriaticum 1M 100g"
+  ],
+  "set_id": "0663cace-3516-e497-e063-6394a90a9c68",
+  "id": "0663cace-3517-e497-e063-6394a90a9c68",
+  "effective_time": "20230927",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Rubidium Muriaticum"
+    ],
+    "generic_name": [
+      "RUBIDIUM MURIATICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-4024",
+      "37662-4027",
+      "37662-4025",
+      "37662-4026",
+      "37662-4028",
+      "37662-4029",
+      "37662-4030"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "RUBIDIUM CHLORIDE"
+    ],
+    "spl_id": [
+      "0663cace-3517-e497-e063-6394a90a9c68"
+    ],
+    "spl_set_id": [
+      "0663cace-3516-e497-e063-6394a90a9c68"
+    ],
+    "package_ndc": [
+      "37662-4027-1",
+      "37662-4027-2",
+      "37662-4027-3",
+      "37662-4027-4",
+      "37662-4025-1",
+      "37662-4025-2",
+      "37662-4025-3",
+      "37662-4026-1",
+      "37662-4026-2",
+      "37662-4026-3",
+      "37662-4026-4",
+      "37662-4028-1",
+      "37662-4028-2",
+      "37662-4028-3",
+      "37662-4028-4",
+      "37662-4024-1",
+      "37662-4024-2",
+      "37662-4024-3",
+      "37662-4029-1",
+      "37662-4029-2",
+      "37662-4029-3",
+      "37662-4029-4",
+      "37662-4030-1",
+      "37662-4030-2",
+      "37662-4030-3",
+      "37662-4030-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "N3SHC5273S"
+    ]
+  }
+}

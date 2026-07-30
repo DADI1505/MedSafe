@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "NATURIUM Dew-Glow Moisturizer SPF 50 NATURIUM Dew-Glow Moisturizer SPF 50 EICOSYL POVIDONE STEARYL DIMETHICONE (400 MPA.S AT 50C) CETEARYL OLIVATE AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER SILICON DIOXIDE POLYISOBUTYLENE (65000 MW) CAPRYLYL/CAPRYL OLIGOGLUCOSIDE BUTYLOCTYL SALICYLATE .ALPHA.-BISABOLOL, (+)- TRISODIUM ETHYLENEDIAMINE DISUCCINATE SORBITAN OLIVATE ARGAN OIL .ALPHA.-TOCOPHEROL, DL- SQUALANE ANHYDROUS CITRIC ACID .ALPHA.-TOCOPHEROL ACETATE, D- HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER (45000 MPA.S AT 1%) SODIUM HYDROXIDE ETHYLHEXYL METHOXYCRYLENE HYDROXYACETOPHENONE SODIUM STEAROYL GLUTAMATE OCTADECENE XANTHAN GUM 1,2-HEXANEDIOL 3-O-ETHYL ASCORBIC ACID HYALURONATE SODIUM NIACINAMIDE SORBITAN MONOOLEATE OCTISALATE OCTISALATE AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE WATER ALKYL (C12-15) BENZOATE CALCIUM ALUMINUM BOROSILICATE GLYCERIN GLYCERYL STEARATE SE"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Avobenzone 3% Homosalate 10% Octisalate 5%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent sunburn. If used as directed with other sun protection measures (see directions), decreases the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use on damaged or broken skin. Stop use and ask doctor if rash occurs."
+  ],
+  "when_using": [
+    "Warnings-When using When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Keep out of reach of children. If swallowed, get medical help, or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply liberally 15 minutes before sun exposure. Use a water-resistant sunscreen if swimming or sweating. Reapply at least every 2 hours, Children under 6 months: ask a doctor. Sun Protection Measures: Spending time in the sun increases risk of skin cancer and early aging. To decrease this risk, regularly use a sunscreen with a Broad-Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun especially from 10:00 a.m. - 2:00 p.m. Wear long sleeved shirts, pants, hats, and sunglasses."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Aqua/Water/Eau, Butyloctyl Salicylate, C12-15 Alkyl Benzoate, Calcium Sodium Borosilicate, Glycerin, Glyceryl Stearate, Ethylhexyl Methoxycrylene, VP/Eicosene Copolymer, Stearyl Dimethicone, Argania Spinosa Kernel Oil, Tocopheryl Acetate, 1,2-Hexanediol, Niacinamide, Tocopherol, Cetearyl Olivate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Hydroxyacetophenone, Silica, Sodium Stearoyl Glutamate, Octadecene, Sorbitan Olivate, Xanthan Gum, Bisabolol, 3-o-ethyl ascorbic acid, Sodium Hyaluronate, Squalane, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Trisodium Ethylenediamine Disuccinate, Polyisobutene, Citric Acid, Sodium Hydroxide, Sorbitan Oleate, Caprylyl/Capryl Glucoside."
+  ],
+  "other_safety_information": [
+    "Other Information Protect this product from excessive heat and direct sun."
+  ],
+  "recent_major_changes": [
+    "DOSAGE & ADMINISTRATION"
+  ],
+  "package_label_principal_display_panel": [
+    "Principle Display Panel Carton"
+  ],
+  "set_id": "00c93b11-754e-701c-e063-6294a90a3b1d",
+  "id": "4f7828b7-bf2d-e4e7-e063-6294a90a3e0f",
+  "effective_time": "20260414",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "NATURIUM Dew-Glow Moisturizer SPF 50"
+    ],
+    "generic_name": [
+      "NATURIUM DEW-GLOW MOISTURIZER SPF 50"
+    ],
+    "manufacturer_name": [
+      "PML NYC, LLC"
+    ],
+    "product_ndc": [
+      "59735-338"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OCTISALATE",
+      "AVOBENZONE",
+      "HOMOSALATE"
+    ],
+    "spl_id": [
+      "4f7828b7-bf2d-e4e7-e063-6294a90a3e0f"
+    ],
+    "spl_set_id": [
+      "00c93b11-754e-701c-e063-6294a90a3b1d"
+    ],
+    "package_ndc": [
+      "59735-338-01",
+      "59735-338-03",
+      "59735-338-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0810456020329"
+    ],
+    "unii": [
+      "4X49Y0596W",
+      "G63QQF2NOX",
+      "V06SV4M95S"
+    ]
+  }
+}

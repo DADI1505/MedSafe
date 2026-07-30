@@ -1,0 +1,74 @@
+{
+  "spl_product_data_elements": [
+    "Nitrogen Nitrogen NITROGEN NITROGEN"
+  ],
+  "package_label_principal_display_panel": [
+    "NITROGEN, COMPRESSED NF UN1066 NON-FLAMMABLE GAS 2 Rx only. WARNING: Administration of Nitrogen may be hazardous or contraindicated. For use only by or under the supervision of a licensed practitioner who is experienced in the use and administration of Nitrogen and is familiar with the indications, effects, dosages, methods, and frequency and duration of administration, and with the hazards, contraindications, and side effects and the precautions to be taken. WARNING: CONTAINS GAS UNDER PRESSURE; MAY EXPLODE IF HEATED. MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION. Do not handle until all safety precautions have been read and understood. Use and store only outdoors or in a well-ventilated place. Use a back flow preventive device in the piping. Use only with equipment rated for cylinder pressure. Close valve after each use and when empty. Protect from sunlight when ambient temperature exceeds 52 degrees C (125 degrees F). Read and follow the Safety Data Sheet (SDS) before use. FIRST AID: IF INHALED: Remove person to fresh air and keep comfortable for breathing. Get medical advice/attention. CAS: 7727-37-9 DO NOT REMOVE THIS PRODUCT LABEL. Pressure: PSIG: Size: Liters: AGL Certified ISO 9001:2008 Inhalation Therapy Co. 600 RT. 46 WEST, CLIFTON, NJ 07015 973-478-5100 nitrogen one",
+    "NITROGEN, Refrigerated liquid NF UN1977 NON-FLAMMABLE GAS 2 Pounds AGL Certified ISO 9001:2008 Inhalation Therapy Co. 973-478-5100 600 RT. 46 WEST, CLIFTON, NJ 07015 ALWAYS KEEP CONTAINER IN UPRIGHT POSITION WARNING: RX only. Administration of Nitrogen may be hazardous or contraindicated. For use only by or under the supervision of a licensed practitioner who is experienced in the use and administration of Nitrogen and is familiar with the indications, effects, dosages, methods, and frequency and duration of administration, and with the hazards, contraindications, and side effects and the precautions to be taken. WARNING: CONTAINS REFRIGERATED GAS; MAY CAUSE CRYOGENIC BURNS OR INJURY. MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION. Do not handle until all safety precautions have been read and understood. Use and store only outdoors or in a well-ventilated place. Wear cold insulating gloves, face shield, and eye protection. Use a back flow preventive device in the piping. DO NOT change or force fit connections. Close valve after each use and when empty. Always keep container in upright position. Read and follow the Safety Data Sheet (SDS) before use. FIRST AID FIRST AID: IF INHALED: Remove person to fresh air and keep comfortable for breathing. IF ON SKIN: Thaw frosted parts with lukewarm water. Do not rub affected area. Get immediate medical advice/attention. DO NOT REMOVE THIS PRODUCT LABEL CAS: 7727-37-9 nitrogen two"
+  ],
+  "set_id": "08461574-4ad0-4749-a200-53abcad5b1ee",
+  "id": "4cc1bbf1-cb91-1798-e063-6294a90a46fb",
+  "effective_time": "20260302",
+  "version": "13",
+  "openfda": {
+    "application_number": [
+      "NDA205766"
+    ],
+    "brand_name": [
+      "Nitrogen"
+    ],
+    "generic_name": [
+      "NITROGEN"
+    ],
+    "manufacturer_name": [
+      "AGL Inhalation Therapy Co."
+    ],
+    "product_ndc": [
+      "17575-006"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "RESPIRATORY (INHALATION)"
+    ],
+    "substance_name": [
+      "NITROGEN"
+    ],
+    "rxcui": [
+      "311998"
+    ],
+    "spl_id": [
+      "4cc1bbf1-cb91-1798-e063-6294a90a46fb"
+    ],
+    "spl_set_id": [
+      "08461574-4ad0-4749-a200-53abcad5b1ee"
+    ],
+    "package_ndc": [
+      "17575-006-01",
+      "17575-006-02",
+      "17575-006-03",
+      "17575-006-04",
+      "17575-006-05",
+      "17575-006-06",
+      "17575-006-07",
+      "17575-006-08",
+      "17575-006-09",
+      "17575-006-10",
+      "17575-006-11",
+      "17575-006-12",
+      "17575-006-13",
+      "17575-006-14",
+      "17575-006-15",
+      "17575-006-16",
+      "17575-006-17",
+      "17575-006-18"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "N762921K75"
+    ]
+  }
+}

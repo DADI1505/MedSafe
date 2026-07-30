@@ -1,0 +1,78 @@
+{
+  "spl_product_data_elements": [
+    "Balmere Mineral Sunscreen Moisturizer Primer Zinc Oxide LECITHIN, SOYBEAN POLYGLYCERYL-2 DIPOLYHYDROXYSTEARATE HYDROLYZED JOJOBA ESTERS (ACID FORM) METHYLPROPANEDIOL CAPRYLYL GLYCOL PHENYLPROPANOL XANTHAN GUM ISOAMYL LAURATE HEXYLENE GLYCOL TOCOPHEROL CETYL ALCOHOL ETHYLHEXYLGLYCERIN GLYCERIN SILICON DIOXIDE WATER .ALPHA.-BISABOLOL, (+)- BUTYLOCTYL SALICYLATE CETETH-20 PULLULAN SQUALANE STEARETH-20 ZINC OXIDE ZINC OXIDE CYCLODEXTRINS"
+  ],
+  "dosage_and_administration": [
+    "Balmere Mineral Sunscreen Moisturizer + Primer Dosage and Administration"
+  ],
+  "inactive_ingredient": [
+    "Balmere Mineral Sunscreen Moisturizer + Primer Inactive ingredients"
+  ],
+  "indications_and_usage": [
+    "Balmere Mineral Sunscreen Moisturizer + Primer Indications & usage"
+  ],
+  "active_ingredient": [
+    "Balmere Mineral Sunscreen Moisturizer + Primer Active Ingredients"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Balmere Mineral Sunscreen Moisturizer + Primer keep out of reach of children"
+  ],
+  "purpose": [
+    "Balmere Mineral Sunscreen Moisturizer + Primer purpose"
+  ],
+  "warnings": [
+    "Balmere Mineral Sunscreen Moisturizer + Primer Warning Label"
+  ],
+  "package_label_principal_display_panel": [
+    "Balmere Mineral Sunscreen Moisturizer + Primer PDP"
+  ],
+  "set_id": "00d813e0-eb97-a6ba-e063-6394a90aa525",
+  "id": "437da32d-0ef7-5e67-e063-6294a90a2936",
+  "effective_time": "20251113",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Balmere Mineral Sunscreen Moisturizer Primer"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Balmere"
+    ],
+    "product_ndc": [
+      "83241-1039"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "437da32d-0ef7-5e67-e063-6294a90a2936"
+    ],
+    "spl_set_id": [
+      "00d813e0-eb97-a6ba-e063-6394a90aa525"
+    ],
+    "package_ndc": [
+      "83241-1039-1",
+      "83241-1039-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0197644501960"
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

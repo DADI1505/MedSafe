@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Remedy Antifungal Miconazole Nitrate APHANIZOMENON FLOS-AQUAE GREEN TEA LEAF CAPRYLIC/CAPRIC/LINOLEIC TRIGLYCERIDE 7-DEHYDROCHOLESTEROL GLYCYRRHIZINATE DIPOTASSIUM ETHYLENE BRASSYLATE CLOVE GLYCERIN SOY PROTEIN ISOPROPYL MYRISTATE METHYL DIHYDROJASMONATE (SYNTHETIC) EGG PHOSPHOLIPIDS HYDRATED SILICA SODIUM BENZOATE .ALPHA.-TOCOPHEROL ACETATE VANILLA WATER YEAST CORN OIL STARCH, CORN MICONAZOLE NITRATE MICONAZOLE"
+  ],
+  "active_ingredient": [
+    "Active ingredient Miconazole nitrate 2.0% w/w"
+  ],
+  "purpose": [
+    "Purpose Antifungal"
+  ],
+  "indications_and_usage": [
+    "Uses for the treatment of most athlete's foot (tinea pedis), jock itch (tinea cruris), ringworm (tinea corporis) relieves most itching, scaling, cracking, burning, redness, soreness, irritation, discomfort and chafing associated with jock itch"
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use on children under 2 years of age unless directed by a doctor on scalp or nails When using this product avoid contact with the eyes Stop use and ask a doctor if irritation occurs there is no improvement within 4 weeks when used for the treatment of athlete's foot or ringworm there is no improvement within 2 weeks when used for the treatment of jock itch Keep out of reach of children If swallowed, get medical help or contact a Poison Control center right away."
+  ],
+  "do_not_use": [
+    "Do not use on children under 2 years of age unless directed by a doctor on scalp or nails"
+  ],
+  "when_using": [
+    "When using this product avoid contact with the eyes"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if irritation occurs there is no improvement within 4 weeks when used for the treatment of athlete's foot or ringworm there is no improvement within 2 weeks when used for the treatment of jock itch"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed, get medical help or contact a Poison Control center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Clean the affected area and dry thoroughly Apply a thin layer of powder over affected area twice daily (morning and night) or as directed by a doctor Supervise children in the use of this product For athlete's foot, pay special attention between spaces in toes; wear well-fitting, ventilated shoes, and change shoes and socks at least once daily For athlete's foot and ringworm, use daily for 4 weeks For jock itch, use daily for 2 weeks If condition persists longer, consult a doctor This product is not effective on the scalp or nails."
+  ],
+  "storage_and_handling": [
+    "Other Information protect from freezing. Avoid excessive heat. do not use if package is damaged keep dry"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Aphanizomenon Flos-Aquae (Algae) Extract, Camellia Sinensis (Green Tea) Leaf Extract, Caprylic/Capric Triglycerides, 7-Dehydrocholesterol, Dipotassium Glycyrrhizate, Ethylene Brassylate, Eugenia Caryophyllus (Clove) Flower Extract, Fragrance, Glycerin, Hydrolyzed Soy Protein, Phospholipids, Silica, Sodium Benzoate, Tocopheryl Acetate, Water, Yeast Ferment Extract, Zea Mays (Corn) Oil, Zea Mays (Corn) Starch"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Label Package Label"
+  ],
+  "set_id": "021b4a31-d7f6-4921-b4b1-cbe832eecd93",
+  "id": "425303b5-9f9c-efc3-e063-6294a90ae594",
+  "effective_time": "20251029",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "M005"
+    ],
+    "brand_name": [
+      "Remedy Antifungal"
+    ],
+    "generic_name": [
+      "MICONAZOLE NITRATE"
+    ],
+    "manufacturer_name": [
+      "Medline Industries, LP"
+    ],
+    "product_ndc": [
+      "53329-169"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MICONAZOLE NITRATE"
+    ],
+    "rxcui": [
+      "998461"
+    ],
+    "spl_id": [
+      "425303b5-9f9c-efc3-e063-6294a90ae594"
+    ],
+    "spl_set_id": [
+      "021b4a31-d7f6-4921-b4b1-cbe832eecd93"
+    ],
+    "package_ndc": [
+      "53329-169-79"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0080196528564"
+    ],
+    "unii": [
+      "VW4H1CYW1K"
+    ]
+  }
+}

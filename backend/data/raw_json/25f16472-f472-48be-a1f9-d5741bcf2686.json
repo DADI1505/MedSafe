@@ -1,0 +1,97 @@
+{
+  "spl_product_data_elements": [
+    "BHI Constipation DIOSCOREA VILLOSA TUBER, SODIUM CHLORIDE, and STRYCHNOS NUX-VOMICA SEED DIOSCOREA VILLOSA TUBER DIOSCOREA VILLOSA ROOT SODIUM CHLORIDE CHLORIDE ION STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED MAGNESIUM STEARATE DEXTROSE MALTODEXTRIN Leafman"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS Each tablet contains: *Dioscorea villosa 4X, Natrum muriaticum 200X, *Nux vomica 8X 100 mg each. *Natural Ingredients"
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Inactive Ingredients:Dextrose, Magnesium Stearate, Maltodextrin ."
+  ],
+  "purpose": [
+    "PURPOSE Constipation Relief Tablets Relieves: • Constipation • Bowel Irregularity • Bloating"
+  ],
+  "indications_and_usage": [
+    "USES For the temporary relief of minor constipation, bowel irregularity, bloating"
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS At first sign of symptoms: Adults and children 4 years and older: 1 tablet every 1/2 to 1 hour until symptoms lessen, then continue with standard dosage. Standard dosage: Adults and children 4 years and older: Take1-2 tablets every 4 to 6 hours. Do not exceed 12 tablets in 24 hours. For children under 4, consult your health professional. Allow tablets to dissolve completely in the mouth, do not swallow ."
+  ],
+  "warnings": [
+    "WARNINGS If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children. If symptoms persist or worsen, a health professional should be consulted. Do not use if known sensitivity to BHI Constipation or any of its ingredients exists."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN Keep out of reach of children."
+  ],
+  "package_label_principal_display_panel": [
+    "Add image transcription here... BHI Constipation Tablet"
+  ],
+  "set_id": "0365b75b-fee4-4c1d-89ab-c692bdd73f75",
+  "id": "25f16472-f472-48be-a1f9-d5741bcf2686",
+  "effective_time": "20220707",
+  "version": "4",
+  "openfda": {
+    "brand_name": [
+      "BHI Constipation"
+    ],
+    "generic_name": [
+      "DIOSCOREA VILLOSA TUBER, SODIUM CHLORIDE, AND STRYCHNOS NUX-VOMICA SEED"
+    ],
+    "manufacturer_name": [
+      "MediNatura Inc"
+    ],
+    "product_ndc": [
+      "62795-1005"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIOSCOREA VILLOSA TUBER",
+      "SODIUM CHLORIDE",
+      "STRYCHNOS NUX-VOMICA SEED"
+    ],
+    "spl_id": [
+      "25f16472-f472-48be-a1f9-d5741bcf2686"
+    ],
+    "spl_set_id": [
+      "0365b75b-fee4-4c1d-89ab-c692bdd73f75"
+    ],
+    "package_ndc": [
+      "62795-1005-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0016962",
+      "M0516536"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Plant Proteins [CS]",
+      "Seed Storage Proteins [CS]"
+    ],
+    "unii": [
+      "IWY3IWX2G8",
+      "451W47IQ8X",
+      "269XH13919"
+    ]
+  }
+}

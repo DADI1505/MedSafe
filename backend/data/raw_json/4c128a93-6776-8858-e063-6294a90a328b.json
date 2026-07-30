@@ -1,0 +1,85 @@
+{
+  "spl_product_data_elements": [
+    "2000DL-CL30V SPF30 BS vanilla ETHYLHEXYLGLYCERIN WATER Octocrylene Octocrylene AVOBENZONE AVOBENZONE EDETATE DISODIUM ANHYDROUS SORBETH-12 HEXAOLEATE BIS-OCTYLDODECYL DIMER DILINOLEATE/PROPANEDIOL COPOLYMER PHENOXYETHANOL CARBOMER COPOLYMER TYPE A (ALLYL PENTAERYTHRITOL CROSSLINKED) STEARIC ACID TROLAMINE GLYCERYL MONOSTEARATE FRAGRANCE 13576 white to off-white"
+  ],
+  "active_ingredient": [
+    "Active Ingredients: Avobenzone 3% Octocrylene 8%"
+  ],
+  "purpose": [
+    "Purpose: Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses : Helps prevent sunburn. If used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "warnings": [
+    "WARNINGS : Skin Cancer/ Sking Aging Alert: Spending time in the sun increases your risk of skin cancer and early skin aging. This product has been shown only to prevent sunburn, not skin cancer and early skin aging. For external use only. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if irritation or rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. Keep out of reach of children . If product is swallowed, get immediate medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions : Apply liberally 15 minutes before sun exposure Reapply: ​*after 80minutes of swimming or sweating * immediately after towel drying *at least every 2 hours *Children under 6 months: Ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Water, Acrylates/C10-30, Alkyl Acrylate cross polymer, Stearic Acid, Glyceryl Monostearate, Bis-Octyldodecyl Dimer Dillinoleate/Propanediol Copolymer, Sorbeth-2-Hexaoleate, Phenoxylethanol, Ethylhexylglycerin, Triethanolamine, Disodium EDTA."
+  ],
+  "other_safety_information": [
+    "Other Information: Protect product from excessive heat and direct sun"
+  ],
+  "questions": [
+    "Questions or comments? Call toll free 1-800-535-5053"
+  ],
+  "package_label_principal_display_panel": [
+    "Vanilla spf30"
+  ],
+  "set_id": "02488aad-28be-4ffb-e063-6294a90ad01e",
+  "id": "4c128a93-6776-8858-e063-6294a90a328b",
+  "effective_time": "20260302",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "2000DL-CL30V"
+    ],
+    "generic_name": [
+      "SPF30 BS VANILLA"
+    ],
+    "manufacturer_name": [
+      "Epic Laboratories, LLC"
+    ],
+    "product_ndc": [
+      "58418-003"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OCTOCRYLENE",
+      "AVOBENZONE"
+    ],
+    "spl_id": [
+      "4c128a93-6776-8858-e063-6294a90a328b"
+    ],
+    "spl_set_id": [
+      "02488aad-28be-4ffb-e063-6294a90ad01e"
+    ],
+    "package_ndc": [
+      "58418-003-06"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0610012344599"
+    ],
+    "unii": [
+      "5A68WGF6WM",
+      "G63QQF2NOX"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Extra Strength Antacid Calcium Carbonate,750 mg Calcium carbonate FD&C BLUE NO. 1 CALCIUM CARBONATE CALCIUM CATION CARBONATE ION MALTODEXTRIN ADIPIC ACID STARCH, CORN MAGNESIUM STEARATE SUCRALOSE ANHYDROUS DEXTROSE FD&C RED NO. 40 Assorted Berry(Raspberry, Cranberry, Blackcurrant) light pink, light grey T471"
+  ],
+  "active_ingredient": [
+    "Active ingredient (per tablet) Calcium Carbonate USP 750 mg"
+  ],
+  "purpose": [
+    "Purpose Antacid"
+  ],
+  "indications_and_usage": [
+    "Uses relieves Heartburn Sour stomach Acid indigestion Upset stomach associated with these symptoms"
+  ],
+  "warnings": [
+    "Warnings Warnings Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product do not take more than 10 tablets in 24 hours if pregnant, do not take more than 6 tablets in 24 hours do not use the maximum dosage for more than 2 weeks except under the advice and supervision of a doctor Keep out of reach of children."
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs."
+  ],
+  "when_using": [
+    "When using this product do not take more than 10 tablets in 24 hours if pregnant, do not take more than 6 tablets in 24 hours do not use the maximum dosage for more than 2 weeks except under the advice and supervision of a doctor"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 12 years of age and over: chew and swallow 2-4 tablets as symptoms occur, or as directed by a doctor. Do not take for symptoms that persist for more than 2 weeks unless advised by a doctor."
+  ],
+  "other_safety_information": [
+    "Other information each tablet contains : elemental calcium 300 mg store at room temperature. Keep the container tightly closed."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients adipic acid, corn starch, dextrose anhydrous, FD&C blue no. 1 Al lake, FD&C red 40 Al lake, flavors, magnesium stearate, maltodextrin, sucralose"
+  ],
+  "questions": [
+    "Questions or comments? Call 1-800-910-6874"
+  ],
+  "package_label_principal_display_panel": [
+    "903R-Target-Extra strength Antacid Calcium carbonate-96s-label"
+  ],
+  "set_id": "07aa39bb-c409-ce4f-e063-6394a90a7069",
+  "id": "42c52350-4792-aa2a-e063-6394a90a6400",
+  "effective_time": "20251104",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M001"
+    ],
+    "brand_name": [
+      "Extra Strength Antacid Calcium Carbonate,750 mg"
+    ],
+    "generic_name": [
+      "CALCIUM CARBONATE"
+    ],
+    "manufacturer_name": [
+      "TARGET CORPORATION"
+    ],
+    "product_ndc": [
+      "11673-755"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CALCIUM CARBONATE"
+    ],
+    "rxcui": [
+      "308915"
+    ],
+    "spl_id": [
+      "42c52350-4792-aa2a-e063-6394a90a6400"
+    ],
+    "spl_set_id": [
+      "07aa39bb-c409-ce4f-e063-6394a90a7069"
+    ],
+    "package_ndc": [
+      "11673-755-69"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "H0G9379FGK"
+    ]
+  }
+}

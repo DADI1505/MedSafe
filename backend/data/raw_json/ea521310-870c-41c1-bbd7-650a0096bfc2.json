@@ -1,0 +1,81 @@
+{
+  "spl_product_data_elements": [
+    "Intense Therapy Lip Balm Pineapple Mint sunscreen skin protectant lip balm AVOBENZONE AVOBENZONE OCTINOXATE OCTINOXATE PETROLATUM PETROLATUM COCOA BUTTER LANOLIN OIL WHITE WAX METHYL SALICYLATE SHEA BUTTER AVOCADO OIL .ALPHA.-TOCOPHEROL ACETATE CYCLOMETHICONE 5 CYCLOMETHICONE 6 MICROCRYSTALLINE WAX GREEN TEA LEAF"
+  ],
+  "warnings": [
+    "Warnings Stop use and ask doctor if rash occurs Children under 6 months: Ask a doctor"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Avobenzone 3.0% Sunscreen Octinoxate 7.5% Sunscreen Petrolatum 40.2% Skin Protectant"
+  ],
+  "dosage_and_administration": [
+    "Directions Apply liberally and reapply every 2 hours or after eating, drinking, swimming or wiping lips."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of Reach of Children Keep out of Reach of Children"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent sunburn and chapped lips."
+  ],
+  "purpose": [
+    "Uses Helps prevent sunburn and chapped lips."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients beeswax, butyrospermum Parkii (shea) butter, C18-38 alkyl hydroxystearol stearate, camellia sinenesis (green tea) leaf extract, cyclohexasiloxane, cyclopentasiloxane, flavor, lanolin, microcrystalline wax, ozokerite, persea gratissima (avocado) oil, ployglyceryl 3 beeswax, theobroma cacao (cocoa) seed butter, tocopheryl acetate"
+  ],
+  "questions": [
+    "Questions www.getjackblack.com 1-877-766-3388"
+  ],
+  "package_label_principal_display_panel": [
+    "Labeling Pineapple Mint Lip Balm Artwork"
+  ],
+  "set_id": "0862534c-5f48-4f67-a3b8-0876a667556f",
+  "id": "ea521310-870c-41c1-bbd7-650a0096bfc2",
+  "effective_time": "20231109",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Intense Therapy Lip Balm Pineapple Mint"
+    ],
+    "generic_name": [
+      "SUNSCREEN SKIN PROTECTANT LIP BALM"
+    ],
+    "manufacturer_name": [
+      "Jack Black, LLC"
+    ],
+    "product_ndc": [
+      "66738-046"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "AVOBENZONE",
+      "OCTINOXATE",
+      "PETROLATUM"
+    ],
+    "spl_id": [
+      "ea521310-870c-41c1-bbd7-650a0096bfc2"
+    ],
+    "spl_set_id": [
+      "0862534c-5f48-4f67-a3b8-0876a667556f"
+    ],
+    "package_ndc": [
+      "66738-046-25"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "G63QQF2NOX",
+      "4Y5P7MUD51",
+      "4T6H12BN9U"
+    ]
+  }
+}

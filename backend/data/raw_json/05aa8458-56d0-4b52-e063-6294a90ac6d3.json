@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Niccolum Fluoratum Niccolum Fluoratum NICKEL FLUORIDE NICKEL CATION SUCROSE Niccolum Fluoratum Niccolum Fluoratum NICKEL FLUORIDE NICKEL CATION SUCROSE Niccolum Fluoratum Niccolum Fluoratum NICKEL FLUORIDE NICKEL CATION SUCROSE Niccolum Fluoratum Niccolum Fluoratum NICKEL FLUORIDE NICKEL CATION SUCROSE Niccolum Fluoratum Niccolum Fluoratum NICKEL FLUORIDE NICKEL CATION SUCROSE Niccolum Fluoratum Niccolum Fluoratum NICKEL FLUORIDE NICKEL CATION SUCROSE Niccolum Fluoratum Niccolum Fluoratum NICKEL FLUORIDE NICKEL CATION SUCROSE Niccolum Fluoratum Niccolum Fluoratum NICKEL FLUORIDE NICKEL CATION SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Niccolum Fluoratum 6C 5g Niccolum Fluoratum 6C 30g Niccolum Fluoratum 6C 100g Niccolum Fluoratum 12C 5g Niccolum Fluoratum 12C 30g Niccolum Fluoratum 12C 100g Niccolum Fluoratum 30C 1g Niccolum Fluoratum 30C 5g Niccolum Fluoratum 30C 30g Niccolum Fluoratum 30C 100g Niccolum Fluoratum 100C 1g Niccolum Fluoratum 100C 5g Niccolum Fluoratum 100C 30g Niccolum Fluoratum 100C 100g Niccolum Fluoratum 200C 1g Niccolum Fluoratum 200C 5g Niccolum Fluoratum 200C 30g Niccolum Fluoratum 200C 100g Niccolum Fluoratum 500C 1g Niccolum Fluoratum 500C 5g Niccolum Fluoratum 500C 30g Niccolum Fluoratum 500C 100g Niccolum Fluoratum 1M 1g Niccolum Fluoratum 1M 5g Niccolum Fluoratum 1M 30g Niccolum Fluoratum 1M 100g Niccolum Fluoratum LM1 30g"
+  ],
+  "set_id": "05aa8458-56cf-4b52-e063-6294a90ac6d3",
+  "id": "05aa8458-56d0-4b52-e063-6294a90ac6d3",
+  "effective_time": "20230918",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Niccolum Fluoratum"
+    ],
+    "generic_name": [
+      "NICCOLUM FLUORATUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3936",
+      "37662-3943",
+      "37662-3938",
+      "37662-3940",
+      "37662-3937",
+      "37662-3939",
+      "37662-3941",
+      "37662-3942"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "NICKEL FLUORIDE"
+    ],
+    "spl_id": [
+      "05aa8458-56d0-4b52-e063-6294a90ac6d3"
+    ],
+    "spl_set_id": [
+      "05aa8458-56cf-4b52-e063-6294a90ac6d3"
+    ],
+    "package_ndc": [
+      "37662-3943-1",
+      "37662-3936-1",
+      "37662-3936-2",
+      "37662-3936-3",
+      "37662-3938-1",
+      "37662-3938-2",
+      "37662-3938-3",
+      "37662-3938-4",
+      "37662-3940-1",
+      "37662-3940-2",
+      "37662-3940-3",
+      "37662-3940-4",
+      "37662-3937-1",
+      "37662-3937-2",
+      "37662-3937-3",
+      "37662-3939-1",
+      "37662-3939-2",
+      "37662-3939-3",
+      "37662-3939-4",
+      "37662-3941-1",
+      "37662-3941-2",
+      "37662-3941-3",
+      "37662-3941-4",
+      "37662-3942-1",
+      "37662-3942-2",
+      "37662-3942-3",
+      "37662-3942-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "69NBB20493"
+    ]
+  }
+}

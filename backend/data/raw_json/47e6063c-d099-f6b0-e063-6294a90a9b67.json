@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "DZUL ANTI-DANDRUFF CONDITIONER Pyrithione Zinc PROPYLENE GLYCOL ARGANIA SPINOSA WHOLE XANTHAN GUM CAPRYLYL GLYCOL PHENOXYETHANOL PANTHENOL BIOTIN PYRITHIONE ZINC PYRITHIONE ZINC WATER SODIUM BENZOATE MALUS DOMESTICA WHOLE EDETATE DISODIUM ANHYDROUS CITRIC ACID CETOSTEARYL ALCOHOL LIMONENE, (+)- ASCOPHYLLUM NODOSUM GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE (1.7 SUBSTITUENTS PER SACCHARIDE) CASTOR OIL GLYCERIN CHLORPHENESIN CETRIMONIUM CHLORIDE CETYL ALCOHOL SHEA BUTTER STEARYL ALCOHOL MEDIUM-CHAIN TRIGLYCERIDES BEHENTRIMONIUM METHOSULFATE LINALOOL, (+/-)-"
+  ],
+  "active_ingredient": [
+    "Pyrithione Zinc 2%"
+  ],
+  "purpose": [
+    "Anti-Dandruff"
+  ],
+  "indications_and_usage": [
+    "​ For the relief of the symptoms of dandruff"
+  ],
+  "warnings": [
+    "For external use only. Do not use on wounds or damaged skin or on a child under 12 years of age unless directed by a physician"
+  ],
+  "when_using": [
+    "When using this product do not get into eyes. If contact occurs, rinse eyes thoroughly with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens or does not improve after regular use as directed."
+  ],
+  "keep_out_of_reach_of_children": [
+    "If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "dosage_and_administration": [
+    "Apply a small amount quantity of the product into hair and massage the scalp. Allow the product to act for 5 minutes. Rinse thoroughly with enough water. For best results, use at least twice a week or as directed by a doctor."
+  ],
+  "other_safety_information": [
+    "See on the bottom of the bottle for lot number and expiration date."
+  ],
+  "inactive_ingredient": [
+    "Water (Aqua), Cetearyl Alcohol, Stearyl Alcohol, Cetyl Alcohol, Caprylic/Capric Triglyceride, Behentrimonium Methosulfate, Caprylyl Glycol, Fragrance (Parfum), Organic Butyrospermum Parkii (Shea) Butter, Panthenol, Hydrolyzed Keratin, Guar Hydroxypropyltrimonium Chloride, Ricinus Communis (Castor) Seed Oil, Disodium EDTA, Propylene Glycol, Biotin, Argania Spinosa Kernel Oil, Malus Domestica Fruit Cell Culture Extract, Xanthan Gum, Sodium Benzoate, Glycerin, Algae Extract, Citric Acid, Phenoxyethanol, Chlorophenesin, Cetrimonium Chloride, Limonene, Linalool."
+  ],
+  "questions": [
+    "Questions or comments? Call (305)-900-8256"
+  ],
+  "package_label_principal_display_panel": [
+    "DZUL ANTI-DANDRUFF CONDITIONER DZUL ANTIDANDRUFF CONDITIONER"
+  ],
+  "set_id": "05f29038-f14f-4285-e063-6294a90ac980",
+  "id": "47e6063c-d099-f6b0-e063-6294a90a9b67",
+  "effective_time": "20260108",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M032"
+    ],
+    "brand_name": [
+      "DZUL ANTI-DANDRUFF CONDITIONER"
+    ],
+    "generic_name": [
+      "PYRITHIONE ZINC"
+    ],
+    "manufacturer_name": [
+      "Caball Sales, Inc."
+    ],
+    "product_ndc": [
+      "83037-002"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "PYRITHIONE ZINC"
+    ],
+    "rxcui": [
+      "244458"
+    ],
+    "spl_id": [
+      "47e6063c-d099-f6b0-e063-6294a90a9b67"
+    ],
+    "spl_set_id": [
+      "05f29038-f14f-4285-e063-6294a90ac980"
+    ],
+    "package_ndc": [
+      "83037-002-08"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "R953O2RHZ5"
+    ]
+  }
+}

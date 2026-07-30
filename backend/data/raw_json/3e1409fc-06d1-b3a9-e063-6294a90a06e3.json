@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Powder Titanium Dioxide MAGNESIUM SILICATE MANNITOL BORON NITRIDE ZINC STEARATE FERRIC OXIDE RED FERRIC OXIDE RED SILICON DIOXIDE TITANIUM DIOXIDE TITANIUM DIOXIDE SODIUM STARCH GLYCOLATE TYPE A MICA BISMUTH OXYCHLORIDE MEDIUM-CHAIN TRIGLYCERIDES"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Titanium Dioxide"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent sunburn."
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "do_not_use": [
+    "Do not use • Do not use on damaged or broken skin"
+  ],
+  "when_using": [
+    "When using When using this product, keep out of eyes. Rinse with water to remove"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children • Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply liberally 15 minutes before sun exposure • Use a water resistant sunscreen if swimming or sweating • Reapply at least every 2 hours • Children under 6 months: ask a doctor"
+  ],
+  "storage_and_handling": [
+    "Other Information Protect this product from excessive heat and direct sun • In the unlikely event of an adverse reaction, please contact 1.866.PUR.0022."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredient Mica, Caprylic/Capric Triglyceride, Boron Nitride, Bismuth Oxychloride, Zinc Stearate, Magnesium Silicate, Sodium Starch Octenylsuccinate, Mannitol, Sodium Gluconate, Citric Acid, Sodium Citrate, Waltheria Indica Leaf Extract, Dextrin, Ferulic Acid, Lactic Acid (L), Butyrospermum Parkii (Shea) Butter, Retinol, Ceramide AP, Silica, Tocopheryl Acetate, Aqua, Glucosamine HCI, Pisum Sativum (Pea) Extract, Bambusa Vulgaris Leaf/Stem Extract, Magnesium Carbonate, Iron Oxides (CI 77491, CI 77492, CI 77499), May Contain: Titanium Dioxide (CI 77891), Ultramarines (CI 77007)."
+  ],
+  "package_label_principal_display_panel": [
+    "Package label - Principal display panel 61354-117-02-aw 61354-117-02-aw 61354-117-02_aw"
+  ],
+  "set_id": "08b52f29-c1a0-c673-e063-6294a90a9a7a",
+  "id": "3e1409fc-06d1-b3a9-e063-6294a90a06e3",
+  "effective_time": "20250905",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Powder"
+    ],
+    "generic_name": [
+      "TITANIUM DIOXIDE"
+    ],
+    "manufacturer_name": [
+      "Oxygen Development LLC"
+    ],
+    "product_ndc": [
+      "61354-117"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "FERRIC OXIDE RED",
+      "TITANIUM DIOXIDE"
+    ],
+    "spl_id": [
+      "3e1409fc-06d1-b3a9-e063-6294a90a06e3"
+    ],
+    "spl_set_id": [
+      "08b52f29-c1a0-c673-e063-6294a90a9a7a"
+    ],
+    "package_ndc": [
+      "61354-117-01",
+      "61354-117-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0847137046743"
+    ],
+    "unii": [
+      "1K09F3G675",
+      "15FIX9V2JP"
+    ]
+  }
+}

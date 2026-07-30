@@ -1,0 +1,95 @@
+{
+  "spl_product_data_elements": [
+    "Liquid Wart Remover Salicylic Acid PYROXYLIN CAMPHOR (NATURAL) CASTOR OIL SALICYLIC ACID SALICYLIC ACID"
+  ],
+  "active_ingredient": [
+    "Active ingredient Salicylic acid 17% w/w"
+  ],
+  "purpose": [
+    "Purpose Wart remover"
+  ],
+  "indications_and_usage": [
+    "Uses for the removal of common and plantar warts. The common wart is easily recognized by the rough 'cauliflower-like' appearance of the surface. Plantar wart is recognized by its location only on the bottom of the foot, its tenderness and the interruption of the footprint pattern."
+  ],
+  "warnings": [
+    "Warnings For external use only. Flammable keep away from fire or flame cap bottle tightly and store at room temerature away from heat Do not use if you are a diabetic or have poor blood circulation, except under the advice and supervision of a doctor or podiatrist on genital warts and warts on the face on moles, birthmarks and warts with hair growing from them on mucous membranes on irritated, infected or reddened skin When using this product avoid contact with eyes. If product gets into the eye, flush with water for 15 minutes avoid inhaling vapors Stop use and ask doctor if discomfort persists. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "safe_handling_warning": [
+    "Flammable keep away from fire or flame cap bottle tightly and store at room temerature away from heat"
+  ],
+  "do_not_use": [
+    "Do not use if you are a diabetic or have poor blood circulation, except under the advice and supervision of a doctor or podiatrist on genital warts and warts on the face on moles, birthmarks and warts with hair growing from them on mucous membranes on irritated, infected or reddened skin"
+  ],
+  "when_using": [
+    "When using this product avoid contact with eyes. If product gets into the eye, flush with water for 15 minutes avoid inhaling vapors"
+  ],
+  "stop_use": [
+    "Stop use and ask doctor if discomfort persists."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions wash affected area, may soak wart in warm water for 5 minutes dry area thoroughly carefully apply small amount of wart remover with applicator to sufficiently cover each wart do not apply to face or neck let dry and repeat this procedure once or twice daily as needed until wart is removed for up to 12 weeks"
+  ],
+  "other_safety_information": [
+    "Other information store between 20° to 25°C (68° to 77°F) close tightly to prevent solidification store in a cool place"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients camphor, castor oil, ethanol, ethyl ether, nitrocellulose"
+  ],
+  "questions": [
+    "Questions? Call 1-866-964-0939"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel meijer liquid wart remover Salicylic Acid Maximum Strength Removes common & plantar warts Convenient brush applicator Safe & effective NET 0.31 FL OZ (9mL) image 1"
+  ],
+  "set_id": "03c3485a-7324-5941-e063-6394a90aaef8",
+  "id": "4097a1bc-b390-786f-e063-6294a90a364b",
+  "effective_time": "20251007",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M028"
+    ],
+    "brand_name": [
+      "Liquid Wart Remover"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID"
+    ],
+    "manufacturer_name": [
+      "Meijer Distribution Inc"
+    ],
+    "product_ndc": [
+      "79481-0614"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "312881"
+    ],
+    "spl_id": [
+      "4097a1bc-b390-786f-e063-6294a90a364b"
+    ],
+    "spl_set_id": [
+      "03c3485a-7324-5941-e063-6394a90aaef8"
+    ],
+    "package_ndc": [
+      "79481-0614-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

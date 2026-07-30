@@ -1,0 +1,104 @@
+{
+  "spl_product_data_elements": [
+    "Loratadine loratadine LACTOSE MONOHYDRATE MAGNESIUM STEARATE POVIDONE STARCH, CORN LORATADINE LORATADINE 10;p white to off-white"
+  ],
+  "warnings_and_cautions": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredient (in each tablet) Loratadine, 10 mg USP"
+  ],
+  "purpose": [
+    "Purpose Antihistamine"
+  ],
+  "indications_and_usage": [
+    "Uses Temporarily relieves these symptoms due to hay fever or other respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat"
+  ],
+  "warnings": [
+    "Warnings Do not use if you ever have had an allergic reaction to this product or any of its ingredients."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose."
+  ],
+  "when_using": [
+    "When using this product do not take more than directed. Taking more than directed may cause drowsiness."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnanct or breast-feeding , ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children . In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 6 years of age and over 1 tablet daily; not more than 1 tablet in 24 hours children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"100%\"><tbody><tr><td> adults and children 6 years of age and over</td><td> 1 tablet daily; not more than 1 tablet in 24 hours</td></tr><tr><td>children under 6 years of age </td><td>ask a doctor </td></tr><tr><td>consumers with liver or kidney disease </td><td>ask a doctor </td></tr></tbody></table>"
+  ],
+  "other_safety_information": [
+    "Other Information Tamper-evident: do not use if foil seal under cap, printed with \"SEALED for YOUR PROTECTION\" is missing, open or broken. Store between 20° - 25°C (68°-77°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients corn starch, lactose monohydrate, magnesium stearate, povidone"
+  ],
+  "questions": [
+    "Questions or comments? Call 1-800-874-7464 Monday to Friday 9 AM to 5 PM EST"
+  ],
+  "how_supplied": [
+    "How Supplied/ Storage and Handling Loratidine is supplied as: Bottles of 30 Tablets NDC: 80425-0352-01 store at 20-25°C (68-77°F) (see USP Controlled Room Temperature)"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL.PRINCIPAL DISPLAY PANEL label1"
+  ],
+  "set_id": "01cb43cf-57a9-f189-e063-6294a90afd88",
+  "id": "2a9c2eb6-a6de-f647-e063-6294a90a93fe",
+  "effective_time": "20241231",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "ANDA214684"
+    ],
+    "brand_name": [
+      "Loratadine"
+    ],
+    "generic_name": [
+      "LORATADINE"
+    ],
+    "manufacturer_name": [
+      "Advanced Rx Pharmacy of Tennessee, LLC"
+    ],
+    "product_ndc": [
+      "80425-0352"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LORATADINE"
+    ],
+    "rxcui": [
+      "311372"
+    ],
+    "spl_id": [
+      "2a9c2eb6-a6de-f647-e063-6294a90a93fe"
+    ],
+    "spl_set_id": [
+      "01cb43cf-57a9-f189-e063-6294a90afd88"
+    ],
+    "package_ndc": [
+      "80425-0352-1"
+    ],
+    "original_packager_product_ndc": [
+      "16571-822"
+    ],
+    "unii": [
+      "7AJO3BO7QN"
+    ]
+  }
+}

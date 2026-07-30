@@ -1,0 +1,81 @@
+{
+  "spl_product_data_elements": [
+    "G-40 TILIA TOMENTOSA BUD ALCOHOL WATER TILIA TOMENTOSA BUD TILIA TOMENTOSA BUD"
+  ],
+  "spl_unclassified_section": [
+    "NDC 58264-0403-2",
+    "To be used according to standard homeopathic indications."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS Insomnia, nerve sedative, anxiety."
+  ],
+  "purpose": [
+    "Insomnia, nerve sedative, anxiety."
+  ],
+  "active_ingredient": [
+    "INGREDIENTS ACTIVE Tilia tomentosa (Linden Tree) 1DH INACTIVE 36.6% alcohol (V/V) Glycerin Macerate"
+  ],
+  "inactive_ingredient": [
+    "INACTIVE 36.6% alcohol (V/V) Glycerin Macerate"
+  ],
+  "dosage_and_administration": [
+    "SUGGESTED DOSAGE One dropper full twice daily."
+  ],
+  "storage_and_handling": [
+    "SHAKE WELL"
+  ],
+  "warnings": [
+    "Warnings Use only if cap seal is unbroken. If pregnant or breastfeeding, ask a healthcare professional before use. Keep this and all medication out of the reach of children."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep this and all medication out of the reach of children."
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 2 FL. OZ. Bottle Label DYNAMIC NUTRITIONAL ASSOCIATES, INC. G-40 TILIA TOMENTOSA GEMMOTHERAPY 2 FL. OZ. G-40"
+  ],
+  "set_id": "076202ba-ee88-49e4-a47b-4da9fc14a6a4",
+  "id": "2b53411e-0793-614f-e063-6294a90aa94f",
+  "effective_time": "20250109",
+  "version": "4",
+  "openfda": {
+    "brand_name": [
+      "G-40"
+    ],
+    "generic_name": [
+      "TILIA TOMENTOSA BUD"
+    ],
+    "manufacturer_name": [
+      "DNA Labs, Inc."
+    ],
+    "product_ndc": [
+      "58264-0403"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "SUBLINGUAL"
+    ],
+    "substance_name": [
+      "TILIA TOMENTOSA BUD"
+    ],
+    "spl_id": [
+      "2b53411e-0793-614f-e063-6294a90aa94f"
+    ],
+    "spl_set_id": [
+      "076202ba-ee88-49e4-a47b-4da9fc14a6a4"
+    ],
+    "package_ndc": [
+      "58264-0403-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "Z092RFX1IW"
+    ]
+  }
+}

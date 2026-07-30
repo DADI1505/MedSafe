@@ -1,0 +1,129 @@
+{
+  "spl_product_data_elements": [
+    "Tiger Balm Pain Relieving Hydrogel Large CAMPHOR (SYNTHETIC), LEVOMENTHOL, and CAPSICUM CAMPHOR (SYNTHETIC) CAMPHOR (SYNTHETIC) LEVOMENTHOL LEVOMENTHOL CAPSICUM CAPSICUM CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED eucalyptus oil glycerin methyl acrylate water polysorbate 80 silicon dioxide sorbitan monooleate sorbitol tartaric acid"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Purpose DL-Camphor 230 mg/patch Topical Analgesic L-Menthol 70 mg /patch Topical Analgesic Capsicum Extract 46 mg/patch Topical Analgesic"
+  ],
+  "active_ingredient_table": [
+    "<table width=\"80%\"><col width=\"70%\" align=\"left\" valign=\"top\"/><col width=\"30%\" align=\"right\" valign=\"top\"/><thead><tr><th><content styleCode=\"italics\">Active Ingredients</content></th><th><content styleCode=\"italics\">Purpose</content></th></tr></thead><tbody><tr><td>DL-Camphor 230 mg/patch</td><td>Topical Analgesic</td></tr><tr><td>L-Menthol 70 mg /patch</td><td>Topical Analgesic</td></tr><tr><td>Capsicum Extract 46 mg/patch</td><td>Topical Analgesic</td></tr></tbody></table>"
+  ],
+  "purpose": [
+    "Active Ingredients Purpose DL-Camphor 230 mg/patch Topical Analgesic L-Menthol 70 mg /patch Topical Analgesic Capsicum Extract 46 mg/patch Topical Analgesic"
+  ],
+  "purpose_table": [
+    "<table width=\"80%\"><col width=\"70%\" align=\"left\" valign=\"top\"/><col width=\"30%\" align=\"right\" valign=\"top\"/><thead><tr><th><content styleCode=\"italics\">Active Ingredients</content></th><th><content styleCode=\"italics\">Purpose</content></th></tr></thead><tbody><tr><td>DL-Camphor 230 mg/patch</td><td>Topical Analgesic</td></tr><tr><td>L-Menthol 70 mg /patch</td><td>Topical Analgesic</td></tr><tr><td>Capsicum Extract 46 mg/patch</td><td>Topical Analgesic</td></tr></tbody></table>"
+  ],
+  "indications_and_usage": [
+    "Uses For temporary relief of pains."
+  ],
+  "warnings": [
+    "Warnings FOR EXTERNAL USE ONLY When using this product Use only as directed Do not get into eyes or on mucous membranes Do not apply to wounds, damaged or irritated skin Do not bandage or cover with any type of wrap except clothing Do not use with a heating pad or apply external heat Do not use 1 hour prior to bathing or within 30 minutes after bathing Stop use and ask a doctor if Condition worsens Severe skin irritation occurs Pain persists for more than 7 days Symptoms clear up and occur again within a few days If pregnant or breast-feeding, or if you have sensitive skin, ask a healthcare professional before use. Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product Use only as directed Do not get into eyes or on mucous membranes Do not apply to wounds, damaged or irritated skin Do not bandage or cover with any type of wrap except clothing Do not use with a heating pad or apply external heat Do not use 1 hour prior to bathing or within 30 minutes after bathing"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if Condition worsens Severe skin irritation occurs Pain persists for more than 7 days Symptoms clear up and occur again within a few days"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, or if you have sensitive skin, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 12 years and over apply to affected area; change patch 1 to 2 times daily Children under 12 years, consult doctor before use How to apply: Clean and dry affected area Cut open pouch and remove patch Remove protective film and apply directly to area of pain Apply to affected area not more than 3 times daily Wash hands with soap after applying patch Reseal pouch containing unused patches"
+  ],
+  "storage_and_handling": [
+    "Other Information This product may cause allergic reaction on some individuals. Store in cool dry place away from direct sunlight."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Carboxymethylcellulose Sodium, Eucalyptus Oil, Glycerin, Mentha Oil, Methyl Acrylate and 2-Ethylhexyl Acrylate Copolymer, Purified Water, Polysorbate 80, PVA Solution, Silicon Dioxide, Sodium Polyacrylate, Sodium Polyacrylate Starch, Sorbitan Monooleate, Sorbitol Solution, Tartaric Acid"
+  ],
+  "questions": [
+    "Questions/Comments (925) 292-3888"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 4 Patch Pouch Label NDC 66761-324-04 LARGE TIGER BALM ® TIGER BALM ® PAIN RELIEVING HYDROGEL PATCH Advanced Hydrogel Patch Technology For temporary relief of pains Stretchable Long Lasting Convenient And Not Messy It Works! 4 PATCHES (8 x 4 inches each) PRINCIPAL DISPLAY PANEL - 4 Patch Pouch Label"
+  ],
+  "set_id": "064d04ca-184d-492b-867c-beaa165ab3e0",
+  "id": "08eb12c8-b1ce-4d18-9be7-17cbce7befcf",
+  "effective_time": "20250714",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Tiger Balm Pain Relieving Hydrogel Large"
+    ],
+    "generic_name": [
+      "CAMPHOR (SYNTHETIC), LEVOMENTHOL, AND CAPSICUM"
+    ],
+    "manufacturer_name": [
+      "Haw Par Healthcare Ltd."
+    ],
+    "product_ndc": [
+      "66761-324"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CAMPHOR (SYNTHETIC)",
+      "LEVOMENTHOL",
+      "CAPSICUM"
+    ],
+    "rxcui": [
+      "1863589"
+    ],
+    "spl_id": [
+      "08eb12c8-b1ce-4d18-9be7-17cbce7befcf"
+    ],
+    "spl_set_id": [
+      "064d04ca-184d-492b-867c-beaa165ab3e0"
+    ],
+    "package_ndc": [
+      "66761-324-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185375",
+      "N0000185371",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "M0006342",
+      "M0016962",
+      "M0022575"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Plant Allergenic Extract [EPC]",
+      "Non-Standardized Food Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Dietary Proteins [CS]",
+      "Plant Proteins [CS]",
+      "Vegetable Proteins [CS]"
+    ],
+    "unii": [
+      "5TJD82A1ET",
+      "BZ1R15MTK7",
+      "00UK7646FG"
+    ]
+  }
+}

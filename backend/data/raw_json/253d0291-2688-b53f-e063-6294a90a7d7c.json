@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Dove Raw Shea Butter and Hyaluronic Acid Moisturizing 48h Antiperspirant Deodorant CALCIUM CHLORIDE WATER ALKYL (C12-15) BENZOATE CYCLOMETHICONE 5 SYNTHETIC WAX (1200 MW) ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE GLYCERIN CETYL PEG/PPG-10/1 DIMETHICONE (HLB 4) GLYCINE SUNFLOWER OIL SHEA BUTTER HYALURONATE SODIUM GERANIOL HYDROXYCITRONELLAL COUMARIN"
+  ],
+  "description": [
+    "SHEA MOISTURE RAW SHEA BUTTER & HYALURONIC ACID MOISTURIZING 48H ANTIPERSPIRANT DEODORANT - aluminum sesquichlorohydrate stick"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient Aluminum Sesquichlorohydrate (12.2)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses reduces underarm wetness"
+  ],
+  "warnings": [
+    "Warnings • For external use only. • Do not use on broken skin . • Ask a doctor before use if you have kidney disease. • Stop use if rash or irritation occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "• Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply to underarms only"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water (Aqua), C12-15 Alkyl Benzoate, Cyclopentasiloxane, Synthetic Wax, Glycerin, Calcium Chloride, Fragrance (Parfum), Cetyl PEG/PPG-10/1 Dimethicone, Glycine, Helianthus Annuus (Sunflower) Seed Oil, Butyrospermum Parkii (Shea) Butter, Sodium Hyaluronate, Coumarin, Geraniol, Hydroxycitronellal."
+  ],
+  "questions": [
+    "Questions? Call 1-800-761-3683"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Shea Moisture Moisturizing AP Deo"
+  ],
+  "set_id": "03882c90-f46b-47b4-e063-6394a90a99e4",
+  "id": "253d0291-2688-b53f-e063-6294a90a7d7c",
+  "effective_time": "20241024",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Dove"
+    ],
+    "generic_name": [
+      "RAW SHEA BUTTER AND HYALURONIC ACID MOISTURIZING 48H ANTIPERSPIRANT DEODORANT"
+    ],
+    "manufacturer_name": [
+      "Conopco Inc. d/b/a/ Unilever"
+    ],
+    "product_ndc": [
+      "64942-2147"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM SESQUICHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "253d0291-2688-b53f-e063-6294a90a7d7c"
+    ],
+    "spl_set_id": [
+      "03882c90-f46b-47b4-e063-6394a90a99e4"
+    ],
+    "package_ndc": [
+      "64942-2147-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "UCN889409V"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Wart Removers Salicylic Acid POLYVINYL ALCOHOL, UNSPECIFIED HIGH DENSITY POLYETHYLENE SALICYLIC ACID SALICYLIC ACID"
+  ],
+  "active_ingredient": [
+    "Active ingredient Salicylic acid 40% w/w"
+  ],
+  "purpose": [
+    "Purpose Wart remover"
+  ],
+  "indications_and_usage": [
+    "Use for the removal of common warts. The common wart is easily recognized by the rough 'cauliflower-like' appearance of the surface."
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use on irritated, infected or reddened skin on general warts and warts on the face on moles, birthmarks and warts with hair growing from them on mucous membranes if you are a diabeticor if you have poor blood circulation Stop use and ask a doctor if discomfort persists Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on irritated, infected or reddened skin on general warts and warts on the face on moles, birthmarks and warts with hair growing from them on mucous membranes if you are a diabeticor if you have poor blood circulation"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if discomfort persists"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions wash affected area may soak wart in warm water for 5 minutes dry area thoroughly if necessary, cut medicated patch to fit wart carefully adhere medicated patch directly over wart cover patch with pad to conceal area repeat this procedure every 48 hours as needed (until wart is removed) for up to 12 weeks"
+  ],
+  "other_safety_information": [
+    "Other information store between 59°F to 86°F (15°C to 30°C) avoid surrounding skin when applying medicated product"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients acrylic adhesive, acrylic polymer, polyethylene, polyvinyl alcohol"
+  ],
+  "questions": [
+    "Questions? Call 1-866-964-0939"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel meijer MEDICATED MAXIMUM STRENGTH Wart Remover Salicylic Acid 40%/Wart Remover Two-Step Application Patch/pad method covers & removes warts Maximum Strength Safe & effective 18 Medicated Patches 20 Concealing Pads image 1"
+  ],
+  "set_id": "03fc981f-eb06-5982-e063-6294a90ae498",
+  "id": "4873f582-ef9b-cda0-e063-6394a90a17db",
+  "effective_time": "20260115",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M028"
+    ],
+    "brand_name": [
+      "Wart Removers"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID"
+    ],
+    "manufacturer_name": [
+      "Meijer Distribution Inc"
+    ],
+    "product_ndc": [
+      "79481-0620"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "240559"
+    ],
+    "spl_id": [
+      "4873f582-ef9b-cda0-e063-6394a90a17db"
+    ],
+    "spl_set_id": [
+      "03fc981f-eb06-5982-e063-6294a90ae498"
+    ],
+    "package_ndc": [
+      "79481-0620-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

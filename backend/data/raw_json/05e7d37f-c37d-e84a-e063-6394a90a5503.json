@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Niccolum Muriaticum Niccolum Muriaticum SUCROSE NICKEL CHLORIDE NICKEL CATION Niccolum Muriaticum Niccolum Muriaticum SUCROSE NICKEL CHLORIDE NICKEL CATION Niccolum Muriaticum Niccolum Muriaticum SUCROSE NICKEL CHLORIDE NICKEL CATION Niccolum Muriaticum Niccolum Muriaticum SUCROSE NICKEL CHLORIDE NICKEL CATION Niccolum Muriaticum Niccolum Muriaticum SUCROSE NICKEL CHLORIDE NICKEL CATION Niccolum Muriaticum Niccolum Muriaticum SUCROSE NICKEL CHLORIDE NICKEL CATION Niccolum Muriaticum Niccolum Muriaticum SUCROSE NICKEL CHLORIDE NICKEL CATION Niccolum Muriaticum Niccolum Muriaticum SUCROSE NICKEL CHLORIDE NICKEL CATION"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Niccolum Muriaticum 6C 5g Niccolum Muriaticum 6C 30g Niccolum Muriaticum 6C 100g Niccolum Muriaticum 12C 5g Niccolum Muriaticum 12C 30g Niccolum Muriaticum 12C 100g Niccolum Muriaticum 30C 1g Niccolum Muriaticum 30C 5g Niccolum Muriaticum 30C 30g Niccolum Muriaticum 30C 100g Niccolum Muriaticum 100C 1g Niccolum Muriaticum 100C 5g Niccolum Muriaticum 100C 30g Niccolum Muriaticum 100C 100g Niccolum Muriaticum 200C 1g Niccolum Muriaticum 200C 5g Niccolum Muriaticum 200C 30g Niccolum Muriaticum 200C 100g Niccolum Muriaticum 500C 1g Niccolum Muriaticum 500C 5g Niccolum Muriaticum 500C 30g Niccolum Muriaticum 500C 100g Niccolum Muriaticum 1M 1g Niccolum Muriaticum 1M 5g Niccolum Muriaticum 1M 30g Niccolum Muriaticum 1M 100g Niccolum Muriaticum LM1 30g"
+  ],
+  "set_id": "05e7d37f-c37c-e84a-e063-6394a90a5503",
+  "id": "05e7d37f-c37d-e84a-e063-6394a90a5503",
+  "effective_time": "20230921",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Niccolum Muriaticum"
+    ],
+    "generic_name": [
+      "NICCOLUM MURIATICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3976",
+      "37662-3978",
+      "37662-3979",
+      "37662-3981",
+      "37662-3977",
+      "37662-3980",
+      "37662-3982",
+      "37662-3983"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "NICKEL CHLORIDE"
+    ],
+    "spl_id": [
+      "05e7d37f-c37d-e84a-e063-6394a90a5503"
+    ],
+    "spl_set_id": [
+      "05e7d37f-c37c-e84a-e063-6394a90a5503"
+    ],
+    "package_ndc": [
+      "37662-3978-1",
+      "37662-3978-2",
+      "37662-3978-3",
+      "37662-3978-4",
+      "37662-3979-1",
+      "37662-3979-2",
+      "37662-3979-3",
+      "37662-3979-4",
+      "37662-3981-1",
+      "37662-3981-2",
+      "37662-3981-3",
+      "37662-3981-4",
+      "37662-3977-1",
+      "37662-3977-2",
+      "37662-3977-3",
+      "37662-3976-1",
+      "37662-3976-2",
+      "37662-3976-3",
+      "37662-3980-1",
+      "37662-3980-2",
+      "37662-3980-3",
+      "37662-3980-4",
+      "37662-3982-1",
+      "37662-3982-2",
+      "37662-3982-3",
+      "37662-3982-4",
+      "37662-3983-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "696BNE976J"
+    ]
+  }
+}

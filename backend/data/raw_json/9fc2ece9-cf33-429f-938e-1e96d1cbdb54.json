@@ -1,0 +1,102 @@
+{
+  "spl_product_data_elements": [
+    "Nasal Decongestant PE Phenylephrine HCl PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE CROSCARMELLOSE SODIUM DEXTROSE MONOHYDRATE DIBASIC CALCIUM PHOSPHATE DIHYDRATE FD&C RED NO. 40 LECITHIN, SOYBEAN MAGNESIUM STEARATE MALTODEXTRIN MICROCRYSTALLINE CELLULOSE SILICON DIOXIDE CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED TRISODIUM CITRATE DIHYDRATE TITANIUM DIOXIDE 44;453"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each tablet) Phenylephrine HCl 10 mg"
+  ],
+  "purpose": [
+    "Purpose Nasal decongestant"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves sinus congestion and pressure temporarily relieves nasal congestion due to the common cold, hay fever or other upper respiratory allergies"
+  ],
+  "warnings": [
+    "Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have heart disease diabetes thyroid disease high blood pressure difficulty in urination due to enlargement of the prostate gland When using this product do not exceed recommended dosage. Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur symptoms do not improve within 7 days or occur with fever If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have heart disease diabetes thyroid disease high blood pressure difficulty in urination due to enlargement of the prostate gland"
+  ],
+  "when_using": [
+    "When using this product do not exceed recommended dosage."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur symptoms do not improve within 7 days or occur with fever"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 12 years and over: take 1 tablet every 4 hours. Do not take more than 6 tablets in 24 hours. children under 12 years: ask a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information TAMPER EVIDENT: DO NOT USE IF OUTER PACKAGE IS OPENED OR BLISTER IS TORN OR BROKEN store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) see end flap for expiration date and lot number"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients croscarmellose sodium, dextrose monohydrate, dibasic calcium phosphate dihydrate, FD&C red #40, lecithin, magnesium stearate, maltodextrin, microcrystalline cellulose, silicon dioxide, sodium carboxymethylcellulose, sodium citrate dihydrate, titanium dioxide"
+  ],
+  "questions": [
+    "Questions or comments? 1-800-426-9391"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Signature SELECT™ COMPARE TO SUDAFED PE® SINUS CONGESTION Active Ingredient † NDC 21130-453-07 MAXIMUM STRENGTH NASAL DECONGESTANT PE PHENYLEPHRINE HCI 10 mg - Nasal Decongestant Relieves: Congestion and sinus pressure Non-drowsy Actual Size 36 TABLETS TAMPER EVIDENT: DO NOT USE IF PACKAGE IS OPENED OR IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING DISTRIBUTED BY: BETTER LIVING BRANDS LLC P.O. BOX 99, PLEASANTON, CA 94566-0009 ‡ 1-888-723-3929 LOVE IT OR IT'S ON US ‡ † This product is not manufactured or distributed by Kenvue Inc., distributors of SUDAFED PE® SINUS CONGESTION. 50844 REV0820N45307 Signature Select 44-453 Signature Select 44-453"
+  ],
+  "set_id": "0153294d-7f52-4d92-8db8-daeca3e29a3b",
+  "id": "9fc2ece9-cf33-429f-938e-1e96d1cbdb54",
+  "effective_time": "20260306",
+  "version": "21",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Nasal Decongestant PE"
+    ],
+    "generic_name": [
+      "PHENYLEPHRINE HCL"
+    ],
+    "manufacturer_name": [
+      "Better Living Brands, LLC"
+    ],
+    "product_ndc": [
+      "21130-453"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PHENYLEPHRINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1049182"
+    ],
+    "spl_id": [
+      "9fc2ece9-cf33-429f-938e-1e96d1cbdb54"
+    ],
+    "spl_set_id": [
+      "0153294d-7f52-4d92-8db8-daeca3e29a3b"
+    ],
+    "package_ndc": [
+      "21130-453-07",
+      "21130-453-44"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0321130761877"
+    ],
+    "unii": [
+      "04JA59TNSJ"
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "spl_product_data_elements": [
+    "Aloe Vera Gel Lidocaine HCl, Menthol WATER ALCOHOL POLYSORBATE 20 GLYCERIN ALOE VERA LEAF CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE SULISOBENZONE SODIUM HYDROXIDE BENZYL ALCOHOL PHENOXYETHANOL FD&C BLUE NO. 1 LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS MENTHOL MENTHOL"
+  ],
+  "active_ingredient": [
+    "Active ingredient Lidocaine HCl 0.7% Menthol 0.2%"
+  ],
+  "purpose": [
+    "Purpose Topical analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses for the temporary relief of pain and itching associated with minor burns sunburn minor cuts scrapes insect bites minor skin irritations"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "do_not_use": [
+    "Do not use in large quantities, particularly over raw surfaces or blistered areas"
+  ],
+  "when_using": [
+    "When using this product avoid contact with the eyes"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 2 years of age and older: apply to affected area not more than 3 to 4 times daily children under 2 years of age: ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, alcohol denat., polysorbate 20, glycerin, Aloe barbadensis leaf juice, carbomer, benzophenone-4, sodium hydroxide, benzyl alcohol, phenoxyethanol, blue 1"
+  ],
+  "adverse_reactions": [
+    "ADVERSE REACTIONS SECTION DISTRIBUTED BY: ADUSA DISTRIBUTION, LLC SALISBURY, NC 28147 For product questions or concerns, contact us at 1-833-992-3872 Quality guaranteed or your money back. DSP-TN-21091 DSP-MO-20087"
+  ],
+  "package_label_principal_display_panel": [
+    "principal display panel CAREONE ® AFTER SUN Gel with Aloe Pain Relieving Gel With Lidocaine and Menthol Soothing Moisturizing NET 16 FL OZ (1 PT) 473 mL image description image description"
+  ],
+  "set_id": "073c72fe-3171-4a4f-913a-d1b9630a1af3",
+  "id": "4a2bcc11-190b-8eb7-e063-6294a90a7bb8",
+  "effective_time": "20260206",
+  "version": "8",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Aloe Vera Gel"
+    ],
+    "generic_name": [
+      "LIDOCAINE HCL, MENTHOL"
+    ],
+    "manufacturer_name": [
+      "Retail Business Services, LLC"
+    ],
+    "product_ndc": [
+      "72476-747"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "LIDOCAINE HYDROCHLORIDE",
+      "MENTHOL"
+    ],
+    "rxcui": [
+      "1361205"
+    ],
+    "spl_id": [
+      "4a2bcc11-190b-8eb7-e063-6294a90a7bb8"
+    ],
+    "spl_set_id": [
+      "073c72fe-3171-4a4f-913a-d1b9630a1af3"
+    ],
+    "package_ndc": [
+      "72476-747-43"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "V13007Z41A",
+      "L7T10EIP3A"
+    ]
+  }
+}

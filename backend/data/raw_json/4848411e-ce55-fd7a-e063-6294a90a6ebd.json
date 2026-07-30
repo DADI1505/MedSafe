@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "Isopropyl Rubbing Alcohol Isopropyl Alcohol WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other Information Does not contain, nor is intended as a substitute for grain or ethyl alcohol Will produce serious gastric disturbances if taken internally"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Isopropyl Alcohol 70% v/v"
+  ],
+  "purpose": [
+    "Purpose First Aid Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Uses First aid to help prevent the risk of infection in: minor cuts, scrapes, burns"
+  ],
+  "warnings": [
+    "Warnings For external use only Flammable Keep away from fire or flame, heat, spark, electrical. Flash point 72ºF Do not use with electrocautery procedures"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have deep or puncture wounds, animal bites or serious burns"
+  ],
+  "when_using": [
+    "When using this product do not get into eyes do ot apply over large areas of the body do not use longer than 1 week unless directed by a doctor"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition persists or gets worse"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "dosage_and_administration": [
+    "Directions • clean the affected area • apply 1 to 3 times a daily • may be covered with a sterile bandage • if bandaged, let dry first"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredient purified water"
+  ],
+  "package_label_principal_display_panel": [
+    "Label"
+  ],
+  "set_id": "04e6edb5-07ef-4ed4-ba68-ed183386b5ab",
+  "id": "4848411e-ce55-fd7a-e063-6294a90a6ebd",
+  "effective_time": "20260113",
+  "version": "13",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Isopropyl Rubbing Alcohol"
+    ],
+    "generic_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "DealMed Medical Supplies LLC"
+    ],
+    "product_ndc": [
+      "70082-222"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "rxcui": [
+      "808520"
+    ],
+    "spl_id": [
+      "4848411e-ce55-fd7a-e063-6294a90a6ebd"
+    ],
+    "spl_set_id": [
+      "04e6edb5-07ef-4ed4-ba68-ed183386b5ab"
+    ],
+    "package_ndc": [
+      "70082-222-16"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0817415020833"
+    ],
+    "unii": [
+      "ND2M416302"
+    ]
+  }
+}

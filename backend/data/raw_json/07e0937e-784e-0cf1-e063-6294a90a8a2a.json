@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Silicium Oxydatum Silicium Oxydatum SILICON MONOXIDE SILICON MONOXIDE SUCROSE Silicium Oxydatum Silicium Oxydatum SILICON MONOXIDE SILICON MONOXIDE SUCROSE Silicium Oxydatum Silicium Oxydatum SILICON MONOXIDE SILICON MONOXIDE SUCROSE Silicium Oxydatum Silicium Oxydatum SILICON MONOXIDE SILICON MONOXIDE SUCROSE Silicium Oxydatum Silicium Oxydatum SILICON MONOXIDE SILICON MONOXIDE SUCROSE Silicium Oxydatum Silicium Oxydatum SILICON MONOXIDE SILICON MONOXIDE SUCROSE Silicium Oxydatum Silicium Oxydatum SILICON MONOXIDE SILICON MONOXIDE SUCROSE Silicium Oxydatum Silicium Oxydatum SILICON MONOXIDE SILICON MONOXIDE SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Silicium Oxydatum 6C 5g Silicium Oxydatum 6C 30g Silicium Oxydatum 6C 100g Silicium Oxydatum 12C 5g Silicium Oxydatum 12C 30g Silicium Oxydatum 12C 100g Silicium Oxydatum 30C 1g Silicium Oxydatum 30C 5g Silicium Oxydatum 30C 30g Silicium Oxydatum 30C 100g Silicium Oxydatum 100C 1g Silicium Oxydatum 100C 5g Silicium Oxydatum 100C 30g Silicium Oxydatum 100C 100g Silicium Oxydatum 200C 1g Silicium Oxydatum 200C 5g Silicium Oxydatum 200C 30g Silicium Oxydatum 200C 100g Silicium Oxydatum 500C 1g Silicium Oxydatum 500C 5g Silicium Oxydatum 500C 30g Silicium Oxydatum 500C 100g Silicium Oxydatum 1M 1g Silicium Oxydatum 1M 5g Silicium Oxydatum 1M 30g Silicium Oxydatum 1M 100g Silicium Oxydatum LM1 30g"
+  ],
+  "set_id": "07e05c1f-949d-9c6c-e063-6294a90a875c",
+  "id": "07e0937e-784e-0cf1-e063-6294a90a8a2a",
+  "effective_time": "20231016",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Silicium Oxydatum"
+    ],
+    "generic_name": [
+      "SILICIUM OXYDATUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-4152",
+      "37662-4153",
+      "37662-4154",
+      "37662-4156",
+      "37662-4159",
+      "37662-4158",
+      "37662-4157",
+      "37662-4155"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SILICON MONOXIDE"
+    ],
+    "spl_id": [
+      "07e0937e-784e-0cf1-e063-6294a90a8a2a"
+    ],
+    "spl_set_id": [
+      "07e05c1f-949d-9c6c-e063-6294a90a875c"
+    ],
+    "package_ndc": [
+      "37662-4153-1",
+      "37662-4153-2",
+      "37662-4153-3",
+      "37662-4154-1",
+      "37662-4154-2",
+      "37662-4154-3",
+      "37662-4154-4",
+      "37662-4156-1",
+      "37662-4156-2",
+      "37662-4156-3",
+      "37662-4156-4",
+      "37662-4159-1",
+      "37662-4158-1",
+      "37662-4158-2",
+      "37662-4158-3",
+      "37662-4158-4",
+      "37662-4157-1",
+      "37662-4157-2",
+      "37662-4157-3",
+      "37662-4157-4",
+      "37662-4152-1",
+      "37662-4152-2",
+      "37662-4152-3",
+      "37662-4155-1",
+      "37662-4155-2",
+      "37662-4155-3",
+      "37662-4155-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "1OQN9CBG7L"
+    ]
+  }
+}

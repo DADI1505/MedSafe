@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "GOODSENSE Ultra Strength Antacid Peppermint Calcium carbonate CALCIUM CARBONATE CALCIUM CATION STARCH, CORN DEXTROSE, UNSPECIFIED FORM MAGNESIUM STEARATE MALTODEXTRIN SUCROSE TALC CROSPOVIDONE G171"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENT (in each tablet) Calcium carbonate 1000 mg"
+  ],
+  "purpose": [
+    "PURPOSE Antacid"
+  ],
+  "indications_and_usage": [
+    "USE(S) relieves: acid indigestion heartburn"
+  ],
+  "warnings": [
+    "WARNINGS ."
+  ],
+  "ask_doctor_or_pharmacist": [
+    "ASK A DOCTOR OR PHARMACIST BEFORE USE IF YOU ARE presently taking a prescription drug. Antacids may interact with certain prescription drugs."
+  ],
+  "when_using": [
+    "WHEN USING THIS PRODUCT do not take more than 7 tablets in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks, except under the advice and supervision of a doctor."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "IF PREGNANT OR/BREASTFEEDING, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN ."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS adults and children 12 years of age and over: chew 2-3 tablets as symptoms occur, or as directed by a doctor."
+  ],
+  "storage_and_handling": [
+    "OTHER INFORMATION each tablet contains: elemental calcium 400 mg do not use if printed seal under cap is torn or missing store at room temperature. keep the container tightly closed."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS corn starch, crospovidone, dextrose, flavor, magnesium stearate, maltodextrin, sucrose, talc."
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL GOODSENSE Ultra Strength NDC 50804-176-68 Antacid TABLETS Calcium Carbonate 1000 mg Fast Relief of Acid indigestion Heartburn Upset Stomach Peppermint Flavor *Compare to active ingredient of Ultra Strength Tums® 72 Chewable Tablets 128"
+  ],
+  "set_id": "04950b56-7760-4b6c-8110-86b6a3f795b4",
+  "id": "089a34c1-69eb-43f8-ad0e-b37ea6bff7c0",
+  "effective_time": "20241219",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M001"
+    ],
+    "brand_name": [
+      "GOODSENSE Ultra Strength Antacid Peppermint"
+    ],
+    "generic_name": [
+      "CALCIUM CARBONATE"
+    ],
+    "manufacturer_name": [
+      "GoodSense"
+    ],
+    "product_ndc": [
+      "50804-176"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CALCIUM CARBONATE"
+    ],
+    "rxcui": [
+      "308892"
+    ],
+    "spl_id": [
+      "089a34c1-69eb-43f8-ad0e-b37ea6bff7c0"
+    ],
+    "spl_set_id": [
+      "04950b56-7760-4b6c-8110-86b6a3f795b4"
+    ],
+    "package_ndc": [
+      "50804-176-68"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "H0G9379FGK"
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "Hand sanitizer 8oz with aloe vera Ethyl Alcohol 70% .ALPHA.-TOCOPHEROL ACETATE FD&C BLUE NO. 1 WATER PROPYLENE GLYCOL AMINOMETHYLPROPANOL ALOE VERA LEAF GLYCERIN ALCOHOL ALCOHOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE FD&C YELLOW NO. 5"
+  ],
+  "active_ingredient": [
+    "Active ingredient Ethyl Alcohol 70.0%v/v"
+  ],
+  "purpose": [
+    "Purpose Antimicrobial"
+  ],
+  "indications_and_usage": [
+    "Uses for handwashing to decrease bacteria on the skin recommended for repeated use"
+  ],
+  "warnings": [
+    "Warnings For external use only Flammable, keep away from heat and flame Do not use Do not use in the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor Stop use and ask a doctor if irritation and redness develop and persist for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use Do not use in the eyes. In case of contact, rinse eyes thoroughly with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor Stop use and ask a doctor if irritation and redness develop and persist for more than 72 hours."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions wet hands thoroughly with product briskly rub hands together until dry supervise children under 6 years in the use of this product"
+  ],
+  "storage_and_handling": [
+    "Other information store at room temperature may discolor certain fabrics"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, carbomer, glycerin, propylene glycol, aminomethyl propanol, fragrance, aloe barbadensis leaf juice, tocopheryl acetate, fd&c blue no.1, fd&c yellow no.5"
+  ],
+  "spl_unclassified_section": [
+    "XtraCare 70%Alcohol Hand Sanitizer Anitibcaterial Moisturize with Vitamin E 8 FL OZ(236 ml)"
+  ],
+  "package_label_principal_display_panel": [
+    "label label label"
+  ],
+  "set_id": "03f81b63-2b08-77b1-e063-6294a90afeba",
+  "id": "568a9adf-38d7-aaec-e063-6294a90ac88c",
+  "effective_time": "20260713",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Hand sanitizer 8oz with aloe vera"
+    ],
+    "generic_name": [
+      "ETHYL ALCOHOL 70%"
+    ],
+    "manufacturer_name": [
+      "REJOICE INTERNATIONAL CORP."
+    ],
+    "product_ndc": [
+      "57337-141"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "582753"
+    ],
+    "spl_id": [
+      "568a9adf-38d7-aaec-e063-6294a90ac88c"
+    ],
+    "spl_set_id": [
+      "03f81b63-2b08-77b1-e063-6294a90afeba"
+    ],
+    "package_ndc": [
+      "57337-141-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0639277924049",
+      "0849607073525"
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

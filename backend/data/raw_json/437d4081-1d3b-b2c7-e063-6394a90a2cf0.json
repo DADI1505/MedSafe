@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Petroleum with Cocoa White Petrolatum COCOA BUTTER PETROLATUM PETROLATUM"
+  ],
+  "warnings": [
+    "Warning For External Use Only"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Name Purpose White Petrolatum 99.89% USP .............................. Skin Protectant"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients fragrance, theobroma cocoa seed butter"
+  ],
+  "purpose": [
+    "Purpose Skin Protectant"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222)right away"
+  ],
+  "indications_and_usage": [
+    "Uses Temporarily Protects: minor cuts, scrapes, burns and helps relieve chapped or cracked skin and lips from the drying effects of wind and cold weather"
+  ],
+  "do_not_use": [
+    "Do not use ■ deep or puncture wounds ■ animal bites ■ serious burns"
+  ],
+  "dosage_and_administration": [
+    "Dosage Applied as needed."
+  ],
+  "package_label_principal_display_panel": [
+    "Label label"
+  ],
+  "set_id": "086b6563-cb73-4874-aa42-028f5e81b60d",
+  "id": "437d4081-1d3b-b2c7-e063-6394a90a2cf0",
+  "effective_time": "20251113",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Petroleum with Cocoa"
+    ],
+    "generic_name": [
+      "WHITE PETROLATUM"
+    ],
+    "manufacturer_name": [
+      "QUALITY CHOICE (Chain Drug Marketing Association)"
+    ],
+    "product_ndc": [
+      "83324-258"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "PETROLATUM"
+    ],
+    "rxcui": [
+      "1148414"
+    ],
+    "spl_id": [
+      "437d4081-1d3b-b2c7-e063-6394a90a2cf0"
+    ],
+    "spl_set_id": [
+      "086b6563-cb73-4874-aa42-028f5e81b60d"
+    ],
+    "package_ndc": [
+      "83324-258-75"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "4T6H12BN9U"
+    ]
+  }
+}

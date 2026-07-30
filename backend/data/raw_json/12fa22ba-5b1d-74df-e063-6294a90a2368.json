@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Maximum Strength Gas Relief Simethicone FERROSOFERRIC OXIDE PROPYLENE GLYCOL WATER SORBITOL MEDIUM-CHAIN TRIGLYCERIDES SHELLAC GELATIN GLYCERIN DIMETHICONE DIMETHICONE SORBITAN Natural Translucent 148"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each softgel) Simethicone 250 mg"
+  ],
+  "purpose": [
+    "Purpose Antigas"
+  ],
+  "indications_and_usage": [
+    "Use for the relief of pressure, bloating, and fullness commonly referred to as gas"
+  ],
+  "warnings": [
+    "Warning Keep out of reach of children."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 12 years and older: swallow with water 1 or 2 softgels as needed after meals and at bedtime do not exceed 2 softgels in 24 hours except under the advice and supervision of a physician"
+  ],
+  "storage_and_handling": [
+    "Other information store at room temperature protect from light, heat and moisture"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients ferrosoferric oxide, gelatin, glycerol, medium chain triglyceride, propylene glycol, purified water, shellac, sorbitol sorbitan solution"
+  ],
+  "questions": [
+    "Questions or comments? Call 1-877-290-4008"
+  ],
+  "package_label_principal_display_panel": [
+    "walgreens-simethicone-dyefree-30"
+  ],
+  "set_id": "03bc9c99-2871-2604-e063-6394a90a2be5",
+  "id": "12fa22ba-5b1d-74df-e063-6294a90a2368",
+  "effective_time": "20240306",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M002"
+    ],
+    "brand_name": [
+      "Maximum Strength Gas Relief"
+    ],
+    "generic_name": [
+      "SIMETHICONE"
+    ],
+    "manufacturer_name": [
+      "WALGREENS"
+    ],
+    "product_ndc": [
+      "0363-9888"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIMETHICONE"
+    ],
+    "rxcui": [
+      "412111"
+    ],
+    "spl_id": [
+      "12fa22ba-5b1d-74df-e063-6294a90a2368"
+    ],
+    "spl_set_id": [
+      "03bc9c99-2871-2604-e063-6394a90a2be5"
+    ],
+    "package_ndc": [
+      "0363-9888-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000010282"
+    ],
+    "pharm_class_pe": [
+      "Skin Barrier Activity [PE]"
+    ],
+    "unii": [
+      "92RU3N3Y1O"
+    ]
+  }
+}

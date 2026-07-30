@@ -1,0 +1,74 @@
+{
+  "effective_time": "20210114",
+  "inactive_ingredient": [
+    "Other Ingredients Emu oil, Soybean Oil, Palm Oil, Canola Oil, Candelilla Wax, Lactobacillus Reuteri, Tribehenin, Glyceryl Behenate, Lysine Hydrochloride, Hydrogenated Castor Oil, Squalane, Tea Tree Oil, .Alpha.-Tocopherol Acetate, Phytosphingosine, Ceramide 3, Olive Oil, Allantoin, Silver Citrate"
+  ],
+  "purpose": [
+    "Purpose Topical Antiseptic, Analgesic, Anti-Inflammatory"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children"
+  ],
+  "warnings": [
+    "Warnings For external use only. If skin condition persists after 7 days, or returns, consult a physician immediately."
+  ],
+  "spl_product_data_elements": [
+    "EmuAid Silver SILVER SILVER Emu Oil Soybean Oil Palm Oil Canola Oil CANDELILLA WAX Lactobacillus Reuteri Tribehenin GLYCERYL DIBEHENATE Lysine Hydrochloride Hydrogenated Castor Oil Squalane Tea Tree Oil .Alpha.-Tocopherol Acetate Phytosphingosine Ceramide 3 Olive Oil Allantoin Silver Citrate"
+  ],
+  "openfda": {
+    "brand_name": [
+      "EmuAid"
+    ],
+    "generic_name": [
+      "SILVER"
+    ],
+    "manufacturer_name": [
+      "Speer Laboratories, LLC"
+    ],
+    "product_ndc": [
+      "55926-0024"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SILVER"
+    ],
+    "spl_id": [
+      "0e3ca0e7-da1e-46de-83ba-ee01586ea61a"
+    ],
+    "spl_set_id": [
+      "07b160d3-107c-4c29-a38e-f343e5b3a714"
+    ],
+    "package_ndc": [
+      "55926-0024-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3M4G523W1G"
+    ]
+  },
+  "version": "3",
+  "dosage_and_administration": [
+    "Directions Apply a thin layer of Emuaid over affected area, and repeat 3-4 times daily or as needed to relieve symptoms."
+  ],
+  "spl_unclassified_section": [
+    "Distributed by Speer Laboratories, LLC Pompano Beach, FL 33080"
+  ],
+  "package_label_principal_display_panel": [
+    "EumAid Homeopathic Medicine First Aid Ointment Reduces pain, infection, and inflammation .1% Phytosphingosine 2 fl oz/ 59 mL Emuaid092712"
+  ],
+  "indications_and_usage": [
+    "Indications for Use For the relief of these symptoms due to minor wounds and burns, bruises, ulcerations, sunburn, razor burn, scrapes, rashes, blisters, bug bites, and skin eruptions from acne, eczema, or minor infection: • burning • stinging • itching • redness • stiffness • minor pain • minor inflammation"
+  ],
+  "set_id": "07b160d3-107c-4c29-a38e-f343e5b3a714",
+  "id": "0e3ca0e7-da1e-46de-83ba-ee01586ea61a",
+  "active_ingredient": [
+    "Active Ingredient Argentum Metallicum 10x, 20x, 30 HPUS* * HPUS indicates that this ingredient is officially a part of the Homeopathic Pharmacopia of the United States"
+  ]
+}

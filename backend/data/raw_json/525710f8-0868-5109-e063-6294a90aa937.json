@@ -1,0 +1,75 @@
+{
+  "spl_product_data_elements": [
+    "Agent Natuer holi (sun) dewy tinted skin drops Zinc Oxide FERROSOFERRIC OXIDE FERRIC OXIDE YELLOW RUTIN JASMINUM OFFICINALE LEAF HELIANTHUS ANNUUS WHOLE JOJOBA OIL ORYZA SATIVA WHOLE TRIDECYL SALICYLATE STEARALKONIUM HECTORITE FERRIC OXIDE RED CITRUS AURANTIUM FRUIT OIL TOCOPHEROL SALVIA OFFICINALIS FLOWERING TOP LAVANDULA ANGUSTIFOLIA FLOWERING TOP PELARGONIUM GRAVEOLENS FLOWER OIL LINALOOL, (+/-)- SILICON DIOXIDE CAPRYLYL GLYCOL COCO-CAPRYLATE NYLON-12 PHENYLPROPANOL LECITHIN, SOYBEAN METHYLPROPANEDIOL POLYGLYCERYL-2 DIPOLYHYDROXYSTEARATE ALLANTOIN LIMONENE, (+/-)- ROSMARINUS OFFICINALIS FLOWERING TOP OIL CARTHAMUS TINCTORIUS SEED OLEOSOMES POLYGLYCERYL-3 DIISOSTEARATE ALKYL (C12-15) BENZOATE .ALPHA.-BISABOLOL, (+)- ZINC OXIDE ZINC OXIDE SODIUM HYDROXIDE WATER NIACINAMIDE PROPANEDIOL TETRASODIUM GLUTAMATE DIACETATE SODIUM CHLORIDE POLYGLYCERYL-4 DIISOSTEARATE/POLYHYDROXYSTEARATE/SEBACATE"
+  ],
+  "dosage_and_administration": [
+    "Agent Natuer holi (sun) dewy tinted skin drops Dosage and Administration"
+  ],
+  "inactive_ingredient": [
+    "Agent Natuer holi (sun) dewy tinted skin drops Inactive ingredients"
+  ],
+  "indications_and_usage": [
+    "Agent Natuer holi (sun) dewy tinted skin drops Indications & usage"
+  ],
+  "active_ingredient": [
+    "Agent Natuer holi (sun) dewy tinted skin drops Active Ingredients"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Agent Natuer holi (sun) dewy tinted skin drops keep out of reach of children"
+  ],
+  "purpose": [
+    "Agent Natuer holi (sun) dewy tinted skin drops purpose"
+  ],
+  "warnings": [
+    "Agent Natuer holi (sun) dewy tinted skin drops Warning Label"
+  ],
+  "package_label_principal_display_panel": [
+    "Agent Natuer holi (sun) dewy tinted skin drops PDP"
+  ],
+  "set_id": "043734b8-9aee-cdf1-e063-6294a90aec60",
+  "id": "525710f8-0868-5109-e063-6294a90aa937",
+  "effective_time": "20260521",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Agent Natuer holi (sun) dewy tinted skin drops"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Agent Natuer"
+    ],
+    "product_ndc": [
+      "83633-2063"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "525710f8-0868-5109-e063-6294a90aa937"
+    ],
+    "spl_set_id": [
+      "043734b8-9aee-cdf1-e063-6294a90aec60"
+    ],
+    "package_ndc": [
+      "83633-2063-1",
+      "83633-2063-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

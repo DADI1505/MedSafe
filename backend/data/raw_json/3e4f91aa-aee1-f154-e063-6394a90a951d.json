@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Thompson Hand Sanitizer alcohol gel WATER ALOE D&C YELLOW NO. 10 CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) D&C GREEN NO. 5 ALCOHOL ALCOHOL TROLAMINE"
+  ],
+  "active_ingredient": [
+    "Ethyl Alcohol 66.5%"
+  ],
+  "purpose": [
+    "Antiseptic"
+  ],
+  "indications_and_usage": [
+    "for handwashing to reduce bacteria on skin without soap and water recommended for repeated use"
+  ],
+  "warnings": [
+    "For external use only Flammable, keep away from fire or flame."
+  ],
+  "do_not_use": [
+    "Do not use in the eyes. If this happens, rinse thoroughly with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if irritation and redness develops and persists for 72 hours"
+  ],
+  "keep_out_of_reach_of_children": [
+    "If ingested, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "wet hands and wrists thoroughly with product and allow to dry without wiping children under 6 years of age should be supervised when using this product"
+  ],
+  "other_safety_information": [
+    "store at 59-86°F (15-30°C) tamper evident. Do not use if packet is torn, cut or opened."
+  ],
+  "inactive_ingredient": [
+    "aloe vera. carbomer D&C green #5, D&C yellow #10, fragrance, purified water, triethanolamine"
+  ],
+  "questions": [
+    "877.506.4291"
+  ],
+  "package_label_principal_display_panel": [
+    "HAND SANITIZER ETHYL ALCOHOL 66.5% WITH ALOE VERA NET WT 0.9 G (1/32 OZ) PACKETS 25 /BOX THOMPSON SAFETY WORKS ǀ BUSINESS THRIVES ᵀᴹ Thompson Hand Sanitizer"
+  ],
+  "set_id": "06beaf35-f814-bf9b-e063-6294a90aec8c",
+  "id": "3e4f91aa-aee1-f154-e063-6394a90a951d",
+  "effective_time": "20250908",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Thompson Hand Sanitizer"
+    ],
+    "generic_name": [
+      "ALCOHOL GEL"
+    ],
+    "manufacturer_name": [
+      "Thompson"
+    ],
+    "product_ndc": [
+      "73408-513"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "spl_id": [
+      "3e4f91aa-aee1-f154-e063-6394a90a951d"
+    ],
+    "spl_set_id": [
+      "06beaf35-f814-bf9b-e063-6294a90aec8c"
+    ],
+    "package_ndc": [
+      "73408-513-73"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0073408511737"
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "spl_product_data_elements": [
+    "Foot Odor Control Powder Tolnaftate DISTEARDIMONIUM HECTORITE ISOBUTANE ALCOHOL SODIUM BICARBONATE TOLNAFTATE TOLNAFTATE"
+  ],
+  "active_ingredient": [
+    "Active ingredient Tolnaftate 1%"
+  ],
+  "purpose": [
+    "Purpose Antifungal"
+  ],
+  "indications_and_usage": [
+    "Uses cures mose athlete's foot (tinea pedis) and ringworm (tinea corporis) ​prevents recurrence of athlete's foot with daily use relieves itching, burning and cracking"
+  ],
+  "warnings": [
+    "Warnings For external use only. Flammable: Keep away from heat, sparks and open flame. Contents under pressure. Do not puncture or incinerate. Do not store at temperature above 120°F. Use only as directed. Intentional misuse by deliberately concentrating and inhaling the contents can be harmful or fatal. When using this product avoid contact with the eyes Stop use and ask a doctor if irritation occurs if there is no improvement within 4 weeks Do not use on children under 2 years of age unless directed by a doctor. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "safe_handling_warning": [
+    "Flammable: Keep away from heat, sparks and open flame. Contents under pressure. Do not puncture or incinerate. Do not store at temperature above 120°F. Use only as directed. Intentional misuse by deliberately concentrating and inhaling the contents can be harmful or fatal."
+  ],
+  "when_using": [
+    "When using this product avoid contact with the eyes"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if irritation occurs if there is no improvement within 4 weeks"
+  ],
+  "do_not_use": [
+    "Do not use on children under 2 years of age unless directed by a doctor."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions wash affected area and dry thoroughly shake can well and spray a thin layer over affected area twice daily (morning and night) or as directed by a doctor supervise children in the use of this product for athlete's foot: pay special attention to spaces between the toes; wear well-fitting, ventilated shoes, and change shoes and socks at least once daily use daily for 4 weeks if conditions persists, consult a doctor this product is not effective on the scalp or nails"
+  ],
+  "other_safety_information": [
+    "Other information store between 20º and 30ºC (68º and 86ºF) if nozzle clogs, clear under running warm water until clogged"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients disteardimonium hectorite, fragrance, isobutane, isopropyl myristate, SD alcohol 40-B, sodium bicarbonate"
+  ],
+  "questions": [
+    "Questions? call 1-866-964-0939"
+  ],
+  "recent_major_changes": [
+    "."
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel meijer ANTIFUNAL Foot Odor Control Powder Spray TOLNAFTATE 1%/ANTIFUNGAL CURES MOST ATHLETE'S FOOT & PREVENTS RECURRENCES Reduces foot odor Relieves itching,burning & cracking Talc-free NET WT. 4 OZ. (113g) image 1"
+  ],
+  "set_id": "03fd2680-0040-aa8c-e063-6294a90a090f",
+  "id": "45c7413a-79cf-dee4-e063-6294a90a2321",
+  "effective_time": "20251212",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M005"
+    ],
+    "brand_name": [
+      "Foot Odor Control Powder"
+    ],
+    "generic_name": [
+      "TOLNAFTATE"
+    ],
+    "manufacturer_name": [
+      "Meijer Distribution Inc"
+    ],
+    "product_ndc": [
+      "79481-0622"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "TOLNAFTATE"
+    ],
+    "rxcui": [
+      "705934"
+    ],
+    "spl_id": [
+      "45c7413a-79cf-dee4-e063-6294a90a2321"
+    ],
+    "spl_set_id": [
+      "03fd2680-0040-aa8c-e063-6294a90a090f"
+    ],
+    "package_ndc": [
+      "79481-0622-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "06KB629TKV"
+    ]
+  }
+}

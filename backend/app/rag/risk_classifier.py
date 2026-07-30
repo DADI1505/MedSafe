@@ -25,6 +25,7 @@ WARNING_PATTERNS = [
     r"contre-indication",
     r"effet secondaire",
     r"surdosage",
+    
 ]
 
 

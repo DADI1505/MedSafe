@@ -1,0 +1,103 @@
+{
+  "spl_product_data_elements": [
+    "ANXIETY II HP Aconitum Napellus, Arsenic Trioxide, Atropa Belladonna, Oyster Shell Calcium Carbonate, Crude, Activated Charcoal, Human Breast Tumor Cell, Causticum, Gelsemium Sempervirens Root, Lachesis Muta Venom, Mercury, Sodium Chloride, Nitric Acid, Phosphorus, Toxicodendron Pubescens Leaf ACONITUM NAPELLUS WHOLE ACONITUM NAPELLUS ARSENIC TRIOXIDE ARSENIC CATION (3+) ATROPA BELLADONNA ATROPA BELLADONNA OYSTER SHELL CALCIUM CARBONATE, CRUDE OYSTER SHELL CALCIUM CARBONATE, CRUDE ACTIVATED CHARCOAL ACTIVATED CHARCOAL HUMAN BREAST TUMOR CELL HUMAN BREAST TUMOR CELL CAUSTICUM CAUSTICUM GELSEMIUM SEMPERVIRENS ROOT GELSEMIUM SEMPERVIRENS ROOT LACHESIS MUTA VENOM LACHESIS MUTA VENOM MERCURY MERCURY NITRIC ACID NITRIC ACID PHOSPHORUS PHOSPHORUS TOXICODENDRON PUBESCENS LEAF TOXICODENDRON PUBESCENS LEAF SODIUM CHLORIDE CHLORIDE ION CITRIC ACID ACETATE POTASSIUM SORBATE water GLYCERIN"
+  ],
+  "active_ingredient": [
+    "​ ​Active Ingredients ​(HPUS*): Aconitum Napellus 30C, Arsenicum Album 30C, Belladonna 30C, Calcarea Carbonica 30C, Carbo Vegetabilis 30C, Carcinosin 30C, Causticum 30C, Gelsemium 30C, Lachesis Mutus 30C, Mercurius Vivus 30C, Natrum Muriaticum, Nitricum Ac 30C, Phosphorus, Rhus Tox 30C"
+  ],
+  "purpose": [
+    "USES: Temporarily relieves simple nervous tension.**"
+  ],
+  "indications_and_usage": [
+    "​USES: ​Temporarly relieves simple nervous tension.**"
+  ],
+  "dosage_and_administration": [
+    "DIECTIONS: Adults & children above 12 years: 10 drops orally 3 times daily, or as directed by a health care professional."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF THE REACH OF CHILDREN. ​In case of overdose (or accidential ingestion) get medical help or contact a Poison Control Center right away."
+  ],
+  "warnings": [
+    "WARNINGS: Consult a physician for use in chlidren under 12 years of age. IF PRAGNANT OR BREAST-FEEDING, ask a health care professional before use. KEEP OUT OF THE REACH OF CHILDREN. In case of overdose (or accidential ingestion) get medical help or contact a Poison Control Center right away. Do not use if TAMPER EVIDENT seal is broken or missing."
+  ],
+  "inactive_ingredient": [
+    "​Inactive Ingredients: Citric Acid, Natural Cherry Flavor, Potassium Sorbate, Purified Water, USP Glycerin."
+  ],
+  "questions": [
+    "​Ouestions & Comments? ​Natural Creations, Inc. / Woodbine, IA 51579 / ​712-647-1600"
+  ],
+  "package_label_principal_display_panel": [
+    "NDC:43406-0004-1 ​ANXIETY II HP ​HOMEOPATHIC ​1 fl oz (30 mL) UPC: 877730000392 image description"
+  ],
+  "set_id": "02fa45a5-08e1-41ad-acd4-0f85db07e89e",
+  "id": "b274cc51-dd50-430a-bc9e-ad8c1b6be455",
+  "effective_time": "20251113",
+  "version": "4",
+  "openfda": {
+    "brand_name": [
+      "ANXIETY II HP"
+    ],
+    "generic_name": [
+      "ACONITUM NAPELLUS, ARSENIC TRIOXIDE, ATROPA BELLADONNA, OYSTER SHELL CALCIUM CARBONATE, CRUDE, ACTIVATED CHARCOAL, HUMAN BREAST TUMOR CELL, CAUSTICUM, GELSEMIUM SEMPERVIRENS ROOT, LACHESIS MUTA VENOM, MERCURY, SODIUM CHLORIDE, NITRIC ACID, PHOSPHORUS, TOXICODENDRON PUBESCENS LEAF"
+    ],
+    "manufacturer_name": [
+      "Natural Creations, Inc."
+    ],
+    "product_ndc": [
+      "43406-0004"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACONITUM NAPELLUS WHOLE",
+      "ARSENIC TRIOXIDE",
+      "ATROPA BELLADONNA",
+      "OYSTER SHELL CALCIUM CARBONATE, CRUDE",
+      "ACTIVATED CHARCOAL",
+      "HUMAN BREAST TUMOR CELL",
+      "CAUSTICUM",
+      "GELSEMIUM SEMPERVIRENS ROOT",
+      "LACHESIS MUTA VENOM",
+      "MERCURY",
+      "NITRIC ACID",
+      "PHOSPHORUS",
+      "TOXICODENDRON PUBESCENS LEAF",
+      "SODIUM CHLORIDE"
+    ],
+    "spl_id": [
+      "b274cc51-dd50-430a-bc9e-ad8c1b6be455"
+    ],
+    "spl_set_id": [
+      "02fa45a5-08e1-41ad-acd4-0f85db07e89e"
+    ],
+    "package_ndc": [
+      "43406-0004-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0877730000392"
+    ],
+    "unii": [
+      "U0NQ8555JD",
+      "S7V92P67HO",
+      "WQZ3G9PF0H",
+      "2E32821G6I",
+      "2P3VWU3H10",
+      "C62OO7VD9K",
+      "DD5FO1WKFU",
+      "639KR60Q1Q",
+      "VSW71SS07I",
+      "FXS1BY2PGL",
+      "411VRN1TV4",
+      "27YLU75U4W",
+      "6IO182RP7A",
+      "451W47IQ8X"
+    ]
+  }
+}

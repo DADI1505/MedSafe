@@ -1,0 +1,94 @@
+{
+  "spl_product_data_elements": [
+    "GERI-MOX ANTACID ANTIGAS aluminum hydroxide, magnesium hydroxide, dimethicone BENZYL ALCOHOL BUTYLPARABEN CARBOXYMETHYLCELLULOSE SODIUM HYPROMELLOSES CELLULOSE, MICROCRYSTALLINE PROPYLPARABEN WATER SACCHARIN SODIUM SACCHARIN SORBITOL SOLUTION ALUMINUM HYDROXIDE ALUMINUM HYDROXIDE MAGNESIUM HYDROXIDE MAGNESIUM CATION HYDROXIDE ION DIMETHICONE DIMETHICONE mint"
+  ],
+  "active_ingredient": [
+    "Active ingredients (in each 5 mL teaspoonful) Aluminum hydroxide 200 mg (equivalent to dried gel, USP) Magnesium hydroxide 200 mg Simethicone 20mg"
+  ],
+  "purpose": [
+    "Purposes Antacid Antigas"
+  ],
+  "indications_and_usage": [
+    "Uses relieves heartburn sour stomach acid indigestion the symptoms referred to as gas"
+  ],
+  "warnings": [
+    "Warnings Ask a doctor before use if you have kidney disease a magnesium-restricted diet Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs. Stop use and ask a doctor if symptoms last more than 2 weeks If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions shake well before use adults and children 12 years of age and older: take 2 to 4 teaspoonfuls between meals, at bedtime, or as directed by a doctor do not take more than 16 teaspoonfuls in any 24 hour period or use the maximum dosage for more than 2 weeks children under 12 years: ask a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information each 5 mL teaspoonful contains: magnesium 85 mg, sodium 3 mg store at room temperature protect from freezing keep tightly closed"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients benzyl alcohol, butylparaben, carboxymethylcellulose sodium, flavor, hypromellose, microcrystalline cellulose, propylparaben, purified water, saccharin sodium, sorbitol solution"
+  ],
+  "questions": [
+    "Questions or comments? 1-800-540-3765"
+  ],
+  "package_label_principal_display_panel": [
+    "package Label 1"
+  ],
+  "set_id": "03358bc7-8819-4a05-bc13-27fbf486bd26",
+  "id": "440a6d3c-d0d2-7a09-e063-6294a90a1de8",
+  "effective_time": "20251120",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "M001"
+    ],
+    "brand_name": [
+      "GERI-MOX ANTACID ANTIGAS"
+    ],
+    "generic_name": [
+      "ALUMINUM HYDROXIDE, MAGNESIUM HYDROXIDE, DIMETHICONE"
+    ],
+    "manufacturer_name": [
+      "Geri-Care Pharmaceuticals, Corp"
+    ],
+    "product_ndc": [
+      "57896-639"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ALUMINUM HYDROXIDE",
+      "MAGNESIUM HYDROXIDE",
+      "DIMETHICONE"
+    ],
+    "rxcui": [
+      "307746"
+    ],
+    "spl_id": [
+      "440a6d3c-d0d2-7a09-e063-6294a90a1de8"
+    ],
+    "spl_set_id": [
+      "03358bc7-8819-4a05-bc13-27fbf486bd26"
+    ],
+    "package_ndc": [
+      "57896-639-12",
+      "57896-639-10"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000010282"
+    ],
+    "pharm_class_pe": [
+      "Skin Barrier Activity [PE]"
+    ],
+    "unii": [
+      "5QB0T2IUN0",
+      "NBZ3QY004S",
+      "92RU3N3Y1O"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "LORATADINE LORATADINE FD&C BLUE NO. 1 GELATIN POLYSORBATE 80 POVIDONE WATER SORBITOL CAPRYLIC/CAPRIC MONO/DIGLYCERIDES LORATADINE LORATADINE 21"
+  ],
+  "active_ingredient": [
+    "LORATADINE 10MG"
+  ],
+  "warnings": [
+    "DO NOT USE IF YOU HAVE EVER HAD AN ALLERGIC REACTION TO THIS PRODUCT OR ANY OF ITS INGREDIENTS. WHEN USING THIS PRODUCT DO NOT TAKE MORE THAN DIRECTED. TAKING MORE THAN DIRECTED MAY CAUSE DROWSINESS. STOP USE AND ASK A DOCTOR IF AN ALLERGIC REACTION TO THIS PRODUCT OCCURS. SEEK MEDICAL HELP RIGHT AWAY. IF PREGNANT OR BREAST FEEDING, ASK A HEALTH PROFESSIONAL BEFORE USE."
+  ],
+  "purpose": [
+    "ANTIHISTAMINE"
+  ],
+  "indications_and_usage": [
+    "TEMPORARILY RELIEVES THESE SYMPTOMS DUE TO HAY FEVER OR OTHR UPPER RESPIRATORY ALLERGIES: RUNNY NOSE ITCHY, WATERY EYES SNEEZING ITCHING OF THE NOSE OR THROAT"
+  ],
+  "keep_out_of_reach_of_children": [
+    "IN CASE OF OVERDOSE, GET MEDICAL HELP OR CONTACT A POISON CONTROL CENTER RIGHT AWAY."
+  ],
+  "dosage_and_administration": [
+    "ADULTS AND CHILDREN 6 YEARS AND OVER: 1 CAPSULE DAILY; NOT MORE THAN 1 CAPSULE IN 24 HOURS. CHILDREN UNDER 6 YEARS OF AGE: ASK A DOCTOR. CONSUMERS WITH LIVER OR KIDNEY DISEASE: ASK A DOCTOR."
+  ],
+  "storage_and_handling": [
+    "STORE BETWEEN 20-25 DEGREES CELSIUS (67-77 DEGREES FAHRENHEIT) PROTECT FROM FREEZING"
+  ],
+  "inactive_ingredient": [
+    "FD&C BLUE #1, GELATIN, MONO AND DIGLYCERIDE OF CAPRYLIC/CAPRIC ACID, PHARMACEUTICAL INK, POLYSORBATE 80, POVIDONE, PURIFIED WATER, SORBITOL SORBITAN SOLUTION."
+  ],
+  "package_label_principal_display_panel": [
+    "image description"
+  ],
+  "set_id": "0599cc64-419d-452f-ac50-ac0311006729",
+  "id": "4716c66e-ed8d-11bd-e063-6294a90a685c",
+  "effective_time": "20251229",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "ANDA206214"
+    ],
+    "brand_name": [
+      "LORATADINE"
+    ],
+    "generic_name": [
+      "LORATADINE"
+    ],
+    "manufacturer_name": [
+      "KROGER COMPANY"
+    ],
+    "product_ndc": [
+      "41226-686"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LORATADINE"
+    ],
+    "rxcui": [
+      "828269"
+    ],
+    "spl_id": [
+      "4716c66e-ed8d-11bd-e063-6294a90a685c"
+    ],
+    "spl_set_id": [
+      "0599cc64-419d-452f-ac50-ac0311006729"
+    ],
+    "package_ndc": [
+      "41226-686-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0041260381782"
+    ],
+    "unii": [
+      "7AJO3BO7QN"
+    ]
+  }
+}

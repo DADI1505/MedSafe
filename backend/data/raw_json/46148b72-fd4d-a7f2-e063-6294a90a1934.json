@@ -1,0 +1,102 @@
+{
+  "spl_product_data_elements": [
+    "Foster and Thrive Chlorhexidine Gluconate 4% WATER CHLORHEXIDINE GLUCONATE CHLORHEXIDINE ISOPROPYL ALCOHOL LAURAMINE OXIDE TRIDECYL ALCOHOL GLUCONOLACTONE PEG-75 LANOLIN COCO DIETHANOLAMIDE HYDROXYETHYL CELLULOSE (2000 CPS AT 1%)"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Chlorhexidine Gluconate 4%"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Uses healthcare personnel handwash : helps reduce bacteria that potentially can cause disease skin wound and general skin cleansing"
+  ],
+  "warnings": [
+    "Warnings For external use only Allergy alert: This product may casue a severe allergic reaction. Symptoms may include: wheezing/difficulty breathing shock facial swelling hives rash If an allergic reaction occurs, stop use and seek medical help right away Do not use if you or the patient is allergic to chlorhexidine gluconate or any other ingredient in this product in contact with meninges in the gential area When using this product keep out of eyes, ears, and mouth. May cause serious and permanent eye injury if permitted to enter and remain in the eye or may cause deafness when instilled in the middle ear through perforated eardrums. is solution should contact these areas, rinse out promptly and throughly with water wounds which involve more than the superfical layers of the skin should not be routinely treated repeated general skin cleansing of large body areas should not be done expect when advised by health care provider Stop use and ask a doctor if Stop use and ask a doctor if irritation , sensitization, or allergic reaction occurs. There may be signs of a serious condition Keep out of reach of children. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "do_not_use": [
+    "Do not use if you or the patient is allergic to chlorhexidine gluconate or any other ingredient in this product in contact with meninges in the gential area"
+  ],
+  "when_using": [
+    "When using this product keep out of eyes, ears, and mouth. May cause serious and permanent eye injury if permitted to enter and remain in the eye or may cause deafness when instilled in the middle ear through perforated eardrums. is solution should contact these areas, rinse out promptly and throughly with water wounds which involve more than the superfical layers of the skin should not be routinely treated repeated general skin cleansing of large body areas should not be done expect when advised by health care provider"
+  ],
+  "ask_doctor": [
+    "Stop use and ask a doctor if Stop use and ask a doctor if irritation , sensitization, or allergic reaction occurs. There may be signs of a serious condition"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "dosage_and_administration": [
+    "Directions use with care in premature infants or infants under 2 months of age. These products may cause irritation or chemical burns. Healthcare personnel handwash: wet hands with water dispense about 5 mL of product into cupped hands and wash in vigorous manner for about 15 seconds rinse and dry throughly Skin wound and general skin cleansing: throughly rinse the area to be cleaned with water apply the minimum amount of product necessary to cover the skin or wound area and wash gently rinse again throughly"
+  ],
+  "storage_and_handling": [
+    "Other information store at 20-25ºC (68-77ºF) avoid excessive heat about 40ºC (104ºF)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients cocamide DEA, fragrance, glucono-delta-lactone, hydroxyethylcellulose, isopropyl alcohol, lauramine oxide, PEG-75 lanolin, purified water, tridecyl alcohol"
+  ],
+  "questions": [
+    "Questions? 833-358-6431"
+  ],
+  "cleaning": [
+    "Laundering/Cleaning Instructions Chlorhexidine gluconate skin cleanser will cause stains if used with chlorine releasing products, such as chlorine bleach."
+  ],
+  "how_supplied": [
+    "Distribution Statement *This product is not manufactured or distributed by Molnlycke Healthcare, owner of Hibiclens® REV. 10/23 4FT08BTLLBL",
+    "Distribution Block + Claim ©2023 McKesson Corporation Distributed by : McKesson Corp., via SSSL, Memphis, TN 38141 Money Back Guarantee www.fosterandthrive.com"
+  ],
+  "warnings_and_cautions": [
+    "Prop 65 statement WARNING: Cancer - www.P65Warnings.co.giv"
+  ],
+  "package_label_principal_display_panel": [
+    "Principle Display Panel NDC 70677-1221-1 Compared to the Active Ingredient in Hibiclens® Foster & Thrive™ Antiseptic Skin Cleanser Chlorhexidine Gluconate 4% Solution Antiseptic Skin Cleanser Dye Free For External Use Only 8 FL OZ (237 mL) Foster & Thrive 8oz Label"
+  ],
+  "set_id": "08b60f82-01db-3451-e063-6294a90a2bdc",
+  "id": "46148b72-fd4d-a7f2-e063-6294a90a1934",
+  "effective_time": "20251216",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "NDA019125"
+    ],
+    "brand_name": [
+      "Foster and Thrive"
+    ],
+    "generic_name": [
+      "CHLORHEXIDINE GLUCONATE 4%"
+    ],
+    "manufacturer_name": [
+      "McKesson Corporation"
+    ],
+    "product_ndc": [
+      "70677-1221"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CHLORHEXIDINE GLUCONATE"
+    ],
+    "rxcui": [
+      "211365"
+    ],
+    "spl_id": [
+      "46148b72-fd4d-a7f2-e063-6294a90a1934"
+    ],
+    "spl_set_id": [
+      "08b60f82-01db-3451-e063-6294a90a2bdc"
+    ],
+    "package_ndc": [
+      "70677-1221-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "MOR84MUD8E"
+    ]
+  }
+}

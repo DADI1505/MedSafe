@@ -1,0 +1,96 @@
+{
+  "spl_product_data_elements": [
+    "SANTO REMEDIOS RADIANCE SILKY MINERAL PRIMER SUNSCREEN SPF 42 IVORY TITANIUM DIOXIDE, ZINC OXIDE GREEN TEA LEAF MEDIUM-CHAIN TRIGLYCERIDES COCONUT OIL CYCLOMETHICONE 5 CYCLOMETHICONE 4 DIMETHICONE HELIANTHUS ANNUUS FLOWERING TOP FERRIC OXIDE RED RASPBERRY SILICON DIOXIDE TETRAHEXYLDECYL ASCORBATE .ALPHA.-TOCOPHEROL ACETATE TITANIUM DIOXIDE TITANIUM DIOXIDE ZINC OXIDE ZINC CATION"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information. Protect the product in this container from excessive heat and direct sun.",
+    "Questions? (855) REMEDIO"
+  ],
+  "active_ingredient": [
+    "Active ingredients Titanium Dioxide 6% Zinc Oxide 8% Purpose Sunscreen"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses: Helps prevent sunburn. Higher SPF gives more sunburn protection. Retains SPF after 80 minutes of swimming or sweating. If used as as directed with other sun protection measures (see directions ), decreases the risk of cancer and early skin aging caused by the sun."
+  ],
+  "warnings": [
+    "Warnings: For external use only Do not use On damaged or broken skin. When using this product Keep out of eyes. Rinse with water to remove. Stop use and ask doctor if Rash occurs. Keep out of reach of children. If swallowed, get medical help, or contact a Poison Control Center right away. If pregnant or breastfeeding, Ask a health professional before use."
+  ],
+  "do_not_use": [
+    "Do not use On damaged or broken skin."
+  ],
+  "when_using": [
+    "When using this product Keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask doctor if Rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help, or contact a Poison Control Center right away."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, Ask a health professional before use."
+  ],
+  "dosage_and_administration": [
+    "Directions: Apply liberally 15 minutes before sun exposure and as needed. Use a water-resistant sunscreen if swimming or sweating. Reapply at least every 2 hours. Children under 6 months of age: ask a doctor. Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease the risk, regularly use sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 a.m. - 2 p.m. Wear long-sleeved shirts, pants, hats, and sunglasses."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Bis-Vinyl Dimethicone/ Dimethicone Copolymer, Camellia Sinensis (Green Tea) Extract, Caprylic/ Capric Triglyceride, Cetyl PEG/PPG-10/1 Dimethicone, Cocos Nucifera (Coconut) Oil, Cyclopentasiloxane, Cyclotetrasiloxane, Dimethicone, Dimethiconol, Helianthus Annus (Sunflower) Oil, Iron Oxides (Black, Red, White, Yellow), Rubus Idaeus (Raspberry) Extract, Silica, Tetrahexyldecyl Ascorbate (Vitamin C), Tocopheryl Acetate(Vitamin E), Tridecyl Salicylate Triethoxycaprylylsilane"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Label0 Label1"
+  ],
+  "set_id": "0708ec87-16c4-412b-971b-d4572931c780",
+  "id": "1eec39db-21b0-0616-e063-6394a90a016a",
+  "effective_time": "20240805",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "SANTO REMEDIOS RADIANCE SILKY MINERAL PRIMER SUNSCREEN SPF 42 IVORY"
+    ],
+    "generic_name": [
+      "TITANIUM DIOXIDE, ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "SANTO REMEDIO LLC"
+    ],
+    "product_ndc": [
+      "81352-518"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "TITANIUM DIOXIDE",
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "1eec39db-21b0-0616-e063-6394a90a016a"
+    ],
+    "spl_set_id": [
+      "0708ec87-16c4-412b-971b-d4572931c780"
+    ],
+    "package_ndc": [
+      "81352-518-00"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0850037386062"
+    ],
+    "unii": [
+      "15FIX9V2JP",
+      "SOI2LOH54Z"
+    ]
+  }
+}

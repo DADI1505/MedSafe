@@ -1,0 +1,55 @@
+{
+  "spl_product_data_elements": [
+    "Air Air AIR AIR"
+  ],
+  "package_label_principal_display_panel": [
+    "AIR, COMPRESSED UN1002 MEDICAL AIR, USP Rx only. WARNING: Administration of Medical Air may be hazardous or contraindicated. For use only by or under the supervision of a licensed practitioner who is experienced in the use and administration of Medical Air and is familiar with the indications, effects, dosages, methods, and frequency and duration of administration, and with the hazards, contraindications and side effects, and the precautions to be taken. Mixture of Oxygen, USP and Nitrogen, NF. WARNING: CONTAINS GAS UNDER PRESSURE; MAY EXPLODE IF HEATED. SUPPORTS COMBUSTION. Do not handle until all safety precautions have been read and understood. Use a back flow preventive device in the piping. Close valve after each use and when empty. Use only with equipment rated for cylinder pressure. Do not open valve until connected to equipment prepared for use. Protect from sunlight when ambient temperature exceeds 52 C (125 F). Read and follow the Safety Data Sheet (SDS) before use. CAS 132259-10-0 DO NOT REMOVE THIS PRODUCT LABEL. METRO WELDING SUPPLY 12620 SOUTHFIELD DETROIT, MI 48223 CALL (313) 834-1660 FOR PICKUP reconstituted air 2025"
+  ],
+  "set_id": "0210cd3d-e466-4248-afdb-32a5138c532d",
+  "id": "4197de83-7f1b-341d-e063-6294a90a456b",
+  "effective_time": "20251020",
+  "version": "21",
+  "openfda": {
+    "application_number": [
+      "NDA205910"
+    ],
+    "brand_name": [
+      "Air"
+    ],
+    "generic_name": [
+      "AIR"
+    ],
+    "manufacturer_name": [
+      "Metro Welding Supply Corporation"
+    ],
+    "product_ndc": [
+      "62273-003"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "RESPIRATORY (INHALATION)"
+    ],
+    "substance_name": [
+      "AIR"
+    ],
+    "spl_id": [
+      "4197de83-7f1b-341d-e063-6294a90a456b"
+    ],
+    "spl_set_id": [
+      "0210cd3d-e466-4248-afdb-32a5138c532d"
+    ],
+    "package_ndc": [
+      "62273-003-01",
+      "62273-003-02",
+      "62273-003-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "K21NZZ5Y0B"
+    ]
+  }
+}

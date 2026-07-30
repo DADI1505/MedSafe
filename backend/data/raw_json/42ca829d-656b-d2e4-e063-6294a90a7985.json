@@ -1,0 +1,87 @@
+{
+  "spl_product_data_elements": [
+    "Expedition BackCountry SPF 30 octocrylene, octisalate, avobenzone CASTOR OIL CETOSTEARYL ALCOHOL LAURYL LAURATE OLIVE OIL HYDROGENATED CASTOR OIL YELLOW WAX CARNAUBA WAX HYDROGENATED SOYBEAN OIL CANDELILLA WAX GLYCERYL STEARATE SE PHENETHYL BENZOATE COCONUT OCTYLDODECYL NEOPENTANOATE CETYL DIMETHICONE 150 HIPPOPHAE RHAMNOIDES SEED OIL OCTOCRYLENE OCTOCRYLENE OCTISALATE OCTISALATE AVOBENZONE AVOBENZONE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Octocrylene 5.0% Octisalate 3.0% Avobenzone 2.5%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses helps prevent sunburn helps prevent chapped or cracked skin"
+  ],
+  "warnings": [
+    "Warnings For external use only *Keep out of eyes Stop use and ask a doctor if rash occurs Keep out of reach of children."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions apply liberally 15 minutes before sun exposure reapply: after 80 minutes of swimming or sweating immediately after towel drying at least every 2 hours Sun Protection Measures . Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. - 2 p.m. wear long-sleeve shirts, pants, hats and sunglasses children under 6 months: Ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients ricinus communis (castor) seed oil, cetearyl alcohol, lauryl laurate, olea europaea (olive) fruit oil, hydrogenated castor oil, beeswax, copernicia cerifera (carnauba) wax, flavor, hydrogenated soybean oil, euphorbia cerifera (candelilla) wax, flavor, glyceryl stearate, octyl dodecyl citrate crosspolymer, phenethyl benzoate, cocos nucifera (coconut) fruit extract, octyldodecyl neopentanoate, cetyl dimethicone, hippophae rhamnoides (sea buckthorn) oil."
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel - Label 4.44g NDC 52854-927-01 4.44g NDC 52854-927-01 Blister Card Front 4.44g NDC 52854-927-01 Blister Card Back 4.44g NDC 52854-927-01 label 4.44g NDC 52854-927-01 Blister Card Front 4.44g NDC 52854-927-01 Blister Card Back"
+  ],
+  "set_id": "06d43525-86d8-f2d9-e063-6394a90afc81",
+  "id": "42ca829d-656b-d2e4-e063-6294a90a7985",
+  "effective_time": "20251104",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Expedition BackCountry SPF 30"
+    ],
+    "generic_name": [
+      "OCTOCRYLENE, OCTISALATE, AVOBENZONE"
+    ],
+    "manufacturer_name": [
+      "Tropical Seas, Inc."
+    ],
+    "product_ndc": [
+      "52854-976"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OCTOCRYLENE",
+      "OCTISALATE",
+      "AVOBENZONE"
+    ],
+    "spl_id": [
+      "42ca829d-656b-d2e4-e063-6294a90a7985"
+    ],
+    "spl_set_id": [
+      "06d43525-86d8-f2d9-e063-6394a90afc81"
+    ],
+    "package_ndc": [
+      "52854-976-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0079608917966"
+    ],
+    "unii": [
+      "5A68WGF6WM",
+      "4X49Y0596W",
+      "G63QQF2NOX"
+    ]
+  }
+}

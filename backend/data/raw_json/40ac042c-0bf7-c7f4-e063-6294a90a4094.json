@@ -1,0 +1,101 @@
+{
+  "spl_product_data_elements": [
+    "Fexofenadine HCL Fexofenadine HCL LIGHT MINERAL OIL MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL 6000 POLYSORBATE 80 STARCH, CORN FERRIC OXIDE RED HYPROMELLOSE 2910 (6 MPA.S) FERRIC OXIDE YELLOW SODIUM STARCH GLYCOLATE TYPE A POTATO TALC TITANIUM DIOXIDE FEXOFENADINE HYDROCHLORIDE FEXOFENADINE SILICON DIOXIDE J;44"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENT(S) in each tablet Fexofenadine hydrochloride USP, 180 mg"
+  ],
+  "purpose": [
+    "PURPOSE Antihistamine"
+  ],
+  "indications_and_usage": [
+    "USE(S) temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: § runny nose § sneezing § itchy, watery eyes § itching of the nose or throat"
+  ],
+  "warnings": [
+    "WARNINGS"
+  ],
+  "do_not_use": [
+    "DO NOT USE if you have ever had an allergic reaction to this product or any of its ingredients."
+  ],
+  "ask_doctor": [
+    "ASK A DOCTOR BEFORE USE IF you have kidney disease. Your doctor should determine if you need a different dose."
+  ],
+  "when_using": [
+    "WHEN USING THIS PRODUCT § do not take more than directed § do not take at the same time as aluminum or magnesium antacids § do not take with fruit juices (see Directions)"
+  ],
+  "stop_use": [
+    "STOP USE AND ASK A DOCTOR IF an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor"
+  ],
+  "dosage_and_administration_table": [
+    "<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\"><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\"> adults and children 12 years of age and over</td><td styleCode=\"Rrule\" valign=\"middle\">take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\"> children under 12 years of age</td><td styleCode=\"Rrule\" valign=\"middle\"> do not use </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\"> adults 65 years of age and older</td><td styleCode=\"Rrule\" valign=\"middle\"> ask a doctor </td></tr><tr><td styleCode=\"Lrule Rrule\" valign=\"middle\"> consumers with kidney disease</td><td styleCode=\"Rrule\" valign=\"middle\"> ask a doctor </td></tr></tbody></table>"
+  ],
+  "spl_unclassified_section": [
+    "Other information • Tamper-Evident: Do not use if seal is missing from bottle. • store between 20° and 25°C (68° and 77°F) • protect from excessive moisture",
+    "Questions? Call 1-800-206-7821"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Colloidal silicon dioxide, hypromellose, light liquid paraffin, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, pregelatinized starch, red iron oxide, sodium starch glycolate, talc, titanium dioxide and yellow iron oxide."
+  ],
+  "how_supplied": [
+    "HOW SUPPLIED Fexofenadine HCL, 180 mg are pink, capsules debossed with 'J 44' and are supplied as follows: NDC 72789-196-10 in bottles of 10 tablets NDC 72789-196-30 in bottles of 30 tablets NDC 72789-196-90 in bottles of 90 tablets"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL Fexofenadine Hydrochloride Tablets USP, 180 mg image"
+  ],
+  "set_id": "07460764-43fa-49fd-ae77-d4571cb9f944",
+  "id": "40ac042c-0bf7-c7f4-e063-6294a90a4094",
+  "effective_time": "20251008",
+  "version": "9",
+  "openfda": {
+    "application_number": [
+      "ANDA204097"
+    ],
+    "brand_name": [
+      "Fexofenadine HCL"
+    ],
+    "generic_name": [
+      "FEXOFENADINE HCL"
+    ],
+    "manufacturer_name": [
+      "PD-Rx Pharmaceuticals, Inc."
+    ],
+    "product_ndc": [
+      "72789-196"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "FEXOFENADINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "997420"
+    ],
+    "spl_id": [
+      "40ac042c-0bf7-c7f4-e063-6294a90a4094"
+    ],
+    "spl_set_id": [
+      "07460764-43fa-49fd-ae77-d4571cb9f944"
+    ],
+    "package_ndc": [
+      "72789-196-90",
+      "72789-196-30",
+      "72789-196-10"
+    ],
+    "original_packager_product_ndc": [
+      "16714-899"
+    ],
+    "unii": [
+      "2S068B75ZU"
+    ]
+  }
+}

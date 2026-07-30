@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "Mineral Sunscreen SPF 50 Zinc Oxide ARACHIDYL ALCOHOL ARACHIDYL GLUCOSIDE DOCOSANOL LEVOMENOL BUTYLOCTYL SALICYLATE SHEA BUTTER CALENDULA OFFICINALIS FLOWER GREEN TEA LEAF CAPRYLHYDROXAMIC ACID CAPRYLOYL GLYCERIN/SEBACIC ACID COPOLYMER (2000 MPA.S) CAPRYLYL GLYCOL CARBOXYMETHYLCELLULOSE SODIUM CETOSTEARYL ALCOHOL CETYL ALCOHOL CHAMOMILE CITRIC ACID MONOHYDRATE ORANGE OIL COCO GLUCOSIDE COCONUT OIL CUCUMBER DIHEPTYL SUCCINATE GLYCERIN METHYL DIHYDROABIETATE MICROCRYSTALLINE CELLULOSE AVOCADO POLYHYDROXYSTEARIC ACID STEARATE APRICOT KERNEL OIL SODIUM GLUCONATE HYALURONATE SODIUM SODIUM STEAROYL GLUTAMATE COCOA BUTTER TOCOPHEROL TRIETHYL CITRATE VANILLA BEAN WATER ZINC OXIDE ZINC OXIDE"
+  ],
+  "dosage_and_administration": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Zinc Oxide 20.0%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent sunburn If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use on broken or damaged skin When using this product Keep out of eyes. Rinse with water to remove Stop use and ask a doctor if rash occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+    "For external use only"
+  ],
+  "do_not_use": [
+    "Do not use on broken or damaged skin"
+  ],
+  "when_using": [
+    "When using this product Keep out of eyes. Rinse with water to remove"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "instructions_for_use": [
+    "Directions Shake well before use Apply liberally and spread evenly by hand 15 minutes before sun exposure Reapply: after 80 minutes of swimming or sweating immediately after towel use at least every 2 hours Sun Protection Measures Spending time in the sun can increase your risk of skin cancer and early skin aging. To decrease this risk, regularly use sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: Limiting time in the sun, especially from 10a.m. - 2p.m. Wearing long-sleeved shirts, pants, hats and sunglasses Children under six months: Ask a doctor"
+  ],
+  "other_safety_information": [
+    "Other Information Protect this product from excessive heat and direct sun Avoid long-term exposure storage above 40°C (104°F) May stain some fabrics"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Arachidyl Alcohol, Arachidyl Glucoside, Behenyl Alcohol, Bisabolol*, Butyloctyl Salicylate, Butyrospermum Parkii (Shea) Butter*, Calendula Officinalis Flower Extract*, Camellia Sinensis (Green Tea) Leaf Extract*, Caprylhydroxamic Acid, Capryloyl Glycerin/Sebacic Acid Copolymer, Caprylyl Glycol, Cellulose Gum, Cetearyl Alcohol, Cetyl Alcohol, Chamomilla Recutita (Matricaria) Flower Extract*, Citric Acid, Citrus Aurantium Dulcis (Orange) Peel Oil, Coco Glucoside, Cocos Nucifera (Coconut) Oil*, Cucumis Sativus (Cucumber) Fruit Extract*, Diheptyl Succinate, Glycerin, Methyl Dihydroabietate, Microcrystalline Cellulose, Persea Gratissima (Avocado) Fruit Extract*, Polyhydroxystearic Acid, Prunus Armeniaca (Apricot) Kernel Oil*, Sodium Gluconate, Sodium Hyaluronate, Sodium Stearoyl Glutamate, Theobroma Cacao (Cocoa) Seed Butter, Tocopherol, Triethyl Citrate, Vanilla Planifolia Fruit Extract, Water (Aqua) *Organic"
+  ],
+  "questions": [
+    "Questions? (888)860-6888"
+  ],
+  "package_label_principal_display_panel": [
+    "Artwork SPF 50 Mineral Lotion 5oz (Bell)"
+  ],
+  "set_id": "01cc205b-a345-262a-e063-6394a90a955c",
+  "id": "2b362d0b-fbea-5dcb-e063-6294a90a1e22",
+  "effective_time": "20250108",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Mineral Sunscreen SPF 50"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Hello Bello"
+    ],
+    "product_ndc": [
+      "73418-102"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "2b362d0b-fbea-5dcb-e063-6294a90a1e22"
+    ],
+    "spl_set_id": [
+      "01cc205b-a345-262a-e063-6394a90a955c"
+    ],
+    "package_ndc": [
+      "73418-102-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "spl_product_data_elements": [
+    "Benzoyl Peroxide Acne Acne Lotion PROPANEDIOL MIRABILIS JALAPA WHOLE MALTODEXTRIN SODIUM CARBOXYMETHYL .BETA.-GLUCAN (DS 0.65-0.85) ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER (60000 MPA.S) ARGININE DIMETHICONE CYCLOMETHICONE 6 CYCLOMETHICONE 5 GLYCERYL STEARATE SE SYRINGA VULGARIS WHOLE ALOE VERA LEAF WATER LYSOZYME HYDROCHLORIDE POLYACRYLAMIDE (1500 MW) CAPRYLOYL GLYCINE CAPRYLYL GLYCOL POLYGLYCERYL-10 LAURATE PHENOXYETHANOL .ALPHA.-TOCOPHEROL ACETATE C13-14 ISOPARAFFIN LAURETH-7 CARBOXYLIC ACID DECYLENE GLYCOL MYRISTOYL TETRAPEPTIDE-4 BUTYLENE GLYCOL SODIUM C14-16 OLEFIN SULFONATE COCO-GLYCERIDES TROMETHAMINE BENZOYL PEROXIDE BENZOYL PEROXIDE"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Benzoyl Peroxide 2.5%"
+  ],
+  "purpose": [
+    "Purpose Acne Treatment"
+  ],
+  "indications_and_usage": [
+    "Use for the management of acne."
+  ],
+  "warnings": [
+    "Warnings For external use only."
+  ],
+  "when_using": [
+    "When using this product Skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. Avoid unnecessary sun exposure and use a sunscreen. Avoid contact with eyes, lips and mouth. Avoid contact with hair and dyed fabrics, which may be bleached by this product. Skin irritation may occur, characterized by redness, burning, itching, peeling, or possibly swelling. Irritation may be reduced by using the product less frequently or in a lower concentration."
+  ],
+  "do_not_use": [
+    "Do not use if you have very sensitive skin, and are sensitive to Benzyl Peroxide."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if skin irritation becomes severe."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "instructions_for_use": [
+    "Directions Apply a thin layer in the morning to clean, dry skin. If bothersome irritation, drying and or peeling occurs, start with one application daily or every other day, then gradually increase to two times daily. If going outside, apply sunscreen after using this product. If irritation or sensitivity develops, stop use of both products and ask a doctor."
+  ],
+  "storage_and_handling": [
+    "Other Information Store in a cool, dry place."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Water, Behenoxy Dimethicone, Cyclohexasiloxane, Cyclopentasiloxane, Dimethicone, Glyceryl Stearate SE, Lysozyme HCl, Cocoyl Arginine Amide, Polyacrylamide, Capryloyl Glycine, Phenoxyethanol, Caprylyl Glycol, Glyceryl Stearate, C13-14 Isoparaffin, Laureth-7, Tocopheryl Acetate, Decylene Glycol, Butylene Glycol, Propanediol, Mirabilis Jalapa Extract, Sodium Carboxymethyl Betaglucan, Aloe Barbadensis Leaf Juice, Polyglyceryl-10 Laurate, Cocoglycerides, Maltodextrin, Syringa Vulgaris (Lilac) Extract, Beta-Glucan, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Myristoyl Tetrapeptide-13, Tromethamine."
+  ],
+  "questions": [
+    "Questions or comments? Questions or comments? www.slmdskincare.com Distributed by Skin PS Brands Los Angeles, CA 90066 Made in the USA with globally sourced materials."
+  ],
+  "package_label_principal_display_panel": [
+    "SLMD Sandra Lee MD Created by Dr. Pimple Popper Benzoyl Peroxide Acne Lotion Acne Treatment Eliminates acne-causing bacteria while treating active acne breakouts. 1.5 fl. oz. - 44 mL SANDRA LEE MD @SLMDSKINCARE Unit Carton: Primary: UC Primary Real results for everybody. AM Directions: After cleansing, apply a thin layer to clean, dry skin using gentle, upward strokes. For best results, use in the morning as part of the SLMD Acne System or up to two times daily. TARGETS RED, INFLAMMATORY & NON-INFLAMMATORY ACNE ACNE-CAUSING BACTERIA Questions or comments? www.slmdskincare.com Distributed by Skin PS Brands Los Angeles, CA 90066 Made in the USA with globally sourced materials."
+  ],
+  "dosage_and_administration": [
+    "Real results for everybody. AM Directions: After cleansing, apply a thin layer to clean, dry skin using gentle, upward strokes. For best results, use in the morning as part of the SLMD Acne System or up to two times daily. TARGETS RED, INFLAMMATORY & NON-INFLAMMATORY ACNE ACNE-CAUSING BACTERIA Questions or comments? www.slmdskincare.com Distributed by Skin PS Brands Los Angeles, CA 90066 Made in the USA with globally sourced materials."
+  ],
+  "set_id": "0792f466-f19c-acf0-e063-6294a90a6f91",
+  "id": "4736db04-1189-d338-e063-6394a90a9052",
+  "effective_time": "20251230",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "Benzoyl Peroxide Acne"
+    ],
+    "generic_name": [
+      "ACNE LOTION"
+    ],
+    "manufacturer_name": [
+      "Skin PS Brands"
+    ],
+    "product_ndc": [
+      "73318-7006"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZOYL PEROXIDE"
+    ],
+    "rxcui": [
+      "200009"
+    ],
+    "spl_id": [
+      "4736db04-1189-d338-e063-6394a90a9052"
+    ],
+    "spl_set_id": [
+      "0792f466-f19c-acf0-e063-6294a90a6f91"
+    ],
+    "package_ndc": [
+      "73318-7006-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "W9WZN9A0GM"
+    ]
+  }
+}

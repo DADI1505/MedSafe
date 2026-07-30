@@ -1,0 +1,91 @@
+{
+  "spl_product_data_elements": [
+    "Instant Erection Ultimate Erection Enhancer MINERAL OIL STEARIC ACID PROPYLENE GLYCOL WATER GLYCERYL STEARATE SE AMINOMETHYL PROPANEDIOL ETHYLHEXYLGLYCERIN GLYCERIN STEARYL ALCOHOL PETROLATUM SODIUM LAURYL SULFATE PHENOXYETHANOL BENZOCAINE BENZOCAINE"
+  ],
+  "active_ingredient": [
+    "Active Ingredient: Benzocaine 5%"
+  ],
+  "purpose": [
+    "Purpose: Desensitizer"
+  ],
+  "indications_and_usage": [
+    "Uses: Desentisizes the Penis, and allows an erection to be maintained."
+  ],
+  "warnings": [
+    "Warnings: For External use only. Do not use near eyes. Not for prolonged use. If condition for which preparation is used causes discomfort, or if a rash or irritation should develop, discontinue use and consult a physician. For prevention of premature ejaculation."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions: Apply a small amount of cream to head and shaft of penis 2-3 minutes before intercourse. Wash product off after intercourse."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Water, Stearic Acid, Propylene Glycol, Glycerin, Mineral Oil, Stearyl Alcohol, Glyceryl Stearate SE, Petrolatum, Sodium Lauryl Sulfate, Aminomethyl Propanediol, Phenoxyethanol, Ethylhexylglycerin."
+  ],
+  "package_label_principal_display_panel": [
+    "INSTANT ERECTION CREAM INSTANT ERECTION CREAM ULTIMATE ERECTION ENHANCER Net Wt. 0.5 oz. Made in USA Distributed By: Novelties by Nasswalk Inc, North Bergeb, NJ 07047. WWW.NASSTOYS.COM Tube: Carton: INSTANT ERECTION CREAM Net Wt. 0.5 oz. Made in USA Distributed By: Novelties by Nasswalk Inc, North Bergeb, NJ 07047. WWW.NASSTOYS.COM Carton: Tube Unit Carton-1 Unit Carton-2"
+  ],
+  "set_id": "03a444f9-7052-0c38-e063-6294a90a4e56",
+  "id": "434a858c-80cd-396b-e063-6294a90af493",
+  "effective_time": "20251110",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Instant Erection"
+    ],
+    "generic_name": [
+      "ULTIMATE ERECTION ENHANCER"
+    ],
+    "manufacturer_name": [
+      "Novelties by Nasswalk, Inc."
+    ],
+    "product_ndc": [
+      "83608-104"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZOCAINE"
+    ],
+    "spl_id": [
+      "434a858c-80cd-396b-e063-6294a90af493"
+    ],
+    "spl_set_id": [
+      "03a444f9-7052-0c38-e063-6294a90a4e56"
+    ],
+    "package_ndc": [
+      "83608-104-05",
+      "83608-104-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185508",
+      "N0000175629",
+      "N0000184306",
+      "M0000728"
+    ],
+    "pharm_class_epc": [
+      "Standardized Chemical Allergen [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]"
+    ],
+    "unii": [
+      "U3RSY48JW5"
+    ]
+  }
+}

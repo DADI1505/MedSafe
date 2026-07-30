@@ -1,0 +1,84 @@
+{
+  "spl_product_data_elements": [
+    "JAFRA Beauty advanced SILK MOISTURIZING SERUM FOUNDATION SUNSCREEN BROAD SPECTRUM SPF 15 CAPUCCINO D8 Homosalate, Octisalate, Zinc Oxide ETHYLHEXYLGLYCERIN CETYL PEG/PPG-10/1 DIMETHICONE (HLB 5) GLYCERIN POLYHYDROXYSTEARIC ACID STEARATE DIMETHICONE PHENYL TRIMETHICONE PHENOXYETHANOL BORON NITRIDE FERRIC OXIDE YELLOW TITANIUM DIOXIDE TRIETHOXYCAPRYLYLSILANE SILICA PROPYLENE CARBONATE MEDIUM-CHAIN TRIGLYCERIDES ALKYL (C12-15) BENZOATE CAPRYLYL METHICONE DIMETHICONE CROSSPOLYMER METHICONE (20 CST) SODIUM HYALURONATE WATER DI-PPG-3 MYRISTYL ETHER ADIPATE DISTEARDIMONIUM HECTORITE .ALPHA.-TOCOPHEROL ACETATE FERRIC OXIDE RED FERROSOFERRIC OXIDE SODIUM CHLORIDE SILICA DIMETHYL SILYLATE HOMOSALATE HOMOSALATE OCTISALATE ETHYLHEXYL SALICYLATE ZINC OXIDE ZINC OXIDE"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Homosalate 8% Octisalate 5% Zinc Oxide 4.9%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Shake well apply liberally and evenly 15 minutes before sun exposure reapply at least every 2 hours. use a water resistant sunscreen if swimming or sweating children under 6 months of age: Ask a doctor Sun Protection Measures . Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: • limit time in the sun, especially from 10 a.m. – 2 p.m. • wear long-sleeved shirts, pants, hats, and sunglasses"
+  ],
+  "spl_unclassified_section": [
+    "Other information protect this product from excessive heat and direct sun"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Water, Caprylic/Capric Triglyceride, Cetyl PEG/PPG-10/1 Dimethicone, Dimethicone, Phenyl Trimethicone, Glycerin, C12-15 Alkyl Benzoate, Di-PPG-3 Myristyl Ether Adipate, Caprylyl Methicone, Phenyl Dimethicone, Petroleum Distillates, Sodium Chloride, Silica, Phenoxyethanol, Dimethicone Crosspolymer, Boron Nitride, Disteardimonium Hectorite, Triethoxycaprylylsilane, Propylene Carbonate, Polyhydroxystearic Acid, Ethylhexylglycerin, Tocopheryl Acetate, Silica Dimethyl Silylate, Methicone, Sodium Hyaluronate, Iron Oxides, Titanium Dioxide"
+  ],
+  "other_safety_information": [
+    "Questions ? Call 1-800-551-2345 or visit www.jafra.com"
+  ],
+  "package_label_principal_display_panel": [
+    "Product label image description"
+  ],
+  "set_id": "08628240-327d-4329-a0ff-fed239dde206",
+  "id": "2d429d2c-36bc-05ec-e063-6394a90a0adf",
+  "effective_time": "20250203",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "JAFRA Beauty advanced SILK MOISTURIZING SERUM FOUNDATION SUNSCREEN BROAD SPECTRUM SPF 15 CAPUCCINO D8"
+    ],
+    "generic_name": [
+      "HOMOSALATE, OCTISALATE, ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Distribuidora Comercial Jafra, S.A. de C.V."
+    ],
+    "product_ndc": [
+      "68828-308"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "HOMOSALATE",
+      "OCTISALATE",
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "2d429d2c-36bc-05ec-e063-6394a90a0adf"
+    ],
+    "spl_set_id": [
+      "08628240-327d-4329-a0ff-fed239dde206"
+    ],
+    "package_ndc": [
+      "68828-308-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "V06SV4M95S",
+      "4X49Y0596W",
+      "SOI2LOH54Z"
+    ]
+  }
+}

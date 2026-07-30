@@ -1,0 +1,87 @@
+{
+  "spl_product_data_elements": [
+    "Wallgreens Maximum Strength Urinary Pain Relief PHENAZOPYRIDINE HYDROCHLORIDE PHENAZOPYRIDINE HYDROCHLORIDE PHENAZOPYRIDINE LACTOSE MAGNESIUM SILICATE p99"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each tablet) Phenazopyridine Hydrochloride 99.5 mg ."
+  ],
+  "purpose": [
+    "Purpose Urinary Analgesic"
+  ],
+  "warnings": [
+    "Warnings Do not exceed recommended dosage"
+  ],
+  "ask_doctor": [
+    "Ask doctor before use if you have ■ kidney disease ■ allergies to food, preservatives or dyes ■ had a hypersensitive reaction to phenazopyridine"
+  ],
+  "when_using": [
+    "When using this product ■ stomach upset may occur, taking this product with or after meals may reduce stomach upset ■ your urine will become reddish-orange in color. This is not harmful, but care should be taken to avoid staining clothing or other items."
+  ],
+  "stop_use": [
+    "Stop use and ask doctor if ■ your symptoms last for more than 2 days ■ you suspect you are having an adverse reaction to the medication"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast feeding, Ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children In case of an overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "indications_and_usage": [
+    "Use Fast relief from urinary pain, burning, urgency and frequency associated with urinary tract infections."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Lactose, magnesium silicate, magnesium stearate, microcrystalline cellulose, pharmaceutical glaze, and sodium starch glycolate."
+  ],
+  "dosage_and_administration": [
+    "Directions ■ adults and children 12 years and over: take 2 tablets 3 times daily with a full glass of water, with or after meals as needed ■ children under 12 years: consult a doctor ■ Do not use for more than 2 days (12 tablets) without consulting a doctor image of carton"
+  ],
+  "package_label_principal_display_panel": [
+    ""
+  ],
+  "set_id": "04b41b83-b168-429e-a785-9e210bac2deb",
+  "id": "0098271c-4ca3-47b7-b31d-8b1ce12224b8",
+  "effective_time": "20241218",
+  "version": "6",
+  "openfda": {
+    "brand_name": [
+      "Wallgreens Maximum Strength Urinary Pain Relief"
+    ],
+    "generic_name": [
+      "PHENAZOPYRIDINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Walgreens Co."
+    ],
+    "product_ndc": [
+      "0363-8455"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PHENAZOPYRIDINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1094147"
+    ],
+    "spl_id": [
+      "0098271c-4ca3-47b7-b31d-8b1ce12224b8"
+    ],
+    "spl_set_id": [
+      "04b41b83-b168-429e-a785-9e210bac2deb"
+    ],
+    "package_ndc": [
+      "0363-8455-24",
+      "0363-8455-12"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "0EWG668W17"
+    ]
+  }
+}

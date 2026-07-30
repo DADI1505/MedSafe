@@ -1,0 +1,88 @@
+{
+  "spl_product_data_elements": [
+    "Empower White Petrolatum, Zinc Oxide HEXAMETHYLDISILOXANE WHITE PETROLATUM WHITE PETROLATUM ZINC OXIDE ZINC OXIDE DIMETHICONE TRIETHOXYCAPRYLYLSILANE"
+  ],
+  "active_ingredient": [
+    "Active ingredients White Petrolatum 30% Zinc Oxide 10%"
+  ],
+  "purpose": [
+    "Purpose White Petrolatum 30%.................Skin Protectant Zinc Oxide 10%...........................Skin Protectant"
+  ],
+  "indications_and_usage": [
+    "Uses Helps treat and prevent rashes Protects chafed skin from wetness"
+  ],
+  "warnings": [
+    "Warnings Flammable For external use only When using this product Do not get into eyes Stop use and ask a doctor if Condition worsens Symptoms last more than 7 days or clears up and occur again within a few days Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product Do not get into eyes"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if Condition worsens Symptoms last more than 7 days or clears up and occur again within a few days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Cleanse and dry the affected area Spray 4-6\" from the skin and allow time to dry Apply as needed"
+  ],
+  "storage_and_handling": [
+    "Other Information Store between 15-30C (59-86F) Protect from freezing Contents under pressure Do not puncture or incinerate container Do not expose to heat or store at temperatures above 120F"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Dimethicone, Hexamethyldisiloxane, Triethoxycaprylylsilane"
+  ],
+  "package_label_principal_display_panel": [
+    "BEMIS NDC 83744-001-40 EMPOWER BARRIER SPRAY SKIN PROTECTANT Helps treat and prevent rashes and protects chafed skin from wetness. Made without Paraben, Alcohol, Fragrances or Dyes pH Balanced Net Wt. 1.41oz (40g) 1"
+  ],
+  "set_id": "08006b60-966b-155b-e063-6294a90a206a",
+  "id": "08006b60-966c-155b-e063-6294a90a206a",
+  "effective_time": "20231018",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Empower"
+    ],
+    "generic_name": [
+      "WHITE PETROLATUM, ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Bemis Manufacturing Company Inc"
+    ],
+    "product_ndc": [
+      "83744-001"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "WHITE PETROLATUM",
+      "ZINC OXIDE"
+    ],
+    "rxcui": [
+      "2667940"
+    ],
+    "spl_id": [
+      "08006b60-966c-155b-e063-6294a90a206a"
+    ],
+    "spl_set_id": [
+      "08006b60-966b-155b-e063-6294a90a206a"
+    ],
+    "package_ndc": [
+      "83744-001-40"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "B6E5W8RQJ4",
+      "SOI2LOH54Z"
+    ]
+  }
+}

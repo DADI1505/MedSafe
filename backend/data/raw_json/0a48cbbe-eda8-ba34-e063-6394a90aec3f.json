@@ -1,0 +1,81 @@
+{
+  "spl_product_data_elements": [
+    "Alba Botanica Maximum Sunscreen SPF 70 Avobenzone, Homosalate, Octisalate, Octocrylene PANAX GINSENG ROOT OIL ALCOHOL BUTYLOCTYL SALICYLATE AVOCADO OIL SUNFLOWER OIL ACRYLATE/ISOBUTYL METHACRYLATE/N-TERT-OCTYLACRYLAMIDE COPOLYMER (75000 MW) ALOE VERA LEAF MATRICARIA RECUTITA SAFFLOWER OIL CAMELLIA OIL DIISOPROPYL ADIPATE GINKGO .ALPHA.-TOCOPHEROL ACETATE OCTOCRYLENE OCTOCRYLENE OCTISALATE OCTISALATE AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE ETHYLHEXYL METHOXYCRYLENE"
+  ],
+  "active_ingredient": [
+    "AVOBENZONE 2.9% HOMOSALATE 14.7% OCTISALATE 4.9% OCTOCRYLENE 9.5%"
+  ],
+  "inactive_ingredient": [
+    "Alcohol Denat., Butyloctyl Salicylate, Acrylates/Octylacrylamide Copolymer, Aloe Barbadensis Leaf Extract, Camellia Sinensis Leaf Extract, Carthamus Tinctorius (Safflower) Seed Oil, Chamomilla Recutita (Matricaria) Flower Extract, Diisopropyl Adipate, Ethylhexyl Methoxycrylene, Ginkgo Biloba Leaf Extract, Helianthus Annuus (Sunflower) Seed Oil, Panax Quinquefolius Root Extract, Persea Gratissima (Avocado) Oil, Tocopheryl Acetate"
+  ],
+  "purpose": [
+    "Sunscreen. Helps prevent sunburn"
+  ],
+  "indications_and_usage": [
+    "● Hold container 4 to 6 inches/ from skin to apply ● Spray liberally/generously and spread evenly by hand 15 minutes before sun exposure. Do not spray directly onto face; spray on hands, then apply to face. Do not apply in windy conditions. Use in a well-ventilated area and avoid inhaling or exposing others to spray. ● reapply: ● at least every 2 hours ● after 40 minutes of swimming or sweating ● immediately after towel drying. Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: ■ limit time in the sun, especially from 10 am - 2 pm/ 11 a.m. – 3 p.m ■ wear long-sleeved shirts, pants, hats, and sunglasses. ● For use on children under 6 months of age, ask a doctor."
+  ],
+  "warnings": [
+    "For external use only . Do not use on damaged or broken skin. When using this product avoid contact with eyes.If contact occurs, rinse thoroughly with water. Stop use and ask a doctor if rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Label"
+  ],
+  "set_id": "02ba8b03-a1fc-608f-e063-6394a90a06a8",
+  "id": "0a48cbbe-eda8-ba34-e063-6394a90aec3f",
+  "effective_time": "20231116",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Alba Botanica Maximum Sunscreen SPF 70"
+    ],
+    "generic_name": [
+      "AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE"
+    ],
+    "manufacturer_name": [
+      "Hain Celestial Group, Inc"
+    ],
+    "product_ndc": [
+      "61995-3035"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OCTOCRYLENE",
+      "OCTISALATE",
+      "AVOBENZONE",
+      "HOMOSALATE"
+    ],
+    "spl_id": [
+      "0a48cbbe-eda8-ba34-e063-6394a90aec3f"
+    ],
+    "spl_set_id": [
+      "02ba8b03-a1fc-608f-e063-6394a90a06a8"
+    ],
+    "package_ndc": [
+      "61995-3035-1",
+      "61995-3035-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "5A68WGF6WM",
+      "4X49Y0596W",
+      "G63QQF2NOX",
+      "V06SV4M95S"
+    ]
+  }
+}

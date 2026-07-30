@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "POP Gel Whatzzup Watermelon Sodium Fluoride SORBITAN MONOOLEATE TRIBASIC CALCIUM PHOSPHATE NIACINAMIDE .ALPHA.-TOCOPHEROL ACETATE, DL- WATER ZINC STEARATE GLYCERIN SODIUM PYROPHOSPHATE SODIUM LAURYL SULFATE XANTHAN GUM SACCHARIN SODIUM SACCHARIN SUCRALOSE TITANIUM DIOXIDE XYLITOL HYDRATED SILICA SODIUM POLYACRYLATE (8000 MW) POLOXAMER 407 SODIUM FLUORIDE FLUORIDE ION Watermelon"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredient SODIUM FLUORIDE 0.243% (0.13% w/v fluoride ion)"
+  ],
+  "purpose": [
+    "Purpose Anticavity toopaste"
+  ],
+  "indications_and_usage": [
+    "Use helps protect against cavities"
+  ],
+  "warnings": [
+    "Warnings Warnings Keep out of reach of children. Keep out of reach of children under 6 years of age. Do not swallow. If you accidentally swallow more than used for brushing, seek professional assistance or contact a poison control center right away. If an allergic reaction develops, discontinue use immediately."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. Keep out of reach of children under 6 years of age. Do not swallow. If you accidentally swallow more than used for brushing, seek professional assistance or contact a poison control center right away. If an allergic reaction develops, discontinue use immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 2 years of age and and older: Brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist. ​do not swallow. ​to minimize swallowing use a pea-sized amount in children under 6. ​supervise children's brushing until good habits are established. ​ children under 2 years: ask a dentist."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients GLYCERIN, WATER, HYDRATED SILICA, SODIUM LAURYL SULFATE, FLAVOR, XANTHAN GUM, TETRASODIUM PYROPHOSPHATE, POLOXAMER 407, SODIUM POLYACRYLATE, ZINC STEARATE, SODIUM SACCHARIN, SORBITAN OLEATE, TITANIUM DIOXIDE, SUCRALOSE, HYDROXYAPATITE, NIACINAMIDE, TOCOPHERYL ACETATE, XYLITOL"
+  ],
+  "questions": [
+    "Questions? 1-866-993-4709"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel - 160 g Tube Carton POP Playful. Original. Personal. GEL TOOTHPASTE Electric Toothbrush Suitable 3X faster fluoride release* Repairs & protects enamel NET WT. 5.64 OZ (160 G) Whatzzup Watermelon DISTR. LG H&H CO., LTD. 58, SAEMUNAN-RO, JONGNO-GU, SEOUL, KOREA www.oralcarebypop.com MADE IN KOREA *Compared to tube toothpaste, when used with an electric toothbrush. POP_Gel_Whatzzup_Watermelon_160g_IC"
+  ],
+  "set_id": "05b276a1-3778-104d-e063-6294a90a7537",
+  "id": "2c6bed6a-e21e-0073-e063-6394a90a28b1",
+  "effective_time": "20250101",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M021"
+    ],
+    "brand_name": [
+      "POP Gel Whatzzup Watermelon"
+    ],
+    "generic_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "manufacturer_name": [
+      "LG H&H Co., Ltd."
+    ],
+    "product_ndc": [
+      "53208-582"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "DENTAL"
+    ],
+    "substance_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "rxcui": [
+      "891775"
+    ],
+    "spl_id": [
+      "2c6bed6a-e21e-0073-e063-6394a90a28b1"
+    ],
+    "spl_set_id": [
+      "05b276a1-3778-104d-e063-6294a90a7537"
+    ],
+    "package_ndc": [
+      "53208-582-60"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8ZYQ1474W7"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "Botnia Gentle Sun SPF 30 ZINC OXIDE ASTAXANTHIN CAPRYLYL GLYCOL CETEARYL OLIVATE CETYL PALMITATE HIPPOPHAE RHAMNOIDES FRUIT OIL PELARGONIUM GRAVEOLENS FLOWER OIL POTASSIUM CETYL PHOSPHATE RASPBERRY SEED OIL JOJOBA OIL SODIUM STEAROYL GLUTAMATE SORBITAN OLIVATE SORBITAN PALMITATE .ALPHA.-TOCOPHEROL ACETATE GRAPE SEED OIL WATER XANTHAN GUM ZINC OXIDE ZINC CATION"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other Information. Protect the product in this container from excessive heat and direct sun."
+  ],
+  "active_ingredient": [
+    "Active ingredient Zinc Oxide 18.00 % Purpose Sunscreen"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent sunburn. Higher SPF gives more sunburn protection If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "warnings": [
+    "Warnings: For external use only Do not use On damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash or irritation develops and lasts. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. If pregnant or breast-feeding, ask a health professional before use"
+  ],
+  "do_not_use": [
+    "Do not use On damaged or broken skin."
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash or irritation develops and lasts."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use"
+  ],
+  "dosage_and_administration": [
+    "Directions. Apply liberally 15 minutes before sun exposure and as needed. Children under 6 months of age: ask a doctor. Reapply at least every 2 hours Use a water-resistant sunscreen if swimming or sweating Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease the risk, regularly use a sunscreen with broad spectrum SPF of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 a.m. - 2 p.m. Wear long-sleeved shirts, pants, hats, and sunglasses."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Astaxanthin, Calendula Officinalis (Calendula) Water, Caprylyl Glycol, Cetearyl Olivate, Cetyl Palmitate, Hippophae Rhamnoides Fruit Oil, Lactobacillus Ferment, Pelargonium Asperum (Rose Geranium) Water, Pelargonium Graveolens Flower Oil, Potassium Cetyl Phosphate, Rosa spp. Flower Water, Rubus Idaeus (Raspberry) Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Sodium Stearoyl Glutamate, Sorbitan Olivate, Sorbitan Palmitate, Tocopheryl Acetate, Vitis Vinifera (Grape) Seed Oil, Water (Aqua), Xanthan Gum"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Outer Label2 Inner Label2"
+  ],
+  "set_id": "005d0245-fe53-47e5-888b-683f58cd6d26",
+  "id": "4c1e721a-a8f5-db1b-e063-6294a90a0a26",
+  "effective_time": "20260303",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Botnia Gentle Sun SPF 30"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Botnia, Inc"
+    ],
+    "product_ndc": [
+      "87461-904"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "4c1e721a-a8f5-db1b-e063-6294a90a0a26"
+    ],
+    "spl_set_id": [
+      "005d0245-fe53-47e5-888b-683f58cd6d26"
+    ],
+    "package_ndc": [
+      "87461-904-00"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

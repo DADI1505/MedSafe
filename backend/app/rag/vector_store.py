@@ -45,15 +45,41 @@ def load_faiss_index(path: str):
     print(f"Index FAISS chargé : {_faiss_index.ntotal} vecteurs disponibles")
 
 
-def search_similar_chunks(query_text: str, top_k: int = 5) -> list[int]:
-    """Recherche les k chunks les plus proches d'une question (temps réel)."""
+# def search_similar_chunks(query_text: str, top_k: int = 5) -> list[int]:
+#     """Recherche les k chunks les plus proches d'une question (temps réel)."""
+#     if _faiss_index is None:
+#         raise RuntimeError("Index FAISS non chargé. Appelle load_faiss_index() d'abord.")
+
+#     query_vector = generate_embedding(query_text)
+#     query_array = np.array([query_vector]).astype("float32")
+#     distances, positions = _faiss_index.search(query_array, top_k)
+#     return positions[0].tolist()
+
+def search_similar_chunks(query_text: str, top_k: int = 5, max_distance: float = 1.3) -> list[int]:
+    """
+    Recherche les k chunks les plus proches d'une question, mais élimine
+    ceux dont la distance dépasse max_distance — évite de renvoyer des
+    résultats sans rapport juste pour "remplir" top_k.
+    """
     if _faiss_index is None:
         raise RuntimeError("Index FAISS non chargé. Appelle load_faiss_index() d'abord.")
 
     query_vector = generate_embedding(query_text)
     query_array = np.array([query_vector]).astype("float32")
     distances, positions = _faiss_index.search(query_array, top_k)
-    return positions[0].tolist()
+
+    print(f"[DEBUG SEARCH] query='{query_text}'")  # AJOUT
+    print(f"[DEBUG SEARCH] distances={distances[0].tolist()}")  # AJOUT
+    print(f"[DEBUG SEARCH] positions={positions[0].tolist()}")  # AJOUT
+
+    # On ne garde que les résultats sous le seuil de distance,
+    # et on écarte les positions invalides (-1, renvoyées par FAISS
+    # quand il n'y a pas assez de résultats disponibles)
+    filtered_positions = [
+        int(pos) for pos, dist in zip(positions[0], distances[0])
+        if dist <= max_distance and pos != -1
+    ]
+    return filtered_positions
 
 
 # def build_index_from_db(db: Session) -> faiss.Index:

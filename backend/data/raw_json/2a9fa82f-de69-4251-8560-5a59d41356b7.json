@@ -1,0 +1,85 @@
+{
+  "spl_product_data_elements": [
+    "febuxostat febuxostat FEBUXOSTAT FEBUXOSTAT SILICON DIOXIDE CROSCARMELLOSE SODIUM HYPROMELLOSES LACTOSE MONOHYDRATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL, UNSPECIFIED POVIDONE SODIUM STEARYL FUMARATE TALC TITANIUM DIOXIDE WHITE TO OFF-WHITE OVAL 401 febuxostat febuxostat FEBUXOSTAT FEBUXOSTAT SILICON DIOXIDE CROSCARMELLOSE SODIUM HYPROMELLOSES LACTOSE MONOHYDRATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL, UNSPECIFIED POVIDONE SODIUM STEARYL FUMARATE TALC TITANIUM DIOXIDE WHITE TO OFF-WHITE ROUND 402"
+  ],
+  "spl_unclassified_section": [
+    ""
+  ],
+  "spl_medguide": [
+    "SPL MEDGUIDE"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Febuxostat Tablets, 40 mg – 30's count NDC- 70771-1552-3 Febuxostat Tablets, 80 mg – 30's count NDC- 70771-1553-3 40 mg label 80 mg label"
+  ],
+  "set_id": "0629ab39-196e-4198-902a-3c16277ba205",
+  "id": "2a9fa82f-de69-4251-8560-5a59d41356b7",
+  "effective_time": "20240816",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "ANDA205443"
+    ],
+    "brand_name": [
+      "febuxostat"
+    ],
+    "generic_name": [
+      "FEBUXOSTAT"
+    ],
+    "manufacturer_name": [
+      "Zydus Lifesciences Limited"
+    ],
+    "product_ndc": [
+      "70771-1552",
+      "70771-1553"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "FEBUXOSTAT"
+    ],
+    "rxcui": [
+      "834235",
+      "834241"
+    ],
+    "spl_id": [
+      "2a9fa82f-de69-4251-8560-5a59d41356b7"
+    ],
+    "spl_set_id": [
+      "0629ab39-196e-4198-902a-3c16277ba205"
+    ],
+    "package_ndc": [
+      "70771-1552-3",
+      "70771-1552-9",
+      "70771-1552-1",
+      "70771-1552-5",
+      "70771-1552-0",
+      "70771-1552-4",
+      "70771-1553-3",
+      "70771-1553-9",
+      "70771-1553-1",
+      "70771-1553-5",
+      "70771-1553-0",
+      "70771-1553-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175698",
+      "N0000000206"
+    ],
+    "pharm_class_epc": [
+      "Xanthine Oxidase Inhibitor [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Xanthine Oxidase Inhibitors [MoA]"
+    ],
+    "unii": [
+      "101V0R1N2E"
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "spl_product_data_elements": [
+    "MediChoice PVP POVIDONE-IODINE CITRIC ACID MONOHYDRATE NONOXYNOL-10 GLYCERIN SODIUM HYDROXIDE POTASSIUM IODIDE WATER POVIDONE-IODINE IODINE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information Store at room temperature. Avoid excessive heat."
+  ],
+  "active_ingredient": [
+    "Active ingredient Povidone Iodine USP,10% w/w Purpose Antiseptic"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Use For preparation of the skin prior to surgery and helps reduce bacteria that can potentially cause skin infection. Topical first aid antiseptic to help reduce the risk of skin infection in minor cuts, scrapes, and burns."
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use in the eyes on individuals who are allergic or sensitive to iodine over large areas of the body as a first aid antiseptic longer than one week unless directed by a doctor. Consult a doctor in case of deep or puncture wounds, animal bites, or serious burns. Stop use and consult a doctor if irritation or redness develops if the condition persists or gets worse infection occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use in the eyes on individuals who are allergic or sensitive to iodine over large areas of the body as a first aid antiseptic longer than one week unless directed by a doctor."
+  ],
+  "ask_doctor": [
+    "Consult a doctor in case of deep or puncture wounds, animal bites, or serious burns."
+  ],
+  "stop_use": [
+    "Stop use and consult a doctor if irritation or redness develops if the condition persists or gets worse infection occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions For preparation prior to surgery Clean the treatment area Remove swab by stick Apply to the operative site prior to surgery. Clean the treatment area Apply a small amount on the treatment area 1-3 times daily May be covered with a sterile bandage Let dry before covering. For use as a first aid antiseptic"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredient Citric Acid, Alkyl Glucoside, Hydroxyethyl Cellulose, Nonoxyno-10, Glycerine, Sodium Hydroxide, Potassium Iodide, Purified Water"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Label5 Box4",
+    "MediChoice PVP Swabsticks, 1000 Count (39892-0811-2) Label3 Case"
+  ],
+  "set_id": "04e9b3e7-2505-48c4-96a5-eb8eb2d1625e",
+  "id": "40b3fbd9-2f55-299f-e063-6394a90a89bc",
+  "effective_time": "20251009",
+  "version": "10",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "MediChoice PVP"
+    ],
+    "generic_name": [
+      "POVIDONE-IODINE"
+    ],
+    "manufacturer_name": [
+      "O&M HALYARD, INC."
+    ],
+    "product_ndc": [
+      "39892-0811"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "POVIDONE-IODINE"
+    ],
+    "rxcui": [
+      "797730"
+    ],
+    "spl_id": [
+      "40b3fbd9-2f55-299f-e063-6394a90a89bc"
+    ],
+    "spl_set_id": [
+      "04e9b3e7-2505-48c4-96a5-eb8eb2d1625e"
+    ],
+    "package_ndc": [
+      "39892-0811-1",
+      "39892-0811-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175486",
+      "M0011640"
+    ],
+    "pharm_class_epc": [
+      "Antiseptic [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Iodine [CS]"
+    ],
+    "unii": [
+      "85H0HZU99M"
+    ]
+  }
+}

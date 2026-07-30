@@ -1,0 +1,140 @@
+{
+  "spl_product_data_elements": [
+    "Adrenal Liquescence 3001 Adrenal Liquescence GLYCYRRHIZA GLABRA GLYCYRRHIZA GLABRA BEE POLLEN BEE POLLEN PAULLINIA CUPANA SEED PAULLINIA CUPANA SEED ROSA CANINA FRUIT ROSA CANINA FRUIT ASIAN GINSENG ASIAN GINSENG SUS SCROFA ADRENAL GLAND SUS SCROFA ADRENAL GLAND CORTICOTROPIN CORTICOTROPIN EPHEDRA DISTACHYA FLOWERING TWIG EPHEDRA DISTACHYA FLOWERING TWIG ZINC ZINC EPINEPHRINE EPINEPHRINE SODIUM CHLORIDE CHLORIDE ION ALCOHOL WATER"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS Glycyrrhiza glabra 1X Bee pollen 2X Paullinia sorbilis 3X Rosa canina 3X Panax ginseng (Chinese) 3X, 6X Adrenal 6X Adrenocorticotrophin (ACTH) 6X Ephedra vulgaris 6X Zincum metallicum 6X Adrenalinum 12X Natrum muriaticum 12X"
+  ],
+  "questions": [
+    "QUESTIONS Professional Formulas PO Box 2034 Lake Oswego, OR 97035"
+  ],
+  "indications_and_usage": [
+    "INDICATIONS For the temporary relief of lethargy, lack of energy, sadness, anxiousness, or decreased ability to handle stress.*"
+  ],
+  "purpose": [
+    "*Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS In case of overdose, get medical help or contact a poison control center right away. Keep out of the reach of children. If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take one full dropper up to 2 times per day. Consult a physician for use in children under 12 years of age."
+  ],
+  "other_safety_information": [
+    "OTHER INFORMATION Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS 20% ethanol, purified water."
+  ],
+  "package_label_principal_display_panel": [
+    "LABEL Est 1985 Professional Formulas Complementary Health Adrenal Liquescence Homeopathic Remedy 4 FL. OZ. (118 mL) Label image"
+  ],
+  "set_id": "0388d3c7-4b3b-4e74-8c1b-9a2af2a4377d",
+  "id": "4458191b-2cb9-45a9-a6ce-e9d6033bd480",
+  "effective_time": "20260108",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Adrenal Liquescence 3001"
+    ],
+    "generic_name": [
+      "ADRENAL LIQUESCENCE"
+    ],
+    "manufacturer_name": [
+      "Professional Complementary Health Formulas"
+    ],
+    "product_ndc": [
+      "63083-3001"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "GLYCYRRHIZA GLABRA",
+      "BEE POLLEN",
+      "PAULLINIA CUPANA SEED",
+      "ROSA CANINA FRUIT",
+      "ASIAN GINSENG",
+      "SUS SCROFA ADRENAL GLAND",
+      "CORTICOTROPIN",
+      "EPHEDRA DISTACHYA FLOWERING TWIG",
+      "ZINC",
+      "EPINEPHRINE",
+      "SODIUM CHLORIDE"
+    ],
+    "spl_id": [
+      "4458191b-2cb9-45a9-a6ce-e9d6033bd480"
+    ],
+    "spl_set_id": [
+      "0388d3c7-4b3b-4e74-8c1b-9a2af2a4377d"
+    ],
+    "package_ndc": [
+      "63083-3001-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185371",
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "M0006342",
+      "M0016962",
+      "M0000499",
+      "N0000175941",
+      "N0000000209",
+      "N0000000245",
+      "N0000175552",
+      "N0000175555",
+      "N0000175570",
+      "M0003647"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Food Allergenic Extract [EPC]",
+      "Non-Standardized Plant Allergenic Extract [EPC]",
+      "Adrenocorticotropic Hormone [EPC]",
+      "alpha-Adrenergic Agonist [EPC]",
+      "beta-Adrenergic Agonist [EPC]",
+      "Catecholamine [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Dietary Proteins [CS]",
+      "Plant Proteins [CS]",
+      "Adrenocorticotropic Hormone [CS]",
+      "Catecholamines [CS]"
+    ],
+    "pharm_class_moa": [
+      "Adrenergic alpha-Agonists [MoA]",
+      "Adrenergic beta-Agonists [MoA]"
+    ],
+    "unii": [
+      "2788Z9758H",
+      "3729L8MA2C",
+      "C21GE7524R",
+      "3TNW8D08V3",
+      "CUQ3A77YXI",
+      "398IYQ16YV",
+      "K0U68Q2TXA",
+      "R55VQ87DP3",
+      "J41CSQ7QDS",
+      "YKH834O4BH",
+      "451W47IQ8X"
+    ]
+  }
+}

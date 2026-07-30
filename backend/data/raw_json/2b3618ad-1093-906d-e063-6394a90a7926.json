@@ -1,0 +1,103 @@
+{
+  "spl_product_data_elements": [
+    "sterile POVIDONE-IODINE NONOXYNOL-10 GLYCERIN WATER POVIDONE-IODINE IODINE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information 1% titratable iodine for hospital or professional use only"
+  ],
+  "active_ingredient": [
+    "Active ingredient Povidone-lodine USP 10% Purpose Antiseptic"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Use for antiseptic skin preparation"
+  ],
+  "warnings": [
+    "Warnings For external use only Avoid pooling beneath patient do not use if allergic to lodine in the eye Stop use and ask a doctor if redness, irritation, swelling or pain persists or increases infection occurs Keep out of reach of children. In case of accidental ingestion, seek professional assistance or consult a poison control center immediately. Ask a doctor before use if injuries are deep or puncture wounds serious burns"
+  ],
+  "do_not_use": [
+    "do not use if allergic to lodine in the eye"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if redness, irritation, swelling or pain persists or increases infection occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of accidental ingestion, seek professional assistance or consult a poison control center immediately."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if injuries are deep or puncture wounds serious burns"
+  ],
+  "dosage_and_administration": [
+    "Directions apply locally as needed"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients: Nonyl Nonoxynol-10, Glycerin, Purifed Water."
+  ],
+  "storage_and_handling": [
+    "Storage Avoid excessive heat Store at room temperature"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: NDC 83645-552-11 ADI Medical Label"
+  ],
+  "set_id": "0658a0c8-f5ec-b380-e063-6394a90afff5",
+  "id": "2b3618ad-1093-906d-e063-6394a90a7926",
+  "effective_time": "20250108",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "sterile"
+    ],
+    "generic_name": [
+      "POVIDONE-IODINE"
+    ],
+    "manufacturer_name": [
+      "Asia Dynamics Inc., d/b/a ADI Medical"
+    ],
+    "product_ndc": [
+      "83645-552"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "POVIDONE-IODINE"
+    ],
+    "rxcui": [
+      "312564"
+    ],
+    "spl_id": [
+      "2b3618ad-1093-906d-e063-6394a90a7926"
+    ],
+    "spl_set_id": [
+      "0658a0c8-f5ec-b380-e063-6394a90afff5"
+    ],
+    "package_ndc": [
+      "83645-552-11"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175486",
+      "M0011640"
+    ],
+    "pharm_class_epc": [
+      "Antiseptic [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Iodine [CS]"
+    ],
+    "unii": [
+      "85H0HZU99M"
+    ]
+  }
+}

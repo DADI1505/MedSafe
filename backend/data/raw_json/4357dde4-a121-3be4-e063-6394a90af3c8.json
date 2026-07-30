@@ -1,0 +1,101 @@
+{
+  "spl_product_data_elements": [
+    "Betadine Solution Swabsticks POVIDONE-IODINE SODIUM HYDROXIDE WATER POVIDONE-IODINE IODINE"
+  ],
+  "active_ingredient": [
+    "Active ingredient Purpose Povidone-iodine Solution USP, 10% (equal to1% available iodine)"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Uses for preparation of the skin prior to surgery helps reduce bacteria that can potentially cause skin infection"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "do_not_use": [
+    "Do not use this product in the eyes if you are allergic to iodine or other product ingredients"
+  ],
+  "when_using": [
+    "When using this product prolonged exposure may cause irritation or, rarely, severeskin reactions"
+  ],
+  "stop_use": [
+    "Stop using this product in rare instances of local irritation or sensitivity if irritation and redness develop and continue for morethan 72 hours"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach ofchildren. Ifswallowed, get medical help or contact a Poison Control Center rightaway"
+  ],
+  "dosage_and_administration": [
+    "Directions tear at slit; pull top of packette across, exposing endof swabstick remove Betadine Solution Swabstick and apply as needed use one time only"
+  ],
+  "how_supplied": [
+    "Other information store between 20˚-25˚C (68˚-77˚F).Avoid freezing and excessive heat above 40˚C (104˚F)."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients purified water, sodium hydroxide Dist. by: Avrio Health L.P. Stamford, CT 06901-3431"
+  ],
+  "package_label_principal_display_panel": [
+    "BetadineSwabsticks — 1 Swab NDC: 67618-153-01 BetadineSwabsticks — 3 Swabs 67618-153-03 NDC 67618-153-01 NDC 67618-153-03"
+  ],
+  "set_id": "0707b259-52a4-4ae6-b176-d093865906e7",
+  "id": "4357dde4-a121-3be4-e063-6394a90af3c8",
+  "effective_time": "20251111",
+  "version": "8",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Betadine Solution Swabsticks"
+    ],
+    "generic_name": [
+      "POVIDONE-IODINE"
+    ],
+    "manufacturer_name": [
+      "Atlantis Consumer Healthcare, Inc."
+    ],
+    "product_ndc": [
+      "67618-153"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "POVIDONE-IODINE"
+    ],
+    "rxcui": [
+      "797730",
+      "798176"
+    ],
+    "spl_id": [
+      "4357dde4-a121-3be4-e063-6394a90af3c8"
+    ],
+    "spl_set_id": [
+      "0707b259-52a4-4ae6-b176-d093865906e7"
+    ],
+    "package_ndc": [
+      "67618-153-01",
+      "67618-153-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175486",
+      "M0011640"
+    ],
+    "pharm_class_epc": [
+      "Antiseptic [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Iodine [CS]"
+    ],
+    "unii": [
+      "85H0HZU99M"
+    ]
+  }
+}

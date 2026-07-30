@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Medicated Callus Removers Salicylic Acid POLYVINYL ALCOHOL HIGH DENSITY POLYETHYLENE SALICYLIC ACID SALICYLIC ACID"
+  ],
+  "active_ingredient": [
+    "Active ingredient Salicylic acid 40%"
+  ],
+  "purpose": [
+    "Purpose Callus remover"
+  ],
+  "indications_and_usage": [
+    "Uses for the removal of calluses relieves pain by removing calluses"
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use if you are diabetic if you have poor blood circulation on irritated skin,on any area that is infected or reddened Ask your doctor if discomfort persists. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use if you are diabetic if you have poor blood circulation on irritated skin,on any area that is infected or reddened"
+  ],
+  "ask_doctor": [
+    "Ask your doctor if discomfort persists."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions wash affected area and dry thoroughly if necessary, cut medicated patch to fit callus carefully adhere medicated patch directly over callus cover medicated patch with pad after 48 hours, remove medicated patch repeat procedure every 48 hours as needed for up to 14 days (until callus is removed) may soak callus in warm water for 5 minutes to assist in removal"
+  ],
+  "other_safety_information": [
+    "Other information store between 15°C to 30°C (59° to 86°F) avoid surrounding skin when applying medicated patch"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients acrylic adhesive, acrylic polymer, polyethylene, polyvinyl alcohol"
+  ],
+  "questions": [
+    "Questions? call 1-866-964-0939"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Meijer Medicated Maximum Strength callus remover SALICYLIC ACID 40%/ Callus Remover Effective Callus Remover Treatment Protects Against Pressure & Friction 6 PADS 4 MEDICATED PATCHES image 1"
+  ],
+  "set_id": "0399ebde-c7d1-f73d-e063-6294a90a020f",
+  "id": "4732c7db-b769-b993-e063-6294a90aab3b",
+  "effective_time": "20251230",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M030"
+    ],
+    "brand_name": [
+      "Medicated Callus Removers"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID"
+    ],
+    "manufacturer_name": [
+      "Meijer Distribution Inc."
+    ],
+    "product_ndc": [
+      "79481-0609"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "240559"
+    ],
+    "spl_id": [
+      "4732c7db-b769-b993-e063-6294a90aab3b"
+    ],
+    "spl_set_id": [
+      "0399ebde-c7d1-f73d-e063-6294a90a020f"
+    ],
+    "package_ndc": [
+      "79481-0609-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

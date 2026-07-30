@@ -1,0 +1,75 @@
+{
+  "spl_product_data_elements": [
+    "WHP Sinus Congestion GOLDENSEAL - POTASSIUM DICHROMATE - PULSATILLA VULGARIS SUCROSE LACTOSE PULSATILLA VULGARIS PULSATILLA VULGARIS POTASSIUM DICHROMATE DICHROMATE ION GOLDENSEAL GOLDENSEAL white"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS HYDRASTIS 6C KALI BIC 6C PULSATILLA 6C"
+  ],
+  "purpose": [
+    "USES Temporarily relieves congested sinuses."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN As with all medications, keep out of reach of children."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS HYDRASTIS Sinuses KALI BIC Sinuses PULSATILLA Weeping"
+  ],
+  "warnings": [
+    "STOP USE AND ASK DOCTOR If symptoms persist or recur, discontinue use. If pregnant or nursing, consult a licensed practitioner before using this product."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Directions: Adults and children 12 years and older: 2 pills dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children 4 years to under 12 years: 1 pill dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children under 4 years: Consult a licensed practitioner."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Sucrose/Lactose"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL Sinus Congestion label Sinus Congestion box"
+  ],
+  "set_id": "06820c5e-3317-58d3-e063-6294a90ad81e",
+  "id": "2cc85875-6424-175f-e063-6394a90ab4ed",
+  "effective_time": "20250128",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "WHP Sinus Congestion"
+    ],
+    "generic_name": [
+      "GOLDENSEAL - POTASSIUM DICHROMATE - PULSATILLA VULGARIS"
+    ],
+    "manufacturer_name": [
+      "Washington Homeopathic Products"
+    ],
+    "product_ndc": [
+      "71919-802"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PULSATILLA VULGARIS",
+      "POTASSIUM DICHROMATE",
+      "GOLDENSEAL"
+    ],
+    "spl_id": [
+      "2cc85875-6424-175f-e063-6394a90ab4ed"
+    ],
+    "spl_set_id": [
+      "06820c5e-3317-58d3-e063-6294a90ad81e"
+    ],
+    "package_ndc": [
+      "71919-802-14"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "I76KB35JEV",
+      "T4423S18FM",
+      "ZW3Z11D0JV"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "ALLSWELL MINERAL SUNSCREEN SPF 30 Zinc Oxide SUNFLOWER OIL AVOCADO OIL MEDIUM-CHAIN TRIGLYCERIDES SHEA BUTTER YELLOW WAX HELIANTHUS ANNUUS SEED WAX POLYHYDROXYSTEARIC ACID (2300 MW) GLYCERYL CAPRYLATE GLYCERYL 1-UNDECYLENATE STARCH, CORN BUTYL ACRYLATE/METHYL METHACRYLATE/METHACRYLIC ACID COPOLYMER (18000 MW) .ALPHA.-TOCOPHEROL ZINC OXIDE ZINC CATION"
+  ],
+  "active_ingredient": [
+    "Active ingredient Zinc Oxide 22%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent sunburn. If used as directed with other sun protection measures ( See Directions ), decreases the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use on damaged or broken skin. When using this product , keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If product swallowed get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply liberally 15 minutes before sun exposure, reapply after 80 minutes of swimming or sweating, immediately after towel drying, at least every two hours Sun Protection Measures . Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad-spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10am – 2pm wear long-sleeve shirts, pants, hats and sunglasses Children under 6 months: Ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Helianthus Annus (Sunflower) Seed Oil, Persea Gratissima (Avocado) Oil, Caprylic Capric Triglycerides, Butyrospermum Parkii (Shea) Butter, Beeswax, Helianthus Annus (Sunflower) Seed Wax, Polyhydroxystearic Acid, Glyceryl Caprylate (and) Glyceryl Undecylenate, Non-GMO Corn Starch, Acrylates Copolymer, Vitamin E"
+  ],
+  "storage_and_handling": [
+    "Other Information Protect this product from excessive heat and direct sun"
+  ],
+  "questions": [
+    "Questions or comments? Visit allswellgoods.com"
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Allswell Mineral Sunscreen Spf 30-NDC 69555-043-01-Tube label image description image description"
+  ],
+  "set_id": "03bee988-d6e3-4290-a926-9c5366649cba",
+  "id": "2b8987c1-6b12-e72f-e063-6294a90a2440",
+  "effective_time": "20250112",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "ALLSWELL MINERAL SUNSCREEN SPF 30"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Stream2Sea, LLC"
+    ],
+    "product_ndc": [
+      "69555-043"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "2b8987c1-6b12-e72f-e063-6294a90a2440"
+    ],
+    "spl_set_id": [
+      "03bee988-d6e3-4290-a926-9c5366649cba"
+    ],
+    "package_ndc": [
+      "69555-043-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0196852029624"
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

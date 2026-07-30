@@ -1,0 +1,119 @@
+{
+  "spl_product_data_elements": [
+    "Gentle Laxative Bisacodyl Gentle Laxative Bisacodyl BISACODYL DEACETYLBISACODYL PALM KERNEL OIL"
+  ],
+  "active_ingredient": [
+    "Drug Facts : Active ingredient (in each suppository) Bisacodyl 10 mg"
+  ],
+  "purpose": [
+    "Drug facts Purpose Bisacodyl 10 mg ................................. Stimulant Laxative"
+  ],
+  "indications_and_usage": [
+    "Uses ■ for relief of occasional constipation ■ this product generally produces bowel movement in 15 to 60 minutes"
+  ],
+  "warnings": [
+    "Warnings ■ For rectal use only"
+  ],
+  "do_not_use": [
+    "Do not use ■ when abdominal pain, nausea or vomiting are present ■ for a period longer than 1 week"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have noticed a sudden change in bowel habits that lasts over a period of 2 weeks"
+  ],
+  "when_using": [
+    "When using this product it may cause abdominal discomfort, faintness, rectal bleeding and mild cramps"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if ■ you have rectal bleeding ■ you fail to have a bowel movement after using this product. This may indicate a serious condition"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions ■ detach one suppository from the strip ■ remove wrapper before inserting into the rectum adults and children 12 and over : 1 suppository once daily children 6 to under 12 years : ½ suppository once daily children under 6 years : do not use"
+  ],
+  "storage_and_handling": [
+    "Other information ■ Store at room temperature. Do not exceed 30° C (86° F) ■ Lot No. & Exp. Date: see wrapper or box"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredient hydrogenated vegetable oil"
+  ],
+  "questions": [
+    "Questions? Adverse Drug Event Call: 1(877) 477-8633"
+  ],
+  "safe_handling_warning": [
+    "Tamper evident seal: Do not use if wrapper on an individual suppository is broken or missing."
+  ],
+  "intended_use_of_the_device": [
+    "Prompt, predictable relief from constipation"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Label Gentle Laxative Bisacodyl"
+  ],
+  "set_id": "03b3733a-4d78-149f-e063-6294a90a6518",
+  "id": "2beb19bf-3d35-ed44-e063-6294a90a7eef",
+  "effective_time": "20250117",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M015"
+    ],
+    "brand_name": [
+      "Gentle Laxative Bisacodyl"
+    ],
+    "generic_name": [
+      "GENTLE LAXATIVE BISACODYL"
+    ],
+    "manufacturer_name": [
+      "NeilMed Pharmaceuticals Inc"
+    ],
+    "product_ndc": [
+      "13709-321"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "RECTAL"
+    ],
+    "substance_name": [
+      "BISACODYL"
+    ],
+    "rxcui": [
+      "198509"
+    ],
+    "spl_id": [
+      "2beb19bf-3d35-ed44-e063-6294a90a7eef"
+    ],
+    "spl_set_id": [
+      "03b3733a-4d78-149f-e063-6294a90a6518"
+    ],
+    "package_ndc": [
+      "13709-321-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0705928160064"
+    ],
+    "nui": [
+      "N0000009371",
+      "N0000175812",
+      "N0000009871"
+    ],
+    "pharm_class_pe": [
+      "Increased Large Intestinal Motility [PE]",
+      "Stimulation Large Intestine Fluid/Electrolyte Secretion [PE]"
+    ],
+    "pharm_class_epc": [
+      "Stimulant Laxative [EPC]"
+    ],
+    "unii": [
+      "10X0709Y6I"
+    ]
+  }
+}

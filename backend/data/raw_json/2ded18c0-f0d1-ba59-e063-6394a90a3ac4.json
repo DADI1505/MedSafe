@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "XtraCare Cucumber Melon ethyl alcohol WATER CARBOMER COPOLYMER TYPE A TROLAMINE GLYCERIN PROPYLENE GLYCOL ALOE VERA LEAF FD&C BLUE NO. 1 FD&C YELLOW NO. 5 ALCOHOL ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Purpose Ethyl Alcohol 62.0% ................. Antimicrobial"
+  ],
+  "purpose": [
+    "Uses for handwashing to decrease bacteria on the skin recommended for repeated use"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away."
+  ],
+  "indications_and_usage": [
+    "XtraCare® Kills 99.9% of germs Instant Hand Sanitizer with moisturizers cucumber melon scent 8 FL OZ / 237 mL"
+  ],
+  "dosage_and_administration": [
+    "Directions wet hands thoroughly with product briskly rub hands together until dry supervise children under 6 years in the use of this product"
+  ],
+  "warnings": [
+    "Warnings For external use only Flammable, keep away from heat and flame. Do not use in the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation and redness develop and persist for more than 72 hours."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients water, carbomer, triethanolamine, glycerin, propylene glycol, fragrance, aloe barbadensis leaf juice, fd&c blue no. 1, fd&c yellow no.5"
+  ],
+  "package_label_principal_display_panel": [
+    "label image"
+  ],
+  "set_id": "021fa2a0-d2ea-4699-a3d8-3c0af18c5aa3",
+  "id": "2ded18c0-f0d1-ba59-e063-6394a90a3ac4",
+  "effective_time": "20250212",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "XtraCare Cucumber Melon"
+    ],
+    "generic_name": [
+      "ETHYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Rejoice International"
+    ],
+    "product_ndc": [
+      "57337-071"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "581660"
+    ],
+    "spl_id": [
+      "2ded18c0-f0d1-ba59-e063-6394a90a3ac4"
+    ],
+    "spl_set_id": [
+      "021fa2a0-d2ea-4699-a3d8-3c0af18c5aa3"
+    ],
+    "package_ndc": [
+      "57337-071-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0849607053985"
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

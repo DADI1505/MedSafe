@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Degree Advanced Cucumber Burst Dry Spray 72H Antiperspirant Deodorant BENZYL BENZOATE BENZYL CINNAMATE COUMARIN HYDROXYCITRONELLAL LINALOOL, (+/-)- BENZYL SALICYLATE BENZYL ALCOHOL CITRAL SILICON DIOXIDE ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE MALTODEXTRIN PROPYLENE CARBONATE GLYCINE LIMONENE, (+)- ISOBUTANE .BETA.-CITRONELLOL, (R)- BUTANE 1,1-DIFLUOROETHANE CYCLOMETHICONE 5 PPG-14 BUTYL ETHER DISTEARDIMONIUM HECTORITE CALCIUM CHLORIDE PROPANE BUTYLATED HYDROXYTOLUENE ISOMETHYL-.ALPHA.-IONONE .ALPHA.-HEXYLCINNAMALDEHYDE GERANIOL .ALPHA.-AMYLCINNAMALDEHYDE"
+  ],
+  "description": [
+    "DEGREE ADVANCED CUCUMBER BURST DRY SPRAY 72H ANTIPERSPIRANT DEODORANT - aluminum sesquichlorohydrate aerosol, spray"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient Aluminum Sesquichlorohydrate (17.6%)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses reduces underarm wetness"
+  ],
+  "dosage_and_administration": [
+    "Directions For underarms use only"
+  ],
+  "warnings": [
+    "Warnings"
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Butane, Hydrofluorocarbon 152a, Cyclopentasiloxane, Isobutane, PPG-14 Butyl Ether, Fragrance (Parfum), Glycine, Disteardimonium Hectorite, Calcium Chloride, Propane, BHT, Propylene Carbonate, Sodium Starch Octenylsuccinate, Maltodextrin, Hydrolyzed Corn Starch Octenylsuccinate, Silica, Alpha-Isomethyl Ionone, Amyl Cinnamal, Benzyl Alcohol, Benzyl Benzoate, Benzyl Cinnamate, Benzyl Salicylate, Citral, Citronellol, Coumarin,Geraniol , Hexyl Cinnamal, Hydrocitronellal, Limonene, Linalool"
+  ],
+  "questions": [
+    "Questions? Call toll-free 1-866-334-7331"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Label Degree Cucumber Dry Spray AP Deo"
+  ],
+  "set_id": "0642540e-c560-5c01-e063-6294a90a20e2",
+  "id": "4aa1b41a-8892-a21d-e063-6394a90a37e2",
+  "effective_time": "20260212",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Degree"
+    ],
+    "generic_name": [
+      "ADVANCED CUCUMBER BURST DRY SPRAY 72H ANTIPERSPIRANT DEODORANT"
+    ],
+    "manufacturer_name": [
+      "Conopco, Inc. d/b/a Unilever"
+    ],
+    "product_ndc": [
+      "64942-2225"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM SESQUICHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "4aa1b41a-8892-a21d-e063-6394a90a37e2"
+    ],
+    "spl_set_id": [
+      "0642540e-c560-5c01-e063-6294a90a20e2"
+    ],
+    "package_ndc": [
+      "64942-2225-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "UCN889409V"
+    ]
+  }
+}

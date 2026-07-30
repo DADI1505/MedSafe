@@ -1,0 +1,100 @@
+{
+  "spl_product_data_elements": [
+    "Triple Antibiotic Bacitracin zinc, Neomycin sulfate , Polymyxin B sulfate. LIGHT MINERAL OIL WHITE PETROLATUM BACITRACIN ZINC BACITRACIN NEOMYCIN SULFATE NEOMYCIN POLYMYXIN B SULFATE POLYMYXIN B"
+  ],
+  "active_ingredient": [
+    "Active ingredients (each gram contains) Bacitracin zinc 400 units Neomycin sulfate 3.5 mg Polymyxin B sulfate 5,000 units"
+  ],
+  "purpose": [
+    "Purpose First aid antibiotic"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "indications_and_usage": [
+    "Uses first aid to help prevent infection in minor:● cuts ● scrapes ● burns"
+  ],
+  "warnings": [
+    "Warnings For external use only."
+  ],
+  "ask_doctor": [
+    "Ask Doctor Before Use Ask Doctor before use if you have deep or puncture wounds, animal bites, or serious burns."
+  ],
+  "do_not_use": [
+    "Do Not Use In the eyes Over large areas of the body If you are allergic to any of the ingredients"
+  ],
+  "stop_use": [
+    "Stop Use and ask a doctor Stop Use and ask a doctor if Condition persists or gets worse You need to use longer than 1 week A rash or other allergic reaction develops"
+  ],
+  "dosage_and_administration": [
+    "Directions ● clean the affected area and dry thoroughly. ● apply a small amount of this product (an amount equal to the surface area of the tip of a finger) on the area 1 to 3 times daily ● may be covered with a sterile bandage."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredient light Mineral Oil, White Petrolatum"
+  ],
+  "spl_unclassified_section": [
+    "Other information ● store at 20° to 25°C ( 68° to 77°F)",
+    "Manufactured For Manufactured for Urgent First Aid® 2603 Industry Street Oceanside, CA 92054 www.urgentfirstaid.com"
+  ],
+  "questions": [
+    "Questions? Call 1-760-642-2638"
+  ],
+  "package_label_principal_display_panel": [
+    "CDER URG600Triple antibiotic ointment 6939612505"
+  ],
+  "set_id": "00c52a31-9bfa-a8bf-e063-6294a90ac4d7",
+  "id": "29b3ceb4-42e3-3a65-e063-6294a90a788c",
+  "effective_time": "20241220",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M004"
+    ],
+    "brand_name": [
+      "Triple Antibiotic"
+    ],
+    "generic_name": [
+      "BACITRACIN ZINC, NEOMYCIN SULFATE , POLYMYXIN B SULFATE."
+    ],
+    "manufacturer_name": [
+      "TRIFECTA PHARMACEUTICALS USA LLC"
+    ],
+    "product_ndc": [
+      "69396-125"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BACITRACIN ZINC",
+      "NEOMYCIN SULFATE",
+      "POLYMYXIN B SULFATE"
+    ],
+    "rxcui": [
+      "204602"
+    ],
+    "spl_id": [
+      "29b3ceb4-42e3-3a65-e063-6294a90a788c"
+    ],
+    "spl_set_id": [
+      "00c52a31-9bfa-a8bf-e063-6294a90ac4d7"
+    ],
+    "package_ndc": [
+      "69396-125-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0855413007593"
+    ],
+    "unii": [
+      "89Y4M234ES",
+      "057Y626693",
+      "19371312D4"
+    ]
+  }
+}

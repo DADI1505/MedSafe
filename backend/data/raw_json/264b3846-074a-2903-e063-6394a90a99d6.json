@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Degree Advanced Move Fresh Coconut Dry Spray 72H Antiperspirant Deodorant ISOBUTANE BUTANE 1,1-DIFLUOROETHANE CYCLOMETHICONE 5 PPG-14 BUTYL ETHER DISTEARDIMONIUM HECTORITE CALCIUM CHLORIDE LINALOOL, (+/-)- PROPANE BUTYLATED HYDROXYTOLUENE PROPYLENE CARBONATE ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE MALTODEXTRIN SILICON DIOXIDE GLYCINE COUMARIN"
+  ],
+  "description": [
+    "DEGREE ADVANCED MOVE FRESH COCONUT DRY SPRAY 72H ANTIPERSPIRANT DEODORANT - aluminum Sesquichlorohydrate aerosol, spray"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient Aluminum Sesquichlorohydrate (17.6%)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses reduces underarm wetness"
+  ],
+  "dosage_and_administration": [
+    "Directions For underarms use only"
+  ],
+  "warnings": [
+    "Warnings"
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Butane, Cyclopentasiloxane, Hydrofluorocarbon 152a, Isobutane, PPG-14 Butyl Ether, Glycine, Fragrance (Parfum), Disteardimonium Hectorite, Calcium Chloride, Propane, Sodium Starch Octenylsuccinate, BHT, Propylene Carbonate, Maltodextrin, Hydrolyzed Corn Starch Octenylsuccinate, Silica, Coumarin, Linalool"
+  ],
+  "questions": [
+    "Questions? Call toll-free 1-866-334-7331"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Degree Fresh Coconut Dry Spray"
+  ],
+  "set_id": "03fd880b-755c-82d5-e063-6394a90af452",
+  "id": "264b3846-074a-2903-e063-6394a90a99d6",
+  "effective_time": "20241106",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Degree"
+    ],
+    "generic_name": [
+      "ADVANCED MOVE FRESH COCONUT DRY SPRAY 72H ANTIPERSPIRANT DEODORANT"
+    ],
+    "manufacturer_name": [
+      "Conopco, Inc. d/b/a Unilever"
+    ],
+    "product_ndc": [
+      "64942-2179"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM SESQUICHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "264b3846-074a-2903-e063-6394a90a99d6"
+    ],
+    "spl_set_id": [
+      "03fd880b-755c-82d5-e063-6394a90af452"
+    ],
+    "package_ndc": [
+      "64942-2179-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "UCN889409V"
+    ]
+  }
+}

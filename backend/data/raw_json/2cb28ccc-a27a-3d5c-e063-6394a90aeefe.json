@@ -1,0 +1,102 @@
+{
+  "spl_product_data_elements": [
+    "Cough and Cold Therapy Camphor, Menthol, Eucalyptus Oil ROSEMARY OIL SHEA BUTTER COCONUT OIL YELLOW WAX MENTHOL MENTHOL OLIVE OIL JOJOBA OIL .ALPHA.-TOCOPHEROL EUCALYPTUS OIL EUCALYPTUS OIL CAMPHOR (NATURAL) CAMPHOR (NATURAL)"
+  ],
+  "active_ingredient": [
+    "Active ingredients Organic Camphor 5.0% Organic Menthol 2.8% Organic Eucalyptus Oil 1.3%"
+  ],
+  "purpose": [
+    "Purpose Organic Camphor 5.0%.......................Topical Antitussive Organic Menthol 2.8%.........................Topical Antitussive Organic Eucalyptus Oil 1.3%...............Topical Antitussive"
+  ],
+  "indications_and_usage": [
+    "Uses Temporarily relieves cough associated with the common cold."
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use by mouth in nostrils Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma or emphysema or if cough is accompanied by excessive phlegm (mucus). When using this product, do not heat microwave add to hot water or any container where heating water. May cause splattering and result in burns. Stop use and ask a doctor if a cough that persists for more than 1 week, tends to recur, or is accompanied by fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition. If pregnant or breastfeeding, ask a health professional before use. Keep this and all drugs out of the reach of children. If swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "do_not_use": [
+    "Do not use by mouth in nostrils"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma or emphysema or if cough is accompanied by excessive phlegm (mucus)."
+  ],
+  "when_using": [
+    "When using this product, do not heat microwave add to hot water or any container where heating water. May cause splattering and result in burns."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if a cough that persists for more than 1 week, tends to recur, or is accompanied by fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep this and all drugs out of the reach of children. If swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions See important warnings under \"When using this product\" Adults: rub on the throat, chest and/or bottom of feet massage into skin until solution vanishes cover with a warm, dry cloth if desired clothing should be loose about throat and chest to help vapors reach the nose and mouth use up to 3 times daily or as directed by a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information Tamper-evident. Ensure seal is intact before use."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Organic Beeswax, Organic Coconut Oil, Organic Jojoba Oil, Organic Olive Oil, Organic Rosemary Oil, Organic Shea Butter, Vitamin E."
+  ],
+  "package_label_principal_display_panel": [
+    "maple organics Cough & Cold Relief Soothing & Calming Cough Relief Vapor Rub Net Wt. 2oz / 56 g 1"
+  ],
+  "set_id": "088be461-7afc-586a-e063-6294a90a700b",
+  "id": "2cb28ccc-a27a-3d5c-e063-6394a90aeefe",
+  "effective_time": "20250127",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Cough and Cold Therapy"
+    ],
+    "generic_name": [
+      "CAMPHOR, MENTHOL, EUCALYPTUS OIL"
+    ],
+    "manufacturer_name": [
+      "Everlaan Organics Inc"
+    ],
+    "product_ndc": [
+      "83670-200"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MENTHOL",
+      "EUCALYPTUS OIL",
+      "CAMPHOR (NATURAL)"
+    ],
+    "rxcui": [
+      "2668188"
+    ],
+    "spl_id": [
+      "2cb28ccc-a27a-3d5c-e063-6394a90aeefe"
+    ],
+    "spl_set_id": [
+      "088be461-7afc-586a-e063-6294a90a700b"
+    ],
+    "package_ndc": [
+      "83670-200-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0628176763231"
+    ],
+    "unii": [
+      "L7T10EIP3A",
+      "2R04ONI662",
+      "N20HL7Q941"
+    ]
+  }
+}

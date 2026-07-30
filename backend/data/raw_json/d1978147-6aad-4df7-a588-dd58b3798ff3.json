@@ -1,0 +1,91 @@
+{
+  "spl_product_data_elements": [
+    "Everyone Hand Sanitizer ruby grapefruit Alcohol ALCOHOL ALCOHOL WATER CITRUS MAXIMA FRUIT RIND OIL LEMON OIL, COLD PRESSED ORANGE OIL, COLD PRESSED LITSEA OIL LAVANDIN OIL JUNIPERUS VIRGINIANA OIL YLANG-YLANG OIL LIME OIL, COLD PRESSED GLYCERIN LIMONENE, (+)-"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "99.9% EFFECTIVE against most common germs no thymol | no benzalkonium chloride | no triclosan EO ® Products Small World Trading Co. San Rafael, CA 94901 Made in the USA From Domestic and Globally Sourced Ingredients 800-570-3775 www.eoproducts.com Certified Gluten-Free ® Cruelty Free made with moisturizing ingredients"
+  ],
+  "active_ingredient": [
+    "Active Ingredients: Ethanol 62%"
+  ],
+  "purpose": [
+    "Purpose: Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Uses: • For hand washing to decrease bacteria on skin • Recommended for repeated use"
+  ],
+  "warnings": [
+    "Warnings: • Flammable, keep away from fire or flame. • For external use only • Do not use in eyes . If contact occurs, flush thoroughly with water. • Stop use and ask a doctor if redness and irritation develops and persists for more than 72 hours. • Keep out of reach of children. If swallowed, get medical help or contact the Poison Control center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "• Keep out of reach of children. If swallowed, get medical help or contact the Poison Control center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions: • Wet hands thoroughly with product and allow to dry without wiping • Do not use other than directed."
+  ],
+  "storage_and_handling": [
+    "Other Information: • Store at room temperature 20˚-25˚C (68˚F - 77˚F) • May discolor certain fabrics."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Water, Citrus Grandis (Grapefruit) Peel Oil, Citrus Medica Limonum (Lemon) Peel Oil, Citrus Aurantium Dulcis (Orange) Peel Oil, Litsea Cubeba Fruit Oil, Lavandula Hybrida Oil, Juniperus Virginiana Oil, Cananga Odorata Flower Oil, Citrus Aurantifolia (Lime) Oil], Glycerin, Limonene* *component of essential oil"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Everyone Hand Sanitizer Everyone Hand Sanitizer"
+  ],
+  "set_id": "045151b3-f08c-4e02-be33-00271e15b7f0",
+  "id": "d1978147-6aad-4df7-a588-dd58b3798ff3",
+  "effective_time": "20251127",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Everyone Hand Sanitizer ruby grapefruit"
+    ],
+    "generic_name": [
+      "ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "EO Products, LLC"
+    ],
+    "product_ndc": [
+      "54748-304"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "1020364"
+    ],
+    "spl_id": [
+      "d1978147-6aad-4df7-a588-dd58b3798ff3"
+    ],
+    "spl_set_id": [
+      "045151b3-f08c-4e02-be33-00271e15b7f0"
+    ],
+    "package_ndc": [
+      "54748-304-08",
+      "54748-304-09",
+      "54748-304-05",
+      "54748-304-13",
+      "54748-304-14"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0636874226309"
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

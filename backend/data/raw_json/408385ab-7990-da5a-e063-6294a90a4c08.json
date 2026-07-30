@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "Purforma Advanced Hand Sanitizer 70% Alcohol Hand Sanitizer 70% Alcohol ALCOHOL ALCOHOL GLYCERIN CARBOMER 980 .ALPHA.-TOCOPHEROL ACETATE WATER ALOE AMINOMETHYL PROPANEDIOL FD&C BLUE NO. 1 ISOPROPYL ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Alcohol 70% v/v Active ingredient section"
+  ],
+  "purpose": [
+    "Antiseptic Purpose section"
+  ],
+  "indications_and_usage": [
+    "Hand sanitizer to help reduce bacteria on the skin. For use when soap and water are not available. usage section"
+  ],
+  "warnings": [
+    "Warning Section"
+  ],
+  "when_using": [
+    "When Using Section"
+  ],
+  "ask_doctor": [
+    "Stop use and ask doctor section"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children section"
+  ],
+  "dosage_and_administration": [
+    "Dosage and Administration Section"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients section"
+  ],
+  "questions": [
+    "Questions Section"
+  ],
+  "package_label_principal_display_panel": [
+    "principle display panel"
+  ],
+  "set_id": "06bd825d-914f-5ca7-e063-6394a90aec49",
+  "id": "408385ab-7990-da5a-e063-6294a90a4c08",
+  "effective_time": "20251006",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Purforma Advanced Hand Sanitizer 70% Alcohol"
+    ],
+    "generic_name": [
+      "HAND SANITIZER 70% ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Spartan Chemical Company, Inc."
+    ],
+    "product_ndc": [
+      "64009-660"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "spl_id": [
+      "408385ab-7990-da5a-e063-6294a90a4c08"
+    ],
+    "spl_set_id": [
+      "06bd825d-914f-5ca7-e063-6394a90aec49"
+    ],
+    "package_ndc": [
+      "64009-660-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

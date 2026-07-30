@@ -1,0 +1,84 @@
+{
+  "spl_product_data_elements": [
+    "Singular Wipes Alcohol WATER GLYCERIN HYDROGEN PEROXIDE LEMON TERPENES ALCOHOL ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient (s) Ethyl alcohol 70%"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Uses Hand sanitizing to decrease bacteria on skin. Recommended for repeated use."
+  ],
+  "warnings": [
+    "Warnings For external use only. Flammable, keep away from fire or flame. Do not use this product in or near eyes. If contact occurs, rinse thoroughly with water. Keep out of reach of children unless under adult supervision. Discontinue use if skin irritation and redness develop. If condition persists for more than 72 hours consult a physician."
+  ],
+  "dosage_and_administration": [
+    "Directions Tear open package and unfold wipe. Thoroughly wipe hands fingers and wrists. Be sure to use entire wipe for approximately 20 seconds. No rinsing or toweling is required. Discard after single use. Do not flush."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients. Purified Water (Aqua), glycerine, hydrogen peroxide, fragrance"
+  ],
+  "other_safety_information": [
+    "Other information (if applicable) Store below 104°F. (40°) May discolor some fabrics."
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Product label image description"
+  ],
+  "set_id": "03957345-ccd0-4def-b528-7733e6a24cbb",
+  "id": "36e6b2ce-d188-9c90-e063-6394a90a4566",
+  "effective_time": "20250606",
+  "version": "9",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Singular Wipes"
+    ],
+    "generic_name": [
+      "ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "SINGULAR ENTERPRISES LLC"
+    ],
+    "product_ndc": [
+      "81428-070"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "1489307"
+    ],
+    "spl_id": [
+      "36e6b2ce-d188-9c90-e063-6394a90a4566"
+    ],
+    "spl_set_id": [
+      "03957345-ccd0-4def-b528-7733e6a24cbb"
+    ],
+    "package_ndc": [
+      "81428-070-04",
+      "81428-070-05",
+      "81428-070-06",
+      "81428-070-07",
+      "81428-070-08"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

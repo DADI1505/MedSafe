@@ -1,0 +1,101 @@
+{
+  "spl_product_data_elements": [
+    "Cortizone 10 Fast Acting Itch Relief Cooling Hydrocortisone HYDROCORTISONE HYDROCORTISONE ALCOHOL ALOE VERA LEAF OAT CITRIC ACID MONOHYDRATE DIETHYLENE GLYCOL MONOETHYL ETHER GLYCERIN HYDROXYPROPYL CELLULOSE, UNSPECIFIED ISOBUTANE MENTHYL LACTATE, (-)- METHYL GLUCETH-20 POLYETHYLENE GLYCOL 400 WATER"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information Store between 20° to 25°C (68° to 77°F)"
+  ],
+  "active_ingredient": [
+    "Active ingredients Hydrocortisone 1%"
+  ],
+  "purpose": [
+    "Purpose Anti-Itch"
+  ],
+  "indications_and_usage": [
+    "Uses ■ for the temporary relief of itching associated with minor skin irritations, inflammation, and rashes due to: ■ eczema ■ psoriasis ■ poison ivy, oak, sumac ■ insect bites ■ detergents ■ jewelry ■ cosmetics ■ soaps ■ seborrheic dermatitis ■ other uses of this product should be only under the advice and supervision of a doctor"
+  ],
+  "warnings": [
+    "Warnings For external use only . Flam mable. Keep away from fire or flame. Do not us e ■ for the treatment of diaper rash. Consult a doctor. ■ if you are allergic to any ingredient in this product. When using this product ■ avoid contact with the eyes ■ contents under pressure. Do not puncture or incinerate. Do not store at temperatures above 120° F. ■ use only as directed. Intentional misuse by deliberately concentrating and inhaling the contents can be harmful or fatal. ■ do not use more than directed unless told to do so by a doctor Stop use and ask a doctor if ■ condition worsens ■ symptoms persist for more than 7 days or clear up and occur again within a few days, do not use this or any other hydrocortisone product unless you have asked a doctor. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not us e ■ for the treatment of diaper rash. Consult a doctor. ■ if you are allergic to any ingredient in this product."
+  ],
+  "when_using": [
+    "When using this product ■ avoid contact with the eyes ■ contents under pressure. Do not puncture or incinerate. Do not store at temperatures above 120° F. ■ use only as directed. Intentional misuse by deliberately concentrating and inhaling the contents can be harmful or fatal. ■ do not use more than directed unless told to do so by a doctor"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if ■ condition worsens ■ symptoms persist for more than 7 days or clear up and occur again within a few days, do not use this or any other hydrocortisone product unless you have asked a doctor."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "D irections ■ adults and children 2 years of age and older : apply to affected area. Do not use more than 3 to 4 times daily. ■ children under 2 years of age: do not use, ask a doctor."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients alcohol denat., aloe barbadensis leaf juice, avena sativa (oat) kernel extract, citric acid, ethoxydiglycol, glycerin, hydroxypropyl cellulose, isobutane, menthyl lactate, methyl gluceth-20, PEG-8, water"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Cortizone 10 FAST ACTING ITCH RELIEF COOLING SPRAY SOOTHING ALOE 1% Hydrocortisone Anti-Itch Spray Net wt 2.7 oz (76 g) Cortizone 10 FAST ACTING ITCH RELIEF COOLING SPRAY SOOTHING ALOE 1% Hydrocortisone Anti-Itch Spray Net wt 2.7 oz (76 g)"
+  ],
+  "set_id": "01cd77e3-380f-4487-ae6e-3ac45355d8a4",
+  "id": "a8b0cdb6-9dbe-4aa1-b9c9-4ce007b8f4a8",
+  "effective_time": "20260114",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Cortizone 10 Fast Acting Itch Relief Cooling"
+    ],
+    "generic_name": [
+      "HYDROCORTISONE"
+    ],
+    "manufacturer_name": [
+      "Chattem, Inc."
+    ],
+    "product_ndc": [
+      "41167-0343"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "HYDROCORTISONE"
+    ],
+    "rxcui": [
+      "212567",
+      "317564"
+    ],
+    "spl_id": [
+      "a8b0cdb6-9dbe-4aa1-b9c9-4ce007b8f4a8"
+    ],
+    "spl_set_id": [
+      "01cd77e3-380f-4487-ae6e-3ac45355d8a4"
+    ],
+    "package_ndc": [
+      "41167-0343-0"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175576",
+      "N0000175450"
+    ],
+    "pharm_class_epc": [
+      "Corticosteroid [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Corticosteroid Hormone Receptor Agonists [MoA]"
+    ],
+    "unii": [
+      "WI4X0X7BPJ"
+    ]
+  }
+}

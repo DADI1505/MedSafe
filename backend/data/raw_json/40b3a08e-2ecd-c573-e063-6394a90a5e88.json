@@ -1,0 +1,100 @@
+{
+  "spl_product_data_elements": [
+    "MediChoice Povidone-Iodine Prep Pad POVIDONE-IODINE WATER GLYCERIN CITRIC ACID MONOHYDRATE SODIUM HYDROXIDE POVIDONE-IODINE IODINE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information 1% titratable iodine For hospital or professional use only."
+  ],
+  "active_ingredient": [
+    "Active ingredient Povidone-iodine USP 10% Purpose Antiseptic"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Use Antiseptic skin preparation"
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use if allergic to iodine Ask a doctor before use if injuries are deep wounds, puncture wounds, or serious burn Stop use and ask a doctor if infection occurs or if redness, irritation, swelling or pain persists or increases Keep out of reach of children. In case of accidental ingestion, seek professional assistance or consult a poison control center Immediately Avoid excessive heat. Store at room temperature."
+  ],
+  "do_not_use": [
+    "Do not use if allergic to iodine"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if injuries are deep wounds, puncture wounds, or serious burn"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if infection occurs or if redness, irritation, swelling or pain persists or increases"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of accidental ingestion, seek professional assistance or consult a poison control center Immediately Avoid excessive heat. Store at room temperature."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply locally as needed."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Purified water, Glycerin, Nonyl nonoxynol-10, Citric acid, Sodium hydroxide"
+  ],
+  "package_label_principal_display_panel": [
+    "LABEL22"
+  ],
+  "set_id": "00bfdd07-af21-4b01-81fb-c89deea33288",
+  "id": "40b3a08e-2ecd-c573-e063-6394a90a5e88",
+  "effective_time": "20251009",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "MediChoice Povidone-Iodine Prep Pad"
+    ],
+    "generic_name": [
+      "POVIDONE-IODINE"
+    ],
+    "manufacturer_name": [
+      "O&M HALYARD, INC."
+    ],
+    "product_ndc": [
+      "39892-0808"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "POVIDONE-IODINE"
+    ],
+    "rxcui": [
+      "797730"
+    ],
+    "spl_id": [
+      "40b3a08e-2ecd-c573-e063-6394a90a5e88"
+    ],
+    "spl_set_id": [
+      "00bfdd07-af21-4b01-81fb-c89deea33288"
+    ],
+    "package_ndc": [
+      "39892-0808-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175486",
+      "M0011640"
+    ],
+    "pharm_class_epc": [
+      "Antiseptic [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Iodine [CS]"
+    ],
+    "unii": [
+      "85H0HZU99M"
+    ]
+  }
+}

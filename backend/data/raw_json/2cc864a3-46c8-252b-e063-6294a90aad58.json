@@ -1,0 +1,77 @@
+{
+  "spl_product_data_elements": [
+    "WHP Hot Flashes LACHESIS MUTA VENOM - PULSATILLA VULGARIS - SEPIA OFFICINALIS JUICE - SULFUR SUCROSE LACTOSE SULFUR SULFUR LACHESIS MUTA VENOM LACHESIS MUTA VENOM PULSATILLA VULGARIS PULSATILLA VULGARIS SEPIA OFFICINALIS JUICE SEPIA OFFICINALIS JUICE white"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS LACHESIS 6C PULSATILLA 6C SEPIA 12C SULPHUR 6C"
+  ],
+  "purpose": [
+    "USES Temporarily relieves hot flashes and other symptoms associated with change of life."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN As with all medications, keep out of reach of children."
+  ],
+  "warnings": [
+    "STOP USE AND ASK DOCTOR If symptoms persist or recur, discontinue use. If pregnant or nursing, consult a licensed practitioner before using this product."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS LACHESIS Sore throat PULSATILLA Weeping SEPIA Indifference SULPHUR Agitation"
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Directions: Adults and children 12 years and older: 2 pills dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children 4 years to under 12 years: 1 pill dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children under 4 years: Consult a licensed practitioner."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Sucrose/Lactose"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL WHP Hot Flashes label WHP Hot Flashes box"
+  ],
+  "set_id": "06d5e51f-78ab-72c7-e063-6394a90a9ab1",
+  "id": "2cc864a3-46c8-252b-e063-6294a90aad58",
+  "effective_time": "20250128",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "WHP Hot Flashes"
+    ],
+    "generic_name": [
+      "LACHESIS MUTA VENOM - PULSATILLA VULGARIS - SEPIA OFFICINALIS JUICE - SULFUR"
+    ],
+    "manufacturer_name": [
+      "Washington Homeopathic Products"
+    ],
+    "product_ndc": [
+      "71919-808"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SULFUR",
+      "LACHESIS MUTA VENOM",
+      "PULSATILLA VULGARIS",
+      "SEPIA OFFICINALIS JUICE"
+    ],
+    "spl_id": [
+      "2cc864a3-46c8-252b-e063-6294a90aad58"
+    ],
+    "spl_set_id": [
+      "06d5e51f-78ab-72c7-e063-6394a90a9ab1"
+    ],
+    "package_ndc": [
+      "71919-808-14"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "70FD1KFU70",
+      "VSW71SS07I",
+      "I76KB35JEV",
+      "QDL83WN8C2"
+    ]
+  }
+}

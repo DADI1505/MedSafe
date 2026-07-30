@@ -1,0 +1,113 @@
+{
+  "spl_product_data_elements": [
+    "Vicks childrens VapoRub Camphor (synthetic), Eucalyptus oil, Menthol PETROLATUM CEDAR LEAF OIL NUTMEG OIL THYMOL TURPENTINE OIL CAMPHOR (SYNTHETIC) CAMPHOR (SYNTHETIC) EUCALYPTUS OIL EUCALYPTUS OIL MENTHOL MENTHOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Keep carton for future reference. TAMPER EVIDENT: Carton sealed for your protection.",
+    "MADE IN MEXICO DIST. BY PROCTER & GAMBLE, CINCINNATI, OH 45202"
+  ],
+  "active_ingredient": [
+    "Camphor (synthetic) 4.8% Eucalyptus oil 1.2% Menthol 2.6% Purpose Cough suppressant & topical analgesic Cough suppressant Cough suppressant & topical analgesic"
+  ],
+  "purpose": [
+    "Purpose Cough suppressant & topical analgesic Cough suppressant Cough suppressant & topical analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses when applied to chest and throat, temporarily relieves cough due to minor throat and bronchial irritation associated with the common cold when applied to muscles and joints, temporarily relieves minor aches and pains of muscles and joints"
+  ],
+  "warnings": [
+    "Warnings For external use only; avoid contact with eyes."
+  ],
+  "do_not_use": [
+    "Do not use by mouth in nostrils on wounds or damaged skin with tight bandages"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have cough that occurs with too much phlegm (mucus) persistent or chronic cough such as occurs with smoking, asthma or emphysema"
+  ],
+  "when_using": [
+    "When using this product, do not heat microwave add to hot water or any container where heating water. May cause splattering and result in burns."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if muscle aches and pains worsen or persist for more than 7 days or clear up and occur again within a few days. cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "overdosage": [
+    "If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions see important warnings under \"When using this product\" adults and children 2 years and over: for cough suppression rub a thick layer on throat & chest cover with a warm, dry cloth if desired keep clothing loose about throat and chest to help vapors reach the nose and mouth use up to three times daily or as directed by doctor for muscle / joint minor aches and pains apply to affected area not more than 3 to 4 times daily children under 2 years: do not use"
+  ],
+  "storage_and_handling": [
+    "Other information store at room temperature"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients cedarleaf oil, nutmeg oil, petrolatum, thymol, turpentine oil"
+  ],
+  "questions": [
+    "Questions? 1-800-873-8276"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 50 g Jar Carton VICKS ® children's VapoRub™ COUGH SUPPRESSANT TOPICAL ANALGESIC Ointment 2+ years NET WT 1.76 OZ (50 g) 595"
+  ],
+  "set_id": "00f2fd0e-2608-6c06-e063-6294a90a066a",
+  "id": "401d7f62-3537-e928-e063-6294a90a178e",
+  "effective_time": "20251001",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Vicks childrens VapoRub"
+    ],
+    "generic_name": [
+      "CAMPHOR (SYNTHETIC), EUCALYPTUS OIL, MENTHOL"
+    ],
+    "manufacturer_name": [
+      "Procter & Gamble Manufactura S de RL de CV"
+    ],
+    "product_ndc": [
+      "58933-595"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CAMPHOR (SYNTHETIC)",
+      "EUCALYPTUS OIL",
+      "MENTHOL"
+    ],
+    "rxcui": [
+      "727137"
+    ],
+    "spl_id": [
+      "401d7f62-3537-e928-e063-6294a90a178e"
+    ],
+    "spl_set_id": [
+      "00f2fd0e-2608-6c06-e063-6294a90a066a"
+    ],
+    "package_ndc": [
+      "58933-595-50"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0323900039216"
+    ],
+    "unii": [
+      "5TJD82A1ET",
+      "2R04ONI662",
+      "L7T10EIP3A"
+    ]
+  }
+}

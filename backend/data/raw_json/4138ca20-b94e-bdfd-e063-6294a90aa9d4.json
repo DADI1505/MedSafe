@@ -1,0 +1,77 @@
+{
+  "spl_product_data_elements": [
+    "Colorescience Total Protection No Show Mineral Sunscreen Zinc Oxide LAURYL PEG-8 DIMETHICONE (300 CPS) POLYGLYCERYL-3 DIISOSTEARATE BUTYLOCTYL SALICYLATE DIMETHYLMETHOXY CHROMANOL DISTEARDIMONIUM HECTORITE HEXYLENE GLYCOL POLYGLYCERYL-2 DIPOLYHYDROXYSTEARATE TRIDECYL SALICYLATE PHENOXYETHANOL MALTODEXTRIN ETHYLHEXYLGLYCERIN ALLANTOIN TREMELLA FUCIFORMIS FRUITING BODY ZINC OXIDE ZINC OXIDE SODIUM HYDROXIDE WATER PROPANEDIOL TETRASODIUM GLUTAMATE DIACETATE SODIUM CHLORIDE ALKYL (C12-15) BENZOATE CAESALPINIA SPINOSA FRUIT POD HELIANTHUS ANNUUS SPROUT SILICON DIOXIDE ISODODECANE POLYMETHYLSILSESQUIOXANE (11 MICRONS) .ALPHA.-BISABOLOL, (+)-"
+  ],
+  "dosage_and_administration": [
+    "Colorescience Total Protection No Show Mineral Sunscreen Dosage and Administration"
+  ],
+  "inactive_ingredient": [
+    "Colorescience Total Protection No Show Mineral Sunscreen Inactive ingredients"
+  ],
+  "indications_and_usage": [
+    "Colorescience Total Protection No Show Mineral Sunscreen Indications & usage"
+  ],
+  "active_ingredient": [
+    "Colorescience Total Protection No Show Mineral Sunscreen Active Ingredients"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Colorescience Total Protection No Show Mineral Sunscreen keep out of reach of children"
+  ],
+  "purpose": [
+    "Colorescience Total Protection No Show Mineral Sunscreen purpose"
+  ],
+  "warnings": [
+    "Colorescience Total Protection No Show Mineral Sunscreen Warning Label"
+  ],
+  "package_label_principal_display_panel": [
+    "Colorescience Total Protection No Show Mineral Sunscreen PDP"
+  ],
+  "set_id": "00d8bf32-aecd-22da-e063-6294a90a7567",
+  "id": "4138ca20-b94e-bdfd-e063-6294a90aa9d4",
+  "effective_time": "20251015",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Colorescience Total Protection No Show Mineral Sunscreen"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Colorescience"
+    ],
+    "product_ndc": [
+      "68078-066"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "4138ca20-b94e-bdfd-e063-6294a90aa9d4"
+    ],
+    "spl_set_id": [
+      "00d8bf32-aecd-22da-e063-6294a90a7567"
+    ],
+    "package_ndc": [
+      "68078-066-01",
+      "68078-066-02",
+      "68078-066-03",
+      "68078-066-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

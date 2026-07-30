@@ -1,0 +1,78 @@
+{
+  "spl_product_data_elements": [
+    "Private Label Moisturizing Oil Free Paraben Free SPF43 Sunscreen ZINC OXIDE ZINC CATION OCTINOXATE OCTINOXATE OCTISALATE OCTISALATE WATER GLYCERETH-26 PHENOXYETHANOL DIMETHICONE ISOPROPYL PALMITATE OCTYL STEARATE OLETH-3 PHOSPHATE ETHYLHEXYL ISONONANOATE PANTHENOL ALLANTOIN HYALURONIC ACID CYCLOMETHICONE 5 .ALPHA.-TOCOPHEROL ACETATE BUTYLENE GLYCOL IODOPROPYNYL BUTYLCARBAMATE HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER (45000 MPA.S AT 1%) TRIETHOXYCAPRYLYLSILANE"
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use on damaged or broken skin. Stope use and ask doctor if rash occurs. When using the product keep out of eyes; rinse with water to remove. Keep out of reach of children. If swallowed, get medical help or contact poison control immediately. Protect this product from excessive heat and direct sun."
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent sunbrun an dphoto damage caused by UVA/UVB exposure. If used as directed with other sun protection measures (see directions) , decreases the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "purpose": [
+    "Uses Helps prevent sunbrun an dphoto damage caused by UVA/UVB exposure. If used as directed with other sun protection measures (see directions) , decreases the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply liberally 15 minutes before exposure to the sun. Use a water resistant sunscreen if swimming or sweating. Reapply at least every 2 hours. Children under 6 months of age, ask physician. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. to 2 p.m. Wear long-sleeved shirts, pants, hats and sunglasses."
+  ],
+  "active_ingredient": [
+    "Active Ingredients Zinc Oxide 7.50% Octinoxate 7.50% Octisalate 2.50%"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Keep out of reach of children."
+  ],
+  "inactive_ingredient": [
+    "Other Ingredients Water, Isopropyl Palmitate, Octyl Stearate, Ethylhexyl Isononanoate, Cylcopentasiloxane, Cetearyl Glucoside, Dimethicone, Glycerth-26, Sodium Hyaluronate, Panthenol, Allantoin, Tocopheryl Acetate, Ascorbyl Palmitate, Oleth-3 Phosphate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyisobutene, PEG-7 Trimethylopropane Coconut Ether, Polyether-1, Phenoxyethanol, Butylene Glycol, Iodopropynyl Butylcarbamate, Triethoxycaprylysilane"
+  ],
+  "package_label_principal_display_panel": [
+    "Labeling PL007 Artwork"
+  ],
+  "set_id": "003e4221-f9d9-47c4-b10b-9876046b931a",
+  "id": "4e399a9d-b92c-4483-962a-4d65f8cddc30",
+  "effective_time": "20231107",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Private Label Moisturizing Oil Free Paraben Free SPF43"
+    ],
+    "generic_name": [
+      "SUNSCREEN"
+    ],
+    "manufacturer_name": [
+      "Swiss-American CDMO, LLC"
+    ],
+    "product_ndc": [
+      "60232-0007"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE",
+      "OCTINOXATE",
+      "OCTISALATE"
+    ],
+    "spl_id": [
+      "4e399a9d-b92c-4483-962a-4d65f8cddc30"
+    ],
+    "spl_set_id": [
+      "003e4221-f9d9-47c4-b10b-9876046b931a"
+    ],
+    "package_ndc": [
+      "60232-0007-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z",
+      "4Y5P7MUD51",
+      "4X49Y0596W"
+    ]
+  }
+}

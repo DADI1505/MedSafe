@@ -1,0 +1,110 @@
+{
+  "spl_product_data_elements": [
+    "Walgreens Gentle Laxative Bisacodyl Suppository PALM KERNEL OIL BISACODYL DEACETYLBISACODYL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient (in each Suppository) Active Ingredient Purpose (in each Suppository) Bisacodyl 10 mg.................................Stimulant Laxative"
+  ],
+  "purpose": [
+    "Uses -for relief of occasional constipation -this product generally produces bowel movement in 1/4 to 1 hour"
+  ],
+  "warnings": [
+    "Warnings For rectal use only."
+  ],
+  "do_not_use": [
+    "Do not use Do not use -when abdominal pain, nausea, or vomiting are present -for a period of longer than 1 week"
+  ],
+  "ask_doctor": [
+    "Ask a doctor Ask a doctor before use if you have noticed a sudden change in bowel habits that lasts over a period of 2 weeks"
+  ],
+  "when_using": [
+    "When using this product When using this product it may cause abdominal discomfort, faintness, rectal burning and mild cramps"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if Stop use and ask a doctor if -you have rectal bleeding -you fail to have a bowel movement after using this product. This may indicate a serious condition"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions -detach one suppository from the strip -remove wrapper before inserting into the rectum adults and children 12 years of age and older 1 suppository once daily children 6 to under 12 years 1/2 suppository once daily children under 6 years do not use"
+  ],
+  "storage_and_handling": [
+    "Other information Other information -Store at room temperature. Do not exceed 30 o C (86 o F) -Lot No. & Exp. Date: see wrapper or box"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredient Inactive ingredient hydrogenated vegetable oil"
+  ],
+  "indications_and_usage": [
+    "Directions -detach one suppository from the strip -remove wrapper before inserting into the rectum adults and children 12 years of age and older 1 suppository once daily children 6 to under 12 years 1/2 suppository once daily children under 6 years do not use"
+  ],
+  "package_label_principal_display_panel": [
+    "Label Product Label"
+  ],
+  "set_id": "015e41d2-7543-4210-8345-626f5ae5f81d",
+  "id": "485ea50e-b62c-cbb9-e063-6394a90a1cdf",
+  "effective_time": "20260115",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M007"
+    ],
+    "brand_name": [
+      "Walgreens Gentle Laxative"
+    ],
+    "generic_name": [
+      "BISACODYL SUPPOSITORY"
+    ],
+    "manufacturer_name": [
+      "Walgreens"
+    ],
+    "product_ndc": [
+      "0363-0466"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "RECTAL"
+    ],
+    "substance_name": [
+      "BISACODYL"
+    ],
+    "rxcui": [
+      "198509"
+    ],
+    "spl_id": [
+      "485ea50e-b62c-cbb9-e063-6394a90a1cdf"
+    ],
+    "spl_set_id": [
+      "015e41d2-7543-4210-8345-626f5ae5f81d"
+    ],
+    "package_ndc": [
+      "0363-0466-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0311917162638"
+    ],
+    "nui": [
+      "N0000009371",
+      "N0000175812",
+      "N0000009871"
+    ],
+    "pharm_class_pe": [
+      "Increased Large Intestinal Motility [PE]",
+      "Stimulation Large Intestine Fluid/Electrolyte Secretion [PE]"
+    ],
+    "pharm_class_epc": [
+      "Stimulant Laxative [EPC]"
+    ],
+    "unii": [
+      "10X0709Y6I"
+    ]
+  }
+}

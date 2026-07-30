@@ -1,0 +1,96 @@
+{
+  "spl_product_data_elements": [
+    "Tums Antacid Chewy Bites Calcium Carbonate 750 mg WATER LECITHIN, SOYBEAN TERT-BUTYLHYDROQUINONE FD&C BLUE NO. 2 ETHYL ACETATE ACACIA CARNAUBA WAX CORN SYRUP FD&C BLUE NO. 1 ISOPROPYL ALCOHOL MALTODEXTRIN PROPYLENE GLYCOL CARMINIC ACID COCONUT OIL STARCH, CORN ICODEXTRIN METHYLPARABEN PROPYLPARABEN YELLOW WAX FD&C RED NO. 40 CALCIUM CARBONATE CARBONATE ION ALCOHOL CITRIC ACID MONOHYDRATE ALUMINUM OXIDE PHOSPHORIC ACID SORBIC ACID SORBITOL CORN OIL SOYBEAN OIL SUCROSE TITANIUM DIOXIDE AMMONIA FD&C YELLOW NO. 6 SHELLAC BUTYL ALCOHOL (mixed berry: raspberry and blueberry) T"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts ​Drug Facts",
+    "Other information Other information each chewable tablet contains: elemental calcium 300mg do not store above 25°C (77°F)"
+  ],
+  "active_ingredient": [
+    "Active ingredient ​Active ingredient (per tablet) Calcium Carbonate USP 750mg"
+  ],
+  "purpose": [
+    "Purpose Purpose Antacid"
+  ],
+  "indications_and_usage": [
+    "Uses Uses relieves heartburn acid indigestion sour stomach upset stomach associated with these symptoms"
+  ],
+  "warnings": [
+    "Warnings Ask a doctor or pharmacist Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product When using this product do not take more than 6 tablets in 24 hours if pregnant do not take more than 6 tablets in 24 hours do not use the maximum dosage for more than 2 weeks except under the advice and supervision of a doctor Keep out of reach of children Keep out of reach of children."
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs."
+  ],
+  "when_using": [
+    "When using this product When using this product do not take more than 6 tablets in 24 hours if pregnant do not take more than 6 tablets in 24 hours do not use the maximum dosage for more than 2 weeks except under the advice and supervision of a doctor"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions Directions adults and children 12 years of age and over: chew 2-4 tablets as symptoms occur, or as directed by a doctor do not take for symptoms that persist for more than 2 weeks unless advised by a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Inactive ingredients acacia gum, alcohol, ammonium hydroxide, beeswax, carmine, carnauba wax, citric acid, coconut oil, corn starch, corn syrup, dextrin, ethyl acetate, ethyl alcohol, FD&C blue #1 alum lake, FD&C blue #2 alum lake, FD&C red #40 alum lake, FD&C yellow #6 alum lake, flavors, gum arabic, isopropyl alcohol, maltodextrin, methylparaben, n-butyl alcohol, phosphoric acid, propylparaben, propylene glycol, purified water, shellac, sorbic acid, sorbitol, soybean oil, soy lecithin, sucrose, TBHQ, titanium dioxide, vegetable oil"
+  ],
+  "questions": [
+    "Questions or comments Questions or comments? Call toll free 1-800-897-7535"
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Tums Antacid Chewy Bites, 4ct, Lil' Drug Store ® - PDP/Package GOES TO WORK IN SECONDS! CALCIUM CARBONATE TUMS ANTACID Chewy Bites Mixed Berry EXTRA STRENGTH 750 [tablet image] 4 CHEWABLE TABLETS 2 POUCHES OF 2 TABLETS EACH [Lil' Drug Store ® logo] PDP/Package",
+    "Tums Antacid Chewy Bites, 60ct, Lil' Drug Store ® - PDP/Package GOES TO WORK IN SECONDS! CALCIUM CARBONATE TUMS ANTACID Chewy Bites Mixed Berry EXTRA STRENGTH 750 [tablet image] 60 CHEWABLE TABLETS 30 POUCHES 2 TABLETS PER POUCH [Lil' Drug Store ® logo] PDP/Package"
+  ],
+  "set_id": "0803ad9c-1da8-a556-e063-6294a90add7f",
+  "id": "275c28e7-e801-53fd-e063-6394a90a0bf9",
+  "effective_time": "20241120",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M001"
+    ],
+    "brand_name": [
+      "Tums Antacid Chewy Bites"
+    ],
+    "generic_name": [
+      "CALCIUM CARBONATE 750 MG"
+    ],
+    "manufacturer_name": [
+      "Lil' Drug Store products, Inc."
+    ],
+    "product_ndc": [
+      "66715-8151"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CALCIUM CARBONATE"
+    ],
+    "rxcui": [
+      "308915",
+      "1044532"
+    ],
+    "spl_id": [
+      "275c28e7-e801-53fd-e063-6394a90a0bf9"
+    ],
+    "spl_set_id": [
+      "0803ad9c-1da8-a556-e063-6294a90add7f"
+    ],
+    "package_ndc": [
+      "66715-8151-2",
+      "66715-8151-8"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "H0G9379FGK"
+    ]
+  }
+}

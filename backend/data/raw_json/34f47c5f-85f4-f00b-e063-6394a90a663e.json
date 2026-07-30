@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "GERI-LANTA ANTACID ANTIGAS aluminum hydroxide, magnesium hydroxide, dimethicone BENZYL ALCOHOL BUTYLPARABEN HYDROXYETHYL CELLULOSE, UNSPECIFIED PROPYLPARABEN WATER SACCHARIN SODIUM SACCHARIN SORBITOL SOLUTION ALUMINUM HYDROXIDE ALUMINUM HYDROXIDE MAGNESIUM HYDROXIDE MAGNESIUM CATION HYDROXIDE ION DIMETHICONE DIMETHICONE citrus mint"
+  ],
+  "active_ingredient": [
+    "Active ingredients (in each 5 mL teaspoonful) Aluminum hydroxide 200 mg (equivalent to dried gel, USP) Magnesium hydroxide 200 mg Simethicone 20mg"
+  ],
+  "purpose": [
+    "Purposes Antacid Antigas"
+  ],
+  "indications_and_usage": [
+    "Uses relieves heartburn sour stomach acid indigestion the symptoms referred to as gas"
+  ],
+  "warnings": [
+    "Warnings Ask a doctor before use if you have kidney disease a magnesium-restricted diet Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs. Stop use and ask a doctor if symptoms last more than 2 weeks If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions shake well before use adults and children 12 years and older: take 2 to 4 teaspoonfuls between meals, at bedtime, or as directed by a doctor do not take more than 24 teaspoonfuls in 24 hours or use the maximum dosage for more than 2 weeks children under 12 years: ask a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information each 5 mL teaspoonful contains: magnesium 85 mg, sodium 3 mg store at room temperature protect from freezing keep tightly closed"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients benzyl alcohol, butylparaben, flavor (contains alcohol), hydroxyethylcellulose, propylparaben, purified water, saccharin sodium, sorbitol solution"
+  ],
+  "questions": [
+    "Questions or comments? 1-800-540-3765 DISTRIBUTED BY: ATLANTIC BIOLOGICALS CORP. MIAMI, FL 33179"
+  ],
+  "package_label_principal_display_panel": [
+    "package Label image description"
+  ],
+  "set_id": "043207dd-5e1c-4c78-b75a-7d341d71b117",
+  "id": "34f47c5f-85f4-f00b-e063-6394a90a663e",
+  "effective_time": "20250512",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M001"
+    ],
+    "brand_name": [
+      "GERI-LANTA ANTACID ANTIGAS"
+    ],
+    "generic_name": [
+      "ALUMINUM HYDROXIDE, MAGNESIUM HYDROXIDE, DIMETHICONE"
+    ],
+    "manufacturer_name": [
+      "ATLANTIC BIOLOGICALS CORP."
+    ],
+    "product_ndc": [
+      "17856-0630"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ALUMINUM HYDROXIDE",
+      "MAGNESIUM HYDROXIDE",
+      "DIMETHICONE"
+    ],
+    "rxcui": [
+      "307746"
+    ],
+    "spl_id": [
+      "34f47c5f-85f4-f00b-e063-6394a90a663e"
+    ],
+    "spl_set_id": [
+      "043207dd-5e1c-4c78-b75a-7d341d71b117"
+    ],
+    "package_ndc": [
+      "17856-0630-1"
+    ],
+    "original_packager_product_ndc": [
+      "57896-629"
+    ],
+    "nui": [
+      "N0000010282"
+    ],
+    "pharm_class_pe": [
+      "Skin Barrier Activity [PE]"
+    ],
+    "unii": [
+      "5QB0T2IUN0",
+      "NBZ3QY004S",
+      "92RU3N3Y1O"
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "spl_product_data_elements": [
+    "La Roche Posay Laboratoire Dermatologique Anthelios 60 Breakout Free Oil Free Face Dry Touch Broad Spectrum SPF 60 Sunscreen Water Resistant 80 Minutes Avobenzone, Homosalate, Octisalate and Octocrylene AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE WATER DICAPRYLYL CARBONATE BUTYLOCTYL SALICYLATE NYLON-12 PEG-100 STEARATE PERLITE PHENOXYETHANOL PEG-8 LAURATE SODIUM STEAROYL GLUTAMATE CHLORPHENESIN P-ANISIC ACID XANTHAN GUM TOCOPHEROL ARACHIDYL ALCOHOL DIETHYLHEXYL SYRINGYLIDENEMALONATE PROPYLENE GLYCOL MALTODEXTRIN STEARYL ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Active ingredient Avobenzone 3% Homosalate 15% Octisalate 5% Octocrylene 7%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin"
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions For sunscreen use: ● apply generously 15 minutes before sun exposure ● reapply: ● after 80 minutes of swimming or sweating ● immediately after towel drying ● at least every 2 hours ● Sun Protection Measures . Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: ● limit time in the sun, especially from 10 a.m. – 2 p.m. ● wear long-sleeved shirts, pants, hats, and sunglasses ● children under 6 months of age: Ask a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information protect the product in this container from excessive heat and direct sun"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, silica, dicaprylyl carbonate, styrene/acrylates copolymer, butyloctyl salicylate, methyl methacrylate crosspolymer, nylon-12, PEG-100 stearate, glyceryl stearate, perlite, beeswax, ammonium polyacryloyldimethyl taurate, phenoxyethanol, PEG-8 laurate, behenyl alcohol, sodium stearoyl glutamate, chlorphenesin, p-anisic acid, xanthan gum, tocopherol, disodium EDTA, arachidyl alcohol, diethylhexyl syringylidenemalonate, propylene glycol, cassia alata leaf extract, maltodextrin, stearyl alcohol, t-butyl alcohol, caprylic/capric triglyceride"
+  ],
+  "questions": [
+    "Questions or comments? 1-888-LRP-LABO 1-888-577-5226 Monday - Friday (9 a.m. - 5 p.m. EST)"
+  ],
+  "package_label_principal_display_panel": [
+    "image description",
+    "image of 3 mL tube",
+    "image of 90 mL tube"
+  ],
+  "set_id": "06f2ced8-273e-454f-92b4-2846f6674b37",
+  "id": "f675b238-84d1-4eb9-b874-78c81ab0173c",
+  "effective_time": "20250710",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "La Roche Posay Laboratoire Dermatologique Anthelios 60 Breakout Free Oil Free Face Dry Touch Broad Spectrum SPF 60 Sunscreen Water Resistant 80 Minutes"
+    ],
+    "generic_name": [
+      "AVOBENZONE, HOMOSALATE, OCTISALATE AND OCTOCRYLENE"
+    ],
+    "manufacturer_name": [
+      "L'Oreal USA Products Inc"
+    ],
+    "product_ndc": [
+      "49967-994"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "AVOBENZONE",
+      "HOMOSALATE",
+      "OCTISALATE",
+      "OCTOCRYLENE"
+    ],
+    "spl_id": [
+      "f675b238-84d1-4eb9-b874-78c81ab0173c"
+    ],
+    "spl_set_id": [
+      "06f2ced8-273e-454f-92b4-2846f6674b37"
+    ],
+    "package_ndc": [
+      "49967-994-01",
+      "49967-994-02",
+      "49967-994-03",
+      "49967-994-04",
+      "49967-994-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "G63QQF2NOX",
+      "V06SV4M95S",
+      "4X49Y0596W",
+      "5A68WGF6WM"
+    ]
+  }
+}

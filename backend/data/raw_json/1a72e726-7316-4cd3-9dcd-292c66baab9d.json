@@ -1,0 +1,88 @@
+{
+  "spl_product_data_elements": [
+    "Crystal Clear Acne Treatment Pads Salicylic acid SALICYLIC ACID SALICYLIC ACID WATER LACTIC ACID, UNSPECIFIED FORM GLYCOLIC ACID DIETHYLENE GLYCOL MONOETHYL ETHER SODIUM HYDROXIDE GLYCERIN MORUS ALBA ROOT GLYCYRRHIZA GLABRA CITRUS MAXIMA FRUIT RIND EDETATE SODIUM CUCUMBER CHAMOMILE ALOE VERA LEAF YEAST .BETA.-D-GLUCAN GLYCYRRHIZINATE DIPOTASSIUM MEDIUM-CHAIN TRIGLYCERIDES MENTHYL LACTATE, (-)- ETHYLHEXYLGLYCERIN ALLANTOIN PHENOXYETHANOL PPG-26-BUTETH-26 POLYOXYL 40 HYDROGENATED CASTOR OIL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "skin pharm's own our HERO PRODUCT YOU ALL-IN-ONE TO BRIGHTEN SKIN, TIGHTEN PORES + COMBAT BREAKOUTS salicylic acid absorbs excess oil glycolic + lactic acid support natural collagen botanical blend brightens + evens skin tone bye bye, blemishes MANUFACTURED FOR SKIN PHARM NASHVILLE, TN 37212 skinpharm.com"
+  ],
+  "active_ingredient": [
+    "Active ingredient Salicylic Acid 2%"
+  ],
+  "purpose": [
+    "Purpose Acne treatment"
+  ],
+  "indications_and_usage": [
+    "Use for the treatment of acne"
+  ],
+  "warnings": [
+    "Warnings For external use only When using this product • skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions • clean the skin thoroughly before applying this product • cover the entire affected area one to two times daily, avoiding eye area • allow to absorb before applying additional products • because excessive drying of the skin may occur, start with one application daily, then gradually increase to two times daily if needed or as directed by a doctor • if bothersome dryness or peeling occurs, reduce application to once a day or every other day • do not rinse • tighten cap after use to prevent pads from drying out."
+  ],
+  "storage_and_handling": [
+    "Other information • store in a cool, dry place. • Sunburn Alert: This product contains an alpha hydroxy acid (AHA) that may increase your skin’s sensitivity to the sun and particularly the possibility of sunburn. Use a sunscreen, wear protective clothing and limit sun exposure while using this product and for a week afterwards."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water/Aqua/Eau, Lactic Acid, Glycolic Acid, Ethoxydiglycol, Sodium Hydroxide, Glycerin, Morus Alba Root Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Citrus Grandis (Grapefruit) Peel Extract, Tetrasodium EDTA, Cucumis Sativus (Cucumber) Fruit Extract, Chamomilla Recutita (Matricaria) Flower Extract, Aloe Barbadensis Leaf Extract, Beta-Glucan, Dipotassium Glycyrrhizate, Caprylic/Capric Triglyceride, Menthyl Lactate, Ethylhexylglycerin, Allantoin, Phenoxyethanol, PPG-26-Buteth-26, PEG-40 Hydrogenated Castor Oil."
+  ],
+  "questions": [
+    "Questions? +1-615-582-6726 Mon - Fri, 9:30 AM - 5:30 PM"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Acnepad-nw1"
+  ],
+  "set_id": "0469b1ab-5cfb-416a-b34b-7dc6fef611ff",
+  "id": "1a72e726-7316-4cd3-9dcd-292c66baab9d",
+  "effective_time": "20240522",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "Crystal Clear Acne Treatment Pads"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID"
+    ],
+    "manufacturer_name": [
+      "Skin Pharm, LLC"
+    ],
+    "product_ndc": [
+      "83316-001"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "797892"
+    ],
+    "spl_id": [
+      "1a72e726-7316-4cd3-9dcd-292c66baab9d"
+    ],
+    "spl_set_id": [
+      "0469b1ab-5cfb-416a-b34b-7dc6fef611ff"
+    ],
+    "package_ndc": [
+      "83316-001-01",
+      "83316-001-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

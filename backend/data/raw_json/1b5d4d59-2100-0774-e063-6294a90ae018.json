@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "Peace Out Early Stage Acne Dot Salicylic Acid POTASSIUM HYDROXIDE ETHYLHEXYLGLYCERIN NIACINAMIDE MADECASSOSIDE SUCCINIC ACID GLYCERIN PROPANEDIOL TREHALOSE HYALURONATE SODIUM MANDELIC ACID CAPRYLYL GLYCOL CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM SALICYLIC ACID SALICYLIC ACID"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Salicylic Acid 2%"
+  ],
+  "purpose": [
+    "Purpose Acne Treatment"
+  ],
+  "indications_and_usage": [
+    "Uses For the treatment of acne"
+  ],
+  "warnings": [
+    "Warnings For external use only. When Using This Product Skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only one medication should be used. Do not use if you are allergic to the dressing or any of its components."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep Out of Reach of Children. If swallowed, get medical help or contact a Posion Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions For products applied to and left on the skin: Cleanse thoroughly before applying this product Because excessive drying of the skin may occur, start with on application daily, then gradually increase to two to three times a day if needed or as directed by a doctor If bothersome dryness or peeling occurs, reduce application to once a day or even every other day Sensitivity Test for a New User . Apply product sparingly to one or two small affected areas during the first 3 days. If no discomfort occurs, follow the directions stated above."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Sodium Hyaluronate, Cellulose Gum, Glycerin, Trehalose, Niacinamide, Propanediol, Succinic Acid, Mandelic Acid, Caprylyl Glycol, Madecassoside, Potassium Hydroxide, Ethylhexylglycerin, Oligopeptide-76"
+  ],
+  "questions": [
+    "Questions or comments? Call toll free 1-800-268-1962 M-F 9AM TO 5PM PST"
+  ],
+  "other_safety_information": [
+    "Other Store between 17ºC - 30ºC"
+  ],
+  "package_label_principal_display_panel": [
+    "Product Packaging 1"
+  ],
+  "set_id": "0632d458-d326-ade4-e063-6294a90af3ba",
+  "id": "1b5d4d59-2100-0774-e063-6294a90ae018",
+  "effective_time": "20240620",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "Peace Out Early Stage Acne Dot"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID"
+    ],
+    "manufacturer_name": [
+      "Peace Out LLC."
+    ],
+    "product_ndc": [
+      "71494-007"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "1546588"
+    ],
+    "spl_id": [
+      "1b5d4d59-2100-0774-e063-6294a90ae018"
+    ],
+    "spl_set_id": [
+      "0632d458-d326-ade4-e063-6294a90af3ba"
+    ],
+    "package_ndc": [
+      "71494-007-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

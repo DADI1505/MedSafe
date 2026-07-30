@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Everyday Sun Defense Zinc Oxide ZINC OXIDE ZINC OXIDE ARGAN OIL ETHYL FERULATE PHENOXYETHANOL AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER SQUALANE CETOSTEARYL ALCOHOL CAPRYLYL/CAPRYL OLIGOGLUCOSIDE TRIETHOXYCAPRYLYLSILANE WATER .ALPHA.-TOCOPHEROL ACETATE, D- SODIUM CHLORIDE ALPHA-TOCOPHEROL ACETATE GLYCERIN PROPYLENE GLYCOL HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER (45000 MPA.S AT 1%) DIMETHICONE ALKYL (C12-15) BENZOATE COCO GLUCOSIDE C14-22 ALCOHOLS C12-20 ALKYL GLUCOSIDE ETHYLHEXYLGLYCERIN OMEGA-3 FATTY ACIDS GLUCONOLACTONE BENZYL ALCOHOL SORBIC ACID SODIUM BENZOATE SHEA BUTTER UREA CHLORPHENESIN POLYESTER-5 (TG-38) LEVOMENOL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Zinc Oxide 9.4%"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredient Ammonium Acryloyldimethyltaurate/VP Copolymer, Argania Spinosa Kernel Oil, Bisabolol, Butyrospermum Parkii (Shea Butter) Extract, C12-15 Alkyl Benzoate, C12-20 Glucoside, C14-22 Alcohol, Caprylyl/Capryl Glucoside, Cetearyl Alcohol, Coco Glucoside, Dimethicone, Ethyl Ferulate, Ethylhexylglycerin, Ethylhexylglycerin, Glycerin, Hydroxyethyl Acrylate, Phenoxyethanol, Phospholipids, Polyester-5, Propylene Glycol, Sodium Acryloyl Dimethyl Taurate Copolymer, Sorbitan Oleate Decylglucoside Crosspolymer, Squalane, Tocopheryl Acetate, Triethoxycaprylylsi-lane, Urea, Water"
+  ],
+  "ask_doctor": [
+    "OTC-Ask Doctor Ask a doctor if rash occurs"
+  ],
+  "do_not_use": [
+    "OTC-Do Not Use Do not use on damaged or broken skin"
+  ],
+  "keep_out_of_reach_of_children": [
+    "OTC-Keep Out of Reach of Children Keep out of reach of children. If swallowed, get medical help or contact Poison Control right away"
+  ],
+  "purpose": [
+    "OTC-Purpose Sunscreen"
+  ],
+  "questions": [
+    "OTC-Questions +1) 866-322-3010"
+  ],
+  "stop_use": [
+    "OTC-Stop Use Stop use if rash occurs"
+  ],
+  "when_using": [
+    "OTC-When using When using this product keep out of eyes Rinse with water to remove"
+  ],
+  "indications_and_usage": [
+    "Indications & Usage Section High protection against sunburn"
+  ],
+  "warnings": [
+    "- For external use only - Do not use on damaged or broken skin - When using this product, keep out of eyes. - Rinse with water to remove. - Stop use and ask a doctor if rash occurs - Keep out of reach of children. If swallowed, get medical help or contact a Poison Control right away"
+  ],
+  "dosage_and_administration": [
+    "- Apply generously 15 minutes before sun exposure - Reapply every 2 hours - Use a water-resistant sunscreen if swimming or sweating"
+  ],
+  "package_label_principal_display_panel": [
+    "Everyday Sun Defense"
+  ],
+  "set_id": "05aa1a1a-9e4f-2781-e063-6394a90aef6b",
+  "id": "442002ff-619f-5d98-e063-6394a90ad32c",
+  "effective_time": "20251121",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Everyday Sun Defense"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Hommerejuvenate, Inc."
+    ],
+    "product_ndc": [
+      "83580-010"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "442002ff-619f-5d98-e063-6394a90ad32c"
+    ],
+    "spl_set_id": [
+      "05aa1a1a-9e4f-2781-e063-6394a90aef6b"
+    ],
+    "package_ndc": [
+      "83580-010-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0817966020429"
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

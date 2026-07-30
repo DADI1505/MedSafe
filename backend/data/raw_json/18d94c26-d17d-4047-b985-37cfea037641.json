@@ -1,0 +1,117 @@
+{
+  "spl_product_data_elements": [
+    "B HP Apis Mellifica, Arsenicum Album, Belladonna, Chamomilla, Echinacea (Angustifolia), Lachesis Mutus, Mercurius Solubilis, Pulsatilla (Pratensis), Pyrogenium, Rhus Tox, Silicea APIS MELLIFERA APIS MELLIFERA ARSENIC TRIOXIDE ARSENIC CATION (3+) ATROPA BELLADONNA ATROPA BELLADONNA MATRICARIA CHAMOMILLA WHOLE MATRICARIA CHAMOMILLA ECHINACEA ANGUSTIFOLIA WHOLE ECHINACEA ANGUSTIFOLIA LACHESIS MUTA VENOM LACHESIS MUTA VENOM MERCURIUS SOLUBILIS MERCURIUS SOLUBILIS PULSATILLA PRATENSIS WHOLE PULSATILLA PRATENSIS WHOLE RANCID BEEF RANCID BEEF TOXICODENDRON PUBESCENS LEAF TOXICODENDRON PUBESCENS LEAF SILICON DIOXIDE SILICON DIOXIDE WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: (in each drop): 9.09% of Apis Mellifica 30X, Arsenicum Album 30X, Belladonna 30X, Chamomilla 30X, Echinacea 30X, Lachesis Mutus 30X, Mercurius Solubilis 30X, Pulsatilla 30X, Pyrogenium 30X, Rhus Tox 30X, Silicea 30X."
+  ],
+  "purpose": [
+    "PURPOSE: May temporarily relieve symptoms of fatigue, chills, and chronic swelling of lymph nodes. ** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS: If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in a cool, dry place."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Adults and children 5 to 10 drops orally, 3 times daily or as otherwise directed by a health care professional. If symptoms persist for more than 7 days, consult your health care professional. Consult a physician for use in children under 12 years of age."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: May temporarily relieve symptoms of fatigue, chills, and chronic swelling of lymph nodes. ** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Demineralized water, 20% Ethanol."
+  ],
+  "questions": [
+    "QUESTIONS: Dist. by Energique, Inc. 201 Apple Blvd. Woodbine, IA 51579 800.869.8078"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: ENERGIQUE SINCE 1987 HOMEOPATHIC REMEDY B HP 2 fl. oz. (60 ml) B HP"
+  ],
+  "set_id": "04dfad30-9496-43c6-8ce8-ab04fdb9ce3b",
+  "id": "18d94c26-d17d-4047-b985-37cfea037641",
+  "effective_time": "20240506",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "B HP"
+    ],
+    "generic_name": [
+      "APIS MELLIFICA, ARSENICUM ALBUM, BELLADONNA, CHAMOMILLA, ECHINACEA (ANGUSTIFOLIA), LACHESIS MUTUS, MERCURIUS SOLUBILIS, PULSATILLA (PRATENSIS), PYROGENIUM, RHUS TOX, SILICEA"
+    ],
+    "manufacturer_name": [
+      "Energique, Inc."
+    ],
+    "product_ndc": [
+      "44911-0712"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "APIS MELLIFERA",
+      "ARSENIC TRIOXIDE",
+      "ATROPA BELLADONNA",
+      "MATRICARIA CHAMOMILLA WHOLE",
+      "ECHINACEA ANGUSTIFOLIA WHOLE",
+      "LACHESIS MUTA VENOM",
+      "MERCURIUS SOLUBILIS",
+      "PULSATILLA PRATENSIS WHOLE",
+      "RANCID BEEF",
+      "TOXICODENDRON PUBESCENS LEAF",
+      "SILICON DIOXIDE"
+    ],
+    "spl_id": [
+      "18d94c26-d17d-4047-b985-37cfea037641"
+    ],
+    "spl_set_id": [
+      "04dfad30-9496-43c6-8ce8-ab04fdb9ce3b"
+    ],
+    "package_ndc": [
+      "44911-0712-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0363113701876"
+    ],
+    "nui": [
+      "N0000185021",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0002274"
+    ],
+    "pharm_class_epc": [
+      "Standardized Insect Venom Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Bee Venoms [CS]"
+    ],
+    "unii": [
+      "7S82P3R43Z",
+      "S7V92P67HO",
+      "WQZ3G9PF0H",
+      "G0R4UBI2ZZ",
+      "VB06AV5US8",
+      "VSW71SS07I",
+      "324Y4038G2",
+      "8E272251DI",
+      "29SUH5R3HU",
+      "6IO182RP7A",
+      "ETJ7Z6XBU4"
+    ]
+  }
+}

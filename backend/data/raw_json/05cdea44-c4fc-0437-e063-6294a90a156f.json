@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "INFLUENZINUM INFLUENZA A VIRUS A/VICTORIA/4897/2022 IVR-238 (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A VIRUS A/DARWIN/9/2021 IVR-228 (H3N2) HEMAGGLUTININ ANTIGEN (UV, FORMALDEHYDE INACTIVATED),INFLUENZA B VIRUS B/MICHIGAN/01/2021 HEMAGGLUTININ ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA B VIRUS B/PHUKET/3073/2013 HEMAGGLUTININ ANTIGEN (FORMALDEHYDE INACTIVATED) INFLUENZA B VIRUS B/PHUKET/3073/2013 HEMAGGLUTININ ANTIGEN (FORMALDEHYDE INACTIVATED) INFLUENZA B VIRUS B/PHUKET/3073/2013 HEMAGGLUTININ ANTIGEN (FORMALDEHYDE INACTIVATED) INFLUENZA A VIRUS A/VICTORIA/4897/2022 IVR-238 (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED) INFLUENZA A VIRUS A/VICTORIA/4897/2022 IVR-238 (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED) INFLUENZA A VIRUS A/DARWIN/9/2021 IVR-228 (H3N2) HEMAGGLUTININ ANTIGEN (UV, FORMALDEHYDE INACTIVATED) INFLUENZA A VIRUS A/DARWIN/9/2021 IVR-228 (H3N2) HEMAGGLUTININ ANTIGEN (UV, FORMALDEHYDE INACTIVATED) INFLUENZA B VIRUS B/MICHIGAN/01/2021 HEMAGGLUTININ ANTIGEN (FORMALDEHYDE INACTIVATED) INFLUENZA B VIRUS B/MICHIGAN/01/2021 HEMAGGLUTININ ANTIGEN (FORMALDEHYDE INACTIVATED) LACTOSE, UNSPECIFIED FORM SUCROSE"
+  ],
+  "active_ingredient": [
+    "Active ingredient** Influenzinum 15C HPUS See product name on front panel (contains 0.443 mg of the active ingredient per pellet)"
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    "Relieves after effects of flu or flu-like symptoms * See symptoms on front panel."
+  ],
+  "warnings": [
+    ""
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if symptoms persist for more than 3 days or worsen."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor."
+  ],
+  "inactive_ingredient": [
+    "lactose, sucrose"
+  ],
+  "questions": [
+    "1-800-BOIRON-1 (1-800-264-7661), BoironUSA.com Info@Boiron.com Distributed by Boiron, Inc. Newtown Square, PA 19073"
+  ],
+  "spl_unclassified_section": [
+    "Do not use if pellet dispenser seal is broken. Contains approx 80 pellets. How to dispense pellets? Turn tube upside down. Twist until 5 pellets are dispensed into cap. Carefully remove the cap and use it to pour pellets under the tongue. *CLAIMS BASED ON TRADITIONAL HOMEOPATHIC PRACTICE NOT ACCEPTED MEDICAL EVIDENCE. NOT FDA EVALUATED. **C,K,CK, and X are homeopathic dilutions: see BoironUSA.com/info for details. The letters \"HPUS\" indicate that the components in this product are officially monographed in the Homeopathic Pharmacopoeia of the United States."
+  ],
+  "package_label_principal_display_panel": [
+    "label"
+  ],
+  "set_id": "05cdea44-c4fb-0437-e063-6294a90a156f",
+  "id": "05cdea44-c4fc-0437-e063-6294a90a156f",
+  "effective_time": "20230920",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "INFLUENZINUM"
+    ],
+    "generic_name": [
+      "INFLUENZA A VIRUS A/VICTORIA/4897/2022 IVR-238 (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A VIRUS A/DARWIN/9/2021 IVR-228 (H3N2) HEMAGGLUTININ ANTIGEN (UV, FORMALDEHYDE INACTIVATED),INFLUENZA B VIRUS B/MICHIGAN/01/2021 HEMAGGLUTININ ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA B VIRUS B/PHUKET/3073/2013 HEMAGGLUTININ ANTIGEN (FORMALDEHYDE INACTIVATED)"
+    ],
+    "manufacturer_name": [
+      "Boiron"
+    ],
+    "product_ndc": [
+      "0220-5086"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "INFLUENZA B VIRUS B/PHUKET/3073/2013 HEMAGGLUTININ ANTIGEN (FORMALDEHYDE INACTIVATED)",
+      "INFLUENZA A VIRUS A/VICTORIA/4897/2022 IVR-238 (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED)",
+      "INFLUENZA A VIRUS A/DARWIN/9/2021 IVR-228 (H3N2) HEMAGGLUTININ ANTIGEN (UV, FORMALDEHYDE INACTIVATED)",
+      "INFLUENZA B VIRUS B/MICHIGAN/01/2021 HEMAGGLUTININ ANTIGEN (FORMALDEHYDE INACTIVATED)"
+    ],
+    "spl_id": [
+      "05cdea44-c4fc-0437-e063-6294a90a156f"
+    ],
+    "spl_set_id": [
+      "05cdea44-c4fb-0437-e063-6294a90a156f"
+    ],
+    "package_ndc": [
+      "0220-5086-41"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "9HB0XUS9TM",
+      "AU5C98U4BB",
+      "GRN94TP8YV",
+      "CQV855H5FG"
+    ]
+  }
+}

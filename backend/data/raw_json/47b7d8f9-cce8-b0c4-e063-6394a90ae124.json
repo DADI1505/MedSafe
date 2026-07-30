@@ -1,0 +1,85 @@
+{
+  "spl_product_data_elements": [
+    "Complete Protection Stannous fluoride WATER TITANIUM DIOXIDE CARBOXYMETHYLCELLULOSE SODIUM COCAMIDOPROPYL BETAINE SODIUM LAURYL SULFATE GLYCERIN HYDRATED SILICA SODIUM TRIPOLYPHOSPHATE ANHYDROUS STANNOUS FLUORIDE FLUORIDE ION SACCHARIN SODIUM SACCHARIN White to off white"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Stannous fluoride 0.454% w/w (0.15% w/v fluoride ion)"
+  ],
+  "purpose": [
+    "Purpose Anticavity, Antigingivitis, Antihypersensitivity"
+  ],
+  "indications_and_usage": [
+    "Indications & Usage aids in the prevention of dental cavities * helps interfere with the harmful effects of plaque associated with gingivitis * builds increasing protection against painful sensitivity of the teeth to cold, heat, acids, sweets or contact"
+  ],
+  "warnings": [
+    "Warnings When using this product, if irritation occurs discontinue use. Stop use and ask a dentist if: the problem persists or worsens. Sensitive teeth may indicate a serious problem that may need prompt care by a dentist pain/sensitivity still persists after 4 weeks of use gingivitis, bleeding, or redness persists for more than 2 weeks you have painful or swollen gums, pus from the gum line, loose teeth, or increasing space between teeth. These may be signs or symptoms of periodontitis, a serious form of gum disease."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 12 years of age and older: apply at least a 1-inch strip of the product onto a soft bristle toothbrush brush teeth thoroughly for at least 1 minute twice a day (morning and evening), and not more than 3 times a day, or as recommended by a dentist or doctor. Make sure to brush all sensitive areas of the teeth. Minimize swallowing. Spit out after brushing. children under 12 years of age : Consult a dentist or doctor."
+  ],
+  "other_safety_information": [
+    "Other information products containing stannous fluoride may produce surface staining of the teeth. Adequate tooth brushing may prevent these stains which are not harmful or permanent and may be removed by your dentist. this product is specifically formulated to help prevent staining."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients glycerin, water, hydrated silica, pentasodium triphosphate, sodium lauryl sulfate, flavor, cellulose gum, titanium dioxide, cocamidopropyl betaine, sodium saccharin"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Target_CompleteProtection_CTN_2821062R2"
+  ],
+  "set_id": "03708e08-0189-b83d-e063-6394a90a50e6",
+  "id": "47b7d8f9-cce8-b0c4-e063-6394a90ae124",
+  "effective_time": "20260106",
+  "version": "8",
+  "openfda": {
+    "application_number": [
+      "M021"
+    ],
+    "brand_name": [
+      "Complete Protection"
+    ],
+    "generic_name": [
+      "STANNOUS FLUORIDE"
+    ],
+    "manufacturer_name": [
+      "Target"
+    ],
+    "product_ndc": [
+      "11673-366"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "DENTAL",
+      "ORAL"
+    ],
+    "substance_name": [
+      "STANNOUS FLUORIDE"
+    ],
+    "rxcui": [
+      "416784"
+    ],
+    "spl_id": [
+      "47b7d8f9-cce8-b0c4-e063-6394a90ae124"
+    ],
+    "spl_set_id": [
+      "03708e08-0189-b83d-e063-6394a90a50e6"
+    ],
+    "package_ndc": [
+      "11673-366-09",
+      "11673-366-19"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0085239929483"
+    ],
+    "unii": [
+      "3FTR44B32Q"
+    ]
+  }
+}

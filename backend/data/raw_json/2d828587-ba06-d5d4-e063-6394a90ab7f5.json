@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "Dr.Jart Premium Beauty Balm Fair-Light Zinc Oxide, Titanium Dioxide, Octinoxate, Octisalate TALC ALKYL (C12-15) BENZOATE DIPHENYLSILOXY PHENYL TRIMETHICONE NIACINAMIDE DIPROPYLENE GLYCOL DISTEARDIMONIUM HECTORITE MAGNESIUM SULFATE, UNSPECIFIED FORM DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (HARD PARTICLE) DIMETHICONE FERRIC OXIDE YELLOW WATER CYCLOMETHICONE 5 CYCLOMETHICONE 6 GLYCERIN PEG-10 DIMETHICONE (600 CST) TRIETHOXYCAPRYLYLSILANE PHENOXYETHANOL FERRIC OXIDE RED METHICONE (20 CST) FERROSOFERRIC OXIDE POLYGLYCERYL-6 POLYRICINOLEATE TRIHYDROXYSTEARIN ETHYLHEXYLGLYCERIN ADENOSINE ORANGE OIL, COLD PRESSED LIME OIL, COLD PRESSED PINE NEEDLE OIL (PINUS SYLVESTRIS) BUTYLATED HYDROXYTOLUENE EUCALYPTUS OIL BERGAMOT OIL LEMON OIL, COLD PRESSED TOCOPHEROL ALLANTOIN 1,2-HEXANEDIOL PALMITOYL TRIPEPTIDE-5 POLYSORBATE 80 PLATINUM PALMITOYL HEXAPEPTIDE-12 TITANIUM DIOXIDE TITANIUM DIOXIDE ZINC OXIDE ZINC OXIDE OCTINOXATE OCTINOXATE OCTISALATE OCTISALATE"
+  ],
+  "active_ingredient": [
+    "OCTINOXATE 6.8% OCTISALATE 4.5% TITANIUM DIOXIDE 4.8% ZINC OXIDE 5.0%"
+  ],
+  "purpose": [
+    "Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Helps prevent sunburn"
+  ],
+  "dosage_and_administration": [
+    "For sunscreen use: ■ apply liberally 15 minutes before sun exposure ■ reapply at least every two hours ■ use a water resistant sunscreen if swimming or sweating ■ Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: – limit time in the sun, especially from 10 a.m. – 2 p.m. – wear long-sleeved shirts, pants, hats and sunglasses ■ children under 6 months of age: ask a doctor"
+  ],
+  "warnings": [
+    "For external use only. Do not use on damaged or broken skin. When using this product, keep out of eyes. Rinse with water to remove. Stop using and ask a doctor if rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of the children. If product is swallowed, get medical help or contact a poison control center right away."
+  ],
+  "inactive_ingredient": [
+    "WATER, CYCLOPENTASILOXANE, CYCLOHEXASILOXANE, GLYCERIN, TITANIUM DIOXIDE(CI 77891), PEG-10 DIMETHICONE, TALC, C12-15 ALKYL BENZOATE, HEXYL LAURATE, DIPHENYLSILOXY PHENYL TRIMETHICONE, NIACINAMIDE, DIPROPYLENE GLYCOL, DISTEARDIMONIUM HECTORITE, MAGNESIUM SULFATE, DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER, DIMETHICONE, IRON OXIDES(CI 77492), TRIETHOXYCAPRYLYLSILANE, PHENOXYETHANOL, IRON OXIDES(CI 77491), METHICONE, IRON OXIDES(CI 77499), POLYGLYCERYL-6 POLYRICINOLEATE, TRIHYDROXYSTEARIN, ETHYLHEXYLGLYCERIN, ADENOSINE, CITRUS AURANTIUM DULCIS (ORANGE) PEEL OIL, CITRUS AURANTIFOLIA (LIME) OIL, PINUS SYLVESTRIS LEAF OIL, BHT, EUCALYPTUS GLOBULUS LEAF OIL, CITRUS AURANTIUM BERGAMIA (BERGAMOT) FRUIT OIL, CITRUS LIMON (LEMON) PEEL OIL, TOCOPHEROL, ALLANTOIN, 1,2-HEXANEDIOL, PALMITOYL TRIPEPTIDE-5, POLYSORBATE 80, PLATINUM POWDER, PALMITOYL HEXAPEPTIDE-12"
+  ],
+  "other_safety_information": [
+    "Protect the product in this container from excessive heat and direct sunlight"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel"
+  ],
+  "set_id": "02a82029-bdb1-cbe0-e063-6294a90a08f3",
+  "id": "2d828587-ba06-d5d4-e063-6394a90ab7f5",
+  "effective_time": "20250206",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Dr.Jart Premium Beauty Balm Fair-Light"
+    ],
+    "generic_name": [
+      "ZINC OXIDE, TITANIUM DIOXIDE, OCTINOXATE, OCTISALATE"
+    ],
+    "manufacturer_name": [
+      "Have & Be Co., Ltd."
+    ],
+    "product_ndc": [
+      "49404-301"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "TITANIUM DIOXIDE",
+      "ZINC OXIDE",
+      "OCTINOXATE",
+      "OCTISALATE"
+    ],
+    "spl_id": [
+      "2d828587-ba06-d5d4-e063-6394a90ab7f5"
+    ],
+    "spl_set_id": [
+      "02a82029-bdb1-cbe0-e063-6294a90a08f3"
+    ],
+    "package_ndc": [
+      "49404-301-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "15FIX9V2JP",
+      "SOI2LOH54Z",
+      "4Y5P7MUD51",
+      "4X49Y0596W"
+    ]
+  }
+}

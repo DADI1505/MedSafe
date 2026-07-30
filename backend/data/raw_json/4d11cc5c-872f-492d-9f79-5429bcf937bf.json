@@ -1,0 +1,81 @@
+{
+  "effective_time": "20200623",
+  "inactive_ingredient": [
+    "Inactive Ingredients 27% Alcohol."
+  ],
+  "purpose": [
+    "For relief of naturally occurring simple nervous tension."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "warnings": [
+    "Warnings Keep out of reach of children. If pregnant or breast-feeding , ask a health professional before use."
+  ],
+  "spl_product_data_elements": [
+    "Bach Original Flower Remedies SALIX ALBA WHOLE SALIX ALBA WHOLE SALIX ALBA WHOLE Alcohol"
+  ],
+  "openfda": {
+    "brand_name": [
+      "Bach Original Flower Remedies"
+    ],
+    "generic_name": [
+      "SALIX ALBA WHOLE"
+    ],
+    "manufacturer_name": [
+      "Nelson Bach USA Limited"
+    ],
+    "product_ndc": [
+      "57687-287"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SALIX ALBA WHOLE"
+    ],
+    "spl_id": [
+      "4d11cc5c-872f-492d-9f79-5429bcf937bf"
+    ],
+    "spl_set_id": [
+      "01991294-4c89-4f55-a268-02be17d5844e"
+    ],
+    "package_ndc": [
+      "57687-287-20"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0741273207818"
+    ],
+    "unii": [
+      "V8UV0R324S"
+    ]
+  },
+  "version": "3",
+  "dosage_and_administration": [
+    "Directions Take 2 drops in mouth or in water, sip at intervals. Repeat as needed."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding , ask a health professional before use."
+  ],
+  "spl_unclassified_section": [
+    "Satisfaction guaranteed, call 1-800-319-9151 if unsatisfied for complete refund.",
+    "Distributed by Nelson Bach USA, Ltd., Andover, MA 01845"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 20 mL Bottle Label Bach ® ORIGINAL FLOWER REMEDIES WILLOW Forgive & Forget * 20 mL (0.7 fl oz) HOMEOPATHIC CONTAINS 27% ALCOHOL PRINCIPAL DISPLAY PANEL - 20 mL Bottle Label"
+  ],
+  "indications_and_usage": [
+    "Indications For relief of naturally occurring simple nervous tension."
+  ],
+  "set_id": "01991294-4c89-4f55-a268-02be17d5844e",
+  "id": "4d11cc5c-872f-492d-9f79-5429bcf937bf",
+  "active_ingredient": [
+    "Active Ingredients 5 x dilution of Salix vitellina HPUS."
+  ]
+}

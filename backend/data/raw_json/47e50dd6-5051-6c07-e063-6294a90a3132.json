@@ -1,0 +1,85 @@
+{
+  "spl_product_data_elements": [
+    "Burts Bees Kids Strawberry Splash Sodium Fluoride SODIUM LAURYL GLYCOL CARBOXYLATE CARRAGEENAN TITANIUM DIOXIDE XANTHAN GUM WATER HYDRATED SILICA GLYCERIN STEVIA REBAUDIANA WHOLE SODIUM COCOYL GLUTAMATE SODIUM FLUORIDE FLUORIDE ION LAURYL GLUCOSIDE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "*Natural Flavor",
+    "DISTR. BY SUNFLOWER DISTRIBUTING LLC, CINCINNATI, OH 45202"
+  ],
+  "active_ingredient": [
+    "Active ingredient Sodium fluoride 0.243% (0.14% w/v fluoride ion)"
+  ],
+  "purpose": [
+    "Purpose Anticavity toothpaste"
+  ],
+  "indications_and_usage": [
+    "Use helps protect against cavities"
+  ],
+  "warnings": [
+    "Warnings Keep out of reach of children under 6 yrs of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children under 6 yrs of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 2 yrs. & older: brush teeth thoroughly after meals or at least twice a day or use as directed by a dentist do not swallow to minimize swallowing use a pea-sized amount in children under 6 supervise children’s brushing until good habits are established children under 2 yrs.: ask a dentist"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients glycerin, water, hydrated silica, flavor*, sodium lauryl glucose carboxylate, xanthan gum, lauryl glucoside, carrageenan, stevia rebaudiana extract, titanium dioxide"
+  ],
+  "questions": [
+    "Questions? 1-855-248-5352"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 119 g tube IMPROVED FORMULA burt's bees ® KIDS fluoride toothpaste STRARBERRY SPLASH PREVENTS CAVITIES TASTES GREAT DYE-FREE ADA Accepted American Dental Association NOT TESTED ON ANIMALS NET WT 4.7 OZ (133 g) Label"
+  ],
+  "set_id": "087b3434-2636-74ce-e063-6394a90a25ad",
+  "id": "47e50dd6-5051-6c07-e063-6294a90a3132",
+  "effective_time": "20260108",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M021"
+    ],
+    "brand_name": [
+      "Burts Bees Kids Strawberry Splash"
+    ],
+    "generic_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "manufacturer_name": [
+      "Procter & Gamble Manufacturing Company"
+    ],
+    "product_ndc": [
+      "69423-819"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "DENTAL"
+    ],
+    "substance_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "rxcui": [
+      "891775"
+    ],
+    "spl_id": [
+      "47e50dd6-5051-6c07-e063-6294a90a3132"
+    ],
+    "spl_set_id": [
+      "087b3434-2636-74ce-e063-6394a90a25ad"
+    ],
+    "package_ndc": [
+      "69423-819-47"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8ZYQ1474W7"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "SYMBIO QUENT DROPS Penicillium frequentans SODIUM CHLORIDE WATER PENICILLIUM GLABRUM PENICILLIUM GLABRUM"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: Penicillium frequentans 4X"
+  ],
+  "warnings": [
+    "WARNINGS: Do not use if the tamper evident strip is broken or removed from the base of the cap."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Take 5 – 10 drops orally, three times per day."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Purified water USP, sodium chloride"
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or call a Poison Control Center right away."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: This remedy is indicated for symptoms associated with colds; flu, inflamed nasal passages, pre- and post- influenza neuralgia, laryngitis, sinusitis and myalgias according to traditional homeopathic practice.*"
+  ],
+  "questions": [
+    "QUESTIONS: Call toll-free from US & CA +1-844-880-4881 or visit our website www.biological-health.com"
+  ],
+  "purpose": [
+    "PURPOSE: For internal indications according to traditional homeopathic practice."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast feeding... If pregnant or breast feeding, ask a health professional before use."
+  ],
+  "ask_doctor": [
+    "ASK DOCTOR: Consult a physician if symptoms worsen or last for more than 7 days."
+  ],
+  "spl_unclassified_section": [
+    "OTHER INFORMATION: Protect from light and heat. For professional distribution only. *These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration."
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: Quent 4X"
+  ],
+  "set_id": "07893f29-be66-6e93-e063-6294a90a0b4f",
+  "id": "40e5e7b1-80c7-b406-e063-6394a90ac7e2",
+  "effective_time": "20251011",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "SYMBIO QUENT DROPS"
+    ],
+    "generic_name": [
+      "PENICILLIUM FREQUENTANS"
+    ],
+    "manufacturer_name": [
+      "Symbiopathic"
+    ],
+    "product_ndc": [
+      "69710-175"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PENICILLIUM GLABRUM"
+    ],
+    "spl_id": [
+      "40e5e7b1-80c7-b406-e063-6394a90ac7e2"
+    ],
+    "spl_set_id": [
+      "07893f29-be66-6e93-e063-6294a90a0b4f"
+    ],
+    "package_ndc": [
+      "69710-175-11"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "2IN23YUE0I"
+    ]
+  }
+}

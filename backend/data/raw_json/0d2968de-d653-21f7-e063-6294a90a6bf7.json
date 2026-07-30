@@ -1,0 +1,116 @@
+{
+  "spl_product_data_elements": [
+    "Sunmark Dry Eye Relief Glycerin, Hypromellose, Polyethylene glycol 400 DEXTROSE SODIUM CHLORIDE SODIUM PHOSPHATE, MONOBASIC POTASSIUM CHLORIDE SODIUM PHOSPHATE, DIBASIC SODIUM BICARBONATE SODIUM CITRATE EDETATE DISODIUM BENZALKONIUM CHLORIDE WATER HYPROMELLOSES HYPROMELLOSE, UNSPECIFIED GLYCERIN GLYCERIN POLYETHYLENE GLYCOL 400 POLYETHYLENE GLYCOL 400"
+  ],
+  "active_ingredient": [
+    "​Active ingredients Glycerin 0.2% Hypromellose 0.2% Polyethylene glycol 1%"
+  ],
+  "purpose": [
+    "​Purpose Glycerin.....Lubricant Hypromellose.....Lubricant Polyethylene glycol 400.....Lubricant"
+  ],
+  "indications_and_usage": [
+    "​Uses for the temporary relief of burning and irritation due to dryness of the eye for protection against further irritation"
+  ],
+  "warnings": [
+    "​Warnings For external use only Do not use this product if solution changes color or becomes cloudy Stop use and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye or if the condition worsens or persists for more than 72 hours When using this product to avoid contamination, do not touch tip of container to any surface replace cap after using. Keep container tightly closed remove contact lens before using Keep out of reach of children If accidentally swallowed get medical help or contact a Poison Control Center immediately If pregnant and breast-feeding , ask a health professional before use"
+  ],
+  "do_not_use": [
+    "Do not use this product if solution changes color or becomes cloudy"
+  ],
+  "ask_doctor": [
+    "Stop use and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye or if the condition worsens or persists for more than 72 hours"
+  ],
+  "when_using": [
+    "When using this product to avoid contamination, do not touch tip of container to any surface replace cap after using. Keep container tightly closed remove contact lens before using"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If accidentally swallowed get medical help or contact a Poison Control Center immediately"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant and breast-feeding , ask a health professional before use"
+  ],
+  "dosage_and_administration": [
+    "Directions Instill 1 or 2 drops in the affected eye(s) as needed Children under 6 years of age: ask doctor"
+  ],
+  "other_safety_information": [
+    "Other information RETAIN THIS CARTON FOR FUTURE REFERENCE Store at 15 o C-30 o C (59 o -86 o F)"
+  ],
+  "inactive_ingredient": [
+    "​Inactive ingredients dextrose, sodium chloride, potassium chloride, sodium phosphate monobasic, sodium phosphate dibasic, sodium bicarbonate, sodium citrate, edetate disodium, benzalkonium chloride, purified water"
+  ],
+  "package_label_principal_display_panel": [
+    "CARTON"
+  ],
+  "set_id": "043ccc34-44ee-416a-88bc-f247774e9075",
+  "id": "0d2968de-d653-21f7-e063-6294a90a6bf7",
+  "effective_time": "20231223",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M018"
+    ],
+    "brand_name": [
+      "Sunmark Dry Eye Relief"
+    ],
+    "generic_name": [
+      "GLYCERIN, HYPROMELLOSE, POLYETHYLENE GLYCOL 400"
+    ],
+    "manufacturer_name": [
+      "Strategic Sourcing Services LLC"
+    ],
+    "product_ndc": [
+      "49348-095"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "HYPROMELLOSES",
+      "GLYCERIN",
+      "POLYETHYLENE GLYCOL 400"
+    ],
+    "rxcui": [
+      "259581"
+    ],
+    "spl_id": [
+      "0d2968de-d653-21f7-e063-6294a90a6bf7"
+    ],
+    "spl_set_id": [
+      "043ccc34-44ee-416a-88bc-f247774e9075"
+    ],
+    "package_ndc": [
+      "49348-095-29"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185370",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0009417"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Chemical Allergen [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Glycerol [CS]"
+    ],
+    "unii": [
+      "3NXW29V3WO",
+      "PDC6A3C0OX",
+      "B697894SGQ"
+    ]
+  }
+}

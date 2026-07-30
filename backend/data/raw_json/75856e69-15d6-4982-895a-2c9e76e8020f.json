@@ -1,0 +1,68 @@
+{
+  "spl_product_data_elements": [
+    "Verapamil hydrochloride Verapamil hydrochloride VERAPAMIL HYDROCHLORIDE VERAPAMIL CELLULOSE, MICROCRYSTALLINE SODIUM ALGINATE POVIDONE K30 MAGNESIUM STEARATE HYPROMELLOSE 2910 (5 MPA.S) TITANIUM DIOXIDE POLYETHYLENE GLYCOL 400 TALC FERRIC OXIDE YELLOW FERRIC OXIDE RED Beige 61;5 Verapamil hydrochloride Verapamil hydrochloride VERAPAMIL HYDROCHLORIDE VERAPAMIL CELLULOSE, MICROCRYSTALLINE SODIUM ALGINATE POVIDONE K30 MAGNESIUM STEARATE HYPROMELLOSE 2910 (5 MPA.S) TITANIUM DIOXIDE POLYETHYLENE GLYCOL 400 TALC FERRIC OXIDE YELLOW FERRIC OXIDE RED Beige 562 Verapamil hydrochloride Verapamil hydrochloride VERAPAMIL HYDROCHLORIDE VERAPAMIL CELLULOSE, MICROCRYSTALLINE SODIUM ALGINATE POVIDONE K30 MAGNESIUM STEARATE HYPROMELLOSE 2910 (5 MPA.S) TITANIUM DIOXIDE POLYETHYLENE GLYCOL 400 TALC FERRIC OXIDE YELLOW FERRIC OXIDE RED Beige Capsule 563"
+  ],
+  "spl_unclassified_section": [
+    "SPL UNCLASSIFIED"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL.PRINCIPAL DISPLAY PANEL NDC 70771-1953-1 in bottles of 100 tablets Verapamil Hydrochloride Extended-Release Tablets, USP 120 mg 100 Tablets Rx Only NDC 70771-1954-1 in bottles of 100 tablets Verapamil Hydrochloride Extended-Release Tablets, USP 180 mg 100 Tablets Rx Only NDC 70771-1955-1 in bottles of 100 tablets Verapamil Hydrochloride Extended-Release Tablets, USP 240 mg 100 Tablets Rx Only image image image"
+  ],
+  "set_id": "051392d3-8ec1-450c-8c38-791d4ef1a2db",
+  "id": "75856e69-15d6-4982-895a-2c9e76e8020f",
+  "effective_time": "20260409",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "ANDA219252"
+    ],
+    "brand_name": [
+      "Verapamil hydrochloride"
+    ],
+    "generic_name": [
+      "VERAPAMIL HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Zydus Lifesciences Limited"
+    ],
+    "product_ndc": [
+      "70771-1953",
+      "70771-1954",
+      "70771-1955"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "VERAPAMIL HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "897640",
+      "897649",
+      "897659"
+    ],
+    "spl_id": [
+      "75856e69-15d6-4982-895a-2c9e76e8020f"
+    ],
+    "spl_set_id": [
+      "051392d3-8ec1-450c-8c38-791d4ef1a2db"
+    ],
+    "package_ndc": [
+      "70771-1953-1",
+      "70771-1953-5",
+      "70771-1954-1",
+      "70771-1954-5",
+      "70771-1955-1",
+      "70771-1955-5"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "V3888OEY5R"
+    ]
+  }
+}

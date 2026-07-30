@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Natrum Oxydatum Natrum Oxydatum SODIUM OXIDE SODIUM CATION SUCROSE Natrum Oxydatum Natrum Oxydatum SUCROSE SODIUM OXIDE SODIUM CATION Natrum Oxydatum Natrum Oxydatum SODIUM OXIDE SODIUM CATION SUCROSE Natrum Oxydatum Natrum Oxydatum SODIUM OXIDE SODIUM CATION SUCROSE Natrum Oxydatum Natrum Oxydatum SUCROSE SODIUM OXIDE SODIUM CATION Natrum Oxydatum Natrum Oxydatum SUCROSE SODIUM OXIDE SODIUM CATION Natrum Oxydatum Natrum Oxydatum SUCROSE SODIUM OXIDE SODIUM CATION Natrum Oxydatum Natrum Oxydatum SUCROSE SODIUM OXIDE SODIUM CATION"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Natrum Oxydatum 6C 5g Natrum Oxydatum 6C 30g Natrum Oxydatum 6C 100g Natrum Oxydatum 12C 5g Natrum Oxydatum 12C 30g Natrum Oxydatum 12C 100g Natrum Oxydatum 30C 1g Natrum Oxydatum 30C 5g Natrum Oxydatum 30C 30g Natrum Oxydatum 30C 100g Natrum Oxydatum 100C 1g Natrum Oxydatum 100C 5g Natrum Oxydatum 100C 30g Natrum Oxydatum 100C 100g Natrum Oxydatum 200C 1g Natrum Oxydatum 200C 5g Natrum Oxydatum 200C 30g Natrum Oxydatum 200C 100g Natrum Oxydatum 500C 1g Natrum Oxydatum 500C 5g Natrum Oxydatum 500C 30g Natrum Oxydatum 500C 100g Natrum Oxydatum 1M 1g Natrum Oxydatum 1M 5g Natrum Oxydatum 1M 30g Natrum Oxydatum 1M 100g Natrum Oxydatum LM1 30g"
+  ],
+  "set_id": "0416ce03-c343-9d9e-e063-6294a90ad940",
+  "id": "0416ce03-c344-9d9e-e063-6294a90ad940",
+  "effective_time": "20230829",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Natrum Oxydatum"
+    ],
+    "generic_name": [
+      "NATRUM OXYDATUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3848",
+      "37662-3854",
+      "37662-3849",
+      "37662-3850",
+      "37662-3853",
+      "37662-3851",
+      "37662-3852",
+      "37662-3855"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SODIUM OXIDE"
+    ],
+    "spl_id": [
+      "0416ce03-c344-9d9e-e063-6294a90ad940"
+    ],
+    "spl_set_id": [
+      "0416ce03-c343-9d9e-e063-6294a90ad940"
+    ],
+    "package_ndc": [
+      "37662-3848-1",
+      "37662-3848-2",
+      "37662-3848-3",
+      "37662-3854-1",
+      "37662-3854-2",
+      "37662-3854-3",
+      "37662-3854-4",
+      "37662-3849-1",
+      "37662-3849-2",
+      "37662-3849-3",
+      "37662-3850-1",
+      "37662-3850-2",
+      "37662-3850-3",
+      "37662-3850-4",
+      "37662-3853-1",
+      "37662-3853-2",
+      "37662-3853-3",
+      "37662-3853-4",
+      "37662-3851-1",
+      "37662-3851-2",
+      "37662-3851-3",
+      "37662-3851-4",
+      "37662-3852-1",
+      "37662-3852-2",
+      "37662-3852-3",
+      "37662-3852-4",
+      "37662-3855-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3075U8R23D"
+    ]
+  }
+}

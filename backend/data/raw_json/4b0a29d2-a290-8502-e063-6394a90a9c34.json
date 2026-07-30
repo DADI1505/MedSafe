@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "Petroleum White Petrolatum PETROLATUM PETROLATUM"
+  ],
+  "active_ingredient": [
+    "Active ingredient White Petrolatum USP (100%)"
+  ],
+  "purpose": [
+    "Purpose Skin Protectant"
+  ],
+  "indications_and_usage": [
+    "Use temporarily protects minor: cuts scrapes burns temporarily protects and helps relieve chapped or cracked skin and lips helps protect from the drying effects of wind and cold weather"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "do_not_use": [
+    "Do not use on deep or punture wounds animal bites serious burns"
+  ],
+  "when_using": [
+    "When using this product do not get into eyes"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply as needed"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients None"
+  ],
+  "adverse_reactions": [
+    "Adverse Reaction Distributed by: Mckesson Corp., via SSSL Memphis, TN 38141 Money Back Guarantee www.fosterandthrive.com ©2023 McKesson Corporation *This product is not manufactured or distributed by Unilever, distributor of Vaseline ® Original Healing Jelly ® 100% White Petroleum Skin Protectant."
+  ],
+  "package_label_principal_display_panel": [
+    "Principal display panel NDC 70677-1235-2 COMPARE TO VASELINE ® ORIGINAL HEALING JELLY ® * Foster & Thrive™ Petroleum Jelly 100% White Petrolatum SKIN PROTECTANT Hypoallergenic NET WT 13 OZ (368 g) image description image description"
+  ],
+  "set_id": "043375b2-e636-4822-9e05-df2327d29986",
+  "id": "4b0a29d2-a290-8502-e063-6394a90a9c34",
+  "effective_time": "20260217",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Petroleum"
+    ],
+    "generic_name": [
+      "WHITE PETROLATUM"
+    ],
+    "manufacturer_name": [
+      "Strategic Sourcing Services LLC"
+    ],
+    "product_ndc": [
+      "70677-1235"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "PETROLATUM"
+    ],
+    "rxcui": [
+      "204754"
+    ],
+    "spl_id": [
+      "4b0a29d2-a290-8502-e063-6394a90a9c34"
+    ],
+    "spl_set_id": [
+      "043375b2-e636-4822-9e05-df2327d29986"
+    ],
+    "package_ndc": [
+      "70677-1235-1",
+      "70677-1235-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "4T6H12BN9U"
+    ]
+  }
+}

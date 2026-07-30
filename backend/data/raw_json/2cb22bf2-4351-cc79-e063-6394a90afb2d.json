@@ -1,0 +1,94 @@
+{
+  "spl_product_data_elements": [
+    "Muscle Therapy Methyl Salicylate, Camphor .ALPHA.-TOCOPHEROL YELLOW WAX OLIVE OIL ROSEMARY OIL METHYL SALICYLATE SALICYLIC ACID CAMPHOR (NATURAL) CAMPHOR (NATURAL) JOJOBA OIL SHEA BUTTER COCONUT OIL"
+  ],
+  "active_ingredient": [
+    "Active ingredients Organic Methyl Salicylate 10% Organic Camphor 4.0%"
+  ],
+  "purpose": [
+    "Purpose Organic Methyl Salicylate 10%.....................Topical Analgesic Organic Camphor 4.0%................................Topical Analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses Temporarily relieves minor aches and pains of muscles and joints associated with simple backache, strains and bruises."
+  ],
+  "warnings": [
+    "Warnings For external use only When using this product avoid contact with eyes do not apply to wounds or damaged skin Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days or clear up and occur again within a few days If pregnant or breastfeeding , ask a health professional before use. Keep this out of the reach of children. If swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "when_using": [
+    "When using this product avoid contact with eyes do not apply to wounds or damaged skin"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days or clear up and occur again within a few days"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding , ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep this out of the reach of children. If swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults: gently massage salve into affected area and apply wet heat use no more than three times per day Children under 2 years of age: Ask a doctor."
+  ],
+  "storage_and_handling": [
+    "Other information Tamper-evident. Ensure seal is intact before use."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Organic Beeswax, Organic Coconut Oil, Organic Jojoba Oil, Organic Olive Oil, Organic Rosemary Oil, Organic Shea Butter, Vitamin E"
+  ],
+  "package_label_principal_display_panel": [
+    "maple organics Muscle Pain Relief Temporary Muscle Pain Relief Balm Net Wt. 2 oz / 56 g 1"
+  ],
+  "set_id": "0890a683-9a66-fdbd-e063-6294a90ae526",
+  "id": "2cb22bf2-4351-cc79-e063-6394a90afb2d",
+  "effective_time": "20250127",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Muscle Therapy"
+    ],
+    "generic_name": [
+      "METHYL SALICYLATE, CAMPHOR"
+    ],
+    "manufacturer_name": [
+      "Everlaan Organics Inc"
+    ],
+    "product_ndc": [
+      "83670-203"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "METHYL SALICYLATE",
+      "CAMPHOR (NATURAL)"
+    ],
+    "rxcui": [
+      "2668189"
+    ],
+    "spl_id": [
+      "2cb22bf2-4351-cc79-e063-6394a90afb2d"
+    ],
+    "spl_set_id": [
+      "0890a683-9a66-fdbd-e063-6294a90ae526"
+    ],
+    "package_ndc": [
+      "83670-203-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0628176763224"
+    ],
+    "unii": [
+      "LAV5U5022Y",
+      "N20HL7Q941"
+    ]
+  }
+}

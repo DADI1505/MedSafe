@@ -1,0 +1,94 @@
+{
+  "spl_product_data_elements": [
+    "CLARINS UV PLUS ANTI-POLLUTION BROAD SPECTRUM SPF 50 NON-TINTED Sunscreen Multi-Protection HOMOSALATE, OCTOCRYLENE, OXYBENZONE, TITANIUM DIOXIDE WATER DIMETHICONE ALCOHOL ALUMINUM HYDROXIDE STEARIC ACID NYLON-12 PEG-12 DIMETHICONE (300 CST) SODIUM CHLORIDE PHENOXYETHANOL PEG/PPG-18/18 DIMETHICONE GLYCERIN ETHYLHEXYLGLYCERIN .ALPHA.-TOCOPHEROL ACETATE EDETATE DISODIUM BUTYLENE GLYCOL HYALURONATE SODIUM THERMUS THERMOPHILUS LYSATE LAPSANA COMMUNIS FLOWERING TOP RIBES NIGRUM FLOWER BUD POTASSIUM SORBATE CITRIC ACID MONOHYDRATE GREEN TEA LEAF MUSKMELON SODIUM LAURYL SULFATE HOMOSALATE HOMOSALATE OCTOCRYLENE OCTOCRYLENE OXYBENZONE OXYBENZONE TITANIUM DIOXIDE TITANIUM DIOXIDE"
+  ],
+  "spl_unclassified_section": [
+    "Drug facts:",
+    "Other information: protect this product from excessive heat and direct sun",
+    "Questions or comments? Call 1-866-325-2746 Monday-Friday 9am to 6:30pm ET"
+  ],
+  "active_ingredient": [
+    "Active Ingredient HOMOSALATE 4% OCTOCRYLENE 4% OXYBENZONE 1.5% TITANIUM DIOXIDE 10.9% Purpose Sunscreen"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses: helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "Warnings: For external use only. Do not use On damaged or broken skin. When using this product: keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use On damaged or broken skin."
+  ],
+  "when_using": [
+    "When using this product: keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions: apply liberally 15 minutes before sun exposure Apply to all skin exposed to the sun children under 6 months: Ask a doctor Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with broad spectrum SPF of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. – 2 p.m. wear long-sleeved shirts, pants, hats and sunglasses reapply at least every 2 hours use a water resistant sunscreen if swimming or sweating"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients AQUA/WATER/EAU. DIMETHICONE. ALCOHOL. POLYGLYCERYL-3 POLYDIMETHYLSILOXYETHYL DIMETHICONE. ALUMINUM HYDROXIDE. STEARIC ACID. NYLON-12.PEG-12 DIMETHICONE. SODIUM. CHLORIDE. PHENOXYETHANOL. PARFUM/ FRAGRANCE. PEG/PPG-18/18 DIMETHICONE. GLYCERIN. ETHYLHEXYLGLYCERIN. TOCOPHERYL ACETATE. DISODIUM EDTA. SANICULA EUROPAEA EXTRACT. BUTYLENE GLYCOL. SODIUM HYALURONATE. HYDROXYPROPYLTRIMONIUM MALTODEXTRIN CROSSPOLYMER. THERMUS THERMOPHILLUS FERMENT. LAPSANA COMMUNIS FLOWER/LEAF/STEM EXTRACT. RIBES NIGRUM (BLACK CURRANT) BUD EXTRACT. POTASSIUM SORBATE. CITRIC ACID. CAMELLIA SINENSIS LEAF EXTRACT. CUCUMIS MELO (MELON) FRUIT EXTRACT. SODIUM LAURYL SULFATE. [S2705A]"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Outer Package0 Inner Package0"
+  ],
+  "set_id": "0695e3a4-0e8f-419e-b128-9b02bdb8b02a",
+  "id": "076d3c5b-8dd9-cf0e-e063-6294a90aa0e7",
+  "effective_time": "20231011",
+  "version": "8",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "CLARINS UV PLUS ANTI-POLLUTION BROAD SPECTRUM SPF 50 NON-TINTED Sunscreen Multi-Protection"
+    ],
+    "generic_name": [
+      "HOMOSALATE, OCTOCRYLENE, OXYBENZONE, TITANIUM DIOXIDE"
+    ],
+    "manufacturer_name": [
+      "Laboratoires Clarins"
+    ],
+    "product_ndc": [
+      "58668-2951"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "HOMOSALATE",
+      "OCTOCRYLENE",
+      "OXYBENZONE",
+      "TITANIUM DIOXIDE"
+    ],
+    "spl_id": [
+      "076d3c5b-8dd9-cf0e-e063-6294a90aa0e7"
+    ],
+    "spl_set_id": [
+      "0695e3a4-0e8f-419e-b128-9b02bdb8b02a"
+    ],
+    "package_ndc": [
+      "58668-2951-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "V06SV4M95S",
+      "5A68WGF6WM",
+      "95OOS7VE0Y",
+      "15FIX9V2JP"
+    ]
+  }
+}

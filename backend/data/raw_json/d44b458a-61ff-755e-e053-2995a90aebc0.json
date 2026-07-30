@@ -1,0 +1,104 @@
+{
+  "spl_product_data_elements": [
+    "OHM Menopause Ammonium Carbonicum, Amyl Nitrosum, Cimicifuga Racemosa, Glonoinum, Lachesis Mutus, Sanguinaria, Canadensis. ALCOHOL WATER GLYCERIN AMMONIUM CARBONATE AMMONIUM CATION AMYL NITRITE AMYL NITRITE BLACK COHOSH BLACK COHOSH NITROGLYCERIN NITROGLYCERIN LACHESIS MUTA VENOM LACHESIS MUTA VENOM SANGUINARIA CANADENSIS ROOT SANGUINARIA CANADENSIS ROOT"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS (HPUS*): Equal amounts of: Ammonium Carbonicum 12C, Amyl Nitrosum 6X, Cimicifuga Racemosa 3X, Glonoinum 12X, Lachesis Mutus 12X, Sanguinaria Canadensis 4X. *The letters \"HPUS\" indicate that the components in this product are officially monographed in the Homeopathic Pharmacopeia of the United States."
+  ],
+  "indications_and_usage": [
+    "USES: Temporarily relieves symptoms caused by common menopause, hormonal imbalances. ** ​This statement has not been evaluated by the FDA. It is based on documented Homeopathic Materia Medica."
+  ],
+  "warnings": [
+    "WARNINGS: IF PREGNANT OR BREAST-FEEDING, ask a health professional before use. If symptoms worsen or persist for more than a week, discontinue use and contact a doctor ​KEEP OUT OF REACH OF CHILDREN."
+  ],
+  "keep_out_of_reach_of_children": [
+    "​KEEP OUT OF REACH OF CHILDREN."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Shake 10 times before use. Hold close to mouth and spray 3 times directly under the tongue 2-3 times a day, or as directed by a health care professional. Not for use by children."
+  ],
+  "other_safety_information": [
+    "Do not use if cap seal is broken."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Organic Alcohol 15% (Non-GMO, Kosher Certified, Corn, Gluten, Allergen Free), Purified Water, Vegetable Glycerin 15%."
+  ],
+  "questions": [
+    "Mfg. By: OHM PHARMA, INC. Mineral Wells, TX 76067 www.ohmpharma.com"
+  ],
+  "package_label_principal_display_panel": [
+    "HOMEOPATHIC MEDICINE NDC:66096-156-05 MENOPAUSE Natural - Safe - Effective No Side Effects 2 fl oz (59mL) / 15% Alcohol PRODUCT OF USA 2oz bottle label Temporarily relieves symptoms caused by common menopause."
+  ],
+  "purpose": [
+    "Temporarily relieves symptoms caused by common menopause."
+  ],
+  "set_id": "08dcc379-6d64-41b8-bf67-cab6031dcf72",
+  "id": "d44b458a-61ff-755e-e053-2995a90aebc0",
+  "effective_time": "20211229",
+  "version": "4",
+  "openfda": {
+    "brand_name": [
+      "OHM Menopause"
+    ],
+    "generic_name": [
+      "AMMONIUM CARBONICUM, AMYL NITROSUM, CIMICIFUGA RACEMOSA, GLONOINUM, LACHESIS MUTUS, SANGUINARIA, CANADENSIS."
+    ],
+    "manufacturer_name": [
+      "OHM PHARMA INC."
+    ],
+    "product_ndc": [
+      "66096-156"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "AMMONIUM CARBONATE",
+      "AMYL NITRITE",
+      "BLACK COHOSH",
+      "NITROGLYCERIN",
+      "LACHESIS MUTA VENOM",
+      "SANGUINARIA CANADENSIS ROOT"
+    ],
+    "spl_id": [
+      "d44b458a-61ff-755e-e053-2995a90aebc0"
+    ],
+    "spl_set_id": [
+      "08dcc379-6d64-41b8-bf67-cab6031dcf72"
+    ],
+    "package_ndc": [
+      "66096-156-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0366096156053"
+    ],
+    "nui": [
+      "N0000175415",
+      "M0014874",
+      "N0000009909"
+    ],
+    "pharm_class_epc": [
+      "Nitrate Vasodilator [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Nitrates [CS]"
+    ],
+    "pharm_class_pe": [
+      "Vasodilation [PE]"
+    ],
+    "unii": [
+      "NJ5VT0FKLJ",
+      "22T8Z09XAK",
+      "K73E24S6X9",
+      "G59M7S0WS3",
+      "VSW71SS07I",
+      "N9288CD508"
+    ]
+  }
+}

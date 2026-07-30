@@ -1,0 +1,97 @@
+{
+  "spl_product_data_elements": [
+    "Lancome Paris Renergie HPN 300 Peptide Broad Spectrum SPF 25 Sunscreen Avobenzone, Octisalate and Octocrylene Avobenzone Avobenzone Octisalate Octisalate Octocrylene Octocrylene WATER GLYCERIN SILICON DIOXIDE DIMETHICONE ISONONYL ISONONANOATE PROPANEDIOL BIS-PEG-18 METHYL ETHER DIMETHYL SILANE POLYGLYCERYL-6 DISTEARATE HYDROLYZED JOJOBA ESTERS (ACID FORM) TOCOPHEROL MEADOWFOAM SEED OIL CYCLODEXTRINS PEA ADENOSINE CAPRYLOYL SALICYLIC ACID CITRIC ACID MONOHYDRATE EDETATE DISODIUM HYDROXYACETOPHENONE SCUTELLARIA BAICALENSIS ROOT HYALURONATE SODIUM SODIUM HYDROXIDE TITANIUM DIOXIDE ACACIA DECURRENS FLOWER WAX CAPRYLYL GLYCOL CETYL ALCOHOL DISODIUM STEAROYL GLUTAMATE HELIANTHUS ANNUUS SEED WAX POLYGLYCERIN-3 XANTHAN GUM DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (HARD PARTICLE) DIMETHICONOL (70 CST) BENZYL ALCOHOL GERANIOL LIMONENE, (+)- D&C RED NO. 33 PHENOXYETHANOL SODIUM BENZOATE"
+  ],
+  "active_ingredient": [
+    "Active ingredients Avobenzone 3% Octisalate 5% Octocrylene 7%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin"
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions For sunscreen use: ● apply generously and evenly 15 minutes before sun exposure ● reapply at least every 2 hours ● use a water resistant sunscreen if swimming or sweating ● Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: ● limit time in the sun, especially from 10 a.m. – 2 p.m. ● wear long-sleeved shirts, pants, hats, and sunglasses ● children under 6 months of age: Ask a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information protect the product in this container from excessive heat and direct sun"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, glycerin, silica, dimethicone, isononyl isononanoate, propanediol, bis-PEG-18 methyl ether dimethyl silane, polyglyceryl-6 distearate, jojoba esters, tocopherol, limnanthes alba (meadowfoam) seed oil, cyclodextrin, hydrolyzed lupine protein, pisum sativum (pea) extract, adenosine, capryloyl salicylic acid, citric acid, disodium EDTA, hydrolyzed linseed extract, hydroxyacetophenone, scutellaria baicalensis root extract, sodium hyaluronate, sodium hydroxide, titanium dioxide, acacia decurrens flower wax, ammonium acryloyldimethyltaurate/steareth-25 methacrylate crosspolymer, caprylyl glycol, cetyl alcohol, disodium stearoyl glutamate, helianthus annuus (sunflower) seed wax, polyglycerin-3, polyglyceryl-3 beeswax, xanthan gum, dimethicone/vinyl dimethicone crosspolymer, dimethiconol, benzyl alcohol, geraniol, limonene, red 33, phenoxyethanol, sodium benzoate, fragrance"
+  ],
+  "questions": [
+    "Questions or comments? 1-800-LANCOME (1-800-526-2663) Monday - Friday (9 a.m. - 5 p.m. EST)"
+  ],
+  "package_label_principal_display_panel": [
+    "image of a carton"
+  ],
+  "set_id": "01c9c677-9da1-47d9-8b7e-b21f8450c5c3",
+  "id": "17ecc368-3fe5-4c57-aa9a-c660dd6e4959",
+  "effective_time": "20240626",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Lancome Paris Renergie HPN 300 Peptide Broad Spectrum SPF 25 Sunscreen"
+    ],
+    "generic_name": [
+      "AVOBENZONE, OCTISALATE AND OCTOCRYLENE"
+    ],
+    "manufacturer_name": [
+      "SICOS ET CIE"
+    ],
+    "product_ndc": [
+      "51150-240"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "AVOBENZONE",
+      "OCTISALATE",
+      "OCTOCRYLENE"
+    ],
+    "spl_id": [
+      "17ecc368-3fe5-4c57-aa9a-c660dd6e4959"
+    ],
+    "spl_set_id": [
+      "01c9c677-9da1-47d9-8b7e-b21f8450c5c3"
+    ],
+    "package_ndc": [
+      "51150-240-01",
+      "51150-240-02",
+      "51150-240-03",
+      "51150-240-04",
+      "51150-240-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "G63QQF2NOX",
+      "4X49Y0596W",
+      "5A68WGF6WM"
+    ]
+  }
+}

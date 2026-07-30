@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Tagrid Arnica Bruise Arnica Montana 1X HPUS (7%) Arnica Montana 1X HPUS (7%) WATER SHEA BUTTER TOCOPHEROL TETRAHEXYLDECYL ASCORBATE ALLANTOIN ALOE BARBADENSIS LEAF JUICE CALENDULA OFFICINALIS FLOWER CENTELLA ASIATICA TRITERPENOIDS PURSLANE COCONUT OIL PHYTONADIONE ESCIN Arnica Montana Arnica Montana"
+  ],
+  "active_ingredient": [
+    "Active ingredient: Arnica Montana 1X HPUS (7%)"
+  ],
+  "purpose": [
+    "Purpuse:Bruise Relief. \"HPUS\" indicates that this ingredient is officially monographed in the Homeopathic Pharmacopoeia of the United States."
+  ],
+  "indications_and_usage": [
+    "Uses: Temporarily relieves pain, swelling, and discoloration associated with: Bruises Minor falls Sports injuries Muscle soreness"
+  ],
+  "warnings": [
+    "For external use only Do not apply to broken skin or open wounds. Avoid contact with eyes. When using this product Avoid contact with eyes. Stop use and ask a doctor if Condition worsens Symptoms persist for more than 7 days or clear up and occur again within a few days. If pregnant or breast-feeding Ask a health professional before use Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not apply to broken skin or open wounds. Avoid contact with eyes."
+  ],
+  "when_using": [
+    "When using this product Avoid contact with eyes."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if Condition worsens Symptoms persist for more than 7 days or clear up and occur again within a few days."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding Ask a health professional before use"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions: Apply a thin layer to the affected area 2 to 3 times daily. Gently massage until absorbed. Use as soon as possible after minor injury."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients: Purified Water Butyrospermum Parkii (Shea Butter) Tocopherol (Vitamin E) Tetrahexyldecyl Ascorbate (Vitamin C) Allantoin Aloe Barbadensis Leaf Juice Calendula Officinalis Flower Extract Centella Asiatica Extract Portulaca Oleracea Extract Cocos Nucifera (Coconut) Oil Phytonadione (Vitamin K) Escin"
+  ],
+  "questions": [
+    "Questions or comments? Contact us at support@tagridstore.com"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL.PRINCIPAL DISPLAY PANEL arnica.jpg arnica-jar arnica-can arnica-can ARNICA-can-label"
+  ],
+  "set_id": "0174092f-e10f-4c93-a677-facbdcf1a6ea",
+  "id": "f1482201-11a9-455f-9a47-891b8954c8e2",
+  "effective_time": "20250719",
+  "version": "6",
+  "openfda": {
+    "brand_name": [
+      "Tagrid Arnica Bruise Arnica Montana 1X HPUS (7%)"
+    ],
+    "generic_name": [
+      "ARNICA MONTANA 1X HPUS (7%)"
+    ],
+    "manufacturer_name": [
+      "TAGRID LLC"
+    ],
+    "product_ndc": [
+      "85384-0015"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ARNICA MONTANA"
+    ],
+    "spl_id": [
+      "f1482201-11a9-455f-9a47-891b8954c8e2"
+    ],
+    "spl_set_id": [
+      "0174092f-e10f-4c93-a677-facbdcf1a6ea"
+    ],
+    "package_ndc": [
+      "85384-0015-1",
+      "85384-0015-2",
+      "85384-0015-3",
+      "85384-0015-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O80TY208ZW"
+    ]
+  }
+}

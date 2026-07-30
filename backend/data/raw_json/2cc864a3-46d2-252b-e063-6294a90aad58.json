@@ -1,0 +1,77 @@
+{
+  "spl_product_data_elements": [
+    "WHP Stress Arsenic Trioxide - Dibasic Potassium Phosphate - Passiflora Incarnata Flowering Top - Delphinium Staphisagria Seed LACTOSE SUCROSE DELPHINIUM STAPHISAGRIA SEED DELPHINIUM STAPHISAGRIA SEED POTASSIUM PHOSPHATE, DIBASIC PHOSPHATE ION PASSIFLORA INCARNATA FLOWERING TOP PASSIFLORA INCARNATA FLOWERING TOP ARSENIC TRIOXIDE ARSENIC CATION (3+) white"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS ARSENICUM ALB 6C KALI PHOS 6C PASSIFLORA 6C STAPHYSAG 6C"
+  ],
+  "purpose": [
+    "USES Temporarily relieves fear and worrying often brought on by stress."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS ARSENICUM ALB Vomiting KALI PHOS Irritability PASSIFLORA Sleeplessness STAPHYSAG Anger"
+  ],
+  "warnings": [
+    "STOP USE AND ASK DOCTOR If symptoms persist or recur, discontinue use. If pregnant or nursing, consult a licensed practitioner before using this product."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Directions: Adults and children 12 years and older: 2 pills dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children 4 years to under 12 years: 1 pill dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children under 4 years: Consult a licensed practitioner."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Sucrose/Lactose"
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN As with all medications, keep out of reach of children."
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL WHP Stress label WHP Stress box"
+  ],
+  "set_id": "06e4315a-2ffa-a0f8-e063-6394a90a7fa0",
+  "id": "2cc864a3-46d2-252b-e063-6294a90aad58",
+  "effective_time": "20250128",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "WHP Stress"
+    ],
+    "generic_name": [
+      "ARSENIC TRIOXIDE - DIBASIC POTASSIUM PHOSPHATE - PASSIFLORA INCARNATA FLOWERING TOP - DELPHINIUM STAPHISAGRIA SEED"
+    ],
+    "manufacturer_name": [
+      "Washington Homeopathic Products"
+    ],
+    "product_ndc": [
+      "71919-809"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DELPHINIUM STAPHISAGRIA SEED",
+      "POTASSIUM PHOSPHATE, DIBASIC",
+      "PASSIFLORA INCARNATA FLOWERING TOP",
+      "ARSENIC TRIOXIDE"
+    ],
+    "spl_id": [
+      "2cc864a3-46d2-252b-e063-6294a90aad58"
+    ],
+    "spl_set_id": [
+      "06e4315a-2ffa-a0f8-e063-6394a90a7fa0"
+    ],
+    "package_ndc": [
+      "71919-809-14"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "00543AP1JV",
+      "CI71S98N1Z",
+      "CLF5YFS11O",
+      "S7V92P67HO"
+    ]
+  }
+}

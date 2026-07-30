@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "Jabonito Kids Green Apple Liquid Benzalkonium Chloride 0.13% ANHYDROUS CITRIC ACID SODIUM LAURYL ETHOXYSULFATE SODIUM CHLORIDE METHYLCHLOROISOTHIAZOLINONE COCO MONOETHANOLAMIDE BENZALKONIUM CHLORIDE BENZALKONIUM FD&C BLUE NO. 1 FD&C YELLOW NO. 5 METHYLISOTHIAZOLINONE PHENOXYETHANOL WATER"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Benzalkonium Chloride 0.13%"
+  ],
+  "purpose": [
+    "Purpose Antibacterial"
+  ],
+  "indications_and_usage": [
+    "Uses For washing to decrease bacteria on the skin"
+  ],
+  "warnings": [
+    "Warnings For External Use only. When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Stop use and ask a doctor irritation or redness develops - condition persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "when_using": [
+    "When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor irritation or redness develops - condition persists for more than 72 hours."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "dosage_and_administration": [
+    "Directions Wet hands. Apply palmful to hands. Scrub thoroughly. Rinse thoroughly."
+  ],
+  "other_safety_information": [
+    "Other Information Store between 15-30C (59-86F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Aqua, Sodium Lauryl Ether Sulfate, Sodium Chloride, Cocamide MEA, Phenoxyethanol, Fragrance (Parfum), Methylchloroisothiazolinone/Methylisothiazolinone, Citric Acid, FD&C Yellow No. 5, FD&C Blue No. 1."
+  ],
+  "package_label_principal_display_panel": [
+    "Jabonito Kids Green Apple Liquid Hand Soap label"
+  ],
+  "set_id": "021bc525-3ebe-efc2-e063-6394a90a3fe3",
+  "id": "284c3a38-ba46-f1c5-e063-6394a90a7855",
+  "effective_time": "20241202",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Jabonito Kids Green Apple Liquid"
+    ],
+    "generic_name": [
+      "BENZALKONIUM CHLORIDE 0.13%"
+    ],
+    "manufacturer_name": [
+      "Industria La Popular, S.A."
+    ],
+    "product_ndc": [
+      "62476-009"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "rxcui": [
+      "1046593"
+    ],
+    "spl_id": [
+      "284c3a38-ba46-f1c5-e063-6394a90a7855"
+    ],
+    "spl_set_id": [
+      "021bc525-3ebe-efc2-e063-6394a90a3fe3"
+    ],
+    "package_ndc": [
+      "62476-009-08"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "F5UM2KM3W7"
+    ]
+  }
+}

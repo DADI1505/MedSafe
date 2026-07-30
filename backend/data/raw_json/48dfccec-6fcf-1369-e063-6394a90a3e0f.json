@@ -1,0 +1,77 @@
+{
+  "spl_product_data_elements": [
+    "Dermatouch Acnecare Facial Scrub salicylic acid CETEARYL GLUCOSIDE OLIVE OIL SALICYLIC ACID SALICYLIC ACID SUCROSE CAPRYLIC/CAPRIC/LAURIC TRIGLYCERIDE DECYL GLUCOSIDE GLYCERIN COCOS NUCIFERA WHOLE"
+  ],
+  "active_ingredient": [
+    "Active ingredient Purpose Salicylic Acid (1.0%)..........Acne Treatment"
+  ],
+  "purpose": [
+    "Purpose Acne Treatment"
+  ],
+  "indications_and_usage": [
+    "For treatment of acne"
+  ],
+  "warnings": [
+    "Warnings For external use only. Using other topical acne medications at the same time or immediately following use of this product may increase dryness or irritation of the skin. If this occurs, only one medication should be used unless directed by a doctor. Sensitivity Test for a New User. Apply product sparingly to one or two small affected areas during the first 3 days. If no discomfort occurs, follow the steps stated in directions."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of accidental ingestion, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product • Skin irritation and dryness is more likely to occur if you use another topical acne medication while using this product. If irritation occurs, use only one topical acne medication at a time."
+  ],
+  "dosage_and_administration": [
+    "Directions: Wet face. Apply to hands, add water and work into a lather. Massage face gently. Rinse thoroughly. Because excessive drying of the skin may occur, start with one application daily, then gradually increase to two or three times daily if needed or as directed by a doctor..If bothersome dryness of peeling occurs, reduce application to once a day or every other day."
+  ],
+  "inactive_ingredient": [
+    "Other Ingredients: Sucrose, Caprylic/Capric Triglyceride, Decyl Glucoside, Glycerin, Cocos Nucifera (Coconut) Oil, Cetearyl Alcohol, Cetearyl Glucoside, Olea Europaea (Olive) Fruit Oil, Citrus Limon (Lemon) Peel Oil, Tapioca Starch, Aqua, Tocopheryl Acetate (Vitamin E), Citric Acid, Lactic Acid, Malic Acid, Gluconic Acid, Ascorbic Acid (Vitamin C), Glycolic Acid, Tartaric Acid, Benzyl Alcohol, Fragrance."
+  ],
+  "package_label_principal_display_panel": [
+    "AcnecareScrubFDA"
+  ],
+  "set_id": "025d4242-9e7d-9ba1-e063-6294a90af752",
+  "id": "48dfccec-6fcf-1369-e063-6394a90a3e0f",
+  "effective_time": "20260121",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "Dermatouch Acnecare Facial Scrub"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID"
+    ],
+    "manufacturer_name": [
+      "Spa de Soleil"
+    ],
+    "product_ndc": [
+      "68062-2255"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "spl_id": [
+      "48dfccec-6fcf-1369-e063-6394a90a3e0f"
+    ],
+    "spl_set_id": [
+      "025d4242-9e7d-9ba1-e063-6294a90af752"
+    ],
+    "package_ndc": [
+      "68062-2255-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

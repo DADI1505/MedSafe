@@ -1,0 +1,124 @@
+{
+  "spl_product_data_elements": [
+    "Triple Flu Defense Aconitum Napellus, Anas Barbariae, Hepatis ET Cordis Extractum, Bryonia (Alba), Eupatorium Perfoliatum, Gelsemium Sempervirens, Influenzinum, Ipecacuanha, Nux Vomica, Phosphorus, Phytolacca Decandra, Sanguinaria Canadensis, Sticta Pulmonaria ACONITUM NAPELLUS WHOLE ACONITUM NAPELLUS CAIRINA MOSCHATA HEART/LIVER AUTOLYSATE CAIRINA MOSCHATA HEART/LIVER AUTOLYSATE BRYONIA ALBA ROOT BRYONIA ALBA ROOT EUPATORIUM PERFOLIATUM FLOWERING TOP EUPATORIUM PERFOLIATUM FLOWERING TOP GELSEMIUM SEMPERVIRENS ROOT GELSEMIUM SEMPERVIRENS ROOT INFLUENZA A VIRUS WHOLE INFLUENZA A VIRUS WHOLE INFLUENZA A VIRUS A/DARWIN/6/2021 (H3N2) WHOLE INFLUENZA A VIRUS A/DARWIN/6/2021 (H3N2) WHOLE INFLUENZA B VIRUS B/AUSTRIA/1359417/2021 BVR-26 WHOLE INFLUENZA B VIRUS B/AUSTRIA/1359417/2021 BVR-26 WHOLE INFLUENZA B VIRUS B/PHUKET/3073/2013 BVR-1B WHOLE INFLUENZA B VIRUS B/PHUKET/3073/2013 BVR-1B WHOLE IPECAC IPECAC STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED PHOSPHORUS PHOSPHORUS PHYTOLACCA AMERICANA ROOT PHYTOLACCA AMERICANA ROOT SANGUINARIA CANADENSIS ROOT SANGUINARIA CANADENSIS ROOT LOBARIA PULMONARIA LOBARIA PULMONARIA WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: Aconitum Napellus 30C, Anas Barbariae 30C, Bryonia 30C, Eupatorium Perfoliatum 30C, Gelsemium Sempervirens 30C, Influenzinum 30C, Ipecacuanha 30C, Nux Vomica 30C, Phosphorus 30C, Phytolacca Decandra 30C, Sanguinaria Canadensis 30C, Sticta Pulmonaria 30C."
+  ],
+  "purpose": [
+    "PURPOSE: Aconitum Napellus – dizziness, fever, Anas Barbariae – general flu symptoms, Bryonia – body aches, sinus pain, Eupatorium Perfoliatum – body aches, couch, Gelsemium Sempervirens – chills, fever, fatigue, Influenzinum – general flu symptoms, Ipecacuanha – nausea, vomiting, Nux Vomica – headache, nausea, Phosphorus – congestion, fatigue, Phytolacca Decandra – congestion, sore throat, Sanguinaria Canadensis – diarrhea, headache, Sticta Pulmonaria – cough, sore throat* *This product has not been tested or the uses evaluated by the FDA."
+  ],
+  "indications_and_usage": [
+    "USES: Reduce duration and severity of flu-like symptoms.* *This product has not been tested or the uses evaluated by the FDA."
+  ],
+  "warnings": [
+    "WARNINGS: Sore throat warning: Severe or persistent sore throat or sore throat accompanied by high fever, headache, nausea, and vomiting may be serious. Consult physician promptly. Do not use more that 2 days or administer to children under 3 years of age unless directed by physician. If symptoms worsen or persist for more than 3 days consult a doctor. If Pregnant or breastfeeding consult a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Use only if safety seal is intact. Store at room temperature."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: At first sign of the flu take 3 times per day for symptom relief and once per week for maintenance. Place drops under tongue or mix with 1oz of water. Adults: 20 drops per dose. Children: Age 2+: 2 drops for every 10 pounds of body weight up to 20 drops per dose. Best taken away from food."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Organic ethanol 20% (v/v), USP purified water"
+  ],
+  "questions": [
+    "QUESTIONS: Nenningers Naturals Setauket, NY 11733 (631) 444-5565 or info@NenningersNaturals.com www.TripleFluDefense.com"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: NDC 42731-082-01 Nenningers Naturals TRIPLE FLU DEFENSE PURE HOMEOPATHIC 1 Fluid Oz (30 ml) TRIPLE FLU DEFENSE"
+  ],
+  "set_id": "04889636-6e05-4d9c-aaba-194251adfa31",
+  "id": "b7302af9-48c6-413a-b0c9-dd7a468c9f3a",
+  "effective_time": "20260506",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "Triple Flu Defense"
+    ],
+    "generic_name": [
+      "ACONITUM NAPELLUS, ANAS BARBARIAE, HEPATIS ET CORDIS EXTRACTUM, BRYONIA (ALBA), EUPATORIUM PERFOLIATUM, GELSEMIUM SEMPERVIRENS, INFLUENZINUM, IPECACUANHA, NUX VOMICA, PHOSPHORUS, PHYTOLACCA DECANDRA, SANGUINARIA CANADENSIS, STICTA PULMONARIA"
+    ],
+    "manufacturer_name": [
+      "Nenningers Naturals"
+    ],
+    "product_ndc": [
+      "42731-082"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACONITUM NAPELLUS WHOLE",
+      "CAIRINA MOSCHATA HEART/LIVER AUTOLYSATE",
+      "BRYONIA ALBA ROOT",
+      "EUPATORIUM PERFOLIATUM FLOWERING TOP",
+      "GELSEMIUM SEMPERVIRENS ROOT",
+      "INFLUENZA A VIRUS WHOLE",
+      "INFLUENZA A VIRUS A/DARWIN/6/2021 (H3N2) WHOLE",
+      "INFLUENZA B VIRUS B/AUSTRIA/1359417/2021 BVR-26 WHOLE",
+      "INFLUENZA B VIRUS B/PHUKET/3073/2013 BVR-1B WHOLE",
+      "IPECAC",
+      "STRYCHNOS NUX-VOMICA SEED",
+      "PHOSPHORUS",
+      "PHYTOLACCA AMERICANA ROOT",
+      "SANGUINARIA CANADENSIS ROOT",
+      "LOBARIA PULMONARIA"
+    ],
+    "spl_id": [
+      "b7302af9-48c6-413a-b0c9-dd7a468c9f3a"
+    ],
+    "spl_set_id": [
+      "04889636-6e05-4d9c-aaba-194251adfa31"
+    ],
+    "package_ndc": [
+      "42731-082-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0016962",
+      "M0516536"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Plant Proteins [CS]",
+      "Seed Storage Proteins [CS]"
+    ],
+    "unii": [
+      "U0NQ8555JD",
+      "RN2HC612GY",
+      "T7J046YI2B",
+      "1W0775VX6E",
+      "639KR60Q1Q",
+      "R9HH0NDE2E",
+      "PMY5J4Z7LS",
+      "CYK5P89K8X",
+      "PS2DCE2WVF",
+      "62I3C8233L",
+      "269XH13919",
+      "27YLU75U4W",
+      "11E6VI8VEG",
+      "N9288CD508",
+      "D1YM0P5Z2T"
+    ]
+  }
+}

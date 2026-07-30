@@ -1,0 +1,96 @@
+{
+  "spl_product_data_elements": [
+    "FOOTSPA PEDI ALCOHOL WATER POLYSORBATE 20 MENTHOL FD&C BLUE NO. 1 CAMPHOR (SYNTHETIC) ALCOHOL ALCOHOL PEPPERMINT OIL EUCALYPTUS OIL D&C YELLOW NO. 11 DMDM HYDANTOIN"
+  ],
+  "active_ingredient": [
+    "Ethyl Alcohol 70%v/v"
+  ],
+  "purpose": [
+    "Antimicrobial"
+  ],
+  "indications_and_usage": [
+    "USES: To decrease bacteria on the skin."
+  ],
+  "warnings": [
+    "• For external use only. • Avoid contact with eyes or mucous membrane. • Do not apply to wounds or damaged skin with a heating pad or on a child under 12 year of age."
+  ],
+  "other_safety_information": [
+    "FLAMMABLE: Keep away from fire or flame."
+  ],
+  "ask_doctor": [
+    "ASK A DOCTOR BEFORE USE IF If you have redness over affected area."
+  ],
+  "stop_use": [
+    "Condition persists for more than 72 hours."
+  ],
+  "keep_out_of_reach_of_children": [
+    "If swallowed, get medical help, or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Adults and children 12 years of age or older • Spray two to three pumps or as necessary to cover the affected area not more than three to four times daily."
+  ],
+  "inactive_ingredient": [
+    "Water (Aqua), Camphor, Polysorbate 20, Menthol, DMDM Hydantoin, Mentha Piperita (Peppermint) Oil, Eucalyptus Globulus Leaf Oil, D&C Yellow No.11(CI 47000), FD&C Blue No.1 (CI 42090)."
+  ],
+  "questions": [
+    "Contact us +1 (305) 623-4445"
+  ],
+  "package_label_principal_display_panel": [
+    "FOOTSPA - ANTIBACTERIAL PEDI SPRAY 4 oz PEDI SPRAY 4",
+    "FOOTSPA - ANTIBACTERIAL PEDI SPRAY 16 oz PEDI SPRAY 16",
+    "FOOTSPA - ANTIBACTERIAL PEDI SPRAY 128 oz PEDI SPRAY 1"
+  ],
+  "set_id": "04de4392-74f6-7df8-e063-6294a90ae3b1",
+  "id": "4318c0bb-2dca-29a7-e063-6394a90ac2ea",
+  "effective_time": "20251108",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "FOOTSPA PEDI"
+    ],
+    "generic_name": [
+      "ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "CHEMCO CORPORATION"
+    ],
+    "product_ndc": [
+      "49283-707"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "1041849"
+    ],
+    "spl_id": [
+      "4318c0bb-2dca-29a7-e063-6394a90ac2ea"
+    ],
+    "spl_set_id": [
+      "04de4392-74f6-7df8-e063-6294a90ae3b1"
+    ],
+    "package_ndc": [
+      "49283-707-16",
+      "49283-707-04",
+      "49283-707-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0755439025208"
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Kroger Springwater Antibacterial Benzalkonium Chloride WATER METHYLCHLOROISOTHIAZOLINONE FD&C BLUE NO. 1 EDETATE SODIUM FRAGRANCE CLEAN ORC0600327 GLYCERIN CETRIMONIUM CHLORIDE SODIUM CHLORIDE LAURAMIDOPROPYLAMINE OXIDE COCO MONOETHANOLAMIDE CITRIC ACID MONOHYDRATE PEG-120 METHYL GLUCOSE DIOLEATE SODIUM SULFATE METHYLISOTHIAZOLINONE D&C RED NO. 33 BENZALKONIUM CHLORIDE BENZALKONIUM"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Benzalkonium Chloride 0.13%"
+  ],
+  "purpose": [
+    "Purpose Antibacterial"
+  ],
+  "indications_and_usage": [
+    "Uses Helps decrease bacteria on hands."
+  ],
+  "warnings": [
+    "Warnings For external use only. When using the product Avoid contact with eyes. In case of Contact, Flush with Water. Keep out of reach of children. In case of accidental ingestion, seek medical attention or contact a Poison Control Center immediately."
+  ],
+  "when_using": [
+    "When using the product Avoid contact with eyes. In case of Contact, Flush with Water."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of accidental ingestion, seek medical attention or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions From pump bottle, apply onto wet hands. Lather and rinse thoroughly."
+  ],
+  "storage_and_handling": [
+    "Other Information Store at room temperature."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Water (Aqua), Lauramidopropylamine Oxide, Glycerin, Cetrimonium Chloride, Sodium Chloride, Cocamide MEA, PEG-120 Methyl Glucose Dioleate, Fragrance (Parfum), Citric Acid, Tetrasodium EDTA, Sodium Sulfate, Methylchloroisothiazolinone, Methylisothiazolinone, Blue 1 (CI42090), Red 33 (CI 17200)."
+  ],
+  "package_label_principal_display_panel": [
+    "PDP-1, NDC- 41226-510-11 11",
+    "PDP-2, NDC- 41226-510-52 52"
+  ],
+  "set_id": "01006967-d11c-d02a-e063-6394a90ad42c",
+  "id": "51025c60-925f-6971-e063-6394a90ae0a6",
+  "effective_time": "20260504",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Kroger Springwater Antibacterial"
+    ],
+    "generic_name": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Kroger Company"
+    ],
+    "product_ndc": [
+      "41226-510"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "rxcui": [
+      "1046593"
+    ],
+    "spl_id": [
+      "51025c60-925f-6971-e063-6394a90ae0a6"
+    ],
+    "spl_set_id": [
+      "01006967-d11c-d02a-e063-6394a90ad42c"
+    ],
+    "package_ndc": [
+      "41226-510-11",
+      "41226-510-52"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0041260025273",
+      "0041260025280"
+    ],
+    "unii": [
+      "F5UM2KM3W7"
+    ]
+  }
+}

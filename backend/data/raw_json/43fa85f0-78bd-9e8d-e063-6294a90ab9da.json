@@ -1,0 +1,99 @@
+{
+  "spl_product_data_elements": [
+    "Derman Antifungal ZINC UNDECYLENATE GLYCERIN POLYETHYLENE GLYCOL 500 POLYETHYLENE GLYCOL 4000 PROPYLENE GLYCOL CETYL ALCOHOL SODIUM BISULFITE SODIUM LAURETH SULFATE WATER ZINC STEARATE UNDECYLENIC ACID UNDECYLENIC ACID ZINC UNDECYLENATE UNDECYLENIC ACID"
+  ],
+  "spl_unclassified_section": [
+    "",
+    ""
+  ],
+  "active_ingredient": [
+    "Active Ingredients. Zinc undecylenate 18% Undecylenic acid 5% Purpose Antifungal"
+  ],
+  "purpose": [
+    "Purpose Antifungal"
+  ],
+  "indications_and_usage": [
+    "Uses For the treatment of athlete´s foot."
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use on children under 2 years of age, unless directed by a doctor. When using this product Avoid contact with the eyes. Stop use and ask a doctor if irritation occurs or if there is no improvement within 4 weeks. Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on children under 2 years of age, unless directed by a doctor."
+  ],
+  "when_using": [
+    "When using this product Avoid contact with the eyes."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if irritation occurs or if there is no improvement within 4 weeks."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Wash the affected area and dry thoroughly. Apply a thin layer of the product over the affected area twice daily (morning and night) or as directed by a doctor. Supervise children in the use of this product. For athlete's foot: Pay special attention to spaces between the toes; wear well fitting, ventilated shoes, and change shoes and socks at least once daily. Use daily for 4 weeks. If condition persists, consults a physician. This product is not effective on the scalp or nails."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Cetyl alcohol, Glycerin, Polyethylene Glycol 500, Polyethylene glycol 4000, Propylene glycol, Sodium bisulfite, Sodium laureth sulfate, water, Zinc stearate."
+  ],
+  "package_label_principal_display_panel": [
+    "Derman Antifungal (54312-125-01) Label 2 Label 2 tube Label Label Label 2.1 tube",
+    "Derman Antifungal (54312-125-02) Label 2 Label 2 Label 2.1 tube Label 3"
+  ],
+  "set_id": "0129d801-90f6-49fd-857f-27d6ba9fc66c",
+  "id": "43fa85f0-78bd-9e8d-e063-6294a90ab9da",
+  "effective_time": "20251119",
+  "version": "24",
+  "openfda": {
+    "application_number": [
+      "M005"
+    ],
+    "brand_name": [
+      "Derman Antifungal"
+    ],
+    "generic_name": [
+      "ZINC UNDECYLENATE"
+    ],
+    "manufacturer_name": [
+      "Compania Internacional de Comercio, S.A.P.I de C.V."
+    ],
+    "product_ndc": [
+      "54312-125"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "UNDECYLENIC ACID",
+      "ZINC UNDECYLENATE"
+    ],
+    "rxcui": [
+      "1435154",
+      "1435159"
+    ],
+    "spl_id": [
+      "43fa85f0-78bd-9e8d-e063-6294a90ab9da"
+    ],
+    "spl_set_id": [
+      "0129d801-90f6-49fd-857f-27d6ba9fc66c"
+    ],
+    "package_ndc": [
+      "54312-125-01",
+      "54312-125-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0354312225027",
+      "0354312225010"
+    ],
+    "unii": [
+      "K3D86KJ24N",
+      "388VZ25DUR"
+    ]
+  }
+}

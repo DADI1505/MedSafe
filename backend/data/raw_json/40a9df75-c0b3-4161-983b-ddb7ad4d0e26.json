@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "Tom Whole Care Spearmint SLS Free fights cavities whitening fresh breath helps fight tartar Sodium monofluorophosphate SODIUM MONOFLUOROPHOSPHATE FLUORIDE ION GLYCERIN WATER CALCIUM CARBONATE HYDRATED SILICA XYLITOL LAURYL GLUCOSIDE DISODIUM COCOYL GLUTAMATE ZINC CITRATE .IOTA.-CARRAGEENAN REBAUDIOSIDE A SODIUM HYDROXIDE Off white"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredient Sodium monofluorophosphate 0.76% (0.13% w/v fluoride ion)"
+  ],
+  "purpose": [
+    "Purpose Anticavity"
+  ],
+  "indications_and_usage": [
+    "Use helps protect against cavities"
+  ],
+  "warnings": [
+    "Warnings Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 2 years of age and older brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician children 2 to 6 years use only a pea-sized amount and supervise child's brushing and rinsing (to minimize swallowing) children under 2 years ask a dentist or physician"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"65%\" styleCode=\"Noautorules\"><col width=\"30%\" align=\"left\" valign=\"top\"/><col width=\"70%\" align=\"left\" valign=\"top\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">adults and children 2 years of age and older</td><td>brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">children 2 to 6 years</td><td>use only a pea-sized amount and supervise child&apos;s brushing and rinsing (to minimize swallowing)</td></tr><tr><td styleCode=\"Rrule\">children under 2 years</td><td>ask a dentist or physician</td></tr></tbody></table>"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients glycerin, water, calcium carbonate, hydrated silica, xylitol, lauryl glucoside, disodium cocoyl glutamate, zinc citrate, carrageenan, natural flavor spearmint oil and other natural flavor , rebaudioside A, sodium hydroxide."
+  ],
+  "questions": [
+    "Questions? 1-800-FOR-TOMS (1-800-367-8667)"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 113 g Tube Carton NEW GREAT TASTE THE ORIGINAL Tom's OF MAINE NOT TESTED ON ANIMALS NATURAL • WITH FLUORIDE WHOLE CARE ® anticavity toothpaste SPEARMINT NET WT 4.0 OZ (113 g) STRENGTHENS ENAMEL PREVENTS CAVITIES REMOVES STAINS* NO ANIMAL TESTING, SLS, ARTIFICIAL FLAVORS, SWEETENERS OR DYES Principal Display Panel"
+  ],
+  "set_id": "08d7ed04-67a4-437a-82c5-496f9893c6c7",
+  "id": "40a9df75-c0b3-4161-983b-ddb7ad4d0e26",
+  "effective_time": "20251110",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M021"
+    ],
+    "brand_name": [
+      "Tom Whole Care Spearmint SLS Free fights cavities whitening fresh breath helps fight tartar"
+    ],
+    "generic_name": [
+      "SODIUM MONOFLUOROPHOSPHATE"
+    ],
+    "manufacturer_name": [
+      "Tom's of Maine, Inc."
+    ],
+    "product_ndc": [
+      "51009-858"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "DENTAL"
+    ],
+    "substance_name": [
+      "SODIUM MONOFLUOROPHOSPHATE"
+    ],
+    "rxcui": [
+      "545626"
+    ],
+    "spl_id": [
+      "40a9df75-c0b3-4161-983b-ddb7ad4d0e26"
+    ],
+    "spl_set_id": [
+      "08d7ed04-67a4-437a-82c5-496f9893c6c7"
+    ],
+    "package_ndc": [
+      "51009-858-69"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "C810JCZ56Q"
+    ]
+  }
+}

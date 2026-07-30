@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "Gelato Homecare Stannous Fluoride GLYCERIN WATER CARBOMER HOMOPOLYMER TYPE C (ALLYL PENTAERYTHRITOL CROSSLINKED) CARBOXYMETHYLCELLULOSE SODIUM MALIC ACID XANTHAN GUM STANNOUS FLUORIDE FLUORIDE ION Red Berry Cloudy"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Stannous Fluoride 0.4%"
+  ],
+  "purpose": [
+    "Purpose Fluoride preventive treatment gel"
+  ],
+  "indications_and_usage": [
+    "Uses Home Care is a stable fluoride gel for home use. Aids in the prevention of dental decay."
+  ],
+  "warnings": [
+    "Warnings Keep out of reach of children. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away. This product may produce surface staining of the teeth. Adequate toothbrushing may prevent these stains which are not harmful or permanent and may be removed by your dentist. This is a fluoride preventive treatment gel, not a toothpaste. Read directions carefully before using.",
+    "This product may produce surface staining of the teeth. Adequate toothbrushing may prevent these stains which are not harmful or permanent and may be removed by your dentist.",
+    "This is a fluoride preventive treatment gel, not a toothpaste. Read directions carefully before using."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 6 years of age and older: Twist off cap to remove foil seal. Use once a day after brushing your teeth with a toothpaste. Apply the gel to your teeth and brush thoroughly. Allow the gel to remain on your teeth for 1 minute and then spit out. Do not swallow the gel. Do not eat or drink for 30 minutes after brushing. Instruct children under 12 years of age in the use of this product (to minimize swallowing). Supervise children as necessary until capable of using without supervision. Children under 6 years of age: Consult a dentist or doctor."
+  ],
+  "storage_and_handling": [
+    "Other Information Store at controlled room temperature 59° - 86°F (15° - 30°C)."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Carbopol, Flavor, Glycerine, Malic Acid, Sodium Carboxymethylcellulose, Water, Xanthan Gum."
+  ],
+  "questions": [
+    "Questions or comments? 1-800-333-3131 or www.keystoneind.com"
+  ],
+  "package_label_principal_display_panel": [
+    "principal display panel",
+    "principal display panel"
+  ],
+  "set_id": "07d7fb43-8d3e-4d1f-b38d-e3caf28e9acf",
+  "id": "16b18ba2-a212-830c-e063-6394a90a7e0f",
+  "effective_time": "20240422",
+  "version": "8",
+  "openfda": {
+    "application_number": [
+      "M021"
+    ],
+    "brand_name": [
+      "Gelato Homecare"
+    ],
+    "generic_name": [
+      "STANNOUS FLUORIDE"
+    ],
+    "manufacturer_name": [
+      "Mycone Dental Supply Co., Inc DBA Keystone Industries and Deepak Products Inc."
+    ],
+    "product_ndc": [
+      "68400-205"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "DENTAL"
+    ],
+    "substance_name": [
+      "STANNOUS FLUORIDE"
+    ],
+    "rxcui": [
+      "237847"
+    ],
+    "spl_id": [
+      "16b18ba2-a212-830c-e063-6394a90a7e0f"
+    ],
+    "spl_set_id": [
+      "07d7fb43-8d3e-4d1f-b38d-e3caf28e9acf"
+    ],
+    "package_ndc": [
+      "68400-205-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3FTR44B32Q"
+    ]
+  }
+}

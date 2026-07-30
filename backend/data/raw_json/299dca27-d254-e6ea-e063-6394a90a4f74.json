@@ -1,0 +1,104 @@
+{
+  "spl_product_data_elements": [
+    "Oral Gel Oral Pain Relief Benzocaine Benzalkonium Chloride AMMONIUM GLYCYRRHIZATE POLYETHYLENE GLYCOL, UNSPECIFIED SACCHARIN SODIUM SORBIC ACID BENZOCAINE BENZOCAINE BENZALKONIUM CHLORIDE BENZALKONIUM"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Benzocaine 20% Benzalkonium Chloride 0.1%"
+  ],
+  "purpose": [
+    "Purpose Oral pain reliever Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Use ■ for the temporary relief of pain due to toothaches ■ to help protect against infectionin minor oral irritation"
+  ],
+  "warnings": [
+    "Warnings ■ Allergy alert: do not use this product if you have a history of allergy to local anesthetics such as procaine, butacaine or other \"caine\" anesthetics"
+  ],
+  "do_not_use": [
+    "Do not use ■ more than directed ■ for more than 7 days unless directed by a physician or healthcare provider"
+  ],
+  "stop_use": [
+    "Stop use and ask a physician if ■ swelling, rash or fever develops ■ irritation, pain or redness persists or worsens ■ symptoms do not improve in 7 days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children In case of overdose or allergic reaction get medical help or contact a Poison Control Center right away"
+  ],
+  "dosage_and_administration": [
+    "Directions ■ adults and children 2 years of age and over: apply a small amount of the product to the cavity and around the gum surrounding the teeth Use up to 4 times daily or as directed by a physician or healthcare provider ■ children under 12 years: should be supervised in the use of this product ■ children under 2 years of age: ask a physician or health care provider"
+  ],
+  "spl_unclassified_section": [
+    "Other information ■ this preparation is intended for use in cases ot toothache, only as a temporary expedient until a physican can be consulted ■ do not use continuously ■ avoid using toothpaste or drinking soft drinks or fruit juices for at least one hour after applying ■ do not use if tube seal under cap is broken, missing or if the tube tip is cut prior to opening"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients ammonium glycyrrhizate, flavor, polyethylene glycol, sodium saccharin, sorbic acid"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Label image description"
+  ],
+  "set_id": "05ede7e4-5a0a-c942-e063-6294a90a8a24",
+  "id": "299dca27-d254-e6ea-e063-6394a90a4f74",
+  "effective_time": "20241219",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M022"
+    ],
+    "brand_name": [
+      "Oral Gel Oral Pain Relief"
+    ],
+    "generic_name": [
+      "BENZOCAINE BENZALKONIUM CHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Savvy Care and Cosmetics"
+    ],
+    "product_ndc": [
+      "83650-101"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZOCAINE",
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "rxcui": [
+      "1595155"
+    ],
+    "spl_id": [
+      "299dca27-d254-e6ea-e063-6394a90a4f74"
+    ],
+    "spl_set_id": [
+      "05ede7e4-5a0a-c942-e063-6294a90a8a24"
+    ],
+    "package_ndc": [
+      "83650-101-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185508",
+      "N0000175629",
+      "N0000184306",
+      "M0000728"
+    ],
+    "pharm_class_epc": [
+      "Standardized Chemical Allergen [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]"
+    ],
+    "unii": [
+      "U3RSY48JW5",
+      "F5UM2KM3W7"
+    ]
+  }
+}

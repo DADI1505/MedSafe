@@ -1,0 +1,101 @@
+{
+  "spl_product_data_elements": [
+    "ALLERGY RELIEF Loratadine CAPRIC ACID POVIDONE K30 WATER SORBITOL POLYSORBATE 80 SORBITAN LORATADINE LORATADINE FD&C BLUE NO. 1 GELATIN Light Blue oval shaped 21"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredient (in each capsule) Loratadine 10mg"
+  ],
+  "purpose": [
+    "Purpose Antihistamine"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies • runny nose • sneezing • itchy, water eyes • itching of the nose or throat"
+  ],
+  "warnings": [
+    "Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed. Taking more than directed may cause drowsiness. Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose."
+  ],
+  "when_using": [
+    "When using this product do not take more than directed. Taking more than directed may cause drowsiness."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 6 years and over 1 capsule daily; not more than 1 capsule in 24 hours children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\"><tbody><tr styleCode=\"Botrule First\"><td styleCode=\"Lrule Rrule\" valign=\"top\">adults and children 6 years and over</td><td align=\"left\" styleCode=\"Rrule\" valign=\"top\">1 capsule daily; not more than 1 capsule in 24 hours</td></tr><tr styleCode=\"Botrule\"><td align=\"left\" styleCode=\"Lrule Rrule\" valign=\"top\">children under 6 years of age</td><td align=\"left\" styleCode=\"Rrule\" valign=\"top\">ask a doctor</td></tr><tr><td styleCode=\"Lrule Rrule\" valign=\"top\">consumers with liver or kidney disease</td><td align=\"left\" styleCode=\"Rrule\" valign=\"top\">ask a doctor  </td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information • Store between 20-25˚C (68-77˚F) • protect from freezing • retain carton for complete information and warnings"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients FD&C Blue no. 1, gelatine, mono anddiglyceride of caprilic/capric acid, pharmaceutical ink, polysorbate 80,povidone, purified water, sorbitol, sorbitan solution."
+  ],
+  "questions": [
+    "Questions or comments? 1-844-705-4384"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL LEADER™ NDC 70000-0755-1 Non-Drowsy* | 24 Hour Allergy Relief Loratadine, 10 mg | Antihistamine Indoor and Outdoor Allergies For Relief of: Sneezing, Runny Nose Itchy, Watery Eyes Itchy Throat or Nose Actual Size COMPARE TO CLARITIN® LIQUI-GELS® active ingredient† 100% Money Back Guarantee 10 LIQUID-FILLED CAPSULES *When taken as directed. See Drug Facts Panel 100% Money Back Guarantee TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING †This product is not manufactured or distributed by Bayer Healthcare LLC, distributor of Claritin®, or Catalent Pharma Soulutions, Inc., owner of the registered trademark Liqui-Gels®. CIN 6104293 Rev. 02/26 DISTRIBUTED BY CARDINAL HEALTH DUBLIN, OHIO 43017 www.myleader.com 1-800-200-6313 Essential to Care™ since 1979 Made in India image description"
+  ],
+  "set_id": "052e0ea2-441f-42cc-b62c-f2574f995bff",
+  "id": "4e532561-358c-e69f-e063-6394a90ad9a6",
+  "effective_time": "20260331",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "ANDA206214"
+    ],
+    "brand_name": [
+      "ALLERGY RELIEF"
+    ],
+    "generic_name": [
+      "LORATADINE"
+    ],
+    "manufacturer_name": [
+      "CARDINAL HEALTH 110, LLC. DBA LEADER"
+    ],
+    "product_ndc": [
+      "70000-0755"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LORATADINE"
+    ],
+    "rxcui": [
+      "828269"
+    ],
+    "spl_id": [
+      "4e532561-358c-e69f-e063-6394a90ad9a6"
+    ],
+    "spl_set_id": [
+      "052e0ea2-441f-42cc-b62c-f2574f995bff"
+    ],
+    "package_ndc": [
+      "70000-0755-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "7AJO3BO7QN"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "spl_product_data_elements": [
+    "Tartar control plus Eucalyptol, menthol, methyl salicylate, thymol WATER ALCOHOL SORBITOL POLOXAMER 407 BENZOIC ACID ZINC CHLORIDE SODIUM BENZOATE SUCRALOSE SACCHARIN SODIUM FD&C GREEN NO. 3 EUCALYPTOL EUCALYPTOL MENTHOL MENTHOL METHYL SALICYLATE SALICYLIC ACID THYMOL THYMOL"
+  ],
+  "spl_unclassified_section": [
+    "Tamper Evident Statement SEALED WITH PRINTED NECKBAND FOR YOUR PROTECTION",
+    "Other information cold weather may cloud this product. Its antiseptic properties are not affected. Store at room temperature (59°-86°F).",
+    "Disclaimer *Listerine ® Ultraclean ® & Cool Mint ® are registered trademarks of Kenvue, Inc."
+  ],
+  "active_ingredient": [
+    "Active ingredient Eucalyptol 0.092% Menthol 0.042% Methyl salicylate 0.060% Thymol 0.064%"
+  ],
+  "purpose": [
+    "Purpose Antigingivitis, antiplaque"
+  ],
+  "indications_and_usage": [
+    "Use helps control plaque that leads to gingivitis"
+  ],
+  "warnings": [
+    "Warnings For this product"
+  ],
+  "do_not_use": [
+    "Do not use if you have painful or swollen gums, pus from the gum line, loose teeth or increased spacing between the teeth. See your dentist immediately. These may be signs of periodontitis, a serious form of gum disease."
+  ],
+  "stop_use": [
+    "Stop use and ask a dentist if gingivitis, bleeding, or redness persists for more than 2 weeks."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 12 years of age and older - vigorously swish 20 mL (2/3 FL OZ or 4 teaspoonfuls) between teeth twice a day for 30 seconds then spit out; do not swallow children 6 years to under 12 years of age - supervise use children under 6 years of age - do not use this rinse is not intended to replace brushing or flossing"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, alcohol (21.6%), sorbitol, flavor, poloxamer 407, benzoic acid, zinc chloride, sodium benzoate, sucralose, sodium saccharin, green 3"
+  ],
+  "questions": [
+    "Questions? Call 1-800-632-6900"
+  ],
+  "adverse_reactions": [
+    "ADVERSE REACTION PROUDLY DISTRIBUTED BY THE KROGER CO. CINCINNATI, OH 45202 MADE IN USA WITH DOMESTIC AND FOREIGN COMPONENTS QUALITY GUARANTEED Kroger.com/guarantee 800-632-6900 DSP-TN-21091 DSP-MO-20087"
+  ],
+  "package_label_principal_display_panel": [
+    "principal display panel Compare to the active ingredient of Listerine ® Ultraclean ® Cool Mint ® * *SEE BACK LABEL Kroger ® Tartar Control Antiseptic Mouthwash ANTIGINGIVITIS/ANTIPLAQUE BLUE MINT KILLS 99.9 OF GERMS† FIGHTS TARTAR BUILDUP & kills 99.9% of bad breath germs† FRESH BREATH with mouthcooling sensation †THAT CAUSE BAD BREATH, PLAQUE AND GINGIVITIS QUALITY GUARANTEED 50.7 FL OZ (1.58 QT) 1.5 L image description image description"
+  ],
+  "set_id": "0407d06e-a8d4-4522-8213-3a7a0c5e336e",
+  "id": "4bd1c301-1fa5-287b-e063-6294a90ae138",
+  "effective_time": "20260227",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Tartar control plus"
+    ],
+    "generic_name": [
+      "EUCALYPTOL, MENTHOL, METHYL SALICYLATE, THYMOL"
+    ],
+    "manufacturer_name": [
+      "The Kroger Co."
+    ],
+    "product_ndc": [
+      "30142-855"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "EUCALYPTOL",
+      "MENTHOL",
+      "METHYL SALICYLATE",
+      "THYMOL"
+    ],
+    "rxcui": [
+      "1043619"
+    ],
+    "spl_id": [
+      "4bd1c301-1fa5-287b-e063-6294a90ae138"
+    ],
+    "spl_set_id": [
+      "0407d06e-a8d4-4522-8213-3a7a0c5e336e"
+    ],
+    "package_ndc": [
+      "30142-855-12"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "RV6J6604TK",
+      "L7T10EIP3A",
+      "LAV5U5022Y",
+      "3J50XA376E"
+    ]
+  }
+}

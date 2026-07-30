@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Sinapis Nigra Sinapis Nigra BLACK MUSTARD SEED BLACK MUSTARD SEED SUCROSE Sinapis Nigra Sinapis Nigra BLACK MUSTARD SEED BLACK MUSTARD SEED SUCROSE Sinapis Nigra Sinapis Nigra BLACK MUSTARD SEED BLACK MUSTARD SEED SUCROSE Sinapis Nigra Sinapis Nigra BLACK MUSTARD SEED BLACK MUSTARD SEED SUCROSE Sinapis Nigra Sinapis Nigra BLACK MUSTARD SEED BLACK MUSTARD SEED SUCROSE Sinapis Nigra Sinapis Nigra BLACK MUSTARD SEED BLACK MUSTARD SEED SUCROSE Sinapis Nigra Sinapis Nigra BLACK MUSTARD SEED BLACK MUSTARD SEED SUCROSE Sinapis Nigra Sinapis Nigra BLACK MUSTARD SEED BLACK MUSTARD SEED SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Sinapis Nigra 6C 5g Sinapis Nigra 6C 30g Sinapis Nigra 6C 100g Sinapis Nigra 12C 5g Sinapis Nigra 12C 30g Sinapis Nigra 12C 100g Sinapis Nigra 30C 1g Sinapis Nigra 30C 5g Sinapis Nigra 30C 30g Sinapis Nigra 30C 100g Sinapis Nigra 100C 1g Sinapis Nigra 100C 5g Sinapis Nigra 100C 30g Sinapis Nigra 100C 100g Sinapis Nigra 200C 1g Sinapis Nigra 200C 5g Sinapis Nigra 200C 30g Sinapis Nigra 200C 100g Sinapis Nigra 500C 1g Sinapis Nigra 500C 5g Sinapis Nigra 500C 30g Sinapis Nigra 500C 100g Sinapis Nigra 1M 1g Sinapis Nigra 1M 5g Sinapis Nigra 1M 30g Sinapis Nigra 1M 100g Sinapis Nigra LM1 30g"
+  ],
+  "set_id": "07e166ad-296f-cf66-e063-6394a90a08d9",
+  "id": "07e166ad-2970-cf66-e063-6394a90a08d9",
+  "effective_time": "20231016",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Sinapis Nigra"
+    ],
+    "generic_name": [
+      "SINAPIS NIGRA"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-4160",
+      "37662-4164",
+      "37662-4167",
+      "37662-4163",
+      "37662-4165",
+      "37662-4161",
+      "37662-4162",
+      "37662-4166"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BLACK MUSTARD SEED"
+    ],
+    "spl_id": [
+      "07e166ad-2970-cf66-e063-6394a90a08d9"
+    ],
+    "spl_set_id": [
+      "07e166ad-296f-cf66-e063-6394a90a08d9"
+    ],
+    "package_ndc": [
+      "37662-4164-1",
+      "37662-4164-2",
+      "37662-4164-3",
+      "37662-4164-4",
+      "37662-4160-1",
+      "37662-4160-2",
+      "37662-4160-3",
+      "37662-4167-1",
+      "37662-4163-1",
+      "37662-4163-2",
+      "37662-4163-3",
+      "37662-4163-4",
+      "37662-4165-1",
+      "37662-4165-2",
+      "37662-4165-3",
+      "37662-4165-4",
+      "37662-4161-1",
+      "37662-4161-2",
+      "37662-4161-3",
+      "37662-4162-1",
+      "37662-4162-2",
+      "37662-4162-3",
+      "37662-4162-4",
+      "37662-4166-1",
+      "37662-4166-2",
+      "37662-4166-3",
+      "37662-4166-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8LTY55LQ8D"
+    ]
+  }
+}

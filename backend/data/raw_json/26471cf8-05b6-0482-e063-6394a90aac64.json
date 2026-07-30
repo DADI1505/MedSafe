@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "Axe Black Frozen Pear and Cedarwood Scent 48H Fresh and Dry Antiperspirant TALC CYCLOMETHICONE 5 HYDROGENATED CASTOR OIL BUTYLATED HYDROXYTOLUENE ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY STEARYL ALCOHOL PPG-14 BUTYL ETHER MINERAL OIL STEARETH-100 ISOPROPYL PALMITATE"
+  ],
+  "description": [
+    "AXE BLACK FROZEN PEAR & CEDARWOOD SCENT 48H FRESH & DRY ANTIPERSPIRANT - aluminum zirconium tetrachlorohydrex gly stick"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient Aluminum Zirconium Tetrachlorohydrex GLY (19.0 %)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses • reduces underarm wetness • 48 Hour Protection"
+  ],
+  "warnings": [
+    "Warnings • For external use only. • Do not use on broken skin . • Ask a doctor before use if you have kidney disease. • Stop use if rash or irritation occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "• Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply to underarms only"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Isopropyl Palmitate, Stearyl Alcohol, Cyclopentasiloxane, PPG-14 Butyl Ether, Mineral Oil, Talc, Hydrogenated Castor Oil, Fragrance (Parfum), Steareth-100, BHT."
+  ],
+  "questions": [
+    "Questions? Call toll-free 1-800-761-3683"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Axe Black AP"
+  ],
+  "set_id": "00d63f96-10ec-668b-e063-6394a90a72c8",
+  "id": "26471cf8-05b6-0482-e063-6394a90aac64",
+  "effective_time": "20241106",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Axe"
+    ],
+    "generic_name": [
+      "BLACK FROZEN PEAR AND CEDARWOOD SCENT 48H FRESH AND DRY ANTIPERSPIRANT"
+    ],
+    "manufacturer_name": [
+      "Conopco Inc. d/b/a/ Unilever"
+    ],
+    "product_ndc": [
+      "64942-2123"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY"
+    ],
+    "spl_id": [
+      "26471cf8-05b6-0482-e063-6394a90aac64"
+    ],
+    "spl_set_id": [
+      "00d63f96-10ec-668b-e063-6394a90a72c8"
+    ],
+    "package_ndc": [
+      "64942-2123-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0079400589835"
+    ],
+    "unii": [
+      "8O386558JE"
+    ]
+  }
+}

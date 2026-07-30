@@ -1,0 +1,98 @@
+{
+  "spl_product_data_elements": [
+    "Alcohol Wipes Isopropyl Alcohol WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Isopropyl Alcohol 70%"
+  ],
+  "purpose": [
+    "First aid Antiseptic"
+  ],
+  "indications_and_usage": [
+    "First aid to help prevent the risk of infection in minor cuts, scrapes or burns."
+  ],
+  "warnings": [
+    "For external use only"
+  ],
+  "safe_handling_warning": [
+    "Flammable keep away from fire or flame"
+  ],
+  "ask_doctor": [
+    "Deep or puncture wounds animal bites serious burns"
+  ],
+  "when_using": [
+    "Do not use in or near the eyes Do not apply over large areas Do not use longer than 1 week unless directed by doctor"
+  ],
+  "stop_use": [
+    "Stop use and ask doctor if condition persists or get worse"
+  ],
+  "keep_out_of_reach_of_children": [
+    "If swallowed, get medical help or contact a Poison control center right away"
+  ],
+  "dosage_and_administration": [
+    "Clean the affected area Apply product on the affected area of the body 1 to 3 times a day The affected area could be covered with a sterile bandage"
+  ],
+  "other_safety_information": [
+    "For external use only Keep the canister tightly closedand store it at room temperature Hold it away from face when opening"
+  ],
+  "inactive_ingredient": [
+    "Purified water"
+  ],
+  "questions": [
+    "18002102060"
+  ],
+  "package_label_principal_display_panel": [
+    "Phoenix Alcohol Wipes"
+  ],
+  "set_id": "04c2ac54-1f44-a5d2-e063-6394a90a99cc",
+  "id": "41d31ed1-ab88-a8e9-e063-6394a90ae9c8",
+  "effective_time": "20251023",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Alcohol Wipes"
+    ],
+    "generic_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Phoenix Healthcare Solutions LLC"
+    ],
+    "product_ndc": [
+      "60913-038"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "rxcui": [
+      "797544"
+    ],
+    "spl_id": [
+      "41d31ed1-ab88-a8e9-e063-6394a90ae9c8"
+    ],
+    "spl_set_id": [
+      "04c2ac54-1f44-a5d2-e063-6394a90a99cc"
+    ],
+    "package_ndc": [
+      "60913-038-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0365003023013"
+    ],
+    "unii": [
+      "ND2M416302"
+    ]
+  }
+}

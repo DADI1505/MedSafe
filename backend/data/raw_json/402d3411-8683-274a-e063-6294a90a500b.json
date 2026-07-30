@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "HealthWise Pain Relief MENTHOL ALCOHOL ARNICA MONTANA FLOWER CALENDULA OFFICINALIS FLOWER CAMELLIA SINENSIS LEAF CHAMOMILE DIMETHYL SULFONE ECHINACEA ANGUSTIFOLIA ILEX PARAGUARIENSIS LEAF ISOPROPYL MYRISTATE JUNIPER BERRY WATER MENTHOL MENTHOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredient Menthol 10.5% Purpose External Analgesic"
+  ],
+  "purpose": [
+    "Purpose External Analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses Uses For the temporary relief of minor pain associated with • arthritis • simple backache • muscle strains • sprains • bruises"
+  ],
+  "warnings": [
+    "Warnings For external use only. Flammable. Do not use while smoking or near heat or flame When using this product When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water • avoid contact with broken skin • do not bandage tightly • do not use with heating pad • contents under pressure. Do not puncture or incinerate. Do not store at temperature above 120ºF Stop use and ask a doctor if condition worsens rash or irritation develops and lasts for more than 7 days or clear up and occur again within a few days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away"
+  ],
+  "when_using": [
+    "When using this product When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water • avoid contact with broken skin • do not bandage tightly • do not use with heating pad • contents under pressure. Do not puncture or incinerate. Do not store at temperature above 120ºF"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens rash or irritation develops and lasts for more than 7 days or clear up and occur again within a few days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away"
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 2 years or older: Apply to affected area not more than 3 to 4 times daily. Children under 2 years of age: ask a doctor."
+  ],
+  "other_safety_information": [
+    "Other information Store out of direct sunlight, in a cool dry, well-ventilated area"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients butylene glycol, camellia sinensis leaf extract, centella asiatica extract, chamomilla recutita (matricaria) flower extract, denatonium benzoate, dimethyl sulfone, glycyrrhiza glabra (licorice) root extract, isopropyl myristate, polygonum cuspidatum root extract, rosmarinus officinalis (rosemary) leaf extract, scutellaria baicalensis root extract, SD alcohol, water"
+  ],
+  "questions": [
+    "Questions or comments? 1-888-326-1313"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: label"
+  ],
+  "set_id": "06be5331-7a1e-4ab3-9f17-2d350bd4b890",
+  "id": "402d3411-8683-274a-e063-6294a90a500b",
+  "effective_time": "20251002",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "HealthWise Pain Relief"
+    ],
+    "generic_name": [
+      "MENTHOL"
+    ],
+    "manufacturer_name": [
+      "Veridian Healthcare"
+    ],
+    "product_ndc": [
+      "71101-067"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MENTHOL"
+    ],
+    "spl_id": [
+      "402d3411-8683-274a-e063-6294a90a500b"
+    ],
+    "spl_set_id": [
+      "06be5331-7a1e-4ab3-9f17-2d350bd4b890"
+    ],
+    "package_ndc": [
+      "71101-067-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

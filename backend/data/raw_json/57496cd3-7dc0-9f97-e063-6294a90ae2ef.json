@@ -1,0 +1,134 @@
+{
+  "spl_product_data_elements": [
+    "PNV-DHA ascorbic acid, cholecalciferol, .alpha.-tocopherol acetate, dl-, pyridoxine, folic acid, cyanocobalamin, calcium, ferrous fumarate, magnesium, doconexent ASCORBIC ACID ASCORBIC ACID CHOLECALCIFEROL CHOLECALCIFEROL .ALPHA.-TOCOPHEROL ACETATE, DL- .ALPHA.-TOCOPHEROL, DL- PYRIDOXINE PYRIDOXINE FOLIC ACID FOLIC ACID CYANOCOBALAMIN CYANOCOBALAMIN CALCIUM CALCIUM FERROUS FUMARATE FERROUS CATION MAGNESIUM MAGNESIUM DOCONEXENT DOCONEXENT BEESWAX PALM OIL LECITHIN, SOYBEAN GELATIN TYPE B BOVINE (150 BLOOM) GLYCERIN WATER TITANIUM DIOXIDE FD&C BLUE NO. 1 FD&C RED NO. 3 BP;321"
+  ],
+  "spl_unclassified_section": [
+    "Rx Only Dietary Supplement",
+    "DIRECTIONS: Adults only. Take one capsule daily, as a dietary supplement, or as directed by a physician.",
+    "All prescription substitutions and/or recommendations using this product shall be made subject to state and federal statutes as applicable. Note: This is not an Orange Book product. No representation is made as to generic status or bioequivalency.",
+    "THESE STATEMENTS HAVE NOT BEEN EVALUATED BY THE FOOD AND DRUG ADMINISTRATION. THIS PRODUCT IS NOT INTENDED TO DIAGNOSE, TREAT, CURE, OR PREVENT ANY DISEASE. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.",
+    "MANUFACTURED FOR: Acella Pharmaceuticals, LLC Alpharetta, GA 30005 1-800-541-4802 L-0149 Rev. 1024-02"
+  ],
+  "description": [
+    "DESCRIPTION: PNV-DHA is a prescription prenatal/postnatal multivitamin/mineral/essential fatty acid softgel. Each softgel is cobalt blue in color, opaque and imprinted with “BP 321” on one side and blank on the other. PNV-DHA can also be beneficial in improving the nutritional status of women prior to conception. Supplement Facts Panel PNV-DHA contains fish oil and soy. OTHER INGREDIENTS: Beeswax, soy lecithin and vegetable shortening. Coating contains: Bovine gelatin, FD&C Blue No. 1, FD&C Red No. 3, glycerin, purified water and titanium dioxide. Contains Soy. INDICATIONS: PNV-DHA is a multivitamin/multimineral fatty acid dietary supplement indicated for use in improving the nutritional status of women throughout pregnancy and in the postnatal period for both lactating and nonlactating mothers. CONTRAINDICATIONS: PNV-DHA is contraindicated in patients with a known hypersensitivity to any of the ingredients."
+  ],
+  "inactive_ingredient": [
+    "PNV-DHA contains fish oil and soy. OTHER INGREDIENTS: Beeswax, soy lecithin and vegetable shortening. Coating contains: Bovine gelatin, FD&C Blue No. 1, FD&C Red No. 3, glycerin, purified water and titanium dioxide. Contains Soy."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: PNV-DHA is a multivitamin/multimineral fatty acid dietary supplement indicated for use in improving the nutritional status of women throughout pregnancy and in the postnatal period for both lactating and nonlactating mothers."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS: PNV-DHA is contraindicated in patients with a known hypersensitivity to any of the ingredients."
+  ],
+  "boxed_warning": [
+    "WARNING: Ingestion of more than 3 grams of omega-3 fatty acids (such as DHA) per day has been shown to have potential antithrombotic effects, including an increased bleeding time and International Normalized Ratio (INR). Administration of omega-3 fatty acids should be avoided in patients taking anticoagulants and in those known to have an inherited or acquired predisposition to bleeding.",
+    "WARNING: Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of reach of children. In case of accidental overdose, call a doctor or poison control center immediately."
+  ],
+  "precautions": [
+    "PRECAUTIONS: Folic acid alone is improper therapy in the treatment of pernicious anemia and other megaloblastic anemias where Vitamin B 12 is deficient. Folic acid in doses above 1.0 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurological manifestations progress."
+  ],
+  "adverse_reactions": [
+    "ADVERSE REACTIONS: Allergic sensitization has been reported following both oral and parenteral administration of folic acid."
+  ],
+  "dosage_and_administration": [
+    "DOSAGE AND ADMINISTRATION: Before, during and/or after pregnancy, one softgel daily or as directed by a physician."
+  ],
+  "how_supplied": [
+    "HOW SUPPLIED: Bottles of 30 softgels (42192-321-30). The listed product number is not a National Code. Instead, Acella Pharmaceuticals has assigned a product code formatted according to standard industry practice to meet the formatting requirements of pharmacy and healthcare insurance computer systems. STORAGE: Store at 20° - 25°C (68° - 77°F); excursions permitted to 15° - 30°C (59° - 86°F) [See USP Controlled Room Temperature.]"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 30 Softgel Tablets NDC 42192-321-30 PNV-DHA Rx Prenatal Vitamin and DHA Rx Only 30 Softgels Acella PHARMACEUTICALS, LLC Bottle Label"
+  ],
+  "set_id": "038fe2e7-dc16-485c-b5fb-746db7231347",
+  "id": "57496cd3-7dc0-9f97-e063-6294a90ae2ef",
+  "effective_time": "20260723",
+  "version": "4",
+  "openfda": {
+    "brand_name": [
+      "PNV-DHA"
+    ],
+    "generic_name": [
+      "ASCORBIC ACID, CHOLECALCIFEROL, .ALPHA.-TOCOPHEROL ACETATE, DL-, PYRIDOXINE, FOLIC ACID, CYANOCOBALAMIN, CALCIUM, FERROUS FUMARATE, MAGNESIUM, DOCONEXENT"
+    ],
+    "manufacturer_name": [
+      "Acella Pharmaceuticals, LLC"
+    ],
+    "product_ndc": [
+      "42192-321"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ASCORBIC ACID",
+      "CHOLECALCIFEROL",
+      ".ALPHA.-TOCOPHEROL ACETATE, DL-",
+      "PYRIDOXINE",
+      "FOLIC ACID",
+      "CYANOCOBALAMIN",
+      "CALCIUM",
+      "FERROUS FUMARATE",
+      "MAGNESIUM",
+      "DOCONEXENT"
+    ],
+    "spl_id": [
+      "57496cd3-7dc0-9f97-e063-6294a90ae2ef"
+    ],
+    "spl_set_id": [
+      "038fe2e7-dc16-485c-b5fb-746db7231347"
+    ],
+    "package_ndc": [
+      "42192-321-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0342192321304"
+    ],
+    "nui": [
+      "N0000193618",
+      "M0001797",
+      "M0022797",
+      "N0000175952",
+      "N0000192800",
+      "N0000005657",
+      "N0000175452",
+      "M0022794",
+      "N0000175951",
+      "M0003153",
+      "N0000175901"
+    ],
+    "pharm_class_epc": [
+      "Vitamin C [EPC]",
+      "Vitamin D [EPC]",
+      "Vitamin B6 Analog [EPC]",
+      "Vitamin B12 [EPC]",
+      "Calcium [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Ascorbic Acid [CS]",
+      "Vitamin D [CS]",
+      "Vitamin B 6 [Chemical/Ingredient]",
+      "Analogs/Derivatives [Chemical/Ingredient]",
+      "Vitamin B 12 [CS]",
+      "Calcium [CS]"
+    ],
+    "unii": [
+      "PQ6CK8PD0R",
+      "1C6V77QF41",
+      "WR1WPI7EW8",
+      "KV2JZ1BI6Z",
+      "935E97BOY8",
+      "P6YC3EG204",
+      "SY7Q814VUP",
+      "R5L488RY0Q",
+      "I38ZP9992A",
+      "ZAD9OKH9JC"
+    ]
+  }
+}

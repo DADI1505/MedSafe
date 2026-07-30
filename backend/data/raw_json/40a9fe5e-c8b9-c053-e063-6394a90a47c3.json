@@ -1,0 +1,98 @@
+{
+  "spl_product_data_elements": [
+    "Equate Oxymetazoline HCL WATER POVIDONE PROPYLENE GLYCOL SODIUM PHOSPHATE, DIBASIC SODIUM PHOSPHATE, MONOBASIC POLYETHYLENE GLYCOL, UNSPECIFIED ALOE VERA LEAF BENZYL ALCOHOL BENZALKONIUM CHLORIDE EDETATE DISODIUM OXYMETAZOLINE HYDROCHLORIDE OXYMETAZOLINE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredients Oxymetazoline HCL..........................0.05%"
+  ],
+  "purpose": [
+    "Purpose Nasal decongestant"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves nasal congestion due to a cold, hay fever, or other upper respiratory allergies sinus congestion and pressure"
+  ],
+  "warnings": [
+    "Warnings For external use only; avoid contact with eyes. Do not use by mouth in nostrils on wounds or damaged skin with tight bandages Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes trouble urinating due to enlarged prostate gland When using this product, do not do not exceed recommended dosage do not use this product for more than 3 days. Use only as directed. Frequent or prolonged use may cause nasal congestion to recur or worsen temporary discomfort such as burning, stinging, sneezing, or increased nasal discharge may occur use of this container by more than one person may spread infection Stop use and ask a doctor if symptoms persist. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes trouble urinating due to enlarged prostate gland"
+  ],
+  "when_using": [
+    "When using this product, do not do not exceed recommended dosage do not use this product for more than 3 days. Use only as directed. Frequent or prolonged use may cause nasal congestion to recur or worsen temporary discomfort such as burning, stinging, sneezing, or increased nasal discharge may occur use of this container by more than one person may spread infection"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if symptoms persist."
+  ],
+  "pregnancy": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Remove protective cap. Before using for the first time, prime the pump by firmly depressing its rim several times. Hold container with thumb at base and nozzle between first and second fingers. Without tilting your head, insert nozzle into nostril. Fully depress rim with a firm, even stroke and inhale deeply. adults & children 6 yrs. & older (with adult supervision): 2 or 3 sprays in each nostril, not more often than every 10 to 12 hours. Do not exceed 2 doses in 24 hours. children 2 to under 6 yrs.: ask a doctor children under 2 yrs.: do not use"
+  ],
+  "other_safety_information": [
+    "Other information do not exceed 25°C"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients aloe barbadensis leaf extract, benzalkonium chloride, disodium EDTA, polyethylene glycol, PVP, propylene glycol, purified water, sodium phosphate dibasic, sodium phosphate monobasic"
+  ],
+  "questions": [
+    "Questions? 1-888-287-1915"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL"
+  ],
+  "set_id": "020942b1-59d4-a19d-e063-6394a90a5d87",
+  "id": "40a9fe5e-c8b9-c053-e063-6394a90a47c3",
+  "effective_time": "20251008",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Equate"
+    ],
+    "generic_name": [
+      "OXYMETAZOLINE HCL"
+    ],
+    "manufacturer_name": [
+      "Walmart Inc"
+    ],
+    "product_ndc": [
+      "79903-195"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "NASAL"
+    ],
+    "substance_name": [
+      "OXYMETAZOLINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1000990"
+    ],
+    "spl_id": [
+      "40a9fe5e-c8b9-c053-e063-6394a90a47c3"
+    ],
+    "spl_set_id": [
+      "020942b1-59d4-a19d-e063-6394a90a5d87"
+    ],
+    "package_ndc": [
+      "79903-195-15"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "K89MJ0S5VY"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "spl_product_data_elements": [
+    "Ciele Tint and Protect Zinc Oxide ALKYL (C12-15) BENZOATE TRILAURETH-4 PHOSPHATE BUTYLOCTYL SALICYLATE LAURYL PEG-8 DIMETHICONE (300 CPS) .ALPHA.-BISABOLOL, (+)- ZINC OXIDE ZINC OXIDE FERRIC OXIDE YELLOW WATER NIACINAMIDE PROPANEDIOL TETRASODIUM GLUTAMATE DIACETATE SODIUM CHLORIDE POLYGLYCERYL-4 DIISOSTEARATE/POLYHYDROXYSTEARATE/SEBACATE ETHYLHEXYLGLYCERIN DISTEARDIMONIUM HECTORITE CAPRYLYL GLYCOL LECITHIN, SOYBEAN ALLANTOIN DIMETHICONE PHENOXYETHANOL SODIUM HYDROXIDE PROPYLENE CARBONATE HEXYLENE GLYCOL MICA FERRIC OXIDE RED POLYMETHYLSILSESQUIOXANE (11 MICRONS) ISODODECANE ISOHEXADECANE DIMETHICONOL/PROPYLSILSESQUIOXANE/SILICATE CROSSPOLYMER (450000000 MW) OCTYLDODECYL NEOPENTANOATE"
+  ],
+  "dosage_and_administration": [
+    "Ciele Tint and Protect Dosage and Administration"
+  ],
+  "inactive_ingredient": [
+    "Ciele Tint and Protect Inactive ingredients"
+  ],
+  "indications_and_usage": [
+    "Ciele Tint and Protect Indications & usage"
+  ],
+  "active_ingredient": [
+    "Ciele Tint and Protect Active Ingredients"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Ciele Tint and Protect keep out of reach of children"
+  ],
+  "purpose": [
+    "Ciele Tint and Protect purpose"
+  ],
+  "warnings": [
+    "Ciele Tint and Protect Warning Label"
+  ],
+  "package_label_principal_display_panel": [
+    "Ciele Tint and Protect PDP"
+  ],
+  "set_id": "0162d9c9-07fa-9210-e063-6294a90aa687",
+  "id": "4135823e-791c-888e-e063-6394a90a4f7c",
+  "effective_time": "20251015",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Ciele Tint and Protect"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Ciele"
+    ],
+    "product_ndc": [
+      "83103-1819"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "4135823e-791c-888e-e063-6394a90a4f7c"
+    ],
+    "spl_set_id": [
+      "0162d9c9-07fa-9210-e063-6294a90aa687"
+    ],
+    "package_ndc": [
+      "83103-1819-1",
+      "83103-1819-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

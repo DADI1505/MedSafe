@@ -1,0 +1,116 @@
+{
+  "spl_product_data_elements": [
+    "XL-3 Night Time acetaminophen, dextromethorphan HBr, Doxylamine Succinate DOXYLAMINE SUCCINATE DOXYLAMINE PROPYLENE GLYCOL FD&C RED NO. 40 SODIUM BENZOATE SUCRALOSE XANTHAN GUM CITRIC ACID FD&C BLUE NO. 1 ACETAMINOPHEN ACETAMINOPHEN SORBITOL SOLUTION MENTHOL GLYCERIN WATER DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN"
+  ],
+  "active_ingredient": [
+    "Active ingredientes (in each 30mL dose cup) Acetaminophen 650 mg Dextromethorphan HBr 30 mg Doxylamine Succinate 12.5 mg"
+  ],
+  "purpose": [
+    "Pain reliever/fever reducer Cough Suppressant Antihistamine"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves cold/flu symptoms: sore throat headache minor aches and pain fever runny nose and sneezing cough due to minor throat and bronchial irritation"
+  ],
+  "warnings": [
+    "Warnings Liver warning: This product contains acetaminophen. Sever liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert: Acetaminophen may cause sever skin reactions. Symptoms may include: skin reddening blisters rash If skin reaction occurs, stop use and seek medical help right away. Sore throat warning: If sore throat is sever, persist for more than two days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly"
+  ],
+  "do_not_use": [
+    "Do not use with any other products containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist for more than 10 days for pain unless directed by a doctor for more than 3 days for fever unless directed by a doctor if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's diseas), or for 2 weeks after stopping the MAOI drugs. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. to make a child sleepy"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have a sodium restricted diet liver disease glaucoma cough that occurs with too much phlegm (mucus) a breathing problem or chronic cough that lasts or as occurs wtih smoking, asthma, chronic bronchitis or emphysema trouble urinating due to enlarged prostate gland"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers if you are taking the blood thinning drug warfarin."
+  ],
+  "when_using": [
+    "When using this product do not use more than directed avoid alcoholic drinks excitability may occur, especially in children marked drowsiness may occur be careful when driving a motor vehicle or operating machinery alcohol, sedatives and tranquilizers may increase drowsiness."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if redness or swelling is present symptoms do not get better within 7 days or are accompanied by a fever fever gets worse or lasts more than 3 days new symptoms occur cough lasts more than 7 days, comes back, or occurs wih fever, rash or headache that lasts. These could be signs of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding , ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "overdosage": [
+    "Overdose warning : Taking more than the recommended dose (overdose) may cause serious health problems including liver damage. In case of accidental overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away. Prompt medical attention is critical for adults as well as children even if you do not notice any signs or symptoms."
+  ],
+  "dosage_and_administration": [
+    "take only as recommended- see Overdose warning use only dosing cup provided keep dosing cup provided with the product do not exceed 4 doses per 24 hours if taking Day Time during the day and Night Time at night, limit the total to 4 doses per 24 hours TBSP=tablespoon mL=mililiter adults & children 12 years and over 30 mL (2 TBSP) every 6 hours children 4 to under 12 years ask a doctor children under 4 years do not use"
+  ],
+  "dosage_and_administration_table": [
+    "<table border=\"1\" width=\"100%\"><tbody><tr><td><paragraph> adults &amp; children 12 years and over</paragraph></td><td>30 mL (2 TBSP) every 6 hours</td></tr><tr><td>children 4 to under 12 years</td><td>ask a doctor </td></tr><tr><td> children under 4 years</td><td>do not use </td></tr></tbody></table>"
+  ],
+  "other_safety_information": [
+    "Other information each 30 mL contains: sodium 10 mg store between 58° - 86°F (15°-30° degrees C)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients: Citric acid, FD&C Blue #1, FD&C Red #40, flavor, glycerin, menthol, propylene glycol, purified water, sodium benzoate, sorbitol solution, sucralose, xanthan gum."
+  ],
+  "questions": [
+    "Questions or Comments? 1-888-446-4753 Monday - Friday from 8 AM - 5 PM Eastern Standard Time"
+  ],
+  "package_label_principal_display_panel": [
+    "XL3-NIGHT TIME 12oz XL-3 NIGTH TIME 6oz"
+  ],
+  "set_id": "03210929-331e-462d-b566-4e1865f52246",
+  "id": "49634dc2-a45b-f42b-e063-6294a90ade9c",
+  "effective_time": "20260127",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "XL-3 Night Time"
+    ],
+    "generic_name": [
+      "ACETAMINOPHEN, DEXTROMETHORPHAN HBR, DOXYLAMINE SUCCINATE"
+    ],
+    "manufacturer_name": [
+      "Rnv LLC"
+    ],
+    "product_ndc": [
+      "84379-444"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DOXYLAMINE SUCCINATE",
+      "ACETAMINOPHEN",
+      "DEXTROMETHORPHAN HYDROBROMIDE"
+    ],
+    "rxcui": [
+      "1043400"
+    ],
+    "spl_id": [
+      "49634dc2-a45b-f42b-e063-6294a90ade9c"
+    ],
+    "spl_set_id": [
+      "03210929-331e-462d-b566-4e1865f52246"
+    ],
+    "package_ndc": [
+      "84379-444-12",
+      "84379-444-06"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0645981000351",
+      "0645981000290"
+    ],
+    "unii": [
+      "V9BI9B5YI2",
+      "362O9ITL9D",
+      "9D2RTI9KYH"
+    ]
+  }
+}

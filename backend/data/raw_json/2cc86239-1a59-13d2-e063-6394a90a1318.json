@@ -1,0 +1,99 @@
+{
+  "spl_product_data_elements": [
+    "WHP Headache ATROPA BELLADONNA - BRYONIA ALBA ROOT - SODIUM CHLORIDE - STRYCHNOS NUX-VOMICA SEED LACTOSE SUCROSE SODIUM CHLORIDE CHLORIDE ION BRYONIA ALBA ROOT BRYONIA ALBA ROOT STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED ATROPA BELLADONNA ATROPA BELLADONNA white"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS BELLADONNA 6C BRYONIA 6C NAT MUR 6C NUX VOM 6C"
+  ],
+  "purpose": [
+    "USES Temporarily relieves headaches."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN As with all medications, keep out of reach of children."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS BELLADONNA Fever BRYONIA Worse motion NAT MUR Sneezing NUX VOM Vomiting"
+  ],
+  "warnings": [
+    "STOP USE AND ASK DOCTOR If symptoms persist or recur, discontinue use. If pregnant or nursing, consult a licensed practitioner before using this product."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Directions: Adults and children 12 years and older: 2 pills dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children 4 years to under 12 years: 1 pill dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children under 4 years: Consult a licensed practitioner."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Sucrose/Lactose"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL WHP Headache label WHP Headache box"
+  ],
+  "set_id": "06d25564-4c7e-0b3a-e063-6294a90a38bf",
+  "id": "2cc86239-1a59-13d2-e063-6394a90a1318",
+  "effective_time": "20250128",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "WHP Headache"
+    ],
+    "generic_name": [
+      "ATROPA BELLADONNA - BRYONIA ALBA ROOT - SODIUM CHLORIDE - STRYCHNOS NUX-VOMICA SEED"
+    ],
+    "manufacturer_name": [
+      "Washington Homeopathic Products"
+    ],
+    "product_ndc": [
+      "71919-804"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SODIUM CHLORIDE",
+      "BRYONIA ALBA ROOT",
+      "STRYCHNOS NUX-VOMICA SEED",
+      "ATROPA BELLADONNA"
+    ],
+    "spl_id": [
+      "2cc86239-1a59-13d2-e063-6394a90a1318"
+    ],
+    "spl_set_id": [
+      "06d25564-4c7e-0b3a-e063-6294a90a38bf"
+    ],
+    "package_ndc": [
+      "71919-804-14"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0016962",
+      "M0516536"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Plant Proteins [CS]",
+      "Seed Storage Proteins [CS]"
+    ],
+    "unii": [
+      "451W47IQ8X",
+      "T7J046YI2B",
+      "269XH13919",
+      "WQZ3G9PF0H"
+    ]
+  }
+}

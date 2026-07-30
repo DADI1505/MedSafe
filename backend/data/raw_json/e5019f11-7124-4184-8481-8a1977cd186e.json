@@ -1,0 +1,94 @@
+{
+  "spl_product_data_elements": [
+    "retaine MGD Mineral Oil Cetrimonium Bromide GLYCERIN POLOXAMER 188 TROMETHAMINE HYDROCHLORIDE TROMETHAMINE TYLOXAPOL WATER LIGHT MINERAL OIL LIGHT MINERAL OIL MINERAL OIL MINERAL OIL Carton Label"
+  ],
+  "active_ingredient": [
+    "Active ingredients Light Mineral Oil (0.5%) Mineral Oil (0.5%)"
+  ],
+  "purpose": [
+    "Purpose Emollient"
+  ],
+  "indications_and_usage": [
+    "Uses For use as a protectant against further irritation or to relieve dryness of the eye."
+  ],
+  "warnings": [
+    "Warnings For use in the eyes only."
+  ],
+  "do_not_use": [
+    "Do not use if this product changes color."
+  ],
+  "when_using": [
+    "When using this product do not touch tip of container to any surface to avoid contamination. do not reuse once opened."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if you feel eye pain or changes in vision, continued redness or irritation of the eye. the condition worsens or persists for more than 72 hours."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF THE REACH OF CHILDREN If swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions Shake well before using. Instill 1 or 2 drops in the affected eye(s) as needed and discard container."
+  ],
+  "spl_unclassified_section": [
+    "Other information Use only if tamper seals on top and bottom flaps are intact. Drops appear as a milky white emulsion. Store between 15 o -30 o C (59 o -86 o F)."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Cetrimonium Bromide, glycerin, poloxamer 188, tris hydrochloride, tromethamine, tyloxapol, water for injection."
+  ],
+  "questions": [
+    "Questions? Call (800) 233-5469 M-F 8:30AM-5:30PM CST or visit www.ocusoft.com"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 30 sterile Single-Dose Containers NDC 54799-917-30 OCuSOFT ® MGD™ ADVANCED™ Lubricant Eye Drops Non-Preserved * Relieves Irritation Long-Lasting Comfort Superior Dry Eye Relief Without A Prescription 30 Sterile Single-Dose Vials 0.01 fl oz (0.4 mL) each Retaine ® MGD™ Advanced™ is a non-preserved * ophthalmic emulsion that delivers complete Dry Eye relief utilizing a proprietary oil in water emulsion technology (microemulsification) with electrostatic attraction to restore the three layers of the tear film without blurring. Replenishes LIPID LAYER and reduces tear evaporation Adds moisture to AQUEOUS LAYER Lubricates and protects MUCIN LAYER * Cetrimonium bromide is a cationic stabilizer and is not added as a preservative. Positively Charged Retaine ® MGD™ Droplets Negatively Charged Ocular Surface Use only if twist top of single-dose vial is intact. OCuSOFT ® Manufactured for OCuSOFT LLC. Rosenberg, TX 77471 USA © 2025 OCuSOFT Inc. www.ocusoft.com Patents: www.ocusoft.com/patents All registered trademarks are property of OCuSOFT Inc."
+  ],
+  "set_id": "06f57d46-96c7-4093-84aa-874ff4b2131d",
+  "id": "e5019f11-7124-4184-8481-8a1977cd186e",
+  "effective_time": "20260115",
+  "version": "8",
+  "openfda": {
+    "application_number": [
+      "M018"
+    ],
+    "brand_name": [
+      "retaine MGD"
+    ],
+    "generic_name": [
+      "MINERAL OIL"
+    ],
+    "manufacturer_name": [
+      "OCuSOFT LLC"
+    ],
+    "product_ndc": [
+      "54799-917"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "LIGHT MINERAL OIL",
+      "MINERAL OIL"
+    ],
+    "rxcui": [
+      "1236277"
+    ],
+    "spl_id": [
+      "e5019f11-7124-4184-8481-8a1977cd186e"
+    ],
+    "spl_set_id": [
+      "06f57d46-96c7-4093-84aa-874ff4b2131d"
+    ],
+    "package_ndc": [
+      "54799-917-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "N6K5787QVP",
+      "T5L8T28FGP"
+    ]
+  }
+}

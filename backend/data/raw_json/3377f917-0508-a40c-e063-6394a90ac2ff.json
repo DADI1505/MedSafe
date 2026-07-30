@@ -1,0 +1,94 @@
+{
+  "spl_product_data_elements": [
+    "Dukal Sterile Alcohol Prep Pad ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL WATER"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Isopropyl Alcohol 70% Purpose Antiseptic Cleanser"
+  ],
+  "purpose": [
+    "Use For Preparation of Skin prior to an injection"
+  ],
+  "indications_and_usage": [
+    "For preparation of the skin prior to injection Indications & Usage Section Updated to match label claim"
+  ],
+  "recent_major_changes": [
+    "Indications & Usage Section Updated to match label claim"
+  ],
+  "warnings": [
+    "Warnings For External Use Only Flammable, Keep away from fire or flame"
+  ],
+  "do_not_use": [
+    "Do Not Use with electrocautery procedures In the Eyes. If contact occurs, flush eyes with water"
+  ],
+  "stop_use": [
+    "Stop Use If irritation and redness develop. If condition persists, consult your health care practitioner."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Other Information Store at Room Temperature 15 - 30 C (59 - 86 F)"
+  ],
+  "storage_and_handling": [
+    "Other Information Store at Room Temperature 15 - 30 C (59 - 86 F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredient purified water"
+  ],
+  "package_label_principal_display_panel": [
+    "Dukal Alcohol Pad Sterile Saturated with 70% Isopropyl Alcohol For External Use Only Not made with natural rubber latex / Single Use Sterility guaranteed unless package is damaged or opened Manufactured For: Dukal, LLC 1(800)243-0741 /Ronkonkoma, NY 11779 / dukal.com Made in China Dukal is a trademark registered in the US Patent & Trademark Office by Dukal, LLC 1 Per Pouch / NDC 65517-0002-1 / REF 853 853",
+    "Dukal Alcohol Prep Pad Sterile Saturated with 70% Isopropyl Alcohol For External Use Only Not made with natural rubber latex / Single Use Sterility guaranteed unless package is damaged or opened Manufactured For: Dukal, LLC 1(800)243-0741 /Ronkonkoma, NY 11779 / dukal.com Made in China Dukal is a trademark registered in the US Patent & Trademark Office by Dukal, LLC 1 Per Pouch / NDC 65517-0002-3 / REF 857 857"
+  ],
+  "set_id": "00b2c444-8601-4d8f-b6bb-91b864fd9041",
+  "id": "3377f917-0508-a40c-e063-6394a90ac2ff",
+  "effective_time": "20250423",
+  "version": "8",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Dukal Sterile Alcohol Prep Pad"
+    ],
+    "generic_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Dukal LLC"
+    ],
+    "product_ndc": [
+      "65517-0002"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "rxcui": [
+      "797544"
+    ],
+    "spl_id": [
+      "3377f917-0508-a40c-e063-6394a90ac2ff"
+    ],
+    "spl_set_id": [
+      "00b2c444-8601-4d8f-b6bb-91b864fd9041"
+    ],
+    "package_ndc": [
+      "65517-0002-1",
+      "65517-0002-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "ND2M416302"
+    ]
+  }
+}

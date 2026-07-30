@@ -1,0 +1,115 @@
+{
+  "spl_product_data_elements": [
+    "DEMYC RANUNCULUS BULBOSUS, Delphinium staphisagria Seed, MACROPIPER METHYSTICUM ROOT, Anagallis arvensis, Calendula officinalis Flowering Top, and SAGE RANUNCULUS BULBOSUS WHOLE RANUNCULUS BULBOSUS WHOLE DELPHINIUM STAPHISAGRIA SEED DELPHINIUM STAPHISAGRIA SEED PIPER METHYSTICUM ROOT PIPER METHYSTICUM ROOT LYSIMACHIA ARVENSIS WHOLE LYSIMACHIA ARVENSIS WHOLE CALENDULA OFFICINALIS FLOWERING TOP CALENDULA OFFICINALIS FLOWERING TOP SAGE SAGE GLYCERIN WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Active ingredients: Delphinium staphysagria 6X Piper methysticum 8X Ranunculus bulbosus 5X Anagallis arvensis 11.85 mg/ml Calendula officinalis 40.30 mg/ml Salvia officinalis Anhydrous glycerin 38.70 mg/ml Selected ingredients prepared by spagyric processes."
+  ],
+  "active_ingredient_table": [
+    "<table width=\"75%\"><col width=\"80%\" align=\"left\" valign=\"top\"/><col width=\"20%\" align=\"right\" valign=\"top\"/><thead><tr><th colspan=\"2\">Active ingredients:</th></tr></thead><tbody><tr><td>Delphinium staphysagria</td><td>6X</td></tr><tr><td>Piper methysticum</td><td>8X</td></tr><tr><td>Ranunculus bulbosus</td><td>5X</td></tr><tr><td>Anagallis arvensis</td><td>11.85 mg/ml</td></tr><tr><td>Calendula officinalis</td><td>40.30 mg/ml</td></tr><tr><td>Salvia officinalis  Anhydrous glycerin</td><td>38.70 mg/ml</td></tr></tbody></table>"
+  ],
+  "inactive_ingredient": [
+    "Contains 26% alcohol by volume."
+  ],
+  "indications_and_usage": [
+    "Indications For relief of minor skin fungus, such as athlete's foot. Application of this homeopathic remedy for the designated usage is exclusively based on homeopathic experience. With severe forms of this disease, a clinically proven therapy is indicated."
+  ],
+  "purpose": [
+    "For relief of minor skin fungus, such as athlete's foot. Application of this homeopathic remedy for the designated usage is exclusively based on homeopathic experience. With severe forms of this disease, a clinically proven therapy is indicated."
+  ],
+  "dosage_and_administration": [
+    "Dosage Unless otherwise prescribed, adults apply drops onto affected area several times per day. For external use only."
+  ],
+  "warnings": [
+    "Warning If symptoms persist, contact a licensed practitioner. If you have known sensitivity to any of the ingredients, please consult your licensed practitioner before use. If you are pregnant or nursing a baby, seek the advice of a health care professional before use. Keep out of the reach of children. Protect from light and heat. Tamper Evident Do not use this product if tamper evident strip is broken or removed from base of cap."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children."
+  ],
+  "storage_and_handling": [
+    "Protect from light and heat."
+  ],
+  "questions": [
+    "To report adverse events, contact BioResource at 321B Blodgett Street, Cotati, CA 94931"
+  ],
+  "spl_unclassified_section": [
+    "Distributed by: BioResource Inc. Cotati, CA 94931 Manufactured by: PEKANA ® GmbH D-88353 Kisslegg"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 20 ml Bottle Box DEMYC™ Homeopathic External Drops Homeopathic Medicine For relief of minor skin fungus, such as athlete's foot 0.7 OZ (20 ml) PEKANA ® PRINCIPAL DISPLAY PANEL - 20 ml Bottle Box"
+  ],
+  "set_id": "03b8001a-9910-4ce8-92ac-fabe4f9a0002",
+  "id": "28ef7cc8-b305-4431-b400-3625a6213d3a",
+  "effective_time": "20230111",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "DEMYC"
+    ],
+    "generic_name": [
+      "RANUNCULUS BULBOSUS, DELPHINIUM STAPHISAGRIA SEED, MACROPIPER METHYSTICUM ROOT, ANAGALLIS ARVENSIS, CALENDULA OFFICINALIS FLOWERING TOP, AND SAGE"
+    ],
+    "manufacturer_name": [
+      "PEKANA Naturheilmittel GmbH"
+    ],
+    "product_ndc": [
+      "59469-306"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "RANUNCULUS BULBOSUS WHOLE",
+      "DELPHINIUM STAPHISAGRIA SEED",
+      "PIPER METHYSTICUM ROOT",
+      "LYSIMACHIA ARVENSIS WHOLE",
+      "CALENDULA OFFICINALIS FLOWERING TOP",
+      "SAGE"
+    ],
+    "spl_id": [
+      "28ef7cc8-b305-4431-b400-3625a6213d3a"
+    ],
+    "spl_set_id": [
+      "03b8001a-9910-4ce8-92ac-fabe4f9a0002"
+    ],
+    "package_ndc": [
+      "59469-306-20"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185375",
+      "N0000185371",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "M0006342",
+      "M0016962"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Plant Allergenic Extract [EPC]",
+      "Non-Standardized Food Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Dietary Proteins [CS]",
+      "Plant Proteins [CS]"
+    ],
+    "unii": [
+      "AEQ8NXJ0MB",
+      "00543AP1JV",
+      "BOW48C81XP",
+      "46883LR90E",
+      "18E7415PXQ",
+      "065C5D077J"
+    ]
+  }
+}

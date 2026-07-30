@@ -1,0 +1,98 @@
+{
+  "spl_product_data_elements": [
+    "Softlips Watermelon dimethicone, octinoxate, octisalate, oxybenzone SQUALANE ETHYLHEXYL PALMITATE PETROLATUM MYRISTYL MYRISTATE MYRISTYL LACTATE CETYL ALCOHOL MYRISTYL LAURATE MYRISTYL ALCOHOL BUTYLATED HYDROXYTOLUENE MENTHOL, UNSPECIFIED FORM .ALPHA.-TOCOPHEROL ACETATE DIMETHICONE DIMETHICONE OCTINOXATE OCTINOXATE OCTISALATE OCTISALATE OXYBENZONE OXYBENZONE CERESIN"
+  ],
+  "active_ingredient": [
+    "Active ingredient Dimethicone 2% Octinoxate 7.5% Octisalate 3% Oxybenzone 3%"
+  ],
+  "purpose": [
+    "Purpose Dimethicone - Skin protectant Octinoxate - Sunscreen Octisalate - Sunscreen Oxybenzone - Sunscreen"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep Out of Reach of Children If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "indications_and_usage": [
+    "Uses helps prevent sunburn temporarily protects chapped or cracked lips"
+  ],
+  "warnings": [
+    "Warnings Skin Cancer/Skin Aging Alert: Spending time in the sun increased your risk of skin cancer and early skin aging. This product has been shown only to prevent sunburn, not skin cancer or early skin aging. For external use only. Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs condition worsens symptoms last more than 7 days or clear up and occur again within a few days"
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin"
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs condition worsens symptoms last more than 7 days or clear up and occur again within a few days"
+  ],
+  "dosage_and_administration": [
+    "Directions apply liberally 15 minutes before sun exposure use a water resistant sunscreen if swimming or sweating reapply at least every 2 hours children under 6 months: ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients ozokerite, squalane, ethylhexyl palmitate, petrolatum, myristyl myristate, myristyl lactate, flavor, cetyl alcohol, myristyl laurate, myristyl alcohol, BHT, menthol, tocopheryl acetate [vitamin E]"
+  ],
+  "package_label_principal_display_panel": [
+    "Package/Label Principal Display Panel Softlips Watermelon",
+    "Principal Display Panel Drug Facts"
+  ],
+  "set_id": "03062f13-270d-49cf-8939-2349f12e9cba",
+  "id": "2979a53f-be08-612d-e063-6294a90acdda",
+  "effective_time": "20241217",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Softlips Watermelon"
+    ],
+    "generic_name": [
+      "DIMETHICONE, OCTINOXATE, OCTISALATE, OXYBENZONE"
+    ],
+    "manufacturer_name": [
+      "The Mentholatum Company"
+    ],
+    "product_ndc": [
+      "10742-8476"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "DIMETHICONE",
+      "OCTINOXATE",
+      "OCTISALATE",
+      "OXYBENZONE"
+    ],
+    "spl_id": [
+      "2979a53f-be08-612d-e063-6294a90acdda"
+    ],
+    "spl_set_id": [
+      "03062f13-270d-49cf-8939-2349f12e9cba"
+    ],
+    "package_ndc": [
+      "10742-8476-1",
+      "10742-8476-2",
+      "10742-8476-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000010282"
+    ],
+    "pharm_class_pe": [
+      "Skin Barrier Activity [PE]"
+    ],
+    "unii": [
+      "92RU3N3Y1O",
+      "4Y5P7MUD51",
+      "4X49Y0596W",
+      "95OOS7VE0Y"
+    ]
+  }
+}

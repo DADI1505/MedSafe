@@ -1,0 +1,100 @@
+{
+  "spl_product_data_elements": [
+    "Glitch Advanced Relief Eye Drops Polyethylene glycol 400, Tetrahydrozoline HCl POLYETHYLENE GLYCOL 400 POLYETHYLENE GLYCOL 400 BENZALKONIUM CHLORIDE BORIC ACID EDETATE DISODIUM SODIUM BORATE DEXTRAN 70 TETRAHYDROZOLINE HYDROCHLORIDE TETRAHYDROZOLINE POVIDONE WATER SODIUM CHLORIDE"
+  ],
+  "active_ingredient": [
+    "Active ingredients Polyethylene glycol 400 1% Tetrahydrozoline HCI 0.05%"
+  ],
+  "purpose": [
+    "Purposes Lubricant Redness reliever"
+  ],
+  "indications_and_usage": [
+    "Uses relieves redness of the eye due to minor eye irritations as a lubricant to prevent further irritation or to relieve dryness of the eye"
+  ],
+  "warnings": [
+    "Warnings For external use only Ask a doctor before use if you have narrow angle glaucoma When using this product pupils may become enlarged temporarily to avoid contamination, do not touch tip of container to any surface. Replace cap after using. if solution changes color or becomes cloudy, do not use overuse may produce increased redness of the eye remove contact lens before using Stop use and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have narrow angle glaucoma"
+  ],
+  "when_using": [
+    "When using this product pupils may become enlarged temporarily to avoid contamination, do not touch tip of container to any surface. Replace cap after using. if solution changes color or becomes cloudy, do not use overuse may produce increased redness of the eye remove contact lens before using"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions instill 1 to 2 drops in the affected eye(s) up to 4 times daily"
+  ],
+  "other_safety_information": [
+    "Other information store at 15º-30ºC (59º-86ºF)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients benzalkonium chloride, boric acid, dextran, edetate disodium, povidone, purified water, sodium borate, sodium chloride"
+  ],
+  "questions": [
+    "Questions or comments? Call 1-662-993-9625 Mon-Fri 9 am - 5 pm EST"
+  ],
+  "package_label_principal_display_panel": [
+    "Glitch Advanced Relief Eye Drops 15mL Glitch Advanced Relief Eye Drops 15mL"
+  ],
+  "set_id": "03778509-3374-2168-e063-6294a90a9505",
+  "id": "29ee96d1-0d7e-8472-e063-6394a90a3dfa",
+  "effective_time": "20241223",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M018"
+    ],
+    "brand_name": [
+      "Glitch Advanced Relief Eye Drops"
+    ],
+    "generic_name": [
+      "POLYETHYLENE GLYCOL 400, TETRAHYDROZOLINE HCL"
+    ],
+    "manufacturer_name": [
+      "Misemer Pharmaceutical, Inc"
+    ],
+    "product_ndc": [
+      "0276-0801"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "POLYETHYLENE GLYCOL 400",
+      "TETRAHYDROZOLINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "996209"
+    ],
+    "spl_id": [
+      "29ee96d1-0d7e-8472-e063-6394a90a3dfa"
+    ],
+    "spl_set_id": [
+      "03778509-3374-2168-e063-6294a90a9505"
+    ],
+    "package_ndc": [
+      "0276-0801-15"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0302760801157"
+    ],
+    "unii": [
+      "B697894SGQ",
+      "0YZT43HS7D"
+    ]
+  }
+}

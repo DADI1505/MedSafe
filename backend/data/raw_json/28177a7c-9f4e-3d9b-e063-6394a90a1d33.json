@@ -1,0 +1,101 @@
+{
+  "spl_product_data_elements": [
+    "Emvita 23 Agaricus muscarius, Cuprum met, Hypophysis, Rhus tox ALCOHOL WATER AMANITA MUSCARIA FRUITING BODY AMANITA MUSCARIA FRUITING BODY COPPER COPPER SUS SCROFA PITUITARY GLAND SUS SCROFA PITUITARY GLAND TOXICODENDRON PUBESCENS LEAF TOXICODENDRON PUBESCENS LEAF"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active Ingredients: (HPUS*) 25% of each Agaricus muscarius 21X Cuprum met 800C Hypophysis 21X Rhus tox 18LM *The letters \"HPUS\" indicate that the components in this product are officially monographed in the Homeopathic Pharmacopoeia of the United States. †Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "indications_and_usage": [
+    "Uses: (†) Homeopathic remedy for general well being: tenseness."
+  ],
+  "warnings": [
+    "Warnings: Stop use if symptoms persist or worsen. If you are pregnant or breastfeeding, consult a healthcare professional prior to use. Keep out of reach of children."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions: (adults & children 6 years & older) Take 12 drops 2 times daily, or as recommended by your health care professional."
+  ],
+  "other_safety_information": [
+    "Other information: Store at 20 - 25°C (68 - 77°F.) Do not use if box has been tampered with, or if the safety seal of the bottle is broken."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients: Ethanol 20% USP, Purified Water."
+  ],
+  "questions": [
+    "Manufactured by: OHM pharma, Inc, USA. Distributed by: Privia Naturals, LLC. 9169 W State St #196 Garden City, ID 83714 www.privianaturals.com Info@privianaturals.com Product of USA."
+  ],
+  "package_label_principal_display_panel": [
+    "NDC 66343-110-60 RUBIMED Emvita 23 Homeopathic Medicine For General Well-being: Tenseness 2.0 fl oz. 59mL 20% Ethanol Emvita 23 - Label Emvita 23 - Carton Homeopathic Medicine For General Well-being: Tenseness"
+  ],
+  "purpose": [
+    "Homeopathic Medicine For General Well-being: Tenseness"
+  ],
+  "set_id": "010a76a8-da24-4dd1-9005-c0c2d25526f5",
+  "id": "28177a7c-9f4e-3d9b-e063-6394a90a1d33",
+  "effective_time": "20241029",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Emvita 23"
+    ],
+    "generic_name": [
+      "AGARICUS MUSCARIUS, CUPRUM MET, HYPOPHYSIS, RHUS TOX"
+    ],
+    "manufacturer_name": [
+      "RUBIMED AG"
+    ],
+    "product_ndc": [
+      "66343-110"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "AMANITA MUSCARIA FRUITING BODY",
+      "COPPER",
+      "SUS SCROFA PITUITARY GLAND",
+      "TOXICODENDRON PUBESCENS LEAF"
+    ],
+    "spl_id": [
+      "28177a7c-9f4e-3d9b-e063-6394a90a1d33"
+    ],
+    "spl_set_id": [
+      "010a76a8-da24-4dd1-9005-c0c2d25526f5"
+    ],
+    "package_ndc": [
+      "66343-110-60"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "M0005152",
+      "N0000175831",
+      "N0000008595",
+      "N0000008924",
+      "N0000175830"
+    ],
+    "pharm_class_cs": [
+      "Copper [CS]"
+    ],
+    "pharm_class_epc": [
+      "Copper-containing Intrauterine Device [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Decreased Embryonic Implantation [PE]",
+      "Decreased Sperm Motility [PE]",
+      "Inhibit Ovum Fertilization [PE]"
+    ],
+    "unii": [
+      "DIF093I037",
+      "789U1901C5",
+      "L0PFEMQ1DT",
+      "6IO182RP7A"
+    ]
+  }
+}

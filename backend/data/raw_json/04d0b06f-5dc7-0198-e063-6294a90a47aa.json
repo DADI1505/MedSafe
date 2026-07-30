@@ -1,0 +1,124 @@
+{
+  "spl_product_data_elements": [
+    "Molybdenum Phosphoratum Molybdenum Phosphoratum SUCROSE PHOSPHOMOLYBDIC ACID PHOSPHOMOLYBDIC ACID Molybdenum Phosphoratum Molybdenum Phosphoratum PHOSPHOMOLYBDIC ACID PHOSPHOMOLYBDIC ACID SUCROSE Molybdenum Phosphoratum Molybdenum Phosphoratum SUCROSE PHOSPHOMOLYBDIC ACID PHOSPHOMOLYBDIC ACID Molybdenum Phosphoratum Molybdenum Phosphoratum PHOSPHOMOLYBDIC ACID PHOSPHOMOLYBDIC ACID SUCROSE Molybdenum Phosphoratum Molybdenum Phosphoratum PHOSPHOMOLYBDIC ACID PHOSPHOMOLYBDIC ACID SUCROSE Molybdenum Phosphoratum Molybdenum Phosphoratum PHOSPHOMOLYBDIC ACID PHOSPHOMOLYBDIC ACID SUCROSE Molybdenum Phosphoratum Molybdenum Phosphoratum PHOSPHOMOLYBDIC ACID PHOSPHOMOLYBDIC ACID SUCROSE Molybdenum Phosphoratum Molybdenum Phosphoratum PHOSPHOMOLYBDIC ACID PHOSPHOMOLYBDIC ACID SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    "",
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Molybdenum Phosphoratum 6C 5g Molybdenum Phosphoratum 6C 30g Molybdenum Phosphoratum 6C 100g Molybdenum Phosphoratum 12C 5g Molybdenum Phosphoratum 12C 30g Molybdenum Phosphoratum 12C 100g Molybdenum Phosphoratum 30C 1g Molybdenum Phosphoratum 30C 5g Molybdenum Phosphoratum 30C 30g Molybdenum Phosphoratum 30C 100g Molybdenum Phosphoratum 100C 1g Molybdenum Phosphoratum 100C 5g Molybdenum Phosphoratum 100C 30g Molybdenum Phosphoratum 100C 100g Molybdenum Phosphoratum 200C 1g Molybdenum Phosphoratum 200C 5g Molybdenum Phosphoratum 200C 30g Molybdenum Phosphoratum 200C 100g Molybdenum Phosphoratum 500C 1g Molybdenum Phosphoratum 500C 5g Molybdenum Phosphoratum 500C 30g Molybdenum Phosphoratum 500C 100g Molybdenum Phosphoratum 1M 1g Molybdenum Phosphoratum 1M 5g Molybdenum Phosphoratum 1M 30g Molybdenum Phosphoratum 1M 100g Molybdenum Phosphoratum LM1 30g"
+  ],
+  "set_id": "04d0b06f-5dc6-0198-e063-6294a90a47aa",
+  "id": "04d0b06f-5dc7-0198-e063-6294a90a47aa",
+  "effective_time": "20230907",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Molybdenum Phosphoratum"
+    ],
+    "generic_name": [
+      "MOLYBDENUM PHOSPHORATUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3888",
+      "37662-3892",
+      "37662-3895",
+      "37662-3894",
+      "37662-3893",
+      "37662-3890",
+      "37662-3889",
+      "37662-3891"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PHOSPHOMOLYBDIC ACID"
+    ],
+    "spl_id": [
+      "04d0b06f-5dc7-0198-e063-6294a90a47aa"
+    ],
+    "spl_set_id": [
+      "04d0b06f-5dc6-0198-e063-6294a90a47aa"
+    ],
+    "package_ndc": [
+      "37662-3888-1",
+      "37662-3888-2",
+      "37662-3888-3",
+      "37662-3892-1",
+      "37662-3892-2",
+      "37662-3892-3",
+      "37662-3892-4",
+      "37662-3895-1",
+      "37662-3894-1",
+      "37662-3894-2",
+      "37662-3894-3",
+      "37662-3894-4",
+      "37662-3893-1",
+      "37662-3893-2",
+      "37662-3893-3",
+      "37662-3893-4",
+      "37662-3890-1",
+      "37662-3890-2",
+      "37662-3890-3",
+      "37662-3890-4",
+      "37662-3889-1",
+      "37662-3889-2",
+      "37662-3889-3",
+      "37662-3891-1",
+      "37662-3891-2",
+      "37662-3891-3",
+      "37662-3891-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "RN225F04V1"
+    ]
+  }
+}

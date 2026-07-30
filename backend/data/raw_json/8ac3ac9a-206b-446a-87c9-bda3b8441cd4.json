@@ -1,0 +1,107 @@
+{
+  "spl_product_data_elements": [
+    "Fexofenadine HCL Fexofenadine HCL FEXOFENADINE HYDROCHLORIDE FEXOFENADINE ANHYDROUS LACTOSE SILICON DIOXIDE STARCH, CORN CROSCARMELLOSE SODIUM HYPROMELLOSE, UNSPECIFIED LACTOSE MONOHYDRATE POLYETHYLENE GLYCOL, UNSPECIFIED FERRIC OXIDE RED STEARIC ACID TITANIUM DIOXIDE FERRIC OXIDE YELLOW SG;202"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENT(S), in each tablet Fexofenadine hydrochloride USP, 180 mg"
+  ],
+  "purpose": [
+    "PURPOSE Antihistamine"
+  ],
+  "indications_and_usage": [
+    "USE(S) temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat"
+  ],
+  "warnings": [
+    "WARNINGS"
+  ],
+  "do_not_use": [
+    "DO NOT USE if you have ever had an allergic reaction to this product or any of its ingredients."
+  ],
+  "ask_doctor": [
+    "ASK A DOCTOR BEFORE USE IF you have kidney disease. Your doctor should determine if you need a different dose."
+  ],
+  "when_using": [
+    "WHEN USING THIS PRODUCT § do not take more than directed § do not take at the same time as aluminum or magnesium antacids § do not take with fruit juices (see Directions)"
+  ],
+  "stop_use": [
+    "STOP USE AND ASK A DOCTOR IF an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS 60 mg adults and children 12 years of age and over take one 60 mg tablet with water every 12 hours; do not take more than 2 tablets in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor 180 mg adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"800.66\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col width=\"50%\"/><col width=\"50%\"/></colgroup><tbody><tr styleCode=\"Botrule First\"><td styleCode=\"Lrule Rrule\" valign=\"middle\">adults and children 12 years of age and over</td><td styleCode=\"Rrule\" valign=\"middle\">take one 60 mg tablet with water every 12 hours; do not take more than 2 tablets in 24 hours</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\">children under 12 years of age</td><td styleCode=\"Rrule\" valign=\"middle\">do not use</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\">adults 65 years of age and older</td><td styleCode=\"Rrule\" valign=\"middle\">ask a doctor</td></tr><tr><td styleCode=\"Lrule Rrule\" valign=\"middle\">consumers with kidney disease</td><td styleCode=\"Rrule\" valign=\"middle\">ask a doctor</td></tr></tbody></table>",
+    "<table width=\"800.66\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col width=\"50%\"/><col width=\"50%\"/></colgroup><tbody><tr styleCode=\"Botrule First\"><td styleCode=\"Lrule Rrule\" valign=\"middle\">adults and children 12 years of age and over</td><td styleCode=\"Rrule\" valign=\"middle\">take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\">children under 12 years of age</td><td styleCode=\"Rrule\" valign=\"middle\">do not use</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\">adults 65 years of age and older</td><td styleCode=\"Rrule\" valign=\"middle\">ask a doctor</td></tr><tr><td styleCode=\"Lrule Rrule\" valign=\"middle\">consumers with kidney disease</td><td styleCode=\"Rrule\" valign=\"middle\">ask a doctor</td></tr></tbody></table>"
+  ],
+  "spl_unclassified_section": [
+    "OTHER INFORMATION Safety Sealed: do not use if carton is opened or if printed foil inner seal on the bottle is torn or missing. store between 20° and 25°C (68° and 77°F) protect from excessive moisture"
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS anhydrous lactose, colloidal silicon dioxide, corn starch, croscarmellose sodium, lactose monohydrate, pregelatinized starch(maize), stearic acid, opadry pink 03B84893 containing hypromellose, polyethylene glycol, red iron oxide titanium dioxide and yellow iron oxide."
+  ],
+  "how_supplied": [
+    "HOW SUPPLIED SECTION Fexofenadine Hydrochloride Tablets, USP 180 mg 30 CT NDC: 71399-8042-3 Fexofenadine Hydrochloride Tablets, USP 180 mg 100 CT NDC: 71399-8042-1"
+  ],
+  "questions": [
+    "QUESTIONS OR COMMENTS Call weekdays 8.30 AM to 4.30 PM EST Please Call 1(877) 225-6999 Manufactured for: Akron Pharma, Inc. Fairfield, NJ 07004 Manufactured in U.S.A"
+  ],
+  "package_label_principal_display_panel": [
+    "30CT 100CT"
+  ],
+  "set_id": "08023b99-0634-4ac9-afd6-4f2d2e0d2c8a",
+  "id": "8ac3ac9a-206b-446a-87c9-bda3b8441cd4",
+  "effective_time": "20240820",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "ANDA204507"
+    ],
+    "brand_name": [
+      "Fexofenadine HCL"
+    ],
+    "generic_name": [
+      "FEXOFENADINE HCL"
+    ],
+    "manufacturer_name": [
+      "Akron Pharma Inc."
+    ],
+    "product_ndc": [
+      "71399-8042"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "FEXOFENADINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "997420"
+    ],
+    "spl_id": [
+      "8ac3ac9a-206b-446a-87c9-bda3b8441cd4"
+    ],
+    "spl_set_id": [
+      "08023b99-0634-4ac9-afd6-4f2d2e0d2c8a"
+    ],
+    "package_ndc": [
+      "71399-8042-3",
+      "71399-8042-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0377399204235",
+      "0371399804211"
+    ],
+    "unii": [
+      "2S068B75ZU"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Degree Advanced Shower Clean Dry Spray 72H Antiperspirant Deodorant PROPYLENE CARBONATE ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE MALTODEXTRIN SILICON DIOXIDE GLYCINE BENZYL SALICYLATE COUMARIN LIMONENE, (+)- BENZYL CINNAMATE ISOBUTANE .BETA.-CITRONELLOL, (R)- BUTANE 1,1-DIFLUOROETHANE CYCLOMETHICONE 5 PPG-14 BUTYL ETHER DISTEARDIMONIUM HECTORITE CALCIUM CHLORIDE CITRAL ISOMETHYL-.ALPHA.-IONONE BENZYL ALCOHOL .ALPHA.-HEXYLCINNAMALDEHYDE LINALOOL, (+/-)- PROPANE BUTYLATED HYDROXYTOLUENE"
+  ],
+  "description": [
+    "DEGREE ADVANCED SHOWER CLEAN DRY SPRAY 72H ANTIPERSPIRANT DEODORANT - aluminum Sesquichlorohydrate aerosol, spray"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient Aluminum Sesquichlorohydrate (17.6%)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses reduces underarm wetness"
+  ],
+  "dosage_and_administration": [
+    "Directions For underarms use only"
+  ],
+  "warnings": [
+    "Warnings"
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Butane, Cyclopentasiloxane, Hydrofluorocarbon 152a, Isobutane, PPG-14 Butyl Ether, Glycine, Fragrance (Parfum), Disteardimonium Hectorite, Calcium Chloride, Propane, BHT, Propylene Carbonate, Sodium Starch Octenylsuccinate, Maltodextrin, Hydrolyzed Corn Starch Octenylsuccinate, Silica, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Cinnamate, Benzyl Salicylate, Citral, Citronellol, Coumarin, Geraniol, Hexyl Cinnamal, Limonene, Linalool"
+  ],
+  "questions": [
+    "Questions? Call toll-free 1-866-334-7331"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Label Degree Shower Clean Dry Spray"
+  ],
+  "set_id": "03ff1926-745f-cdf8-e063-6294a90ab9b8",
+  "id": "4a7d138d-61b8-a472-e063-6294a90ad701",
+  "effective_time": "20260210",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Degree"
+    ],
+    "generic_name": [
+      "ADVANCED SHOWER CLEAN DRY SPRAY 72H ANTIPERSPIRANT DEODORANT"
+    ],
+    "manufacturer_name": [
+      "Conopco, Inc. d/b/a Unilever"
+    ],
+    "product_ndc": [
+      "64942-2181"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM SESQUICHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "4a7d138d-61b8-a472-e063-6294a90ad701"
+    ],
+    "spl_set_id": [
+      "03ff1926-745f-cdf8-e063-6294a90ab9b8"
+    ],
+    "package_ndc": [
+      "64942-2181-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "UCN889409V"
+    ]
+  }
+}

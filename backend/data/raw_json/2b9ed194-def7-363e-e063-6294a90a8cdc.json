@@ -1,0 +1,81 @@
+{
+  "spl_product_data_elements": [
+    "D-124 FERROSOFERRIC PHOSPHATE ALCOHOL WATER FERROSOFERRIC PHOSPHATE FERROSOFERRIC PHOSPHATE"
+  ],
+  "spl_unclassified_section": [
+    "NDC 58264-0130-1",
+    "To be used according to standard homeopathic indications."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS Colds, bladder irritation."
+  ],
+  "purpose": [
+    "Colds, bladder irritation."
+  ],
+  "active_ingredient": [
+    "INGREDIENTS ACTIVE Ferrum phosphoricum 6x, 12x, 30x INACTIVE 20% alcohol in purified water."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE 20% alcohol in purified water."
+  ],
+  "dosage_and_administration": [
+    "SUGGESTED DOSAGE One dropper under tongue two times daily. Acute symptoms ½ dropper under tongue every 30 minutes for two hours."
+  ],
+  "storage_and_handling": [
+    "SHAKE WELL"
+  ],
+  "warnings": [
+    "Warnings Use only if cap seal is unbroken. If pregnant or breastfeeding, ask a healthcare professional before use. Keep this and all medication out of the reach of children."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep this and all medication out of the reach of children."
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 1 FL. OZ. Bottle Label DYNAMIC NUTRITIONAL ASSOCIATES, INC. D 124 HOMEOPATHIC STRESS FORMULA 1 FL. OZ. PRINCIPAL DISPLAY PANEL - 1 FL. OZ. Bottle Label"
+  ],
+  "set_id": "04d46621-9654-4be6-84c2-c323f1e926b6",
+  "id": "2b9ed194-def7-363e-e063-6294a90a8cdc",
+  "effective_time": "20250113",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "D-124"
+    ],
+    "generic_name": [
+      "FERROSOFERRIC PHOSPHATE"
+    ],
+    "manufacturer_name": [
+      "DNA Labs, Inc."
+    ],
+    "product_ndc": [
+      "58264-0130"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "SUBLINGUAL"
+    ],
+    "substance_name": [
+      "FERROSOFERRIC PHOSPHATE"
+    ],
+    "spl_id": [
+      "2b9ed194-def7-363e-e063-6294a90a8cdc"
+    ],
+    "spl_set_id": [
+      "04d46621-9654-4be6-84c2-c323f1e926b6"
+    ],
+    "package_ndc": [
+      "58264-0130-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "91GQH8I5F7"
+    ]
+  }
+}

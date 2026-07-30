@@ -1,0 +1,82 @@
+{
+  "spl_product_data_elements": [
+    "SPF 30 Moisturizer with Aloe Vera Homosalate,Octocrylene,Avobenzone WATER ADIPIC ACID ADIPIC ACID/DIGLYCOL CROSSPOLYMER (20000 MPA.S) ISOPROPYL MYRISTATE POLYESTER-8 (1400 MW, CYANODIPHENYLPROPENOYL CAPPED) PROPYLENE GLYCOL HYDROGENATED POLYBUTENE (1300 MW) CETYL ALCOHOL SORBITAN MONOSTEARATE ALOE VERA LEAF ALLANTOIN SODIUM ASCORBYL PHOSPHATE .ALPHA.-TOCOPHEROL ACETATE VITAMIN A PALMITATE TROLAMINE ALKYL (C12-15) BENZOATE CARBOMER COPOLYMER TYPE B (ALLYL PENTAERYTHRITOL CROSSLINKED) POLYSORBATE 20 CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE PHENOXYETHANOL EDETATE DISODIUM ANHYDROUS CAPRYLYL GLYCOL HOMOSALATE HOMOSALATE OCTOCRYLENE OCTOCRYLENE AVOBENZONE AVOBENZONE"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Purpose Homosalate 7.0% Sunscreen Octocrylene 5.0% Sunscreen Avobenzone 2.0% Sunscreen"
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent sunburn If used as directed with other sun protection measures (See Directions), decreases the risk of skin cancer and early aging caused by the sun."
+  ],
+  "warnings": [
+    "Warnings For Extranal use only Do not use on damaged or broken skin. When using this product Keep out of eyes. Rinse with water to remove Stop use and ask doctor Rash or irritation develops and lasts Keep out of reach if children If product gets swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "dosage_and_administration": [
+    "Directions Apply liberally 15 minutes before sun exposure Reapply: After 80 minutes of swimming or sweating Immediately after towel drying. At least every 2 hours Sun Protection Measures : Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with broad spectrum SPF of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10:00a.m – 2:00p.m Wear long sleave shirts, pants, hats, and sunglasses. Children under 6 Months : Ask a doctor"
+  ],
+  "spl_unclassified_section": [
+    "Other information Protect this product from excessive heat and direact sun",
+    "Questions or Comments? 1-800-826-8287"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Water (Aqua), Adipic Acid, Adipic Acid/Diglycol Crosspolymer, Isopropyl Myristate, Polyester-8, Propylene Glycol, Hydrogenated Polyisobutene, Cetyl alcohol, Sorbitan Stearate, Fragrance, Aloe Barbadensis Leaf Extract, Allantoin, Sodium Ascorbyl Phosphate, Tocopheryl Acetate, Retinyl Palmitate, Triethanolamine, C12-15 Alkyl Benzoate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polysorbate 20, Carbomer, Phenoxyethanol, Disodium EDTA, Caprylyl Glycol."
+  ],
+  "package_label_principal_display_panel": [
+    "Product label image description"
+  ],
+  "set_id": "0828593a-fa3e-42ae-8f9f-59787843bf39",
+  "id": "3b3e0d0b-d390-c401-e063-6394a90a16d2",
+  "effective_time": "20250731",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "SPF 30 Moisturizer with Aloe Vera"
+    ],
+    "generic_name": [
+      "HOMOSALATE,OCTOCRYLENE,AVOBENZONE"
+    ],
+    "manufacturer_name": [
+      "Audrey Morris Cosmetics International, LLC"
+    ],
+    "product_ndc": [
+      "83695-001"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "HOMOSALATE",
+      "OCTOCRYLENE",
+      "AVOBENZONE"
+    ],
+    "spl_id": [
+      "3b3e0d0b-d390-c401-e063-6394a90a16d2"
+    ],
+    "spl_set_id": [
+      "0828593a-fa3e-42ae-8f9f-59787843bf39"
+    ],
+    "package_ndc": [
+      "83695-001-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "V06SV4M95S",
+      "5A68WGF6WM",
+      "G63QQF2NOX"
+    ]
+  }
+}

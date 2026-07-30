@@ -1,0 +1,109 @@
+{
+  "spl_product_data_elements": [
+    "Aveeno Anti-Itch Concentrated Zinc Oxide, Ferric Oxide Red, and Pramoxine Hydrochloride WATER GLYCERIN DISTEARYLDIMONIUM CHLORIDE PETROLATUM ISOPROPYL PALMITATE CETYL ALCOHOL DIMETHICONE METHYLPARABEN SODIUM CHLORIDE OAT KERNEL OIL OATMEAL OAT ZINC OXIDE ZINC OXIDE FERRIC OXIDE RED FERRIC OXIDE RED PRAMOXINE HYDROCHLORIDE PRAMOXINE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Distributed by: JOHNSON & JOHNSON CONSUMER INC. Skillman, NJ 08558"
+  ],
+  "active_ingredient": [
+    "Active ingredients Purpose Calamine 3% Skin Protectant Pramoxine HCl 1% External Analgesic"
+  ],
+  "active_ingredient_table": [
+    "<table width=\"75%\"><col width=\"75%\" align=\"left\" valign=\"top\"/><col width=\"25%\" align=\"left\" valign=\"top\"/><thead><tr><th><content styleCode=\"italics\">Active ingredients</content></th><th>Purpose</th></tr></thead><tbody><tr><td>Calamine 3%</td><td>Skin Protectant</td></tr><tr><td>Pramoxine HCl 1%</td><td>External Analgesic</td></tr></tbody></table>"
+  ],
+  "purpose": [
+    "Active ingredients Purpose Calamine 3% Skin Protectant Pramoxine HCl 1% External Analgesic"
+  ],
+  "purpose_table": [
+    "<table width=\"75%\"><col width=\"75%\" align=\"left\" valign=\"top\"/><col width=\"25%\" align=\"left\" valign=\"top\"/><thead><tr><th><content styleCode=\"italics\">Active ingredients</content></th><th>Purpose</th></tr></thead><tbody><tr><td>Calamine 3%</td><td>Skin Protectant</td></tr><tr><td>Pramoxine HCl 1%</td><td>External Analgesic</td></tr></tbody></table>"
+  ],
+  "indications_and_usage": [
+    "Uses For temporary relief of pain and itching associated with: minor burns sunburn minor cuts scrapes insect bites minor skin irritations rashes due to poison ivy, poison oak, or poison sumac Dries the oozing and weeping of poison: ivy oak sumac"
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use on wounds or damaged skin When using this product do not get into eyes do not bandage tightly Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on wounds or damaged skin"
+  ],
+  "when_using": [
+    "When using this product do not get into eyes do not bandage tightly"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 2 years of age and older: Apply to affected area not more than 3 to 4 times daily. Children under 2 years of age: ask a doctor."
+  ],
+  "storage_and_handling": [
+    "Other information Store at Room Temperature"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water, Glycerin, Distearyldimonium Chloride, Petrolatum, Isopropyl Palmitate, Cetyl Alcohol, Dimethicone, Camphor, Methylparaben, Sodium Chloride, Avena Sativa (Oat) Kernel Oil, Avena Sativa (Oat) Kernal Flour, Avena Sativa (Oat) Kernel Extract"
+  ],
+  "questions": [
+    "Questions? call toll-free 866-428-3366 or 215-273-8755 (collect) www.aveeno.com"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 118 mL Bottle Label Dermatologist Recommended Aveeno ® Anti-Itch CONCENTRATED LOTION External Analgesic/Skin Protectant Fast-Acting, Soothing Itch Relief of: Poison Ivy/Oak/Sumac, Insect Bites Soothes Chicken Pox Rash and Allergic Itches Aveeno ® Dermatologist recommended for over 65 years with Triple Oat Complex 4 fl. oz. (118 mL) PRINCIPAL DISPLAY PANEL - 118 mL Bottle Label"
+  ],
+  "set_id": "07f4d4d0-9cee-46c3-bc71-2024abd31c9e",
+  "id": "4231d5a3-ee70-83e1-e063-6294a90a0c9b",
+  "effective_time": "20251029",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Aveeno Anti-Itch Concentrated"
+    ],
+    "generic_name": [
+      "ZINC OXIDE, FERRIC OXIDE RED, AND PRAMOXINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Kenvue Brands LLC"
+    ],
+    "product_ndc": [
+      "69968-0475"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE",
+      "FERRIC OXIDE RED",
+      "PRAMOXINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1233698"
+    ],
+    "spl_id": [
+      "4231d5a3-ee70-83e1-e063-6294a90a0c9b"
+    ],
+    "spl_set_id": [
+      "07f4d4d0-9cee-46c3-bc71-2024abd31c9e"
+    ],
+    "package_ndc": [
+      "69968-0475-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0381370036906"
+    ],
+    "unii": [
+      "SOI2LOH54Z",
+      "1K09F3G675",
+      "88AYB867L5"
+    ]
+  }
+}

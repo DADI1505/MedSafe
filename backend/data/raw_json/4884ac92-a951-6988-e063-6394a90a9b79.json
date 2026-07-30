@@ -1,0 +1,95 @@
+{
+  "spl_product_data_elements": [
+    "Dior Forever Skin Wear Flawless Skin True Foundation SPF 20 6W Warm OCTISALATE, TITANIUM DIOXIDE WATER METHYL TRIMETHICONE ALCOHOL ISODODECANE BUTYLENE GLYCOL DIMETHICONE VINYL DIMETHICONE/METHICONE SILSESQUIOXANE CROSSPOLYMER DISTEARDIMONIUM HECTORITE NIACINAMIDE POLYGLYCERYL-10 DECAISOSTEARATE SODIUM MYRISTOYL GLUTAMATE PROPYLENE CARBONATE CHLORPHENESIN MEDIUM-CHAIN TRIGLYCERIDES ALUMINUM HYDROXIDE HYALURONIC ACID TROMETHAMINE ISOSTEARIC ACID ALUMINA STEARIC ACID TOCOPHEROL PENTYLENE GLYCOL IRIS X GERMANICA NOTHOVAR. FLORENTINA ROOT TROPAEOLUM MAJUS FLOWERING TOP SODIUM BENZOATE POTASSIUM SORBATE ACETYL HEXAPEPTIDE-8 AMIDE OCTISALATE ETHYLHEXYL SALICYLATE TITANIUM DIOXIDE CI 77891"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information Protect the product in this container from excessive heat and direct sun."
+  ],
+  "active_ingredient": [
+    "Active ingredients Octisalate 3.50% Titanium Dioxide 0.94% Purpose Sunscreen"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent sunburn. If used as directed with other sun protection measures ( see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use on damaged or broken skin. When using this product, keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin."
+  ],
+  "when_using": [
+    "When using this product, keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply liberally 15 minutes before sun exposure. Reapply at least every 2 hours. Use a water-resistant sunscreen if swimming or sweating. Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. - 2 p.m. wear long-sleeve shirts, pants, hats, and sunglasses. Children under 6 months of age: ask a doctor."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients AQUA (WATER) • METHYL TRIMETHICONE • ALCOHOL • ISODODECANE • PEG-10 DIMETHICONE • TRIMETHYLSILOXYSILICATE • BUTYLENE GLYCOL • METHYL METHACRYLATE CROSSPOLYMER • DIMETHICONE • DIPHENYL DIMETHICONE/VINYL DIPHENYL DIMETHICONE/SILSESQUIOXANE CROSSPOLYMER • VINYL DIMETHICONE/METHICONE SILSESQUIOXANE CROSSPOLYMER • CETYL DIMETHICONE • DISTEARDIMONIUM HECTORITE • NIACINAMIDE • POLYGLYCERYL-10 DECAISOSTEARATE • SODIUM MYRISTOYL GLUTAMATE • PARFUM (FRAGRANCE) • PROPYLENE CARBONATE • CHLORPHENESIN • POLYHYDROXYSTEARIC ACID • CAPRYLICA/CAPRIC TRIGLYCERIDE • ALUMINUM HYDROXIDE • HYALURONIC ACID • TROMETHAMINE • ISOSTEARIC ACID • ALUMINA • STEARIC ACID • TOCOPHEROL • POLYGLYCERYL-3 POLYRICINOLEATE • LECITHIN • PENTYLENE GLYCOL • IRIS FLORENTINA ROOT EXTRACT • TROPAEOLUM MAJUS FLOWER/LEAF/STEM EXTRACT • SODIUM BENZOATE • POTASSIUM SORBATE • ACETYL HEXAPEPTIDE-8 [MAY CONTAIN : CI 77491 (IRON OXIDES), CI 77492 (IRON OXIDES) , CI 77499 (IRON OXIDES), CI 77891 (TITANIUM DIOXIDE)]. N° 22157/Z"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: 1050",
+    "Package Labeling: Outer Package06 Inner Package06 Box06"
+  ],
+  "set_id": "03c7ca69-86f1-420c-9c4c-0bf2e8553c94",
+  "id": "4884ac92-a951-6988-e063-6394a90a9b79",
+  "effective_time": "20260116",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Dior Forever Skin Wear Flawless Skin True Foundation SPF 20 6W Warm"
+    ],
+    "generic_name": [
+      "OCTISALATE, TITANIUM DIOXIDE"
+    ],
+    "manufacturer_name": [
+      "Parfums Christian Dior"
+    ],
+    "product_ndc": [
+      "61957-3438"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OCTISALATE",
+      "TITANIUM DIOXIDE"
+    ],
+    "spl_id": [
+      "4884ac92-a951-6988-e063-6394a90a9b79"
+    ],
+    "spl_set_id": [
+      "03c7ca69-86f1-420c-9c4c-0bf2e8553c94"
+    ],
+    "package_ndc": [
+      "61957-3438-1",
+      "61957-3438-0"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "3348901799249",
+      "3348901797542"
+    ],
+    "unii": [
+      "4X49Y0596W",
+      "15FIX9V2JP"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "Hand sanitizer 2oz 2pk lavender Ethyl Alcohol 70% D&C RED NO. 33 FD&C BLUE NO. 1 WATER .ALPHA.-TOCOPHEROL ACETATE ALCOHOL ALCOHOL GLYCERIN PROPYLENE GLYCOL AMINOMETHYLPROPANOL ALOE VERA LEAF CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE"
+  ],
+  "active_ingredient": [
+    "Active ingredient Ethyl Alcohol 70% V/V"
+  ],
+  "purpose": [
+    "Purpose Antimicrobial"
+  ],
+  "indications_and_usage": [
+    "Uses for handwashing to decrease bacteria on the skin recommended for repeated use"
+  ],
+  "warnings": [
+    "Warnings For external use only Flammable, keep away from heat and flame Do not use Do not use in the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if Stop use and ask a doctor if irritation and redness develop and persist for more than 72 hours. Keep out of reach of children If swallowed , get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use Do not use in the eyes. In case of contact, rinse eyes thoroughly with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if Stop use and ask a doctor if irritation and redness develop and persist for more than 72 hours."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed , get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions wet hands thoroughly with product briskly rub hands together until dry supervise children under 6 years in the use of this product"
+  ],
+  "storage_and_handling": [
+    "Other inofrmation store at room temperature may discolor certain fabrics"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water carbomer glycerin propylene glycol aminomethyl propanol fragrance aloe barbadensis leaf juice tocopheryl acetate fd&c blue no.1 d&c red no.33"
+  ],
+  "package_label_principal_display_panel": [
+    "Label label 1 label 2"
+  ],
+  "set_id": "052031f9-5206-c1bc-e063-6394a90ab0f2",
+  "id": "2c6b8855-e7dd-f01c-e063-6394a90ad3e2",
+  "effective_time": "20250123",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Hand sanitizer 2oz 2pk lavender"
+    ],
+    "generic_name": [
+      "ETHYL ALCOHOL 70%"
+    ],
+    "manufacturer_name": [
+      "Rejoice International Corp."
+    ],
+    "product_ndc": [
+      "57337-146"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "581662"
+    ],
+    "spl_id": [
+      "2c6b8855-e7dd-f01c-e063-6394a90ad3e2"
+    ],
+    "spl_set_id": [
+      "052031f9-5206-c1bc-e063-6394a90ab0f2"
+    ],
+    "package_ndc": [
+      "57337-146-01",
+      "57337-146-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0639277921253"
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

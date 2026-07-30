@@ -1,0 +1,117 @@
+{
+  "spl_product_data_elements": [
+    "VICKS FORMULA 44DM NIGHTTIME COUGH and COLD Acetaminophen, Dextromethorphan HBr, Chlorpheniramine Maleate XANTHAN GUM SUCRALOSE CITRIC ACID MONOHYDRATE FD&C RED NO. 40 GLYCERIN SORBITOL PROPYLENE GLYCOL WATER SACCHARIN SODIUM SODIUM BENZOATE SODIUM CITRATE ACETAMINOPHEN ACETAMINOPHEN CHLORPHENIRAMINE MALEATE CHLORPHENIRAMINE DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults & for children even if you do not notice any signs or symptoms.",
+    "TAMPER EVIDENT: Do not use if printed shrinkband is broken or missing.",
+    "DIST. BY PROCTER & GAMBLE, CINCINNATI OH 45202"
+  ],
+  "active_ingredient": [
+    "Active ingredients (in each 30 mL) Acetaminophen 650 mg Chlorpheniramine maleate 4 mg Dextromethorphan HBr 30 mg Purpose Pain reliever/Fever reducer Antihistamine Cough suppressant"
+  ],
+  "purpose": [
+    "Purpose Pain reliever/Fever reducer Antihistamine Cough suppressant"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves common cold/flu symptoms: cough due to minor throat and bronchial irritation sore throat headache minor aches and pains fever runny nose and sneezing"
+  ],
+  "warnings": [
+    "Warnings Liver warning This product contains acetaminophen. Severe liver damage may occur if you take more than 4 doses in 24 hours, which is the maximum daily amount for this product with other drugs containing acetaminophen 3 or more alcoholic drinks daily while using this product Allergy Alert: Acetaminophen may cause severe skin reactions. Symptoms may include: Skin reddening Blisters Rash If a skin reaction occurs, stop use and seek medical help right away Sore throat warning If sore throat is severe, persists for more than 2 days, is accompanied or is followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly."
+  ],
+  "do_not_use": [
+    "Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have liver disease glaucoma cough that occurs with too much phlegm (mucus) a breathing problem or chronic cough that lasts or as occurs with smoking, asthma, chronic bronchitis or emphysema trouble urinating due to enlarged prostate gland"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers taking the blood thinning drug warfarin"
+  ],
+  "when_using": [
+    "When using this product excitability may occur, especially in children marked drowsiness may occur avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery alcohol, sedatives, and tranquilizers may increase drowsiness"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if pain or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back, or occurs with rash or headache that lasts. These could be signs of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding , ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions • take only as directed • only use the dose cup provided • do not exceed 4 doses per 24 hrs adults & children 12 yrs & over 30 mL every 6 hrs children 4 to under 12 yrs ask a doctor children under 4 yrs do not use"
+  ],
+  "dosage_and_administration_table": [
+    "<table border=\"0\" width=\"100%\"><tbody><tr><td>adults &amp; children 12 yrs &amp; over</td><td>30 mL every 6 hrs</td></tr><tr><td>children 4 to under 12 yrs</td><td>ask a doctor</td></tr><tr><td>children under 4 yrs</td><td>do not use</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information each 30 mL dose cup contains: sodium 25 mg store at no greater than 25°C and do not refrigerate"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients citric acid, FD&C Red No. 40, flavor, glycerin, propylene glycol, purified water, saccharin sodium, sodium benzoate, sodium citrate, sorbitol, sucralose, xanthan gum"
+  ],
+  "questions": [
+    "Questions? 1-800-362-1683"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 354 ml Bottle Label VICKS ® FORMULA 44™DM Nighttime COUGH & COLD Acetaminophen Dextromethorphan HBr, Chlorpheniramine Maleate Fever, Minor Aches & Pains Cough Sneezing, Runny Nose 12 FL OZ (354 mL) 450"
+  ],
+  "set_id": "05414779-f61d-8fa7-e063-6394a90aa034",
+  "id": "4040f61e-bc9e-6060-e063-6294a90a7b96",
+  "effective_time": "20251003",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "VICKS FORMULA 44DM NIGHTTIME COUGH and COLD"
+    ],
+    "generic_name": [
+      "ACETAMINOPHEN, DEXTROMETHORPHAN HBR, CHLORPHENIRAMINE MALEATE"
+    ],
+    "manufacturer_name": [
+      "Procter & Gamble Manufacturing Company"
+    ],
+    "product_ndc": [
+      "69423-811"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACETAMINOPHEN",
+      "CHLORPHENIRAMINE MALEATE",
+      "DEXTROMETHORPHAN HYDROBROMIDE"
+    ],
+    "rxcui": [
+      "1292342"
+    ],
+    "spl_id": [
+      "4040f61e-bc9e-6060-e063-6294a90a7b96"
+    ],
+    "spl_set_id": [
+      "05414779-f61d-8fa7-e063-6394a90aa034"
+    ],
+    "package_ndc": [
+      "69423-811-12"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0323900039193"
+    ],
+    "unii": [
+      "362O9ITL9D",
+      "V1Q0O9OJ9Z",
+      "9D2RTI9KYH"
+    ]
+  }
+}

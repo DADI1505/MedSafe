@@ -1,0 +1,110 @@
+{
+  "spl_product_data_elements": [
+    "Glycerin Glycerin WATER SODIUM HYDROXIDE STEARIC ACID GLYCERIN GLYCERIN"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each suppository) Glycerin 1 g",
+    "Ask a Doctor before using laxative if child has abdominal pain, nausea or vomiting a sudden change in bowel habits lasting more than two weeks already used a laxative for more than 1 week"
+  ],
+  "purpose": [
+    "Purpose Hyperosmotic laxative"
+  ],
+  "indications_and_usage": [
+    "Uses for relief of occasional constipation this product generally produces a bowel movement in 1/4 to 1 hour"
+  ],
+  "warnings": [
+    "Warnings For rectal use only May cause rectal discomfort of burning sensation Ask a Doctor before using laxative if child has abdominal pain, nausea or vomiting a sudden change in bowel habits lasting more than two weeks already used a laxative for more than 1 week Stop use and consult a doctor if child has rectal bleeding no bowel movement within 1 hour of using this product These symptoms may indicate a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "stop_use": [
+    "Stop use and consult a doctor if child has rectal bleeding no bowel movement within 1 hour of using this product These symptoms may indicate a serious condition."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Single daily dosage children 2 to under 6 years 1 suppository or as directed by a doctor children under 2 years ask a doctor Insert suppository well up intorectum. Suppository need not melt completely to produce laxative action."
+  ],
+  "dosage_and_administration_table": [
+    "<table border=\"0\" ID=\"Directions\" width=\"50%\"><caption>Single daily dosage</caption><tbody><tr><td>children 2 to under 6 years</td><td>1 suppository or as directed by a doctor</td></tr><tr><td>children under 2 years</td><td>ask a doctor</td></tr></tbody></table>"
+  ],
+  "other_safety_information": [
+    "Other information Store container tightly closed. Keep away from excessive heat."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients purified water, sodium hydroxide, stearic acid"
+  ],
+  "package_label_principal_display_panel": [
+    "Pediatric Glycerin Suppositories, 25 count PremVal722.jpg The product package shown above represents a sample of that currently in use. Additional packaging may also be available. PediatricGlycerin Suppositories, 25 count Distributed by Pharmacy Value Alliance, LLC 407 East Lancaster Avenue Wayne, PA 19087 Premier Value Pediatric"
+  ],
+  "set_id": "022dd494-cb3c-4fa7-be99-4c38fabdc612",
+  "id": "41e9db4f-0881-b663-e063-6294a90ace9d",
+  "effective_time": "20251024",
+  "version": "13",
+  "openfda": {
+    "application_number": [
+      "M007"
+    ],
+    "brand_name": [
+      "Glycerin"
+    ],
+    "generic_name": [
+      "GLYCERIN"
+    ],
+    "manufacturer_name": [
+      "Chain Drug Consortium LLC"
+    ],
+    "product_ndc": [
+      "68016-161"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "RECTAL"
+    ],
+    "substance_name": [
+      "GLYCERIN"
+    ],
+    "rxcui": [
+      "252062"
+    ],
+    "spl_id": [
+      "41e9db4f-0881-b663-e063-6294a90ace9d"
+    ],
+    "spl_set_id": [
+      "022dd494-cb3c-4fa7-be99-4c38fabdc612"
+    ],
+    "package_ndc": [
+      "68016-161-00"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0840986015786"
+    ],
+    "nui": [
+      "N0000185370",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0009417"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Chemical Allergen [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Glycerol [CS]"
+    ],
+    "unii": [
+      "PDC6A3C0OX"
+    ]
+  }
+}

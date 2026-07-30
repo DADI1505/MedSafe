@@ -1,0 +1,114 @@
+{
+  "spl_product_data_elements": [
+    "Upset Stomach Relief-Bismuth Subsalicylate 262 mg Bismuth Subsalicylate 262 mg BISMUTH SUBSALICYLATE SALICYLIC ACID POLYETHYLENE GLYCOL 400 POLYSORBATE 80 SOYBEAN LECITHIN POVIDONE K30 Gelatin Glycerin SORBITOL SOLUTION SORBITAN D&C RED NO. 33 Titanium Dioxide WATER Opaque baby pink Oblong SD30"
+  ],
+  "active_ingredient": [
+    "Active Ingredient (in each softgel) Bismuth subsalicylate 262 mg"
+  ],
+  "purpose": [
+    "Purpose Upset stomach reliever and antidiarrheal"
+  ],
+  "indications_and_usage": [
+    "Uses relieves: ■ travelers' diarrhea ■ diarrhea ■ upset stomach due to overindulgence in food and drink, including ■ heartburn ■ indigestion ■ nausea ■ gas ■ belching ■ fullness"
+  ],
+  "warnings": [
+    "Warnings Reye's syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness. Allergy alert: Contains salicylate.Do not take if you are ■ allergic to salicylates (including aspirin) ■ taking other salicylate products"
+  ],
+  "do_not_use": [
+    "Do not use if you have ■ an ulcer ■ a bleeding problem ■ bloody or black stool"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have ■ fever ■ mucus in the stool"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking any drug for ■ anticoagulation (thinning the blood) ■ diabetes ■ gout ■ arthritis"
+  ],
+  "when_using": [
+    "When using this product a temporary, but harmless, darkening of the stool and/or tongue may occur"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if ■ symptoms get worse or last more than 2 days ■ ringing in the ears or loss of hearing occurs ■ diarrhea lasts more than 2 days"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions ■ swallow with water, do not chew ■ adults and children 12 years and over: ■ 2 softgels every ½ hour or 4 softgels every hour as needed for diarrhea ■ 2 softgels every ½ hour to 1 hour as needed for overindulgence (upset stomach, heartburn, indigestion, nausea) ■ do not exceed 8 doses (16 softgels) in 24 hours ■ use until diarrhea stops but not more than 2 days ■ children under 12 years: ask a doctor ■ drink plenty of clear fluids to help prevent dehydration caused by diarrhea"
+  ],
+  "spl_unclassified_section": [
+    "Other information ■ each softgel contains: ■ salicylate 99 mg ■ low sodium ■ do not exceed 25°C"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Polyethylene Glycol-400, Polysorbate 80, Soya Lecithin, Povidone (PVPK 30), Gelatin, Glycerin, Sorbitol Sorbitan Solution, D & C Red 33 , Titanium Dioxide, Purified Water"
+  ],
+  "questions": [
+    "Questions or Comments? Call +1 (732) 994-2808 or email support@gencare.health"
+  ],
+  "package_label_principal_display_panel": [
+    "PL0275-00 GC Bismuth Subsalicylate Softgels 48ct"
+  ],
+  "set_id": "07e2cc82-ab0e-46c5-863b-67658b612678",
+  "id": "3eab8dc9-d54c-4921-864f-a944cbb43a7c",
+  "effective_time": "20250627",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M008"
+    ],
+    "brand_name": [
+      "Upset Stomach Relief-Bismuth Subsalicylate 262 mg"
+    ],
+    "generic_name": [
+      "BISMUTH SUBSALICYLATE 262 MG"
+    ],
+    "manufacturer_name": [
+      "Pioneer Life Sciences, LLC"
+    ],
+    "product_ndc": [
+      "72090-053"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BISMUTH SUBSALICYLATE"
+    ],
+    "rxcui": [
+      "2121072"
+    ],
+    "spl_id": [
+      "3eab8dc9-d54c-4921-864f-a944cbb43a7c"
+    ],
+    "spl_set_id": [
+      "07e2cc82-ab0e-46c5-863b-67658b612678"
+    ],
+    "package_ndc": [
+      "72090-053-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0372090004740"
+    ],
+    "nui": [
+      "M0002611",
+      "N0000180183"
+    ],
+    "pharm_class_cs": [
+      "Bismuth [CS]"
+    ],
+    "pharm_class_epc": [
+      "Bismuth [EPC]"
+    ],
+    "unii": [
+      "62TEY51RR1"
+    ]
+  }
+}

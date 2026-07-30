@@ -1,0 +1,88 @@
+{
+  "spl_product_data_elements": [
+    "SOME BY MI AHA BHA PHA 30 DAYS MIRACLE ACNE CLEAR FOAM SOME BY MI AHA BHA PHA 30 DAYS MIRACLE ACNE CLEAR FOAM SODIUM PHOSPHATE SODIUM METHYL COCOYL TAURATE SODIUM CHLORIDE ETHYLENE GLYCOL MONOBENZYL ETHER ASIATICOSIDE MADECASSOSIDE CITRIC ACID MONOHYDRATE POTASSIUM HYDROXIDE PALMITIC ACID GLUCONOLACTONE LAURIC ACID PEPPERMINT OIL MYRISTIC ACID 1,2-HEXANEDIOL CENTELLA ASIATICA TRITERPENOIDS MELALEUCA ALTERNIFOLIA (TEA TREE) LEAF OIL GLYCYRRHIZINATE DIPOTASSIUM GLYCERIN BUTYLENE GLYCOL LAURYL BETAINE COCO-BETAINE WATER GLYCERYL MONOSTEARATE ETHYLHEXYLGLYCERIN MADECASSIC ACID ETHOHEXADIOL ASIATIC ACID HYDROXYETHYL CELLULOSE, UNSPECIFIED SODIUM PHOSPHATE, DIBASIC, ANHYDROUS SALICYLIC ACID SALICYLIC ACID"
+  ],
+  "active_ingredient": [
+    "Salicylic Acid 0.5%"
+  ],
+  "warnings": [
+    "For external use only"
+  ],
+  "when_using": [
+    "When using this product skin irritation and dryness is more likely to occur if you use another topcial acne medication at the same time. If irritation occurs, only use one topical acne medication at a time."
+  ],
+  "keep_out_of_reach_of_children": [
+    "If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "inactive_ingredient": [
+    "Water, Myristic Acid, Glycerin, Potassium Hydroxide, Lauric Acid, Palmitic acid, Butylene Glycol, Stearic Acid, Sodium Methyl Cocoyl Taurate, Lauryl Betaine, Benzyl Glycol, Cetearyl Glucoside, Sorbitan Olivate, Sodium Chloride, Coco-Betaine, Glyceryl Stearate, 1,2-Hexanediol, Centella Asiatica Extract, Ethylhexylglycerin, Asiaticoside, Madecassic Acid, Asiatic Acid, Melaleuca Alternifolia (Tea Tree] Leaf Water, Mentha Piperita [Peppermint] Oil, Cetearyl Alcohol, Ethyl Hexanediol, Dipotassium Glycyrrhizate, Madecassoside, Gluconolactone, Citric acid, Artemisia Vulgaris Extract, Calamine"
+  ],
+  "dosage_and_administration": [
+    "DOSAGE & ADMINISTRATION"
+  ],
+  "indications_and_usage": [
+    "■ For the treatment of acne ■ Clears acne pimples ■ Helps prevent new acne pimples from forming."
+  ],
+  "purpose": [
+    "Acne treatment"
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "instructions_for_use": [
+    "■Clean the skin thoroughly before applying this product. ■Take an appropriate amount and foam enough on your face then wash off with water. ■Because excessive drying of the skin may occur, start with one application daily, then gradually increase if needed or as directed by a doctor. ■If bothersome dryness or peeling occurs, reduce application to once a day or every other day. ■ Avoid using BHA-containing products on infants and children."
+  ],
+  "other_safety_information": [
+    "Other Information ■ Sunburn Alert: This product contains an alpha hydroxy acid [AHA] that may increase your skin's sensitivity to the sun and particularly the possibility of sunburn. Use a sunscreen, wear protective clothing, and limit sun exposure while using this product and for a week afterwards. ■ Test any product that contains a BHA on a small area of skin before applying it to a large area. If you use cosmetics with BHAS and experience skin irritation or prolonged stinging, stop using the product and consult your physician."
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display",
+    "Principal Display"
+  ],
+  "set_id": "0897ccca-fa18-873f-e063-6394a90a59ab",
+  "id": "414192d8-14bf-287a-e063-6294a90a5125",
+  "effective_time": "20251016",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "SOME BY MI AHA BHA PHA 30 DAYS MIRACLE ACNE CLEAR FOAM"
+    ],
+    "generic_name": [
+      "SOME BY MI AHA BHA PHA 30 DAYS MIRACLE ACNE CLEAR FOAM"
+    ],
+    "manufacturer_name": [
+      "PERENNEBELL Co., Ltd."
+    ],
+    "product_ndc": [
+      "74472-101"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "spl_id": [
+      "414192d8-14bf-287a-e063-6294a90a5125"
+    ],
+    "spl_set_id": [
+      "0897ccca-fa18-873f-e063-6394a90a59ab"
+    ],
+    "package_ndc": [
+      "74472-101-01",
+      "74472-101-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

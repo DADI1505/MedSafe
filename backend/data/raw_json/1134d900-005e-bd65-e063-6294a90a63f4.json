@@ -1,0 +1,94 @@
+{
+  "spl_product_data_elements": [
+    "Instant Hand Sanitizer alcohol ALOE VERA LEAF CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) D&C GREEN NO. 5 D&C YELLOW NO. 10 WATER TROLAMINE ALCOHOL ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Active ingredient Ethyl Alcohol 66.5%"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Uses for handwashing to decrease bacteria on skin recommended for repeated use"
+  ],
+  "warnings": [
+    "Warnings For external use only Flammable, keep away from fire or flame Do not use in the eyes. If this happens, rinse thoroughly with water Stop use and ask a doctor if irritation and redness develop and persists for more than 72 hours Keep out of reach of children If ingested get medical help or contact a Poison Control Center right away"
+  ],
+  "do_not_use": [
+    "Do not use in the eyes. If this happens, rinse thoroughly with water"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if irritation and redness develop and persists for more than 72 hours"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If ingested get medical help or contact a Poison Control Center right away"
+  ],
+  "dosage_and_administration": [
+    "Directions wet hands thoroughly with product allow to dry without wiping children under 6 should be supervised while using this product"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients aloe vera, carbomer, D&C green #5, D&C yellow #10, fragrance, purified water, triethanolamine"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL – 1.9 L Bottle Label NDC 61010-1111-7 Safetec instant Hand Sanitizer Kills 99.9% of Germs Enriched with Aloe Vera Fresh Manufactured by SAFETEC OF AMERICA, Inc. Buffalo, NY 14215 800-456-7077 www.safetec.com 64 FL. OZ. (1.9 L) Reorder No. 17357 PRINCIPAL DISPLAY PANEL – 1.9 L Bottle Label",
+    "PRINCIPAL DISPLAY PANEL – 0.0570 fl. oz. box NDC 61010-1111-8 Safetec instant Hand Sanitizer Kills 99.9% of Germs Enriched with Aloe Vera Fresh Scent 0.0570 FL. OZ. (1.68 ML) packets 100 packets per box Reorder No. 17353 Manufactured by SAFETEC OF AMERICA, Inc. Buffalo, NY 14215 800-456-7077 www.safetec.com PRINCIPAL DISPLAY PANEL – 0.0570 fl. oz. box",
+    "PRINCIPAL DISPLAY PANEL – 0.0570 fl. oz. packet NDC 61010-1111-8 Safetec instant Hand Sanitizer Fresh Scent 0.0570 fl.oz. (1.68 ML) Reorder No. 17353 Manufactured by SAFETEC OF AMERICA, Inc. Buffalo, NY 14215 800-456-7077 www.safetec.com PRINCIPAL DISPLAY PANEL – 0.0570 fl. oz. packet",
+    "Principal Display Panel – 2.0 FL OZ Bottle Panel NDC 61010-1111-0 Safetec A.B.H.C.™ MEETS CDC HANDWASHING RECOMMENDATIONS instant Hand Sanitizer Kills 99.9% of Germs Enriched with Aloe Vera Fresh 2.0 FL. OZ. (59 ML) Principal Display Panel – 2.0 FL OZ Bottle Panel",
+    "Principal Display Panel – 4.0 FL OZ Bottle Panel NDC 61010-1111-1 Safetec A.B.H.C.™ MEETS CDC HANDWASHING RECOMMENDATIONS instant Hand Sanitizer Kills 99.9% of Germs Enriched with Aloe Vera Fresh 4.0 FL. OZ. (118 ML) Principal Display Panel – 4.0 FL OZ Bottle Panel",
+    "Principal Display Panel – 8.0 FL OZ Bottle Panel Safetec A.B.H.C.™ MEETS CDC HANDWASHING RECOMMENDATIONS instant Hand Sanitizer Kills 99.9% of Germs Enriched with Aloe Vera Fresh 8.0 FL. OZ. (237 ML) Principal Display Panel – 8.0 FL OZ Bottle Panel",
+    "Principal Display Panel – 16.0 FL OZ Bottle Panel NDC 61010-1111-4 Safetec A.B.H.C.™ MEETS CDC HANDWASHING RECOMMENDATIONS instant Hand Sanitizer Kills 99.9% of Germs Enriched with Aloe Vera Fresh 16.0 FL. OZ. (473 ML) Reorder No. 17354 Principal Display Panel – 16.0 FL OZ Bottle Panel"
+  ],
+  "set_id": "016f9770-3dd5-4480-a687-f9bb2ea73e86",
+  "id": "1134d900-005e-bd65-e063-6294a90a63f4",
+  "effective_time": "20240212",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Instant Hand Sanitizer"
+    ],
+    "generic_name": [
+      "ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Safetec of America, Inc."
+    ],
+    "product_ndc": [
+      "61010-1111"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "spl_id": [
+      "1134d900-005e-bd65-e063-6294a90a63f4"
+    ],
+    "spl_set_id": [
+      "016f9770-3dd5-4480-a687-f9bb2ea73e86"
+    ],
+    "package_ndc": [
+      "61010-1111-7",
+      "61010-1111-5",
+      "61010-1111-9",
+      "61010-1111-3",
+      "61010-1111-8",
+      "61010-1111-0",
+      "61010-1111-1",
+      "61010-1111-6",
+      "61010-1111-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

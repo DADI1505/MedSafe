@@ -1,0 +1,79 @@
+{
+  "spl_product_data_elements": [
+    "atorvastatin calcium atorvastatin calcium ATORVASTATIN CALCIUM TRIHYDRATE ATORVASTATIN CALCIUM CARBONATE CROSCARMELLOSE SODIUM HYDROXYPROPYL CELLULOSE, UNSPECIFIED HYPROMELLOSES LACTOSE MONOHYDRATE MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL, UNSPECIFIED POLYSORBATE 80 TITANIUM DIOXIDE TALC white to off-white OVAL 1777 atorvastatin calcium atorvastatin calcium ATORVASTATIN CALCIUM TRIHYDRATE ATORVASTATIN CALCIUM CARBONATE CROSCARMELLOSE SODIUM HYDROXYPROPYL CELLULOSE, UNSPECIFIED HYPROMELLOSES LACTOSE MONOHYDRATE MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL, UNSPECIFIED POLYSORBATE 80 TITANIUM DIOXIDE TALC white to off-white OVAL 1775 atorvastatin calcium atorvastatin calcium ATORVASTATIN CALCIUM TRIHYDRATE ATORVASTATIN CALCIUM CARBONATE CROSCARMELLOSE SODIUM HYDROXYPROPYL CELLULOSE, UNSPECIFIED HYPROMELLOSES LACTOSE MONOHYDRATE MAGNESIUM STEARATE CELLULOSE SODIUM PHOSPHATE POLYETHYLENE GLYCOL, UNSPECIFIED POLYSORBATE 80 TITANIUM DIOXIDE TALC white to off-white OVAL 1772 atorvastatin calcium atorvastatin calcium ATORVASTATIN CALCIUM TRIHYDRATE ATORVASTATIN CALCIUM CARBONATE CROSCARMELLOSE SODIUM HYDROXYPROPYL CELLULOSE, UNSPECIFIED HYPROMELLOSES LACTOSE MONOHYDRATE MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL, UNSPECIFIED POLYSORBATE 80 TITANIUM DIOXIDE TALC white to off-white OVAL 1770"
+  ],
+  "spl_unclassified_section": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "NDC 70771-1875-9 Atorvastatin Calcium Tablets, USP 10 mg Rx Only 90 Tablets NDC 70771-1876-9 Atorvastatin Calcium Tablets, USP 20 mg Rx Only 90 Tablets NDC 70771-1877-9 Atorvastatin Calcium Tablets, USP 40 mg Rx Only 90 Tablets NDC 70771-1878-9 Atorvastatin Calcium Tablets, USP 80 mg Rx Only 90 Tablets Atorvastatin Calcium Tablets, 10 mg Atorvastatin Calcium Tablets, 20 mg Atorvastatin Calcium Tablets, 40 mg Atorvastatin Calcium Tablets, 80 mg"
+  ],
+  "set_id": "06028adf-fcb5-452c-ba67-ee53bc65c519",
+  "id": "81d15801-dbb6-486a-9257-d80f6c3bc867",
+  "effective_time": "20250530",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "ANDA206536"
+    ],
+    "brand_name": [
+      "atorvastatin calcium"
+    ],
+    "generic_name": [
+      "ATORVASTATIN CALCIUM"
+    ],
+    "manufacturer_name": [
+      "Zydus Lifesciences Limited"
+    ],
+    "product_ndc": [
+      "70771-1875",
+      "70771-1876",
+      "70771-1877",
+      "70771-1878"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ATORVASTATIN CALCIUM TRIHYDRATE"
+    ],
+    "rxcui": [
+      "259255",
+      "617310",
+      "617311",
+      "617312"
+    ],
+    "spl_id": [
+      "81d15801-dbb6-486a-9257-d80f6c3bc867"
+    ],
+    "spl_set_id": [
+      "06028adf-fcb5-452c-ba67-ee53bc65c519"
+    ],
+    "package_ndc": [
+      "70771-1875-9",
+      "70771-1875-5",
+      "70771-1875-0",
+      "70771-1876-9",
+      "70771-1876-5",
+      "70771-1876-0",
+      "70771-1877-9",
+      "70771-1877-5",
+      "70771-1877-0",
+      "70771-1878-9",
+      "70771-1878-5",
+      "70771-1878-0"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0370710177591"
+    ],
+    "unii": [
+      "48A5M73Z4Q"
+    ]
+  }
+}

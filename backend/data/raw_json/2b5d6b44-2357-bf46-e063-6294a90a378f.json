@@ -1,0 +1,79 @@
+{
+  "spl_product_data_elements": [
+    "Dermaroller Anhydrous Sunscreen SPF 30 Titanium Dioxide, Zinc Oxide CYCLOMETHICONE TRIBEHENIN FERRIC OXIDE RED FERRIC OXIDE YELLOW FERROSOFERRIC OXIDE TITANIUM DIOXIDE TITANIUM DIOXIDE ZINC OXIDE ZINC OXIDE"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredients Purpose Titanium Dioxide 10.20% Sunscreen Zinc Oxide 3.70% Sunscreen"
+  ],
+  "purpose": [
+    "USES Helps Prevent sunburn. Higher SPF gives more sunburn protection Provides moderate protection against sunburn."
+  ],
+  "warnings": [
+    "Warnings For external use only . When using this product keep out of eyes. Rinse with water to remove. Stop use and ask doctor if rash and irritation develops and lasts. Keep out of reach of children. If swallowed, get medical help or contact poison control center right away."
+  ],
+  "indications_and_usage": [
+    "Directions Apply evenly before sun exposure and as needed. For children under 6 months of age: ask a doctor. Reapply as needed or after towel drying, swimming or perspiring."
+  ],
+  "information_for_patients": [
+    "Other Information Sun alert: Limiting sun exposure, wearing protective clothing, and using sunscreens may reduce the risk of skin cancer, and other harmful effects of the sun."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Cyclopentasiloxane, Cyclomethicone, Dimethicone Crosspolymer, Methyl Methacrylate/Glycol Dimethacrylate Crosspolymer, Dimethicone/Vinyl Dimethicone Crosspolymer, Melanin, Tribehenin, Calcium Behenate, Sorbitan Isostearate, Dimethiconol, Alumina, PEG-10 Dimethicone, Methicone, Iron Oxides."
+  ],
+  "dosage_and_administration": [
+    "Dosage & Admiinistration - apply liberally 15 minutes before sun exposure - use water resistant sunscreen if swimming or sweating - reapply at least every 2 hours - children under 6 months: Ask a doctor"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Keep out of reach of children. If product is swallowed, get medical help or contact Poison Control Center right away."
+  ],
+  "package_label_principal_display_panel": [
+    "image description"
+  ],
+  "set_id": "04e82f1b-c893-4795-b7a9-0523e3ec7552",
+  "id": "2b5d6b44-2357-bf46-e063-6294a90a378f",
+  "effective_time": "20250110",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Dermaroller Anhydrous Sunscreen SPF 30"
+    ],
+    "generic_name": [
+      "TITANIUM DIOXIDE, ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Owen Biosciences, Inc."
+    ],
+    "product_ndc": [
+      "59958-201"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "TITANIUM DIOXIDE",
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "2b5d6b44-2357-bf46-e063-6294a90a378f"
+    ],
+    "spl_set_id": [
+      "04e82f1b-c893-4795-b7a9-0523e3ec7552"
+    ],
+    "package_ndc": [
+      "59958-201-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "15FIX9V2JP",
+      "SOI2LOH54Z"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Dr. Zenovia Acne Cleanser Benzoyl Peroxide BENZOYL PEROXIDE BENZOYL PEROXIDE ALOE VERA LEAF BAKUCHIOL GREEN TEA LEAF CARBOMER COPOLYMER TYPE A (ALLYL PENTAERYTHRITOL CROSSLINKED) CUCUMBER JUICE EDETATE DISODIUM GLYCERIN MALTODEXTRIN PHENOXYETHANOL PUNICA GRANATUM STEROLS WATER RESVERATROL SODIUM BENZOATE SODIUM C14-16 OLEFIN SULFONATE GENISTEIN STEARIC ACID .ALPHA.-TOCOPHEROL ACETATE, DL-"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "REG-ulate360 Active Complex™ Resveratrol, Bakuchiol, Genistein, Camellia Sinensis (Green Tea) Polyphenols, Aloe Barbadensis Leaf Juice, Cucumis Sativus (Cucumber) Fruit Extract.",
+    "Distributed by Dr. Zenovia Skincare Babylon, NY 11704"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Benzoyl Peroxide 10.0%"
+  ],
+  "purpose": [
+    "Purpose Acne Treatment"
+  ],
+  "indications_and_usage": [
+    "Uses For the treatment and management of acne Penetrates pores to eliminate most acne and blemishes Helps prevent development of new acne blemishes and blackheads"
+  ],
+  "warnings": [
+    "Warnings For external use only When using this product Skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. Avoid contact with eyes. If contact occurs, flush thoroughly with water. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product Skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. Avoid contact with eyes. If contact occurs, flush thoroughly with water."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Pump a small amount of cleanser into dampened hands, and gently massage over face and neck using a circular motion. Rinse thoroughly with water and pat dry."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Aloe Barbadensis Leaf Extract, Bakuchiol, Camellia Sinensis (Green Tea) Leaf Polyphenols, Carbomer, Cucumis Sativus (Cucumber) Fruit Extract, Disodium EDTA, Fragrance, Genistein, Glycerin, Maltodextrin, Phenoxyethanol, Punica Granatum Sterols, Purified Water, Resveratrol, Sodium Benzoate, Sodium C14-16 Olefin Sulfonate, Stearic Acid USP, Tocopheryl Acetate."
+  ],
+  "questions": [
+    "Questions? Call (800) 445-2595 or visit drzenovia.com"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 120 mL Bottle Carton DR. ZENOVIA HORMONAL DERMATOLOGY CLEAR COMPLEXION 10% BENZOYL PEROXIDE ACNE CLEANSER reg-ulate360 complex™, aloe vera, antioxidants removes excess sebum, impurities and buildup 120 mL / 4.0 Fl. Oz. PRINCIPAL DISPLAY PANEL - 120 mL Bottle Carton"
+  ],
+  "set_id": "00fb1ee5-6076-4980-8507-9e58a96e6a6b",
+  "id": "2e310885-eff7-4db0-bf6e-5c2d211de3b0",
+  "effective_time": "20240611",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "Dr. Zenovia Acne Cleanser"
+    ],
+    "generic_name": [
+      "BENZOYL PEROXIDE"
+    ],
+    "manufacturer_name": [
+      "Topiderm, Inc."
+    ],
+    "product_ndc": [
+      "51326-803"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZOYL PEROXIDE"
+    ],
+    "rxcui": [
+      "142034"
+    ],
+    "spl_id": [
+      "2e310885-eff7-4db0-bf6e-5c2d211de3b0"
+    ],
+    "spl_set_id": [
+      "00fb1ee5-6076-4980-8507-9e58a96e6a6b"
+    ],
+    "package_ndc": [
+      "51326-803-01",
+      "51326-803-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "W9WZN9A0GM"
+    ]
+  }
+}

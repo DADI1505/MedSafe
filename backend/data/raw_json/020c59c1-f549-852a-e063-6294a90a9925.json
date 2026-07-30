@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Grindelia Robusta Grindelia Robusta GRINDELIA HIRSUTULA WHOLE GRINDELIA HIRSUTULA WHOLE SUCROSE Grindelia Robusta Grindelia Robusta GRINDELIA HIRSUTULA WHOLE GRINDELIA HIRSUTULA WHOLE SUCROSE Grindelia Robusta Grindelia Robusta GRINDELIA HIRSUTULA WHOLE GRINDELIA HIRSUTULA WHOLE SUCROSE Grindelia Robusta Grindelia Robusta GRINDELIA HIRSUTULA WHOLE GRINDELIA HIRSUTULA WHOLE SUCROSE Grindelia Robusta Grindelia Robusta GRINDELIA HIRSUTULA WHOLE GRINDELIA HIRSUTULA WHOLE SUCROSE Grindelia Robusta Grindelia Robusta GRINDELIA HIRSUTULA WHOLE GRINDELIA HIRSUTULA WHOLE SUCROSE Grindelia Robusta Grindelia Robusta GRINDELIA HIRSUTULA WHOLE GRINDELIA HIRSUTULA WHOLE SUCROSE Grindelia Robusta Grindelia Robusta GRINDELIA HIRSUTULA WHOLE GRINDELIA HIRSUTULA WHOLE SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Grindelia Robusta 6C 5g Grindelia Robusta 6C 30g Grindelia Robusta 6C 100g Grindelia Robusta 12C 5g Grindelia Robusta 12C 30g Grindelia Robusta 12C 100g Grindelia Robusta 30C 1g Grindelia Robusta 30C 5g Grindelia Robusta 30C 30g Grindelia Robusta 30C 100g Grindelia Robusta 100C 1g Grindelia Robusta 100C 5g Grindelia Robusta 100C 30g Grindelia Robusta 100C 100g Grindelia Robusta 200C 1g Grindelia Robusta 200C 5g Grindelia Robusta 200C 30g Grindelia Robusta 200C 100g Grindelia Robusta 500C 1g Grindelia Robusta 500C 5g Grindelia Robusta 500C 30g Grindelia Robusta 500C 100g Grindelia Robusta 1M 1g Grindelia Robusta 1M 5g Grindelia Robusta 1M 30g Grindelia Robusta 1M 100g Grindelia Robusta LM1 30g"
+  ],
+  "set_id": "020c59c1-f548-852a-e063-6294a90a9925",
+  "id": "020c59c1-f549-852a-e063-6294a90a9925",
+  "effective_time": "20230803",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Grindelia Robusta"
+    ],
+    "generic_name": [
+      "GRINDELIA ROBUSTA"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3680",
+      "37662-3683",
+      "37662-3685",
+      "37662-3686",
+      "37662-3687",
+      "37662-3682",
+      "37662-3681",
+      "37662-3684"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "GRINDELIA HIRSUTULA WHOLE"
+    ],
+    "spl_id": [
+      "020c59c1-f549-852a-e063-6294a90a9925"
+    ],
+    "spl_set_id": [
+      "020c59c1-f548-852a-e063-6294a90a9925"
+    ],
+    "package_ndc": [
+      "37662-3680-1",
+      "37662-3680-2",
+      "37662-3680-3",
+      "37662-3683-1",
+      "37662-3683-2",
+      "37662-3683-3",
+      "37662-3683-4",
+      "37662-3685-1",
+      "37662-3685-2",
+      "37662-3685-3",
+      "37662-3685-4",
+      "37662-3686-1",
+      "37662-3686-2",
+      "37662-3686-3",
+      "37662-3686-4",
+      "37662-3687-1",
+      "37662-3682-1",
+      "37662-3682-2",
+      "37662-3682-3",
+      "37662-3682-4",
+      "37662-3681-1",
+      "37662-3681-2",
+      "37662-3681-3",
+      "37662-3684-1",
+      "37662-3684-2",
+      "37662-3684-3",
+      "37662-3684-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "C08B09D8UJ"
+    ]
+  }
+}

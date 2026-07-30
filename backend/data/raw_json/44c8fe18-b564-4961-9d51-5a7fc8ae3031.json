@@ -1,0 +1,117 @@
+{
+  "spl_product_data_elements": [
+    "Neurostat Cimicifuga Racemosa, Agaricus Muscarius, Coccus Cacti, Conium Maculatum, Cuprum Metallicum, Gelsemium Sempervirens, Lycopodium Clavatum, Phosphorus, Rhus Tox, Tarentula Cubensis, Latrodectus Mactans, Pyrogenium BLACK COHOSH BLACK COHOSH AMANITA MUSCARIA FRUITING BODY AMANITA MUSCARIA FRUITING BODY PROTORTONIA CACTI PROTORTONIA CACTI CONIUM MACULATUM FLOWERING TOP CONIUM MACULATUM FLOWERING TOP COPPER COPPER GELSEMIUM SEMPERVIRENS ROOT GELSEMIUM SEMPERVIRENS ROOT LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE PHOSPHORUS PHOSPHORUS TOXICODENDRON PUBESCENS LEAF TOXICODENDRON PUBESCENS LEAF CITHARACANTHUS SPINICRUS CITHARACANTHUS SPINICRUS LATRODECTUS MACTANS LATRODECTUS MACTANS RANCID BEEF RANCID BEEF WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: (in each drop): 9.08% of Agaricus Muscarius 12X, Coccus Cacti 12X, Conium Maculatum 12X, Cuprum Metallicum 12X, Gelsemium Sempervirens 12X, Latrodectus Mactans 15X, Lycopodium Clavatum 12X, Phosphorus 12X, Pyrogenium 30X, Rhus Tox 12X, Tarentula Cubensis 12X; 0.10% of Cimicifuga Racemosa 3X."
+  ],
+  "purpose": [
+    "INDICATIONS: May temporarily relieve dizziness when riding or sitting, weak memory, and feeling indifferent or confused.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS: If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in a cool, dry place."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Adults and children 5 to 10 drops orally, 3 times daily or as otherwise directed by a health care professional. If symptoms persist for more than 7 days, consult your health care professional. Consult a physician for use in children under 12 years of age."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: May temporarily relieve dizziness when riding or sitting, weak memory, and feeling indifferent or confused.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Demineralized water, 20% Ethanol."
+  ],
+  "questions": [
+    "QUESTIONS: Dist. by Energique, Inc. 201 Apple Blvd Woodbine, IA 51579 800.869.8078"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: ENERGIQUE SINCE 1987 HOMEOPATHIC REMEDY NEUROSTAT 1 fl. oz. (30 ml) Neurostat"
+  ],
+  "set_id": "028d842f-3abd-421e-b6b8-07313ef690b8",
+  "id": "44c8fe18-b564-4961-9d51-5a7fc8ae3031",
+  "effective_time": "20230712",
+  "version": "6",
+  "openfda": {
+    "brand_name": [
+      "Neurostat"
+    ],
+    "generic_name": [
+      "CIMICIFUGA RACEMOSA, AGARICUS MUSCARIUS, COCCUS CACTI, CONIUM MACULATUM, CUPRUM METALLICUM, GELSEMIUM SEMPERVIRENS, LYCOPODIUM CLAVATUM, PHOSPHORUS, RHUS TOX, TARENTULA CUBENSIS, LATRODECTUS MACTANS, PYROGENIUM"
+    ],
+    "manufacturer_name": [
+      "Energique, Inc."
+    ],
+    "product_ndc": [
+      "44911-0217"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BLACK COHOSH",
+      "AMANITA MUSCARIA FRUITING BODY",
+      "PROTORTONIA CACTI",
+      "CONIUM MACULATUM FLOWERING TOP",
+      "COPPER",
+      "GELSEMIUM SEMPERVIRENS ROOT",
+      "LYCOPODIUM CLAVATUM SPORE",
+      "PHOSPHORUS",
+      "TOXICODENDRON PUBESCENS LEAF",
+      "CITHARACANTHUS SPINICRUS",
+      "LATRODECTUS MACTANS",
+      "RANCID BEEF"
+    ],
+    "spl_id": [
+      "44c8fe18-b564-4961-9d51-5a7fc8ae3031"
+    ],
+    "spl_set_id": [
+      "028d842f-3abd-421e-b6b8-07313ef690b8"
+    ],
+    "package_ndc": [
+      "44911-0217-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0363113701562"
+    ],
+    "nui": [
+      "M0005152",
+      "N0000175831",
+      "N0000008595",
+      "N0000008924",
+      "N0000175830"
+    ],
+    "pharm_class_cs": [
+      "Copper [CS]"
+    ],
+    "pharm_class_epc": [
+      "Copper-containing Intrauterine Device [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Decreased Embryonic Implantation [PE]",
+      "Decreased Sperm Motility [PE]",
+      "Inhibit Ovum Fertilization [PE]"
+    ],
+    "unii": [
+      "K73E24S6X9",
+      "DIF093I037",
+      "LZB7TFX1LT",
+      "Q28R5GF371",
+      "789U1901C5",
+      "639KR60Q1Q",
+      "C88X29Y479",
+      "27YLU75U4W",
+      "6IO182RP7A",
+      "3Y5X6RT823",
+      "XJJ7QA858R",
+      "29SUH5R3HU"
+    ]
+  }
+}

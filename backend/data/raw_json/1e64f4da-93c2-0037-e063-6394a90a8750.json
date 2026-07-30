@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "Meijer Medicated Foot Powder Menthol SODIUM BICARBONATE TRICALCIUM PHOSPHATE BENZETHONIUM CHLORIDE EUCALYPTUS OIL PEPPERMINT OIL STARCH, CORN MENTHOL MENTHOL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Menthol 1%"
+  ],
+  "purpose": [
+    "Purpose External analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses for the temporary relief of the pain and itch associated with: ■ minor cuts ■ scrapes ■ sunburn ■ insect bites ■ prickly heat ■ rashes ■ minor burns ■ minor skin irritation ■ dries the oozing of poison ivy, oak, and sumac."
+  ],
+  "warnings": [
+    "Warnings For external use only When using this product Avoid contact with eyes. Not for genital area Stop use and consult a doctor if ■ Condition worsens ■ Redness, irritation, swelling or pain persists or increases ■ Symptoms do not get better within 7 days or clear up and occur again within a few days. Keep out of reach of children Keep out of reach of children. In case of accidental ingestion, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "when_using": [
+    "When using this product Avoid contact with eyes. Not for genital area"
+  ],
+  "stop_use": [
+    "Stop use and consult a doctor if ■ Condition worsens ■ Redness, irritation, swelling or pain persists or increases ■ Symptoms do not get better within 7 days or clear up and occur again within a few days."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Keep out of reach of children. In case of accidental ingestion, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Directions ■ Adults and children 2 years of age and over: apply freely up to 3 or 4 times daily ■ Children under 2 years: consult a physician ■ For best results, dry skin thoroughly before use."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Inactive ingredients benzethonium chloride, eucalyptus oil, peppermint oil, sodium bicarbonate, tricalcium phospate, zea mays (corn) starch"
+  ],
+  "questions": [
+    "Questions or comments Call toll-free 1-866-326-1313"
+  ],
+  "package_label_principal_display_panel": [
+    "Meijer Medicated Foot Powder, 10 oz label"
+  ],
+  "set_id": "07ec6c20-73c4-e5e4-e063-6294a90a7e55",
+  "id": "1e64f4da-93c2-0037-e063-6394a90a8750",
+  "effective_time": "20240729",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Meijer Medicated Foot Powder"
+    ],
+    "generic_name": [
+      "MENTHOL"
+    ],
+    "manufacturer_name": [
+      "Meijer Distribution"
+    ],
+    "product_ndc": [
+      "79481-0043"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MENTHOL"
+    ],
+    "rxcui": [
+      "259579"
+    ],
+    "spl_id": [
+      "1e64f4da-93c2-0037-e063-6394a90a8750"
+    ],
+    "spl_set_id": [
+      "07ec6c20-73c4-e5e4-e063-6294a90a7e55"
+    ],
+    "package_ndc": [
+      "79481-0043-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "spl_product_data_elements": [
+    "Mold Relief Formula Kali Muriaticum, Gelsemium, Kali Bichromicum, Sabadilla, Histaminum, Mold Mix. WATER POTASSIUM SORBATE CITRIC ACID MONOHYDRATE POTASSIUM CHLORIDE POTASSIUM CATION GELSEMIUM SEMPERVIRENS ROOT GELSEMIUM SEMPERVIRENS ROOT POTASSIUM DICHROMATE DICHROMATE ION SCHOENOCAULON OFFICINALE SEED SCHOENOCAULON OFFICINALE SEED HISTAMINE DIHYDROCHLORIDE HISTAMINE ALTERNARIA ALTERNATA ALTERNARIA ALTERNATA ASPERGILLUS FUMIGATUS ASPERGILLUS FUMIGATUS ASPERGILLUS NIGER VAR. NIGER ASPERGILLUS NIGER VAR. NIGER BOLETUS SATANAS FRUITING BODY BOLETUS SATANAS FRUITING BODY BOTRYTIS CINEREA BOTRYTIS CINEREA CANDIDA ALBICANS CANDIDA ALBICANS PASSALORA FULVA PASSALORA FULVA FUSARIUM OXYSPORUM FUSARIUM OXYSPORUM COCHLIOBOLUS SATIVUS COCHLIOBOLUS SATIVUS RHIZOPUS STOLONIFER RHIZOPUS STOLONIFER AUREOBASIDIUM PULLULANS VAR. PULLUTANS AUREOBASIDIUM PULLULANS VAR. PULLUTANS USTILAGO MAYDIS USTILAGO MAYDIS"
+  ],
+  "active_ingredient": [
+    "Active ingredients : Equal parts of: Kali Muriaticum 6X HPUS, Gelsemium 12C HPUS, Kali Bichromicum 12C HPUS, Sabadilla 12C HPUS, Histaminum 30C HPUS, Mold Mix 12X, 30X, 60X.* Purpose: Relief from runny nose, itchy eyes, sinus congestion and sneezing. Use: This product is a Homeopathic Dilution, formulated to support the body's immunity for the temporary relief of mold allergies."
+  ],
+  "purpose": [
+    "Purpose: Relief from runny nose, itchy eyes, sinus congestion and sneezing."
+  ],
+  "indications_and_usage": [
+    "Use: This product is a Homeopathic Dilution, formulated to support the body's immunity for the temporary relief of mold allergies."
+  ],
+  "warnings": [
+    "W arnings: Use only as directed. Stop use and consult a doctor if symptoms worsen or do not improve after 5 days. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions: Shake bottle well before use. Adults (12 and Older) Take 6-10 drops orally (in water if desired) 1-3 times a day as needed. Children (11 and Younger) Take 4-6 drops orally (in water if desired) 1-3 times a day as needed or as directed by your health care provider. Consult a Physician for use in children under 12 years of age."
+  ],
+  "other_safety_information": [
+    "Other information: Do not use if TAMPER EVIDENT seal around neck is broken or missing. Store at room temperature.",
+    "* For a complete list of Mold antigens included in this product visit our website. Mfg. by: OHM Pharma, Inc., Mineral Wells, TX 76067 Made in USA THE LETTERS 'HPUS' INDICATE THAT THE COMPONENT(S) IN THIS PRODUCT ARE OFFICIALLY MONOGRAPHED IN THE HOMOEOPATHIC PHARMACOPOEIA OF THE UNITED STATES."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients: Citric Acid, Potassium Sorbate, Purified Water."
+  ],
+  "questions": [
+    "INTEGRATIVE HEALING INSTITUTE ® San Antonio, TX 78216 integrativehealingsa.com Questions? Call 1.888.841.4034"
+  ],
+  "package_label_principal_display_panel": [
+    "INTEGRATIVE HEALING INSTITUTE ® HOMEOPATHIC MEDICINE NDC: 59623-013-01 MOLD RELIEF FORMULA SAFE NATURAL EFFECTIVE ALCOHOL FREE NET 1 fl oz (30 mL) INTEGRATIVE HEALING INSTITUTE HOMEOPATHIC MEDICINE NDC: 59623-013-02 MOLD RELIEF FORMULA SAFE NATURAL EFFECTIVE ALCOHOL FREE NET 2 fl oz (59 mL) 1oz bottle label 2oz bottle label"
+  ],
+  "set_id": "067ee707-7219-4370-9cdd-08888f45b5e5",
+  "id": "416205c4-4fec-1e12-e063-6294a90af417",
+  "effective_time": "20251017",
+  "version": "6",
+  "openfda": {
+    "brand_name": [
+      "Mold Relief Formula"
+    ],
+    "generic_name": [
+      "KALI MURIATICUM, GELSEMIUM, KALI BICHROMICUM, SABADILLA, HISTAMINUM, MOLD MIX."
+    ],
+    "manufacturer_name": [
+      "Integrative Healing Institute, LLC"
+    ],
+    "product_ndc": [
+      "59623-013"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "POTASSIUM CHLORIDE",
+      "GELSEMIUM SEMPERVIRENS ROOT",
+      "POTASSIUM DICHROMATE",
+      "SCHOENOCAULON OFFICINALE SEED",
+      "HISTAMINE DIHYDROCHLORIDE",
+      "ALTERNARIA ALTERNATA",
+      "ASPERGILLUS FUMIGATUS",
+      "ASPERGILLUS NIGER VAR. NIGER",
+      "BOLETUS SATANAS FRUITING BODY",
+      "BOTRYTIS CINEREA",
+      "CANDIDA ALBICANS",
+      "PASSALORA FULVA",
+      "FUSARIUM OXYSPORUM",
+      "COCHLIOBOLUS SATIVUS",
+      "RHIZOPUS STOLONIFER",
+      "AUREOBASIDIUM PULLULANS VAR. PULLUTANS",
+      "USTILAGO MAYDIS"
+    ],
+    "spl_id": [
+      "416205c4-4fec-1e12-e063-6294a90af417"
+    ],
+    "spl_set_id": [
+      "067ee707-7219-4370-9cdd-08888f45b5e5"
+    ],
+    "package_ndc": [
+      "59623-013-01",
+      "59623-013-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0000309508252",
+      "0000309524818"
+    ],
+    "nui": [
+      "N0000185372",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0008890",
+      "M0000728"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Fungal Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Fungal Proteins [CS]",
+      "Allergens [CS]"
+    ],
+    "unii": [
+      "660YQ98I10",
+      "639KR60Q1Q",
+      "T4423S18FM",
+      "6NAF1689IO",
+      "3POA0Q644U",
+      "52B29REC7H",
+      "X88DF51T48",
+      "9IOA40ANG6",
+      "68OG1407SM",
+      "TBW53313S7",
+      "4D7G21HDBC",
+      "HR6H5057CO",
+      "5398RXP8KU",
+      "3LN5B70U4W",
+      "FEE198DK4Q",
+      "D1A2NG69CK",
+      "4K7Z7K7SWG"
+    ]
+  }
+}

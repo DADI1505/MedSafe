@@ -1,0 +1,110 @@
+{
+  "spl_product_data_elements": [
+    "Hemorrhoidal Pain Relief Mineral oil, Petrolatum, Phenylephrine HCl GLYCERIN PROPYLPARABEN THYME WATER WHITE WAX BUTYLATED HYDROXYANISOLE LANOLIN ALCOHOLS ALPHA-TOCOPHEROL ACETATE CORN OIL PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE MINERAL OIL MINERAL OIL PARAFFIN PETROLATUM PETROLATUM BENZOIC ACID LANOLIN METHYLPARABEN pale yellow to yellow"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredients Mineral oil 14.0% Petrolatum 74.9% Phenylephrine HCl 0.25%"
+  ],
+  "purpose": [
+    "Purposes Protectant Protectant Vasoconstrictor"
+  ],
+  "indications_and_usage": [
+    "Uses helps relieve the local itching and discomfort associated with hemorrhoids temporarily shrinks hemorrhoidal tissue and relieves burning temporarily provides a coating for relief of anorectal discomforts temporarily protects the inflamed, irritated anorectal surface to help make bowel movements less painful"
+  ],
+  "warnings": [
+    "Warnings For external and/or intrarectal use only Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use if you are presently taking a prescription drug for high blood pressure or depression. When using this product do not exceed the recommended daily dosage unless directed by a doctor Stop use and ask a doctor if bleeding occurs condition worsens or does not improve within 7 days introduction of applicator into the rectum causes additional pain If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes difficulty in urination due to enlargement of the prostate gland"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are presently taking a prescription drug for high blood pressure or depression."
+  ],
+  "when_using": [
+    "When using this product do not exceed the recommended daily dosage unless directed by a doctor"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if bleeding occurs condition worsens or does not improve within 7 days introduction of applicator into the rectum causes additional pain"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "dosage_and_administration": [
+    "Directions adults: when practical, cleanse the affected area by patting or blotting with an appropriate cleansing wipe. Gently dry by patting or blotting with a tissue or a soft cloth before applying ointment. when first opening the tube, peel off the foil seal apply to the affected area up to 4 times daily, especially at night, in the morning or after each bowel movement intrarectal use: - remove cover from applicator, attach applicator to tube, lubricate applicator well and gently insert applicator into the rectum - thoroughly cleanse applicator after each use and replace cover also apply ointment to external area regular use provides continual therapy for relief of symptoms children under 12 years of age: ask a doctor"
+  ],
+  "other_safety_information": [
+    "Other information store at 20-25°C (68-77°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients benzoic acid, butylated hydroxyanisole, corn oil, glycerin, lanolin, lanolin alcohols, methylparaben, paraffin, propylparaben, purified water, thymus vulgaris (thyme) flower/leaf oil, vitamin E acetate, white wax"
+  ],
+  "questions": [
+    "Questions or comments? Call 1-877-290-4008"
+  ],
+  "package_label_principal_display_panel": [
+    "736A-Walgreens-Hemorrhoidal ointment-57g-label 736A-Walgreens-Hemorrhoidal ointment-57g-carton 736A-Walgreens-Hemorrhoidal ointment-28g-label 736A-Walgreens-Hemorrhoidal ointment-28g-carton"
+  ],
+  "set_id": "03bc5c1a-d493-5082-e063-6394a90ae87b",
+  "id": "0bd10784-ac3f-815b-e063-6294a90a786b",
+  "effective_time": "20231205",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M015"
+    ],
+    "brand_name": [
+      "Hemorrhoidal Pain Relief"
+    ],
+    "generic_name": [
+      "MINERAL OIL, PETROLATUM, PHENYLEPHRINE HCL"
+    ],
+    "manufacturer_name": [
+      "WALGREENS"
+    ],
+    "product_ndc": [
+      "0363-9876"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "PHENYLEPHRINE HYDROCHLORIDE",
+      "MINERAL OIL",
+      "PETROLATUM"
+    ],
+    "rxcui": [
+      "1372298"
+    ],
+    "spl_id": [
+      "0bd10784-ac3f-815b-e063-6294a90a786b"
+    ],
+    "spl_set_id": [
+      "03bc5c1a-d493-5082-e063-6394a90ae87b"
+    ],
+    "package_ndc": [
+      "0363-9876-02",
+      "0363-9876-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0311917042770",
+      "0311917042763"
+    ],
+    "unii": [
+      "04JA59TNSJ",
+      "T5L8T28FGP",
+      "4T6H12BN9U"
+    ]
+  }
+}

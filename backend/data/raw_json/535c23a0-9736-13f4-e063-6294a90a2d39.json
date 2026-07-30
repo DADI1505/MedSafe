@@ -1,0 +1,82 @@
+{
+  "spl_product_data_elements": [
+    "Degree Advanced Cool Rush Dry Spray 72H Antiperspirant Deodorant LIMONENE, (+)- ISOEUGENOL .BETA.-CITRONELLOL, (R)- BUTANE 1,1-DIFLUOROETHANE CYCLOMETHICONE 5 PPG-14 BUTYL ETHER ISOBUTANE DISTEARDIMONIUM HECTORITE CALCIUM CHLORIDE ISOMETHYL-.ALPHA.-IONONE BENZYL ALCOHOL EUGENOL GERANIOL .ALPHA.-HEXYLCINNAMALDEHYDE LINALOOL, (+/-)- PROPANE BUTYLATED HYDROXYTOLUENE PROPYLENE CARBONATE ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE MALTODEXTRIN SILICON DIOXIDE GLYCINE COUMARIN CITRAL"
+  ],
+  "description": [
+    "DEGREE ADVANCED COOL RUSH DRY SPRAY 72H ANTIPERSPIRANT DEODORANT - aluminum Sesquichlorohydrate aerosol, spray"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient Aluminum Sesquichlorohydrate (17.6%)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses reduces underarm wetness"
+  ],
+  "dosage_and_administration": [
+    "Directions For underarms use only"
+  ],
+  "warnings": [
+    "Warnings"
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Butane, Cyclopentasiloxane, Hydrofluorocarbon 152a, Isobutane, PPG-14 Butyl Ether, Glycine, Fragrance (Parfum), Disteardimonium Hectorite, Calcium Chloride, Propane, BHT, Propylene Carbonate, Sodium Starch Octenylsuccinate, Maltodextrin, Hydrolyzed Corn Starch Octenylsuccinate, Silica, Alpha-Isomethyl Ionone, Benzyl Alcohol, Citral, Citronellol, Coumarin, Eugenol, Geraniol, Hexyl Cinnamal, Isoeugenol, Limonene, Linalool"
+  ],
+  "questions": [
+    "Questions? Call toll-free 1-866-334-7331"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Label Degree Cool Rush Dry Spray"
+  ],
+  "set_id": "03c04e37-88d1-3a57-e063-6394a90a4613",
+  "id": "535c23a0-9736-13f4-e063-6294a90a2d39",
+  "effective_time": "20260603",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Degree"
+    ],
+    "generic_name": [
+      "ADVANCED COOL RUSH DRY SPRAY 72H ANTIPERSPIRANT DEODORANT"
+    ],
+    "manufacturer_name": [
+      "Conopco, Inc. d/b/a Unilever"
+    ],
+    "product_ndc": [
+      "64942-2178"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM SESQUICHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "535c23a0-9736-13f4-e063-6294a90a2d39"
+    ],
+    "spl_set_id": [
+      "03c04e37-88d1-3a57-e063-6394a90a4613"
+    ],
+    "package_ndc": [
+      "64942-2178-1",
+      "64942-2178-2",
+      "64942-2178-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "UCN889409V"
+    ]
+  }
+}

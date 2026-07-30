@@ -1,4 +1,4 @@
-import { FileText, ExternalLink } from "lucide-react"
+// import { FileText, ExternalLink } from "lucide-react"
 
 /*
   ============================================================
@@ -50,22 +50,78 @@ import { FileText, ExternalLink } from "lucide-react"
 
 // src/components/SourceCitation.jsx — adapté aux vrais champs backend
 
-export default function SourceCitation({ source }) {
-  const { brand_name, section_type, excerpt } = source
+// export default function SourceCitation({ source }) {
+//   const { brand_name, section_type, excerpt } = source
 
-  const content = (
-    <div className="flex items-start gap-3">
-      <span className="mt-0.5 flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-brand-600/10 text-brand-600">
-        <FileText className="h-5 w-5" aria-hidden="true" />
-      </span>
-      <div className="min-w-0">
-        <p className="font-medium text-brand">
-          {brand_name} — {section_type}
-        </p>
-        {excerpt && <p className="mt-1 line-clamp-2 text-sm text-muted">{excerpt}</p>}
+//   const content = (
+//     <div className="flex items-start gap-3">
+//       <span className="mt-0.5 flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-brand-600/10 text-brand-600">
+//         <FileText className="h-5 w-5" aria-hidden="true" />
+//       </span>
+//       <div className="min-w-0">
+//         <p className="font-medium text-brand">
+//           {brand_name} — {section_type}
+//         </p>
+//         {excerpt && <p className="mt-1 line-clamp-2 text-sm text-muted">{excerpt}</p>}
+//       </div>
+//     </div>
+//   )
+
+//   return <div className="rounded-xl border border-line bg-surface p-4">{content}</div>
+// }
+
+
+// v2
+// import { FileText } from "lucide-react"
+// import { translateSectionType } from "../utils/sectionLabels"
+
+// export default function SourceCitation({ source }) {
+//   const { brand_name, section_type, excerpt } = source
+
+//   return (
+//     <div className="rounded-xl border border-line bg-surface p-4">
+//       <div className="flex items-start gap-3">
+//         <span className="mt-0.5 flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-brand-600/10 text-brand-600">
+//           <FileText className="h-5 w-5" aria-hidden="true" />
+//         </span>
+//         <div className="min-w-0">
+//           <p className="font-medium text-brand">
+//             {brand_name} — {translateSectionType(section_type)}
+//           </p>
+//           {excerpt && <p className="mt-1 line-clamp-2 text-sm text-muted">{excerpt}</p>}
+//         </div>
+//       </div>
+//     </div>
+//   )
+// }
+
+import { FileText, Calendar } from "lucide-react"
+import { translateSectionType } from "../utils/sectionLabels"
+import { formatEffectiveTime } from "../utils/formatDate"
+
+export default function SourceCitation({ source }) {
+  const { brand_name, section_type, excerpt, effective_time } = source
+  const formattedDate = formatEffectiveTime(effective_time)
+
+  return (
+    <div className="rounded-xl border border-line bg-surface p-4">
+      <div className="flex items-start gap-3">
+        <span className="mt-0.5 flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-brand-600/10 text-brand-600">
+          <FileText className="h-5 w-5" aria-hidden="true" />
+        </span>
+        <div className="min-w-0 flex-1">
+          <p className="font-medium text-brand">
+            {brand_name} — {translateSectionType(section_type)}
+          </p>
+          {excerpt && <p className="mt-1 line-clamp-2 text-sm text-muted">{excerpt}</p>}
+          {formattedDate && (
+            <p className="mt-1.5 flex items-center gap-1 text-xs text-muted">
+              <Calendar className="h-3 w-3" aria-hidden="true" />
+              Notice mise à jour le {formattedDate}
+            </p>
+          )}
+        </div>
       </div>
     </div>
   )
-
-  return <div className="rounded-xl border border-line bg-surface p-4">{content}</div>
 }

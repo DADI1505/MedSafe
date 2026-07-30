@@ -1,0 +1,97 @@
+{
+  "spl_product_data_elements": [
+    "AY BENDITO - CBD CAMPHOR, MENTHOL TROLAMINE GLUCOSAMINE SULFATE WATER GLYCERIN ARNICA MONTANA FLOWER MENTHOL MENTHOL SODIUM CHONDROITIN SULFATE (PORCINE; 5500 MW) METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE FD&C BLUE NO. 1 POLYSORBATE 20 METHYL SALICYLATE ROSMARINUS OFFICINALIS WHOLE CAMPHOR (SYNTHETIC) CAMPHOR (SYNTHETIC) CARBOMER 940 MINERAL OIL ALCOHOL CANNABIDIOL CANNABIS SATIVA SEED OIL FD&C YELLOW NO. 5 Light"
+  ],
+  "active_ingredient": [
+    "Camphor ………………. 6% Menthol …………….…. 4%"
+  ],
+  "purpose": [
+    "Topical Analgesic"
+  ],
+  "indications_and_usage": [
+    "Aid for temporary local relief of minor pain in muscles or joints."
+  ],
+  "warnings": [
+    "For external use only."
+  ],
+  "when_using": [
+    "Use only as directed Do not bandage tightly or use with a heating pad Avoid contact with eyes and mucous membranes Do not apply to wounds or damaged, broken or irritated skin A transient burning sensation or redness may occur upon application but generally disappears in several days If you experience an allergic reaction, discontinue use and consult a doctor Do not expose the area treated with product to heat or direct sunlight."
+  ],
+  "stop_use": [
+    "STOP USE AND ASK A DOCTOR IF: Condition worsens Redness is present Irritation develops Symptoms persist for more than 7 days or clear up occur again within a few days You experience signs injury, such as pain, swelling or blistering where the product was applied."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "IF PREGNANT OR BREAST – FEEDING: Ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Adults and Children over 12 years of age: Apply a small amount on the affected area. Massage in circular motion, let set for a few seconds. Repeat as necessary, but no more than 3 to 4 times daily. Children under 12 years of age: do not use, consult a doctor."
+  ],
+  "other_safety_information": [
+    "OTHER INFORMATION Store tightly closed in a dry place at controlled room temperature between 59°-86° F (15°-30° C)."
+  ],
+  "inactive_ingredient": [
+    "Water (Aqua), Alcohol Denat, Glycerin, Paraffinum Liquidum, Triethanolamine, Arnica Montana Flower Extract, Polysorbate 20, Carbomer, Methyl Salicylate, Sodium Chondroitin Sulfate, Glucosamine Sulfate, Rosmarinus Officinalis (Rosemary) Extract, Methylchloroisothiazolinone, Methylisothiazolinone, FD&C Blue No.1 (CI 42090)."
+  ],
+  "questions": [
+    "QUESTION OR COMMENTS? Call: +1-787-421-6423"
+  ],
+  "package_label_principal_display_panel": [
+    "AY BENDITO - CBD ROLL ON AY BENDITO CBD OIL ROLL ON",
+    "AY BENDITO - CBD SACHET AY BENDITO CBD OIL SACHET"
+  ],
+  "set_id": "04b1d605-60aa-56f4-e063-6294a90ae760",
+  "id": "43d61244-db33-d2af-e063-6294a90a82de",
+  "effective_time": "20251117",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "AY BENDITO - CBD"
+    ],
+    "generic_name": [
+      "CAMPHOR, MENTHOL"
+    ],
+    "manufacturer_name": [
+      "AY BENDITO INTERNATIONAL, INC"
+    ],
+    "product_ndc": [
+      "72524-009"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MENTHOL",
+      "CAMPHOR (SYNTHETIC)"
+    ],
+    "spl_id": [
+      "43d61244-db33-d2af-e063-6294a90a82de"
+    ],
+    "spl_set_id": [
+      "04b1d605-60aa-56f4-e063-6294a90ae760"
+    ],
+    "package_ndc": [
+      "72524-009-04",
+      "72524-009-17"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0862158000277",
+      "0850027973180"
+    ],
+    "unii": [
+      "L7T10EIP3A",
+      "5TJD82A1ET"
+    ]
+  }
+}

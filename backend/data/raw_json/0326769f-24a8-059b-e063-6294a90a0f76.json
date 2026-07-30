@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Kali Oxalicum Kali Oxalicum POTASSIUM OXALATE POTASSIUM CATION SUCROSE Kali Oxalicum Kali Oxalicum POTASSIUM OXALATE POTASSIUM CATION SUCROSE Kali Oxalicum Kali Oxalicum POTASSIUM OXALATE POTASSIUM CATION SUCROSE Kali Oxalicum Kali Oxalicum POTASSIUM OXALATE POTASSIUM CATION SUCROSE Kali Oxalicum Kali Oxalicum POTASSIUM OXALATE POTASSIUM CATION SUCROSE Kali Oxalicum Kali Oxalicum POTASSIUM OXALATE POTASSIUM CATION SUCROSE Kali Oxalicum Kali Oxalicum POTASSIUM OXALATE POTASSIUM CATION SUCROSE Kali Oxalicum Kali Oxalicum POTASSIUM OXALATE POTASSIUM CATION SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Kali Oxalicum 6C 5g Kali Oxalicum 6C 30g Kali Oxalicum 6C 100g Kali Oxalicum 12C 5g Kali Oxalicum 12C 30g Kali Oxalicum 12C 100g Kali Oxalicum 30C 1g Kali Oxalicum 30C 5g Kali Oxalicum 30C 30g Kali Oxalicum 30C 100g Kali Oxalicum 100C 1g Kali Oxalicum 100C 5g Kali Oxalicum 100C 30g Kali Oxalicum 100C 100g Kali Oxalicum 200C 1g Kali Oxalicum 200C 5g Kali Oxalicum 200C 30g Kali Oxalicum 200C 100g Kali Oxalicum 500C 1g Kali Oxalicum 500C 5g Kali Oxalicum 500C 30g Kali Oxalicum 500C 100g Kali Oxalicum 1M 1g Kali Oxalicum 1M 5g Kali Oxalicum 1M 30g Kali Oxalicum 1M 100g Kali Oxalicum LM1 30g"
+  ],
+  "set_id": "0326769f-24a7-059b-e063-6294a90a0f76",
+  "id": "0326769f-24a8-059b-e063-6294a90a0f76",
+  "effective_time": "20230817",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Kali Oxalicum"
+    ],
+    "generic_name": [
+      "KALI OXALICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3745",
+      "37662-3750",
+      "37662-3749",
+      "37662-3752",
+      "37662-3746",
+      "37662-3748",
+      "37662-3747",
+      "37662-3751"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "POTASSIUM OXALATE"
+    ],
+    "spl_id": [
+      "0326769f-24a8-059b-e063-6294a90a0f76"
+    ],
+    "spl_set_id": [
+      "0326769f-24a7-059b-e063-6294a90a0f76"
+    ],
+    "package_ndc": [
+      "37662-3750-1",
+      "37662-3750-2",
+      "37662-3750-3",
+      "37662-3750-4",
+      "37662-3749-1",
+      "37662-3749-2",
+      "37662-3749-3",
+      "37662-3749-4",
+      "37662-3752-1",
+      "37662-3746-1",
+      "37662-3746-2",
+      "37662-3746-3",
+      "37662-3748-1",
+      "37662-3748-2",
+      "37662-3748-3",
+      "37662-3748-4",
+      "37662-3747-1",
+      "37662-3747-2",
+      "37662-3747-3",
+      "37662-3747-4",
+      "37662-3751-1",
+      "37662-3751-2",
+      "37662-3751-3",
+      "37662-3751-4",
+      "37662-3745-1",
+      "37662-3745-2",
+      "37662-3745-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "LC7F2W7I5B"
+    ]
+  }
+}

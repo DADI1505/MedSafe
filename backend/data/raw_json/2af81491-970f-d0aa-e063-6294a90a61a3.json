@@ -1,0 +1,77 @@
+{
+  "spl_product_data_elements": [
+    "glo SKIN BEAUTY Clear Skin Cleanser glo SKIN BEAUTY Clear Skin Cleanser SODIUM COCO-SULFATE COCAMIDOPROPYL BETAINE SODIUM COCOYL ISETHIONATE SYNTHETIC WAX (1200 MW) MAGNESIUM SILICATE SODIUM POLYACRYLATE (8000 MW) METHYL PERFLUOROISOBUTYL ETHER METHYL PERFLUOROBUTYL ETHER POLYISOBUTYLENE (1000 MW) POLYSORBATE 20 POLYHYDROXYSTEARIC ACID (2300 MW) ISONONYL ISONONANOATE ETHYLHEXYL ISONONANOATE XANTHAN GUM DISODIUM EDTA-COPPER PHENOXYETHANOL SODIUM BISULFITE SODIUM HYDRIDE BUTYLENE GLYCOL IODOPROPYNYL BUTYLCARBAMATE SALICYLIC ACID SALICYLIC ACID"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Salicylic Acid 2%"
+  ],
+  "purpose": [
+    "Purpose Acne Treatment"
+  ],
+  "indications_and_usage": [
+    "Uses Treats Acne Helps prevent the development of new acne blemishes"
+  ],
+  "warnings": [
+    "Warnings Using other topical acne medications at the same tiem or immediatly following use of this prouct may increase dryness or irritation of the skin. If this occurs, only one medication shoul be used unless directed by a doctor. For external use only When using this product • avoid contact with the eyes • if contact occurs, rinse thoroughly with water • do not use on damaged or broken skin"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Use once or twice daily to cleanse skin thoroughly Dispense a small amount onto dampened face Massage gently for up to 60 seconds Rinse thoroughly with water, towel dry If bothersome dryness or peeling occurs, reduce use to once a day or every other ay"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Aqua/Water/Eau, Sodium Cocoyl Apple Amino Acids, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Synthetic Wax, Magnesium Silicate, Polyacrylate-13, Methyl Perfluoroisobutyl Ether, Methyl Perfluorobutyl Ether, Polyisobutene, Polysorbate 20, Polyhydroxystearic Acid, Isononyl Isononanoate, Ethylhexyl Isononanoate, Sodium Cocamidopropyl PG-Dimonium Chloride Phosphate, Xanthan Gum, Disodium EDTA, Phenoxyethanol, Sodium Bisulfite, Sodium Hydroxide, Parfum/Fragrance, Butylene Glycol, Iodopropynyl Butylcarbamate, Limonene"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel 60541-1700-20"
+  ],
+  "set_id": "07f51d83-e956-442c-9afa-aa987a66ae9e",
+  "id": "2af81491-970f-d0aa-e063-6294a90a61a3",
+  "effective_time": "20250105",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "glo SKIN BEAUTY Clear Skin Cleanser"
+    ],
+    "generic_name": [
+      "GLO SKIN BEAUTY CLEAR SKIN CLEANSER"
+    ],
+    "manufacturer_name": [
+      "Hayden Caleel LLC"
+    ],
+    "product_ndc": [
+      "60541-1700"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "562600"
+    ],
+    "spl_id": [
+      "2af81491-970f-d0aa-e063-6294a90a61a3"
+    ],
+    "spl_set_id": [
+      "07f51d83-e956-442c-9afa-aa987a66ae9e"
+    ],
+    "package_ndc": [
+      "60541-1700-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

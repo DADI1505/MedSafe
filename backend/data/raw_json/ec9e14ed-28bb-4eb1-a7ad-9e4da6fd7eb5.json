@@ -1,0 +1,112 @@
+{
+  "spl_product_data_elements": [
+    "Parasites/Amoeba/Protozoan Nosode Combination 9402 Parasites/Amoeba/Protozoan Nosode Combination ECHINACEA ANGUSTIFOLIA WHOLE ECHINACEA ANGUSTIFOLIA WHOLE AMARYLLIS BELLADONNA WHOLE AMARYLLIS BELLADONNA WHOLE EUCALYPTUS GLOBULUS LEAF EUCALYPTUS GLOBULUS LEAF EUPATORIUM PERFOLIATUM FLOWERING TOP EUPATORIUM PERFOLIATUM FLOWERING TOP AMOEBA PROTEUS AMOEBA PROTEUS ANOPHELES QUADRIMACULATUS ANOPHELES QUADRIMACULATUS TOXOPLASMA GONDII TOXOPLASMA GONDII ALCOHOL WATER"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS Echinacea angustifolia 3X Belladonna 4X Eucalyptus globulus 4X Eupatorium perfoliatum 6X Amoeba 12X Malaria 12X Toxoplasmosis 12X"
+  ],
+  "questions": [
+    "QUESTIONS Professional Formulas PO Box 2034 Lake Oswego, OR 97035"
+  ],
+  "indications_and_usage": [
+    "INDICATIONS For the temporary relief of occasional headache, mild abdominal pain or cramping, minor muscle ache or pain, fatigue, flatulence, nausea or vomiting, or diarrhea.*"
+  ],
+  "purpose": [
+    "*Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS Persistent symptoms may be a sign of a serious condition. If symptoms persist or are accompanied by a fever, rash, stiff neck, or persistent headache, consult a doctor. Keep out of the reach of children. In case of overdose, get medical help or contact a poison control center right away. If pregnant or breastfeeding, ask a healthcare professional before use. Keep out of the reach of children. If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take 10 to 15 drops once weekly or monthly. If mild symptoms are present, take 10 drops up to 3 times per day. Consult a physician for use in children under 12 years of age."
+  ],
+  "other_safety_information": [
+    "OTHER INFORMATION Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS 40% ethanol, purified water."
+  ],
+  "package_label_principal_display_panel": [
+    "LABEL Est 1985 Professional Formulas Complementary Health Parasites/Amoeba/Protozoan Nosode Combination Homeopathic Remedy 1 FL. OZ. (29.5 mL) Label image"
+  ],
+  "set_id": "0846f710-e652-4010-81b6-45a216b0c8c7",
+  "id": "ec9e14ed-28bb-4eb1-a7ad-9e4da6fd7eb5",
+  "effective_time": "20260108",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Parasites/Amoeba/Protozoan Nosode Combination 9402"
+    ],
+    "generic_name": [
+      "PARASITES/AMOEBA/PROTOZOAN NOSODE COMBINATION"
+    ],
+    "manufacturer_name": [
+      "Professional Complementary Health Formulas"
+    ],
+    "product_ndc": [
+      "63083-9402"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ECHINACEA ANGUSTIFOLIA WHOLE",
+      "AMARYLLIS BELLADONNA WHOLE",
+      "EUCALYPTUS GLOBULUS LEAF",
+      "EUPATORIUM PERFOLIATUM FLOWERING TOP",
+      "AMOEBA PROTEUS",
+      "ANOPHELES QUADRIMACULATUS",
+      "TOXOPLASMA GONDII"
+    ],
+    "spl_id": [
+      "ec9e14ed-28bb-4eb1-a7ad-9e4da6fd7eb5"
+    ],
+    "spl_set_id": [
+      "0846f710-e652-4010-81b6-45a216b0c8c7"
+    ],
+    "package_ndc": [
+      "63083-9402-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185365",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0028968",
+      "M0000728"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Insect Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Insect Proteins [CS]",
+      "Allergens [CS]"
+    ],
+    "unii": [
+      "VB06AV5US8",
+      "11B89M58UN",
+      "S546YLW6E6",
+      "1W0775VX6E",
+      "APR291GFYV",
+      "B4ULB6ARCO",
+      "BMV90JF469"
+    ]
+  }
+}

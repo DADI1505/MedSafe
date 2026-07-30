@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "Renapar Pareira Brava, Petroselinum Sativum, Sarsaparilla (Smilax Regelii), Kidney (Suis), Bryonia (Alba), Mercurius Corrosivus, Rubia Tinctorum, Solidago Virgaurea, Triticum Repens CHONDRODENDRON TOMENTOSUM ROOT CHONDRODENDRON TOMENTOSUM ROOT PETROSELINUM CRISPUM WHOLE PETROSELINUM CRISPUM SMILAX ORNATA ROOT SARSAPARILLA PORK KIDNEY PORK KIDNEY BRYONIA ALBA ROOT BRYONIA ALBA ROOT MERCURIC CHLORIDE MERCURIC CATION RUBIA TINCTORUM ROOT RUBIA TINCTORUM ROOT SOLIDAGO VIRGAUREA FLOWERING TOP SOLIDAGO VIRGAUREA FLOWERING TOP ELYMUS REPENS ROOT ELYMUS REPENS ROOT WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: (in each drop): 14.26% of Bryonia (Alba) 12X, Kidney (Suis) 6X, Mercurius Corrosivus 12X, Pareira Brava 8X, Rubia Tinctorum 12X, Solidago Virgaurea 12X, Triticum Repens 12X; 0.10% of Petroselinum Sativum 3X, Sarsaparilla (Smilax Regelii) 3X."
+  ],
+  "purpose": [
+    "INDICATIONS: May temporarily relieve sudden desire to urinate, urination difficult and scanty, and frequent urging on urination.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS: If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in a cool, dry place."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Adults and children 5 to 10 drops orally, 3 times daily or as otherwise directed by a health care professional. If symptoms persist for more than 7 days, consult your health care professional. Consult a physician for use in children under 12 years of age."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: May temporarily relieve sudden desire to urinate, urination difficult and scanty, and frequent urging on urination.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Demineralized water, 20% Ethanol."
+  ],
+  "questions": [
+    "QUESTIONS: Dist. by Energique, Inc. 201 Apple Blvd Woodbine, IA 51579 800.869.8078"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: ENERGIQUE SINCE 1987 HOMEOPATHIC REMEDY RENAPAR 1 fl. oz. (30 ml) RENAPAR"
+  ],
+  "set_id": "0515331b-c3d2-4426-ac28-8ef6018352a5",
+  "id": "c7b9e887-b6eb-4a7b-9db3-0ec22baf4c8b",
+  "effective_time": "20231201",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "Renapar"
+    ],
+    "generic_name": [
+      "PAREIRA BRAVA, PETROSELINUM SATIVUM, SARSAPARILLA (SMILAX REGELII), KIDNEY (SUIS), BRYONIA (ALBA), MERCURIUS CORROSIVUS, RUBIA TINCTORUM, SOLIDAGO VIRGAUREA, TRITICUM REPENS"
+    ],
+    "manufacturer_name": [
+      "Energique, Inc."
+    ],
+    "product_ndc": [
+      "44911-0641"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CHONDRODENDRON TOMENTOSUM ROOT",
+      "PETROSELINUM CRISPUM WHOLE",
+      "SMILAX ORNATA ROOT",
+      "PORK KIDNEY",
+      "BRYONIA ALBA ROOT",
+      "MERCURIC CHLORIDE",
+      "RUBIA TINCTORUM ROOT",
+      "SOLIDAGO VIRGAUREA FLOWERING TOP",
+      "ELYMUS REPENS ROOT"
+    ],
+    "spl_id": [
+      "c7b9e887-b6eb-4a7b-9db3-0ec22baf4c8b"
+    ],
+    "spl_set_id": [
+      "0515331b-c3d2-4426-ac28-8ef6018352a5"
+    ],
+    "package_ndc": [
+      "44911-0641-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0363113700978"
+    ],
+    "unii": [
+      "395A3P448Z",
+      "1WZA4Y92EX",
+      "2H1576D5WG",
+      "X7BCI5P86H",
+      "T7J046YI2B",
+      "53GH7MZT1R",
+      "0SVP95L23G",
+      "5405K23S50",
+      "3IXW0F6P8W"
+    ]
+  }
+}

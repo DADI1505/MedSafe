@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "Callington Anti-Bacterial Hand Sanitizer Wipe benzalkonium chloride WATER PROPYLENE GLYCOL POLYSORBATE 20 DIPROPYLENE GLYCOL CHLORPHENESIN BRONOPOL BENZALKONIUM CHLORIDE BENZALKONIUM"
+  ],
+  "spl_unclassified_section": [
+    "DRUG FACTS"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Benzalkonium Chloride .......... 0.05 %"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Uses: For personal hand hygiene to help prevent the spread of bacteria."
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use in eyes. If this occurs, rinse thoroughly with water. Stop use and ask a doctor if irritation or redness develops and persists for more than 72 hours. Keep out of reach of children. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "For external use only. Do not use in eyes. If this occurs, rinse thoroughly with water. Stop use and ask a doctor if irritation or redness develops and persists for more than 72 hours."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children over 2 years: Tear open packet, unfold and use as a wash cloth. Allow hands to dry without wiping."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Water, Propylene glycol, Polysorbate 20, Dipropylene glycol, Ethylhexyl_x0002_glycerin, Chlorphenesin, Bronopol, Citric Acid."
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel"
+  ],
+  "set_id": "00ca48ca-893d-4a3f-ad90-119522664e08",
+  "id": "1cf083e3-784d-ce90-e063-6294a90a4bfc",
+  "effective_time": "20240710",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Callington Anti-Bacterial Hand Sanitizer Wipe"
+    ],
+    "generic_name": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "manufacturer_name": [
+      "JIANGMEN SHUIZIRUN SANITARY ARTICLES CO., LTD."
+    ],
+    "product_ndc": [
+      "71734-117"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "rxcui": [
+      "2553300"
+    ],
+    "spl_id": [
+      "1cf083e3-784d-ce90-e063-6294a90a4bfc"
+    ],
+    "spl_set_id": [
+      "00ca48ca-893d-4a3f-ad90-119522664e08"
+    ],
+    "package_ndc": [
+      "71734-117-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "F5UM2KM3W7"
+    ]
+  }
+}

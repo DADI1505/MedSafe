@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "Walgreens Dandruff Itchy Dry Scalp Defense Anti-dandruff Pyrithione Zinc Pyrithione Zinc Pyrithione Zinc Water Ammonium Lauryl Sulfate Glycerin COCO MONOETHANOLAMIDE Glycol Distearate Cetyl Alcohol ALOE VERA LEAF Dimethicone .ALPHA.-TOCOPHEROL ACETATE, DL- Panthenol LINOLEAMIDOPROPYL PROPYLENE GLYCOL-DIMONIUM CHLORIDE PHOSPHATE DIMETHICONOL (2000 CST) Lauryl Glucoside AMODIMETHICONE (800 CST) HYPROMELLOSE, UNSPECIFIED POLIDOCANOL C11-15 ALKETH-7 Trideceth-12 Propylene Glycol Sodium Chloride Sodium Xylenesulfonate HYDROXYETHYL CELLULOSE, UNSPECIFIED CITRIC ACID MONOHYDRATE Phenoxyethanol Methylchloroisothiazolinone Methylisothiazolinone FD&C BLUE NO. 1 FD&C YELLOW NO. 5"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredient Pyrithione Zinc 1%"
+  ],
+  "purpose": [
+    "Purpose Anti-dandruff"
+  ],
+  "indications_and_usage": [
+    "Use helps prevent recurrence of flaking and itching associated with dandruff."
+  ],
+  "warnings": [
+    "Warnings For external use only When using this product avoid contact with the eyes. If contact occurs, rinse eyes thoroughly with water. Stop use and ask a doctor if condition worsens or does not improve after regular use as directed. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "when_using": [
+    "When using this product avoid contact with the eyes. If contact occurs, rinse eyes thoroughly with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens or does not improve after regular use as directed.",
+    "DISTRIBUTED BY: WALGREEN CO. 200 WILMOT RD., DEERFIELD, IL 60015"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions shake well wet hair massage onto scalp rinse repeat if desired for best results use at least twice a week or as directed by a doctor for maximum dandruff control, use every time you shampoo."
+  ],
+  "storage_and_handling": [
+    "Other information store at room temperature"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, ammonium lauryl sulfate, glycerin, ammonium laureth sulfate, cocamide MEA, glycol distearate, cetyl alcohol, fragrance, aloe barbadensis leaf juice, dimethicone, tocopheryl acetate, panthenol, linoleamidopropyl PG-dimonium chloride phosphate, dimethiconol, sodium lauryl glucose carboxylate, lauryl glucoside, amodimethicone, hydroxypropyl methylcellulose, laureth-9, C11-15 alketh-7, trideceth-12, propylene glycol, sodium chloride, sodium xylenesulfonate, hydroxyethylcellulose, citric acid, phenoxyethanol, methylchloroisothiazolinone, methylisothiazolinone, blue 1, yellow 5."
+  ],
+  "questions": [
+    "Questions or Comments? 1-800-925-4733"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 325 mL Bottle Label Walgreens • WALGREENS • PHARMACIST RECOMMENDED † Compare to the active ingredient in Selsun Blue ® † † ITCHY DRY SCALP DEFENSE Dandruff Shampoo PYRITHIONE ZINC 1% Daily scalp care Moisturizing formula to help nourish hair & scalp Formulated to help prevent & eliminate itchy scalp & visible flakes* 11 FL OZ (325 mL) 05-4486 PRINCIPAL DISPLAY PANEL - 325 mL Bottle Label"
+  ],
+  "set_id": "06b37d44-9ebf-44ed-8e8b-492905d85bdc",
+  "id": "19db2dbe-9638-4a84-935b-1bd5bc864591",
+  "effective_time": "20241101",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M032"
+    ],
+    "brand_name": [
+      "Walgreens Dandruff Itchy Dry Scalp Defense Anti-dandruff"
+    ],
+    "generic_name": [
+      "PYRITHIONE ZINC"
+    ],
+    "manufacturer_name": [
+      "Walgreen Company"
+    ],
+    "product_ndc": [
+      "0363-4138"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "PYRITHIONE ZINC"
+    ],
+    "rxcui": [
+      "209884"
+    ],
+    "spl_id": [
+      "19db2dbe-9638-4a84-935b-1bd5bc864591"
+    ],
+    "spl_set_id": [
+      "06b37d44-9ebf-44ed-8e8b-492905d85bdc"
+    ],
+    "package_ndc": [
+      "0363-4138-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "R953O2RHZ5"
+    ]
+  }
+}

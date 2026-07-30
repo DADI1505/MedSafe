@@ -1,0 +1,73 @@
+{
+  "spl_product_data_elements": [
+    "Tretinoin Tretinoin TRETINOIN TRETINOIN BUTYLATED HYDROXYTOLUENE ISOPROPYL MYRISTATE POLYOXYL 40 STEARATE SORBIC ACID STEARIC ACID STEARYL ALCOHOL WATER XANTHAN GUM"
+  ],
+  "spl_unclassified_section": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL.PRINCIPAL DISPLAY PANEL NDC 70771-1873-2 Tretinoin cream USP, 0.1% 20 grams Rx tretinoin cream 20 g"
+  ],
+  "set_id": "047989fc-6e33-4f19-8ba7-5fb63bb06cf3",
+  "id": "650ffd6d-e4dd-49df-be9e-da611704dc40",
+  "effective_time": "20240426",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "ANDA218561"
+    ],
+    "brand_name": [
+      "Tretinoin"
+    ],
+    "generic_name": [
+      "TRETINOIN"
+    ],
+    "manufacturer_name": [
+      "Zydus Lifesciences Limited"
+    ],
+    "product_ndc": [
+      "70771-1873"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "TRETINOIN"
+    ],
+    "rxcui": [
+      "198300"
+    ],
+    "spl_id": [
+      "650ffd6d-e4dd-49df-be9e-da611704dc40"
+    ],
+    "spl_set_id": [
+      "047989fc-6e33-4f19-8ba7-5fb63bb06cf3"
+    ],
+    "package_ndc": [
+      "70771-1873-2",
+      "70771-1873-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0372578153090"
+    ],
+    "nui": [
+      "N0000175607",
+      "M0018962"
+    ],
+    "pharm_class_epc": [
+      "Retinoid [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Retinoids [CS]"
+    ],
+    "unii": [
+      "5688UTC01R"
+    ]
+  }
+}

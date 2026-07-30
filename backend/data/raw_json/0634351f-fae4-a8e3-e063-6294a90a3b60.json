@@ -1,0 +1,174 @@
+{
+  "spl_product_data_elements": [
+    "CardCare Echinacea, Hypericum, Valeriana, Aconitum nap., Arsenicum alb., Aur. met., Baryta carb., Benzoicum ac., Berber. vulg., Bryonia, Calc. fluor., Cantharis, Ceanothus, Chelidonium maj., Chionanthus, Cinchona, Convallaria, Crotalus hor., Digitalis, Gelsemium, Glonoinum, Hydrofluoricum ac. Kali iod., Lachesis, Lycopus, Naja, Nux vom., Phos., Pulsatilla, Rhus tox., Vipera, Elaps. LYCOPUS VIRGINICUS LYCOPUS VIRGINICUS ANEMONE PULSATILLA ANEMONE PULSATILLA VIPERA BERUS VENOM VIPERA BERUS VENOM ECHINACEA, UNSPECIFIED ECHINACEA, UNSPECIFIED HYPERICUM PERFORATUM HYPERICUM PERFORATUM ACONITUM NAPELLUS ACONITUM NAPELLUS BARIUM CARBONATE BARIUM CATION WATER ALCOHOL VALERIAN VALERIAN BRYONIA ALBA ROOT BRYONIA ALBA ROOT ARSENIC TRIOXIDE ARSENIC CATION (3+) BENZOIC ACID BENZOIC ACID CHELIDONIUM MAJUS CHELIDONIUM MAJUS HYDROFLUORIC ACID FLUORIDE ION POTASSIUM IODIDE IODIDE ION LACHESIS MUTA VENOM LACHESIS MUTA VENOM STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED MICRURUS CORALLINUS VENOM MICRURUS CORALLINUS VENOM LYTTA VESICATORIA LYTTA VESICATORIA CEANOTHUS AMERICANUS LEAF CEANOTHUS AMERICANUS LEAF CHIONANTHUS VIRGINICUS BARK CHIONANTHUS VIRGINICUS BARK CONVALLARIA MAJALIS CONVALLARIA MAJALIS DIGITALIS DIGITALIS NITROGLYCERIN NITROGLYCERIN NAJA NAJA VENOM NAJA NAJA VENOM CALCIUM FLUORIDE FLUORIDE ION GOLD GOLD BERBERIS VULGARIS ROOT BARK BERBERIS VULGARIS ROOT BARK CINCHONA OFFICINALIS BARK CINCHONA OFFICINALIS BARK CROTALUS HORRIDUS HORRIDUS VENOM CROTALUS HORRIDUS HORRIDUS VENOM GELSEMIUM SEMPERVIRENS ROOT GELSEMIUM SEMPERVIRENS ROOT PHOSPHORUS PHOSPHORUS TOXICODENDRON PUBESCENS LEAF TOXICODENDRON PUBESCENS LEAF"
+  ],
+  "indications_and_usage": [
+    "INDICATIONS & USAGE SECTION Formulated for symptoms such as fear, cold hands & feet, headache, weakness, sallow skin and palpitations."
+  ],
+  "dosage_and_administration": [
+    "DOSAGE & ADMINISTRATION SECTION Directions: Adults, take 6 drops by mouth one to four times daily or as directed by a health professional."
+  ],
+  "active_ingredient": [
+    "OTC - ACTIVE INGREDIENT SECTION Equal of Echinacea 6x, Hypericum 6x, Valeriana 6x, Aconitum nap. 15x, Arsenicum alb. 15x, Aur. met. 15x, Baryta carb. 15x, Benzoicum ac. 15x, Berber. vulg. 15x, Bryonia 15x, Calc. fluor. 15x, Cantharis 15x, Ceanothus 15x, Chelidonium maj. 15x, Chionanthus 15x, Cinchona 15x, Convallaria 15x, Crotalus hor. 15x, Digitalis 15x, Gelsemium 15x, Glonoinum 15x, Hydrofluoricum ac. 15x, Kali iod. 15x, Lachesis 15x, Lycopus 15x, Naja 15x, Nux vom. 15x, Phos. 15x, Pulsatilla 15x, Rhus tox. 15x, Vipera 16x, Elaps 30x."
+  ],
+  "purpose": [
+    "OTC - PURPOSE SECTION Formulated for symptoms such as fear, cold hands & feet, headache, weakness, sallow skin and palpitations."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENT SECTION Inactive Ingredients: USP Purified water; USP Gluten-free, non-GMO, organic cane alcohol 20%."
+  ],
+  "questions": [
+    "OTC - QUESTIONS SECTION newtonlabs.net - Questions? 800.448.7256 Newton Laboratories, Inc. FDA Est # 1051203 Conyers, GA 30013"
+  ],
+  "warnings": [
+    "WARNINGS SECTION WARNINGS: Keep out of reach of children. Do not use if tamper-evident seal is broken or missing. If symptoms worsen or persist for more than a few days, consult a doctor. If pregnant or breast-feeding , ask a doctor before use."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "OTC - PREGNANCY OR BREAST FEEDING SECTION If pregnant or breast-feeding, ask a doctor before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "OTC - KEEP OUT OF REACH OF CHILDREN SECTION Keep out of reach of children."
+  ],
+  "package_label_principal_display_panel": [
+    "package label"
+  ],
+  "set_id": "06342201-f0b4-de0d-e063-6294a90a5621",
+  "id": "0634351f-fae4-a8e3-e063-6294a90a3b60",
+  "effective_time": "20230925",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "CardCare"
+    ],
+    "generic_name": [
+      "ECHINACEA, HYPERICUM, VALERIANA, ACONITUM NAP., ARSENICUM ALB., AUR. MET., BARYTA CARB., BENZOICUM AC., BERBER. VULG., BRYONIA, CALC. FLUOR., CANTHARIS, CEANOTHUS, CHELIDONIUM MAJ., CHIONANTHUS, CINCHONA, CONVALLARIA, CROTALUS HOR., DIGITALIS, GELSEMIUM, GLONOINUM, HYDROFLUORICUM AC. KALI IOD., LACHESIS, LYCOPUS, NAJA, NUX VOM., PHOS., PULSATILLA, RHUS TOX., VIPERA, ELAPS."
+    ],
+    "manufacturer_name": [
+      "Newton Laboratories, Inc."
+    ],
+    "product_ndc": [
+      "55714-4853"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "LYCOPUS VIRGINICUS",
+      "ANEMONE PULSATILLA",
+      "VIPERA BERUS VENOM",
+      "ECHINACEA, UNSPECIFIED",
+      "HYPERICUM PERFORATUM",
+      "ACONITUM NAPELLUS",
+      "BARIUM CARBONATE",
+      "VALERIAN",
+      "BRYONIA ALBA ROOT",
+      "ARSENIC TRIOXIDE",
+      "BENZOIC ACID",
+      "CHELIDONIUM MAJUS",
+      "HYDROFLUORIC ACID",
+      "POTASSIUM IODIDE",
+      "LACHESIS MUTA VENOM",
+      "STRYCHNOS NUX-VOMICA SEED",
+      "MICRURUS CORALLINUS VENOM",
+      "LYTTA VESICATORIA",
+      "CEANOTHUS AMERICANUS LEAF",
+      "CHIONANTHUS VIRGINICUS BARK",
+      "CONVALLARIA MAJALIS",
+      "DIGITALIS",
+      "NITROGLYCERIN",
+      "NAJA NAJA VENOM",
+      "CALCIUM FLUORIDE",
+      "GOLD",
+      "BERBERIS VULGARIS ROOT BARK",
+      "CINCHONA OFFICINALIS BARK",
+      "CROTALUS HORRIDUS HORRIDUS VENOM",
+      "GELSEMIUM SEMPERVIRENS ROOT",
+      "PHOSPHORUS",
+      "TOXICODENDRON PUBESCENS LEAF"
+    ],
+    "spl_id": [
+      "0634351f-fae4-a8e3-e063-6294a90a3b60"
+    ],
+    "spl_set_id": [
+      "06342201-f0b4-de0d-e063-6294a90a5621"
+    ],
+    "package_ndc": [
+      "55714-4853-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175806",
+      "N0000175807",
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0016962",
+      "M0516536",
+      "N0000175415",
+      "M0014874",
+      "N0000009909",
+      "N0000185508"
+    ],
+    "pharm_class_moa": [
+      "Ammonium Ion Binding Activity [MoA]"
+    ],
+    "pharm_class_epc": [
+      "Nitrogen Binding Agent [EPC]",
+      "Non-Standardized Plant Allergenic Extract [EPC]",
+      "Nitrate Vasodilator [EPC]",
+      "Standardized Chemical Allergen [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]",
+      "Vasodilation [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Plant Proteins [CS]",
+      "Seed Storage Proteins [CS]",
+      "Nitrates [CS]"
+    ],
+    "unii": [
+      "TWH5125Q6F",
+      "I76KB35JEV",
+      "0ORO6NCA4M",
+      "4N9P6CC1DX",
+      "XK4IUX8MNB",
+      "U0NQ8555JD",
+      "6P669D8HQ8",
+      "JWF5YAW3QW",
+      "T7J046YI2B",
+      "S7V92P67HO",
+      "8SKN0B0MIM",
+      "7E889U5RNN",
+      "RGL5YE86CZ",
+      "1C4QK22F9J",
+      "VSW71SS07I",
+      "269XH13919",
+      "V0S6H36980",
+      "3Q034RO3BT",
+      "25B1Y14T8N",
+      "QHH4HVF5QE",
+      "F1T8QT9U8B",
+      "G59M7S0WS3",
+      "ZZ4AG7L7VM",
+      "O3B55K4YKI",
+      "79Y1949PYO",
+      "1TH8Q20J0U",
+      "S003A158SB",
+      "YHA2XLJ956",
+      "639KR60Q1Q",
+      "27YLU75U4W",
+      "6IO182RP7A"
+    ]
+  }
+}

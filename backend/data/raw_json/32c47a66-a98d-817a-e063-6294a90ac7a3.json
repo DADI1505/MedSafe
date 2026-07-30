@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Baby Mantra Diaper Cream Zinc Oxide 10% ALMOND OIL .ALPHA.-TOCOPHEROL, D- GLYCERIN ZINC OXIDE ZINC OXIDE JOJOBA OIL WHITE WAX WATER ROSEMARY SUNFLOWER OIL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Zinc Oxide 10%"
+  ],
+  "purpose": [
+    "Purpose Skin Protectant"
+  ],
+  "indications_and_usage": [
+    "Uses: Helps treat and prevent diaper rash. Protects chafed skin due to diaper rash and helps protect skin from wetness. Helps prevent and temporarily protects chafed, chapped, cracked or wind-burned skin and lips."
+  ],
+  "warnings": [
+    "Warnings: For external use only. When using this product, do not get into eyes. Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days Do not use on: deep or puncture wounds animal bites serious burns Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days Do not use on: deep or puncture wounds animal bites serious burns"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days"
+  ],
+  "do_not_use": [
+    "Do not use on: deep or puncture wounds animal bites serious burns"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions: Change wet and soiled diapers promptly, cleanse the diaper area, and allow to dry. Apply ointment liberally, as often as necessary, with each diaper change, especially at bedtime or anytime exposure to wet diaper"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Helianthus Annuus (Sunflower) Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Beeswax (White), Rosmarinus Officinalis (Rosemary) Leaf Extract, Tocopherol (D-alpha), Aqua (Water), Glycerin"
+  ],
+  "other_safety_information": [
+    "Store at room temperature"
+  ],
+  "recent_major_changes": [
+    "For Indications and Usage section : Not a major change - We have only updated our Effective Date. For Dosage and Administration section: Not a major change - we have only updated our Effective Date."
+  ],
+  "package_label_principal_display_panel": [
+    "TUBE ARTWORK TUBE ARTWORK"
+  ],
+  "set_id": "0427bbc9-f4c0-0eb6-e063-6294a90a7199",
+  "id": "32c47a66-a98d-817a-e063-6294a90ac7a3",
+  "effective_time": "20250414",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Baby Mantra Diaper Cream"
+    ],
+    "generic_name": [
+      "ZINC OXIDE 10%"
+    ],
+    "manufacturer_name": [
+      "Renu Laboratories, LLC"
+    ],
+    "product_ndc": [
+      "76348-825"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "rxcui": [
+      "199099"
+    ],
+    "spl_id": [
+      "32c47a66-a98d-817a-e063-6294a90ac7a3"
+    ],
+    "spl_set_id": [
+      "0427bbc9-f4c0-0eb6-e063-6294a90a7199"
+    ],
+    "package_ndc": [
+      "76348-825-34"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0856357003207"
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

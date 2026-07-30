@@ -1,0 +1,81 @@
+{
+  "spl_product_data_elements": [
+    "GOJO RICH PINK Antibacterial Ltn Sp Chloroxylenol WATER COCONUT ACID OLEIC ACID SODIUM SULFATE MONOETHANOLAMINE COCO MONOETHANOLAMIDE COCO-BETAINE PROPYLENE GLYCOL VITAMIN A PALMITATE EDETATE SODIUM .ALPHA.-TOCOPHEROL ACETATE CORN OIL D&C RED NO. 33 FD&C RED NO. 40 CHLOROXYLENOL CHLOROXYLENOL"
+  ],
+  "active_ingredient": [
+    "Active ingredient Chloroxylenol 0.3%"
+  ],
+  "purpose": [
+    "Purpose Antimicrobial"
+  ],
+  "indications_and_usage": [
+    "Use • Handwash to help decrease bacteria on the skin • Recommended for repeated use"
+  ],
+  "warnings": [
+    "Warnings For external use only When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash appears and lasts Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if irritation or rash appears and lasts"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions • Wet hands • Apply a small amount of product and work into a lather • Rinse well and dry hands completely"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water (Aqua), Coconut Acid, Oleic Acid, Sodium Sulfate, Ethanolamine, Cocamide MEA, Coco-Betaine, Propylene Glycol, Retinyl Palmitate, Tetrasodium EDTA, Tocopheryl Acetate, Zea Mays (Corn) Oil, Fragrance (Parfum), Red 33 (CI 17200), Red 40 (CI 16035)"
+  ],
+  "package_label_principal_display_panel": [
+    "label"
+  ],
+  "set_id": "0299bcec-3097-4cdf-b766-e48fd8cc89aa",
+  "id": "4c49478e-75c7-d9df-e063-6394a90affdb",
+  "effective_time": "20260305",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "GOJO RICH PINK Antibacterial Ltn Sp"
+    ],
+    "generic_name": [
+      "CHLOROXYLENOL"
+    ],
+    "manufacturer_name": [
+      "GOJO Industries, Inc."
+    ],
+    "product_ndc": [
+      "21749-060"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CHLOROXYLENOL"
+    ],
+    "spl_id": [
+      "4c49478e-75c7-d9df-e063-6394a90affdb"
+    ],
+    "spl_set_id": [
+      "0299bcec-3097-4cdf-b766-e48fd8cc89aa"
+    ],
+    "package_ndc": [
+      "21749-060-20",
+      "21749-060-50"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "0F32U78V2Q"
+    ]
+  }
+}

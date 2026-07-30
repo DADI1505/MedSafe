@@ -1,0 +1,99 @@
+{
+  "spl_product_data_elements": [
+    "Pharbedryl Diphenhydramine HCl DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE FERROSOFERRIC OXIDE D&C RED NO. 28 FD&C BLUE NO. 1 FD&C RED NO. 40 GELATIN, UNSPECIFIED LACTOSE MONOHYDRATE MAGNESIUM STEARATE SILICON DIOXIDE SODIUM LAURYL SULFATE PINK (clear) , WHITE (clear) , RED (band) PH014"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each capsule) Diphenhydramine HCl 25mg Purpose Antihistamine"
+  ],
+  "purpose": [
+    "Purpose Antihistamine"
+  ],
+  "indications_and_usage": [
+    "Uses Temporarily relieves these symptoms due to hay fever or other respiratory allergies: sneezing itching of the nose or throat runny nose itchy, watery eyes Temporarily relieves these symptoms due to common cold: runny nose sneezing"
+  ],
+  "warnings": [
+    "Warnings Do not use to make child sleepy with any other product containing diphenhydramine, even one used on skin"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have trouble urinating due to an enlarged prostate gland a breathing problem such as emphysema or chronic bronchitis glaucoma Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers"
+  ],
+  "when_using": [
+    "When using this product avoid alcoholic drinks marked drowsiness may occur excitability may occur, especially in children alcohol, sedatives and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. (In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "dosage_and_administration": [
+    "Directions take every 4 to 6 hours, or as directed by a doctor do not take more than 6 times in 24 hours adults and children 12 years and above 1-2 Capsules children 6 to under 12 years 1 Capsule children under 6 years Ask a doctor"
+  ],
+  "dosage_and_administration_table": [
+    "<table ID=\"i2fa248da-221c-44d0-85ec-977f9a29bd96\" width=\"391\" border=\"1\"><tbody><tr><td>adults and children 12 years and above</td><td>1-2 Capsules </td></tr><tr><td>children 6 to under 12 years </td><td>1 Capsule</td></tr><tr><td>children under 6 years</td><td>Ask a doctor</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information store between 20°-25°C (68°-77°F), excursions permitted between 15-30°C (59-86°F) protect from excessive moisture"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients black iron oxide, D&C red #28, D&C blue #1, FD&C red #40, gelatin, lactose monohydrate, magnesium stearate, silicon dioxide, sodium lauryl sulfate"
+  ],
+  "questions": [
+    "Questions or comments? (866)562-2756 Mon - Fri 8 AM to 4 PM"
+  ],
+  "package_label_principal_display_panel": [
+    "PHARBEST NDC 16103-0348-11 Manufactured in the USA * Compare to the active ingredient in Benadryl ® Ultratabs PHARBEDRYL Diphenhydramine HCl 25mg Antihistamine • Sneezing • Runny Nose • Itchy, Watery Eyes • Itchy Throat 1000 CAPSULES This Package for Households without Young Childern Pharbedryl (Diphenhydramine HCl) 25 mg Capsule Product Label"
+  ],
+  "set_id": "070e556b-e083-452f-8a7c-aca92470dd61",
+  "id": "1c298805-036e-4cd1-87cc-1d2e413043b8",
+  "effective_time": "20251224",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M010"
+    ],
+    "brand_name": [
+      "Pharbedryl"
+    ],
+    "generic_name": [
+      "DIPHENHYDRAMINE HCL"
+    ],
+    "manufacturer_name": [
+      "Pharbest Pharmaceuticals, Inc."
+    ],
+    "product_ndc": [
+      "16103-348"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIPHENHYDRAMINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1049909"
+    ],
+    "spl_id": [
+      "1c298805-036e-4cd1-87cc-1d2e413043b8"
+    ],
+    "spl_set_id": [
+      "070e556b-e083-452f-8a7c-aca92470dd61"
+    ],
+    "package_ndc": [
+      "16103-348-08",
+      "16103-348-11"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "TC2D6JAD40"
+    ]
+  }
+}

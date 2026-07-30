@@ -1,0 +1,82 @@
+{
+  "spl_product_data_elements": [
+    "Degree Men Motionsense UltraClear Black and White 48H Antiperspirant Aluminum zirconium tetrachlorohydrex GLY CYCLOMETHICONE 5 PPG-14 BUTYL ETHER STEARYL ALCOHOL HIGH DENSITY POLYETHYLENE HYDROGENATED CASTOR OIL PEG-8 DISTEARATE SILICON DIOXIDE MEDIUM-CHAIN TRIGLYCERIDES HYDRATED SILICA MALTODEXTRIN STARCH, CORN BUTYLATED HYDROXYTOLUENE CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredient Aluminum Zirconium Tetrachlorohydrex GLY (11.4 %)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses reduces underarm wetness"
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use on broken skin. Ask a doctor before use if you have kidney disease. Stop use if rash or irritation occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply to underarms only"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Cyclopentasiloxane, PPG-14 Butyl Ether, Stearyl Alcohol, Polyethylene, Hydrogenated Castor Oil, PEG-8 Distearate, Fragrance (Parfum), Silica, Caprylic/Capric Triglyceride, Sodium Starch Octerylsuccinate, Hydrated Silica, Maltodextrin, Gelatin Crosspolymer, Hydrolyzed Corn Starch, BHT, Cellulose Gum."
+  ],
+  "questions": [
+    "Questions? Call toll-free 1-866-334-7331"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging image description"
+  ],
+  "set_id": "056f3511-5f92-4cb8-8188-88e8525ae392",
+  "id": "253e0b71-d718-c9b5-e063-6394a90a57b5",
+  "effective_time": "20241024",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Degree Men Motionsense UltraClear Black and White 48H Antiperspirant"
+    ],
+    "generic_name": [
+      "ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY"
+    ],
+    "manufacturer_name": [
+      "Conopco, Inc. d/b/a Unilever"
+    ],
+    "product_ndc": [
+      "64942-1466"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY"
+    ],
+    "spl_id": [
+      "253e0b71-d718-c9b5-e063-6394a90a57b5"
+    ],
+    "spl_set_id": [
+      "056f3511-5f92-4cb8-8188-88e8525ae392"
+    ],
+    "package_ndc": [
+      "64942-1466-1",
+      "64942-1466-2",
+      "64942-1466-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8O386558JE"
+    ]
+  }
+}

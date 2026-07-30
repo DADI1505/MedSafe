@@ -1,0 +1,109 @@
+{
+  "spl_product_data_elements": [
+    "Adapalene Adapalene ADAPALENE ADAPALENE CARBOMER HOMOPOLYMER TYPE C (ALLYL PENTAERYTHRITOL CROSSLINKED) EDETATE DISODIUM METHYLPARABEN POLOXAMER 182 PROPYLENE GLYCOL WATER SODIUM HYDROXIDE"
+  ],
+  "active_ingredient": [
+    "Active ingredient Agapalene USP 0.1% (retinoid)* *read consumer information leaflet"
+  ],
+  "purpose": [
+    "Purpose Acne treatment"
+  ],
+  "indications_and_usage": [
+    "Use For the treatment of acne"
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use on damaged skin (cuts, abrasions eczema, sunburn) if you are allergic to adapalene or any of the ingredients in this product Pregnancy/Breastfeeding, ask a doctor before use. When using this product limit sun exposure, including light from tanning beds, and use sunscreen when going outdoors. do not wax to remove hair in areas where the product has been applied during the early weeks of use, your acne may appear to worsen before it improves (this is normal); continue using as directed, unless you get irritation that become severe irritation (redness, itching, dryness, burning) is more likely to occur: in the first few weeks of use if using more than one topical acne medication at a time but irritation usually lessens with continued use of this product it may take up to 3 months of once daily use to see result avoid product contact eyes, lips, and month. If contact occurs immediately flush the area with water. wash hands after use Stop use and ask a doctor if you become pregnant, or planning to become pregnant while using this product you have symptoms of an allergic reaction (such as itching, rash, hives, swelling of the lips, eyelids, and shortness of breath) irritation become severe you see no improvement after 3 months of once daily use Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "do_not_use": [
+    "Do not use on damaged skin (cuts, abrasions eczema, sunburn) if you are allergic to adapalene or any of the ingredients in this product"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "Pregnancy/Breastfeeding, ask a doctor before use."
+  ],
+  "when_using": [
+    "When using this product limit sun exposure, including light from tanning beds, and use sunscreen when going outdoors. do not wax to remove hair in areas where the product has been applied during the early weeks of use, your acne may appear to worsen before it improves (this is normal); continue using as directed, unless you get irritation that become severe irritation (redness, itching, dryness, burning) is more likely to occur: in the first few weeks of use if using more than one topical acne medication at a time but irritation usually lessens with continued use of this product it may take up to 3 months of once daily use to see result avoid product contact eyes, lips, and month. If contact occurs immediately flush the area with water. wash hands after use"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if you become pregnant, or planning to become pregnant while using this product you have symptoms of an allergic reaction (such as itching, rash, hives, swelling of the lips, eyelids, and shortness of breath) irritation become severe you see no improvement after 3 months of once daily use"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 12 years of age and older: use once daily clean the skin gently and pat dry before applying the product cover the entire affected area with a thin layer. For example, if your acne in on the face, apply the product to the entire face. do not use more than one time a day. Applying more than directed will not provide faster or better results, but may worsen skin irritation. Children under 12 years of age: ask a doctor"
+  ],
+  "spl_unclassified_section": [
+    "Other information store at rooms temperature 68º to 77ºF protect from freezing"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients carbomer homopolymer, edetate disodium, methylparabem, poloxamer 182, propylene glycol, purified water, sodium hydroxide"
+  ],
+  "questions": [
+    "Questions or comments? Call toll free 1-888-423-0139"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel TopCare beauty™ ADAPALENE GEL USP, 0.1% ACNE TREATMENT Compare to Differin® GEL active ingredient* Previously available only by prescription FDA-approved Dermatologist developed Once daily topical retinoid* Oil free & Fragrance free Dermatologist developed and tested *Read consumer information leaflet before use TAMPER EVIDENT: DO NOT USE IF SAFETY SEAL UNDER CAP IS BROKEN OR MISSING. KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. *This product is not manufactured or distributed by Galderma Laboratories, L.P. distributor of Differin® Gel. DISTRIBUTED BY TOPCO ASSOCIATES LLC ELK GROVE VILLAGE, IL 60007 www.topcarebrand.com",
+    "Product Label TOPCARE beauty Adapalene Gel Acne Treatment Adapalene USP 0.1% (retinoid)* *read consumer information leaflet"
+  ],
+  "set_id": "07351ab9-ed46-4ef8-85f3-bb6cc7af17c3",
+  "id": "20dcb442-f0fd-477b-8aef-c2cbf3afadcb",
+  "effective_time": "20260519",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "ANDA091314"
+    ],
+    "brand_name": [
+      "Adapalene"
+    ],
+    "generic_name": [
+      "ADAPALENE"
+    ],
+    "manufacturer_name": [
+      "TOP CARE (Topco Associates LLC)"
+    ],
+    "product_ndc": [
+      "36800-088"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ADAPALENE"
+    ],
+    "rxcui": [
+      "307731"
+    ],
+    "spl_id": [
+      "20dcb442-f0fd-477b-8aef-c2cbf3afadcb"
+    ],
+    "spl_set_id": [
+      "07351ab9-ed46-4ef8-85f3-bb6cc7af17c3"
+    ],
+    "package_ndc": [
+      "36800-088-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0036800469778"
+    ],
+    "nui": [
+      "N0000175607",
+      "M0018962"
+    ],
+    "pharm_class_epc": [
+      "Retinoid [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Retinoids [CS]"
+    ],
+    "unii": [
+      "1L4806J2QF"
+    ]
+  }
+}

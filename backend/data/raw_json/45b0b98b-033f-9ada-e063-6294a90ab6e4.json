@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "GeriCare Senna Syrup Sennosides METHYLPARABEN PROPYLENE GLYCOL PROPYLPARABEN WATER SUCROSE SENNOSIDES SENNOSIDES"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each 5 ml teaspoonful): Sennosides 8.8 mg"
+  ],
+  "purpose": [
+    "Laxative"
+  ],
+  "indications_and_usage": [
+    "relieves occasional constipation (irregularity) generally causes bowel movement in 6 to 12 hours"
+  ],
+  "warnings": [
+    "Do not use laxative products for longer than 1 week unless directed by a doctor. Ask a doctor or pharmacis before use if you have stomach pain, nausea or vomiting noticed a change in bowel habits that lasts over two weeks. Stop use and ask a doctor if you have rectal bleeding or failure to have a bowel movement after use of a laxative. These may indicate a serious condition."
+  ],
+  "pregnancy": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Shake well before using Do not exceed recommended dose Age Starting Dose Maximum Dose adults and children 12 years and older 2-3 teaspoonfuls once a day preferably at bedtime; increase as needed or as recommended by a doctor 3 teaspoons in the morning and 3 teaspoons at bedtime Under 12 years of age ask a doctor ask a doctor"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"100%\"><caption/><tbody><tr><td> Age</td><td> Starting Dose</td><td> Maximum Dose</td></tr><tr><td>adults and children 12 years and older</td><td> 2-3 teaspoonfuls once a day preferably at bedtime; increase as needed or as recommended by a doctor</td><td>3 teaspoons in the morning and 3 teaspoons at bedtime</td></tr><tr><td>Under 12 years of age</td><td> ask a doctor</td><td> ask a doctor</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Store at room temperature 15 o - 25 o C (59 o - 77 o F) TAMPER-EVIDENT: Do not use if foil seal over bottle opening is torn, broken, or missing."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients: Artificial and natural chocolate flavor, methylparaben, propylene glycol, propylparaben, purified water, and sucrose."
+  ],
+  "questions": [
+    "Questions or comments? 1-800-540-3765"
+  ],
+  "package_label_principal_display_panel": [
+    "NDC 57896-472-08 Geri Care Senna Syrup Natural Vegetable Laxative 8 fl oz (237 mL) Code# L-002 REV0524 PDP SS"
+  ],
+  "set_id": "05a54614-a6ad-4861-87b8-9e2ee49bad20",
+  "id": "45b0b98b-033f-9ada-e063-6294a90ab6e4",
+  "effective_time": "20251211",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M007"
+    ],
+    "brand_name": [
+      "GeriCare Senna Syrup"
+    ],
+    "generic_name": [
+      "SENNOSIDES"
+    ],
+    "manufacturer_name": [
+      "Geri-Care Pharmaceutical Corp."
+    ],
+    "product_ndc": [
+      "57896-472"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SENNOSIDES"
+    ],
+    "rxcui": [
+      "702311"
+    ],
+    "spl_id": [
+      "45b0b98b-033f-9ada-e063-6294a90ab6e4"
+    ],
+    "spl_set_id": [
+      "05a54614-a6ad-4861-87b8-9e2ee49bad20"
+    ],
+    "package_ndc": [
+      "57896-472-08"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0357896472085"
+    ],
+    "unii": [
+      "3FYP5M0IJX"
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Ytterbium Metallicum Ytterbium Metallicum YTTERBIUM YTTERBIUM SUCROSE Ytterbium Metallicum Ytterbium Metallicum YTTERBIUM YTTERBIUM SUCROSE Ytterbium Metallicum Ytterbium Metallicum YTTERBIUM YTTERBIUM SUCROSE Ytterbium Metallicum Ytterbium Metallicum YTTERBIUM YTTERBIUM SUCROSE Ytterbium Metallicum Ytterbium Metallicum YTTERBIUM YTTERBIUM SUCROSE Ytterbium Metallicum Ytterbium Metallicum YTTERBIUM YTTERBIUM SUCROSE Ytterbium Metallicum Ytterbium Metallicum YTTERBIUM YTTERBIUM SUCROSE Ytterbium Metallicum Ytterbium Metallicum YTTERBIUM YTTERBIUM SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Ytterbium Metallicum 6C 5g Ytterbium Metallicum 6C 30g Ytterbium Metallicum 6C 100g Ytterbium Metallicum 12C 5g Ytterbium Metallicum 12C 30g Ytterbium Metallicum 12C 100g Ytterbium Metallicum 30C 1g Ytterbium Metallicum 30C 5g Ytterbium Metallicum 30C 30g Ytterbium Metallicum 30C 100g Ytterbium Metallicum 100C 1g Ytterbium Metallicum 100C 5g Ytterbium Metallicum 100C 30g Ytterbium Metallicum 100C 100g Ytterbium Metallicum 200C 1g Ytterbium Metallicum 200C 5g Ytterbium Metallicum 200C 30g Ytterbium Metallicum 200C 100g Ytterbium Metallicum 500C 1g Ytterbium Metallicum 500C 5g Ytterbium Metallicum 500C 30g Ytterbium Metallicum 500C 100g Ytterbium Metallicum 1M 1g Ytterbium Metallicum 1M 5g Ytterbium Metallicum 1M 30g Ytterbium Metallicum 1M 100g Ytterbium Metallicum LM1 30g"
+  ],
+  "set_id": "0312a5d3-7822-e841-e063-6294a90a8695",
+  "id": "0312a5d3-7823-e841-e063-6294a90a8695",
+  "effective_time": "20230816",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Ytterbium Metallicum"
+    ],
+    "generic_name": [
+      "YTTERBIUM METALLICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3728",
+      "37662-3729",
+      "37662-3730",
+      "37662-3734",
+      "37662-3735",
+      "37662-3732",
+      "37662-3731",
+      "37662-3733"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "YTTERBIUM"
+    ],
+    "spl_id": [
+      "0312a5d3-7823-e841-e063-6294a90a8695"
+    ],
+    "spl_set_id": [
+      "0312a5d3-7822-e841-e063-6294a90a8695"
+    ],
+    "package_ndc": [
+      "37662-3729-1",
+      "37662-3729-2",
+      "37662-3729-3",
+      "37662-3730-1",
+      "37662-3730-2",
+      "37662-3730-3",
+      "37662-3730-4",
+      "37662-3734-1",
+      "37662-3734-2",
+      "37662-3734-3",
+      "37662-3734-4",
+      "37662-3735-1",
+      "37662-3732-1",
+      "37662-3732-2",
+      "37662-3732-3",
+      "37662-3732-4",
+      "37662-3728-1",
+      "37662-3728-2",
+      "37662-3728-3",
+      "37662-3731-1",
+      "37662-3731-2",
+      "37662-3731-3",
+      "37662-3731-4",
+      "37662-3733-1",
+      "37662-3733-2",
+      "37662-3733-3",
+      "37662-3733-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "MNQ4O4WSI1"
+    ]
+  }
+}

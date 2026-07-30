@@ -1,0 +1,114 @@
+{
+  "spl_product_data_elements": [
+    "Adrenapar Aralia Quinquefolia, Avena Sativa, Glandula Suprarenalis Suis, Arsenicum Iodatum, Ignatia Amara, Lycopodium Clavatum, Nux Vomica, Phosphoricum Acidum, Phosphorus, Zincum Metallicum AMERICAN GINSENG AMERICAN GINSENG AVENA SATIVA FLOWERING TOP AVENA SATIVA FLOWERING TOP SUS SCROFA ADRENAL GLAND SUS SCROFA ADRENAL GLAND ARSENIC TRIIODIDE ARSENIC CATION (3+) STRYCHNOS IGNATII SEED STRYCHNOS IGNATII SEED LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED PHOSPHORIC ACID PHOSPHORIC ACID PHOSPHORUS PHOSPHORUS ZINC ZINC WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: Aralia Quinquefolia 3X, Avena Sativa 3X, Glandula Suprarenalis Suis 6X, Arsenicum Iodatum 12X, Ignatia Amara 12X, Lycopodium Clavatum 12X, Nux Vomica 12X, Phosphoricum Acidum 12X, Phosphorus 12X, Zincum Metallicum 12X."
+  ],
+  "purpose": [
+    "INDICATIONS: May temporarily relieve nervous exhaustion, fatigue and forgetfulness.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS: If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in a cool, dry place."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Adults and children 5 to 10 drops orally, 3 times daily or as otherwise directed by a health care professional. If symptoms persist, consult your health care professional. Consult a physician for use in children under 12 years of age."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Demineralized water, 20% Ethanol."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: May temporarily relieve nervous exhaustion, fatigue and forgetfulness.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "questions": [
+    "QUESTIONS: Dist. by Energique, Inc. 201 Apple Blvd Woodbine, IA 51579 800.869.8078"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: ENERGIQUE SINCE 1987 HOMEOPATHIC REMEDY ADRENAPAR 2 fl. oz. (60 ml) Adrenapar"
+  ],
+  "set_id": "06fccf1a-2a70-4f29-8864-4577e6c39d9b",
+  "id": "122799c5-9bc4-49ca-8935-f31d0db3dbee",
+  "effective_time": "20220810",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "Adrenapar"
+    ],
+    "generic_name": [
+      "ARALIA QUINQUEFOLIA, AVENA SATIVA, GLANDULA SUPRARENALIS SUIS, ARSENICUM IODATUM, IGNATIA AMARA, LYCOPODIUM CLAVATUM, NUX VOMICA, PHOSPHORICUM ACIDUM, PHOSPHORUS, ZINCUM METALLICUM"
+    ],
+    "manufacturer_name": [
+      "Energique, Inc."
+    ],
+    "product_ndc": [
+      "44911-0037"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "AMERICAN GINSENG",
+      "AVENA SATIVA FLOWERING TOP",
+      "SUS SCROFA ADRENAL GLAND",
+      "ARSENIC TRIIODIDE",
+      "STRYCHNOS IGNATII SEED",
+      "LYCOPODIUM CLAVATUM SPORE",
+      "STRYCHNOS NUX-VOMICA SEED",
+      "PHOSPHORIC ACID",
+      "PHOSPHORUS",
+      "ZINC"
+    ],
+    "spl_id": [
+      "122799c5-9bc4-49ca-8935-f31d0db3dbee"
+    ],
+    "spl_set_id": [
+      "06fccf1a-2a70-4f29-8864-4577e6c39d9b"
+    ],
+    "package_ndc": [
+      "44911-0037-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0016962",
+      "M0516536"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Plant Proteins [CS]",
+      "Seed Storage Proteins [CS]"
+    ],
+    "unii": [
+      "8W75VCV53Q",
+      "MA9CQJ3F7F",
+      "398IYQ16YV",
+      "3029988O2T",
+      "1NM3M2487K",
+      "C88X29Y479",
+      "269XH13919",
+      "E4GA8884NN",
+      "27YLU75U4W",
+      "J41CSQ7QDS"
+    ]
+  }
+}

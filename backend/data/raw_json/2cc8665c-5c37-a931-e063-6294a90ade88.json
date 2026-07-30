@@ -1,0 +1,75 @@
+{
+  "spl_product_data_elements": [
+    "WHP Fungus KEROSENE - SULFUR - THUJA OCCIDENTALIS LEAFY SUCROSE LACTOSE THUJA OCCIDENTALIS LEAFY TWIG THUJA OCCIDENTALIS LEAFY TWIG KEROSENE KEROSENE SULFUR SULFUR white"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS PETROLEUM 6C SULPHUR 6C THUJA OCC 6C"
+  ],
+  "purpose": [
+    "USES Temporarily relieves itching eruptions of the skin, as in ringworm or athlete's foot."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN As with all medications, keep out of reach of children."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS PETROLEUM Nausea SULPHUR Skin problems THUJA OCC Warts"
+  ],
+  "warnings": [
+    "STOP USE AND ASK DOCTOR If symptoms persist or recur, discontinue use. If pregnant or nursing, consult a licensed practitioner before using this product."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Directions: Adults and children 12 years and older: 2 pills dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children 4 years to under 12 years: 1 pill dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children under 4 years: Consult a licensed practitioner."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Sucrose/Lactose"
+  ],
+  "package_label_principal_display_panel": [
+    "WHP Fungus label WHP Fungus box"
+  ],
+  "set_id": "06d446a8-2fc0-fea1-e063-6394a90a835e",
+  "id": "2cc8665c-5c37-a931-e063-6294a90ade88",
+  "effective_time": "20250128",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "WHP Fungus"
+    ],
+    "generic_name": [
+      "KEROSENE - SULFUR - THUJA OCCIDENTALIS LEAFY"
+    ],
+    "manufacturer_name": [
+      "Washington Homeopathic Products"
+    ],
+    "product_ndc": [
+      "71919-806"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "THUJA OCCIDENTALIS LEAFY TWIG",
+      "KEROSENE",
+      "SULFUR"
+    ],
+    "spl_id": [
+      "2cc8665c-5c37-a931-e063-6294a90ade88"
+    ],
+    "spl_set_id": [
+      "06d446a8-2fc0-fea1-e063-6394a90a835e"
+    ],
+    "package_ndc": [
+      "71919-806-14"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "1NT28V9397",
+      "1C89KKC04E",
+      "70FD1KFU70"
+    ]
+  }
+}

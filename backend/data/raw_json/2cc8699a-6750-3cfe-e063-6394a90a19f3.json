@@ -1,0 +1,105 @@
+{
+  "spl_product_data_elements": [
+    "WHP Hay Fever Onion - Arsenic Trioxide - Gelsemium Sempervirens Root - Strychnos Nux-Vomica Seed LACTOSE SUCROSE GELSEMIUM SEMPERVIRENS ROOT GELSEMIUM SEMPERVIRENS ROOT STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED ARSENIC TRIOXIDE ARSENIC CATION (3+) ONION ONION white"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS ALLIUM CEPA 6C ARSENICUM ALB 6C GELSEMIUM 6C NUX VOM 6C"
+  ],
+  "purpose": [
+    "USES Temporarily relieves symptoms associated with hay fever."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN As with all medications, keep out of reach of children."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS ALLIUM CEPA Head cold ARSENICUM ALB Vomiting GELSEMIUM Lethargy NUX VOM Vomiting"
+  ],
+  "warnings": [
+    "STOP USE AND ASK DOCTOR If symptoms persist or recur, discontinue use. If pregnant or nursing, consult a licensed practitioner before using this product."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Directions: Adults and children 12 years and older: 2 pills dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children 4 years to under 12 years: 1 pill dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children under 4 years: Consult a licensed practitioner."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Sucrose/Lactose"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL WHP Hay Fever label WHP Hay Fever box"
+  ],
+  "set_id": "06d4d93a-eb79-99a3-e063-6394a90a8ed7",
+  "id": "2cc8699a-6750-3cfe-e063-6394a90a19f3",
+  "effective_time": "20250128",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "WHP Hay Fever"
+    ],
+    "generic_name": [
+      "ONION - ARSENIC TRIOXIDE - GELSEMIUM SEMPERVIRENS ROOT - STRYCHNOS NUX-VOMICA SEED"
+    ],
+    "manufacturer_name": [
+      "Washington Homeopathic Products"
+    ],
+    "product_ndc": [
+      "71919-807"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "GELSEMIUM SEMPERVIRENS ROOT",
+      "STRYCHNOS NUX-VOMICA SEED",
+      "ARSENIC TRIOXIDE",
+      "ONION"
+    ],
+    "spl_id": [
+      "2cc8699a-6750-3cfe-e063-6394a90a19f3"
+    ],
+    "spl_set_id": [
+      "06d4d93a-eb79-99a3-e063-6394a90a8ed7"
+    ],
+    "package_ndc": [
+      "71919-807-14"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0016962",
+      "M0516536",
+      "N0000185371",
+      "M0006342",
+      "M0022575"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Plant Allergenic Extract [EPC]",
+      "Non-Standardized Food Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Plant Proteins [CS]",
+      "Seed Storage Proteins [CS]",
+      "Dietary Proteins [CS]",
+      "Vegetable Proteins [CS]"
+    ],
+    "unii": [
+      "639KR60Q1Q",
+      "269XH13919",
+      "S7V92P67HO",
+      "492225Q21H"
+    ]
+  }
+}

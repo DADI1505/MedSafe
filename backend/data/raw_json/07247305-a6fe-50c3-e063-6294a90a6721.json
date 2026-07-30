@@ -1,0 +1,97 @@
+{
+  "spl_product_data_elements": [
+    "First Aid Only First Aid/Burn LIDOCAINE HYDROCHLORIDE, BENZALKONIUM CHLORIDE BUTYLATED HYDROXYTOLUENE CETOSTEARYL ALCOHOL DIMETHICONE GLYCERIN GLYCERYL MONOSTEARATE ISOPROPYL MYRISTATE WATER EDETATE SODIUM METHYLPARABEN SODIUM PROPYLPARABEN SODIUM LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE BENZALKONIUM CHLORIDE BENZALKONIUM"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other Information Store at room temperature"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Benzalkonium chloride 0.13% Lidocaine HCL 0.5% Purpose First Aid Antiseptic External Analgesic"
+  ],
+  "purpose": [
+    "Purpose First Aid Antiseptic External Analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses First aid to help prevent infection and for the temporary relief of pain and itching associated with minor: • cuts, •scrapes, •burns."
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use ▪in the eyes ▪over large areas of the body ▪in large quantities, particularly over raw surfaces or blistered areas ▪if you are allergic to any of the ingredients ▪on deep puncture wounds, animal bites, or serious burns Stop use and ask a doctor if ▪condition worsens or clears up and occurs again within a few days ▪symptoms persist for more than 7 days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use ▪in the eyes ▪over large areas of the body ▪in large quantities, particularly over raw surfaces or blistered areas ▪if you are allergic to any of the ingredients ▪on deep puncture wounds, animal bites, or serious burns"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if ▪condition worsens or clears up and occurs again within a few days ▪symptoms persist for more than 7 days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults - Clean the affected area, apply a small amount of product (equal to the surface area of a fingertip) 1 to 3 times daily. Children under 2- Consult a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients butylated hydroxytoluene, cetostearyl alcohol, dimethicone, edetate sodium, glycerin, glyceryl monostearate, isopropyl myristate, macrogol cetostearyl ether 20, methylcellulose, purified water, sodium methylparaben, sodium propylparaben"
+  ],
+  "questions": [
+    "Questions 1.800.835.2263"
+  ],
+  "package_label_principal_display_panel": [
+    "Carton Label Carton Label"
+  ],
+  "set_id": "07245b54-b193-178e-e063-6394a90a2581",
+  "id": "07247305-a6fe-50c3-e063-6294a90a6721",
+  "effective_time": "20231009",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "First Aid Only First Aid/Burn"
+    ],
+    "generic_name": [
+      "LIDOCAINE HYDROCHLORIDE, BENZALKONIUM CHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Acme United Corporation"
+    ],
+    "product_ndc": [
+      "0924-5730"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "LIDOCAINE HYDROCHLORIDE",
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "rxcui": [
+      "1012100"
+    ],
+    "spl_id": [
+      "07247305-a6fe-50c3-e063-6294a90a6721"
+    ],
+    "spl_set_id": [
+      "07245b54-b193-178e-e063-6394a90a2581"
+    ],
+    "package_ndc": [
+      "0924-5730-00",
+      "0924-5730-02",
+      "0924-5730-03"
+    ],
+    "original_packager_product_ndc": [
+      "61040-007"
+    ],
+    "upc": [
+      "0738743130066"
+    ],
+    "unii": [
+      "V13007Z41A",
+      "F5UM2KM3W7"
+    ]
+  }
+}

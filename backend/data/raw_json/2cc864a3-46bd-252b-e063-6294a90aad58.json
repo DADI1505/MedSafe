@@ -1,0 +1,101 @@
+{
+  "spl_product_data_elements": [
+    "WHP Smoking ARABICA COFFEE BEAN - STRYCHNOS NUX-VOMICA SEED - DELPHINIUM STAPHISAGRIA SEED LACTOSE SUCROSE DELPHINIUM STAPHISAGRIA SEED DELPHINIUM STAPHISAGRIA SEED STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED ARABICA COFFEE BEAN ARABICA COFFEE BEAN white"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS COFFEA CRUDA 6C NUX VOM 6C STAPHYSAG 6C"
+  ],
+  "purpose": [
+    "USES Temporarily relieves headaches."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN As with all medications, keep out of reach of children."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS COFFEA CRUDA Sleeplessness NUX VOM Vomiting STAPHYSAG Anger"
+  ],
+  "warnings": [
+    "STOP USE AND ASK DOCTOR If symptoms persist or recur, discontinue use. If pregnant or nursing, consult a licensed practitioner before using this product."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Directions: Adults and children 12 years and older: 2 pills dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children 4 years to under 12 years: 1 pill dissolved under tongue every 4 hours, or as directed by a licensed practitioner. Children under 4 years: Consult a licensed practitioner."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Sucrose/Lactose"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL WHP Smoking label WHP Smoking box"
+  ],
+  "set_id": "06d2bf97-d513-7c04-e063-6394a90af4ed",
+  "id": "2cc864a3-46bd-252b-e063-6294a90aad58",
+  "effective_time": "20250128",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "WHP Smoking"
+    ],
+    "generic_name": [
+      "ARABICA COFFEE BEAN - STRYCHNOS NUX-VOMICA SEED - DELPHINIUM STAPHISAGRIA SEED"
+    ],
+    "manufacturer_name": [
+      "Washington Homeopathic Products"
+    ],
+    "product_ndc": [
+      "71919-805"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DELPHINIUM STAPHISAGRIA SEED",
+      "STRYCHNOS NUX-VOMICA SEED",
+      "ARABICA COFFEE BEAN"
+    ],
+    "spl_id": [
+      "2cc864a3-46bd-252b-e063-6294a90aad58"
+    ],
+    "spl_set_id": [
+      "06d2bf97-d513-7c04-e063-6394a90af4ed"
+    ],
+    "package_ndc": [
+      "71919-805-14"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0016962",
+      "M0516536",
+      "N0000185371",
+      "M0006342"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Plant Allergenic Extract [EPC]",
+      "Non-Standardized Food Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Plant Proteins [CS]",
+      "Seed Storage Proteins [CS]",
+      "Dietary Proteins [CS]"
+    ],
+    "unii": [
+      "00543AP1JV",
+      "269XH13919",
+      "3SW678MX72"
+    ]
+  }
+}

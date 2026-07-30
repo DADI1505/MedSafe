@@ -1,0 +1,108 @@
+{
+  "spl_product_data_elements": [
+    "Medicated Chest Rub camphor, eucalyptus oil, menthol CEDAR LEAF OIL NUTMEG OIL TURPENTINE OIL PARAFFIN PETROLATUM THYMOL CAMPHOR (SYNTHETIC) CAMPHOR (SYNTHETIC) EUCALYPTUS OIL EUCALYPTUS OIL MENTHOL MENTHOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredients Camphor 4.8% Eucalyptus oil 1.2% Menthol 2.6%"
+  ],
+  "purpose": [
+    "Purpose Cough suppressant & topical analgesic Cough suppressant Cough suppressant & topical analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses • when applied to chest and throat, temporarily relieves cough due to minor throat and bronchial irritation associated with the common cold • when applied to muscles and joints, temporarily relieves minor aches and pains of muscles and joints"
+  ],
+  "warnings": [
+    "Warnings For external use only; avoid contact with eyes. Do not use • by mouth • in nostrils • on wounds or damaged skin • with tight bandages Ask a doctor before use if you have • cough that occurs with too much phlegm (mucus) • persistent or chronic cough such as occurs with smoking, asthma or emphysema When using this product, do not heat microwave add to hot water or any container where heating water. May cause splattering and result in burns. Stop use and ask a doctor if • muscle aches and pains worsen or persist for more than 7 days or clear up and occur again within a few days • cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "do_not_use": [
+    "Do not use • by mouth • in nostrils • on wounds or damaged skin • with tight bandages"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have • cough that occurs with too much phlegm (mucus) • persistent or chronic cough such as occurs with smoking, asthma or emphysema"
+  ],
+  "when_using": [
+    "When using this product, do not heat microwave add to hot water or any container where heating water. May cause splattering and result in burns."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if • muscle aches and pains worsen or persist for more than 7 days or clear up and occur again within a few days • cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions see important warnings under \"When using this product\" adults and children 2 years and over: for cough suppression rub a thick layer on throat & chest cover with a warm, dry cloth if desired keep clothing loose about throat and chest to help vapors reach the nose and mouth use up to three times daily or as directed by doctor for muscle/joint minor aches and pains apply to affected area not more than 3 to 4 times daily children under 2 years: do not use"
+  ],
+  "other_safety_information": [
+    "Other information • store at room temperature"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients cedarleaf oil, nutmeg oil, petrolatum, thymol, turpentine oil"
+  ],
+  "questions": [
+    "Questions or comments? Call 1-866-4-REXALL"
+  ],
+  "package_label_principal_display_panel": [
+    "dg-rexall-100g-label"
+  ],
+  "set_id": "0655688e-7c42-507f-e063-6294a90ae498",
+  "id": "30607751-d3cf-0478-e063-6294a90adfa2",
+  "effective_time": "20250315",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Medicated Chest Rub"
+    ],
+    "generic_name": [
+      "CAMPHOR, EUCALYPTUS OIL, MENTHOL"
+    ],
+    "manufacturer_name": [
+      "DOLGENCORP, INC."
+    ],
+    "product_ndc": [
+      "55910-833"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CAMPHOR (SYNTHETIC)",
+      "EUCALYPTUS OIL",
+      "MENTHOL"
+    ],
+    "rxcui": [
+      "727137"
+    ],
+    "spl_id": [
+      "30607751-d3cf-0478-e063-6294a90adfa2"
+    ],
+    "spl_set_id": [
+      "0655688e-7c42-507f-e063-6294a90ae498"
+    ],
+    "package_ndc": [
+      "55910-833-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0355910833058"
+    ],
+    "unii": [
+      "5TJD82A1ET",
+      "2R04ONI662",
+      "L7T10EIP3A"
+    ]
+  }
+}

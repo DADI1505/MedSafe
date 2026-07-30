@@ -1,0 +1,96 @@
+{
+  "spl_product_data_elements": [
+    "Gas Relief Ultra Strength Simethicone DIMETHICONE DIMETHICONE FD&C YELLOW NO. 6 FD&C RED NO. 40 GELATIN GLYCERIN WATER S180;05A"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each softgel) Simethicone 180 mg"
+  ],
+  "purpose": [
+    "Purpose Antigas"
+  ],
+  "indications_and_usage": [
+    "Uses for the relief of pressure, bloating, and fullness commonly referred to as gas"
+  ],
+  "warnings": [
+    "Warnings If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions adults: swallow with water 1 or 2 softgels as needed after meals and at bedtime do not exceed 2 softgels in 24 hours except under the advice and supervision of a physican"
+  ],
+  "storage_and_handling": [
+    "Other information store between 15-30°C (59-86°F) protect from light, heat, and moisture"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients FD&C red #40*, FD&C yellow #6, gelatin, glycerin, purified water, white printing ink* *contain one or more of these ingredients"
+  ],
+  "questions": [
+    "Questions or comments? Call 1-877-753-3935 Monday-Friday 9AM-5PM EST"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Compare to Gas-X® Ultra Strength Softgels active ingredient†† Gas Relief SIMETHICONE 180 mg / ANTI-GAS ULTRA STRENGTH SOFTGELS For fast relief of pressure, bloating & fullness EASY-TO-SWALLOW SOFTGELS TAMPER EVIDENT: DO NOT USE IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING. KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. ††This product is not manufactured or distributed by GSK Consumer Healthcare, distributor of Gas- X® Ultra Strength Softgels. DISTRIBUTED BY: WALGREEN CO. 200 WILMOT RD., DEERFIELD, IL 60015 walgreens.com",
+    "Product Label WALGREENS Gas Relief 180 mg Simethicone 180 mg"
+  ],
+  "set_id": "00a9164a-1817-4130-9c7f-9f5833c9690f",
+  "id": "32dc8a12-b125-4d9d-9b1d-70eff528428e",
+  "effective_time": "20240626",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Gas Relief Ultra Strength"
+    ],
+    "generic_name": [
+      "SIMETHICONE"
+    ],
+    "manufacturer_name": [
+      "Walgreens"
+    ],
+    "product_ndc": [
+      "0363-0833"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIMETHICONE"
+    ],
+    "rxcui": [
+      "252294"
+    ],
+    "spl_id": [
+      "32dc8a12-b125-4d9d-9b1d-70eff528428e"
+    ],
+    "spl_set_id": [
+      "00a9164a-1817-4130-9c7f-9f5833c9690f"
+    ],
+    "package_ndc": [
+      "0363-0833-50"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0311917104270"
+    ],
+    "nui": [
+      "N0000010282"
+    ],
+    "pharm_class_pe": [
+      "Skin Barrier Activity [PE]"
+    ],
+    "unii": [
+      "92RU3N3Y1O"
+    ]
+  }
+}

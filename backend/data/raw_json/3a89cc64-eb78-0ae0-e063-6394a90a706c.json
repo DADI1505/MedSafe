@@ -1,0 +1,98 @@
+{
+  "spl_product_data_elements": [
+    "La Flecha Japonesa Methyl salicylate CAJUPUT OIL CLOVE OIL PEPPERMINT OIL EUCALYPTUS OIL JUNIPER BERRY OIL MENTHOL MINERAL OIL METHYL SALICYLATE SALICYLIC ACID"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active Ingredients Purpose Methyl Salicate 10.5%..............................................................External Analgesic"
+  ],
+  "purpose": [
+    "Purpose External Analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses For the temporary relief of minor aches and pains of muscles and joints associated with: simple backache arthrits strains sprains"
+  ],
+  "warnings": [
+    "For external use only. Do not use otherwise than as directed."
+  ],
+  "do_not_use": [
+    "Do not use with a bandage on wounds or damage skin with a heating pad on a child under 12 years of age over extensive areas of the body on irritated skin"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have redness over the affected area"
+  ],
+  "when_using": [
+    "When using this product avoid contact with eyes or mucuos membranes do not bandage"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsen or symptoms persists for more than 7 days symptoms clear up and occur again within a few days excessive skin irritation occurs"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "if pregnant or breast-feeding ask a health professional before use"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children to avoid accidental poisoning. If swallowed, induce vomiting and call a physician or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions use only as directed adults and children 12 years of age and older: apply to affected area no more than 3 to 4 times daily children under 12 years of age: ask a doctor"
+  ],
+  "other_safety_information": [
+    "Other information store at 15° to 25° C (59° to 77° F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients cajeput oil, clove oil, essential oil of peppermint, eucalyptus oil, juniper, menthol, white mineral oil."
+  ],
+  "questions": [
+    "Questions? 1-800-560-5223 M-F 9 AM to 4 PM Eastern."
+  ],
+  "package_label_principal_display_panel": [
+    "label"
+  ],
+  "set_id": "08819ad0-97c2-49bd-b923-535b94a27167",
+  "id": "3a89cc64-eb78-0ae0-e063-6394a90a706c",
+  "effective_time": "20250722",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "La Flecha Japonesa"
+    ],
+    "generic_name": [
+      "METHYL SALICYLATE"
+    ],
+    "manufacturer_name": [
+      "Menper Distributors, Inc."
+    ],
+    "product_ndc": [
+      "53145-047"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "METHYL SALICYLATE"
+    ],
+    "rxcui": [
+      "2719838"
+    ],
+    "spl_id": [
+      "3a89cc64-eb78-0ae0-e063-6394a90a706c"
+    ],
+    "spl_set_id": [
+      "08819ad0-97c2-49bd-b923-535b94a27167"
+    ],
+    "package_ndc": [
+      "53145-047-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "LAV5U5022Y"
+    ]
+  }
+}

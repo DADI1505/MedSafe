@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "MUSCLE EASE MENTHOL CAMPHOR CAPSICUM CARBOMER HOMOPOLYMER TYPE C DECYL GLUCOSIDE ALOE VERA LEAF WATER GRAPEFRUIT SEED OIL GREEN TEA LEAF ORANGE PEEL FILIPENDULA ULMARIA FLOWER ROSA CENTIFOLIA FLOWER OIL SODIUM HYDROXYMETHYLGLYCINATE GLYCERIN WITCH HAZEL YUCCA SCHIDIGERA ROOT MENTHOL MENTHOL CAMPHOR (SYNTHETIC) CAMPHOR (SYNTHETIC)"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Menthol USP 3% Camphor USP 3%"
+  ],
+  "purpose": [
+    "Purpose PURPOSE EXTERNAL ANALGESIC"
+  ],
+  "purpose_table": [
+    "<table width=\"100%\" ID=\"i0b343dce-957d-4c15-8ae0-996c3026b915\"><caption>PURPOSE</caption><thead><tr><th> EXTERNAL ANALGESIC  </th></tr></thead><tbody><tr><td> </td></tr><tr><td> </td></tr></tbody></table>"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Keep out of reach of children"
+  ],
+  "indications_and_usage": [
+    "Uses Temporarily relieves minor aches and pains of muscles and joints associated with: simple backaches, arthritis, strains, bruises, and sprains"
+  ],
+  "warnings": [
+    "Warnings For external use only . Do not use on wounds or damaged skin. When using this product : avoid bandaging tightly, avoid contact with eyes, keep out of reach of children . Stop use and ask doctor if : condition worsens, symptoms persist for more than 7 days, clear up and occur again within a few days."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 2 years of age and older: apply to affected area not more than 3 to 4 times daily, rub in thoroughly until gel is absorbed, children under 2 years of age : consult a doctor."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients aloe vera extract, capsaicin, carbomer, decyl polyglucose, water, grapefruit seed extract, green tea extract, orange peel extract, queen of the prairie extract, rose water, sodium hydroxymethylglycinate, vegetable glycerin, witch hazel, yucca extract"
+  ],
+  "questions": [
+    "Questions or Comments 1-800-225-3963"
+  ],
+  "package_label_principal_display_panel": [
+    "Muscle Ease 4oz Muscle Ease 4oz"
+  ],
+  "set_id": "03fff4bf-04ed-49a6-b40f-4d98c2b42f69",
+  "id": "55928bab-8746-de18-e063-6394a90a7f64",
+  "effective_time": "20260701",
+  "version": "8",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "MUSCLE EASE"
+    ],
+    "generic_name": [
+      "MENTHOL CAMPHOR"
+    ],
+    "manufacturer_name": [
+      "SOMBRA COSMETICS INC."
+    ],
+    "product_ndc": [
+      "61577-2301"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MENTHOL",
+      "CAMPHOR (SYNTHETIC)"
+    ],
+    "rxcui": [
+      "630714"
+    ],
+    "spl_id": [
+      "55928bab-8746-de18-e063-6394a90a7f64"
+    ],
+    "spl_set_id": [
+      "03fff4bf-04ed-49a6-b40f-4d98c2b42f69"
+    ],
+    "package_ndc": [
+      "61577-2301-4",
+      "61577-2301-2"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "L7T10EIP3A",
+      "5TJD82A1ET"
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "spl_product_data_elements": [
+    "Anacardium Orientale Anacardium Orientale SEMECARPUS ANACARDIUM JUICE SEMECARPUS ANACARDIUM JUICE SUCROSE Anacardium Orientale Anacardium Orientale SEMECARPUS ANACARDIUM JUICE SEMECARPUS ANACARDIUM JUICE SUCROSE Anacardium Orientale Anacardium Orientale SEMECARPUS ANACARDIUM JUICE SEMECARPUS ANACARDIUM JUICE SUCROSE Anacardium Orientale Anacardium Orientale SEMECARPUS ANACARDIUM JUICE SEMECARPUS ANACARDIUM JUICE SUCROSE Anacardium Orientale Anacardium Orientale SEMECARPUS ANACARDIUM JUICE SEMECARPUS ANACARDIUM JUICE SUCROSE Anacardium Orientale Anacardium Orientale SEMECARPUS ANACARDIUM JUICE SEMECARPUS ANACARDIUM JUICE SUCROSE Anacardium Orientale Anacardium Orientale SEMECARPUS ANACARDIUM JUICE SEMECARPUS ANACARDIUM JUICE SUCROSE Anacardium Orientale Anacardium Orientale SUCROSE SEMECARPUS ANACARDIUM JUICE SEMECARPUS ANACARDIUM JUICE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Anacardium Orientale 6C 5g Anacardium Orientale 6C 30g Anacardium Orientale 6C 100g Anacardium Orientale 12C 5g Anacardium Orientale 12C 30g Anacardium Orientale 12C 100g Anacardium Orientale 30C 1g Anacardium Orientale 30C 5g Anacardium Orientale 30C 30g Anacardium Orientale 30C 100g Anacardium Orientale 100C 1g Anacardium Orientale 100C 5g Anacardium Orientale 100C 30g Anacardium Orientale 100C 100g Anacardium Orientale 200C 1g Anacardium Orientale 200C 5g Anacardium Orientale 200C 30g Anacardium Orientale 200C 100g Anacardium Orientale 500C 1g Anacardium Orientale 500C 5g Anacardium Orientale 500C 30g Anacardium Orientale 500C 100g Anacardium Orientale 1M 1g Anacardium Orientale 1M 5g Anacardium Orientale 1M 30g Anacardium Orientale 1M 100g Anacardium Orientale 10M 1g Anacardium Orientale 10M 5g Anacardium Orientale 10M 30g Anacardium Orientale 10M 100g"
+  ],
+  "set_id": "01e691d3-858c-f907-e063-6294a90a5d38",
+  "id": "01e691d3-858d-f907-e063-6294a90a5d38",
+  "effective_time": "20230801",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Anacardium Orientale"
+    ],
+    "generic_name": [
+      "ANACARDIUM ORIENTALE"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3656",
+      "37662-3658",
+      "37662-3659",
+      "37662-3663",
+      "37662-3662",
+      "37662-3657",
+      "37662-3660",
+      "37662-3661"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SEMECARPUS ANACARDIUM JUICE"
+    ],
+    "spl_id": [
+      "01e691d3-858d-f907-e063-6294a90a5d38"
+    ],
+    "spl_set_id": [
+      "01e691d3-858c-f907-e063-6294a90a5d38"
+    ],
+    "package_ndc": [
+      "37662-3658-1",
+      "37662-3658-2",
+      "37662-3658-3",
+      "37662-3658-4",
+      "37662-3659-1",
+      "37662-3659-2",
+      "37662-3659-3",
+      "37662-3659-4",
+      "37662-3663-1",
+      "37662-3663-2",
+      "37662-3663-3",
+      "37662-3663-4",
+      "37662-3662-1",
+      "37662-3662-2",
+      "37662-3662-3",
+      "37662-3662-4",
+      "37662-3657-1",
+      "37662-3657-2",
+      "37662-3657-3",
+      "37662-3660-1",
+      "37662-3660-2",
+      "37662-3660-3",
+      "37662-3660-4",
+      "37662-3661-1",
+      "37662-3661-2",
+      "37662-3661-3",
+      "37662-3661-4",
+      "37662-3656-1",
+      "37662-3656-2",
+      "37662-3656-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "Y0F0BU8RDU"
+    ]
+  }
+}

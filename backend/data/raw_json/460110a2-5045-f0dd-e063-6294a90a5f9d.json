@@ -1,0 +1,95 @@
+{
+  "spl_product_data_elements": [
+    "PS-2362 Hand Sanitizer 0.9g packet PS-2362 Hand Sanitizer 0.9g packet CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) WATER GLYCERIN PROPYLENE GLYCOL TROLAMINE ALCOHOL ALCOHOL ALOE VERA LEAF"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Ethyl Alcohol 70%"
+  ],
+  "purpose": [
+    "Purpose Antiseptic Handwash"
+  ],
+  "indications_and_usage": [
+    "Use(s) For hand washing to decrease bacterial on the skin"
+  ],
+  "warnings": [
+    "Warnings For External Use Only Flammable Keep away from fire or flame Do not use In the eyes When using this product • Avoid contact with eyes • In case of eye contact, rinse with water to remove Stop use and ask a doctor if Irritation and redness develop Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "warnings_and_cautions": [
+    "Flammable Keep away from fire or flame"
+  ],
+  "do_not_use": [
+    "Do not use In the eyes"
+  ],
+  "when_using": [
+    "When using this product • Avoid contact with eyes • In case of eye contact, rinse with water to remove"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if Irritation and redness develop"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Wet hands thoroughly with product and allow to dry without wiping"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Aloe Vera Leaf Extract, Carbopol Ultrez 10, Fragrance, Glycerin, Propylene Glycol, Purified Water, Triethanomlamine"
+  ],
+  "questions": [
+    "Questions? 1-888-900-2920 Monday - Friday 8AM - 4PM PST"
+  ],
+  "package_label_principal_display_panel": [
+    "Label PS-2362 Hand Sanitizer PS-2362 BX MASTER"
+  ],
+  "set_id": "01c87dff-57e0-017a-e063-6394a90a1600",
+  "id": "460110a2-5045-f0dd-e063-6294a90a5f9d",
+  "effective_time": "20251215",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "PS-2362 Hand Sanitizer 0.9g packet"
+    ],
+    "generic_name": [
+      "PS-2362 HAND SANITIZER 0.9G PACKET"
+    ],
+    "manufacturer_name": [
+      "ProStat First Aid LLC"
+    ],
+    "product_ndc": [
+      "58228-2362"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "581662"
+    ],
+    "spl_id": [
+      "460110a2-5045-f0dd-e063-6294a90a5f9d"
+    ],
+    "spl_set_id": [
+      "01c87dff-57e0-017a-e063-6394a90a1600"
+    ],
+    "package_ndc": [
+      "58228-2362-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0814889013057"
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

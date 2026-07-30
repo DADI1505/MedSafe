@@ -1,0 +1,104 @@
+{
+  "spl_product_data_elements": [
+    "Rompe Pechito DM for Kids Dextromethorphan HBr, Guaifenesin SUCRALOSE ANHYDROUS CITRIC ACID AMERICAN ELDERBERRY MALTODEXTRIN METHYLPARABEN HONEY POTASSIUM SORBATE PROPYLENE GLYCOL PROPYLPARABEN WATER SODIUM CHLORIDE ZINC SULFATE GLYCERIN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN"
+  ],
+  "active_ingredient": [
+    "Active Ingredients: (in each teaspoonful 2.5 ml.) Purpose Dextromethorphan Hydrobromide 5 mg ...................................... Cough Suppressant Guaifenesin 50 mg ................................................................... Expectorant"
+  ],
+  "purpose": [
+    "Purpose Cough Suppressant Expectorant"
+  ],
+  "indications_and_usage": [
+    "Uses Uses: temporarily relieves cough due to minor throat and bronchial irritation as may occur with a cold helps loosen phlegm (mucus) and thin bronchial secretions to drain bronchial tubes."
+  ],
+  "warnings": [
+    "Warnings Do not use in child who is taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional condition, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your child’s prescription drug contains an MAOI, ask a doctor or pharmacist before giving this product."
+  ],
+  "do_not_use": [
+    "Do not use Do not use in child who is taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional condition, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your child’s prescription drug contains an MAOI, ask a doctor or pharmacist before giving this product."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Do not give more than 6 doses in any 24 hours period  shake well before use  measure only with dosing cup provided  keep dosing cup with product  mL = milliliter Age Dose Children 6 to under 12 years of age 5 mL every 4 hours Children 4 to under 6 years of age 2.5 mL every 4 hours Children under 4 years of age Do not use"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Inactive Ingredients: citric acid, elderberry fruit extract, glycerin, honey, maltodextrin, methylparaben, flavor, potassium sorbate as a preservative, propylparaben, propylene glycol, purified water, sodium chloride, sucralose and zinc sulfate."
+  ],
+  "questions": [
+    "Questions or Comments? 305-805-3456 Monday - Friday 9AM to 5PM EST www.efficientlabs.com"
+  ],
+  "ask_doctor": [
+    "Stop use and ask a doctor if  cough that occurs with too much phlegm (mucus)  persistent or chronic cough, such as occurs with asthma or chronic bronchitis. These could be signs of a serious condition.",
+    "Ask a doctor before use if the child has cough that occurs with too much phlegm (mucus) persistent or chronic cough, such as occurs with asthma or chronic bronchitis"
+  ],
+  "other_safety_information": [
+    "Other Information store this product between 15 to 30 °C (59 to 86 °F ) do not refrigerate product color & flavor may vary due to natural honey Tamper-Evident Feature: do not use this product if printed security seal is torn, broken or missing."
+  ],
+  "package_label_principal_display_panel": [
+    "Rompe Pechito Pack"
+  ],
+  "set_id": "004d12e1-6e3d-84c8-e063-6394a90aa653",
+  "id": "411e99da-2482-40c7-e063-6394a90aaf80",
+  "effective_time": "20251014",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Rompe Pechito DM for Kids"
+    ],
+    "generic_name": [
+      "DEXTROMETHORPHAN HBR, GUAIFENESIN"
+    ],
+    "manufacturer_name": [
+      "Efficient Laboratories Inc"
+    ],
+    "product_ndc": [
+      "58593-276"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DEXTROMETHORPHAN HYDROBROMIDE",
+      "GUAIFENESIN"
+    ],
+    "rxcui": [
+      "996520"
+    ],
+    "spl_id": [
+      "411e99da-2482-40c7-e063-6394a90aaf80"
+    ],
+    "spl_set_id": [
+      "004d12e1-6e3d-84c8-e063-6394a90aa653"
+    ],
+    "package_ndc": [
+      "58593-276-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000193956",
+      "N0000008867",
+      "N0000009560"
+    ],
+    "pharm_class_epc": [
+      "Expectorant [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Decreased Respiratory Secretion Viscosity [PE]",
+      "Increased Respiratory Secretions [PE]"
+    ],
+    "unii": [
+      "9D2RTI9KYH",
+      "495W7451VQ"
+    ]
+  }
+}

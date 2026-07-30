@@ -1,0 +1,82 @@
+{
+  "spl_product_data_elements": [
+    "Dove Advanced Care Caring Coconut Antiperspirant Deodorant PPG-14 BUTYL ETHER STEARYL ALCOHOL SUNFLOWER OIL SILICON DIOXIDE ALKYL (C12-15) BENZOATE DIMETHICONE STEARETH-100 POLYETHYLENE GLYCOL 400 ISOPROPYL PALMITATE BENZYL SALICYLATE BENZYL ALCOHOL COUMARIN ISOMETHYL-.ALPHA.-IONONE LINALOOL, (+/-)- EUGENOL .ALPHA.-HEXYLCINNAMALDEHYDE LIMONENE, (+)- HIGH DENSITY POLYETHYLENE CYCLOMETHICONE 5 HYDROGENATED CASTOR OIL BUTYLATED HYDROXYTOLUENE ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY"
+  ],
+  "description": [
+    "DOVE ADVANCED CARE CARING COCONUT ANTIPERSPIRANT DEODORANT - Aluminum Zirconium Tetrachlorohydrex GLY stick"
+  ],
+  "active_ingredient": [
+    "Active ingredient Aluminum Zirconium Tetrachlorohydrex GLY (15.2 %)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses reduces underarm wetness"
+  ],
+  "warnings": [
+    "Warnings • For external use only. • Do not use on broken skin . • Ask a doctor before use if you have kidney disease. • Stop use if rash or irritation occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "• Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply to underarms only"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Stearyl Alcohol, C12-15 Alkyl Benzoate, Cyclopentasiloxane, Isopropyl Palmitate, PPG-14 Butyl Ether, Hydrogenated Castor Oil, PEG-8, Dimethicone, Helianthus Annuus (Sunflower) Seed Oil, Fragrance (Parfum), Polyethylene, Silica, Steareth-100, BHT, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Salicylate, Coumarin, Eugenol, Hexyl Cinnamal, Limonene, Linalool"
+  ],
+  "questions": [
+    "Questions? Call 1-800-761-3683"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Dove Coconut AP Deo IS"
+  ],
+  "set_id": "031deebd-3cd7-1267-e063-6394a90ae6af",
+  "id": "1819a402-b2a0-7ee5-e063-6294a90a17f8",
+  "effective_time": "20240510",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Dove"
+    ],
+    "generic_name": [
+      "ADVANCED CARE CARING COCONUT ANTIPERSPIRANT DEODORANT"
+    ],
+    "manufacturer_name": [
+      "Conopco Inc. d/b/a/ Unilever"
+    ],
+    "product_ndc": [
+      "64942-2152"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY"
+    ],
+    "spl_id": [
+      "1819a402-b2a0-7ee5-e063-6294a90a17f8"
+    ],
+    "spl_set_id": [
+      "031deebd-3cd7-1267-e063-6394a90ae6af"
+    ],
+    "package_ndc": [
+      "64942-2152-1",
+      "64942-2152-2",
+      "64942-2152-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8O386558JE"
+    ]
+  }
+}

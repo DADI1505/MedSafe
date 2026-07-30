@@ -1,0 +1,105 @@
+{
+  "spl_product_data_elements": [
+    "SYMBIO MUC/ASPERGILLUS DROPS Mucor racemosus, Aspergillus niger WATER SODIUM CHLORIDE MUCOR RACEMOSUS MUCOR RACEMOSUS ASPERGILLUS NIGER VAR. NIGER ASPERGILLUS NIGER VAR. NIGER"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: Mucor racemosus 4X Aspergillus niger 4X"
+  ],
+  "warnings": [
+    "WARNINGS: Do not use if the tamper evident strip is broken or removed from the base of the cap."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Take 5 – 10 drops orally, three times per day."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Purified water USP, sodium chloride"
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or call a Poison Control Center right away."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: This remedy is indicated for symptoms associated with circulatory and lymph disturbances, including tonsillitis and chronic liver conditions according to traditional homeopathic practice.*"
+  ],
+  "questions": [
+    "QUESTIONS: Call toll-free from US & CA +1-844-880-4881 or visit our website www.biological-health.com"
+  ],
+  "purpose": [
+    "PURPOSE: For internal indications according to traditional homeopathic practice."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast feeding... If pregnant or breast feeding, ask a health professional before use."
+  ],
+  "ask_doctor": [
+    "ASK DOCTOR: Consult a physician if symptoms worsen or last for more than 7 days."
+  ],
+  "spl_unclassified_section": [
+    "OTHER INFORMATION: Protect from light and heat. For professional distribution only. *These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration."
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: MUC-ASPER"
+  ],
+  "set_id": "0787f5d5-42ad-575b-e063-6394a90ad4ce",
+  "id": "40e5d064-ae17-7416-e063-6294a90ae6fe",
+  "effective_time": "20251011",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "SYMBIO MUC/ASPERGILLUS DROPS"
+    ],
+    "generic_name": [
+      "MUCOR RACEMOSUS, ASPERGILLUS NIGER"
+    ],
+    "manufacturer_name": [
+      "Symbiopathic"
+    ],
+    "product_ndc": [
+      "69710-145"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MUCOR RACEMOSUS",
+      "ASPERGILLUS NIGER VAR. NIGER"
+    ],
+    "spl_id": [
+      "40e5d064-ae17-7416-e063-6294a90ae6fe"
+    ],
+    "spl_set_id": [
+      "0787f5d5-42ad-575b-e063-6394a90ad4ce"
+    ],
+    "package_ndc": [
+      "69710-145-11"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185372",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0008890",
+      "M0000728"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Fungal Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Fungal Proteins [CS]",
+      "Allergens [CS]"
+    ],
+    "unii": [
+      "17RH99LQ7G",
+      "9IOA40ANG6"
+    ]
+  }
+}

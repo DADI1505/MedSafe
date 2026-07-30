@@ -1,0 +1,107 @@
+{
+  "spl_product_data_elements": [
+    "Mucus Relief Guaifenesin GUAIFENESIN GUAIFENESIN FD&C BLUE NO. 1 ALUMINUM LAKE HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MALTODEXTRIN MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED POVIDONE, UNSPECIFIED SILICON DIOXIDE SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID 44;532"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each immediate-release tablet) Guaifenesin 400 mg"
+  ],
+  "purpose": [
+    "Purpose Expectorant"
+  ],
+  "indications_and_usage": [
+    "Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive"
+  ],
+  "warnings": [
+    "Warnings Ask a doctor before use if you have cough accompanied by too much phlegm (mucus) persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema Stop use and ask a doctor if cough persists more than 1 week, tends to recur, or is accompanied by a fever, rash, or persistent headache. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have cough accompanied by too much phlegm (mucus) persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if cough persists more than 1 week, tends to recur, or is accompanied by a fever, rash, or persistent headache. These could be signs of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions do not take more than directed adults and children 12 years and over: 1 tablet every 4 hours. Do not take more than 6 tablets in 24 hours. children under 12 years: do not use"
+  ],
+  "storage_and_handling": [
+    "Other information store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) see end flap for expiration date and lot number"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients FD&C blue #1 aluminum lake, hypromellose, magnesium stearate, maltodextrin, microcrystalline cellulose, polyethylene glycol, povidone, silicon dioxide, sodium starch glycolate, stearic acid"
+  ],
+  "questions": [
+    "Questions or comments? Call 1-800-426-9391 8:30 AM-4:00 PM ET, Monday-Friday"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel GOOD NEIGHBOR PHARMACY ® NDC 46122-794-61 Mucus Relief Guaifenesin , 400 mg Expectorant Chest Congestion • Thins and Loosens Mucus • Immediate Release 50 Tablets Actual Size TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING 50844 REV1124A53215 Distributed By AmerisourceBergen 1 West First Avenue, Conshohocken, PA 19428 Questions or Concerns? www.mygnp.com GOOD NEIGHBOR PHARMACY SATISFACTION GUARANTEE BRAND PRODUCTS God neighbor 44-532 God neighbor 44-532"
+  ],
+  "set_id": "087a3a0b-8d3f-45ed-8807-0af47b446cac",
+  "id": "e85ab29d-ff4c-4781-8446-35399605ac8d",
+  "effective_time": "20260305",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Mucus Relief"
+    ],
+    "generic_name": [
+      "GUAIFENESIN"
+    ],
+    "manufacturer_name": [
+      "Amerisource Bergen"
+    ],
+    "product_ndc": [
+      "46122-794"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "GUAIFENESIN"
+    ],
+    "rxcui": [
+      "359601"
+    ],
+    "spl_id": [
+      "e85ab29d-ff4c-4781-8446-35399605ac8d"
+    ],
+    "spl_set_id": [
+      "087a3a0b-8d3f-45ed-8807-0af47b446cac"
+    ],
+    "package_ndc": [
+      "46122-794-61"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0346122794619"
+    ],
+    "nui": [
+      "N0000193956",
+      "N0000008867",
+      "N0000009560"
+    ],
+    "pharm_class_epc": [
+      "Expectorant [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Decreased Respiratory Secretion Viscosity [PE]",
+      "Increased Respiratory Secretions [PE]"
+    ],
+    "unii": [
+      "495W7451VQ"
+    ]
+  }
+}

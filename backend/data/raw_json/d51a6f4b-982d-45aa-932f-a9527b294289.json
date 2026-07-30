@@ -1,0 +1,102 @@
+{
+  "spl_product_data_elements": [
+    "Benzoyl Peroxide Benzoyl Peroxide Benzoyl Peroxide Benzoyl Peroxide CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) cetyl alcohol edetate disodium glycerin GLYCERYL STEARATE/PEG-100 STEARATE laureth-12 magnesium aluminum silicate propylene glycol water sodium coco-sulfate sodium lauroamphoacetate xanthan gum viscous Benzoyl Peroxide Benzoyl Peroxide Benzoyl Peroxide Benzoyl Peroxide CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) cetyl alcohol edetate disodium glycerin GLYCERYL STEARATE/PEG-100 STEARATE laureth-12 magnesium aluminum silicate propylene glycol water sodium coco-sulfate sodium lauroamphoacetate xanthan gum viscous"
+  ],
+  "spl_unclassified_section": [
+    "DRUG FACTS",
+    "Questions? Call 1-866-525-0688 Manufactured for: Burel Pharmaceuticals, LLC Mason, OH 45040 USA Rev. 04/24"
+  ],
+  "active_ingredient": [
+    "Active Ingredient benzoyl peroxide USP, 5% or 10%"
+  ],
+  "purpose": [
+    "Purpose Acne medication"
+  ],
+  "indications_and_usage": [
+    "Use For the treatment of acne"
+  ],
+  "warnings": [
+    "Warnings: For external use only. Avoid contact with eyes, eyelids, lips and mucous membranes. Do not use if you have very sensitive skin are sensitive to benzoyl peroxide When using this product Avoid unnecessary sun exposure and use a sunscreen. Avoid contact with eyes, lips, and mouth. Avoid contact with hair or dyed fabrics, which may be bleached by this product. Skin irritation may occur, characterized by redness, burning, itching, peeling, or possibly swelling. Irritation may be reduced by using the product less frequently or in a lower concentration. Skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. Stop use and ask a doctor if irritation becomes severe. Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use if you have very sensitive skin are sensitive to benzoyl peroxide"
+  ],
+  "when_using": [
+    "When using this product Avoid unnecessary sun exposure and use a sunscreen. Avoid contact with eyes, lips, and mouth. Avoid contact with hair or dyed fabrics, which may be bleached by this product. Skin irritation may occur, characterized by redness, burning, itching, peeling, or possibly swelling. Irritation may be reduced by using the product less frequently or in a lower concentration. Skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. Stop use and ask a doctor if irritation becomes severe."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions SHAKE WELL. Clean the skin thoroughly before applying this product. Sensitivity Test for a New User. Apply product sparingly to one or two small affected areas during the first 3 days. If no discomfort occurs,follow the directions stated below. One to three times daily, wet skin and cover the entire affected area with a thin layer, liberally applying to areas to be cleansed. Massage gently into skin for 10-20 seconds working into a full lather, rinse thoroughly and pat dry. Because excessive drying of the skin may occur, start with one application daily, then gradually increase to two or three times daily if needed or as directed by a doctor. If bothersome dryness or peeling occurs, reduce application to once a day or every other day. If going outside, apply sunscreen after using this product. Follow directions in the sunscreen labeling. If irritation or sensitivity develops stop use of both products and ask a doctor."
+  ],
+  "storage_and_handling": [
+    "Other information Store at controlled room temperature, 15° - 30°C (59° - 86°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Carbomer interpolymer type A NF, cetyl alcohol NF, edetate disodium USP, glycerin USP, glyceryl stearate/PEG-100 stearate, laureth-12, magnesium aluminum silicate NF, propylene glycol USP, purified water USP, sodium coco-sulfate, sodium lauroamphoacetate, and xanthan gum NF."
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 5% 5oz (148 g) Bottle Label NDC 35573-453-91 BENZOYL PEROXIDE TOPICAL WASH 5% FOR TOPICAL USE ONLY Net Weight 5 oz (148 g) burelpharma lelys",
+    "PRINCIPAL DISPLAY PANEL - 5% 8oz (237 g) Bottle Label NDC 35573-453-08 BENZOYL PEROXIDE TOPICAL WASH 5% FOR TOPICAL USE ONLY Net Weight 8 oz (237 g) burelpharma lelys",
+    "PRINCIPAL DISPLAY PANEL - 10% 5oz (148 g) Bottle Label NDC 35573-454-91 BENZOYL PEROXIDE TOPICAL WASH 10% FOR TOPICAL USE ONLY Net Weight 5 oz (148 g) burelpharma lelys1",
+    "PRINICIPAL DISPLAY PANEL - 10% 8oz (237 g) Bottle Label NDC 35573-454-08 BENZOYL PEROXIDE TOPICAL WASH 10% FOR TOPICAL USE ONLY Net Weight 8 oz (237 g) burelpharma lelys3"
+  ],
+  "set_id": "0617d42d-511d-4c1a-a919-b37abbc14efc",
+  "id": "d51a6f4b-982d-45aa-932f-a9527b294289",
+  "effective_time": "20240424",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "Benzoyl Peroxide"
+    ],
+    "generic_name": [
+      "BENZOYL PEROXIDE"
+    ],
+    "manufacturer_name": [
+      "Burel Pharmaceuticals, LLC"
+    ],
+    "product_ndc": [
+      "35573-453",
+      "35573-454"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZOYL PEROXIDE"
+    ],
+    "rxcui": [
+      "142034",
+      "308696"
+    ],
+    "spl_id": [
+      "d51a6f4b-982d-45aa-932f-a9527b294289"
+    ],
+    "spl_set_id": [
+      "0617d42d-511d-4c1a-a919-b37abbc14efc"
+    ],
+    "package_ndc": [
+      "35573-453-91",
+      "35573-453-08",
+      "35573-454-91",
+      "35573-454-08"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0335573454081",
+      "0335573454913"
+    ],
+    "unii": [
+      "W9WZN9A0GM"
+    ]
+  }
+}

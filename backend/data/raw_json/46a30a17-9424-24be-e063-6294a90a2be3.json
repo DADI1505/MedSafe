@@ -1,0 +1,95 @@
+{
+  "spl_product_data_elements": [
+    "Equate SF Menthol Cough Drops Menthol MENTHOL MENTHOL WATER B Light Blue with Blue Flakes"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each drop) Menthol 5.8 mg"
+  ],
+  "purpose": [
+    "Purpose Cough suppressant / Oral anesthetic"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves: cough as may occur with a cold occasional minor irritation and sore throat"
+  ],
+  "warnings": [
+    "Warnings Sore throat warning: if sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, swelling, nausea, or vomiting, consult a doctor promptly. If sore mouth symptoms do not improve in 7 days, see your dentist or doctor promptly. These symptoms may be serious."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, or emphysema cough accompanied by excessive phlegm (mucus)"
+  ],
+  "stop_use": [
+    "Stop use and consult doctor if cough persists for more than 7 days, tends to recur, or is accompanied by fever, reash, or persistent headache. These could be signs of a serious condition. sore throat is severe, or irritation, pain or redness lasts or worsens sore mouth does not improve in 7 days"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding , ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 5 years and over - dissolve 1 lozenge slowly in mouth. Repeat every 2 hours as needed or as directed by a doctor. children under 5 years - ask a doctor"
+  ],
+  "other_safety_information": [
+    "Other information 6 calories per drop Excess consumption may cause a laxative effect do not use if bag is torn or open"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients: Acesulfame potassium, corn starch, eucalyptus oil, FD&C blue no. 1, FD&C red no. 40, glycerin, gum arabic, isomalt, maltitol syrup, medium chain triglycerides, natural and artificial flavors, potassium sorbate, soybean oil, sucralose and water."
+  ],
+  "questions": [
+    "Questions? call 1-888-287-1915."
+  ],
+  "package_label_principal_display_panel": [
+    "Equate SF Menthol 70ct Cough Drops"
+  ],
+  "set_id": "003a229c-b014-e9f3-e063-6294a90aa5ed",
+  "id": "46a30a17-9424-24be-e063-6294a90a2be3",
+  "effective_time": "20251223",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Equate SF Menthol Cough Drops"
+    ],
+    "generic_name": [
+      "MENTHOL"
+    ],
+    "manufacturer_name": [
+      "WalMart"
+    ],
+    "product_ndc": [
+      "79903-185"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MENTHOL"
+    ],
+    "rxcui": [
+      "476973"
+    ],
+    "spl_id": [
+      "46a30a17-9424-24be-e063-6294a90a2be3"
+    ],
+    "spl_set_id": [
+      "003a229c-b014-e9f3-e063-6294a90aa5ed"
+    ],
+    "package_ndc": [
+      "79903-185-70"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0194346065301"
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "spl_product_data_elements": [
+    "Vicks Vaposteam Lavender CAMPHOR, (-)- CAMPHOR, (-)- CAMPHOR, (-)- Alcohol Cedar Leaf Oil DIMETHICONE, UNSPECIFIED Eucalyptus Oil Laureth-7 Lavender Oil MENTHOL, UNSPECIFIED FORM Nutmeg Oil Poloxamer 124"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Dist. by Kaz USA Inc., a Helen of Troy Company 400 Donald Lynch Blvd. Marlborough, MA 01752"
+  ],
+  "active_ingredient": [
+    "Active ingredient Camphor (Synthetic) 6.2%"
+  ],
+  "purpose": [
+    "Purpose Cough suppressant"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves cough associated with a cold temporarily helps you cough less. cough suppressant which temporarily controls the impulse to cough. temporarily helps to suppress the cough reflex that causes coughing. temporarily reduces the intensity of coughing. reduces your cough to help you rest."
+  ],
+  "warnings": [
+    "Warnings For external use only. Flammable Keep away from fire or flame. For steam inhalation only. DO NOT TAKE BY MOUTH. Ask a doctor before use if you have a persistent or chronic cough such as occurs with smoking, asthma or emphysema. cough that occurs with too much phlegm (mucus). When using this product, do not heat microwave use near an open flame direct steam from the vaporizer or humidifier too close to the face. add to hot water or any container where heating water except when adding to cold water in a hot steam vaporizer. May cause splattering and result in burns. Stop use and ask a doctor if cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash or persistent headache. A persistent cough may be a sign of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of eye exposure flush eyes with water; or if swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have a persistent or chronic cough such as occurs with smoking, asthma or emphysema. cough that occurs with too much phlegm (mucus)."
+  ],
+  "when_using": [
+    "When using this product, do not heat microwave use near an open flame direct steam from the vaporizer or humidifier too close to the face. add to hot water or any container where heating water except when adding to cold water in a hot steam vaporizer. May cause splattering and result in burns."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash or persistent headache. A persistent cough may be a sign of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of eye exposure flush eyes with water; or if swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions see important warnings under \" When using this product \". adults & children 2 years & over: add 1 tablespoonful of solution to each quart of water OR 1½ teaspoonfuls of solution to each pint of water OR add 0.5 fl oz (1 tablespoonful) of VapoSteam liquid to medicine cup found on Warm Mist and Cool Mist Humidifiers that accept VapoSteam. follow manufacturer's directions for using vaporizer. add solution directly to cold water only in a hot steam vaporizer. breathe in the medicated vapors. use up to three times daily or as directed by a doctor. children under 2 years: do not use."
+  ],
+  "storage_and_handling": [
+    "Other information close container tightly and store at room temperature 68°-77° F (20°-25° C) and away from direct sunlight. contains 78% alcohol"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Alcohol, Cedar Leaf Oil, Silicone, Eucalyptus Oil, Laureth-7, Lavender Oil, Menthol, Nutmeg Oil, Poloxamer 124"
+  ],
+  "questions": [
+    "Questions? 1-800-VAPOR-1-2 (1-800-827-6712) Monday – Friday 8am to 6pm EST."
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 236 ml Bottle Box VICKS Vapo Steam Lavender COUGH SUPPRESSANT Produces Calming Medicated Vapors to Help Relieve Coughs 8 FL OZ (236 ml) DO NOT TAKE BY MOUTH PRINCIPAL DISPLAY PANEL - 236 ml Bottle Box"
+  ],
+  "set_id": "03bf6b78-cf8e-44c6-bae0-5bd0a85f8aa9",
+  "id": "fe42f1e9-3a7f-4ac0-8a8e-061f80da744d",
+  "effective_time": "20241219",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Vicks Vaposteam Lavender"
+    ],
+    "generic_name": [
+      "CAMPHOR, (-)-"
+    ],
+    "manufacturer_name": [
+      "Kaz USA, Inc"
+    ],
+    "product_ndc": [
+      "69901-523"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "RESPIRATORY (INHALATION)"
+    ],
+    "substance_name": [
+      "CAMPHOR, (-)-"
+    ],
+    "rxcui": [
+      "701961"
+    ],
+    "spl_id": [
+      "fe42f1e9-3a7f-4ac0-8a8e-061f80da744d"
+    ],
+    "spl_set_id": [
+      "03bf6b78-cf8e-44c6-bae0-5bd0a85f8aa9"
+    ],
+    "package_ndc": [
+      "69901-523-08"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "213N3S8275"
+    ]
+  }
+}

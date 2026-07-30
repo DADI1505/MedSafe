@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Witch Hazel Witch Hazel ALCOHOL WITCH HAZEL WITCH HAZEL"
+  ],
+  "active_ingredient": [
+    "Active ingredient Witch Hazel 86%"
+  ],
+  "purpose": [
+    "Purpose Astringent"
+  ],
+  "indications_and_usage": [
+    "Use for relief of minor skin irritations due to: insect bites minor cuts minor scrapes"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "when_using": [
+    "When using this product avoid contact with the eyes"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens or symptoms persist for more than 7 days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply as often as needed"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredient alcohol 14% by volume"
+  ],
+  "spl_unclassified_section": [
+    "Disclaimer *This product is not manufactured or distributed by Dickinson Brands, Inc., distributor of T.N. Dickinson's ® Witch Hazel."
+  ],
+  "adverse_reactions": [
+    "ADVERSE REACTION DISTRIBUTED BY BETTER LIVING BRANDS LLC P.O. BOX 99, PLEASANTON, CA 94566-009 1-888-723-3929 www.betterlivingbrandsLLC.com Pat. D675, 101"
+  ],
+  "package_label_principal_display_panel": [
+    "principal display panel NDC 21130-822-43 Signature Care™ Quality Guaranteed Witch Hazel U.S.P. Astringent Relief of minor skin irritations: Insect bites Minor cuts Minor scrapes Compare to T.N. Dickinson's Witch Hazel active ingredient* 16 FL OZ (1 PT) 473 mL image description image description"
+  ],
+  "set_id": "0355edab-b6f7-4e59-bce1-cf6a8897b989",
+  "id": "4b92e003-2d98-2496-e063-6394a90ac23f",
+  "effective_time": "20260224",
+  "version": "15",
+  "openfda": {
+    "application_number": [
+      "M015"
+    ],
+    "brand_name": [
+      "Witch Hazel"
+    ],
+    "generic_name": [
+      "WITCH HAZEL"
+    ],
+    "manufacturer_name": [
+      "Better Living Brands, LLC"
+    ],
+    "product_ndc": [
+      "21130-822"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "WITCH HAZEL"
+    ],
+    "rxcui": [
+      "200295"
+    ],
+    "spl_id": [
+      "4b92e003-2d98-2496-e063-6394a90ac23f"
+    ],
+    "spl_set_id": [
+      "0355edab-b6f7-4e59-bce1-cf6a8897b989"
+    ],
+    "package_ndc": [
+      "21130-822-43"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "101I4J0U34"
+    ]
+  }
+}

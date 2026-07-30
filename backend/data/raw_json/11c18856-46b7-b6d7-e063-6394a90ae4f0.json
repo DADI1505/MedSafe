@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "Meijer SPF 30 Sunscreen Avobenzone 3%, Homosalate 15%, Ocstisalate 5%, Octocrylene 6% PHENOXYETHANOL ETHYLHEXYLGLYCERIN TOCOPHEROL SORBITOL STEARIC ACID OCTOCRYLENE OCTOCRYLENE EICOSYL POVIDONE DIMETHICONE 200 TROLAMINE EDETATE DISODIUM ALUMINUM STARCH OCTENYLSUCCINATE CARBOMER 940 WATER AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE OCTISALATE OCTISALATE POLYGLYCERYL-3 DISTEARATE SORBITAN ISOSTEARATE BENZYL ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Avobenzone 3%, Homosalate 15%, Octisalate 5%, Octocrylene 6%"
+  ],
+  "purpose": [
+    "Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Helps prevent sunburn. If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "warnings": [
+    "For external use only. Do not use on damaged or broken skin. When using this product avoid contact with eyes. Rinse with water to remove. Stop use and ask a doctor if rash or irritation develops and lasts."
+  ],
+  "keep_out_of_reach_of_children": [
+    "If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Apply liberally 15 minutes before sun exposure. Reapply: after 80 minutes of swimming or sweating, immediately after towel drying, at least every 2 hours. Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. - 2 p.m., wear long-sleeved shirts, pants, hats, and sunglasses, children under 6 months of age: ask a doctor, hold container 4 to 6 inches from the skin to apply, do not spray directly onto face Spray onto hand then apply to face, do not apply in windy conditions, use in well-ventilated area."
+  ],
+  "inactive_ingredient": [
+    "Water, sorbitol, aluminum starch octenylsuccinate, VP/Eicosene copolymer, stearic acid, dimethicone, tocopherol, ethylhexylglycerin, phenoxyethanol, polyglyceryl-3 distearate, sorbitan isostearate, carbomer, disodium EDTA, triethanolamine, benzyl alcohol, fragrance."
+  ],
+  "package_label_principal_display_panel": [
+    "Label"
+  ],
+  "set_id": "074b6340-0482-ab05-e063-6294a90adedb",
+  "id": "11c18856-46b7-b6d7-e063-6394a90ae4f0",
+  "effective_time": "20240219",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Meijer SPF 30 Sunscreen"
+    ],
+    "generic_name": [
+      "AVOBENZONE 3%, HOMOSALATE 15%, OCSTISALATE 5%, OCTOCRYLENE 6%"
+    ],
+    "manufacturer_name": [
+      "Meijer"
+    ],
+    "product_ndc": [
+      "79481-1319"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OCTOCRYLENE",
+      "AVOBENZONE",
+      "HOMOSALATE",
+      "OCTISALATE"
+    ],
+    "spl_id": [
+      "11c18856-46b7-b6d7-e063-6394a90ae4f0"
+    ],
+    "spl_set_id": [
+      "074b6340-0482-ab05-e063-6294a90adedb"
+    ],
+    "package_ndc": [
+      "79481-1319-8"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0713733571142"
+    ],
+    "unii": [
+      "5A68WGF6WM",
+      "G63QQF2NOX",
+      "V06SV4M95S",
+      "4X49Y0596W"
+    ]
+  }
+}

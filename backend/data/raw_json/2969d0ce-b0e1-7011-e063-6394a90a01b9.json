@@ -1,0 +1,97 @@
+{
+  "spl_product_data_elements": [
+    "Extra Strength Antacid Tablets, Caseys 4good Calcium Carbonate 750 mg ADIPIC ACID STARCH, CORN CALCIUM CARBONATE CALCIUM CATION CROSPOVIDONE MAGNESIUM STEARATE DEXTROSE FD&C RED NO. 40 MALTODEXTRIN SUCROSE TALC FD&C BLUE NO. 1 ALUMINUM LAKE (pink, lavender, purple) (blueberry, raspberry, strawberry) G127 Extra Strength Antacid Tablets, 24/7 Life Calcium Carbonate 750 mg ADIPIC ACID STARCH, CORN CALCIUM CARBONATE CALCIUM CATION CROSPOVIDONE MAGNESIUM STEARATE DEXTROSE FD&C RED NO. 40 MALTODEXTRIN FD&C BLUE NO. 1 ALUMINUM LAKE SUCROSE TALC (blueberry, raspberry, strawberry) (pink, lavender, purple) G127"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information ​Other information each tablet contains: elemental calcium 300 mg do not use if printed seal under cap is torn or missing. store at room temperature. Keep the container tightly closed."
+  ],
+  "active_ingredient": [
+    "Active Ingredient Active ingredient (in each tablet) Calcium carbonate 750 mg"
+  ],
+  "purpose": [
+    "Purpose Purpose Antacid"
+  ],
+  "warnings": [
+    "Warnings Ask a doctor or pharmacist before use if you are Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product When using this product do not take more than 10 tablets in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks, except under the advice and supervision of a doctor. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children."
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs."
+  ],
+  "when_using": [
+    "When using this product When using this product do not take more than 10 tablets in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks, except under the advice and supervision of a doctor."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "indications_and_usage": [
+    "Uses Uses relieves: acid indigestion heartburn"
+  ],
+  "dosage_and_administration": [
+    "Directions Directions adults and children 12 years of age and over: chew 2-4 tablets as symptoms occur, or as directed by a doctor."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients ​Inactive ingredients adipic acid, corn starch, crospovidone, dextrose, FD&C blue 1 lake, FD&C red 40 lake, flavors, magnesium stearate, maltodextrin, sucrose, talc."
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "PDP/Package Label, 24/7 Life Antacid Tablets 24/7 Life by 7-Eleven Extra Strength Antacid Tablets Antacid Calcium Carbonate 750 mg compare to Tums ® EX active ingredient Assorted Berries Flavored 96 Chewable Tablets PDP/Package",
+    "PDP/Package Label, Casey's 4good Antacid EXTRA STRENGTH Antacid Calcium Carbonate 750 mg Compare to Tums ® EX active ingredient* mixed berry flavored 4good TM Casey's ® 96 CHEWABLE TABLETS PDP/Package"
+  ],
+  "set_id": "026aefd6-bb80-1ffd-e063-6394a90a1262",
+  "id": "2969d0ce-b0e1-7011-e063-6394a90a01b9",
+  "effective_time": "20241216",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M001"
+    ],
+    "brand_name": [
+      "Extra Strength Antacid Tablets, Caseys 4good",
+      "Extra Strength Antacid Tablets, 24/7 Life"
+    ],
+    "generic_name": [
+      "CALCIUM CARBONATE 750 MG"
+    ],
+    "manufacturer_name": [
+      "Lil' Drug Store Prodsucts, Inc."
+    ],
+    "product_ndc": [
+      "66715-6355",
+      "66715-8553"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CALCIUM CARBONATE"
+    ],
+    "rxcui": [
+      "308915"
+    ],
+    "spl_id": [
+      "2969d0ce-b0e1-7011-e063-6394a90a01b9"
+    ],
+    "spl_set_id": [
+      "026aefd6-bb80-1ffd-e063-6394a90a1262"
+    ],
+    "package_ndc": [
+      "66715-6355-3",
+      "66715-8553-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "H0G9379FGK"
+    ]
+  }
+}

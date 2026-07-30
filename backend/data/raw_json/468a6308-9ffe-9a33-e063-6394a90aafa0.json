@@ -1,0 +1,97 @@
+{
+  "spl_product_data_elements": [
+    "Firmarine Moisturizer SPF 30 Avobenzone, Octinoxate, and Octisalate WATER BUTYLENE GLYCOL OCTYLDODECYL NEOPENTANOATE ALKYL (C12-15) BENZOATE GLYCERIN JOJOBA OIL GLYCERYL MONOSTEARATE CETOSTEARYL ALCOHOL DOCOSANOL PALMITIC ACID STEARIC ACID LAURYL ALCOHOL CETYL ALCOHOL MYRISTYL ALCOHOL COCO GLUCOSIDE ETHYLHEXYLGLYCERIN DIMETHICONE PEG-100 STEARATE SPIRULINA MAXIMA CUCUMBER GREEN TEA LEAF .ALPHA.-TOCOPHEROL ACETATE VITAMIN A PALMITATE ASCORBYL PALMITATE PULLULAN HYALURONATE SODIUM SODIUM CHLORIDE SODIUM HYDROXIDE EDETATE DISODIUM O-CYMEN-5-OL PHENOXYETHANOL FD&C BLUE NO. 1 EXT. D&C VIOLET NO. 2 AVOBENZONE AVOBENZONE OCTINOXATE OCTINOXATE OCTISALATE OCTISALATE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "DISTRIBUTED IN U.S.A. BY ERNO LASZLO NEW YORK, NY 10001"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Avobenzone 3%, Octinoxate 7.5%, Octisalate 5%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "Warnings For external use only . Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control center right away."
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin."
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply liberally 15 minutes before sun exposure reapply: after 40 minutes of swimming or sweating immediately after towel drying at least every 2 hours Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. - 2 p.m. wear long-sleeve shirts, pants, hats, and sunglasses children under 6 months: Ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Water, Butylene Glycol, Octyldodecyl Neopentanoate, C12-15 Alkyl Benzoate, Glycerin, Simmondsia Chinensis (Jojoba) Seed Oil, Glyceryl Stearate, Cetearyl Alcohol, Behenyl Alcohol, Palmitic Acid, Stearic Acid, Lecithin, Lauryl Alcohol, Cetyl Alcohol, Myristyl Alcohol, Coco-Glucoside, Ethylhexylglycerin, Dimethicone, PEG-100 Stearate, Spirulina Maxima Extract, Cucumis Sativus (Cucumber) Fruit Extract, Camellia Sinensis Leaf Extract, Phospholipids, Tocopheryl Acetate, Retinyl Palmitate, Ascorbyl Palmitate, Algae Extract, Pullulan, Sodium Hyaluronate, Trifluoroacetyl Tripeptide-2, Sea Water, Carbomer, Dextran, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Disodium EDTA, O-Cymen-5-Ol, Phenoxyethanol, Fragrance, Blue 1, Ext Violet 2."
+  ],
+  "storage_and_handling": [
+    "Other information protect this product from excessive heat and direct sun"
+  ],
+  "questions": [
+    "Questions or comments? Call toll free at 866-452-7956."
+  ],
+  "package_label_principal_display_panel": [
+    "Product label image description"
+  ],
+  "set_id": "073f8b95-6f46-4341-817f-22f5b4f32542",
+  "id": "468a6308-9ffe-9a33-e063-6394a90aafa0",
+  "effective_time": "20251222",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Firmarine Moisturizer SPF 30"
+    ],
+    "generic_name": [
+      "AVOBENZONE, OCTINOXATE, AND OCTISALATE"
+    ],
+    "manufacturer_name": [
+      "Erno Laszlo, Inc."
+    ],
+    "product_ndc": [
+      "57913-2833"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "AVOBENZONE",
+      "OCTINOXATE",
+      "OCTISALATE"
+    ],
+    "spl_id": [
+      "468a6308-9ffe-9a33-e063-6394a90aafa0"
+    ],
+    "spl_set_id": [
+      "073f8b95-6f46-4341-817f-22f5b4f32542"
+    ],
+    "package_ndc": [
+      "57913-2833-0"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "G63QQF2NOX",
+      "4Y5P7MUD51",
+      "4X49Y0596W"
+    ]
+  }
+}

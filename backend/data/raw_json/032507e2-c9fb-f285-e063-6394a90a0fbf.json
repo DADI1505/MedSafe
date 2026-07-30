@@ -1,0 +1,128 @@
+{
+  "spl_product_data_elements": [
+    "Kali Cyanatum Kali Cyanatum POTASSIUM CYANIDE CYANIDE ANION SUCROSE Kali Cyanatum Kali Cyanatum POTASSIUM CYANIDE CYANIDE ANION SUCROSE Kali Cyanatum Kali Cyanatum POTASSIUM CYANIDE CYANIDE ANION SUCROSE Kali Cyanatum Kali Cyanatum POTASSIUM CYANIDE CYANIDE ANION SUCROSE Kali Cyanatum Kali Cyanatum POTASSIUM CYANIDE CYANIDE ANION SUCROSE Kali Cyanatum Kali Cyanatum POTASSIUM CYANIDE CYANIDE ANION SUCROSE Kali Cyanatum Kali Cyanatum POTASSIUM CYANIDE CYANIDE ANION SUCROSE Kali Cyanatum Kali Cyanatum POTASSIUM CYANIDE CYANIDE ANION SUCROSE Kali Cyanatum Kali Cyanatum POTASSIUM CYANIDE CYANIDE ANION SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Kali Cyanatum 6C 5g Kali Cyanatum 6C 30g Kali Cyanatum 6C 100g Kali Cyanatum 12C 5g Kali Cyanatum 12C 30g Kali Cyanatum 12C 100g Kali Cyanatum 30C 1g Kali Cyanatum 30C 5g Kali Cyanatum 30C 30g Kali Cyanatum 30C 100g Kali Cyanatum 100C 1g Kali Cyanatum 100C 5g Kali Cyanatum 100C 30g Kali Cyanatum 100C 100g Kali Cyanatum 200C 1g Kali Cyanatum 200C 5g Kali Cyanatum 200C 30g Kali Cyanatum 200C 100g Kali Cyanatum 500C 1g Kali Cyanatum 500C 5g Kali Cyanatum 500C 30g Kali Cyanatum 500C 100g Kali Cyanatum 1M 1g Kali Cyanatum 1M 5g Kali Cyanatum 1M 30g Kali Cyanatum 1M 100g Kali Cyanatum 10M 1g Kali Cyanatum 10M 5g Kali Cyanatum 10M 30g Kali Cyanatum 10M 100g Kali Cyanatum LM1 30g"
+  ],
+  "set_id": "032507e2-c9fa-f285-e063-6394a90a0fbf",
+  "id": "032507e2-c9fb-f285-e063-6394a90a0fbf",
+  "effective_time": "20230817",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Kali Cyanatum"
+    ],
+    "generic_name": [
+      "KALI CYANATUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3736",
+      "37662-3739",
+      "37662-3744",
+      "37662-3738",
+      "37662-3742",
+      "37662-3741",
+      "37662-3740",
+      "37662-3737",
+      "37662-3743"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "POTASSIUM CYANIDE"
+    ],
+    "spl_id": [
+      "032507e2-c9fb-f285-e063-6394a90a0fbf"
+    ],
+    "spl_set_id": [
+      "032507e2-c9fa-f285-e063-6394a90a0fbf"
+    ],
+    "package_ndc": [
+      "37662-3739-1",
+      "37662-3739-2",
+      "37662-3739-3",
+      "37662-3739-4",
+      "37662-3744-1",
+      "37662-3738-1",
+      "37662-3738-2",
+      "37662-3738-3",
+      "37662-3738-4",
+      "37662-3742-1",
+      "37662-3742-2",
+      "37662-3742-3",
+      "37662-3742-4",
+      "37662-3741-1",
+      "37662-3741-2",
+      "37662-3741-3",
+      "37662-3741-4",
+      "37662-3740-1",
+      "37662-3740-2",
+      "37662-3740-3",
+      "37662-3740-4",
+      "37662-3736-1",
+      "37662-3736-2",
+      "37662-3736-3",
+      "37662-3737-1",
+      "37662-3737-2",
+      "37662-3737-3",
+      "37662-3743-1",
+      "37662-3743-2",
+      "37662-3743-3",
+      "37662-3743-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "MQD255M2ZO"
+    ]
+  }
+}

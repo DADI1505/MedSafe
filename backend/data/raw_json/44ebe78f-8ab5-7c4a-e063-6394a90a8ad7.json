@@ -1,0 +1,77 @@
+{
+  "spl_product_data_elements": [
+    "CAREALL Musle and Joint Menthol CAMPHOR (SYNTHETIC) CARBOMER HOMOPOLYMER TYPE C ISOPROPYL ALCOHOL METHYLPARABEN POLYSORBATE 60 POTASSIUM SORBATE TROLAMINE WATER MENTHOL MENTHOL Inbetween clear and white in color"
+  ],
+  "active_ingredient": [
+    "Menthol 2.5%"
+  ],
+  "purpose": [
+    "Topical Analegesic"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of Reach of Children. If swallowed, get medical help of contact a Poison Control Center immediately."
+  ],
+  "indications_and_usage": [
+    "For the temporary relief of minor aches and pains of muscles and joints associated with simple backache, arthritis, sprains, and bruises"
+  ],
+  "warnings": [
+    "For External Use Only. Do not use: On wounds or damaged skin With a heating pad On children under 12 years of age with arthritis-like conditions Ask a doctor before use if: You have redness over the affected area When using this product: Avoid contact eith eyes or mucous membranes Do not bandage tightly Stop use and ask a Doctor if: Condition worsens or symptoms persist for more than 7 days Symptoms clear up and occur again within a few days Excessive skin irritation occurs"
+  ],
+  "dosage_and_administration": [
+    "Adults 12 years of age and older: apply to affected area not more than 3 to 4 times daily. Children under 12 years of age: ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Camphor, Carbomer 980, Isopropyl alcohol, Methylparaben, Polysorbate 60, Potassium Sorbate, Trolamine, Purified water"
+  ],
+  "package_label_principal_display_panel": [
+    "MJG3 Carton Image"
+  ],
+  "set_id": "013beea4-b2c2-4e84-b4cb-3125ac48e8c0",
+  "id": "44ebe78f-8ab5-7c4a-e063-6394a90a8ad7",
+  "effective_time": "20251201",
+  "version": "9",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "CAREALL Musle and Joint"
+    ],
+    "generic_name": [
+      "MENTHOL"
+    ],
+    "manufacturer_name": [
+      "New World Imports, Inc"
+    ],
+    "product_ndc": [
+      "51824-014"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MENTHOL"
+    ],
+    "rxcui": [
+      "282805"
+    ],
+    "spl_id": [
+      "44ebe78f-8ab5-7c4a-e063-6394a90a8ad7"
+    ],
+    "spl_set_id": [
+      "013beea4-b2c2-4e84-b4cb-3125ac48e8c0"
+    ],
+    "package_ndc": [
+      "51824-014-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

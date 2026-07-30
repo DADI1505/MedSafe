@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "Medterra Pain Relief Menthol Roll-On Menthol EUCALYPTUS OIL WATER PEPPERMINT OIL CAMPHOR OIL LAURETH-7 C13-14 ISOPARAFFIN ALCOHOL POLYACRYLAMIDE (CROSSLINKED; 0.01-0.2 MOLE PERCENT BISACRYLAMIDE) ARNICA MONTANA FLOWER MENTHOL, UNSPECIFIED FORM MENTHOL HEMP LAVENDER OIL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Active Ingredient Menthol 4%"
+  ],
+  "warnings": [
+    "Warnings For external use only.",
+    "Flammable Keep away from excessive heat or open flame."
+  ],
+  "purpose": [
+    "Purpose Cooling Pain Reliever"
+  ],
+  "indications_and_usage": [
+    "Uses Temporary relief of minor aches and pains of sore muscles & joints associated with: Arthritis·Backache·Strains·Sprains·"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have Sensitive Skin"
+  ],
+  "when_using": [
+    "When using this product: Avoid contact with the eyes or mucous membranes • Do not apply to wounds or damaged skin • Do not use with other ointments, creams, sprays orliniments •Do not apply to irritated skin orif excessive irritation develops • Do not bandage • Wash hands after use with cool water • Do not use with heating pad or device • Store in a cool dry place."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if: Condition worsens, or if symptoms persist for more than 7 days, or clear up and recur."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding: Ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children: If accidentally ingested, get medical help or contact a Poison Control Center immediately."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply cream to affected areas daily as needed. Consult with a physician for optimal usage."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Alcohol Denatured, Arnica Montana Flower Oil, Hemp Extract, Lavandula Angustifolia (Lavender) Oil, Laureth-7, Polyacrylamide, Water(Aqua)."
+  ],
+  "questions": [
+    "Questions or Comments? (800) 971-1288 | supportmedterracbd.com medterracbd.com | @medterracbd"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Label"
+  ],
+  "set_id": "05a6067a-287a-52d4-e063-6394a90a2c4e",
+  "id": "384365e6-a1e2-64d6-e063-6394a90a3375",
+  "effective_time": "20250623",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Medterra Pain Relief Menthol Roll-On"
+    ],
+    "generic_name": [
+      "MENTHOL"
+    ],
+    "manufacturer_name": [
+      "Respect Manufacturing Corporation"
+    ],
+    "product_ndc": [
+      "83696-601"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MENTHOL, UNSPECIFIED FORM"
+    ],
+    "spl_id": [
+      "384365e6-a1e2-64d6-e063-6394a90a3375"
+    ],
+    "spl_set_id": [
+      "05a6067a-287a-52d4-e063-6394a90a2c4e"
+    ],
+    "package_ndc": [
+      "83696-601-60"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0810010832542"
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

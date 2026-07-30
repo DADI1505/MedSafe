@@ -1,0 +1,85 @@
+{
+  "spl_product_data_elements": [
+    "First Aid Only Hand Sanitizing Wipe Isopropyl Alcohol ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL WATER"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Isopropyl Alcohol 70%"
+  ],
+  "purpose": [
+    "Purpose Antibacterial"
+  ],
+  "indications_and_usage": [
+    "USE hand sanitizer to hlp reduce bacteria on the skin"
+  ],
+  "warnings": [
+    "Warnings For external use only Flammable. Keep away from fire or flame"
+  ],
+  "do_not_use": [
+    "Do not use •in eyes. If contact occurs, flush eyes with water"
+  ],
+  "stop_use": [
+    "Stop use if irritation or rash develops. Consult a doctor if condirtion persists or gets worse"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Open packet and unfold wipes. Thoroughly wipe hands and discard"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredient water"
+  ],
+  "package_label_principal_display_panel": [
+    "packet label packet label"
+  ],
+  "set_id": "03ec9021-816f-970c-e063-6294a90a6732",
+  "id": "27d88cfa-6cd2-403e-e063-6394a90a8088",
+  "effective_time": "20241126",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "First Aid Only Hand Sanitizing Wipe"
+    ],
+    "generic_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Acme United Corporation"
+    ],
+    "product_ndc": [
+      "0924-0301"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "rxcui": [
+      "797544"
+    ],
+    "spl_id": [
+      "27d88cfa-6cd2-403e-e063-6394a90a8088"
+    ],
+    "spl_set_id": [
+      "03ec9021-816f-970c-e063-6294a90a6732"
+    ],
+    "package_ndc": [
+      "0924-0301-00",
+      "0924-0301-04",
+      "0924-0301-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "ND2M416302"
+    ]
+  }
+}

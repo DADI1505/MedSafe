@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "Alcohol Wipes ALCOHOL GLYCERIN HYDROGEN PEROXIDE WATER ALCOHOL ALCOHOL"
+  ],
+  "purpose": [
+    "Purpose PURPOSE: ANTIMICROBIAL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient(s) ACTIVE INGREDIENT: Alcohol 75%"
+  ],
+  "indications_and_usage": [
+    "Use USES: HAND SANITIZER TO HELP REDUCE BACTERIA ON THE SKIN."
+  ],
+  "warnings": [
+    "Warnings WARNINGS: FLAMMABLE. KEEP AWAY FROM FIRE OR FLAME ■ FOR EXTERNAL USE ONLY. ■ DO NOT USE IN OR NEAR THE EYES. IN CASE OF CONTACT, RINSE EYES THOROUGHLY WITH WATER. ■ STOP USE AND CONSULT WITH A PHYSICIAN IF IRRITATION DEVELOPS AND LASTS FOR MORE THAN 72 HOURS. ■ KEEP OUT OF REACH OF CHILDREN. ■ IF SWALLOWED, GET MEDICAL HELP OR CONTACT A POISON CONTROL CENTER IMMEDIATELY."
+  ],
+  "do_not_use": [
+    "Do not use ■ DO NOT USE IN OR NEAR THE EYES."
+  ],
+  "when_using": [
+    "IN CASE OF CONTACT, RINSE EYES THOROUGHLY WITH WATER. ■ IF SWALLOWED, GET MEDICAL HELP OR CONTACT A POISON CONTROL CENTER IMMEDIATELY"
+  ],
+  "stop_use": [
+    "■ STOP USE AND CONSULT WITH A PHYSICIAN IF IRRITATION DEVELOPS AND LASTS FOR MORE THAN 72 HOURS"
+  ],
+  "keep_out_of_reach_of_children": [
+    "■ KEEP OUT OF REACH OF CHILDREN"
+  ],
+  "dosage_and_administration": [
+    "Directions ■ DISPENSING. LIFT THE FRONT LID. OPEN PROTECTIVE SEAL. PULL OUT WIPE, RESEAL, AND CLOSE THE LID. ■ USE. WIPE HANDS THOROUGHLY. ■ DISPOSAL. DO NOT FLUSH. Directions of Use: 1. Open the lid and slowly peel back label.2. Pull out wipes as needed. 3. Reseal label to retain moisture."
+  ],
+  "storage_and_handling": [
+    "Other information STORAGE. STORE AT ROOM TEMPERATURE."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Glycerol, Hydrogen Peroxide, RO pure water"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Label - Principal Display Panel Alcohol Wipes(80pcs) 77665-104-01 Alcohol Wipes"
+  ],
+  "set_id": "0885cec4-deed-6aa8-e063-6294a90a9131",
+  "id": "35a0db62-c27d-7a8d-e063-6294a90ae829",
+  "effective_time": "20250521",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "Alcohol Wipes"
+    ],
+    "generic_name": [
+      "ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Guangzhou Baihua Co., Ltd."
+    ],
+    "product_ndc": [
+      "77665-104"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "1307051"
+    ],
+    "spl_id": [
+      "35a0db62-c27d-7a8d-e063-6294a90ae829"
+    ],
+    "spl_set_id": [
+      "0885cec4-deed-6aa8-e063-6294a90a9131"
+    ],
+    "package_ndc": [
+      "77665-104-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

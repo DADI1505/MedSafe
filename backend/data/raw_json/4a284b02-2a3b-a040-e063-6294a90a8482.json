@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Acne Cleanser Benzoyl peroxide WATER CETYL ALCOHOL PETROLATUM CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) ZINC LACTATE STEARETH-2 GLYCERIN POTASSIUM CETYL PHOSPHATE XANTHAN GUM BENZYL ALCOHOL EDETATE DISODIUM ANHYDROUS LAURETH-4 BUTYLATED HYDROXYTOLUENE SODIUM HYDROXIDE LACTIC ACID MENTHOL BENZOYL PEROXIDE BENZOYL PEROXIDE"
+  ],
+  "active_ingredient": [
+    "Active ingredient Benzoyl peroxide 10%"
+  ],
+  "purpose": [
+    "Purpose Acne medication"
+  ],
+  "indications_and_usage": [
+    "Use for the treatment of acne"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "do_not_use": [
+    "Do not use if you have very sensitive skin are sensitive to benzoyl peroxide"
+  ],
+  "when_using": [
+    "When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. avoid unnecessary sun exposure and use a sunscreen avoid contact with the eyes, lips and mouth avoid contact with hair and dyed fabrics, which may be bleached by this product skin irritation may occur, characterized by redness, burning, itching, peeling or possible swelling. Irritation may be reduced by using the product less frequently or in a lower concentration."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if irritation becomes severe"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Avoid contact with eyes. If contact occurs, flush thoroughly with water."
+  ],
+  "dosage_and_administration": [
+    "Directions wet face. Gently massage all over face for 20-30 seconds avoiding the eyes. Rinse thoroughly and pat dry. because excessive drying of the skin may occur, start with one application daily, then gradually increase to two or three times daily if needed or as directed by a doctor. if bothersome dryness or peeling occurs, reduce daily application to once a day or every other day. if going outside, apply sunscreen after using this product. If irritation or sensitivity develops stop use of both products and ask a doctor. Sensitivity Test for a New User . Apply product sparingly to one or two small affected areas, during the first 3 days. If no discomfort occurs, follow the directions stated above."
+  ],
+  "storage_and_handling": [
+    "Other information keep tightly closed store at room temperature (59⁰-77⁰F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, cetyl alcohol, petrolatum, acrylates/C10-30 alkyl acrylate crosspolymer, zinc lactate, steareth-2, glycerin, potassium cetyl phosphate, xanthan gum, benzyl alcohol, fragrance, disodium EDTA, laureth-4, BHT, sodium hydroxide, lactic acid, menthol"
+  ],
+  "adverse_reactions": [
+    "Adverse reaction Information: 1-888-287-1915 or Walmart.com/help Distributed by: Walmart Inc., Bentonville, AR 72716 Made in the USA with domestic and imported ingredients Factory Certified PLASTIC TUBE Do Not Recycle"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal display panel NDC 49035-264-56 equate™ DAILY ACNE CONTROL CLEANSER Benzoyl Peroxide 10% Acne Medication For Acne-Prone Skin Paraben-Free Keeps fighting acne even after you wash NET WT 5 OZ (141 g) image description"
+  ],
+  "set_id": "04514cbb-6041-4bd5-9ab9-31312b0d8f19",
+  "id": "4a284b02-2a3b-a040-e063-6294a90a8482",
+  "effective_time": "20260206",
+  "version": "16",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "Acne Cleanser"
+    ],
+    "generic_name": [
+      "BENZOYL PEROXIDE"
+    ],
+    "manufacturer_name": [
+      "Walmart, Inc."
+    ],
+    "product_ndc": [
+      "49035-264"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZOYL PEROXIDE"
+    ],
+    "rxcui": [
+      "142034"
+    ],
+    "spl_id": [
+      "4a284b02-2a3b-a040-e063-6294a90a8482"
+    ],
+    "spl_set_id": [
+      "04514cbb-6041-4bd5-9ab9-31312b0d8f19"
+    ],
+    "package_ndc": [
+      "49035-264-56"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "W9WZN9A0GM"
+    ]
+  }
+}

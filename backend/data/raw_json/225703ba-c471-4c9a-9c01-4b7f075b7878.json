@@ -1,0 +1,119 @@
+{
+  "spl_product_data_elements": [
+    "Kanka Triple Action BENZOCAINE and MENTHOL, UNSPECIFIED FORM BENZOCAINE BENZOCAINE MENTHOL, UNSPECIFIED FORM MENTHOL, UNSPECIFIED FORM POLYETHYLENE GLYCOL, UNSPECIFIED POLYETHYLENE GLYCOL 3350 SUCRALOSE PHENOXYETHANOL ASCORBYL PALMITATE THYMOL CETYLPYRIDINIUM CHLORIDE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredients Purpose Benzocaine 20.0% (w/w) Oral anesthetic/analgesic (oral pain reliever) Menthol 2.0% (w/w) Oral anesthetic/analgesic (oral pain reliever)"
+  ],
+  "active_ingredient_table": [
+    "<table width=\"60%\"><col width=\"40%\" align=\"left\" valign=\"top\"/><col width=\"60%\" align=\"right\" valign=\"top\"/><thead><tr><th><content styleCode=\"italics\">Active ingredients</content></th><th><content styleCode=\"italics\">Purpose</content></th></tr></thead><tbody><tr><td>Benzocaine 20.0% (w/w)</td><td>Oral anesthetic/analgesic (oral pain reliever)</td></tr><tr><td>Menthol 2.0% (w/w)</td><td>Oral anesthetic/analgesic (oral pain reliever)</td></tr></tbody></table>"
+  ],
+  "purpose": [
+    "Active ingredients Purpose Benzocaine 20.0% (w/w) Oral anesthetic/analgesic (oral pain reliever) Menthol 2.0% (w/w) Oral anesthetic/analgesic (oral pain reliever)"
+  ],
+  "purpose_table": [
+    "<table width=\"60%\"><col width=\"40%\" align=\"left\" valign=\"top\"/><col width=\"60%\" align=\"right\" valign=\"top\"/><thead><tr><th><content styleCode=\"italics\">Active ingredients</content></th><th><content styleCode=\"italics\">Purpose</content></th></tr></thead><tbody><tr><td>Benzocaine 20.0% (w/w)</td><td>Oral anesthetic/analgesic (oral pain reliever)</td></tr><tr><td>Menthol 2.0% (w/w)</td><td>Oral anesthetic/analgesic (oral pain reliever)</td></tr></tbody></table>"
+  ],
+  "indications_and_usage": [
+    "Uses for the temporary relief of pain associated with canker sores, minor irritation of the mouth and gums caused by dentures or orthodontic appliances, or minor injury of the mouth or gums."
+  ],
+  "warnings": [
+    "Warnings METHEMOGLOBINEMIA WARNING Use of this product may cause methemoglobinemia, a serious condition that must be treated promptly because it reduces the amount of oxygen carried in blood. This can occur even if you have used this product before. Stop use and seek immediate medical attention if you or a child in your care develops: pale, gray, or blue colored skin (cyanosis) headache rapid heart rate shortness of breath dizziness or lightheadedness fatigue or lack of energy Allergy alert do not use this product if you have a history of allergy to local anesthetics such as procaine, butacaine, benzocaine, or other \"caine\" anesthetics. Do not use for teething in children under 2 years of age When using this product do not use this product for more than 7 days unless directed by a dentist or doctor. If sore mouth symptoms do not improve in 7 days; if irritation, pain, or redness persists or worsens; or if swelling, rash or fever develops, see your dentist or doctor promptly. do not exceed recommended dosage. Keep out of reach of children. If more than used for pain is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use for teething in children under 2 years of age"
+  ],
+  "when_using": [
+    "When using this product do not use this product for more than 7 days unless directed by a dentist or doctor. If sore mouth symptoms do not improve in 7 days; if irritation, pain, or redness persists or worsens; or if swelling, rash or fever develops, see your dentist or doctor promptly. do not exceed recommended dosage."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If more than used for pain is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 2 years of age and older Apply to affected area up to 4 times daily or as directed by a dentist or doctor Children between 2 and 12 years of age Ask a doctor before use. Should be supervised in the use of this product Children under 2 years of age Do not use"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"60%\"><col width=\"50%\" align=\"left\" valign=\"top\"/><col width=\"50%\" align=\"left\" valign=\"top\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">Adults and children 2 years of age and older</td><td>Apply to affected area up to 4 times daily or as directed by a dentist or doctor</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">Children between 2 and 12 years of age</td><td>Ask a doctor before use. Should be supervised in the use of this product</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">Children under 2 years of age</td><td>Do not use</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information www.kank-a.com"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients ascorbyl palmitate, cetylpyridinium chloride, PEG-75, phenoxyethanol, polyethylene glycol, sucralose, thymol"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 11.9 g Tube Carton MAXIMUM STRENGTH KANKA ® TRIPLE ACTION GEL ORAL PAIN RELIEVER Mouth Pain Relief for Canker Sores Net Wt. 0.42 oz. (11.9 g) Principal Display Panel - 11.9 g Tube Carton"
+  ],
+  "set_id": "078fcdab-38a1-4a9a-bdd3-e17446591ea8",
+  "id": "225703ba-c471-4c9a-9c01-4b7f075b7878",
+  "effective_time": "20250109",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M022"
+    ],
+    "brand_name": [
+      "Kanka Triple Action"
+    ],
+    "generic_name": [
+      "BENZOCAINE AND MENTHOL, UNSPECIFIED FORM"
+    ],
+    "manufacturer_name": [
+      "Blistex Inc."
+    ],
+    "product_ndc": [
+      "10157-2127"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BENZOCAINE",
+      "MENTHOL, UNSPECIFIED FORM"
+    ],
+    "rxcui": [
+      "1006079"
+    ],
+    "spl_id": [
+      "225703ba-c471-4c9a-9c01-4b7f075b7878"
+    ],
+    "spl_set_id": [
+      "078fcdab-38a1-4a9a-bdd3-e17446591ea8"
+    ],
+    "package_ndc": [
+      "10157-2127-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0041388013145"
+    ],
+    "nui": [
+      "N0000185508",
+      "N0000175629",
+      "N0000184306",
+      "M0000728"
+    ],
+    "pharm_class_epc": [
+      "Standardized Chemical Allergen [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]"
+    ],
+    "unii": [
+      "U3RSY48JW5",
+      "L7T10EIP3A"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "spl_product_data_elements": [
+    "Pulsatilla Nigricans Pulsatilla Nigricans PULSATILLA PRATENSIS WHOLE PULSATILLA PRATENSIS WHOLE SUCROSE Pulsatilla Nigricans Pulsatilla Nigricans PULSATILLA PRATENSIS WHOLE PULSATILLA PRATENSIS WHOLE SUCROSE Pulsatilla Nigricans Pulsatilla Nigricans PULSATILLA PRATENSIS WHOLE PULSATILLA PRATENSIS WHOLE SUCROSE Pulsatilla Nigricans Pulsatilla Nigricans PULSATILLA PRATENSIS WHOLE PULSATILLA PRATENSIS WHOLE SUCROSE Pulsatilla Nigricans Pulsatilla Nigricans PULSATILLA PRATENSIS WHOLE PULSATILLA PRATENSIS WHOLE SUCROSE Pulsatilla Nigricans Pulsatilla Nigricans PULSATILLA PRATENSIS WHOLE PULSATILLA PRATENSIS WHOLE SUCROSE Pulsatilla Nigricans Pulsatilla Nigricans PULSATILLA PRATENSIS WHOLE PULSATILLA PRATENSIS WHOLE SUCROSE Pulsatilla Nigricans Pulsatilla Nigricans PULSATILLA PRATENSIS WHOLE PULSATILLA PRATENSIS WHOLE SUCROSE Pulsatilla Nigricans Pulsatilla Nigricans PULSATILLA PRATENSIS WHOLE PULSATILLA PRATENSIS WHOLE SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Pulsatilla Nigricans 6C 5g Pulsatilla Nigricans 6C 30g Pulsatilla Nigricans 6C 100g Pulsatilla Nigricans 12C 5g Pulsatilla Nigricans 12C 30g Pulsatilla Nigricans 12C 100g Pulsatilla Nigricans 30C 1g Pulsatilla Nigricans 30C 5g Pulsatilla Nigricans 30C 30g Pulsatilla Nigricans 30C 100g Pulsatilla Nigricans 100C 1g Pulsatilla Nigricans 100C 5g Pulsatilla Nigricans 100C 30g Pulsatilla Nigricans 100C 100g Pulsatilla Nigricans 200C 1g Pulsatilla Nigricans 200C 5g Pulsatilla Nigricans 200C 30g Pulsatilla Nigricans 200C 100g Pulsatilla Nigricans 500C 1g Pulsatilla Nigricans 500C 5g Pulsatilla Nigricans 500C 30g Pulsatilla Nigricans 500C 100g Pulsatilla Nigricans 1M 1g Pulsatilla Nigricans 1M 5g Pulsatilla Nigricans 1M 30g Pulsatilla Nigricans 1M 100g Pulsatilla Nigricans 10M 1g Pulsatilla Nigricans 10M 5g Pulsatilla Nigricans 10M 30g Pulsatilla Nigricans 10M 100g Pulsatilla Nigricans LM1 30g"
+  ],
+  "set_id": "063800f4-7ae7-0e3f-e063-6294a90a537a",
+  "id": "063800f4-7ae8-0e3f-e063-6294a90a537a",
+  "effective_time": "20230925",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Pulsatilla Nigricans"
+    ],
+    "generic_name": [
+      "PULSATILLA NIGRICANS"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-4015",
+      "37662-4019",
+      "37662-4020",
+      "37662-4021",
+      "37662-4016",
+      "37662-4017",
+      "37662-4022",
+      "37662-4018",
+      "37662-4023"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PULSATILLA PRATENSIS WHOLE"
+    ],
+    "spl_id": [
+      "063800f4-7ae8-0e3f-e063-6294a90a537a"
+    ],
+    "spl_set_id": [
+      "063800f4-7ae7-0e3f-e063-6294a90a537a"
+    ],
+    "package_ndc": [
+      "37662-4015-1",
+      "37662-4015-2",
+      "37662-4015-3",
+      "37662-4019-1",
+      "37662-4019-2",
+      "37662-4019-3",
+      "37662-4019-4",
+      "37662-4020-1",
+      "37662-4020-2",
+      "37662-4020-3",
+      "37662-4020-4",
+      "37662-4021-1",
+      "37662-4021-2",
+      "37662-4021-3",
+      "37662-4021-4",
+      "37662-4016-1",
+      "37662-4016-2",
+      "37662-4016-3",
+      "37662-4017-1",
+      "37662-4017-2",
+      "37662-4017-3",
+      "37662-4017-4",
+      "37662-4022-1",
+      "37662-4022-2",
+      "37662-4022-3",
+      "37662-4022-4",
+      "37662-4018-1",
+      "37662-4018-2",
+      "37662-4018-3",
+      "37662-4018-4",
+      "37662-4023-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8E272251DI"
+    ]
+  }
+}

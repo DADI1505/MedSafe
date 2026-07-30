@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "Oil Free Daily Face EQB Salicylic Acid 2% WATER POTASSIUM HYDROXIDE PALMITIC ACID MENTHOL POLYQUATERNIUM-10 (1000 MPA.S AT 2%) LAURIC ACID ETIDRONATE TETRASODIUM PHENOXYETHANOL SODIUM BENZOATE POTASSIUM SORBATE EDETATE SODIUM PENTASODIUM PENTETATE SALICYLIC ACID SALICYLIC ACID SODIUM LAUROYL SARCOSINATE STEARIC ACID ALOE MALTODEXTRIN GLYCERIN MYRISTIC ACID TRIETHYLENE GLYCOL"
+  ],
+  "active_ingredient": [
+    "Active Ingreient Purpose Salicylic acid 2% ................................ Acne medication"
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    "Use for the treatment of acne"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "when_using": [
+    "When using this product avoid contact with the eyes. If product gets into the eyes rinse thoroughly w􀃰h water. skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. limit use to the face and neck"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if skin or eye irritation develops"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison"
+  ],
+  "dosage_and_administration": [
+    "Directions wet face dispense product into hands and massage gently onto face and neck, avoiding the delicate eye area cover the entire affected area with a thin layer and rinse thoroughly with warm water one to three times daily because excessive drying of the skin may occur, start with one application daily, then gradually increase to two or three times daily if needed or as directed by a doctor if bothersome dryness or peeling occurs, reduce application to once a day or every other day"
+  ],
+  "other_safety_information": [
+    "Other information keep tightly closed store in a cool, dry place"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients aloe barbadensis leaf juice, fragrance, glycerin, lauric acid, maltodextrin, menthol, myristic acid, palmitic acid, phenoxyethanol, pentasodium pentetate, polyquaternium-10, potassium hydroxide, sodium lauroyl sarcosinate, stearic acid, tetrasodium EDTA, tetrasodium etidronate, triethylene glycol, water."
+  ],
+  "package_label_principal_display_panel": [
+    "tube"
+  ],
+  "set_id": "039d3187-b8d6-3613-e063-6294a90a9b15",
+  "id": "48dbccc5-0a44-6bba-e063-6394a90ae1da",
+  "effective_time": "20260120",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "Oil Free Daily Face EQB"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID 2%"
+    ],
+    "manufacturer_name": [
+      "Walmart"
+    ],
+    "product_ndc": [
+      "79903-208"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "562600"
+    ],
+    "spl_id": [
+      "48dbccc5-0a44-6bba-e063-6394a90ae1da"
+    ],
+    "spl_set_id": [
+      "039d3187-b8d6-3613-e063-6294a90a9b15"
+    ],
+    "package_ndc": [
+      "79903-208-07"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

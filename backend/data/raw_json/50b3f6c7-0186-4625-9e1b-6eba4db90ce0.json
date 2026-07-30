@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "Dercos Salicylic Acid Anti-Dandruff Serum Salicylic Acid SALICYLIC ACID SALICYLIC ACID WATER ALCOHOL AMINOMETHYLPROPANOL ASCORBYL GLUCOSIDE MADECASSOSIDE NIACINAMIDE POLYOXYL 40 HYDROGENATED CASTOR OIL POLYSORBATE 21 HYALURONATE SODIUM"
+  ],
+  "active_ingredient": [
+    "Active ingredient Salicylic acid 1.85%"
+  ],
+  "purpose": [
+    "Purpose Antidandruff"
+  ],
+  "indications_and_usage": [
+    "Uses controls the symptoms of dandruff fights recurrence of the symptoms of dandruff controls scalp itching associated with dandruff"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "when_using": [
+    "When using this product Avoid contact with the eyes. If contact occurs, rinse eyes thoroughly with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions part dry or damp hair in 4 sections apply 5 doses to each section massage product into scalp apply to affected areas one to four times daily or as directed by a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, alcohol denat., aminomethyl propanol, ascorbyl glucoside, madecassoside, niacinamide, PEG-40 hydrogenated castor oil, polysorbate 21, sodium hyaluronate, fragrance"
+  ],
+  "questions": [
+    "Questions or comments? 1-877-378-4249 Monday-Friday (9 a.m. - 5 p.m. EST)"
+  ],
+  "package_label_principal_display_panel": [
+    "image of carton"
+  ],
+  "set_id": "024f9299-ee6c-48e3-89e7-96b7db060c30",
+  "id": "50b3f6c7-0186-4625-9e1b-6eba4db90ce0",
+  "effective_time": "20240620",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M032"
+    ],
+    "brand_name": [
+      "Dercos Salicylic Acid Anti-Dandruff Serum"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID"
+    ],
+    "manufacturer_name": [
+      "PRODUCTOS CAPILARES L'OREAL SA"
+    ],
+    "product_ndc": [
+      "83342-892"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "2697740"
+    ],
+    "spl_id": [
+      "50b3f6c7-0186-4625-9e1b-6eba4db90ce0"
+    ],
+    "spl_set_id": [
+      "024f9299-ee6c-48e3-89e7-96b7db060c30"
+    ],
+    "package_ndc": [
+      "83342-892-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

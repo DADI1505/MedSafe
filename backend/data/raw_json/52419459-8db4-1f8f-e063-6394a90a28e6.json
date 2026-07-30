@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "Sunski Hot Block Mineral Sunscreen Stick SPF 50 ZINC OXIDE MURRAYA PANICULATA STEM BARK POLYHYDROXYSTEARIC ACID (2300 MW) ALKYL (C12-15) BENZOATE MEDIUM-CHAIN TRIGLYCERIDES HELIANTHUS ANNUUS SEED WAX ISOSTEARYL ISOSTEARATE TRIBEHENIN DIISOSTEARYL MALATE BUTYLOCTYL SALICYLATE SILICON DIOXIDE OCTYLDODECANOL SAFFLOWER OIL STEARALKONIUM BENTONITE SOYBEAN OIL CALCIUM ALUMINUM BOROSILICATE ISOSTEARIC ACID CAPRYLYL GLYCOL PROPYLENE CARBONATE POLYGLYCERYL-3 DIISOSTEARATE RICE GERM ETHYLHEXYL PALMITATE TRIHYDROXYSTEARIN HYALURONATE SODIUM KONJAC MANNAN ZINC OXIDE ZINC CATION"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other Information Protect the product in this container from excessive heat and direct sun"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Zinc Oxide 17.53% Purpose Sunscreen"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses • Helps prevent sunburn • If used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "warnings": [
+    "Warnings For external use only Do you use on damaged or broken skin When using this product Keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do you use on damaged or broken skin"
+  ],
+  "when_using": [
+    "When using this product Keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions • Apply liberally and evenly 15 minutes before sun exposure. • Reapply: • After 40 minutes of swimming or sweating • Immediately after towel drying • At least every two hours • Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with Broad Spectrum SPF of 15 or higher and other sun protection measures including: • Limit time in the sun, especially from 10 a.m.–2 p.m. • Wear long-sleeve shirts, pants, hats, and sunglasses • Children under 6 months: Ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Helianthus Annuus (Sunflower) Seed Wax, Isostearyl Isostearate, Tribehenin, Diisostearyl Malate, Butyloctyl Salicylate, Silica, Octyldodecanol, Carthamus Tinctorius (Safflower) Seed Oil, Polyhydroxystearic Acid, Stearalkonium Bentonite, Glycine Soja (Soybean) Oil, Hesperetinusa Cremulata Bark Extract, Calcium Aluminum Borosilicate, Isostearic Acid, Polyglyceryl-3 Polyricinoleate, Lecithin, Caprylyl Glycol, Propylene Carbonate, Polyglyceryl-3 Diisostearate, Oryza Sativa (Rice) Germ Extract, Oryza Sativa (Rice) Extract, Ethylhexyl Palmitate, Trihydroxystearin, Sodium Hyaluronate, Glucomannan"
+  ],
+  "questions": [
+    "Questions or Comments? Contact: hello@sunski.com"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Outer Label Inner Label"
+  ],
+  "set_id": "04ecc5e7-0d9e-4bc7-b964-4cbcc6ed06a8",
+  "id": "52419459-8db4-1f8f-e063-6394a90a28e6",
+  "effective_time": "20260520",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Sunski Hot Block Mineral Sunscreen Stick SPF 50"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Stewart Charley Ventures LLC dba Sunski"
+    ],
+    "product_ndc": [
+      "87626-003"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "52419459-8db4-1f8f-e063-6394a90a28e6"
+    ],
+    "spl_set_id": [
+      "04ecc5e7-0d9e-4bc7-b964-4cbcc6ed06a8"
+    ],
+    "package_ndc": [
+      "87626-003-00"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0759159717955"
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

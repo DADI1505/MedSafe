@@ -1,0 +1,104 @@
+{
+  "spl_product_data_elements": [
+    "Lyme Disease Support 1 Alumen, Calcarea carbonica, DNA, Ferrum phosphoricum, Hepar sulphuris calcareum, Kali carbonicum, Kali muriaticum, Kali sulphuricum, Magnesia phosphorica, Natrum muriaticum, Natrum phosphoricum, RNA, Silicea. ALCOHOL GLYCERIN WATER POTASSIUM ALUM ALUMINUM HYDROXIDE OYSTER SHELL CALCIUM CARBONATE, CRUDE OYSTER SHELL CALCIUM CARBONATE, CRUDE HERRING SPERM DNA HERRING SPERM DNA FERROSOFERRIC PHOSPHATE FERROSOFERRIC PHOSPHATE CALCIUM SULFIDE CALCIUM SULFIDE POTASSIUM CARBONATE CARBONATE ION POTASSIUM CHLORIDE POTASSIUM CATION POTASSIUM SULFATE POTASSIUM CATION MAGNESIUM PHOSPHATE, DIBASIC TRIHYDRATE MAGNESIUM CATION SODIUM CHLORIDE CHLORIDE ION SODIUM PHOSPHATE, DIBASIC, HEPTAHYDRATE PHOSPHATE ION SACCHAROMYCES CEREVISIAE RNA SACCHAROMYCES CEREVISIAE RNA SILICON DIOXIDE SILICON DIOXIDE"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: Equal amounts of: Alumen 12X, Calcarea carbonica 6X, DNA 4C, Ferrum phosphoricum 6X, Hepar sulphuris calcareum 6X, Kali carbonicum 6X, Kali muriaticum 6X, Kali sulphuricum 6X, Magnesia phosphorica 6X, Natrum muriaticum 6X, Natrum phosphoricum 6X, RNA 4C, Silicea 12X."
+  ],
+  "indications_and_usage": [
+    "USES: Supports the immune systems response to Lyme disease symptoms.* * ​Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS: iF PREGNANT OR BREAST-FEEDING, ask a health care professional before use. If symptoms worsen or persist for more than a week, discontinue use and contact a doctor. ​KEEP OUT OF REACH OF CHILDREN."
+  ],
+  "keep_out_of_reach_of_children": [
+    "​KEEP OUT OF REACH OF CHILDREN."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Shake bottle 10 times prior to each use. Adults & children above 12 years of age: Take 10 drops under the tongue 3 times per day or as directed by a health care practioner. Children under 12: Consult a health care provider."
+  ],
+  "other_safety_information": [
+    "Do not use if cap seal is broken."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Ethanol Alcohol 15% (non-GMO, Kosher Certified, Cane, Gluten, Allergen Free), Vegetable Glycerin 15%, Purified Water."
+  ],
+  "questions": [
+    "Mfg. By: OHM PHARMA, INC. Mineral Wells, TX 76067 www.ohmpharma.com"
+  ],
+  "package_label_principal_display_panel": [
+    "HOMEOPATHIC MEDICINE NDC: 66096-722-05 LYME DISEASE Support #1 Natural - Safe - Effective No Side Effects 2 fl oz (59mL) / 15% Alcohol PRODUCT OF USA 2oz bottle label Supports the immune systems response to Lyme disease symptom"
+  ],
+  "purpose": [
+    "Supports the immune systems response to Lyme disease symptom"
+  ],
+  "set_id": "035e75d6-aeef-4dfd-b076-9d3d8e4a5086",
+  "id": "d44b40e1-a611-4469-e053-2a95a90aa702",
+  "effective_time": "20211229",
+  "version": "4",
+  "openfda": {
+    "brand_name": [
+      "Lyme Disease Support 1"
+    ],
+    "generic_name": [
+      "ALUMEN, CALCAREA CARBONICA, DNA, FERRUM PHOSPHORICUM, HEPAR SULPHURIS CALCAREUM, KALI CARBONICUM, KALI MURIATICUM, KALI SULPHURICUM, MAGNESIA PHOSPHORICA, NATRUM MURIATICUM, NATRUM PHOSPHORICUM, RNA, SILICEA."
+    ],
+    "manufacturer_name": [
+      "OHM PHARMA INC."
+    ],
+    "product_ndc": [
+      "66096-722"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "POTASSIUM ALUM",
+      "OYSTER SHELL CALCIUM CARBONATE, CRUDE",
+      "HERRING SPERM DNA",
+      "FERROSOFERRIC PHOSPHATE",
+      "CALCIUM SULFIDE",
+      "POTASSIUM CARBONATE",
+      "POTASSIUM CHLORIDE",
+      "POTASSIUM SULFATE",
+      "MAGNESIUM PHOSPHATE, DIBASIC TRIHYDRATE",
+      "SODIUM CHLORIDE",
+      "SODIUM PHOSPHATE, DIBASIC, HEPTAHYDRATE",
+      "SACCHAROMYCES CEREVISIAE RNA",
+      "SILICON DIOXIDE"
+    ],
+    "spl_id": [
+      "d44b40e1-a611-4469-e053-2a95a90aa702"
+    ],
+    "spl_set_id": [
+      "035e75d6-aeef-4dfd-b076-9d3d8e4a5086"
+    ],
+    "package_ndc": [
+      "66096-722-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0366096722050"
+    ],
+    "unii": [
+      "1L24V9R23S",
+      "2E32821G6I",
+      "51FI676N6F",
+      "91GQH8I5F7",
+      "1MBW07J51Q",
+      "BQN1B9B9HA",
+      "660YQ98I10",
+      "1K573LC5TV",
+      "HF539G9L3Q",
+      "451W47IQ8X",
+      "70WT22SF4B",
+      "J17GBZ5VGX",
+      "ETJ7Z6XBU4"
+    ]
+  }
+}

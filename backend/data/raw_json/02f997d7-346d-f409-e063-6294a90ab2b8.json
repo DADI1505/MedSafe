@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Sarracenia Purpurea Sarracenia Purpurea SARRACENIA PURPUREA SARRACENIA PURPUREA SUCROSE Sarracenia Purpurea Sarracenia Purpurea SARRACENIA PURPUREA SARRACENIA PURPUREA SUCROSE Sarracenia Purpurea Sarracenia Purpurea SARRACENIA PURPUREA SARRACENIA PURPUREA SUCROSE Sarracenia Purpurea Sarracenia Purpurea SARRACENIA PURPUREA SARRACENIA PURPUREA SUCROSE Sarracenia Purpurea Sarracenia Purpurea SARRACENIA PURPUREA SARRACENIA PURPUREA SUCROSE Sarracenia Purpurea Sarracenia Purpurea SARRACENIA PURPUREA SARRACENIA PURPUREA SUCROSE Sarracenia Purpurea Sarracenia Purpurea SARRACENIA PURPUREA SARRACENIA PURPUREA SUCROSE Sarracenia Purpurea Sarracenia Purpurea SARRACENIA PURPUREA SARRACENIA PURPUREA SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Sarracenia Purpurea 6C 5g Sarracenia Purpurea 6C 30g Sarracenia Purpurea 6C 100g Sarracenia Purpurea 12C 5g Sarracenia Purpurea 12C 30g Sarracenia Purpurea 12C 100g Sarracenia Purpurea 30C 1g Sarracenia Purpurea 30C 5g Sarracenia Purpurea 30C 30g Sarracenia Purpurea 30C 100g Sarracenia Purpurea 100C 1g Sarracenia Purpurea 100C 5g Sarracenia Purpurea 100C 30g Sarracenia Purpurea 100C 100g Sarracenia Purpurea 200C 1g Sarracenia Purpurea 200C 5g Sarracenia Purpurea 200C 30g Sarracenia Purpurea 200C 100g Sarracenia Purpurea 500C 1g Sarracenia Purpurea 500C 5g Sarracenia Purpurea 500C 30g Sarracenia Purpurea 500C 100g Sarracenia Purpurea 1M 1g Sarracenia Purpurea 1M 5g Sarracenia Purpurea 1M 30g Sarracenia Purpurea 1M 100g Sarracenia Purpurea LM1 30g"
+  ],
+  "set_id": "02f98d26-0e40-01e4-e063-6394a90a7620",
+  "id": "02f997d7-346d-f409-e063-6294a90ab2b8",
+  "effective_time": "20230815",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Sarracenia Purpurea"
+    ],
+    "generic_name": [
+      "SARRACENIA PURPUREA"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3809",
+      "37662-3811",
+      "37662-3813",
+      "37662-3810",
+      "37662-3812",
+      "37662-3814",
+      "37662-3816",
+      "37662-3815"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SARRACENIA PURPUREA"
+    ],
+    "spl_id": [
+      "02f997d7-346d-f409-e063-6294a90ab2b8"
+    ],
+    "spl_set_id": [
+      "02f98d26-0e40-01e4-e063-6394a90a7620"
+    ],
+    "package_ndc": [
+      "37662-3811-1",
+      "37662-3811-2",
+      "37662-3811-3",
+      "37662-3811-4",
+      "37662-3813-1",
+      "37662-3813-2",
+      "37662-3813-3",
+      "37662-3813-4",
+      "37662-3809-1",
+      "37662-3809-2",
+      "37662-3809-3",
+      "37662-3810-1",
+      "37662-3810-2",
+      "37662-3810-3",
+      "37662-3812-1",
+      "37662-3812-2",
+      "37662-3812-3",
+      "37662-3812-4",
+      "37662-3814-1",
+      "37662-3814-2",
+      "37662-3814-3",
+      "37662-3814-4",
+      "37662-3816-1",
+      "37662-3815-1",
+      "37662-3815-2",
+      "37662-3815-3",
+      "37662-3815-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "FOP08H143P"
+    ]
+  }
+}

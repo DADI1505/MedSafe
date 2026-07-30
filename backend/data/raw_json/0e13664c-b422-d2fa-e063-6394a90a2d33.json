@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "CETIRIZINE HYDROCHLORIDE 10 MG CETIRIZINE HYDROCHLORIDE SILICON DIOXIDE CROSCARMELLOSE SODIUM HYPROMELLOSE 2208 (100 MPA.S) LACTOSE MONOHYDRATE MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL 1000 TITANIUM DIOXIDE CETIRIZINE HYDROCHLORIDE CETIRIZINE G4"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each tablet) Cetirizine Hydrochloride 10 mg Purpose Antihistamine"
+  ],
+  "purpose": [
+    "Purpose Antihistamine"
+  ],
+  "indications_and_usage": [
+    "Uses Temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat"
+  ],
+  "warnings": [
+    "Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyine. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives. When using this product: drowsiness may occur avoid alcoholic drinks alcohol, sedatives and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding: if breast-feeding: not recommended if pregnant: ask a health professional before use"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)"
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 6 years and over take one 10 mg tablet oncedaily; do not take more than one 10mg tablet in 24 hours. A 5mg product may be appropriate for less severe symptoms. adults 65 years and older ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"100%\"><caption/><tbody><tr><td><content styleCode=\"bold\">adults and children 6 years and over</content></td><td>take one 10 mg tablet oncedaily; do not take more than one 10mg tablet in 24 hours. A 5mg product may be appropriate for less severe symptoms.</td></tr><tr><td><content styleCode=\"bold\">adults 65 years and older</content></td><td>ask a doctor</td></tr><tr><td><content styleCode=\"bold\">children under 6 years of age</content></td><td>ask a doctor</td></tr><tr><td><content styleCode=\"bold\">consumers with liver or kidney disease</content></td><td>ask a doctor</td></tr></tbody></table>"
+  ],
+  "other_safety_information": [
+    "Other information store between 20° and 25°C (68° and 77°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients colloidal silicon dioxide, croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, titanium dioxide"
+  ],
+  "questions": [
+    "Questions? call toll-free 1-866-933-6337"
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "01b LBL_Cetrizine Hydrochloride_10mg 01b DF1_Cetrizine Hydrochloride_10mg 01b DF2_Cetrizine Hydrochloride_10mg"
+  ],
+  "set_id": "0502f197-21e1-44f2-b621-c8df1ccd956e",
+  "id": "0e13664c-b422-d2fa-e063-6394a90a2d33",
+  "effective_time": "20240103",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "ANDA209274"
+    ],
+    "brand_name": [
+      "CETIRIZINE HYDROCHLORIDE 10 MG"
+    ],
+    "generic_name": [
+      "CETIRIZINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "YYBA CORP"
+    ],
+    "product_ndc": [
+      "73581-202"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CETIRIZINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1014678"
+    ],
+    "spl_id": [
+      "0e13664c-b422-d2fa-e063-6394a90a2d33"
+    ],
+    "spl_set_id": [
+      "0502f197-21e1-44f2-b621-c8df1ccd956e"
+    ],
+    "package_ndc": [
+      "73581-202-01",
+      "73581-202-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "64O047KTOA"
+    ]
+  }
+}

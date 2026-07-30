@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "Percy Medicine Bismuth Subsalicylate WATER CALCIUM HYDROXIDE CITRIC ACID MONOHYDRATE ALCOHOL GLYCERIN ACACIA ORANGE OIL CINNAMON OIL POTASSIUM CARBONATE RHUBARB SUCROSE BISMUTH SUBSALICYLATE SALICYLIC ACID"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active Ingredient Active Ingredients Bismuth Subsalicylate"
+  ],
+  "purpose": [
+    "Purpose Antidiarrheal"
+  ],
+  "warnings": [
+    "Warnings Children and teenagers that have or are recovering from Chicken Pox, flu systems, or flue should NOT use this product. If nausea, vomiting, or fever occur, consult a doctor because these symptoms could be an early sign of Reye Syndrome, a rare but serious condition. Allergy Alert: Contains Salicylates. Do Not take if you are - allergic to salicylates (including aspirin) - taking other salicylate products. Do not use if you have - blood or black stool - an ulcer - bleeding problem. Ask a doctor before use if you are taking any drug for anti coagulation (thinning of the blood), diabetes,gout, arthritis. - When using this product a temporary but harmless darkening of the stool and/or tongue may occur. Stop use and consult a doctor if - symptoms get worse - ringing in the ears or loss of hearing occurs - diarrhea lasts more that 2 days. if pregnant or breast feeding ask a professional before use . In case of accidental overdose, get medical help or contact a Poison Control Center immediately."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients INACTIVE INGREDIENTS: CALCIUM HYDROXIDE, CITRIC ACID, ETHYL ALCOHOL, GLYCERINE, GUM ARABIC, OIL OF CINNAMON, OIL OF ORANGE, POTASSIUM CARBONATE, RHUBARB FLUID EXTRACT, SUGAR, PURIFIED WATER"
+  ],
+  "dosage_and_administration": [
+    "Directions (shake well before using) Adults and children 12 yrs and over : 2 teaspoonfuls every hour as needed , not to exceed 4 doses in 24 hours and not more than 2 days. Children under 12: Consult a doctor."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Keep out of reach of children."
+  ],
+  "indications_and_usage": [
+    "Uses: Relieves diarrhea, reduces number of bowel movements. Helps firm stool. Relieves nausea, heartburn, fullness due to overindulgence of food and drink."
+  ],
+  "package_label_principal_display_panel": [
+    "Package Label ======================================================= PERCY MEDICINE FOR DIARRHEA MANUFACTURED FOR MERRICK MEDICINE COMPANY WACO, TEXAS 76703 info@percymedicine.net 1-254-753-3461 Carton Label Bottle Label res PercyMed Crtn PercyMed Box"
+  ],
+  "set_id": "08dd53b7-8345-4849-9155-60429cbe2c51",
+  "id": "920b3bd5-7ef1-43b7-a7ce-015b880f4b41",
+  "effective_time": "20251111",
+  "version": "14",
+  "openfda": {
+    "application_number": [
+      "M008"
+    ],
+    "brand_name": [
+      "Percy Medicine"
+    ],
+    "generic_name": [
+      "BISMUTH SUBSALICYLATE"
+    ],
+    "manufacturer_name": [
+      "Merrick Medicine Company, Inc"
+    ],
+    "product_ndc": [
+      "0322-2222"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "BISMUTH SUBSALICYLATE"
+    ],
+    "rxcui": [
+      "616343",
+      "1233767"
+    ],
+    "spl_id": [
+      "920b3bd5-7ef1-43b7-a7ce-015b880f4b41"
+    ],
+    "spl_set_id": [
+      "08dd53b7-8345-4849-9155-60429cbe2c51"
+    ],
+    "package_ndc": [
+      "0322-2222-03",
+      "0322-2222-00",
+      "0322-2222-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "M0002611",
+      "N0000180183"
+    ],
+    "pharm_class_cs": [
+      "Bismuth [CS]"
+    ],
+    "pharm_class_epc": [
+      "Bismuth [EPC]"
+    ],
+    "unii": [
+      "62TEY51RR1"
+    ]
+  }
+}

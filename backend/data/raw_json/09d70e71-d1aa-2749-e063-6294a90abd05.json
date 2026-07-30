@@ -1,0 +1,109 @@
+{
+  "spl_product_data_elements": [
+    "SUPER BLUE STUFF Pain Relief Cream MENTHOL CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) ALOE VERA LEAF CHAMAEMELUM NOBILE FLOWER OIL WATER ARNICA MONTANA FLOWER ASCORBYL PALMITATE CALENDULA OFFICINALIS FLOWER CAPRYLYL GLYCOL CENTAUREA CYANUS FLOWER CORIANDER OIL EMU OIL HAMAMELIS VIRGINIANA TOP LAMIUM ALBUM WHOLE DIMETHYL SULFONE PHENOXYETHANOL SALIX NIGRA BARK SODIUM COCOYL ISETHIONATE SODIUM HYDROXIDE SORBITOL EDETATE SODIUM TILIA CORDATA WHOLE .ALPHA.-TOCOPHEROL ACETATE VITIS VINIFERA SEED FD&C BLUE NO. 1 MENTHOL MENTHOL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient: Menthol, USP (1.4%) Purpose: Topical Analgesic"
+  ],
+  "purpose": [
+    "Purpose: Topical Analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses: Temporary relief of minor aches and pains associated with arthritis, simple backache, sprains, strains and bruises."
+  ],
+  "warnings": [
+    "Warnings: For external use only. Do not use on wounded, damaged or irritated skin. When using this product avoid contact with eyes or mucous membranes, do not bandage tightly. Stop use and ask a doctor if you experience a rash and/or a reaction, condition worsens, or if symptoms persist for more than 10 days or clears up and occurs again within a few days. If Pregnant or Breast-Feeding ask a health professional before use. Consult a doctor before use on children under 12 if arthritis conditions are present. For all other listed uses, consult a doctor before use on children under 2. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on wounded, damaged or irritated skin."
+  ],
+  "when_using": [
+    "When using this product avoid contact with eyes or mucous membranes, do not bandage tightly."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if you experience a rash and/or a reaction, condition worsens, or if symptoms persist for more than 10 days or clears up and occurs again within a few days."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If Pregnant or Breast-Feeding ask a health professional before use."
+  ],
+  "ask_doctor": [
+    "Consult a doctor before use on children under 12 if arthritis conditions are present. For all other listed uses, consult a doctor before use on children under 2."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions: Apply to affected area not more than 3 or 4 time a day."
+  ],
+  "spl_unclassified_section": [
+    "Other Information: Store at room temperature."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aloe Barbadensis Leaf(Aloe Vera Gel)Juice, Anthemis Nobilis (Roman Chamomile) Oil, Aqua (Deionized Water), Arnica Montana Flower Extract, Ascorbyl Palmitate (Vitamin C), Calendula Officinalis Extract, Caprylyl Glycol, Centraurea Cyanus (Cornflower) Extract, Coriandrum Sativum (Coriander) Oil, Emu Oil, Hamamelis Virginiana (Witch Hazel), Lamium Album (White Nettle) Extract, Methylsulfonylmethane (MSM), Parfum (Fragrance), Phenoxyethanol, Sali Nigra (Willow) Bark Extract, Sodium Cocoyl Isethionate, Sodium Hydroxide, Sorbitol, Tetrasodium EDTA, Tilia Cordata (Linden)Extract, Tocopheryl Acetate (Vitamin E), Vitis Vinifera (Grape) Seed Extract, FD&C Blue #1"
+  ],
+  "questions": [
+    "Questions or Comments? 1-800-452-3700 or www.bluespringwellness.com"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling:85ml Bottle",
+    "Package Labeling:118ml Bottle2",
+    "Package Labeling:355ml Bottle3",
+    "Package Labeling: 5ml Pack"
+  ],
+  "set_id": "066a2106-2e25-4df6-9a8d-4417ba190205",
+  "id": "09d70e71-d1aa-2749-e063-6294a90abd05",
+  "effective_time": "20231110",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "SUPER BLUE STUFF Pain Relief Cream"
+    ],
+    "generic_name": [
+      "MENTHOL"
+    ],
+    "manufacturer_name": [
+      "BLUE SPRING WELLNESS, L.L.C."
+    ],
+    "product_ndc": [
+      "14448-314"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MENTHOL"
+    ],
+    "rxcui": [
+      "2391332"
+    ],
+    "spl_id": [
+      "09d70e71-d1aa-2749-e063-6294a90abd05"
+    ],
+    "spl_set_id": [
+      "066a2106-2e25-4df6-9a8d-4417ba190205"
+    ],
+    "package_ndc": [
+      "14448-314-03",
+      "14448-314-04",
+      "14448-314-12",
+      "14448-314-17"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0673314001898",
+      "0673314001294",
+      "0673314001881"
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

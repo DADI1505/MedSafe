@@ -1,0 +1,104 @@
+{
+  "spl_product_data_elements": [
+    "Guaifenesin Guaifenesin GUAIFENESIN GUAIFENESIN MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE CARBOMER HOMOPOLYMER TYPE B (ALLYL SUCROSE CROSSLINKED) SODIUM STARCH GLYCOLATE TYPE A HYPROMELLOSE 2910 (5 MPA.S) G;1200 (Elliptical)"
+  ],
+  "active_ingredient": [
+    "Active Ingredient (in each extended-release bi-layer tablet) Guaifenesin 1200 mg"
+  ],
+  "purpose": [
+    "Purpose Expectorant"
+  ],
+  "indications_and_usage": [
+    "Uses ■ helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive"
+  ],
+  "warnings": [
+    "Warnings Do not use ■ for children under 12 years of age"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have ■ persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema ■ cough accompanied by too much phlegm (mucus)"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if ■ cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious illness."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding ask a health professional before use"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "dosage_and_administration": [
+    "Directions ■ do not crush, chew, or break tablet ■ take with a full glass of water ■ this product can be administered without regard for timing of meals ■ adults and children 12 years of age and over: 1 tablet every 12 hours. Do not exceed 2 tablets in 24 hours. ■ children under 12 years of age: do not use"
+  ],
+  "storage_and_handling": [
+    "Other Information ■ Tamper evident: Do not use if carton is open or if printed seal on blister is broken or missing ■ store between 20-25°C (68-77°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients carbomer homopolymer type B, hypromellose, magnesium stearate, microcrystalline cellulose, sodium starch glycolate"
+  ],
+  "questions": [
+    "Q​uestions? We would love to hear about your Member’s Mark experience! Call us toll-free at 1-877-770-3183 Mon-Fri 8:00 AM EST to 5:00 PM PST"
+  ],
+  "package_label_principal_display_panel": [
+    "PDP GGF 1200mg 56ct"
+  ],
+  "set_id": "00c40e3b-6962-dfb4-e063-6294a90afec6",
+  "id": "4653b224-fef8-1541-e063-6394a90a94bd",
+  "effective_time": "20251219",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "ANDA213420"
+    ],
+    "brand_name": [
+      "Guaifenesin"
+    ],
+    "generic_name": [
+      "GUAIFENESIN"
+    ],
+    "manufacturer_name": [
+      "SAM'S WEST INC"
+    ],
+    "product_ndc": [
+      "68196-405"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "GUAIFENESIN"
+    ],
+    "rxcui": [
+      "310621"
+    ],
+    "spl_id": [
+      "4653b224-fef8-1541-e063-6394a90a94bd"
+    ],
+    "spl_set_id": [
+      "00c40e3b-6962-dfb4-e063-6294a90afec6"
+    ],
+    "package_ndc": [
+      "68196-405-14"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000193956",
+      "N0000008867",
+      "N0000009560"
+    ],
+    "pharm_class_epc": [
+      "Expectorant [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Decreased Respiratory Secretion Viscosity [PE]",
+      "Increased Respiratory Secretions [PE]"
+    ],
+    "unii": [
+      "495W7451VQ"
+    ]
+  }
+}

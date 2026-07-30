@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Mommys Bliss Infants Pain and Fever Acetaminophen WATER CARBOXYMETHYLCELLULOSE SODIUM AMERICAN ELDERBERRY XANTHAN GUM SODIUM BENZOATE ANHYDROUS CITRIC ACID ACETAMINOPHEN ACETAMINOPHEN GLYCERIN SUCROSE sweet berry flavor light purple to light brown liquid"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Active ingredient: (in each 5 mL) Acetaminophen 160mg"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. Overdose warning: In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Prompt medical attention is critical even if you do not notice any signs or symptoms."
+  ],
+  "purpose": [
+    "Purpose: Pain reliever/fever reducer Uses temporarily: ▪ reduces fever ▪ relieves minor aches and pains due to: ▪ the common cold ▪ flu ▪ headache ▪ sore throat ▪ toothache"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor. Stop use and ask a doctor if: ▪ pain gets worse or lasts more than 5 days ▪ fever gets worse or lasts more than 3 days ▪ redness or swelling is present ▪ any new symptoms appear These could be signs of a serious condition."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients: anhydrous citric acid, glycerin, microcrystalline cellulose and carboxymethylcellulose sodium, natural flavors, organic elderberry juice concentrate, purified water, sodium benzoate, sucrose, xanthan gum"
+  ],
+  "warnings": [
+    "Warnings Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if your child takes ▪ more than 5 doses in 24 hours, which is the maximum daily amount ▪ with other drugs containing acetaminophen Allergy alert: acetaminophen may cause severe skin reactions. Symptoms may include: ▪ skin reddening ▪ blisters ▪ rash If a skin reaction occurs, stop use and seek medical help right away. Sore throat warning: if sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use: ▪ with any other drug containing acetaminophen (prescription or nonprescription.) If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. ▪ if your child is allergic to acetaminophen or any of the inactive ingredients in this product. Ask a doctor before use if your child has liver disease Ask a doctor before use if your child is taking the blood thinning drug warfarin When using this product do not exceed recommended dose (see overdose warning)"
+  ],
+  "dosage_and_administration": [
+    "Dosing & Directions Directions ▪ this product does not contain directions or complete warnings for adult use ▪ do not give more than directed (see overdose warning) ▪ shake well before using ▪ mL=milliliter ▪ find right dose on chart below ▪ if possible, use weight to dose; otherwise, use age ▪ remove cap and seal, then insert the adapter plug by pushing down firmly until a tight seal is formed ▪ top of plug should be flush with bottle neck and not removeable ▪ push air out of syringe and insert syringe tip into adapter plug opening ▪ flip bottle upside down ▪ pull plunger of syringe up to correct dose ▪ dispense liquid slowly into child’s mouth, toward inner cheek ▪ repeat dose every 4 hours while symptoms last ▪ do not give more than 5 times in 24 hours ▪ replace cap tightly to maintain child resistance Weight (lb) Age (yr) Dose (mL)* under 24 lbs under 2 years ask a doctor 24-35 lbs 2-3 years 5 mL *or as directed by a doctor Attention: use only enclosed syringe specifically designed for use with this product. Do not use any other dosing device."
+  ],
+  "indications_and_usage": [
+    "Usage Purpose: Pain reliever/fever reducer Uses temporarily: ▪ reduces fever ▪ relieves minor aches and pains due to: ▪ the common cold ▪ flu ▪ headache ▪ sore throat ▪ toothache"
+  ],
+  "package_label_principal_display_panel": [
+    "Infants' Pain and Fever Acetaminophen 160mg per 5mL oral suspension Pain Reliever - Fever Reducer, 2 floz (59 mL) plastic bottle in retail carton, Natural Berry Flavor, Dosing Syringe included retail carton bottle flap"
+  ],
+  "set_id": "05e26650-81b3-d7b1-e063-6394a90a14ed",
+  "id": "15d91135-26c4-cc76-e063-6294a90a1ed8",
+  "effective_time": "20240411",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M013"
+    ],
+    "brand_name": [
+      "Mommys Bliss Infants Pain and Fever"
+    ],
+    "generic_name": [
+      "ACETAMINOPHEN"
+    ],
+    "manufacturer_name": [
+      "Mom Enterprises, LLC."
+    ],
+    "product_ndc": [
+      "71444-893"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACETAMINOPHEN"
+    ],
+    "rxcui": [
+      "307668"
+    ],
+    "spl_id": [
+      "15d91135-26c4-cc76-e063-6294a90a1ed8"
+    ],
+    "spl_set_id": [
+      "05e26650-81b3-d7b1-e063-6394a90a14ed"
+    ],
+    "package_ndc": [
+      "71444-893-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "362O9ITL9D"
+    ]
+  }
+}

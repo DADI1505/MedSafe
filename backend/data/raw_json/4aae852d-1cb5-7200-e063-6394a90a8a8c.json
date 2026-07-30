@@ -1,0 +1,109 @@
+{
+  "spl_product_data_elements": [
+    "LMNOOP Folliculitis Treatment Cream LMNOOP Folliculitis Treatment Cream WATER BASSIA SCOPARIA FRUIT DICTAMNUS DASYCARPUS ROOT CNIDIUM MONNIERI FRUIT PHELLODENDRON CHINENSE WHOLE MENTHOL SOPHORA FLAVESCENS ROOT OATMEAL OATMEAL STELLERA CHAMAEJASME WHOLE MAGNOLIA SIEBOLDII ROOT"
+  ],
+  "active_ingredient": [
+    "Active ingredients Colloidal Oatmeal--1%--Skin protectant."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Purify water, dictamnus dasycarpus root, stellera chamaejasme whole, sophora flavescens root, cnidium monnieri fruit, phellodendron chinense whole, bassia scoparia fruit, Menthol."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children if swallowed, call poison control or seek medical help."
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor before using on children under 2 years of age."
+  ],
+  "stop_use": [
+    "Stop use if condition worsens, symptoms last more than 7 days or clear up and occur again within a few days, or there is no improvement of athlete's foot or psoriasis within 4 weeks or jock itch with 2 weeks."
+  ],
+  "purpose": [
+    "Uses Anti-bacterial, reduces itchy and painful skin conditions due to eczema, athletes foot, psoriasis, jock itch, rash, skin yeast infection and more."
+  ],
+  "storage_and_handling": [
+    "Other information Store at room temperature."
+  ],
+  "indications_and_usage": [
+    "Directions Wash and dry affected area, apply a thin layer of LMNOOP over affected area, gently massage until fully absorbed, repeat 2-3 times daily."
+  ],
+  "user_safety_warnings": [
+    "When using this product o not get into eyes. do not apply to wounds or damaged skin."
+  ],
+  "warnings": [
+    "Warnings For external only"
+  ],
+  "dosage_and_administration": [
+    "Dosage and administration"
+  ],
+  "package_label_principal_display_panel": [
+    "Lable label"
+  ],
+  "set_id": "07fb4a6a-2599-c389-e063-6394a90a430b",
+  "id": "4aae852d-1cb5-7200-e063-6394a90a8a8c",
+  "effective_time": "20260213",
+  "version": "4",
+  "openfda": {
+    "brand_name": [
+      "LMNOOP Folliculitis Treatment Cream"
+    ],
+    "generic_name": [
+      "LMNOOP FOLLICULITIS TREATMENT CREAM"
+    ],
+    "manufacturer_name": [
+      "Shenzhen Ishan Technology Co., Ltd"
+    ],
+    "product_ndc": [
+      "73076-108"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OATMEAL"
+    ],
+    "spl_id": [
+      "4aae852d-1cb5-7200-e063-6394a90a8a8c"
+    ],
+    "spl_set_id": [
+      "07fb4a6a-2599-c389-e063-6394a90a430b"
+    ],
+    "package_ndc": [
+      "73076-108-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "6973496921507"
+    ],
+    "nui": [
+      "N0000185371",
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "M0006342",
+      "M0016962",
+      "N0000185016"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Food Allergenic Extract [EPC]",
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Dietary Proteins [CS]",
+      "Plant Proteins [CS]"
+    ],
+    "unii": [
+      "8PI54V663Y"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "Gum Detoxify Stannous Fluoride SACCHARIN SODIUM SACCHARIN SODIUM HYDROXIDE XANTHAN GUM SORBITOL SUCRALOSE TITANIUM DIOXIDE HYDRATED SILICA ZINC CITRATE SODIUM LAURYL SULFATE WATER CARRAGEENAN STANNOUS FLUORIDE FLUORIDE ION Off-white Sweet mint"
+  ],
+  "active_ingredient": [
+    "Active ingredient Stannous fluoride 0.454% (0.14% w/v fluoride ion)"
+  ],
+  "purpose": [
+    "Purpose Anticavity/Antigingivitis"
+  ],
+  "indications_and_usage": [
+    "Uses aids in the prevention of cavities * helps prevent gingivitis * helps interfere with teh harmful effects of plaque associated with gingivitis * helps control plaque bacteria that contribute to teh development of gingivitis"
+  ],
+  "warnings": [
+    "Warnings Keep out of reach of children under 12 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children under 12 years of age If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 12 years of age and older: brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician * do not swallow * children under 12 years of age: ask a dentist"
+  ],
+  "other_safety_information": [
+    "Other information products containing stannous fluoride may produce surface staining of the teeth * adequate tooth brushing may prevent these stains which are not harmful or permanent and may be removed by your dentist * this product is specifically formulated to help prevent staining * see your dentist regularly"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, hydrated silica, sorbitol, sodium lauryl sulfate, carrageenan, flavor, xanthan gum, zinc citrate, sodium saccharin, sodium hydroxide, sucralose, titanium dioxide"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Carton R1"
+  ],
+  "set_id": "0338495b-08a5-047f-e063-6394a90aa124",
+  "id": "437fa325-c2b0-933d-e063-6394a90a8f12",
+  "effective_time": "20251113",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "M021"
+    ],
+    "brand_name": [
+      "Gum Detoxify"
+    ],
+    "generic_name": [
+      "STANNOUS FLUORIDE"
+    ],
+    "manufacturer_name": [
+      "Meijer, Inc."
+    ],
+    "product_ndc": [
+      "79481-0121"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "STANNOUS FLUORIDE"
+    ],
+    "rxcui": [
+      "416784"
+    ],
+    "spl_id": [
+      "437fa325-c2b0-933d-e063-6394a90a8f12"
+    ],
+    "spl_set_id": [
+      "0338495b-08a5-047f-e063-6394a90aa124"
+    ],
+    "package_ndc": [
+      "79481-0121-9"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0713733499910"
+    ],
+    "unii": [
+      "3FTR44B32Q"
+    ]
+  }
+}

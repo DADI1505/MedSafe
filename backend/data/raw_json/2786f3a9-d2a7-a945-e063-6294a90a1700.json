@@ -1,0 +1,115 @@
+{
+  "spl_product_data_elements": [
+    "Flu-Tone Anas Barbariae, Hepatis Et Cordis Extractum, Azadirachta Indica, Baptisia Tinctoria, Bryonia (Alba), Crotalus Horridus, Echinacea (Angustifolia), Eupatorium Perfoliatum, Ferrum Phosphoricum, Gelsemium Sempervirens, Ginkgo Biloba, Influenzinum, Mucosa Nasalis Suis, Phytolacca Decandra, Pinus Sylvestris, Pyrogenium, Selenium Metallicum, Stillingia Sylvatica WATER ALCOHOL GLYCERIN CAIRINA MOSCHATA HEART/LIVER AUTOLYSATE CAIRINA MOSCHATA HEART/LIVER AUTOLYSATE AZADIRACHTA INDICA BARK AZADIRACHTA INDICA BARK BAPTISIA TINCTORIA ROOT BAPTISIA TINCTORIA ROOT BRYONIA ALBA ROOT BRYONIA ALBA ROOT CROTALUS HORRIDUS HORRIDUS VENOM CROTALUS HORRIDUS HORRIDUS VENOM ECHINACEA ANGUSTIFOLIA ECHINACEA ANGUSTIFOLIA EUPATORIUM PERFOLIATUM FLOWERING TOP EUPATORIUM PERFOLIATUM FLOWERING TOP FERRUM PHOSPHORICUM FERROSOFERRIC PHOSPHATE GELSEMIUM SEMPERVIRENS ROOT GELSEMIUM SEMPERVIRENS ROOT GINKGO GINKGO INFLUENZA A VIRUS A/SINGAPORE/GP1908/2015 IVR-180 (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED) INFLUENZA A VIRUS A/SINGAPORE/GP1908/2015 IVR-180 (H1N1) HEMAGGLUTININ ANTIGEN (FORMALDEHYDE INACTIVATED) INFLUENZA A VIRUS A/SINGAPORE/INFIMH-16-0019/2016 NIB-104 (H3N2) ANTIGEN (FORMALDEHYDE INACTIVATED) INFLUENZA A VIRUS A/SINGAPORE/INFIMH-16-0019/2016 NIB-104 (H3N2) HEMAGGLUTININ ANTIGEN (FORMALDEHYDE INACTIVATED) INFLUENZA B VIRUS B/MARYLAND/15/2016 ANTIGEN (FORMALDEHYDE INACTIVATED) INFLUENZA B VIRUS B/MARYLAND/15/2016 HEMAGGLUTININ ANTIGEN (FORMALDEHYDE INACTIVATED) INFLUENZA B VIRUS B/PHUKET/3073/2013 ANTIGEN (FORMALDEHYDE INACTIVATED) INFLUENZA B VIRUS B/PHUKET/3073/2013 HEMAGGLUTININ ANTIGEN (FORMALDEHYDE INACTIVATED) SUS SCROFA NASAL MUCOSA SUS SCROFA NASAL MUCOSA PHYTOLACCA AMERICANA ROOT PHYTOLACCA AMERICANA ROOT PINUS SYLVESTRIS LEAFY TWIG PINUS SYLVESTRIS LEAFY TWIG RANCID BEEF RANCID BEEF SELENIUM SELENIUM STILLINGIA SYLVATICA ROOT STILLINGIA SYLVATICA ROOT"
+  ],
+  "active_ingredient": [
+    "Active ingredients: 59.1 mL contains 4.34% of Anas barbariae 15C, 30C; Azadirachta 12X; Baptisia 4X; Bryonia 12X; Crotalus hor 15X; Echinacea 4X; Eupatorium perf 30X, 30C; Ferrum phos 12X; Gelsemium 6X; Ginkgo 4X; Influenzinum 30X, 30C; Mucosa nas 9X, 12X, 6C; Phytolacca 4X; Pinus syl 9X; Pyrogenium 30X, 30C; Selenium 12X; Stillingia 4X. Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "indications_and_usage": [
+    "Uses Temporary relief of flu-like symptoms such as aches, fever, nausea, cough, fatigue."
+  ],
+  "warnings": [
+    "Warnings In case of overdose, get medical help or call a Poison Control Center right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Take 30 drops orally twice daily or as directed by a healthcare professional. Consult a physician for use in children under 12 years of age or if symptoms worsen or persist."
+  ],
+  "other_safety_information": [
+    "Other information Store at room temperature out of direct sunlight. Do not use if neck wrap is broken or missing. Shake well before use."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Alcohol, Vegetable Glycerin, Purified Water."
+  ],
+  "questions": [
+    "Distributed by Energetix Corp Dahlonega, GA 30533 Questions? Comments? 800.990.7085 www.energetix.com"
+  ],
+  "package_label_principal_display_panel": [
+    "energetix Flu-Tone Homeopathic Remedy Flu-like symptoms such as aches, fever, nausea, cough, fatigue. 2 fl oz (59.1 mL) / 15% Alcohol Flu-Tone r09-24 03021 Purpose Temporary relief of flu-like symptoms such as aches, fever, nausea, cough, fatigue."
+  ],
+  "purpose": [
+    "Purpose Temporary relief of flu-like symptoms such as aches, fever, nausea, cough, fatigue."
+  ],
+  "set_id": "05038fb6-033f-4e5f-a476-07e15160a03d",
+  "id": "2786f3a9-d2a7-a945-e063-6294a90a1700",
+  "effective_time": "20250715",
+  "version": "7",
+  "openfda": {
+    "brand_name": [
+      "Flu-Tone"
+    ],
+    "generic_name": [
+      "ANAS BARBARIAE, HEPATIS ET CORDIS EXTRACTUM, AZADIRACHTA INDICA, BAPTISIA TINCTORIA, BRYONIA (ALBA), CROTALUS HORRIDUS, ECHINACEA (ANGUSTIFOLIA), EUPATORIUM PERFOLIATUM, FERRUM PHOSPHORICUM, GELSEMIUM SEMPERVIRENS, GINKGO BILOBA, INFLUENZINUM, MUCOSA NASALIS SUIS, PHYTOLACCA DECANDRA, PINUS SYLVESTRIS, PYROGENIUM, SELENIUM METALLICUM, STILLINGIA SYLVATICA"
+    ],
+    "manufacturer_name": [
+      "Energetix Corporation"
+    ],
+    "product_ndc": [
+      "64578-0136"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CAIRINA MOSCHATA HEART/LIVER AUTOLYSATE",
+      "AZADIRACHTA INDICA BARK",
+      "BAPTISIA TINCTORIA ROOT",
+      "BRYONIA ALBA ROOT",
+      "CROTALUS HORRIDUS HORRIDUS VENOM",
+      "ECHINACEA ANGUSTIFOLIA",
+      "EUPATORIUM PERFOLIATUM FLOWERING TOP",
+      "FERRUM PHOSPHORICUM",
+      "GELSEMIUM SEMPERVIRENS ROOT",
+      "GINKGO",
+      "INFLUENZA A VIRUS A/SINGAPORE/GP1908/2015 IVR-180 (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED)",
+      "INFLUENZA A VIRUS A/SINGAPORE/INFIMH-16-0019/2016 NIB-104 (H3N2) ANTIGEN (FORMALDEHYDE INACTIVATED)",
+      "INFLUENZA B VIRUS B/MARYLAND/15/2016 ANTIGEN (FORMALDEHYDE INACTIVATED)",
+      "INFLUENZA B VIRUS B/PHUKET/3073/2013 ANTIGEN (FORMALDEHYDE INACTIVATED)",
+      "SUS SCROFA NASAL MUCOSA",
+      "PHYTOLACCA AMERICANA ROOT",
+      "PINUS SYLVESTRIS LEAFY TWIG",
+      "RANCID BEEF",
+      "SELENIUM",
+      "STILLINGIA SYLVATICA ROOT"
+    ],
+    "spl_id": [
+      "2786f3a9-d2a7-a945-e063-6294a90a1700"
+    ],
+    "spl_set_id": [
+      "05038fb6-033f-4e5f-a476-07e15160a03d"
+    ],
+    "package_ndc": [
+      "64578-0136-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "RN2HC612GY",
+      "G580B439YI",
+      "5EF0HWI5WU",
+      "T7J046YI2B",
+      "YHA2XLJ956",
+      "VB06AV5US8",
+      "1W0775VX6E",
+      "91GQH8I5F7",
+      "639KR60Q1Q",
+      "19FUJ2C58T",
+      "Q3P251C5MT",
+      "2ZSC17SIJ6",
+      "8V4458342X",
+      "B93BQX9789",
+      "ID3Z1X61WY",
+      "11E6VI8VEG",
+      "Q1RGP4UB73",
+      "29SUH5R3HU",
+      "H6241UJ22B",
+      "QBR70R4FBK"
+    ]
+  }
+}

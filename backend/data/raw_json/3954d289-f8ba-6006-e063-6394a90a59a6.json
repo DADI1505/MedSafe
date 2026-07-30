@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "Neutrogena Rapid Clear Acne Eliminating Spot Salicylic Acid BUTYLENE GLYCOL CAPRYLOYL GLYCINE SARCOSINE CINNAMON BARK OIL CEDRUS ATLANTICA BARK PURSLANE SALICYLIC ACID SALICYLIC ACID WATER HAMAMELIS VIRGINIANA TOP WATER GLYCERIN SODIUM HYDROXIDE C13-14 ISOPARAFFIN C12-15 ALKYL LACTATE ALCOHOL PHENOXYETHANOL CETYL LACTATE COCAMIDOPROPYL PROPYLENE GLYCOL-DIMONIUM CHLORIDE PHOSPHATE LAURETH-7 POLYSORBATE 20 PROPYLENE GLYCOL BENZALKONIUM CHLORIDE EDETATE SODIUM XANTHAN GUM"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Distributed by: Kenvue Brands LLC Summit, NJ 07901"
+  ],
+  "active_ingredient": [
+    "Active ingredient Salicylic Acid 2%"
+  ],
+  "purpose": [
+    "Purpose Acne medication"
+  ],
+  "indications_and_usage": [
+    "Use For the treatment of acne."
+  ],
+  "warnings": [
+    "Warnings For external use only. Flammable Keep away from fire or flame. When using this product When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical medication at a time. if eye contact occurs, flush thoroughly with water. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical medication at a time. if eye contact occurs, flush thoroughly with water."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions clean the skin thoroughly before applying this product cover the entire affected area with a thin layer one to three times daily because excessive drying of the skin may occur, start with one application daily, then gradually increase to two or three times daily if needed or as directed by a doctor if bothersome dryness or peeling occurs, reduce application to once a day or every other day."
+  ],
+  "storage_and_handling": [
+    "Other information Sunburn Alert This product contains an alpha hydroxy acid (AHA) that may increase your skin’s sensitivity to the sun and particularly the possibility of sunburn. Use a sunscreen, wear protective clothing, and limit sun exposure while using this product and for a week afterwards. Store at Room Temperature."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water, Alcohol Denat., Hamamelis Virginiana (Witch Hazel) Water, Polyacrylamide, Glycerin, C13-14 Isoparaffin, C12-15 Alkyl Lactate, Alcohol, Phenoxyethanol, Cetyl Lactate, Cocamidopropyl PG-Dimonium Chloride Phosphate, Laureth-7, Polysorbate 20, Sodium Hydroxide, Phenethyl Dimethicone, Xanthan Gum, Propylene Glycol, Benzalkonium Chloride, Tetrasodium EDTA, Butylene Glycol, Capryloyl Glycine, Sarcosine, Cinnamomum Zeylanicum Bark Extract, Cedrus Atlantica Bark Extract, Portulaca Oleracea Extract"
+  ],
+  "questions": [
+    "Questions? 800-299-4786; Outside US, dial collect 215-273-8755 or www.neutrogena.com"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 15 mL Tube Carton NEUTROGENA Rapid Clear ® Acne Eliminating Spot Gel MICRO CLEAR ® technology Neutrogena® salicylic acid acne treatment 0.5 FL OZ (15mL) Neutrogena_1"
+  ],
+  "set_id": "06804b81-db22-12ec-e063-6294a90a28e1",
+  "id": "3954d289-f8ba-6006-e063-6394a90a59a6",
+  "effective_time": "20250707",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "Neutrogena Rapid Clear Acne Eliminating Spot"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID"
+    ],
+    "manufacturer_name": [
+      "Kenvue Brands LLC"
+    ],
+    "product_ndc": [
+      "69968-0825"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "346298"
+    ],
+    "spl_id": [
+      "3954d289-f8ba-6006-e063-6394a90a59a6"
+    ],
+    "spl_set_id": [
+      "06804b81-db22-12ec-e063-6294a90a28e1"
+    ],
+    "package_ndc": [
+      "69968-0825-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0070501024805"
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

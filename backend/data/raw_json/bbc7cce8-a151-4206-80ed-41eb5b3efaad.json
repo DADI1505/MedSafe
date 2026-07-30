@@ -1,0 +1,104 @@
+{
+  "spl_product_data_elements": [
+    "Cetaphil Eczema Rapid Relief Cream colloidal oatmeal Oatmeal Oatmeal Water Ethylhexyl Palmitate Glycerin Sheanut Oil Cetostearyl Alcohol Sunflower Oil Dimethicone Pentylene Glycol Glyceryl Monostearate Peg-100 Stearate Microcrystalline Cellulose Sodium Pyrrolidone Carboxylate Arginine Caprylyl Glycol Citric Acid Monohydrate Phytate Sodium Carboxymethylcellulose Sodium, Unspecified Ophiopogon Japonicus Root Xanthan Gum .Alpha.-Tocopherol Acetate Maltodextrin Ceramide Np P57252-1 eczema tube final pic"
+  ],
+  "active_ingredient": [
+    "Active ingredients......Purpose Colloidal Oatmeal 2%......Skin Protectant"
+  ],
+  "purpose": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "indications_and_usage": [
+    "Uses Temporarily protects and helps relieve minor skin irritation and itching due to: ●Eczema ●Rashes"
+  ],
+  "warnings": [
+    "Warnings For external use only. When using this product ● do not get into eyes. Stop use and ask a doctor if ● condition worsens ● symptoms last more than 7 days or clear up and occur again within a few days. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions ● apply as needed"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients WATER, ETHYLHEXYL PALMITATE, GLYCERIN, BUTYROSPERMUM PARKII (SHEA) BUTTER, CETEARYL ALCOHOL, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, DIMETHICONE, PENTYLENE GLYCOL, GLYCERYL STEARATE, PEG-100 STEARATE, MICROCRYSTALLINE CELLULOSE, SODIUM PCA, ARGININE, SODIUM POLYACRYLATE STARCH, CAPRYLYL GLYCOL, CITRIC ACID, SODIUM PHYTATE, CELLULOSE GUM, OPHIOPOGON JAPONICUS ROOT EXTRACT, XANTHAN GUM, TOCOPHERYL ACETATE, MALTODEXTRIN, CERAMIDE NP"
+  ],
+  "questions": [
+    "Questions or comments? 1-866-735-4137 Distributed by: Galderma Laboratories, L.P. Dallas, TX 75201 All trademarks are the property of their respective owners Made in Canada cetaphil.com"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPLE DISPLAY PANEL - 8 OZ tube NEW LOOK Cetaphil ® ECZEMA RESTORADERM ® Rapid Relief Cream 2% Colloidal Oatmeal Skin Protectant Relieves symptoms after 1 use and repairs skin's barrier Steroid free National Eczema Association logo NET WT 8 OZ (227 g) P57252-1"
+  ],
+  "set_id": "02a405fa-8ae9-41e9-b86f-ef5fb6e3844a",
+  "id": "bbc7cce8-a151-4206-80ed-41eb5b3efaad",
+  "effective_time": "20240502",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Cetaphil Eczema Rapid Relief Cream"
+    ],
+    "generic_name": [
+      "COLLOIDAL OATMEAL"
+    ],
+    "manufacturer_name": [
+      "Galderma Laboratories, L.P."
+    ],
+    "product_ndc": [
+      "0299-4144"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OATMEAL"
+    ],
+    "rxcui": [
+      "1189915"
+    ],
+    "spl_id": [
+      "bbc7cce8-a151-4206-80ed-41eb5b3efaad"
+    ],
+    "spl_set_id": [
+      "02a405fa-8ae9-41e9-b86f-ef5fb6e3844a"
+    ],
+    "package_ndc": [
+      "0299-4144-00",
+      "0299-4144-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185371",
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "M0006342",
+      "M0016962",
+      "N0000185016"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Food Allergenic Extract [EPC]",
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Dietary Proteins [CS]",
+      "Plant Proteins [CS]"
+    ],
+    "unii": [
+      "8PI54V663Y"
+    ]
+  }
+}

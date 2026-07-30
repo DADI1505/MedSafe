@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "Zealios Sport Performance Ultralight SPF 50 Sunscreen Homosalate, Octocrylene, OCTISALATE, and Avobenzone Homosalate Homosalate Octocrylene Octocrylene OCTISALATE OCTISALATE Avobenzone Avobenzone Water Butyloctyl Salicylate Coconut Alkanes COCOYL CAPRYLOCAPRATE Hydrogenated Methyl Abietate Glycerin HYDROLYZED JOJOBA ESTERS (ACID FORM) GLYCERYL MONOSTEARATE GLYCERYL STEARATE CITRATE SODIUM STEAROYL GLUTAMATE CARROT SEED OIL STARCH, RICE POLYGLYCERYL-4 ISOSTEARATE BETASIZOFIRAN Xanthan Gum Pullulan PHENOXYETHANOL Biosaccharide Gum-1 Ethylhexylglycerin Niacinamide Tocopherol"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredients: Purpose Homosalate 15% Sunscreen Octocrylene 10% Sunscreen Octyl Salicylate 5% Sunscreen Avobenzone 3% Sunscreen"
+  ],
+  "active_ingredient_table": [
+    "<table width=\"60%\"><col width=\"25%\" align=\"left\" valign=\"middle\"/><col width=\"10%\" align=\"right\" valign=\"middle\"/><col width=\"30%\" align=\"left\" valign=\"middle\"/><col width=\"35%\" align=\"left\" valign=\"middle\"/><thead><tr><th colspan=\"2\">Active Ingredients:</th><th/><th>Purpose</th></tr></thead><tbody><tr><td>Homosalate</td><td>15%</td><td/><td>Sunscreen</td></tr><tr><td>Octocrylene</td><td>10%</td><td/><td>Sunscreen</td></tr><tr><td>Octyl Salicylate</td><td>5%</td><td/><td>Sunscreen</td></tr><tr><td>Avobenzone</td><td>3%</td><td/><td>Sunscreen</td></tr></tbody></table>"
+  ],
+  "purpose": [
+    "Active Ingredients: Purpose Homosalate 15% Sunscreen Octocrylene 10% Sunscreen Octyl Salicylate 5% Sunscreen Avobenzone 3% Sunscreen"
+  ],
+  "purpose_table": [
+    "<table width=\"60%\"><col width=\"25%\" align=\"left\" valign=\"middle\"/><col width=\"10%\" align=\"right\" valign=\"middle\"/><col width=\"30%\" align=\"left\" valign=\"middle\"/><col width=\"35%\" align=\"left\" valign=\"middle\"/><thead><tr><th colspan=\"2\">Active Ingredients:</th><th/><th>Purpose</th></tr></thead><tbody><tr><td>Homosalate</td><td>15%</td><td/><td>Sunscreen</td></tr><tr><td>Octocrylene</td><td>10%</td><td/><td>Sunscreen</td></tr><tr><td>Octyl Salicylate</td><td>5%</td><td/><td>Sunscreen</td></tr><tr><td>Avobenzone</td><td>3%</td><td/><td>Sunscreen</td></tr></tbody></table>"
+  ],
+  "indications_and_usage": [
+    "Uses - Helps prevent sunburn. - If used as directed with other sun protection measures (see directions ), decreases the risk of skin cancer and early skin aging caused by the sun."
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use on damaged or broken skin. Stop use and ask a doctor if rash occurs. When using this product keep out of eyes. Rinse with water to remove. Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center as soon as possible."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center as soon as possible."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply liberally 15 minutes before sun exposure. Reapply after 80 minutes of swimming or sweating, immediately after towel drying, and at least every 2 hours. Children under 6 months: ask a doctor. Sun Protection Measures Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including limiting time in the sun, especially from 10 am – 2 pm and wearing long-sleeved shirts, pants, hats, and sunglasses."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Water, Butyloctyl Salicylate, Coconut Alkanes, Coco-Caprylate/Caprate, Hydrogenated Methyl Abietate, Organic Aloe Barbadensis Leaf Juice, Glycerin, Hydrolyzed Jojoba Esters, Glyceryl Stearate, Glyceryl Stearate Citrate, Sodium Stearoyl Glutamate, Rosa Canina (Rosehip) Fruit Oil, Daucus Carota Sativa (Carrot) Seed Oil, Rice Starch, Polyglyceryl-4 Isostearate, Lysolecithin, Sclerotium Gum, Xanthan Gum, Pullulan, Phenoxyethanol, Biosaccharide Gum-1, Ethylhexylglycerin, Niacinamide, Tocopherol"
+  ],
+  "storage_and_handling": [
+    "Other Info Protect this product from excessive heat and direct sun."
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 946 ml Bottle Label zealios ® SPORT PERFORMANCE SUNSCREEN 50 ULTRALIGHT + Hydration Broad Spectrum SPF 50 Water Resistant (80 min.) Fragrance Free 32 fl oz (946 ml) PRINCIPAL DISPLAY PANEL - 946 ml Bottle Label"
+  ],
+  "set_id": "020bd1b4-da50-4117-a4f3-b74aa4187396",
+  "id": "cb66268a-b0ab-4b2e-b34e-5e766da0d357",
+  "effective_time": "20260203",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Zealios Sport Performance Ultralight SPF 50 Sunscreen"
+    ],
+    "generic_name": [
+      "HOMOSALATE, OCTOCRYLENE, OCTISALATE, AND AVOBENZONE"
+    ],
+    "manufacturer_name": [
+      "Personal Best Products Inc. dba Zealios"
+    ],
+    "product_ndc": [
+      "83326-003"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "HOMOSALATE",
+      "OCTOCRYLENE",
+      "OCTISALATE",
+      "AVOBENZONE"
+    ],
+    "spl_id": [
+      "cb66268a-b0ab-4b2e-b34e-5e766da0d357"
+    ],
+    "spl_set_id": [
+      "020bd1b4-da50-4117-a4f3-b74aa4187396"
+    ],
+    "package_ndc": [
+      "83326-003-03",
+      "83326-003-32"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "V06SV4M95S",
+      "5A68WGF6WM",
+      "4X49Y0596W",
+      "G63QQF2NOX"
+    ]
+  }
+}

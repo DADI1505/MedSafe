@@ -1,0 +1,97 @@
+{
+  "spl_product_data_elements": [
+    "Liquid Bandage Benzethonium chloride Plus Dyclonine hydrochloride BENZETHONIUM CHLORIDE BENZETHONIUM DYCLONINE HYDROCHLORIDE DYCLONINE ACETONE AMYL ACETATE CASTOR OIL ETHYL ACETATE NITROCELLULOSE ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Active ingredients Benzethonium chloride 0.2% Dyclonine hydrochloride 0.75%"
+  ],
+  "purpose": [
+    "Purpose First aid antiseptic Topical analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses first aid to help prevent infection in minor cuts, scrapes, and burns first aid for the temporary relief of pain in minor cuts, scrapes, and burns"
+  ],
+  "warnings": [
+    "Warnings For external use only. Flammable: Keep away from fire or flame. Do not use in the eyes over large areas of the body longer than 1 week unless directed by a doctor Ask a doctor before use if you have deep or puncture wounds animal bites serious burns Stop use and ask a doctor if conditions persists or gets worse infection occurs symptoms persist for more than 7 days or clear up and occur again within a few days Keep out of reach of children. If swallowed, get medical help or call a Poison Control Center right away."
+  ],
+  "safe_handling_warning": [
+    "Flammable: Keep away from fire or flame."
+  ],
+  "do_not_use": [
+    "Do not use in the eyes over large areas of the body longer than 1 week unless directed by a doctor"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have deep or puncture wounds animal bites serious burns"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if conditions persists or gets worse infection occurs symptoms persist for more than 7 days or clear up and occur again within a few days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or call a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions for adults and children 2 years of age and older clean the affected area apply a small amount of this product on the area 1 to 3 times daily and let dry may be covered with a sterile bandage if bandaged, let dry first children under 2 years of age: do not use, consult a doctor"
+  ],
+  "other_safety_information": [
+    "Other information cap bottle tightly wipe top of bottle clean after each use store between 20° to 25°C (68° to 77°F) may temporarily sting upon application to remove, apply more Liquid Bandage and quickly wipe off do not allow to come into contact with fabrics, floors, counterops or other surfaces -- will stain."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients acetone, amyl acetate, castor oil, ethyl acetate, nitrocellulose, SD slcohol 40"
+  ],
+  "questions": [
+    "Questions Call 1-866-964-0939"
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel meijer FOR SMALL CUTS & WOUNDS Liquid Bandage BENZETHONIUM CHLORIDE 0.2%/ FIRST AID ANTISEPTIC DYCLONINE HYDROCHLORIDE 0.75%/ TOPICAL ANALGESIC KILLS 99.9% OF GERMS TO HELP PREVENT INFECTION 0.3 FL. OZ. [9 mL] carton"
+  ],
+  "set_id": "036fd504-0cda-60ab-e063-6394a90a2f18",
+  "id": "574ecb36-d4b3-84d5-e063-6294a90a8612",
+  "effective_time": "20260727",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Liquid Bandage"
+    ],
+    "generic_name": [
+      "BENZETHONIUM CHLORIDE PLUS DYCLONINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Meijer Distribution Inc"
+    ],
+    "product_ndc": [
+      "79481-0606"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZETHONIUM CHLORIDE",
+      "DYCLONINE HYDROCHLORIDE"
+    ],
+    "spl_id": [
+      "574ecb36-d4b3-84d5-e063-6294a90a8612"
+    ],
+    "spl_set_id": [
+      "036fd504-0cda-60ab-e063-6394a90a2f18"
+    ],
+    "package_ndc": [
+      "79481-0606-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "PH41D05744",
+      "ZEC193879Q"
+    ]
+  }
+}

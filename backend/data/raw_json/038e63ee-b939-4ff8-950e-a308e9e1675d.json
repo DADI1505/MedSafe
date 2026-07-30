@@ -1,0 +1,114 @@
+{
+  "spl_product_data_elements": [
+    "Vascu-Pro T009 Cactus Grandiflorus, Hamamelis Virginiana, Valeriana Officinalis, Arteria Suis, Heart (Suis), Arnica Montana, Aurum Metallicum, Baryta Muriatica, Cholesterinum, Lecithin, Magnesia Muriatica, Oxalicum Acidum, Phosphorus SELENICEREUS GRANDIFLORUS STEM SELENICEREUS GRANDIFLORUS STEM HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK VALERIAN VALERIAN SUS SCROFA ARTERY SUS SCROFA ARTERY PORK HEART PORK HEART ARNICA MONTANA WHOLE ARNICA MONTANA GOLD GOLD BARIUM CHLORIDE DIHYDRATE BARIUM CATION CHOLESTEROL CHOLESTEROL LECITHIN, SOYBEAN LECITHIN, SOYBEAN MAGNESIUM CHLORIDE MAGNESIUM CATION OXALIC ACID OXALIC ACID PHOSPHORUS PHOSPHORUS WATER GLYCERIN"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: Cactus Grandiflorus 3X, Hamamelis Virginiana 3X, Valeriana Officinalis 3X, Arteria Suis 6X, Heart (Suis) 6X, Arnica Montana 12X, Aurum Metallicum 12X, Baryta Muriatica 12X, Cholesterinum 12X, Lecithin 12X, Magnesia Muriatica 12X, Oxalicum Acidum 12X, Phosphorus 12X."
+  ],
+  "purpose": [
+    "INDICATIONS: May temporarily relieve cold clammy feet, numbness of limbs, painful calves upon walking, muscular weakness of the lower extremities."
+  ],
+  "warnings": [
+    "WARNINGS: If pregnant or breast-feeding, ask a health care professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in cool, dry place."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Adults and children 5 to 10 drops orally, 1 to 2 times daily or as otherwise directed by a health care professional. If symptoms persist, consult your health care professional. Consult a physician for use in children under 12 years of age."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: May temporarily relieve cold clammy feet, numbness of limbs, painful calves upon walking, muscular weakness of the lower extremities."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Demineralized water, Glycerin"
+  ],
+  "questions": [
+    "QUESTIONS: Distributed by: Guangzhou Renuma Medical Systems Co., Ltd. No. 5, 2nd Floor, Ascendas 2nd Street Sino-Singapore Guangzhou Knowledge City Guangzhou 510555, China"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: VASCU-PRO T009 HOMEOPATHIC 2 fl. oz. (59 ml) Vascu-Pro"
+  ],
+  "set_id": "01d22fd6-7d2f-4448-81ff-c88baafc0af7",
+  "id": "038e63ee-b939-4ff8-950e-a308e9e1675d",
+  "effective_time": "20260109",
+  "version": "3",
+  "openfda": {
+    "brand_name": [
+      "Vascu-Pro T009"
+    ],
+    "generic_name": [
+      "CACTUS GRANDIFLORUS, HAMAMELIS VIRGINIANA, VALERIANA OFFICINALIS, ARTERIA SUIS, HEART (SUIS), ARNICA MONTANA, AURUM METALLICUM, BARYTA MURIATICA, CHOLESTERINUM, LECITHIN, MAGNESIA MURIATICA, OXALICUM ACIDUM, PHOSPHORUS"
+    ],
+    "manufacturer_name": [
+      "Guangzhou Renuma Medical Systems Co., Ltd"
+    ],
+    "product_ndc": [
+      "71742-0003"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SELENICEREUS GRANDIFLORUS STEM",
+      "HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK",
+      "VALERIAN",
+      "SUS SCROFA ARTERY",
+      "PORK HEART",
+      "ARNICA MONTANA WHOLE",
+      "GOLD",
+      "BARIUM CHLORIDE DIHYDRATE",
+      "CHOLESTEROL",
+      "LECITHIN, SOYBEAN",
+      "MAGNESIUM CHLORIDE",
+      "OXALIC ACID",
+      "PHOSPHORUS"
+    ],
+    "spl_id": [
+      "038e63ee-b939-4ff8-950e-a308e9e1675d"
+    ],
+    "spl_set_id": [
+      "01d22fd6-7d2f-4448-81ff-c88baafc0af7"
+    ],
+    "package_ndc": [
+      "71742-0003-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185508",
+      "N0000175629",
+      "N0000184306",
+      "M0000728"
+    ],
+    "pharm_class_epc": [
+      "Standardized Chemical Allergen [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]"
+    ],
+    "unii": [
+      "7114SV0MYK",
+      "T7S323PKJS",
+      "JWF5YAW3QW",
+      "63O327782Q",
+      "X876KJM95L",
+      "O80TY208ZW",
+      "79Y1949PYO",
+      "EL5GJ3U77E",
+      "97C5T2UQ7J",
+      "1DI56QDM62",
+      "02F3473H9O",
+      "9E7R5L6H31",
+      "27YLU75U4W"
+    ]
+  }
+}

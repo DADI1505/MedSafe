@@ -1,0 +1,104 @@
+{
+  "spl_product_data_elements": [
+    "Nighttime Sleep-Aid Diphenhydramine HCl POLYETHYLENE GLYCOL 600 SORBITAN FD&C BLUE NO. 1 GELATIN POLYETHYLENE GLYCOL 400 WATER GLYCERIN PROPYLENE GLYCOL SORBITOL DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE B50"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each capsule) Diphenhydramine HCl 50 mg"
+  ],
+  "purpose": [
+    "Purpose Nighttime sleep-aid"
+  ],
+  "indications_and_usage": [
+    "Uses ■ for relief of occasional sleeplessness ■ reduces time to fall asleep if you have difficulty falling asleep"
+  ],
+  "warnings": [
+    "Warnings Do not use ■ for children under 12 years of age ■ with any other product containing diphenhydramine, even one used on skin."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have ■ glaucoma ■ a breathing problem such as emphysema or chronic bronchitis ■ difficulty in urination due to enlargement of the prostate gland"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers."
+  ],
+  "when_using": [
+    "When using this product ■ avoid alcoholic beverages ■ be careful when driving a motor vehicle or operating machinery"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if sleeplessness persists continuosly for more than 2 weeks, consult your doctor. Insomnia may be a symptom of serious underlying medical illness."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast- feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions ■ Adults and children 12 years of age and over: One softgel (50 mg) at bedtime if needed, or as directed by a doctor. ■ swallow whole; do not crush, chew, or dissolve"
+  ],
+  "storage_and_handling": [
+    "Other information ■ store at 20°C to 25°C (68°F to 77°F) ■ avoid high humidity and excessive heat above 40°C (104°F). ■ protect from light"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients FD&C blue #1, gelatin, glycerin, polyethylene glycol 400, polyethylene glycol 600, propylene glycol, purified water, sorbitol sorbitan solution"
+  ],
+  "questions": [
+    "Questions or comments? call toll-free 1-888-235-2466 (Mon - Fri 9AM - 5PM EST)"
+  ],
+  "spl_unclassified_section": [
+    "DO NOT USE IF TAMPER-EVIDENT SEAL UNDER BOTTLE CAP IMPRINTED WITH “SEALED for YOUR PROTECTION” IS BROKEN OR MISSING. READ AND KEEP CARTON FOR COMPLETE WARNINGS AND INFORMATION BEST CHOICE 66729 0923 BP T00186 R0124 * This product is not manufactured or distributed by the owners of Unisom® SleepGels®. PROUDLY DISTRIBUTED BY: ASSOCIATED WHOLESALE GROCERS, INC. KANSAS CITY, KANSAS 66106 For product information please visit: bestchoicebrand.com/66729 MADE IN INDIA Mfg. Lic. No.: TN00002123 L0000889 R0724 Lot No.: Exp. Date:"
+  ],
+  "package_label_principal_display_panel": [
+    "60's count Best Choice *Compare to the active ingredient in Unisom® SleepGels® MAXIMUM STRENGTH Nighttime Sleep-Aid DIPHENHYDRAMINE HCl Capsules, USP, 50 mg Fall asleep fast Sleep soundly safe, non habit-forming One softgel per dose 60 SOFTGELS** **LIQUID-FILLED CAPSULES image001"
+  ],
+  "set_id": "08a38cd2-04ae-1ef9-e063-6294a90a8868",
+  "id": "44e88ec2-088c-8344-e063-6394a90abbec",
+  "effective_time": "20251201",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M010"
+    ],
+    "brand_name": [
+      "Nighttime Sleep-Aid"
+    ],
+    "generic_name": [
+      "DIPHENHYDRAMINE HCL"
+    ],
+    "manufacturer_name": [
+      "VALU MERCHANDISERS COMPANY"
+    ],
+    "product_ndc": [
+      "63941-604"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIPHENHYDRAMINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1020477"
+    ],
+    "spl_id": [
+      "44e88ec2-088c-8344-e063-6394a90abbec"
+    ],
+    "spl_set_id": [
+      "08a38cd2-04ae-1ef9-e063-6294a90a8868"
+    ],
+    "package_ndc": [
+      "63941-604-17"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0070038667292"
+    ],
+    "unii": [
+      "TC2D6JAD40"
+    ]
+  }
+}

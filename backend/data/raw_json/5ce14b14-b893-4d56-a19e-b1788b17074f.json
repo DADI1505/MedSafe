@@ -1,0 +1,100 @@
+{
+  "spl_product_data_elements": [
+    "OLOPATADINE HYDROCHLORIDE OLOPATADINE HYDROCHLORIDE OLOPATADINE HYDROCHLORIDE Olopatadine BENZALKONIUM CHLORIDE EDETATE DISODIUM HYDROCHLORIC ACID POVIDONE K30 SODIUM CHLORIDE SODIUM HYDROXIDE SODIUM PHOSPHATE, DIBASIC, ANHYDROUS WATER"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Purpose Olopatadine 0.2% (equivalent to olopatadine hydrochloride 0.222%) Antihistamine"
+  ],
+  "active_ingredient_table": [
+    "<table cellpadding=\"0.4pt\" cellspacing=\"0pt\" width=\"95.98%\"><col width=\"54%\"/><col width=\"40%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\"><content styleCode=\"italics\">Active Ingredients</content></content></paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><list listType=\"unordered\"><item><caption> </caption><content styleCode=\"bold\"><content styleCode=\"italics\">Purpose</content></content></item></list></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Olopatadine 0.2%  (equivalent to olopatadine hydrochloride 0.222%)</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Antihistamine</paragraph></td></tr></tbody></table>"
+  ],
+  "purpose": [
+    "Active Ingredients Purpose Olopatadine 0.2% (equivalent to olopatadine hydrochloride 0.222%) Antihistamine"
+  ],
+  "purpose_table": [
+    "<table cellpadding=\"0.4pt\" cellspacing=\"0pt\" width=\"95.98%\"><col width=\"54%\"/><col width=\"40%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\"><content styleCode=\"italics\">Active Ingredients</content></content></paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><list listType=\"unordered\"><item><caption> </caption><content styleCode=\"bold\"><content styleCode=\"italics\">Purpose</content></content></item></list></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Olopatadine 0.2%  (equivalent to olopatadine hydrochloride 0.222%)</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Antihistamine</paragraph></td></tr></tbody></table>"
+  ],
+  "indications_and_usage": [
+    "Use temporarily relieves itchy eyes due to pollen, ragweed, grass, animal hair and dander"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "do_not_use": [
+    "Do not use • if solution changes color or becomes cloudy • if you are sensitive to any ingredient in this product • to treat contact lens related irritation",
+    "When using this product • do not touch tip of container to any surface to avoid contamination • remove contact lenses before use • wait at least 10 minutes before reinserting contact lenses after use • do not wear a contact lens if your eye is red"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if you experience: • eye pain • changes in vision • increased redness of the eye • itching worsens or lasts for more than 72 hours"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions • adults and children 2 years of age and older: o put 1 drop in the affected eye(s) once daily, no more than once per day o if using other ophthalmic products while using this product, wait at least 5 minutes between each product o replace cap after each use • children under 2 years of age: consult a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information • only for use in the eye • store between 2°C to 25°C (36°F to 77°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients benzalkonium chloride 0.01%, dibasic sodium phosphate, edetate disodium, hydrochloric acid/sodium hydroxide (to adjust pH), povidone, sodium chloride and water for injection"
+  ],
+  "questions": [
+    "Questions? Call weekdays 9 AM to 6 PM EST at 1 (888) 721-7115. Distributed by: Glenmark Therapeutics Inc., USA Elmwood Park, NJ 07407 Product of Spain 07/2025"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL NDC 72657-194-25 Olopatadine HCl Ophthalmic Solution 0.2% Antihistamine Once Daily STERILE 2.5 mL (0.085 FL OZ) NDC: 72657-194-25 Original Prescription Strength ONCE DAILY Olopatadine HCl Ophthalmic Solution, USP 0.2% Antihistamine Eye Allergy Itch Relief STERILE 2.5 mL (0.085 FL OZ) label carton"
+  ],
+  "set_id": "07e8b359-d4ae-4b5b-81dc-c7e57e172c58",
+  "id": "5ce14b14-b893-4d56-a19e-b1788b17074f",
+  "effective_time": "20260127",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "ANDA219557"
+    ],
+    "brand_name": [
+      "OLOPATADINE HYDROCHLORIDE"
+    ],
+    "generic_name": [
+      "OLOPATADINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "GLENMARK THERAPEUTICS INC., USA"
+    ],
+    "product_ndc": [
+      "72657-194"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "OLOPATADINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1111343"
+    ],
+    "spl_id": [
+      "5ce14b14-b893-4d56-a19e-b1788b17074f"
+    ],
+    "spl_set_id": [
+      "07e8b359-d4ae-4b5b-81dc-c7e57e172c58"
+    ],
+    "package_ndc": [
+      "72657-194-25",
+      "72657-194-11"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0372657194259"
+    ],
+    "unii": [
+      "2XG66W44KF"
+    ]
+  }
+}

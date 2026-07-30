@@ -1,0 +1,87 @@
+{
+  "spl_product_data_elements": [
+    "Odorono Antiperspirant and Deodorant Roll-on Original Aluminum Chlorohydrate ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE WATER GLYCERYL STEARATE/PEG-100 STEARATE MINERAL OIL CETYL ALCOHOL PROPYLENE GLYCOL DIMETHICONE GLYCERIN"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Distributed by: Omega & Delta Co., Inc. Carolina, P.R. 00984 www.omegadeltaco.com"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Aluminum Chlorohydrate 16%"
+  ],
+  "purpose": [
+    "Purpose Antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Use: Reduces underarm wetness"
+  ],
+  "warnings": [
+    "Warnings: For external use only"
+  ],
+  "do_not_use": [
+    "Do not use on broken skin"
+  ],
+  "stop_use": [
+    "Stop use if rash or irritation occurs"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have kidney disease"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center."
+  ],
+  "dosage_and_administration": [
+    "Directions: Apply evenly to underarms only"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Water, Glyceryl Stearate & PEG-100 Stearate, Mineraol Oil, Cetyl Alcohol, Propylene Glycol, Dimethicone, Glycerine, Fragrance, FD&C Blue #1."
+  ],
+  "package_label_principal_display_panel": [
+    "Odorono Original"
+  ],
+  "set_id": "042a85c0-1805-4218-85fe-e1b8555b40e1",
+  "id": "a05f7f80-6ea6-45d4-af9d-473da039ead8",
+  "effective_time": "20250827",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Odorono Antiperspirant and Deodorant Roll-on Original"
+    ],
+    "generic_name": [
+      "ALUMINUM CHLOROHYDRATE"
+    ],
+    "manufacturer_name": [
+      "Omega & Delta Co"
+    ],
+    "product_ndc": [
+      "51048-360"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM CHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "a05f7f80-6ea6-45d4-af9d-473da039ead8"
+    ],
+    "spl_set_id": [
+      "042a85c0-1805-4218-85fe-e1b8555b40e1"
+    ],
+    "package_ndc": [
+      "51048-360-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "HPN8MZW13M"
+    ]
+  }
+}

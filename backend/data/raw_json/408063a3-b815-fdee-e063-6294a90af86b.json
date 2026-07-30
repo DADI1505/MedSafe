@@ -1,0 +1,139 @@
+{
+  "spl_product_data_elements": [
+    "Sick Stopper Echinacea, Aconitum napellus, Agaricus muscarius, Aralia quinquefolia, Baptisia tinctoria, Bryonia, Chelidonium majus, Eupatorium perfoliatum, Hepar sulphuris calcareum, Lachesis mutus, Lycopodium clavatum, Rhus toxicodendron, Sanguinaria canadensis, Sulphur, Thuja occidentalis, Bufo rana, Nux vomica, Anthracinum, Influenzinum, Pyrogenium WATER ECHINACEA, UNSPECIFIED ECHINACEA, UNSPECIFIED ALCOHOL AMERICAN GINSENG AMERICAN GINSENG BAPTISIA TINCTORIA ROOT BAPTISIA TINCTORIA ROOT BRYONIA ALBA ROOT BRYONIA ALBA ROOT CHELIDONIUM MAJUS CHELIDONIUM MAJUS EUPATORIUM PERFOLIATUM FLOWERING TOP EUPATORIUM PERFOLIATUM FLOWERING TOP CALCIUM SULFIDE CALCIUM SULFIDE LACHESIS MUTA VENOM LACHESIS MUTA VENOM LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE TOXICODENDRON PUBESCENS LEAF TOXICODENDRON PUBESCENS LEAF SANGUINARIA CANADENSIS ROOT SANGUINARIA CANADENSIS ROOT SULFUR SULFUR THUJA OCCIDENTALIS LEAFY TWIG THUJA OCCIDENTALIS LEAFY TWIG BUFO BUFO CUTANEOUS GLAND BUFO BUFO CUTANEOUS GLAND STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED BACILLUS ANTHRACIS IMMUNOSERUM RABBIT BACILLUS ANTHRACIS IMMUNOSERUM RABBIT INFLUENZA A VIRUS INFLUENZA A VIRUS INFLUENZA B VIRUS INFLUENZA B VIRUS RANCID BEEF RANCID BEEF ACONITUM NAPELLUS ACONITUM NAPELLUS AMANITA MUSCARIA FRUITING BODY AMANITA MUSCARIA FRUITING BODY"
+  ],
+  "indications_and_usage": [
+    "INDICATIONS & USAGE SECTION Formulated for symptoms associated with colds and infections such as cough, fatigue, fever, headache and indigestion. Begin at the onset of symptoms."
+  ],
+  "active_ingredient": [
+    "OTC - ACTIVE INGREDIENT SECTION Equal parts of Echinacea 6x, Aconitum napellus 15x, Agaricus muscarius 15x, Aralia quinquefolia 15x, Baptisia tinctoria 15x, Bryonia 15x, Bufo rana 15x, Chelidonium majus 15x, Eupatorium perfoliatum 15x, Hepar sulphuris calcareum 15x, Lachesis mutus 15x, Lycopodium clavatum 15x, Nux vom. 15x, Rhus toxicodendron 15x, Sanguinaria canadensis 15x, Sulphur 15x, Thuja occidentalis 15x, Anthracinum 30x, Influenzinum 30x, Pyrogenium 30x."
+  ],
+  "purpose": [
+    "OTC - PURPOSE SECTION Formulated for symptoms associated with colds and infections such as cough, fatigue, fever, headache and indigestion. Begin at the onset of symptoms."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENT SECTION USP Purified Water; USP Gluten-free, non-GMO, organic cane alcohol 20%."
+  ],
+  "questions": [
+    "QUESTIONS SECTION newtonlabs.net – Questions? 800.448.7256 Newton Laboratories, Inc. FDA Est # 1051203 - Conyers, GA 30013"
+  ],
+  "warnings": [
+    "WARNINGS SECTION WARNINGS: Keep out of reach of children. Do not use if tamper-evident seal is broken or missing. If symptoms worsen or persist for more than a few days, consult a doctor. If pregnant or breast-feeding , ask a doctor before use."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "OTC - PREGNANCY OR BREAST FEEDING SECTION If pregnant or breast-feeding , ask a doctor before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "OTC - KEEP OUT OF REACH OF CHILDREN SECTION Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "DOSAGE & ADMINISTRATION SECTION Directions: Ages 12 and up, take 6 drops by mouth (ages 0 to 11, give 3 drops) as need or as directed by a health professional. Sensitive person begin with 1 drop and gradually increase to full dose."
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL Package label"
+  ],
+  "set_id": "016b7532-8cb6-df55-e063-6394a90abd75",
+  "id": "408063a3-b815-fdee-e063-6294a90af86b",
+  "effective_time": "20251006",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Sick Stopper"
+    ],
+    "generic_name": [
+      "ECHINACEA, ACONITUM NAPELLUS, AGARICUS MUSCARIUS, ARALIA QUINQUEFOLIA, BAPTISIA TINCTORIA, BRYONIA, CHELIDONIUM MAJUS, EUPATORIUM PERFOLIATUM, HEPAR SULPHURIS CALCAREUM, LACHESIS MUTUS, LYCOPODIUM CLAVATUM, RHUS TOXICODENDRON, SANGUINARIA CANADENSIS, SULPHUR, THUJA OCCIDENTALIS, BUFO RANA, NUX VOMICA, ANTHRACINUM, INFLUENZINUM, PYROGENIUM"
+    ],
+    "manufacturer_name": [
+      "Newton Laboratories, Inc."
+    ],
+    "product_ndc": [
+      "55714-2575"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ECHINACEA, UNSPECIFIED",
+      "AMERICAN GINSENG",
+      "BAPTISIA TINCTORIA ROOT",
+      "BRYONIA ALBA ROOT",
+      "CHELIDONIUM MAJUS",
+      "EUPATORIUM PERFOLIATUM FLOWERING TOP",
+      "CALCIUM SULFIDE",
+      "LACHESIS MUTA VENOM",
+      "LYCOPODIUM CLAVATUM SPORE",
+      "TOXICODENDRON PUBESCENS LEAF",
+      "SANGUINARIA CANADENSIS ROOT",
+      "SULFUR",
+      "THUJA OCCIDENTALIS LEAFY TWIG",
+      "BUFO BUFO CUTANEOUS GLAND",
+      "STRYCHNOS NUX-VOMICA SEED",
+      "BACILLUS ANTHRACIS IMMUNOSERUM RABBIT",
+      "INFLUENZA A VIRUS",
+      "INFLUENZA B VIRUS",
+      "RANCID BEEF",
+      "ACONITUM NAPELLUS",
+      "AMANITA MUSCARIA FRUITING BODY"
+    ],
+    "spl_id": [
+      "408063a3-b815-fdee-e063-6294a90af86b"
+    ],
+    "spl_set_id": [
+      "016b7532-8cb6-df55-e063-6394a90abd75"
+    ],
+    "package_ndc": [
+      "55714-2575-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0016962",
+      "M0516536"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Plant Proteins [CS]",
+      "Seed Storage Proteins [CS]"
+    ],
+    "unii": [
+      "4N9P6CC1DX",
+      "8W75VCV53Q",
+      "5EF0HWI5WU",
+      "T7J046YI2B",
+      "7E889U5RNN",
+      "1W0775VX6E",
+      "1MBW07J51Q",
+      "VSW71SS07I",
+      "C88X29Y479",
+      "6IO182RP7A",
+      "N9288CD508",
+      "70FD1KFU70",
+      "1NT28V9397",
+      "Q59QU6N72Q",
+      "269XH13919",
+      "41LZ22DD4N",
+      "R9HH0NDE2E",
+      "1314JZ2X6W",
+      "29SUH5R3HU",
+      "U0NQ8555JD",
+      "DIF093I037"
+    ]
+  }
+}

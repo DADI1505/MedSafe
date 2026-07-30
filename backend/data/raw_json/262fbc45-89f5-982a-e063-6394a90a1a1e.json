@@ -1,0 +1,84 @@
+{
+  "spl_product_data_elements": [
+    "Licefreee Head Lice Treatment WATER POLOXAMER 188 BENZYL ALCOHOL SODIUM CHLORIDE SODIUM CATION"
+  ],
+  "active_ingredient": [
+    "Natrum muriaticum 1X (Sodium chloride, USP)"
+  ],
+  "purpose": [
+    "Peduculosis remedy"
+  ],
+  "indications_and_usage": [
+    "Uses For the treatment of •head lice •pubic (crab) lice •body lice"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "when_using": [
+    "When using this product do not use in or near the eyes; close eyes while product is being applied do not permit contact with mucous membranes, such as inside the nose, mouth, or vagina, as irritation or stinging may occur tingling may occur during the first 10 minutes of application; this is normal and should go away; if it doesn't, rinse hair immediately and discontinue use"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if skin irritation or infection is present or develops"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "storage_and_handling": [
+    "Other information Store at 59 - 86ºF (15 - 30ºC)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients benzyl alcohol, fragrance, poloxamer 188, purified water"
+  ],
+  "questions": [
+    "Questions? Call 1-800-482-4464. Serious side effects may be reported to this number"
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 6 months and older: shake well hold bottle 4 - 6\" from head; spray on DRY hair and entire scalp, starting at the hairline and working inward toward crown thoroughly saturate all hair and scalp; to be effective all lice and nits must come in full contact with the product dead lice and nits may be removed with a fine toothed comb, if desired for best results, allow product to air dry naturally, do not rinse out product may be used as often as desired; washing hair regularly is recommended to avoid product build-up for body and crab lice, spray on affected areas and let dry Children under 6 months of age: do not use; consult a doctor"
+  ],
+  "package_label_principal_display_panel": [
+    "NDC 51879-180-06 Licefreee Spray! (R) Instant Head Lice Treatment Kills lice and eggs on contact Mata piojos y liendres al contacto Non-Toxic One Easy Step No ex toxico Un paso facil 100% Guaranteed Garantizado Includes Professional Nit Comb Incluye peine profesional para liendres Homeopathic Homeopatica NET 6 FL OZ (177.4 mL) LFS POP"
+  ],
+  "set_id": "08c9d3dd-7177-0148-e054-00144ff8d46c",
+  "id": "262fbc45-89f5-982a-e063-6394a90a1a1e",
+  "effective_time": "20241105",
+  "version": "10",
+  "openfda": {
+    "brand_name": [
+      "Licefreee"
+    ],
+    "generic_name": [
+      "HEAD LICE TREATMENT"
+    ],
+    "manufacturer_name": [
+      "Tec Laboratories, Inc."
+    ],
+    "product_ndc": [
+      "51879-180"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SODIUM CHLORIDE"
+    ],
+    "spl_id": [
+      "262fbc45-89f5-982a-e063-6394a90a1a1e"
+    ],
+    "spl_set_id": [
+      "08c9d3dd-7177-0148-e054-00144ff8d46c"
+    ],
+    "package_ndc": [
+      "51879-180-06",
+      "51879-180-12"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "451W47IQ8X"
+    ]
+  }
+}

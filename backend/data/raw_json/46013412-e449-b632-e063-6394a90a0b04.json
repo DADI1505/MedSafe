@@ -1,0 +1,103 @@
+{
+  "spl_product_data_elements": [
+    "PS-2261 Triple Antibiotic, 0.5g PS-2261 Triple Antibiotic, 0.5g POLYMYXIN B SULFATE POLYMYXIN B WHITE PETROLATUM BACITRACIN ZINC BACITRACIN NEOMYCIN SULFATE NEOMYCIN"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Bacitracin Zinc 400 units",
+    "Active Ingredient Neomycin Sulfate 5 mg (equivalent to 3.5 mg Neomycin)",
+    "Active Ingredient Polymyxin B Sulfate 5000 units"
+  ],
+  "purpose": [
+    "Purpose First Aid Antibiotic",
+    "Purpose First Aid Antibiotic",
+    "Purpose First Aid Antibiotic"
+  ],
+  "indications_and_usage": [
+    "Use(s) First aid to help prevent infection in minor cuts, scrapes, and burns"
+  ],
+  "warnings": [
+    "Warnings For External Use Only Do not use • In the eyes or apply over large areas of the body • If you are allergic to any of the ingredients • Longer than 1 week unless directed by a doctor Ask a doctor before use if You have deep or puncture wounds, animal bites, or serious burns Stop use and ask a doctor if • The condition persists or gets worse • A rash or other allergic reation develops Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "do_not_use": [
+    "Do not use • In the eyes or apply over large areas of the body • If you are allergic to any of the ingredients • Longer than 1 week unless directed by a doctor"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if You have deep or puncture wounds, animal bites, or serious burns"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if • The condition persists or gets worse • A rash or other allergic reation develops"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Clean the affected area. Apply a small amount of this product (an amount equal to the surface area of the tip of a finger) on the area 1 to 3 times daily. May be covered with a sterile bandage."
+  ],
+  "other_safety_information": [
+    "Other Information • Store at room temperature between 15º-30ºC (59º-86ºF) • Tamper evident. Do not use if packet is torn, cut, or opened"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredient White Petrolatum"
+  ],
+  "questions": [
+    "Questions 1-888-900-2920 Monday - Friday 8AM - 4PM PST."
+  ],
+  "package_label_principal_display_panel": [
+    "Label PS-2261 Triple Antibiotic, 0.5g PS-2261 BX MASTER"
+  ],
+  "set_id": "0072f8de-fc06-d529-e063-6294a90a08db",
+  "id": "46013412-e449-b632-e063-6394a90a0b04",
+  "effective_time": "20251215",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M004"
+    ],
+    "brand_name": [
+      "PS-2261 Triple Antibiotic, 0.5g"
+    ],
+    "generic_name": [
+      "PS-2261 TRIPLE ANTIBIOTIC, 0.5G"
+    ],
+    "manufacturer_name": [
+      "ProStat First Aid LLC"
+    ],
+    "product_ndc": [
+      "58228-2261"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "POLYMYXIN B SULFATE",
+      "BACITRACIN ZINC",
+      "NEOMYCIN SULFATE"
+    ],
+    "rxcui": [
+      "204602"
+    ],
+    "spl_id": [
+      "46013412-e449-b632-e063-6394a90a0b04"
+    ],
+    "spl_set_id": [
+      "0072f8de-fc06-d529-e063-6294a90a08db"
+    ],
+    "package_ndc": [
+      "58228-2261-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0814889010438"
+    ],
+    "unii": [
+      "19371312D4",
+      "89Y4M234ES",
+      "057Y626693"
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "spl_product_data_elements": [
+    "Aluminium Phosphoricum Aluminium Phosphoricum ALUMINUM PHOSPHATE ALUMINUM PHOSPHATE SUCROSE Aluminium Phosphoricum Aluminium Phosphoricum ALUMINUM PHOSPHATE ALUMINUM PHOSPHATE SUCROSE Aluminium Phosphoricum Aluminium Phosphoricum ALUMINUM PHOSPHATE ALUMINUM PHOSPHATE SUCROSE Aluminium Phosphoricum Aluminium Phosphoricum ALUMINUM PHOSPHATE ALUMINUM PHOSPHATE SUCROSE Aluminium Phosphoricum Aluminium Phosphoricum ALUMINUM PHOSPHATE ALUMINUM PHOSPHATE SUCROSE Aluminium Phosphoricum Aluminium Phosphoricum ALUMINUM PHOSPHATE ALUMINUM PHOSPHATE SUCROSE Aluminium Phosphoricum Aluminium Phosphoricum ALUMINUM PHOSPHATE ALUMINUM PHOSPHATE SUCROSE Aluminium Phosphoricum Aluminium Phosphoricum ALUMINUM PHOSPHATE ALUMINUM PHOSPHATE SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Aluminium Phosphoricum 6C 5g Aluminium Phosphoricum 6C 30g Aluminium Phosphoricum 6C 100g Aluminium Phosphoricum 12C 5g Aluminium Phosphoricum 12C 30g Aluminium Phosphoricum 12C 100g Aluminium Phosphoricum 30C 1g Aluminium Phosphoricum 30C 5g Aluminium Phosphoricum 30C 30g Aluminium Phosphoricum 30C 100g Aluminium Phosphoricum 100C 1g Aluminium Phosphoricum 100C 5g Aluminium Phosphoricum 100C 30g Aluminium Phosphoricum 100C 100g Aluminium Phosphoricum 200C 1g Aluminium Phosphoricum 200C 5g Aluminium Phosphoricum 200C 30g Aluminium Phosphoricum 200C 100g Aluminium Phosphoricum 500C 1g Aluminium Phosphoricum 500C 5g Aluminium Phosphoricum 500C 30g Aluminium Phosphoricum 500C 100g Aluminium Phosphoricum 1M 1g Aluminium Phosphoricum 1M 30g Aluminium Phosphoricum 1M 100g Aluminium Phosphoricum 1M 5g Aluminium Phosphoricum 10M 1g Aluminium Phosphoricum 10M 5g Aluminium Phosphoricum 10M 30g Aluminium Phosphoricum 10M 100g"
+  ],
+  "set_id": "003ea3bc-9e9a-00ab-e063-6394a90aac24",
+  "id": "003ea3bc-9e9b-00ab-e063-6394a90aac24",
+  "effective_time": "20230711",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Aluminium Phosphoricum"
+    ],
+    "generic_name": [
+      "ALUMINIUM PHOSPHORICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3576",
+      "37662-3577",
+      "37662-3578",
+      "37662-3579",
+      "37662-3581",
+      "37662-3580",
+      "37662-3582",
+      "37662-3583"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ALUMINUM PHOSPHATE"
+    ],
+    "spl_id": [
+      "003ea3bc-9e9b-00ab-e063-6394a90aac24"
+    ],
+    "spl_set_id": [
+      "003ea3bc-9e9a-00ab-e063-6394a90aac24"
+    ],
+    "package_ndc": [
+      "37662-3577-1",
+      "37662-3577-2",
+      "37662-3577-3",
+      "37662-3578-1",
+      "37662-3578-2",
+      "37662-3578-3",
+      "37662-3578-4",
+      "37662-3579-1",
+      "37662-3579-2",
+      "37662-3579-3",
+      "37662-3579-4",
+      "37662-3581-1",
+      "37662-3581-2",
+      "37662-3581-3",
+      "37662-3581-4",
+      "37662-3580-1",
+      "37662-3580-2",
+      "37662-3580-3",
+      "37662-3580-4",
+      "37662-3582-1",
+      "37662-3582-2",
+      "37662-3582-3",
+      "37662-3582-4",
+      "37662-3583-1",
+      "37662-3583-2",
+      "37662-3583-3",
+      "37662-3583-4",
+      "37662-3576-1",
+      "37662-3576-2",
+      "37662-3576-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "F92V3S521O"
+    ]
+  }
+}

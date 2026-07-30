@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Dove Coconut and Hibiscus Fresh 48h Antiperspirant Deodorant COCONUT OIL BENZYL BENZOATE HYDROXYCITRONELLAL LIMONENE, (+)- CYCLOMETHICONE 5 CITRAL CALCIUM CHLORIDE WATER ALKYL (C12-15) BENZOATE SYNTHETIC WAX (1200 MW) ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE GLYCERIN CETYL PEG/PPG-10/1 DIMETHICONE (HLB 4) GLYCINE SUNFLOWER OIL SHEA BUTTER BENZYL ALCOHOL HIBISCUS ROSA-SINENSIS FLOWER COUMARIN BENZYL SALICYLATE"
+  ],
+  "description": [
+    "SHEA MOISTURE COCONUT & HIBISCUS FRESH 48H ANTIPERSPIRANT DEODORANT - aluminum sesquichlorohydrate stick"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active ingredient Aluminum Sesquichlorohydrate (12.2)"
+  ],
+  "purpose": [
+    "Purpose antiperspirant"
+  ],
+  "indications_and_usage": [
+    "Uses reduces underarm wetness"
+  ],
+  "warnings": [
+    "Warnings • For external use only. • Do not use on broken skin . • Ask a doctor before use if you have kidney disease. • Stop use if rash or irritation occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "• Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply to underarms only"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water (Aqua), C12-15 Alkyl Benzoate, Cyclopentasiloxane, Synthetic Wax, Glycerin, Calcium Chloride, Cetyl PEG/PPG-10/1 Dimethicone, Glycine, Fragrance (Parfum), Helianthus Annuus (Sunflower) Seed Oil, Butyrospermum Parkii (Shea) Butter, Cocos Nucifera (Coconut) Oil, Hibiscus Rosa Sinensis Flower Extract, Benzyl Alcohol, Benzyl Benzoate, Benzyl Salicylate, Citral, Coumarin, Hydroxycitronellal, Limonene."
+  ],
+  "questions": [
+    "Questions? Call 1-800-761-3683"
+  ],
+  "package_label_principal_display_panel": [
+    "Packaging Shea Moisture Fresh AP Deo"
+  ],
+  "set_id": "03890907-8f63-e6e6-e063-6394a90aa291",
+  "id": "253d0291-2689-b53f-e063-6294a90a7d7c",
+  "effective_time": "20241024",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M019"
+    ],
+    "brand_name": [
+      "Dove"
+    ],
+    "generic_name": [
+      "COCONUT AND HIBISCUS FRESH 48H ANTIPERSPIRANT DEODORANT"
+    ],
+    "manufacturer_name": [
+      "Conopco Inc. d/b/a/ Unilever"
+    ],
+    "product_ndc": [
+      "64942-2148"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALUMINUM SESQUICHLOROHYDRATE"
+    ],
+    "spl_id": [
+      "253d0291-2689-b53f-e063-6294a90a7d7c"
+    ],
+    "spl_set_id": [
+      "03890907-8f63-e6e6-e063-6394a90aa291"
+    ],
+    "package_ndc": [
+      "64942-2148-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "UCN889409V"
+    ]
+  }
+}

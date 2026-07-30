@@ -1,0 +1,96 @@
+{
+  "spl_product_data_elements": [
+    "amazon basics therapeutic tar gel anti-dandruff Extra Strength Anti-dandruff, anti-seborrheic dermatitis, anti-psoriasis COAL TAR COAL TAR COAL TAR Water SODIUM LAURYL SULFATE Cocamidopropyl Betaine COCO MONOETHANOLAMIDE Laureth-4 Polysorbate 20 Bis-Hydroxyethyl Dihydroxypropyl Stearammonium Chloride PEG-120 Methyl Glucose Dioleate EDETATE DISODIUM CITRIC ACID MONOHYDRATE Phenoxyethanol Methylchloroisothiazolinone Methylisothiazolinone FD&C RED NO. 40 FD&C BLUE NO. 1 FD&C YELLOW NO. 5 FD&C YELLOW NO. 6"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Distributed by: Amazon.com Services LLC Seattle, WA 98109, 1-877-485-0385"
+  ],
+  "active_ingredient": [
+    "Active ingredient Solubilized Coal Tar Extract 5.00% (Coal Tar, 1.00%)"
+  ],
+  "purpose": [
+    "Purpose Anti-dandruff, anti-seborrheic dermatitis, anti-psoriasis"
+  ],
+  "indications_and_usage": [
+    "Use controls the symptom of: dandruff seborrheic dermatitis psoriasis"
+  ],
+  "warnings": [
+    "Warnings For external use only. Ask a doctor before using this product if condition covers a large area of the body. When using this product avoid contact with the eyes. If contact occurs, rinse eyes thoroughly with water use caution in exposing skin to sunlight after applying this product. It may increase your tendency to sunburn for up to 24 hours after application. do not use for prolonged periods without consulting a doctor. do not use this product with other forms of psoriasis therapy such as ultraviolet radiation or prescription drugs unless directed to do so by a doctor. Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before using this product if condition covers a large area of the body."
+  ],
+  "when_using": [
+    "When using this product avoid contact with the eyes. If contact occurs, rinse eyes thoroughly with water use caution in exposing skin to sunlight after applying this product. It may increase your tendency to sunburn for up to 24 hours after application. do not use for prolonged periods without consulting a doctor. do not use this product with other forms of psoriasis therapy such as ultraviolet radiation or prescription drugs unless directed to do so by a doctor."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions for best results use at least twice a week or as directed by a doctor wet hair thoroughly massage shampoo into the scalp lather, leave on hair and scalp for several minutes. rinse and repeat"
+  ],
+  "storage_and_handling": [
+    "Other information store away from direct sunlight in rare instances, discoloration of gray, blonde, bleached or tinted hair may occur"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, sodium laureth sulfate, cocamidopropyl betaine, cocamide MEA, laureth-4, polysorbate 20, bis-hydroxyethyl dihydroxypropyl stearammonium chloride, PEG-120 methyl glucose dioleate, disodium edta, citric acid, phenoxyethanol, fragrance, methylchloroisothiazolinone, methylisothiazolinone, red 40, blue 1, yellow 5, yellow 6."
+  ],
+  "questions": [
+    "Questions or comments? 1-866-567-8600"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 177 mL Bottle Label amazon basics therapeutic tar gel anti- dandruff shampoo Extra Strength For Relief of Flaking & Redness, Associated with Dandruff, Seborrheic Dermatitis & Psoriasis 5% COAL TAR SOLUTION 1% COAL TAR 6 FL OZ (177 mL) P-03852 05-4690 PRINCIPAL DISPLAY PANEL - 177 mL Bottle Label"
+  ],
+  "set_id": "0464b4ff-1be1-4d84-b7fd-b771ebc1e16c",
+  "id": "22babfd1-71f4-4911-a100-825c561e9beb",
+  "effective_time": "20240509",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M032"
+    ],
+    "brand_name": [
+      "amazon basics therapeutic tar gel anti-dandruff Extra Strength Anti-dandruff, anti-seborrheic dermatitis, anti-psoriasis"
+    ],
+    "generic_name": [
+      "COAL TAR"
+    ],
+    "manufacturer_name": [
+      "AMAZON.COM SERVICES LLC"
+    ],
+    "product_ndc": [
+      "72288-337"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "COAL TAR"
+    ],
+    "rxcui": [
+      "309402"
+    ],
+    "spl_id": [
+      "22babfd1-71f4-4911-a100-825c561e9beb"
+    ],
+    "spl_set_id": [
+      "0464b4ff-1be1-4d84-b7fd-b771ebc1e16c"
+    ],
+    "package_ndc": [
+      "72288-337-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "R533ESO2EC"
+    ]
+  }
+}

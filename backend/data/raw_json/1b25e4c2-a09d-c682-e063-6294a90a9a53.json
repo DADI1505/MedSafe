@@ -1,0 +1,96 @@
+{
+  "spl_product_data_elements": [
+    "Walgreens 3 Hydrogen Peroxide Wipes HYDROGEN PEROXIDE POLYSORBATE 80 WATER HYDROGEN PEROXIDE HYDROGEN PEROXIDE"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information do not apply internally keep canister tightly closed and stored at room temperature hold away from face whe opening"
+  ],
+  "active_ingredient": [
+    "Active ingredient Hydrogen peroxide (stabilized) 3% Purpose First aid antiseptic"
+  ],
+  "purpose": [
+    "Purpose First aid antiseptic"
+  ],
+  "indications_and_usage": [
+    "Uses first aid to help prevent the risk of infection in: minor cuts scrapes burns"
+  ],
+  "warnings": [
+    "Warnings For external use only. Ask a doctor before use if you have deep or puncture wounds animal bites serious burns When using this product do not get in eyes do not apply over large areas do not use longer than 1 week unless directed by a doctor Stop use and ask a doctor if condition persists or gets worse. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have deep or puncture wounds animal bites serious burns"
+  ],
+  "when_using": [
+    "When using this product do not get in eyes do not apply over large areas do not use longer than 1 week unless directed by a doctor"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition persists or gets worse."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions clean the affected area apply product on the affected area of the body 1 to 3 times a day may be covered with a sterile bandage if bandaged, let dry first"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients polysorbate 80, purified water"
+  ],
+  "questions": [
+    "Questions or comments? 1-800-925-4733"
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Label0"
+  ],
+  "set_id": "03c497cc-c8b1-43b7-86ba-f9f9fc7432bf",
+  "id": "1b25e4c2-a09d-c682-e063-6294a90a9a53",
+  "effective_time": "20240618",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Walgreens 3 Hydrogen Peroxide Wipes"
+    ],
+    "generic_name": [
+      "HYDROGEN PEROXIDE"
+    ],
+    "manufacturer_name": [
+      "Walgreen Company"
+    ],
+    "product_ndc": [
+      "0363-9653"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "HYDROGEN PEROXIDE"
+    ],
+    "spl_id": [
+      "1b25e4c2-a09d-c682-e063-6294a90a9a53"
+    ],
+    "spl_set_id": [
+      "03c497cc-c8b1-43b7-86ba-f9f9fc7432bf"
+    ],
+    "package_ndc": [
+      "0363-9653-00"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0311917045986"
+    ],
+    "unii": [
+      "BBX060AN9V"
+    ]
+  }
+}

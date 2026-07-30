@@ -1,0 +1,104 @@
+{
+  "spl_product_data_elements": [
+    "basic care nighttime sleep aid Diphenhydramine HCl DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE ALCOHOL ANHYDROUS CITRIC ACID FD&C BLUE NO. 1 FD&C RED NO. 40 HIGH FRUCTOSE CORN SYRUP POLOXAMER 407 PROPYLENE GLYCOL WATER SACCHARIN SODIUM SODIUM BENZOATE SODIUM CITRATE, UNSPECIFIED FORM"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each 30 mL) Diphenhydramine HCl 50 mg"
+  ],
+  "purpose": [
+    "Purpose Nighttime sleep-aid"
+  ],
+  "indications_and_usage": [
+    "Uses • for the relief of occasional sleeplessness • reduces time to fall asleep if you have difficulty falling asleep"
+  ],
+  "warnings": [
+    "Warnings Do not use • for children under 12 years of age • with any other product containing diphenhydramine, even one used on skin Ask a doctor before use if you have • a breathing problem such as emphysema or chronic bronchitis • glaucoma • difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product • avoid alcoholic beverages Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of serious underlying medical illness. If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "do_not_use": [
+    "Do not use • for children under 12 years of age • with any other product containing diphenhydramine, even one used on skin"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have • a breathing problem such as emphysema or chronic bronchitis • glaucoma • difficulty in urination due to enlargement of the prostate gland"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers"
+  ],
+  "when_using": [
+    "When using this product • avoid alcoholic beverages"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of serious underlying medical illness."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "dosage_and_administration": [
+    "Directions • take only one dose per day (24 hours) • only use the dose cup provided adults & children 12 yrs & over 30 mL at bed time if needed or as directed by a doctor children under 12 yrs do not use Other information • each 30 mL contains: sodium 20 mg • store at 20-25 ° C (68-77 ° F)"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"100%\"><col width=\"33%\"/><col width=\"54%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>adults &amp; children 12 yrs &amp; over</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>30 mL at bed time if needed or as directed by a doctor</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>children under 12 yrs</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>do not use</paragraph></td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information • each 30 mL contains: sodium 20 mg • store at 20-25 ° C (68-77 ° F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients alcohol, anhydrous citric acid, FD&C blue #1, FD&C red #40, flavor, high fructose corn syrup, poloxamer 407, propylene glycol, purified water, saccharin sodium, sodium benzoate, sodium citrate"
+  ],
+  "questions": [
+    "Questions? 1-800-719-9260"
+  ],
+  "package_label_principal_display_panel": [
+    "Package/Label Principal Display Panel amazon basic care Non-Habit Forming Compare to Vicks ® ZzzQuil ® active ingredient Nighttime Sleep-Aid Diphenhydramine HCl 50 mg per 30 mL Not for treating Cold or Flu 10% ALCOHOL #1 Doctor recommended sleep-aid active ingredient Berry Flavor 12 FL OZ (355 mL) sleep-aid-image"
+  ],
+  "set_id": "027de5ea-5c07-4960-8a98-8cf2c0e54a92",
+  "id": "c0267679-46c6-4c16-be29-97c263c4f9eb",
+  "effective_time": "20241016",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M010"
+    ],
+    "brand_name": [
+      "basic care nighttime sleep aid"
+    ],
+    "generic_name": [
+      "DIPHENHYDRAMINE HCL"
+    ],
+    "manufacturer_name": [
+      "Amazon.com Services LLC"
+    ],
+    "product_ndc": [
+      "72288-186"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIPHENHYDRAMINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1248354"
+    ],
+    "spl_id": [
+      "c0267679-46c6-4c16-be29-97c263c4f9eb"
+    ],
+    "spl_set_id": [
+      "027de5ea-5c07-4960-8a98-8cf2c0e54a92"
+    ],
+    "package_ndc": [
+      "72288-186-40"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "TC2D6JAD40"
+    ]
+  }
+}

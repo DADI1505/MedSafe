@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "Attitude - Lip Balm - SPF 15 - Coconut Zinc oxide FERRIC OXIDE RED FERRIC OXIDE YELLOW FERROSOFERRIC OXIDE TRIHYDROXYSTEARIN BEHENYL BEHENATE GLYCERYL MONOBEHENATE OCTYLDODECANOL COCONUT OIL POLYHYDROXYSTEARIC ACID (2300 MW) SHEA BUTTER SUNFLOWER OIL HELIANTHUS ANNUUS SEED WAX MEDIUM-CHAIN TRIGLYCERIDES CASTOR OIL ARGAN OIL CANDELILLA WAX VANILLIN .GAMMA.-OCTALACTONE .GAMMA.-NONALACTONE ETHYL CAPROATE ETHYL ACETATE ZINC OXIDE ZINC OXIDE MANGANESE VIOLET JOJOBA OIL, RANDOMIZED STEAROYL GLUTAMIC ACID"
+  ],
+  "spl_unclassified_section": [
+    "DRUG FACTS"
+  ],
+  "active_ingredient": [
+    "Medicinal ingredient Zinc oxide (10%)"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent sunburn."
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use on broken skin. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Stop use and consult a doctor if rash occurs."
+  ],
+  "do_not_use": [
+    "Do not use on broken skin."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "stop_use": [
+    "Stop use and consult a doctor if rash occurs."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children older than 6 months. Apply generously 15 minutes before sun exposure. Reapply at least every 2 hours, after eating or drinking. Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPFvalue of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10am-2pm; and wear long-sleeved shirts, pants, hats and sunglasses. Use a water resistant sunscreen if swimming or sweating."
+  ],
+  "inactive_ingredient": [
+    "Inactive or non-medicinal ingredients Cocos Nucifera (Coconut) Oil, Polyhydroxystearic Acid, Caprylic/Capric Triglyceride, Behenyl Behenate, Butyrospermum Parkii (Shea) Butter, Helianthus Annuus (Sunflower) Seed Oil, Helianthus Annuus (Sunflower) Seed Wax, Ricinus Communis (Castor) Seed Oil, Argania Spinosa (Argan) Kernel Oil, Glyceryl Behenate, Euphorbia Cerifera (Candelilla) Wax, Octyldodecanol, CI 77491 (Iron Oxides), CI 77492 (Iron Oxides), CI 77742 (Manganese Violet), CI 77499 (Iron Oxides), Jojoba Esters, Trihydroxystearin, Stearoyl Glutamic Acid, Ethyl Acetate*, Ethyl Hexanoate*, Gamma-Nonalactone*, Gamma-Octalactone*, Vanillin*, *flavour (Aroma)."
+  ],
+  "storage_and_handling": [
+    "Other Information Store at temperatures < 90F and protect from direct sun. Avoid contact of packaging with water."
+  ],
+  "questions": [
+    "Questions ? 1-855-509-7225"
+  ],
+  "recent_major_changes": [
+    "Update of the directions"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 8.5 g Tube Carton ATTITUDE natural care SPF 15 coconut lip balm universal shade BROAD SPECTRUM SUNSCREEN SPF 15 UVA UVB + NON NANO SUNLY 8.5 g / 0.3 oz. NPN 80109103 Vegan EWG Verified Ocean Lovers Dermatologically tested Label"
+  ],
+  "set_id": "068af2ec-a666-45bf-b0e0-89d1b93dedf1",
+  "id": "450eb613-e77d-8cc0-e063-6394a90a94c1",
+  "effective_time": "20251203",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Attitude - Lip Balm - SPF 15 - Coconut"
+    ],
+    "generic_name": [
+      "ZINC OXIDE"
+    ],
+    "manufacturer_name": [
+      "Attitude DBA 9055-7588 Qubec Inc."
+    ],
+    "product_ndc": [
+      "61649-985"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "450eb613-e77d-8cc0-e063-6394a90a94c1"
+    ],
+    "spl_set_id": [
+      "068af2ec-a666-45bf-b0e0-89d1b93dedf1"
+    ],
+    "package_ndc": [
+      "61649-985-01",
+      "61649-985-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

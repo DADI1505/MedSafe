@@ -1,0 +1,93 @@
+{
+  "spl_product_data_elements": [
+    "HAWAIIAN TROPIC AVOBENZONE,OCTISALATE,OCTOCRYLENE PASSIFLORA INCARNATA FRUIT CHLORPHENESIN XANTHAN GUM SODIUM ASCORBYL PHOSPHATE AVOBENZONE AVOBENZONE WATER STARCH, RICE DIISOPROPYL ADIPATE DEHYDRATED ALCOHOL OCTISALATE OCTISALATE GLYCERIN PHENOXYETHANOL ALOE VERA LEAF GUAVA PAPAYA GLUCONOLACTONE CORN OIL OCTOCRYLENE OCTOCRYLENE EDETATE DISODIUM BETA CAROTENE CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE CAPRYLYL GLYCOL ALPHA-TOCOPHEROL ACETATE SAFFLOWER OIL PLUMERIA RUBRA FLOWER SODIUM HYDROXIDE PANTHENOL MANGO"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Avobenzone 2.7%, Octisalate 4.5%, Octocrylene 5.2%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses • helps prevent sunburn • if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away. • May stain some fabrics and surfaces."
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin."
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away. • May stain some fabrics and surfaces."
+  ],
+  "dosage_and_administration": [
+    "Directions • apply liberally 15 minutes before sun exposure • reapply: • after 80 minutes of swimming or sweating • immediately after towel drying • at least every 2 hours • Sun Protection Measures . Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF value of 15 or higher and other sun protection measures including: • limit time in the sun, especially from 10 a.m. - 2 p.m. • wear longsleeved shirts, pants, hats, and sunglasses • children under 6 months: Ask a doctor."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Water, Carthamus Tinctorius (Safflower) Seed Oil, Diisopropyl Adipate, Oryza Sativa (Rice) Starch, Glycerin, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Alcohol Denat., Phenoxyethanol, Carbomer, Caprylyl Glycol, Sodium Hydroxide, Chlorphenesin, Fragrance, Gluconolactone, Xanthan Gum, Disodium EDTA, Tocopheryl Acetate, Panthenol, Aloe Barbadensis Leaf Juice, Zea Mays (Corn) Oil, Sodium Ascorbyl Phosphate, Beta-Carotene, Carica Papaya (Papaya) Fruit Extract, Mangifera Indica (Mango) Fruit Extract, Passiflora Incarnata Fruit Extract, Plumeria Acutifolia Flower Extract, Psidium Guajava Fruit Extract"
+  ],
+  "spl_unclassified_section": [
+    "Other Information Protect this product from excessive heat and direct sun"
+  ],
+  "questions": [
+    "Questions or Comments? 1-800-NO UV RAY, Mon-Fri"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel HAWAIIAN TROPIC SUNSCREEN LOTION WEIGHTLESS HYDRATION 12HR MOISTURIZATION* ISLAND BOTANICALS 50 DERM TESYTED BROAD SPECTRUM SPF 50 UVA/UVB WATER RESISTANT (80 MINUTES) 6 FL. OZ. (177 mL) Front Label Back Label"
+  ],
+  "set_id": "053e76f0-8ca0-645d-e063-6394a90a01d2",
+  "id": "3fe827b5-1ec2-9507-e063-6294a90a6517",
+  "effective_time": "20250928",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "HAWAIIAN TROPIC"
+    ],
+    "generic_name": [
+      "AVOBENZONE,OCTISALATE,OCTOCRYLENE"
+    ],
+    "manufacturer_name": [
+      "Edgewell Personal Care Brands LLC"
+    ],
+    "product_ndc": [
+      "63354-512"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "AVOBENZONE",
+      "OCTISALATE",
+      "OCTOCRYLENE"
+    ],
+    "spl_id": [
+      "3fe827b5-1ec2-9507-e063-6294a90a6517"
+    ],
+    "spl_set_id": [
+      "053e76f0-8ca0-645d-e063-6394a90a01d2"
+    ],
+    "package_ndc": [
+      "63354-512-54"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "G63QQF2NOX",
+      "4X49Y0596W",
+      "5A68WGF6WM"
+    ]
+  }
+}

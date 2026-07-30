@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "MaxSaver Sanitizing Wipes Benzalkonium Chloride CAPRYLYL/CAPRYL OLIGOGLUCOSIDE POLY(LAURYLGLUCOSIDE)-7 WATER PHENOXYETHANOL BENZOIC ACID DEHYDROACETIC ACID BENZALKONIUM CHLORIDE BENZALKONIUM PROPYLENE GLYCOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredient Benzalkonium Chloride 0.13 %"
+  ],
+  "purpose": [
+    "Purpose Antimicrobal"
+  ],
+  "indications_and_usage": [
+    "Use Hand sanitizer to help reduce bacteria on the skin. Recommended for repeated use."
+  ],
+  "warnings": [
+    "Warnings For external use only. When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly in water. Discontinue use if irritation and redness develop. If conditions persist for more than 72 hours, consult a physician. If swallowed get medical help or contact a poison control center immediately. Keep out of reach of children."
+  ],
+  "when_using": [
+    "When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly in water."
+  ],
+  "stop_use": [
+    "Discontinue use if irritation and redness develop. If conditions persist for more than 72 hours, consult a physician."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions Wet hands thoroughly with product and allow to dry. Be sure to use entire wipe. Discard after single use. Children under 6 years of age should be supervised when using this product."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Benzoic Acid, Caprylyl/Capryl Oligoglucoside, Dehydroacetic Acid, Phenoxyethanol, Poly(Laurylglucoside)-7, Propylene Glycol, Water"
+  ],
+  "package_label_principal_display_panel": [
+    "MaxSaver™ Sanitizing Wipes Kills 99.99% of most common germs that may cause illness DO NOT FLUSH ERC Fragrance Free ercwipe.com ERC WIPING PRODUCTS 2000 Wipes • 8\"x 5\" 800-225-9473 undefined"
+  ],
+  "set_id": "00ccdb15-7db9-0102-e063-6294a90a3ee3",
+  "id": "56d4a790-f150-1f42-e063-6394a90ae0ba",
+  "effective_time": "20260717",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "MaxSaver Sanitizing Wipes"
+    ],
+    "generic_name": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Innocore Sales & Marketing Inc"
+    ],
+    "product_ndc": [
+      "70924-005"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "CUTANEOUS"
+    ],
+    "substance_name": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "rxcui": [
+      "1038558"
+    ],
+    "spl_id": [
+      "56d4a790-f150-1f42-e063-6394a90ae0ba"
+    ],
+    "spl_set_id": [
+      "00ccdb15-7db9-0102-e063-6294a90a3ee3"
+    ],
+    "package_ndc": [
+      "70924-005-01",
+      "70924-005-02",
+      "70924-005-03",
+      "70924-005-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0632963179877"
+    ],
+    "unii": [
+      "F5UM2KM3W7"
+    ]
+  }
+}

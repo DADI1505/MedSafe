@@ -1,0 +1,112 @@
+{
+  "spl_product_data_elements": [
+    "weight loss gummies weight loss gummies BIFIDOBACTERIUM ANIMALIS LACTIS B420 BIFIDOBACTERIUM LONGUM INFANTIS LACTOBACILLUS ACIDOPHILUS LACTICASEIBACILLUS RHAMNOSUS AMINO ACIDS AMINO ACIDS BIFIDOBACTERIUM ANIMALIS LIMOSILACTOBACILLUS REUTERI BIFIDOBACTERIUM BIFIDUM BIFIDOBACTERIUM BREVE LACTIPLANTIBACILLUS PLANTARUM LACTOBACILLUS GASSERI LACTOBACILLUS HELVETICUS BARLEY MALT BARLEY MALT LACTICASEIBACILLUS CASEI LACTICASEIBACILLUS PARACASEI LACTOBACILLUS DELBRUECKII BULGARICUS"
+  ],
+  "active_ingredient": [
+    "Amino acids 2%, BARLEY MALT 1%"
+  ],
+  "purpose": [
+    "Purpose Promote weight balance health Regulate the immune system"
+  ],
+  "indications_and_usage": [
+    "Uses Regulating immunity"
+  ],
+  "warnings": [
+    "Warnings For internal use only"
+  ],
+  "do_not_use": [
+    "Do not use If you are allergic to any ingredients"
+  ],
+  "when_using": [
+    "When Using Section When using this product , do not take other medications at the same timeIf taking antibiotics at the same time , If taking antibiotics at the same time, please interval at least 2 hours or follow medical advice. If discomfort occurs after consumption , please stop using and consult a doctor"
+  ],
+  "stop_use": [
+    "Stop Use section No side effects"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Children , pregnant women , and nursing mothers should not consume it ."
+  ],
+  "dosage_and_administration": [
+    "Instructions Once a day , 2 gummies each time , taken with warm water Seal and place in a cool and dry place This product cannot replace medication for treatment"
+  ],
+  "storage_and_handling": [
+    "Other information Other information store at 20-30°C( 68-77F) protect from excessive moisture"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Bifidobacterium animalis B-420 , Bifidobacterium animalis ssp lactis HN019, Lactobacillus gasseri SBT2055 , Lactobacillus reuteri mucilage LR09, Bifidobacterium bifidum BB03 , Bifidobacterium longum Infantis Bi15, Lactobacillus Casei CL05 , Lactobacillus Acidophillis LA-10A, Weizmannella Coagulans BC01 , Lactobacillus paracasei PC32, Bifidobacterium breve BB05 , Lactobacillus Rhamnosus NJ551, Lactobacillus Plantarum PL15A , Lactobacillus delbruecki Bulgaria NL15A, Lactobacillus helveticus LH08B , Mixed Premium Prebiotic(combined digestive enzyme)"
+  ],
+  "package_label_principal_display_panel": [
+    "83739-007-01"
+  ],
+  "set_id": "07a9c66d-ae9b-0d23-e063-6294a90a43a6",
+  "id": "2e4fa606-008c-e54b-e063-6294a90af4c3",
+  "effective_time": "20250216",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "weight loss gummies"
+    ],
+    "generic_name": [
+      "WEIGHT LOSS GUMMIES"
+    ],
+    "manufacturer_name": [
+      "XIAN CHIANG COMPANY LIMITED"
+    ],
+    "product_ndc": [
+      "83739-007"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "AMINO ACIDS",
+      "BARLEY MALT"
+    ],
+    "spl_id": [
+      "2e4fa606-008c-e54b-e063-6294a90af4c3"
+    ],
+    "spl_set_id": [
+      "07a9c66d-ae9b-0d23-e063-6294a90a43a6"
+    ],
+    "package_ndc": [
+      "83739-007-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175797",
+      "M0000922",
+      "N0000185371",
+      "N0000185375",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "M0006342",
+      "M0016962",
+      "N0000185016"
+    ],
+    "pharm_class_epc": [
+      "Amino Acid Hypertonic Solution [EPC]",
+      "Non-Standardized Food Allergenic Extract [EPC]",
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Amino Acids [CS]",
+      "Allergens [CS]",
+      "Dietary Proteins [CS]",
+      "Plant Proteins [CS]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "unii": [
+      "0O72R8RF8A",
+      "R3NBG8914U"
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "spl_product_data_elements": [
+    "Extra Strength Antacid Assorted Berries Calcium Carbonate ADIPIC ACID DEXTROSE, UNSPECIFIED FORM FD&C BLUE NO. 1 FD&C RED NO. 40 MAGNESIUM STEARATE MALTODEXTRIN STARCH, CORN SUCRALOSE CALCIUM CARBONATE CARBONATE ION CALCIUM CATION LIGHT RP102 ASSORTED"
+  ],
+  "active_ingredient": [
+    "Active ingredient (per tablet) Calcium Carbonate USP 750 mg"
+  ],
+  "purpose": [
+    "Purpose Antacid"
+  ],
+  "indications_and_usage": [
+    "Uses relieves heartburn acid indigestion sour stomach upset stomach associated with these symptoms"
+  ],
+  "warnings": [
+    "Warnings Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product do not take more than 10 tablets in 24 hours If pregnant do not take more than 6 tablets in 24 hours do not use the maximum dosage for more than 2 weeks except under the advice and supervision of a doctor"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 12 years of age and over: chew 2-4 tablets completely as symptoms occur or as directed by a doctor. Do not swallow tablets whole. do not take for symptoms that persist for more than 2 weeks unless advised by a doctor"
+  ],
+  "spl_unclassified_section": [
+    "Other Information each tablet contains: elemental calcium 300mg store at room temperature. Keep the container tightly closed."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients adipic acid, dextrose, FD&C Blue No. 1, FD&C Red No. 40, flavors, magnesium stearate, maltodextrin, starch, sucralose. Questions or comments? 1-866-467-2748 SAFETY SEALED: DO NOT USE IF PRINTED SEAL UNDER CAP IS TORN OR MISSING"
+  ],
+  "questions": [
+    "Questions or comments? 1-866-467-2748 SAFETY SEALED: DO NOT USE IF PRINTED SEAL UNDER CAP IS TORN OR MISSING"
+  ],
+  "package_label_principal_display_panel": [
+    "Package/Label Principal Display Panel *Compare to the active ingredient in Extra Strength Tums ® EXTRA STRENGTH Antacid Tablets Calcium Carbonate Tablets 750 mg Fast Relief of Upset Stomach, Heartburn and Acid Indigestion Assorted Berries Naturally & Artificially Flavored K PARVE GLUTEN-FREE Manufactured By: Raritan Pharmaceuticals 8 Joanna Court East Brunswick, NJ 08816 *This product is not manufactured or distributed by GlaxoSmithKline LLC, owner of the registered trademark, Extra Strength Tums ® . Package Label 96 Chewable Tablets DRx Choice Extra Strength Assorted Berry 96 CT Package Label 44 Chewable Tablets DRx Choice Extra Strength Assorted Berry 44 CT"
+  ],
+  "set_id": "07a50168-6b05-4c99-9969-7d7f0aa54f30",
+  "id": "3fb16c41-f052-272d-e063-6294a90a67c1",
+  "effective_time": "20250926",
+  "version": "8",
+  "openfda": {
+    "application_number": [
+      "M001"
+    ],
+    "brand_name": [
+      "Extra Strength Antacid Assorted Berries"
+    ],
+    "generic_name": [
+      "CALCIUM CARBONATE"
+    ],
+    "manufacturer_name": [
+      "RARITAN PHARMACEUTICALS INC"
+    ],
+    "product_ndc": [
+      "68163-102"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CALCIUM CARBONATE"
+    ],
+    "rxcui": [
+      "308915"
+    ],
+    "spl_id": [
+      "3fb16c41-f052-272d-e063-6294a90a67c1"
+    ],
+    "spl_set_id": [
+      "07a50168-6b05-4c99-9969-7d7f0aa54f30"
+    ],
+    "package_ndc": [
+      "68163-102-24",
+      "68163-102-44"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "H0G9379FGK"
+    ]
+  }
+}

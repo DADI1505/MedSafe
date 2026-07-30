@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "SOAANZ Torsemide TORSEMIDE TORSEMIDE T20 Biconvex SOAANZ Torsemide TORSEMIDE TORSEMIDE T40 Biconvex SOAANZ Torsemide TORSEMIDE TORSEMIDE T60 Biconvex SOAANZ Torsemide TORSEMIDE TORSEMIDE T40 Biconvex"
+  ],
+  "components": [
+    "Drug Structure Structure Drug Structure"
+  ],
+  "package_label_principal_display_panel": [
+    "Sample Image 40 mg Sample Image of container Label for 40 mg. soanzxr-06.jpg 40 mg",
+    "Sample image 20 mg Sample image 20 mg soanzxr-02.jpg 20 mg",
+    "Sample Image 60 mg Sample image 60 mg soanzxr-04.jpg 60 mg",
+    "Sample Carton Image 40 mg 40 mg carton image soanzxr-10.jpg Carton Image 40 mg"
+  ],
+  "set_id": "05eaa163-b6e9-438a-85f8-6a60e743d460",
+  "id": "47fa8bbb-4c81-97c3-e063-6394a90a61cc",
+  "effective_time": "20260109",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "NDA213218"
+    ],
+    "brand_name": [
+      "SOAANZ"
+    ],
+    "generic_name": [
+      "TORSEMIDE"
+    ],
+    "manufacturer_name": [
+      "Sarfez Pharmaceuticals Inc"
+    ],
+    "product_ndc": [
+      "73502-586",
+      "73502-786",
+      "73502-687",
+      "73502-287"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "TORSEMIDE"
+    ],
+    "rxcui": [
+      "198371",
+      "2589877",
+      "2589881",
+      "2589883",
+      "2589885",
+      "2589887"
+    ],
+    "spl_id": [
+      "47fa8bbb-4c81-97c3-e063-6394a90a61cc"
+    ],
+    "spl_set_id": [
+      "05eaa163-b6e9-438a-85f8-6a60e743d460"
+    ],
+    "package_ndc": [
+      "73502-786-07",
+      "73502-786-08",
+      "73502-586-10",
+      "73502-586-11",
+      "73502-687-13",
+      "73502-687-14",
+      "73502-287-12",
+      "73502-287-16"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0373502287164"
+    ],
+    "nui": [
+      "N0000175366",
+      "N0000175590"
+    ],
+    "pharm_class_pe": [
+      "Increased Diuresis at Loop of Henle [PE]"
+    ],
+    "pharm_class_epc": [
+      "Loop Diuretic [EPC]"
+    ],
+    "unii": [
+      "W31X2H97FB"
+    ]
+  }
+}

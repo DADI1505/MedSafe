@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Anti-fungal Powder Miconazole Nitrate Miconazole Nitrate ALDIOXA CHLOROXYLENOL IMIDUREA POWDERED CELLULOSE MICONAZOLE NITRATE MICONAZOLE"
+  ],
+  "active_ingredient": [
+    "Active ingredient Miconazole nitrate 2%"
+  ],
+  "purpose": [
+    "Purpose Antifungal"
+  ],
+  "indications_and_usage": [
+    "Uses for the cure of most athlete's foot, jock itch and ringworm"
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use on children under 2 years of age unless directed by a doctor. When using this product avoid contact with the eyes Stop and ask a doctor if irritation occurs or there is no improvement within 4 weeks for athlete's foot and ringworm, or 2 weeks for jock itch. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on children under 2 years of age unless directed by a doctor."
+  ],
+  "when_using": [
+    "When using this product avoid contact with the eyes"
+  ],
+  "stop_use": [
+    "Stop and ask a doctor if irritation occurs or there is no improvement within 4 weeks for athlete's foot and ringworm, or 2 weeks for jock itch."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions clean the affected area and dry thoroughly apply a thin layer of product over affected area twice daily (morning and night) or as directed by a doctor supervise children in the use of this product for athlete’s foot: pay special attention to spaces between the toes; wear well-fitting, ventilated shoes, & change shoes & socks at least once daily for athlete's foot and ringworm, use daily for 4 weeks; for jock itch, use daily for 2 weeks if conditions persist longer, consult a doctor this product is not effective on the scalp or nails"
+  ],
+  "other_safety_information": [
+    "Other information store between 59º - 86ºF lightly shake bottle to loosen settled powder"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients allantoin, chloroxylenol, fragrance, imidazolidinyl urea, micocrystalline cellulose, tricalcium phosphate, zea mays (corn) starch"
+  ],
+  "questions": [
+    "Questions? call 1-866-964-0939"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel EndZone ANTIFUNGAL POWDER MICONAZOLE NITRATE 2%/ANTIFUNGAL CURES MOST ATHLETE'S FOOT, JOCK ITCH & RINGWORM Absorbs Moisture Relieves itching, Burning, Scaling & Chafing Talc-Free NET WT. 2.5 OZ. (71 g) Image 1"
+  ],
+  "set_id": "052d8d02-2381-1e3a-e063-6394a90aa07e",
+  "id": "42537026-f1f3-422f-e063-6394a90a07e9",
+  "effective_time": "20251029",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M005"
+    ],
+    "brand_name": [
+      "Anti-fungal Powder Miconazole Nitrate"
+    ],
+    "generic_name": [
+      "MICONAZOLE NITRATE"
+    ],
+    "manufacturer_name": [
+      "Premier Brands of America Inc."
+    ],
+    "product_ndc": [
+      "56104-500"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MICONAZOLE NITRATE"
+    ],
+    "rxcui": [
+      "998461"
+    ],
+    "spl_id": [
+      "42537026-f1f3-422f-e063-6394a90a07e9"
+    ],
+    "spl_set_id": [
+      "052d8d02-2381-1e3a-e063-6394a90aa07e"
+    ],
+    "package_ndc": [
+      "56104-500-00"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "VW4H1CYW1K"
+    ]
+  }
+}

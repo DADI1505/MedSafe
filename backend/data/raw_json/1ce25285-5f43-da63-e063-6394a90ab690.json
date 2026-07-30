@@ -1,0 +1,104 @@
+{
+  "spl_product_data_elements": [
+    "Hydrocortisone with aloe hydrocortisone with Aloe Anti Itch ALOE VERA LEAF BENZYL ALCOHOL ISOPROPYL MYRISTATE METHYLPARABEN WATER POLYOXYL 20 CETOSTEARYL ETHER CETOSTEARYL ALCOHOL ISOSTEARYL NEOPENTANOATE PEG-40 MONOSTEARATE CETYL PALMITATE GLYCERIN HYDROCORTISONE HYDROCORTISONE"
+  ],
+  "active_ingredient": [
+    "Drug Facts Active Ingredients Hydrocortisone, USP 1%"
+  ],
+  "purpose": [
+    "Purpose Anti-itch"
+  ],
+  "indications_and_usage": [
+    "Uses: for the temporary relief of itching associated with minor skin irritations, inflammation, and rashes due to: ■ eczema ■ insect bites ■ poison ivy ■ poison oak ■ poison sumac ■ soaps ■ jewelry ■ detergents ■ cosmetics ■ psoriasis ■ seborrheic dermatitis ■ for external genital, feminine and anal itching ■ other uses of this product should be only under the advice and supervision of a doctor"
+  ],
+  "warnings": [
+    "Warnings: For external use only Do not use ■ for external feminine itching if you have a vaginal discharge. Consult a doctor. ■ for the treatment of diaper rash. Consult a doctor."
+  ],
+  "when_using": [
+    "When using this product ■ avoid contact with the eyes ■ do not begin the use of any other hydrocortisone product unless directed by a doctor ■ for external anal itching: ■ do not use more than directed unless directed by a doctor ■ do not put this product into the rectum by using fingers or any mechanical device or applicator."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if ■ symptoms last for more than 7 days. ■ the condition gets worse ■ symptoms clear up and occur again in a few days ■ rectal bleeding occurs, consult doctor promptly."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away. 1-800-222-1222"
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 2 years of age and older ■ apply to affected area not more than 3 to 4 times daily Children under 2 years of age ■ do not use, consult a doctor If pregnant or breast-feeding ■ ask a health professional before use. For external anal itching Adults: when practical, clean the affected area with mild soap and warm water, rinse thoroughly, gently dry by patting or blotting with toilet tissue or a soft cloth before application of this product Children under 12 years of age: consult a doctor"
+  ],
+  "storage_and_handling": [
+    "Other information: ■ Storage temperature: not to exceed 30°C (86°F). Protect from freezing. ■ Before using any medication, read all label directions. Keep carton, it contains important information."
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients: Aloe vera concentrate, benzyl alcohol, ceteareth 20, cetearyl alchol, cetyl palmitate, glyceryl, isopropyl myristate, isostearyl neopentanoate, methylparaben, peg-40 stearate, purified water. May contain citric acid or sodium citrate solution to adjust pH."
+  ],
+  "safe_handling_warning": [
+    "TAMPER EVIDENT DO NOT USE IF SEAL ON TUBE IS PUNCTURED OR MISSING"
+  ],
+  "package_label_principal_display_panel": [
+    "Hydrocream 1%",
+    "1oz"
+  ],
+  "set_id": "032b9f58-5f64-04dd-e063-6294a90a6bb9",
+  "id": "1ce25285-5f43-da63-e063-6394a90ab690",
+  "effective_time": "20240710",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Hydrocortisone with aloe"
+    ],
+    "generic_name": [
+      "HYDROCORTISONE WITH ALOE ANTI ITCH"
+    ],
+    "manufacturer_name": [
+      "NeilMed Pharmaceuticals Inc."
+    ],
+    "product_ndc": [
+      "13709-317"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "HYDROCORTISONE"
+    ],
+    "spl_id": [
+      "1ce25285-5f43-da63-e063-6394a90ab690"
+    ],
+    "spl_set_id": [
+      "032b9f58-5f64-04dd-e063-6294a90a6bb9"
+    ],
+    "package_ndc": [
+      "13709-317-01",
+      "13709-317-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0705928150034"
+    ],
+    "nui": [
+      "N0000175576",
+      "N0000175450"
+    ],
+    "pharm_class_epc": [
+      "Corticosteroid [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Corticosteroid Hormone Receptor Agonists [MoA]"
+    ],
+    "unii": [
+      "WI4X0X7BPJ"
+    ]
+  }
+}

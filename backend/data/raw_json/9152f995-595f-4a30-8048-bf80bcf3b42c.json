@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Ecolab Benzalkonium Chloride BENZALKONIUM CHLORIDE BENZALKONIUM WATER LAURTRIMONIUM CHLORIDE HEXYLENE GLYCOL DECANOYL N-METHYLGLUCAMIDE PHENOXYETHANOL PROPYLENE GLYCOL COCAMIDOPROPYL PROPYLENE GLYCOL-DIMONIUM CHLORIDE PHOSPHATE GLYCERIN PALMITAMIDOPROPYLTRIMONIUM CHLORIDE METHYL GLUCETH-20 TRISODIUM DICARBOXYMETHYL ALANINATE ALCOHOL HYDROXYETHYL CELLULOSE (2000 MPA.S AT 1%)"
+  ],
+  "active_ingredient": [
+    "Active ingredient Benzalkonium Chloride, 0.55%"
+  ],
+  "purpose": [
+    "Purpose Antiseptic handwash"
+  ],
+  "indications_and_usage": [
+    "Uses For handwashing to decrease bacteria on the skin Recommended for repeated use."
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use In eyes When using this product If in eyes, rinse promptly and thoroughly with water Discontinue use if irritation and redness develop Stop use and ask a doctor if Skin irritation or redness occurs for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use In eyes"
+  ],
+  "when_using": [
+    "When using this product If in eyes, rinse promptly and thoroughly with water Discontinue use if irritation and redness develop"
+  ],
+  "ask_doctor": [
+    "Stop use and ask a doctor if Skin irritation or redness occurs for more than 72 hours"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions wet skin and spread a small around on hands and forearms scrub well, rinse thoroughly and dry"
+  ],
+  "references": [
+    "Other information for additional information, see Safety Data Sheet (SDS) for emergency medical information in USA, call 1 800 328 0026"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water (aqua), laurtrimonium chloride, capryloyl/caproyl methyl glucamide, phenoxyethanol, propylene glycol, cocamidopropyl PG-dimonium chloride phosphate, glycerin, palmitamidopropyltrimonium chloride, methyl gluceth-20, trisodium dicarboxymethyl alaninate, alcohol, hydroxyethylcellulose"
+  ],
+  "questions": [
+    "Questions? call 1 866 781 8787"
+  ],
+  "package_label_principal_display_panel": [
+    "Prinicpal Display Panel / Representative Label ECOLAB® Antimicrobial Foaming Hand Soap Active Ingredient: 0.55% Benzalkonium Chloride Net Contents: 750 mL (25 fl oz) This product may be patented: www.ecolab.com/patents Ecolab · 1 Ecolab Place · St. Paul MN 55102 USA © 2017 Ecolab USA Inc. · All rights reserved Made in United States www.ecolab.com representative label"
+  ],
+  "set_id": "02d45eff-398a-44fe-bd56-5257cf596e7d",
+  "id": "9152f995-595f-4a30-8048-bf80bcf3b42c",
+  "effective_time": "20240805",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Ecolab"
+    ],
+    "generic_name": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Ecolab Inc."
+    ],
+    "product_ndc": [
+      "47593-593"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "rxcui": [
+      "1549867"
+    ],
+    "spl_id": [
+      "9152f995-595f-4a30-8048-bf80bcf3b42c"
+    ],
+    "spl_set_id": [
+      "02d45eff-398a-44fe-bd56-5257cf596e7d"
+    ],
+    "package_ndc": [
+      "47593-593-41"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "F5UM2KM3W7"
+    ]
+  }
+}

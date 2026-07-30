@@ -1,0 +1,106 @@
+{
+  "spl_product_data_elements": [
+    "Pain Relief PM ACETAMINOPHEN, DIPHENHYDRAMINE DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE ACETAMINOPHEN ACETAMINOPHEN CROSCARMELLOSE SODIUM FD&C BLUE NO. 1 ALUMINUM LAKE FD&C BLUE NO. 2 ALUMINUM LAKE HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED POLYVINYL ALCOHOL POVIDONE K30 SILICON DIOXIDE SODIUM STARCH GLYCOLATE TYPE A STARCH, CORN TALC TITANIUM DIOXIDE P525"
+  ],
+  "active_ingredient": [
+    "Active Ingredients (in each caplet) Acetaminophen 500 mg Diphenhydramine 25 mg"
+  ],
+  "purpose": [
+    "Purpose Acetaminophen 500 mg ....................................................................................................................................Pain reliever Diphenhydramine HCl 25 mg ...........................................................................….................................Nighttime sleep aid"
+  ],
+  "indications_and_usage": [
+    "Uses: temporary relief of occasional headaches and minor aches and pains with accompanying sleeplessness"
+  ],
+  "warnings": [
+    "Warnings: Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take ■ more than 4,000 mg of acetaminophen in 24 hrs ■ with other drugs containing acetaminophen ■ 3 or more alcoholic drinks every day while using this product. Allergy alert: acetaminophen may cause severe skin reactions. Symptoms may include: ■ skin reddening ■ blisters ■ rash. If a skin reaction occurs, stop use and seek medical help right away."
+  ],
+  "do_not_use": [
+    "Do Not use ■ with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist ■ with any other product containing diphenhydramine, even one used on skin ■ in children under 12 years of age ■ if you have ever had an allergic reaction to this product or any of its ingredients."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have: ■ liver disease ■ glaucoma ■ a breathing problem such as emphysema or chronic bronchitis ■ trouble urinating due to an enlarged prostate gland."
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin taking sedatives or tranquilizers"
+  ],
+  "when_using": [
+    "When using this product ■ drowsiness will occur ■ avoid alcoholic drinks ■ do not drive a motor vehicle or operate machinery."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if ■ sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of serious underlying medical illness. ■ pain gets worse or lasts more than 10 days ■ fever gets worse or lasts more than 3 days ■ redness or swelling is present ■ new symptoms occur. These could be signs of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN Overdose warning: In case of overdose, get medical help or contact Poison Control (1-800-222-1222) right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+  ],
+  "dosage_and_administration": [
+    "Directions: ■ do not take more than directed (see overdose warning) adults and children 12 years and over ■ take 2 caplets at bedtime ■ do not take more than 2 caplets in 24 hours unless directed by a doctor ■ children under 12 years do not use"
+  ],
+  "other_safety_information": [
+    "Other Information: store at 20°-25°C (68°-77°F) do not use if foil or inner seal is broken or missing"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Croscarmellose Sodium, FD & C Blue#1 Aluminium Lake, FD &C Blue#2 Aluminium Lake, Hypromelloses, Magnesium Stearate, Microcrystalline Cellulose, Polyethylene Glycol, Polyvinyl Alcohol, Povidone K30, Purified Water, Silicon Dioxide, Sodium Starch Glycolate, Starch Corn, Talc, Titanium Dioxide."
+  ],
+  "questions": [
+    "Questions or Comments? Call 1-732-698-5070 Monday through Friday 9am to 5pm EST or visit www.pioneerlifesciences.com"
+  ],
+  "spl_unclassified_section": [
+    "This product is not manufactured or distributed by Johnson & Johnson Consumer Inc., McNeil Consumer Healthcare Division., owner of the registered trademark Tylenol® Extra Strength Tablets. Distributed by: GenCare Consumer Products, LLC 40E Cotters Ln Suite A, East Brunswick, NJ 08816"
+  ],
+  "package_label_principal_display_panel": [
+    "Rev 00 Pain Relief PM ES 375cts-PRINT"
+  ],
+  "set_id": "0181af13-da32-4431-be39-c31fdfac9202",
+  "id": "3534d9ad-25c0-42ed-89d8-bc28ca3488dd",
+  "effective_time": "20251229",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M013"
+    ],
+    "brand_name": [
+      "Pain Relief PM"
+    ],
+    "generic_name": [
+      "ACETAMINOPHEN, DIPHENHYDRAMINE"
+    ],
+    "manufacturer_name": [
+      "Pioneer Life Sciences, LLC"
+    ],
+    "product_ndc": [
+      "72090-032"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "ACETAMINOPHEN"
+    ],
+    "rxcui": [
+      "1092189"
+    ],
+    "spl_id": [
+      "3534d9ad-25c0-42ed-89d8-bc28ca3488dd"
+    ],
+    "spl_set_id": [
+      "0181af13-da32-4431-be39-c31fdfac9202"
+    ],
+    "package_ndc": [
+      "72090-032-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "TC2D6JAD40",
+      "362O9ITL9D"
+    ]
+  }
+}

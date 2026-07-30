@@ -1,0 +1,96 @@
+{
+  "spl_product_data_elements": [
+    "First Aid Burn Cream First Aid Burn Cream WATER EDETATE SODIUM LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS BUTYLATED HYDROXYTOLUENE GLYCERYL MONOSTEARATE METHYLCELLULOSE (4000 MPA.S) PROPYLPARABEN SODIUM ISOPROPYL MYRISTATE METHYLPARABEN SODIUM CETETH-20 DIMETHICONE 350 GLYCERIN BENZALKONIUM CHLORIDE BENZALKONIUM CETOSTEARYL ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Lidocaine HCI 0.5%",
+    "Active Ingredient Benzalkonium Chloride 0.13%"
+  ],
+  "purpose": [
+    "Purpose Topical Analgesic",
+    "Purpose Topical Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Use(s) For the temporary relief of pain and itching associated with: • Sunburn • Minor burns • Insect bites • Cuts • Scrapes"
+  ],
+  "warnings": [
+    "Warnings For External Use Only. Do not use • In the eyes • Over large areas of the body or on deep puncture wounds, animal bites, or serious burns • In large quantities, particularly over raw surfaces or blistered areas Stop use and ask a doctor if • The condition gets worse • Condition clears up and recurs within a few days • Condition persists for more than 7 days If pregnant or breast feeding Ask a health care professional before use. Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "do_not_use": [
+    "Do not use • In the eyes • Over large areas of the body or on deep puncture wounds, animal bites, or serious burns • In large quantities, particularly over raw surfaces or blistered areas"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if • The condition gets worse • Condition clears up and recurs within a few days • Condition persists for more than 7 days"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast feeding Ask a health care professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 2 years and over: • Clean the affected area • Apply a small amount of this product on the area 3 to 4 times daily • May be covered with a sterile bandage Children under 2 years: • Consult a doctor"
+  ],
+  "other_safety_information": [
+    "Other Information • Store in a cool, dry area 15º-25ºC (59º-77ºF) • Tamper evident sealed packets • Do not use any opened or torn packets"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Butylated Hydroxytoluene, Cetomacrogol 1000, Cetostearyl Alcohol, Dimethicone, Gylcerine, Glyceryl Monostearate, Isopropyl Myristate, Methylcellulose, Purified Water, Sodium EDTA, Sodium Methylparaben, Sodium Propylparaben"
+  ],
+  "questions": [
+    "Questions? 1-888-900-2920 Monday - Friday 8AM - 4PM PST."
+  ],
+  "package_label_principal_display_panel": [
+    "Label PS-2309 First Aid Burn Cream PS-2309 MC MASTER"
+  ],
+  "set_id": "0037a1a4-d747-2567-e063-6394a90a721c",
+  "id": "460118e9-2c2e-ead3-e063-6294a90a52b8",
+  "effective_time": "20251215",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "First Aid Burn Cream"
+    ],
+    "generic_name": [
+      "FIRST AID BURN CREAM"
+    ],
+    "manufacturer_name": [
+      "ProStat First Aid LLC"
+    ],
+    "product_ndc": [
+      "58228-2309"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "LIDOCAINE HYDROCHLORIDE",
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "rxcui": [
+      "1012100"
+    ],
+    "spl_id": [
+      "460118e9-2c2e-ead3-e063-6294a90a52b8"
+    ],
+    "spl_set_id": [
+      "0037a1a4-d747-2567-e063-6394a90a721c"
+    ],
+    "package_ndc": [
+      "58228-2309-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "V13007Z41A",
+      "F5UM2KM3W7"
+    ]
+  }
+}

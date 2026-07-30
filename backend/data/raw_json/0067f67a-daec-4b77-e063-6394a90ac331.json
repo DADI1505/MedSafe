@@ -1,0 +1,126 @@
+{
+  "spl_product_data_elements": [
+    "Ammonium Muriaticum Ammonium Muriaticum SUCROSE AMMONIUM CHLORIDE AMMONIUM CATION Ammonium Muriaticum Ammonium Muriaticum SUCROSE AMMONIUM CHLORIDE AMMONIUM CATION Ammonium Muriaticum Ammonium Muriaticum SUCROSE AMMONIUM CHLORIDE AMMONIUM CATION Ammonium Muriaticum Ammonium Muriaticum AMMONIUM CHLORIDE AMMONIUM CATION SUCROSE Ammonium Muriaticum Ammonium Muriaticum AMMONIUM CHLORIDE AMMONIUM CATION SUCROSE Ammonium Muriaticum Ammonium Muriaticum SUCROSE AMMONIUM CHLORIDE AMMONIUM CATION Ammonium Muriaticum Ammonium Muriaticum AMMONIUM CHLORIDE AMMONIUM CATION SUCROSE Ammonium Muriaticum Ammonium Muriaticum AMMONIUM CHLORIDE AMMONIUM CATION SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Ammonium Muriaticum 6C 5g Ammonium Muriaticum 6C 30g Ammonium Muriaticum 6C 100g Ammonium Muriaticum 12C 5g Ammonium Muriaticum 12C 30g Ammonium Muriaticum 12C 100g Ammonium Muriaticum 30C 1g Ammonium Muriaticum 30C 5g Ammonium Muriaticum 30C 30g Ammonium Muriaticum 30C 100g Ammonium Muriaticum 100C 1g Ammonium Muriaticum 100C 5g Ammonium Muriaticum 100C 30g Ammonium Muriaticum 100C 100g Ammonium Muriaticum 200C 1g Ammonium Muriaticum 200C 5g Ammonium Muriaticum 200C 30g Ammonium Muriaticum 200C 100g Ammonium Muriaticum 500C 1g Ammonium Muriaticum 500C 5g Ammonium Muriaticum 500C 30g Ammonium Muriaticum 500C 100g Ammonium Muriaticum 1M 1g Ammonium Muriaticum 1M 5g Ammonium Muriaticum 1M 30g Ammonium Muriaticum 1M 100g Ammonium Muriaticum 10M 1g Ammonium Muriaticum 10M 5g Ammonium Muriaticum 10M 30g Ammonium Muriaticum 10M 100g"
+  ],
+  "set_id": "0067f67a-daeb-4b77-e063-6394a90ac331",
+  "id": "0067f67a-daec-4b77-e063-6394a90ac331",
+  "effective_time": "20230713",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Ammonium Muriaticum"
+    ],
+    "generic_name": [
+      "AMMONIUM MURIATICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3624",
+      "37662-3626",
+      "37662-3625",
+      "37662-3627",
+      "37662-3629",
+      "37662-3628",
+      "37662-3631",
+      "37662-3630"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "AMMONIUM CHLORIDE"
+    ],
+    "spl_id": [
+      "0067f67a-daec-4b77-e063-6394a90ac331"
+    ],
+    "spl_set_id": [
+      "0067f67a-daeb-4b77-e063-6394a90ac331"
+    ],
+    "package_ndc": [
+      "37662-3626-1",
+      "37662-3626-2",
+      "37662-3626-3",
+      "37662-3626-4",
+      "37662-3625-1",
+      "37662-3625-2",
+      "37662-3625-3",
+      "37662-3627-1",
+      "37662-3627-2",
+      "37662-3627-3",
+      "37662-3627-4",
+      "37662-3629-1",
+      "37662-3629-2",
+      "37662-3629-3",
+      "37662-3629-4",
+      "37662-3628-1",
+      "37662-3628-2",
+      "37662-3628-3",
+      "37662-3628-4",
+      "37662-3624-1",
+      "37662-3624-2",
+      "37662-3624-3",
+      "37662-3631-1",
+      "37662-3631-2",
+      "37662-3631-3",
+      "37662-3631-4",
+      "37662-3630-1",
+      "37662-3630-2",
+      "37662-3630-3",
+      "37662-3630-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "01Q9PC255D"
+    ]
+  }
+}

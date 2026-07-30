@@ -1,0 +1,87 @@
+{
+  "spl_product_data_elements": [
+    "NIGHTTIME COLD AND FLU CHERRY PHENYLEPHRINE, DEXTROMETHORPHAN HYDROBROMIDE, ACETAMINOPHEN, DOXYLAMINE SUCCINATE DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN ACETAMINOPHEN ACETAMINOPHEN DOXYLAMINE SUCCINATE DOXYLAMINE PHENYLEPHRINE PHENYLEPHRINE GLYCERIN"
+  ],
+  "dosage_and_administration": [
+    "Directions take only as directed only use the dose cup provided do not exceed 4 doses per 24 hrs adults & children 12 yrs & over 30 mL every 6 hrs children 4 to under 12 yrs ask a doctor children under 4 yrs do not use"
+  ],
+  "warnings": [
+    "Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 4 doses in 24 hrs, which is the maximum daily amount for this product with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy Alert: Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If skin reaction occurs, stop use and seek medical help right away Sore throat warning: If sore throat is severe, persist for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients alcohol, citric acid, D&C Yellow No. 10, FD&C Blue No.1, flavor, glycerin, propylene glycol, purified water, saccharin sodium, sodium benzoate, sodium citrate, sorbitol, sucralose"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily relieves common cold/flu symptoms: cough due to minor throat & bronchial irritation sore throat headache minor aches & pains fever runny nose and sneezing"
+  ],
+  "keep_out_of_reach_of_children": [
+    "If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms"
+  ],
+  "purpose": [
+    "Uses temporarily relieves common cold/flu symptoms: cough due to minor throat & bronchial irritation sore throat headache minor aches & pains fever runny nose and sneezing"
+  ],
+  "package_label_principal_display_panel": [
+    "1"
+  ],
+  "set_id": "02a6781c-aa6f-8fb0-e063-6294a90a043d",
+  "id": "494e04fe-b227-735d-e063-6394a90af352",
+  "effective_time": "20260126",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "NIGHTTIME COLD AND FLU CHERRY"
+    ],
+    "generic_name": [
+      "PHENYLEPHRINE, DEXTROMETHORPHAN HYDROBROMIDE, ACETAMINOPHEN, DOXYLAMINE SUCCINATE"
+    ],
+    "manufacturer_name": [
+      "Walgreen Company"
+    ],
+    "product_ndc": [
+      "0363-9144"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DEXTROMETHORPHAN HYDROBROMIDE",
+      "ACETAMINOPHEN",
+      "DOXYLAMINE SUCCINATE",
+      "PHENYLEPHRINE"
+    ],
+    "spl_id": [
+      "494e04fe-b227-735d-e063-6394a90af352"
+    ],
+    "spl_set_id": [
+      "02a6781c-aa6f-8fb0-e063-6294a90a043d"
+    ],
+    "package_ndc": [
+      "0363-9144-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000186105",
+      "N0000009917"
+    ],
+    "pharm_class_epc": [
+      "alpha-1 Adrenergic Agonist [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Adrenergic alpha1-Agonists [MoA]"
+    ],
+    "unii": [
+      "9D2RTI9KYH",
+      "362O9ITL9D",
+      "V9BI9B5YI2",
+      "1WS297W6MV"
+    ]
+  }
+}

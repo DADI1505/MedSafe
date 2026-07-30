@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Natrum Iodatum Natrum Iodatum SUCROSE SODIUM IODATE SODIUM CATION Natrum Iodatum Natrum Iodatum SUCROSE SODIUM IODATE SODIUM CATION Natrum Iodatum Natrum Iodatum SUCROSE SODIUM IODATE SODIUM CATION Natrum Iodatum Natrum Iodatum SUCROSE SODIUM IODATE SODIUM CATION Natrum Iodatum Natrum Iodatum SUCROSE SODIUM IODATE SODIUM CATION Natrum Iodatum Natrum Iodatum SUCROSE SODIUM IODATE SODIUM CATION Natrum Iodatum Natrum Iodatum SUCROSE SODIUM IODATE SODIUM CATION Natrum Iodatum Natrum Iodatum SUCROSE SODIUM IODATE SODIUM CATION"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Natrum Iodatum 6C 5g Natrum Iodatum 6C 30g Natrum Iodatum 6C 100g Natrum Iodatum 12C 5g Natrum Iodatum 12C 30g Natrum Iodatum 12C 100g Natrum Iodatum 30C 1g Natrum Iodatum 30C 5g Natrum Iodatum 30C 30g Natrum Iodatum 30C 100g Natrum Iodatum 100C 1g Natrum Iodatum 100C 5g Natrum Iodatum 100C 30g Natrum Iodatum 100C 100g Natrum Iodatum 200C 1g Natrum Iodatum 200C 5g Natrum Iodatum 200C 30g Natrum Iodatum 200C 100g Natrum Iodatum 500C 1g Natrum Iodatum 500C 5g Natrum Iodatum 500C 30g Natrum Iodatum 500C 100g Natrum Iodatum 1M 1g Natrum Iodatum 1M 5g Natrum Iodatum 1M 30g Natrum Iodatum 1M 100g Natrum Iodatum LM1 30g"
+  ],
+  "set_id": "042c3f88-0176-abb1-e063-6394a90a7e97",
+  "id": "042c3f88-0177-abb1-e063-6394a90a7e97",
+  "effective_time": "20230830",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Natrum Iodatum"
+    ],
+    "generic_name": [
+      "NATRUM IODATUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3856",
+      "37662-3859",
+      "37662-3861",
+      "37662-3863",
+      "37662-3858",
+      "37662-3860",
+      "37662-3857",
+      "37662-3862"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SODIUM IODATE"
+    ],
+    "spl_id": [
+      "042c3f88-0177-abb1-e063-6394a90a7e97"
+    ],
+    "spl_set_id": [
+      "042c3f88-0176-abb1-e063-6394a90a7e97"
+    ],
+    "package_ndc": [
+      "37662-3859-1",
+      "37662-3859-2",
+      "37662-3859-3",
+      "37662-3859-4",
+      "37662-3861-1",
+      "37662-3861-2",
+      "37662-3861-3",
+      "37662-3861-4",
+      "37662-3863-1",
+      "37662-3856-1",
+      "37662-3856-2",
+      "37662-3856-3",
+      "37662-3858-1",
+      "37662-3858-2",
+      "37662-3858-3",
+      "37662-3858-4",
+      "37662-3860-1",
+      "37662-3860-2",
+      "37662-3860-3",
+      "37662-3860-4",
+      "37662-3857-1",
+      "37662-3857-2",
+      "37662-3857-3",
+      "37662-3862-1",
+      "37662-3862-2",
+      "37662-3862-3",
+      "37662-3862-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "U558PCS5Z9"
+    ]
+  }
+}

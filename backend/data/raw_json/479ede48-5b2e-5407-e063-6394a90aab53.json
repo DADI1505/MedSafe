@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "ORLASKIN HYDRATING SUNSCREEN ORLASKIN HYDRATING SUNSCREEN OCTOCRYLENE OCTOCRYLENE HYALURONIC ACID .ALPHA.-TOCOPHEROL ACETATE KAKADU PLUM BUTYLOCTYL SALICYLATE CAPRYLOYL GLYCERIN/SEBACIC ACID COPOLYMER (2000 MPA.S) HOMOSALATE HOMOSALATE OCTISALATE OCTISALATE AVOBENZONE AVOBENZONE WATER ETHYL ACRYLATE AND METHYL METHACRYLATE COPOLYMER (2:1; 750000 MW) ALCOHOL LEVOMENOL DICAPRYLYL ETHER DIHEPTYL SUCCINATE ETHYL FERULATE ISONONYL ISONONANOATE PELARGONIUM GRAVEOLENS FLOWER OIL DOCUSATE SODIUM"
+  ],
+  "active_ingredient": [
+    "Homosalate 10% Octocrylene 8% Octilsalate 5% Avobenzone 3%"
+  ],
+  "purpose": [
+    "sunscreen"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent sunburn. If used as directed with other sun protection measures ( see directions ), decreases the risk of skin cancer and early skin ageing caused by the sun."
+  ],
+  "warnings": [
+    "Warnings For external use only. Avoid contact with eyes , wear protective clothing , hats and eyewear when exposed to the sun . Avoid prolonged exposure in the sun. Keep out of reach of children. Do not use on damaged or brokenskin. Store in a cool , dry place and avoiddirect sunlight. If using with other sun protection products , consult with a doctor before use."
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children"
+  ],
+  "dosage_and_administration": [
+    "Directions Shake the spray bottle well before use. Hold the spray bottle at an appropriate distance from the face and neck . Spray evenly onto the entire face and neck area. Avoid direct contact with eves . In case of eye contact , rinse immediately with water. For continued sun protection , reapply every 2 hours"
+  ],
+  "storage_and_handling": [
+    "Other information Protect the product in this container from excessive heat and direct sun"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Auqa , Methacrylate Copolymer , Alcohol Denat , Bisabolol , Hvaluronic Acid, D-alpha-tocopheryl acetate , Terminalia Ferdinandiana , Butyloctyl Salicylate, Sebacic Acid Copolymer , Dicaprylyl Ether , Diheptyl Succinate , Diisooctyl Succinate , Ethyl Ferulat , Isononyl sononanoate , Pelargonium Graveolens Flower Oil"
+  ],
+  "package_label_principal_display_panel": [
+    "83447-003-01"
+  ],
+  "set_id": "0808b0cd-2cfb-8554-e063-6294a90ad6c4",
+  "id": "479ede48-5b2e-5407-e063-6394a90aab53",
+  "effective_time": "20260105",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "ORLASKIN HYDRATING SUNSCREEN"
+    ],
+    "generic_name": [
+      "ORLASKIN HYDRATING SUNSCREEN"
+    ],
+    "manufacturer_name": [
+      "Guangzhou Fantesy Biotechnology Co.,Ltd"
+    ],
+    "product_ndc": [
+      "83447-003"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "CUTANEOUS"
+    ],
+    "substance_name": [
+      "OCTOCRYLENE",
+      "HOMOSALATE",
+      "OCTISALATE",
+      "AVOBENZONE"
+    ],
+    "spl_id": [
+      "479ede48-5b2e-5407-e063-6394a90aab53"
+    ],
+    "spl_set_id": [
+      "0808b0cd-2cfb-8554-e063-6294a90ad6c4"
+    ],
+    "package_ndc": [
+      "83447-003-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "6937684121421"
+    ],
+    "unii": [
+      "5A68WGF6WM",
+      "V06SV4M95S",
+      "4X49Y0596W",
+      "G63QQF2NOX"
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "spl_product_data_elements": [
+    "alcohol alcohol WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Purpose Isopropyl Alcohol 70% v/v Antiseptic"
+  ],
+  "purpose": [
+    "Uses: alcohol Antiseptic cleanser."
+  ],
+  "warnings": [
+    "Warnings: FOR EXTERNAL USE ONLY"
+  ],
+  "do_not_use": [
+    "Do not use: In the eyes. With electrocautery procedures."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor: If irritation and redness develop If condition persists for more than 72 hours, consult a physician."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep Out Of Reach Of Children Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center."
+  ],
+  "dosage_and_administration": [
+    "Directions: Tear at notch, remove swab, use only once. Wipe injection site vigorously and discard."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredient Inactive Ingredient: Water"
+  ],
+  "indications_and_usage": [
+    "Indications and Usage: For use as an antiseptic"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Sion Biotext medical Alcohol Swabstick Sion Swabstick.jpg Sion Swabstick"
+  ],
+  "set_id": "03d6c745-6ee3-4011-9d5d-c8a4f078eced",
+  "id": "47e7cce1-e8ad-4085-e063-6294a90ac003",
+  "effective_time": "20260108",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "alcohol"
+    ],
+    "generic_name": [
+      "ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Sion Biotext Medical Ltd"
+    ],
+    "product_ndc": [
+      "68786-122"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "rxcui": [
+      "797544"
+    ],
+    "spl_id": [
+      "47e7cce1-e8ad-4085-e063-6294a90ac003"
+    ],
+    "spl_set_id": [
+      "03d6c745-6ee3-4011-9d5d-c8a4f078eced"
+    ],
+    "package_ndc": [
+      "68786-122-01",
+      "68786-122-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "ND2M416302"
+    ]
+  }
+}

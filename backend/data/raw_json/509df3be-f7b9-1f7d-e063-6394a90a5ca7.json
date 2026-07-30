@@ -1,0 +1,81 @@
+{
+  "spl_product_data_elements": [
+    "JBA Collagen-B Chicken Essence Chicken powder, HYDROLYSED BOVINE COLLAGEN ENZYMATIC 3500 MW STARCH, CORN CHICKEN BONE CHICKEN BONE HYDROLYSED BOVINE COLLAGEN (ENZYMATIC; 3500 MW) HYDROLYSED BOVINE COLLAGEN (ENZYMATIC; 3500 MW)"
+  ],
+  "statement_of_identity": [
+    "Identity Dietary Supplement"
+  ],
+  "dosage_and_administration": [
+    "Direction How to Use: - Mix one packet with 120 ml (4oz) of boiling water. - Stir well until fully dissolved and enjoy while warm."
+  ],
+  "warnings": [
+    "Usage warnings : - Do not use the product if it is expired - Keep out of the reach of children"
+  ],
+  "active_ingredient": [
+    "Ingredients Chicken Powder (76%), Collagen Peptides (24%) (85% collagen) (from bovine)"
+  ],
+  "purpose": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "spl_unclassified_section": [
+    "Storage Store in a cool, dry place, avoid moisture and light."
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Product label image description image description image description image description"
+  ],
+  "set_id": "02095fb4-70d0-4871-b6b2-e058e75351d4",
+  "id": "509df3be-f7b9-1f7d-e063-6394a90a5ca7",
+  "effective_time": "20260429",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "JBA Collagen-B Chicken Essence"
+    ],
+    "generic_name": [
+      "CHICKEN POWDER, HYDROLYSED BOVINE COLLAGEN ENZYMATIC 3500 MW"
+    ],
+    "manufacturer_name": [
+      "Advanced Pharmaceutical Services, Inc. Dba Affordable Quality Pharmaceuticals"
+    ],
+    "product_ndc": [
+      "13411-893"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CHICKEN BONE",
+      "HYDROLYSED BOVINE COLLAGEN (ENZYMATIC",
+      "3500 MW)"
+    ],
+    "spl_id": [
+      "509df3be-f7b9-1f7d-e063-6394a90a5ca7"
+    ],
+    "spl_set_id": [
+      "02095fb4-70d0-4871-b6b2-e058e75351d4"
+    ],
+    "package_ndc": [
+      "13411-893-05",
+      "13411-893-15",
+      "13411-893-30"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "68W3SD800Q"
+    ]
+  }
+}

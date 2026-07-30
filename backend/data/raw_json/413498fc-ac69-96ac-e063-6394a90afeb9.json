@@ -1,0 +1,88 @@
+{
+  "spl_product_data_elements": [
+    "Acne Calming Water Cream SALICYLIC ACID NIACINAMIDE GLYCERIN SILICON DIOXIDE PROPANEDIOL ISODODECANE TRANEXAMIC ACID GLYCERYL STEARATE CITRATE ALKYL (C12-15) BENZOATE N-ACETYLGLUCOSAMINE TROMETHAMINE ALUMINUM STARCH OCTENYLSUCCINATE PHENOXYETHANOL CETOSTEARYL ALCOHOL CAPRYLOYL GLYCINE POTASSIUM CETYL PHOSPHATE ALLANTOIN XANTHAN GUM CAPRYLYL GLYCOL ETHYLHEXYLGLYCERIN TOCOPHEROL WATER SUNFLOWER OIL EDETATE DISODIUM ANHYDROUS CAPRYLIC ACID SODIUM CITRATE SALICYLIC ACID SALICYLIC ACID"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredients Salicylic Acid 1% Purpose Acne Treatment"
+  ],
+  "purpose": [
+    "Purpose Acne Treatment"
+  ],
+  "indications_and_usage": [
+    "Uses For the treatment of acne Helps prevent new acne blemishes"
+  ],
+  "warnings": [
+    "Warnings For external use only. When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Cleanse the skin thoroughly before applying medication. Cover the entire affected area with a thin layer one to three times daily. Because excessive drying of the skin may occur, start with one application daily, then gradually increase to two or three times daily if needed or as directed by a doctor. If bothersome dryness or peeling occurs, reduce application to once a day or every other day. Sensitivity Test for a New User. Apply product sparingly to one or two small affected areas during the first 3 days. If no discomfort occurs, follow the directions stated eleswhere on this label."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water (Aqua), Niacinamide, Glycerin, Silica, Propanediol, Isododecane, Tranexamic Acid, Glyceryl Stearate Citrate, C12-15 Alkyl Benzoate, Acetyl Glucosamine, Tromethamine, Aluminum Starch Octenylsuccinate, Phenoxyethanol, Cetearyl Alcohol, Capryloyl Glycine, Potassium Cetyl Phosphate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Allantoin, Xanthan Gum, Caprylyl Glycol, Ethylhexylglycerin, Tocopherol, Helianthus Annuus (Sunflowe) Seed Oil, Disodium EDTA, Caprylic Acid, Sodium Citrate May Contain: Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77492)"
+  ],
+  "questions": [
+    "Questions or comments 1-888-315-9814"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling:50ml 4016-01-01 416-01",
+    "Package Labeling:30ml 416-02 5-416-02"
+  ],
+  "set_id": "01b70e53-9e24-4950-bbe9-c58905b6e68d",
+  "id": "413498fc-ac69-96ac-e063-6394a90afeb9",
+  "effective_time": "20251015",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M006"
+    ],
+    "brand_name": [
+      "Acne Calming Water Cream"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID"
+    ],
+    "manufacturer_name": [
+      "e.l.f. Cosmetics, Inc."
+    ],
+    "product_ndc": [
+      "76354-416"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "417424"
+    ],
+    "spl_id": [
+      "413498fc-ac69-96ac-e063-6394a90afeb9"
+    ],
+    "spl_set_id": [
+      "01b70e53-9e24-4950-bbe9-c58905b6e68d"
+    ],
+    "package_ndc": [
+      "76354-416-01",
+      "76354-416-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

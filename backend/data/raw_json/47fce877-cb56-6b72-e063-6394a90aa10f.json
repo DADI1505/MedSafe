@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Isopropyl Alcohol Isopropyl Alcohol WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredient Isopropyl alcohol 91%"
+  ],
+  "purpose": [
+    "Purpose First Aid Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Uses first aid to help prevent the risk of infection in: minor cuts scrapes burns"
+  ],
+  "warnings": [
+    "Warnings For external use only Flammable keep away from fire or flame, heat, spark, electrical. Flash point 72°F. Ask a doctor before use if you have deep or puncture wounds, animal bites or serious burns When using this product do not get into eyes do not apply over large areas of the body do not use longer than 1 week unless directed by a doctor Stop use and ask a doctor if condition persists or gets worse Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have deep or puncture wounds, animal bites or serious burns"
+  ],
+  "when_using": [
+    "When using this product do not get into eyes do not apply over large areas of the body do not use longer than 1 week unless directed by a doctor"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition persists or gets worse"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions clean the affected area apply 1 to 3 times daily"
+  ],
+  "storage_and_handling": [
+    "Other information does not contain, nor is intended as a substitute for grain or ethyl alcohol will produce serious gastric disturbances if taken internally"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredient purified water"
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL Epic Medical Supply 91% by Volume ISOPROPYL ALCOHOL First Aid Antiseptic Square bottle uses less plastic than a similarly sized round bottle Recyclable (If available in your area) TAMPER EVIDENT CAP FOR YOUR PROTECTION. IF RING-BAND IS DETACHED FROM CAP OR MISSING DO NOT USE. Warning Flammable Manufactured for Epic Medical Supply Corp Lakewood New Jersey 08701 www.epicmedsupply.com 16 FL. OZ. (473 mL) Principal Display Panel image description"
+  ],
+  "set_id": "04ac8597-00fa-458f-a929-ada5042a8c38",
+  "id": "47fce877-cb56-6b72-e063-6394a90aa10f",
+  "effective_time": "20260109",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Isopropyl Alcohol"
+    ],
+    "generic_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Epic Medical Supply Corp."
+    ],
+    "product_ndc": [
+      "82749-004"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "rxcui": [
+      "582901"
+    ],
+    "spl_id": [
+      "47fce877-cb56-6b72-e063-6394a90aa10f"
+    ],
+    "spl_set_id": [
+      "04ac8597-00fa-458f-a929-ada5042a8c38"
+    ],
+    "package_ndc": [
+      "82749-004-16"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "ND2M416302"
+    ]
+  }
+}

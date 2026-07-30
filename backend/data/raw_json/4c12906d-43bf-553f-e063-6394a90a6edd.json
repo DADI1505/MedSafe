@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "Therapain Plus menthol roll-on EUCALYPTUS OIL GLUCOSAMINE SULFATE WATER DIMETHYL SULFONE PROPYLENE GLYCOL MENTHOL MENTHOL PEPPERMINT OIL PEPPERMINT ISOPROPYL ALCOHOL lotion"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Natural L-menthol 2%"
+  ],
+  "purpose": [
+    "Purpose Topical Analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses: Relieves temporary pains due to: Arthritis ​ Stiffness Sprains and Strains Neck and barckaches Muscle Soreness Cramps"
+  ],
+  "warnings": [
+    "Warnings: FOR EXTERNAL USE ONLY"
+  ],
+  "warnings_and_cautions": [
+    "Flammable, Avoid heat sparks open flame When using this product Avoid contact with eyes, mouth, genitalia, mucous membrane, irritated and very sensitive skin Do not apply to open wounds or damaged skin. Do not bandage tightly. Do not. use if you are diabetic or have impaired circulation"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if Excessive skin irritation develops Condition worsens. Symptoms persist more than 7 days, discontinue use of this product and consult a doctor"
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN"
+  ],
+  "dosage_and_administration": [
+    "Directions: Shake well Roll-on liberally to affected area not more than 3 to 4 times daily. Wash hands with soap and water after applying. Children under 12years of age: consult a physician. After first coat absorbs into skin, re-apply 1-3 extra coats to increase effectiveness. Formula dries quickly and won't stain clothes or leave skin lingering with an unplesant medicine scent."
+  ],
+  "inactive_ingredient": [
+    "Other ingredients Deionized Water, Isopropyl Alcohol, Methyl Sulfonyl Methane (MSM)**, Glucosamine Sulfate**, Oil of Peppermint, Oil of Eucalyptus, **For Use as a Skin Conditioner"
+  ],
+  "questions": [
+    "Questions or Comments: Call toll free: 800-667-1969 Relief-Mart, Inc. 28505 Canwood St. Ste. C Agoura Hills, CA 93101 www.TherapainPlus.com"
+  ],
+  "package_label_principal_display_panel": [
+    "Roll-On"
+  ],
+  "set_id": "0249cfdf-b7c4-f27d-e063-6294a90aaa26",
+  "id": "4c12906d-43bf-553f-e063-6394a90a6edd",
+  "effective_time": "20260302",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M015"
+    ],
+    "brand_name": [
+      "Therapain Plus"
+    ],
+    "generic_name": [
+      "MENTHOL ROLL-ON"
+    ],
+    "manufacturer_name": [
+      "Epic Laboratories, LLC"
+    ],
+    "product_ndc": [
+      "58418-827"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "MENTHOL"
+    ],
+    "rxcui": [
+      "1146695"
+    ],
+    "spl_id": [
+      "4c12906d-43bf-553f-e063-6394a90a6edd"
+    ],
+    "spl_set_id": [
+      "0249cfdf-b7c4-f27d-e063-6294a90aaa26"
+    ],
+    "package_ndc": [
+      "58418-827-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "L7T10EIP3A"
+    ]
+  }
+}

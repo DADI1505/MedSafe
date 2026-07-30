@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "Povidone Iodine Impregnated Povidone Iodine WATER HYDROXYETHYL CELLULOSE (100 MPA.S AT 2%) POVIDONE-IODINE IODINE"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Povidone Iodine, USP 10% (1.0% available Iodine)"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Uses For preparation of skin and mucous membranes prior to surgery"
+  ],
+  "warnings": [
+    "Warnings For external use only Avoid use on persons allergic to iodine"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if Skin shows symptoms of irritation, sensitivity, redness, pain or swelling"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed, get medical help or contact Poison Control Center right away"
+  ],
+  "dosage_and_administration": [
+    "Directions open pouch at tear notch use sponge sticks to prep desired area"
+  ],
+  "storage_and_handling": [
+    "Other information store at room temperature avoid excessive heat (above 104 F/40 C) protect from freezing latex free o o"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients purified water, hydroxyethylcellulose, Nonylph"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Label l1"
+  ],
+  "set_id": "01bcad25-efdc-426f-ba91-acbdff8421b3",
+  "id": "085d4652-ab23-36c0-e063-6294a90a01a9",
+  "effective_time": "20231023",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Povidone Iodine Impregnated"
+    ],
+    "generic_name": [
+      "POVIDONE IODINE"
+    ],
+    "manufacturer_name": [
+      "Jianerkang Medical Co., Ltd"
+    ],
+    "product_ndc": [
+      "34645-1030"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "POVIDONE-IODINE"
+    ],
+    "spl_id": [
+      "085d4652-ab23-36c0-e063-6294a90a01a9"
+    ],
+    "spl_set_id": [
+      "01bcad25-efdc-426f-ba91-acbdff8421b3"
+    ],
+    "package_ndc": [
+      "34645-1030-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175486",
+      "M0011640"
+    ],
+    "pharm_class_epc": [
+      "Antiseptic [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Iodine [CS]"
+    ],
+    "unii": [
+      "85H0HZU99M"
+    ]
+  }
+}

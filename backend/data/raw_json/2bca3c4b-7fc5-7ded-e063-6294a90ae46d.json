@@ -1,0 +1,112 @@
+{
+  "spl_product_data_elements": [
+    "Uplift Chewable Caffeine SUCROSE SORBITOL GELATIN HEXAHYDROCANNABINOL CAFFEINE CAFFEINE ANHYDROUS CITRIC ACID POTASSIUM SORBATE BETA VULGARIS ROOT FRUCTOOLIGOSACCHARIDES CORN SYRUP WATER"
+  ],
+  "active_ingredient": [
+    "Active ingredients (in each chewable) Caffeine 50mg Purpose Alertness aid"
+  ],
+  "purpose": [
+    "Purpose Alertness aid"
+  ],
+  "indications_and_usage": [
+    "Uses Helps restore mental alertness or wakefulness when experiencing fatigue or drowsiness"
+  ],
+  "warnings": [
+    "Warnings For occasional use only. Caffeine warning. The recommended dose of this product contains about as much caffeine as a cup of coffee. limit the use of caffeine-containing medications, food, or beverages while taking this product because too much caffeine may cause nervousness, sleeplessness, and occasionally, rapid heartbeat. Do not use as a substitute for sleep, or in children under 12 years of age. Ask a doctor before use if you are Presently taking a prescription drug Ask a doctor before use if you are Presently taking a prescription drug Stop using and ask a doctor if fatigue or drowsiness persists or continues to recur If pregnant or breast-feeding consult a health professional before use Keep out of reach of children In case of overdose seek medical help or contact a poison control center right away Keep out of reach of children In case of overdose, seek medical help or contact a poison control center right away"
+  ],
+  "do_not_use": [
+    "Do not use as a substitute for sleep, or in children under 12 years of age."
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you are Presently taking a prescription drug",
+    "Ask a doctor before use if you are Presently taking a prescription drug"
+  ],
+  "stop_use": [
+    "Stop using and ask a doctor if fatigue or drowsiness persists or continues to recur"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding consult a health professional before use Keep out of reach of children In case of overdose seek medical help or contact a poison control center right away Keep out of reach of children In case of overdose, seek medical help or contact a poison control center right away"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children In case of overdose seek medical help or contact a poison control center right away Keep out of reach of children In case of overdose, seek medical help or contact a poison control center right away"
+  ],
+  "overdosage": [
+    "Keep out of reach of children In case of overdose, seek medical help or contact a poison control center right away"
+  ],
+  "dosage_and_administration": [
+    "Directions Adults 18 years of age and over: take up to 2 chewables every 4 to 6 hours, not more that 4 chewable in 24 hours. Do not swallow whole"
+  ],
+  "other_safety_information": [
+    "Other information Store at 68-77 degrees F Avoid direct sunlight"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Artificial flavors, Citric acid, Gelatin, Hexahydrocannabinol, Light corn syrup, Potassium Sorbate, Sorbitol, Beet root powder, Sugar, Water."
+  ],
+  "package_label_principal_display_panel": [
+    "bag label"
+  ],
+  "set_id": "04a72aec-0e60-5d16-e063-6294a90a3c49",
+  "id": "2bca3c4b-7fc5-7ded-e063-6294a90ae46d",
+  "effective_time": "20250115",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M011"
+    ],
+    "brand_name": [
+      "Uplift Chewable"
+    ],
+    "generic_name": [
+      "CAFFEINE"
+    ],
+    "manufacturer_name": [
+      "Carolina Cannabis Creations LLC"
+    ],
+    "product_ndc": [
+      "82876-831"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CAFFEINE"
+    ],
+    "spl_id": [
+      "2bca3c4b-7fc5-7ded-e063-6294a90ae46d"
+    ],
+    "spl_set_id": [
+      "04a72aec-0e60-5d16-e063-6294a90a3c49"
+    ],
+    "package_ndc": [
+      "82876-831-20"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0850024328624"
+    ],
+    "nui": [
+      "N0000175739",
+      "N0000175729",
+      "N0000175790",
+      "M0023046"
+    ],
+    "pharm_class_epc": [
+      "Central Nervous System Stimulant [EPC]",
+      "Methylxanthine [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Central Nervous System Stimulation [PE]"
+    ],
+    "pharm_class_cs": [
+      "Xanthines [CS]"
+    ],
+    "unii": [
+      "3G6A5W338E"
+    ]
+  }
+}

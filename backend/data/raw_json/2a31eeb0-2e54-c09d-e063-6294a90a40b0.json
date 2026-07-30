@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "ABOVE INTIMATE LIQUIDSOAP ABOVE INTIMATE SODIUM LAURETH-2 SULFATE ALOE ALOE"
+  ],
+  "active_ingredient": [
+    "ALOE BARBADENSIS EXTRACT (EXTRATO DE ALOE VERA) CONDICIONADOR DA PELE 0.1"
+  ],
+  "inactive_ingredient": [
+    "AQUA (ÁGUA) SODIUM LAURETH SULFATE (LAURILETERSULFATO DE SÓDIO) GLYCERIN (GLICEROL) PALM KERNELAMIDE DEA (PALMISTAMIDA DEA) POLYQUATERNIUM-7 (POLIQUATÉRNIO-7) COCAMIDOPROPYL BETAINE (COCOAMIDOPROPIL BETAÍNA) PARFUM (PERFUME) DIPROPYLENE GLYCOL (DIPROPILENOGLICOL) GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE (CLORETO DE GUAR HIDROXIPROPILTRIMÔNIO) PHENYLPROPANOL (FENILPROPANOL) PENTYLENE GLYCOL (PENTILENOGLICOL) LACTIC ACID (ÁCIDO LÁTICO) 1,2-HEXANEDIOL (1,2-HEXANODIOL) PROPYLENE GLYCOL (PROPILENOGLICOL) ALPHA-GLUCAN OLIGOSACCHARIDE (OLIGOSSACARÍDEO DE ALFA-GLUCANA) C10-16 ALKETH-2 (C-10-16-ALQUETE-2) SODIUM CHLORIDE (CLORETO DE SÓDIO) SODIUM SULFATE (SULFATO DE SÓDIO) SODIUM GLUCONATE (GLUCONATO DE SÓDIO) BUTETH-3 (BUTETE-3) SODIUM BENZOTRIAZOLYL BUTYLPHENOL SULFONATE (BENZOTRIAZOLIL BUTILFENOL SULFONATO DE SÓDIO) SODIUM CITRATE (CITRATO DE SÓDIO) BENZOIC ACID (ÁCIDO BENZÓICO) TRIBUTYL CITRATE (CITRATO DE TRIBUTILA) CITRIC ACID (ÁCIDO CÍTRICO)"
+  ],
+  "purpose": [
+    "SOAP FOR INTIMATE USE"
+  ],
+  "warnings_and_cautions": [
+    "KEEP OUT OF REACH OF CHILDREN AND PETS. EXTERNAL USE."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN"
+  ],
+  "dosage_and_administration": [
+    "APPLY TO THE PREVIOUSLY MOISTENED EXTERNAL INTIMATE REGION. SPREAD UNTIL FOAMY. RINSE THOROUGHLY AFTER USE"
+  ],
+  "questions": [
+    "MAIL : SUPPORT@MYSPRAY.GROUP OR CALL (305) 677-5030"
+  ],
+  "indications_and_usage": [
+    "APPLY TO THE PREVIOUSLY MOISTENED EXTERNAL INTIMATE REGION. SPREAD UNTIL FOAMY. RINSE THOROUGHLY AFTER USE"
+  ],
+  "warnings": [
+    "KEEP OUT OF REACH OF CHILDREN AND PETS. EXTERNAL USE."
+  ],
+  "package_label_principal_display_panel": [
+    "LABEL"
+  ],
+  "set_id": "02f37e55-72fb-532b-e063-6394a90ab0c3",
+  "id": "2a31eeb0-2e54-c09d-e063-6294a90a40b0",
+  "effective_time": "20241226",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "ABOVE INTIMATE LIQUIDSOAP"
+    ],
+    "generic_name": [
+      "ABOVE INTIMATE"
+    ],
+    "manufacturer_name": [
+      "BASTON INDUSTRIA DE AEROSSOIS LTDA"
+    ],
+    "product_ndc": [
+      "73306-1161"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALOE"
+    ],
+    "spl_id": [
+      "2a31eeb0-2e54-c09d-e063-6294a90a40b0"
+    ],
+    "spl_set_id": [
+      "02f37e55-72fb-532b-e063-6394a90ab0c3"
+    ],
+    "package_ndc": [
+      "73306-1161-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "7899674037602"
+    ],
+    "unii": [
+      "V5VD430YW9"
+    ]
+  }
+}

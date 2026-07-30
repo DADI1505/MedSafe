@@ -1,0 +1,84 @@
+{
+  "spl_product_data_elements": [
+    "Equate Healthy Gums Clean Mint Breath Oral Rinse CETYLPYRIDINIUM CHLORIDE WATER GLYCERIN POLYOXYL 40 HYDROGENATED CASTOR OIL SODIUM BENZOATE CITRIC ACID MONOHYDRATE SUCRALOSE CETYLPYRIDINIUM CHLORIDE CETYLPYRIDINIUM"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information Do not exceed the recommended dosage. This rinse is not a substitute for brushing or flossing. Do not use if safety seal is broken or missing."
+  ],
+  "active_ingredient": [
+    "Active Ingredient Cetylpyridinium Chloride 0.05% Purpose Anti-Gingivitis/Anti-Plaque"
+  ],
+  "purpose": [
+    "Purpose Anti-Gingivitis/Anti-Plaque"
+  ],
+  "indications_and_usage": [
+    "Uses Helps reduce Plaque-associated Gingivitis Helps control gum infections"
+  ],
+  "warnings": [
+    "Warnings Stop use and ask Dentist if Gingivitis, bleeding or redness persists for more than 2 weeks. You have painful or swollen gums, pus from the gum line, loose teeth, or increasing spacing between teeth. These may be signs or symptoms of periodontitis, a serious form of gum disease. Keep out of reach of children under 6 years of age."
+  ],
+  "stop_use": [
+    "Stop use and ask Dentist if Gingivitis, bleeding or redness persists for more than 2 weeks. You have painful or swollen gums, pus from the gum line, loose teeth, or increasing spacing between teeth. These may be signs or symptoms of periodontitis, a serious form of gum disease."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children under 6 years of age."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 12 years and older : Measure 20ml (4 teaspoonful) and vigorously swish around the mouth and between teeth for 1 minute then spit out. Use undiluted, twice daily, in morning & before bedtime. Children 6 years to under 12 years : Under Adult supervision Children under 6 years : Not recommended for use Do not swallow. In case as excess quantity is swallowed accidently, contact Poison Control Center for immediate care and attention."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water, Glycerin, PEG-40 Hydrogenated castor oil, Sodium benzoate, Citric acid, Flavour, Sucralose"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labelling: Label.jpg"
+  ],
+  "set_id": "05fc922a-73fc-4826-be77-538da08282b9",
+  "id": "2901a1df-7cd4-7cf2-e063-6394a90a8c91",
+  "effective_time": "20241211",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Equate Healthy Gums Clean Mint Breath Oral Rinse"
+    ],
+    "generic_name": [
+      "CETYLPYRIDINIUM CHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Vasu Healthcare Pvt. Ltd."
+    ],
+    "product_ndc": [
+      "84239-000"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "CETYLPYRIDINIUM CHLORIDE"
+    ],
+    "rxcui": [
+      "1251617"
+    ],
+    "spl_id": [
+      "2901a1df-7cd4-7cf2-e063-6394a90a8c91"
+    ],
+    "spl_set_id": [
+      "05fc922a-73fc-4826-be77-538da08282b9"
+    ],
+    "package_ndc": [
+      "84239-000-00"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "D9OM4SK49P"
+    ]
+  }
+}

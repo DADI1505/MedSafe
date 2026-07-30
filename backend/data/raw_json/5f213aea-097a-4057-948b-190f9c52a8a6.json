@@ -1,0 +1,98 @@
+{
+  "spl_product_data_elements": [
+    "Vermex Artemisia Vulgaris, Cina, Teucrium Marum, Spigelia Anthelmia, Filix Mas, Calcarea Carbonica, Graphites, Mercurius Corrosivus, Sabadilla, Silicea, Tanacetum Vulgare, Ascaris Lumbricoides, Taenia Solium ARTEMISIA VULGARIS ROOT ARTEMISIA VULGARIS ROOT ARTEMISIA CINA PRE-FLOWERING TOP ARTEMISIA CINA FLOWER TEUCRIUM MARUM WHOLE TEUCRIUM MARUM SPIGELIA ANTHELMIA WHOLE SPIGELIA ANTHELMIA DRYOPTERIS FILIX-MAS ROOT DRYOPTERIS FILIX-MAS ROOT OYSTER SHELL CALCIUM CARBONATE, CRUDE OYSTER SHELL CALCIUM CARBONATE, CRUDE GRAPHITE GRAPHITE MERCURIC CHLORIDE MERCURIC CATION SCHOENOCAULON OFFICINALE SEED SCHOENOCAULON OFFICINALE SEED SILICON DIOXIDE SILICON DIOXIDE TANACETUM VULGARE TOP TANACETUM VULGARE TOP ASCARIS LUMBRICOIDES ASCARIS LUMBRICOIDES TAENIA SOLIUM TAENIA SOLIUM WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: Artemisia Vulgaris 3X, Cina 3X, Teucrium Marum 3X, Spigelia Anthelmia 6X, Filix Mas 7X, Calcarea Carbonica 12X, Graphites 12X, Mercurius Corrosivus 12X, Sabadilla 12X, Silicea 12X, Tanacetum Vulgare 12X, Ascaris Lumbricoides 30X, 60X, 200X, Taenia Solium 30X, 60X, 200X."
+  ],
+  "purpose": [
+    "INDICATIONS: For temporary relief of itching of the anus, colic, bloating, pain, and constipation."
+  ],
+  "warnings": [
+    "WARNINGS: If pregnant or breast-feeding, ask a health care professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in a cool, dry place."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: 10 drops orally, 3 times a day. Consult a physician for use in children under 12 years of age."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: For temporary relief of itching of the anus, colic, bloating, pain, and constipation."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Demineralized Water, 25% Ethanol"
+  ],
+  "questions": [
+    "QUESTIONS: Distributed by: BioActive Nutritional, Inc. 1803 N. Wickham Rd. Melbourne, FL 32935 bioactivenutritional.com"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: BIO Active Nutritional VERMEX HOMEOPATHIC 1 FL OZ (30 ml) Vermex"
+  ],
+  "set_id": "06b61e15-ab8b-4b7e-8378-48f87a963e44",
+  "id": "5f213aea-097a-4057-948b-190f9c52a8a6",
+  "effective_time": "20250516",
+  "version": "5",
+  "openfda": {
+    "brand_name": [
+      "Vermex"
+    ],
+    "generic_name": [
+      "ARTEMISIA VULGARIS, CINA, TEUCRIUM MARUM, SPIGELIA ANTHELMIA, FILIX MAS, CALCAREA CARBONICA, GRAPHITES, MERCURIUS CORROSIVUS, SABADILLA, SILICEA, TANACETUM VULGARE, ASCARIS LUMBRICOIDES, TAENIA SOLIUM"
+    ],
+    "manufacturer_name": [
+      "BioActive Nutritional, Inc."
+    ],
+    "product_ndc": [
+      "43857-0606"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ARTEMISIA VULGARIS ROOT",
+      "ARTEMISIA CINA PRE-FLOWERING TOP",
+      "TEUCRIUM MARUM WHOLE",
+      "SPIGELIA ANTHELMIA WHOLE",
+      "DRYOPTERIS FILIX-MAS ROOT",
+      "OYSTER SHELL CALCIUM CARBONATE, CRUDE",
+      "GRAPHITE",
+      "MERCURIC CHLORIDE",
+      "SCHOENOCAULON OFFICINALE SEED",
+      "SILICON DIOXIDE",
+      "TANACETUM VULGARE TOP",
+      "ASCARIS LUMBRICOIDES",
+      "TAENIA SOLIUM"
+    ],
+    "spl_id": [
+      "5f213aea-097a-4057-948b-190f9c52a8a6"
+    ],
+    "spl_set_id": [
+      "06b61e15-ab8b-4b7e-8378-48f87a963e44"
+    ],
+    "package_ndc": [
+      "43857-0606-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "32MP823R8S",
+      "28M1820ACT",
+      "10464S0TAA",
+      "WYT05213GE",
+      "C0ZK0RRF5X",
+      "2E32821G6I",
+      "4QQN74LH4O",
+      "53GH7MZT1R",
+      "6NAF1689IO",
+      "ETJ7Z6XBU4",
+      "D52957JQ8M",
+      "5694HE17ZQ",
+      "80CZ5Z3WH3"
+    ]
+  }
+}

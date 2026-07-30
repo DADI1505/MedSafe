@@ -1,0 +1,97 @@
+{
+  "spl_product_data_elements": [
+    "DR.JART EVERY SUN DAY SUN FLUID homosalate, octinoxate, octisalate, octocrylene, avobenzone OCTOCRYLENE OCTOCRYLENE PROPANEDIOL LAVENDER OIL 1,2-HEXANEDIOL BUTYLENE GLYCOL LIMONENE, (+)- LINALOOL, (+/-)- PENTYLENE GLYCOL ALCOHOL DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (HARD PARTICLE) TERT-BUTYL ALCOHOL TOCOPHEROL HYPROMELLOSE 2208 0.45% STEAROXY ETHER HOMOSALATE HOMOSALATE OCTINOXATE OCTINOXATE SILICON DIOXIDE BENZOTRIAZOLYL DODECYL P-CRESOL BUTYLATED HYDROXYTOLUENE AVOBENZONE AVOBENZONE OCTISALATE OCTISALATE ETHYLHEXYLGLYCERIN AMMONIUM ACRYLOYLDIMETHYLTAURATE, DIMETHYLACRYLAMIDE, LAURYL METHACRYLATE AND LAURETH-4 METHACRYLATE COPOLYMER, TRIMETHYLOLPROPANE TRIACRYLATE CROSSLINKED (45000 MPA.S) AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER WATER BUTYL METHACRYLATE/METHYL METHACRYLATE/METHACRYLIC ACID/STYRENE CROSSPOLYMER"
+  ],
+  "active_ingredient": [
+    "Active ingredients Avobenzone 2.9% Homosalate 9.0% Octinoxate 6.8% Octisalate 4.5% Octocrylene 4.0%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "Use Helps prevent sunburn"
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children. If productis swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use on damaged or broken skin"
+  ],
+  "when_using": [
+    "When using this product keep out of eyes. Rinse with water to remove."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if rash occurs"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If productis swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions ■ Apply liberally 15 minutes before sun exposure ■ Reapply at least every two hours ■ Use a water resistant sunscreen if swimming or sweating ■ Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: * limit time in the sun, especially from 10 am to 2 pm * wear long-sleeved shirts, pants, hats, and sunglasses ■ Children under 6 months of age: ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients WATER\\AQUA\\EAU, PROPANEDIOL, ALCOHOL DENAT., BENZOTRIAZOLYL DODECYL P-CRESOL, PENTYLENE GLYCOL, 1,2-HEXANEDIOL, SILICA, DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER, AMMONIUM ACRYLOYLDIMETHYLTAURATE/ VP COPOLYMER, STYRENE/ACRYLATES COPOLYMER, LAVANDULA ANGUSTIFOLIA (LAVENDER) OIL, ETHYLHEXYLGLYCERIN, HYDROXYPROPYL METHYLCELLULOSE STEAROXY ETHER, POLYACRYLATE CROSSPOLYMER-6, BUTYLENE GLYCOL, LINALOOL, LIMONENE, BHT, T-BUTYL ALCOHOL, TOCOPHEROL <ILN50939>"
+  ],
+  "storage_and_handling": [
+    "Other information Protect the product in this container from excessive heat and direct sunlight"
+  ],
+  "package_label_principal_display_panel": [
+    "Every Sun Day Sun Fluid UVA/UVB Protection Broad Spectrum SPF 50+ 100 mL / 3.38 fl. oz. Principal Display Panel"
+  ],
+  "set_id": "02a72c6d-da42-14b2-e063-6394a90af5cb",
+  "id": "2d82a7ff-8d4d-02d2-e063-6394a90a2347",
+  "effective_time": "20250206",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "DR.JART EVERY SUN DAY SUN FLUID"
+    ],
+    "generic_name": [
+      "HOMOSALATE, OCTINOXATE, OCTISALATE, OCTOCRYLENE, AVOBENZONE"
+    ],
+    "manufacturer_name": [
+      "Have & Be Co., Ltd."
+    ],
+    "product_ndc": [
+      "49404-307"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "OCTOCRYLENE",
+      "HOMOSALATE",
+      "OCTINOXATE",
+      "AVOBENZONE",
+      "OCTISALATE"
+    ],
+    "spl_id": [
+      "2d82a7ff-8d4d-02d2-e063-6394a90a2347"
+    ],
+    "spl_set_id": [
+      "02a72c6d-da42-14b2-e063-6394a90af5cb"
+    ],
+    "package_ndc": [
+      "49404-307-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "8809642712843"
+    ],
+    "unii": [
+      "5A68WGF6WM",
+      "V06SV4M95S",
+      "4Y5P7MUD51",
+      "G63QQF2NOX",
+      "4X49Y0596W"
+    ]
+  }
+}

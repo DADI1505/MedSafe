@@ -1,0 +1,95 @@
+{
+  "spl_product_data_elements": [
+    "MECLIZINE Meclizine HCl 12.5 mg CROSCARMELLOSE SODIUM CALCIUM PHOSPHATE, DIBASIC, ANHYDROUS MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE SILICON DIOXIDE STEARIC ACID MECLIZINE HYDROCHLORIDE MECLIZINE CAPSULE SHAPED TABLET PH049"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each caplet) Meclizine HCl 12.5mg"
+  ],
+  "purpose": [
+    "Purpose Antiemetic"
+  ],
+  "indications_and_usage": [
+    "Uses prevents and treats nausea, vomiting or dizziness associated with motion sickness"
+  ],
+  "warnings": [
+    "Warnings Do not use in children under 12 years of age unless directed by a doctor. Do not take unless directed by a doctor if you have glaucoma a breathing problem such as emphysema or chronic bronchitis trouble urinating due to an enlarged prostate gland Do not take if you are taking sedatives or tranquilizers, without first consulting your doctor. When using this product do not exceed recommended dosage drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "when_using": [
+    "When using this product do not exceed recommended dosage drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "dosage_and_administration": [
+    "Directions dosage should be taken 1 hour before travel starts adults and children 12 years and over take 2 or 4 caplets once daily or as directed by a doctor"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"60%\" border=\"5\"><tbody><tr styleCode=\"First Last\"><td>adults and children 12 years and over</td><td><paragraph>take 2 or 4 caplets once daily or as directed by a doctor</paragraph></td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information Tamper Evident: do not use if safety seal under cap is broken or missing each caplet contains: calcium 28 mg store at room temperature 20°-25°C (68°-77°F)."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients croscarmellose sodium, dicalcium phosphate, magnesium stearate, microcrystalline cellulose, silicon dioxide, stearic acid."
+  ],
+  "questions": [
+    "Questions or comments? call 1-800-630-8895, 8:30 am - 4:30 pm ET, Monday-Friday"
+  ],
+  "package_label_principal_display_panel": [
+    "label"
+  ],
+  "set_id": "032a89f2-17e7-45d2-94a1-cc7a601ebdee",
+  "id": "3e5a4128-ff9c-6f2b-e063-6394a90a42e6",
+  "effective_time": "20250901",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M009"
+    ],
+    "brand_name": [
+      "MECLIZINE"
+    ],
+    "generic_name": [
+      "MECLIZINE HCL 12.5 MG"
+    ],
+    "manufacturer_name": [
+      "Advanced Rx LLC"
+    ],
+    "product_ndc": [
+      "80513-427"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MECLIZINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "995624"
+    ],
+    "spl_id": [
+      "3e5a4128-ff9c-6f2b-e063-6394a90a42e6"
+    ],
+    "spl_set_id": [
+      "032a89f2-17e7-45d2-94a1-cc7a601ebdee"
+    ],
+    "package_ndc": [
+      "80513-427-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0380513000316"
+    ],
+    "unii": [
+      "HDP7W44CIO"
+    ]
+  }
+}

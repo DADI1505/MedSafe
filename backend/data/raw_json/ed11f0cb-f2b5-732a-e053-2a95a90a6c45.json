@@ -1,0 +1,91 @@
+{
+  "spl_product_data_elements": [
+    "Muco coccinum KLEBSIELLA PNEUMONIAE ANAEROCOCCUS TETRADIUS ANAEROCOCCUS TETRADIUS INFLUENZA A VIRUS INFLUENZA A VIRUS INFLUENZA B VIRUS INFLUENZA B VIRUS CROSCARMELLOSE SODIUM KLEBSIELLA PNEUMONIAE KLEBSIELLA PNEUMONIAE MORAXELLA CATARRHALIS SUBSP. CATARRHALIS MORAXELLA CATARRHALIS SUBSP. CATARRHALIS LACTOSE MAGNESIUM STEARATE XYLITOL"
+  ],
+  "active_ingredient": [
+    "Active ingredients Each tablet contains: Branhamella catarrhalis 200K Influenzinum 200K Klebsiella pneumoniae 200K Micrococcus tetragenus 200K"
+  ],
+  "purpose": [
+    "Uses For the temporary relief of cold and flu-like symptoms"
+  ],
+  "warnings": [
+    "Warnings This product is not intended to be an alternative to vaccination. Do not use if you have ever had an allergic reaction to this product or any of its ingredients. Stop use and ask a doctor if symptoms continue to persist after three days of use or are accompanied by a fever. If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use if you have ever had an allergic reaction to this product or any of its ingredients."
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breastfeeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children."
+  ],
+  "overdosage": [
+    "In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Carboxymethylcellulose sodium, lactose monohydrate (milk), magnesium stearate, xylitol"
+  ],
+  "other_safety_information": [
+    "Other information Do not use if the blister pack has been tampered with. Store in a cool, dry place."
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and Adolescents (12 years and older): At the first sign of symptoms, take one tablet allowing it to dissolve under the tongue. If symptoms persist, take one tablet two or three times during the day or as recommended by your healthcare practitioner. Children (6-11 years): Take under the direction of your healthcare practitioner."
+  ],
+  "indications_and_usage": [
+    "Uses For the temporary relief of cold and flu-like symptoms. Directions Adults and Adolescents (12 years and older): At the first sign of symptoms, take one tablet allowing it to dissolve under the tongue. If symptoms persist, take one tablet two or three times during the day or as recommended by your healthcare practitioner. Children (6-11 years): Take under the direction of your healthcare practitioner."
+  ],
+  "package_label_principal_display_panel": [
+    "NDC 62106-6870-0 UNDA plex MUCOCOCCINUM Homeopathic Preparation For the temporary relief of cold and flu-like symptoms. 10 Tablets 62106-6870-0"
+  ],
+  "set_id": "057b1c41-6946-602e-e054-00144ff88e88",
+  "id": "ed11f0cb-f2b5-732a-e053-2a95a90a6c45",
+  "effective_time": "20221109",
+  "version": "12",
+  "openfda": {
+    "brand_name": [
+      "Muco coccinum"
+    ],
+    "generic_name": [
+      "KLEBSIELLA PNEUMONIAE"
+    ],
+    "manufacturer_name": [
+      "Seroyal USA"
+    ],
+    "product_ndc": [
+      "62106-6870"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "SUBLINGUAL"
+    ],
+    "substance_name": [
+      "ANAEROCOCCUS TETRADIUS",
+      "INFLUENZA A VIRUS",
+      "INFLUENZA B VIRUS",
+      "KLEBSIELLA PNEUMONIAE",
+      "MORAXELLA CATARRHALIS SUBSP. CATARRHALIS"
+    ],
+    "spl_id": [
+      "ed11f0cb-f2b5-732a-e053-2a95a90a6c45"
+    ],
+    "spl_set_id": [
+      "057b1c41-6946-602e-e054-00144ff88e88"
+    ],
+    "package_ndc": [
+      "62106-6870-0"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "7Q9DHH4FGG",
+      "R9HH0NDE2E",
+      "1314JZ2X6W",
+      "09PA36CT5R",
+      "1X259JGO78"
+    ]
+  }
+}

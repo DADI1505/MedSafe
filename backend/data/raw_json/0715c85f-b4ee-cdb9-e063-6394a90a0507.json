@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Titanium Muriaticum Titanium Muriaticum TITANIUM DICHLORIDE TITANIUM SUCROSE Titanium Muriaticum Titanium Muriaticum TITANIUM DICHLORIDE TITANIUM SUCROSE Titanium Muriaticum Titanium Muriaticum TITANIUM DICHLORIDE TITANIUM SUCROSE Titanium Muriaticum Titanium Muriaticum TITANIUM DICHLORIDE TITANIUM SUCROSE Titanium Muriaticum Titanium Muriaticum TITANIUM DICHLORIDE TITANIUM SUCROSE Titanium Muriaticum Titanium Muriaticum TITANIUM DICHLORIDE TITANIUM SUCROSE Titanium Muriaticum Titanium Muriaticum TITANIUM DICHLORIDE TITANIUM SUCROSE Titanium Muriaticum Titanium Muriaticum TITANIUM DICHLORIDE TITANIUM SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Titanium Muriaticum 6C 5g Titanium Muriaticum 6C 30g Titanium Muriaticum 6C 100g Titanium Muriaticum 12C 5g Titanium Muriaticum 12C 30g Titanium Muriaticum 12C 100g Titanium Muriaticum 30C 1g Titanium Muriaticum 30C 5g Titanium Muriaticum 30C 30g Titanium Muriaticum 30C 100g Titanium Muriaticum 100C 1g Titanium Muriaticum 100C 5g Titanium Muriaticum 100C 30g Titanium Muriaticum 100C 100g Titanium Muriaticum 200C 1g Titanium Muriaticum 200C 5g Titanium Muriaticum 200C 30g Titanium Muriaticum 200C 100g Titanium Muriaticum 500C 1g Titanium Muriaticum 500C 5g Titanium Muriaticum 500C 30g Titanium Muriaticum 500C 100g Titanium Muriaticum 1M 1g Titanium Muriaticum 1M 5g Titanium Muriaticum 1M 30g Titanium Muriaticum 1M 100g Titanium Muriaticum LM1 30g"
+  ],
+  "set_id": "0715c85f-b4ed-cdb9-e063-6394a90a0507",
+  "id": "0715c85f-b4ee-cdb9-e063-6394a90a0507",
+  "effective_time": "20231006",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Titanium Muriaticum"
+    ],
+    "generic_name": [
+      "TITANIUM MURIATICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-4104",
+      "37662-4105",
+      "37662-4107",
+      "37662-4110",
+      "37662-4111",
+      "37662-4106",
+      "37662-4108",
+      "37662-4109"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "TITANIUM DICHLORIDE"
+    ],
+    "spl_id": [
+      "0715c85f-b4ee-cdb9-e063-6394a90a0507"
+    ],
+    "spl_set_id": [
+      "0715c85f-b4ed-cdb9-e063-6394a90a0507"
+    ],
+    "package_ndc": [
+      "37662-4105-1",
+      "37662-4105-2",
+      "37662-4105-3",
+      "37662-4107-1",
+      "37662-4107-2",
+      "37662-4107-3",
+      "37662-4107-4",
+      "37662-4110-1",
+      "37662-4110-2",
+      "37662-4110-3",
+      "37662-4110-4",
+      "37662-4111-1",
+      "37662-4106-1",
+      "37662-4106-2",
+      "37662-4106-3",
+      "37662-4106-4",
+      "37662-4108-1",
+      "37662-4108-2",
+      "37662-4108-3",
+      "37662-4108-4",
+      "37662-4104-1",
+      "37662-4104-2",
+      "37662-4104-3",
+      "37662-4109-1",
+      "37662-4109-2",
+      "37662-4109-3",
+      "37662-4109-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "BK26WI342Q"
+    ]
+  }
+}

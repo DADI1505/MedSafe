@@ -1,0 +1,86 @@
+{
+  "spl_product_data_elements": [
+    "PETITCOCHON TONE UP BODY SUN Adenosine, Niacinamide ADENOSINE ADENOSINE NIACINAMIDE NIACINAMIDE WATER"
+  ],
+  "active_ingredient": [
+    "Niacinamide, Adenosine"
+  ],
+  "inactive_ingredient": [
+    "Water Zinc Oxide Cyclopentasiloxane Titanium Dioxide Butyloctyl Salicylate Glycerin Cetyl PEG/PPG-10/1 Dimethicone Dicaprylyl Carbonate Sodium Chloride Hydrogenated Polyisobutene Nicotinamide Mononucleotide Anemarrhena Asphodeloides Root Extract Triethoxycaprylylsilane Aluminum Hydroxide Oxide PEG-10 Dimethicone Panthenol Stearic Acid Disteardimonium Hectorite Benzyl Glycol Styrene/Acrylates Copolymer Butylene Glycol Allantoin Propylene Carbonate Ethylhexylglycerin Disodium EDTA 1,2-Hexanediol Borago Officinalis Extract Corchorus Olitorius Leaf Extract Ilex Paraguariensis Leaf Extract Daucus Carota Sativa (Carrot) Root Extract Sodium Hyaluronate Fragrance"
+  ],
+  "purpose": [
+    "skin protect"
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF THE CHILDREN"
+  ],
+  "indications_and_usage": [
+    "How to use; At the last stage of basic care, apply an appropriate amount to the face, neck, arms, and legs that are easily exposed to UV rays."
+  ],
+  "warnings": [
+    "Precautions when using 1. When using cosmetics or after use, if there are any abnormal symptoms or side effects such as red spots, swelling, or itching in the area of use due to direct sunlight, consult with a specialist. 2. Refrain from using on areas with scars, etc. 3. Precautions for storage and handling A) Keep out of reach of children B) Store away from direct sunlight."
+  ],
+  "dosage_and_administration": [
+    "topical use only"
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "1"
+  ],
+  "set_id": "00301649-549d-e4af-e063-6394a90a0a1b",
+  "id": "0030108d-9c2e-d304-e063-6394a90a5ce5",
+  "effective_time": "20230711",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "PETITCOCHON TONE UP BODY SUN"
+    ],
+    "generic_name": [
+      "ADENOSINE, NIACINAMIDE"
+    ],
+    "manufacturer_name": [
+      "LAON COMMERCE co ltd"
+    ],
+    "product_ndc": [
+      "82083-0022"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ADENOSINE",
+      "NIACINAMIDE"
+    ],
+    "spl_id": [
+      "0030108d-9c2e-d304-e063-6394a90a5ce5"
+    ],
+    "spl_set_id": [
+      "00301649-549d-e4af-e063-6394a90a0a1b"
+    ],
+    "package_ndc": [
+      "82083-0022-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000178375",
+      "N0000175788"
+    ],
+    "pharm_class_epc": [
+      "Adenosine Receptor Agonist [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Adenosine Receptor Agonists [MoA]"
+    ],
+    "unii": [
+      "K72T3FS567",
+      "25X51I8RD4"
+    ]
+  }
+}

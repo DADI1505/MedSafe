@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Petroleum Jelly White Petrolatum PETROLATUM PETROLATUM"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active ingredient White Petrolatum, USP (100%)"
+  ],
+  "purpose": [
+    "Purpose Skin protectant"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily protects minor cuts scrapes burns temporarily protects and helps relieve chapped or cracked skin and lips helps protect from the drying effects of wind and cold weather"
+  ],
+  "warnings": [
+    "Warnings For external use only."
+  ],
+  "when_using": [
+    "When using this product do not get into eyes. See a doctor if condition lasts more than 7 days."
+  ],
+  "do_not_use": [
+    "Do not use on deep or puncture wounds animal bites serious burns"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "dosage_and_administration": [
+    "Directions apply as needed"
+  ],
+  "questions": [
+    "Questions? Call 1-800-290-4008"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients -"
+  ],
+  "package_label_principal_display_panel": [
+    "petroleum-jelly-13oz"
+  ],
+  "set_id": "00faa772-53f3-9276-e063-6394a90a2dab",
+  "id": "4ede5cbc-a0e0-6a36-e063-6294a90a66ae",
+  "effective_time": "20260407",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Petroleum Jelly"
+    ],
+    "generic_name": [
+      "WHITE PETROLATUM"
+    ],
+    "manufacturer_name": [
+      "WAL-MART STORES INC"
+    ],
+    "product_ndc": [
+      "79903-801"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "PETROLATUM"
+    ],
+    "rxcui": [
+      "204754"
+    ],
+    "spl_id": [
+      "4ede5cbc-a0e0-6a36-e063-6294a90a66ae"
+    ],
+    "spl_set_id": [
+      "00faa772-53f3-9276-e063-6394a90a2dab"
+    ],
+    "package_ndc": [
+      "79903-801-68"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0194346121656"
+    ],
+    "unii": [
+      "4T6H12BN9U"
+    ]
+  }
+}

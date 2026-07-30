@@ -1,0 +1,143 @@
+{
+  "spl_product_data_elements": [
+    "Pancreas Liquescence Cinnamomum, Gymnema Sylvestre, Phosphoricum Acidum, Syzygium Jambolanum, Trigonella Foenum-Graceum, Argentum Nitricum, Chionanthus Virginica, Hepar Suis, Pancreas Suis, Rhus Aromatica, Sulphur, Lycopodium Clavatum, Chromium Picolinate, Chromium Metallicum, Phosphorus, Vanadium Metallicum, Zincum Metallicum, Murex Purpurea, DNA, Insulinum (Human), Uranium Nitricum CINNAMON CINNAMON GYMNEMA SYLVESTRE LEAF GYMNEMA SYLVESTRE LEAF PHOSPHORIC ACID PHOSPHORIC ACID SYZYGIUM CUMINI SEED SYZYGIUM CUMINI SEED FENUGREEK SEED FENUGREEK SEED SILVER NITRATE SILVER CATION CHIONANTHUS VIRGINICUS ROOT BARK CHIONANTHUS VIRGINICUS ROOT BARK PORK LIVER PORK LIVER SUS SCROFA PANCREAS SUS SCROFA PANCREAS RHUS AROMATICA ROOT BARK RHUS AROMATICA ROOT BARK SULFUR SULFUR LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE CHROMIUM PICOLINATE CHROMIC CATION CHROMIUM CHROMIUM PHOSPHORUS PHOSPHORUS VANADIUM VANADIUM ZINC ZINC HEXAPLEX TRUNCULUS HYPOBRANCHIAL GLAND JUICE HEXAPLEX TRUNCULUS HYPOBRANCHIAL GLAND JUICE HERRING SPERM DNA HERRING SPERM DNA INSULIN HUMAN INSULIN HUMAN URANYL NITRATE HEXAHYDRATE URANIUM CATION (6+) WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: Cinnamomum 3X, Gymnema Sylvestre 3X, Phosphoricum Acidum 3X, Syzygium Jambolanum 3X, Trigonella Foenum-Graceum 3X, Argentum Nitricum 6X, Chionanthus Virginica 6X, Hepar Suis (Liver) 6X, 8X, Pancreas Suis 6X, 8X, Rhus Aromatica 8X, Sulphur 8X, Lycopodium Clavatum 8X, 30X, Chromium Picolinate 10X, Chromium Metallicum 12X, Phosphorus 12X, Vanadium Metallicum 12X, Zincum Metallicum 12X, Murex Purpurea 20X, DNA 30X, Insulinum 30X, Uranium Nitricum 30X."
+  ],
+  "purpose": [
+    "PURPOSE: Provides potentized homeo-nutritional support of the pancreas.† †Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS: Professional Use Only If pregnant or breast-feeding, ask a health professional before use. In case of overdose, get medical help or contact a Poison Control Center right away. If condition worsens, seek medical attention. KEEP OUT OF REACH OF CHILDREN Do not use if tamper evident seal is broken or missing. Store in a cool place after opening"
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: KEEP OUT OF REACH OF CHILDREN In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Adults 1 to 2 teaspoons one to two times daily. Children under twelve one half adult dosage. Consult a physician for use in children under 12 years of age."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: Provides potentized homeo-nutritional support of the pancreas.† †Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Alcohol USP 20%, Purified Water USP."
+  ],
+  "questions": [
+    "QUESTIONS: MANUFACTURED EXCLUSIVELY FOR NUTRITIONAL SPECIALTIES, INC. PO BOX 97227 PITTSBURG, PA 15229 www.phpltd.com"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: Professional Health Products HOMEOPATHIC NDC 83027-0026-1 PANCREAS LIQUESCENCE 4 FL. OZ (120 ml) PANCREAS LIQUESCENCE"
+  ],
+  "set_id": "06300339-b068-4685-8475-3765f6828851",
+  "id": "01589ee6-d8df-4b45-8b57-e04baf7f667c",
+  "effective_time": "20230327",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Pancreas Liquescence"
+    ],
+    "generic_name": [
+      "CINNAMOMUM, GYMNEMA SYLVESTRE, PHOSPHORICUM ACIDUM, SYZYGIUM JAMBOLANUM, TRIGONELLA FOENUM-GRACEUM, ARGENTUM NITRICUM, CHIONANTHUS VIRGINICA, HEPAR SUIS, PANCREAS SUIS, RHUS AROMATICA, SULPHUR, LYCOPODIUM CLAVATUM, CHROMIUM PICOLINATE, CHROMIUM METALLICUM, PHOSPHORUS, VANADIUM METALLICUM, ZINCUM METALLICUM, MUREX PURPUREA, DNA, INSULINUM (HUMAN), URANIUM NITRICUM"
+    ],
+    "manufacturer_name": [
+      "Nutritional Specialties, Inc."
+    ],
+    "product_ndc": [
+      "83027-0026"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CINNAMON",
+      "GYMNEMA SYLVESTRE LEAF",
+      "PHOSPHORIC ACID",
+      "SYZYGIUM CUMINI SEED",
+      "FENUGREEK SEED",
+      "SILVER NITRATE",
+      "CHIONANTHUS VIRGINICUS ROOT BARK",
+      "PORK LIVER",
+      "SUS SCROFA PANCREAS",
+      "RHUS AROMATICA ROOT BARK",
+      "SULFUR",
+      "LYCOPODIUM CLAVATUM SPORE",
+      "CHROMIUM PICOLINATE",
+      "CHROMIUM",
+      "PHOSPHORUS",
+      "VANADIUM",
+      "ZINC",
+      "HEXAPLEX TRUNCULUS HYPOBRANCHIAL GLAND JUICE",
+      "HERRING SPERM DNA",
+      "INSULIN HUMAN",
+      "URANYL NITRATE HEXAHYDRATE"
+    ],
+    "spl_id": [
+      "01589ee6-d8df-4b45-8b57-e04baf7f667c"
+    ],
+    "spl_set_id": [
+      "06300339-b068-4685-8475-3765f6828851"
+    ],
+    "package_ndc": [
+      "83027-0026-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0649818020376"
+    ],
+    "nui": [
+      "N0000185371",
+      "N0000175629",
+      "N0000184306",
+      "M0006342",
+      "M0008672",
+      "M0000728",
+      "N0000185508",
+      "M0011417",
+      "N0000175944"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Food Allergenic Extract [EPC]",
+      "Standardized Chemical Allergen [EPC]",
+      "Insulin [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Dietary Proteins [CS]",
+      "Food Additives [CS]",
+      "Allergens [CS]",
+      "Insulin [CS]"
+    ],
+    "unii": [
+      "5S29HWU6QB",
+      "2ZK6ZS8392",
+      "E4GA8884NN",
+      "820LSF646I",
+      "654825W09Z",
+      "95IT3W8JZE",
+      "S9Y4B22U2E",
+      "6EC706HI7F",
+      "9Y3J3362RY",
+      "Q3H36W0J42",
+      "70FD1KFU70",
+      "C88X29Y479",
+      "S71T8B8Z6P",
+      "0R0008Q3JB",
+      "27YLU75U4W",
+      "00J9J9XKDE",
+      "J41CSQ7QDS",
+      "IQV54TN60Y",
+      "51FI676N6F",
+      "1Y17CTI5SR",
+      "3V057702FY"
+    ]
+  }
+}

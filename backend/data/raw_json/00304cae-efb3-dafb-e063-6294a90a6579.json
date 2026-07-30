@@ -1,0 +1,126 @@
+{
+  "spl_product_data_elements": [
+    "Aluminium Nitricum Aluminium Nitricum SUCROSE ALUMINUM NITRATE ALUMINUM Aluminium Nitricum Aluminium Nitricum SUCROSE ALUMINUM NITRATE ALUMINUM Aluminium Nitricum Aluminium Nitricum SUCROSE ALUMINUM NITRATE ALUMINUM Aluminium Nitricum Aluminium Nitricum SUCROSE ALUMINUM NITRATE ALUMINUM Aluminium Nitricum Aluminium Nitricum SUCROSE ALUMINUM NITRATE ALUMINUM Aluminium Nitricum Aluminium Nitricum SUCROSE ALUMINUM NITRATE ALUMINUM Aluminium Nitricum Aluminium Nitricum SUCROSE ALUMINUM NITRATE ALUMINUM Aluminium Nitricum Aluminium Nitricum SUCROSE ALUMINUM NITRATE ALUMINUM"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Aluminium Nitricum 6C 5g Aluminium Nitricum 6C 30g Aluminium Nitricum 6C 100g Aluminium Nitricum 12C 5g Aluminium Nitricum 12C 30g Aluminium Nitricum 12C 100g Aluminium Nitricum 30C 1g Aluminium Nitricum 30C 5g Aluminium Nitricum 30C 30g Aluminium Nitricum 30C 100g Aluminium Nitricum 100C 1g Aluminium Nitricum 100C 5g Aluminium Nitricum 100C 30g Aluminium Nitricum 100C 100g Aluminium Nitricum 200C 1g Aluminium Nitricum 200C 5g Aluminium Nitricum 200C 30g Aluminium Nitricum 200C 100g Aluminium Nitricum 500C 1g Aluminium Nitricum 500C 5g Aluminium Nitricum 500C 30g Aluminium Nitricum 500C 100g Aluminium Nitricum 1M 1g Aluminium Nitricum 1M 5g Aluminium Nitricum 1M 30g Aluminium Nitricum 1M 100g Aluminium Nitricum 10M 1g Aluminium Nitricum 10M 5g Aluminium Nitricum 10M 30g Aluminium Nitricum 10M 100g"
+  ],
+  "set_id": "00304cae-efb2-dafb-e063-6294a90a6579",
+  "id": "00304cae-efb3-dafb-e063-6294a90a6579",
+  "effective_time": "20230711",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Aluminium Nitricum"
+    ],
+    "generic_name": [
+      "ALUMINIUM NITRICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3568",
+      "37662-3570",
+      "37662-3575",
+      "37662-3569",
+      "37662-3571",
+      "37662-3572",
+      "37662-3573",
+      "37662-3574"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ALUMINUM NITRATE"
+    ],
+    "spl_id": [
+      "00304cae-efb3-dafb-e063-6294a90a6579"
+    ],
+    "spl_set_id": [
+      "00304cae-efb2-dafb-e063-6294a90a6579"
+    ],
+    "package_ndc": [
+      "37662-3570-1",
+      "37662-3570-2",
+      "37662-3570-3",
+      "37662-3570-4",
+      "37662-3575-1",
+      "37662-3575-2",
+      "37662-3575-3",
+      "37662-3575-4",
+      "37662-3569-1",
+      "37662-3569-2",
+      "37662-3569-3",
+      "37662-3571-1",
+      "37662-3571-2",
+      "37662-3571-3",
+      "37662-3571-4",
+      "37662-3572-1",
+      "37662-3572-2",
+      "37662-3572-3",
+      "37662-3572-4",
+      "37662-3568-1",
+      "37662-3568-2",
+      "37662-3568-3",
+      "37662-3573-1",
+      "37662-3573-2",
+      "37662-3573-3",
+      "37662-3573-4",
+      "37662-3574-1",
+      "37662-3574-2",
+      "37662-3574-3",
+      "37662-3574-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "HUO854648Y"
+    ]
+  }
+}

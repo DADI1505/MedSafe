@@ -1,0 +1,90 @@
+{
+  "spl_product_data_elements": [
+    "EUCALYPTUS SCENTED HAND SANITIZER ALCOHOL WATER GLYCERIN PROPYLENE GLYCOL AMINOMETHYLPROPANOL FD&C YELLOW NO. 6 FD&C YELLOW NO. 5 ALCOHOL ALCOHOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information Store below 110°F (43°C)"
+  ],
+  "active_ingredient": [
+    "Active ingredient Ethyl Alcohol, 70% v/v Purpose Antimicrobial"
+  ],
+  "purpose": [
+    "Purpose Antimicrobial"
+  ],
+  "indications_and_usage": [
+    "Uses hand sanitizer to help reduce bacteria on skin"
+  ],
+  "warnings": [
+    "Warnings For external use only. Flammable, keep away from fire or flame. Do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation, excessive redness or rash develops. Keep out of reach of children. If swallowed, get medical help contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if irritation, excessive redness or rash develops."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Put a dime sized drop onto hands and rub together briskly until dry."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, glycerin, propylene glycol, fragrance, acrylates/c10-30 alkyl acrylate crosspolymer, aminomethyl propanol, yellow 6, yellow 5"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Outer Package2 Inner Package2"
+  ],
+  "set_id": "068ed8c0-1fff-42dd-a217-684201c16023",
+  "id": "2ef27711-9310-b8c7-e063-6294a90a9bf1",
+  "effective_time": "20250225",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "EUCALYPTUS SCENTED HAND SANITIZER"
+    ],
+    "generic_name": [
+      "ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "FOURSTAR GROUP USA, INC."
+    ],
+    "product_ndc": [
+      "80684-121"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "582753"
+    ],
+    "spl_id": [
+      "2ef27711-9310-b8c7-e063-6294a90a9bf1"
+    ],
+    "spl_set_id": [
+      "068ed8c0-1fff-42dd-a217-684201c16023"
+    ],
+    "package_ndc": [
+      "80684-121-00"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0049696897105"
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

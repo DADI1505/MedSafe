@@ -1,0 +1,116 @@
+{
+  "spl_product_data_elements": [
+    "Earth Aur met, Arg nit, Causticum, Cinchona, Condurango, Ceanothus, Euphrasia, Fucus, Gallicum ac, Iris vers, Net carb, Nitricum ac, Phosphorus. CITRIC ACID MONOHYDRATE POTASSIUM SORBATE WATER GOLD GOLD SILVER NITRATE SILVER CATION CAUSTICUM CAUSTICUM CINCHONA OFFICINALIS BARK CINCHONA OFFICINALIS BARK MARSDENIA CONDURANGO BARK MARSDENIA CONDURANGO BARK CEANOTHUS AMERICANUS LEAF CEANOTHUS AMERICANUS LEAF EUPHRASIA STRICTA EUPHRASIA STRICTA FUCUS VESICULOSUS FUCUS VESICULOSUS GALLIC ACID MONOHYDRATE GALLIC ACID IRIS VERSICOLOR ROOT IRIS VERSICOLOR ROOT SODIUM CARBONATE CARBONATE ION NITRIC ACID NITRIC ACID PHOSPHORUS PHOSPHORUS"
+  ],
+  "active_ingredient": [
+    "​ACTIVE INGREDIENTS (HPUS*) ​: Contains equal volume of each in 12X, 30X, and 100X potencies: Aur mur, Arg nit, Causticum, Cinchona, Condurango, Ceanothus, Euphrasia, Fucus, Gallicum ac, Iris vers, Nat carb, Nitricum ac, Phosphorus. (*) The letters \"HPUS\" indicate that the components in the product are officially monographed in the Homeopathic Pharmacopeia of the United States. (**) Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "indications_and_usage": [
+    "​INDICATIONS FOR USE: For the temporary relief of the neuro-emotional (automatic nervous system - non psychiatric) disorders of oversympathy, low self esteem and related emotions. Sensory, spinal and extremity disorders. Relief of symptoms of colds, sinus problems. Digestive, mouth saliva, taste disorders. Weak spine and lower extremity disorders.**​"
+  ],
+  "warnings": [
+    "​WARNINGS: • ​If symptoms persist or worsen, ​seek advice of licensed health care practicioner. • ​If pregnant or nursing ​, take only on advice of licensed health care practicioner. • ​Keep this and all medication out of reach of children. • Keep this and all medication out of reach of children."
+  ],
+  "keep_out_of_reach_of_children": [
+    "• Keep this and all medication out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "​ ​DIRECTIONS: ​Spray 9-12 pumps (approximately 1/2 tsp.) directly in mouth 3 times a day or as directed by a licensed health care practicioner. When appropriate, also spray externalyl on complaint area 3 times daily."
+  ],
+  "other_safety_information": [
+    "​OTHER INFORMATION ​: Tamper resistant for your protection. Use only if safe seal is intact."
+  ],
+  "inactive_ingredient": [
+    "​INACTIVE INGREDIENTS ​: Citric acid, Potassium sorbate, Purified water."
+  ],
+  "questions": [
+    "​www.NETmindbody.com Made in the USA"
+  ],
+  "package_label_principal_display_panel": [
+    "​NET Remedies #1 Earth Homeopathic Preparation Spleen & Stomach Meridans PROFESSIONAL FORMULA ​Naturally No Side Effects ​ ​2 fl oz (59 mL) Earth 2 fl oz bottle label For the temporary relief of the neuro-emotional (automatic nervous system - non psychiatric) disorders of oversympathy, low self esteem and related emotions. Sensory, spinal and extremity disorders. Relief of symptoms of colds, sinus problems. Digestive, mouth saliva, taste disorders. Weak spine and lower extremity disorders.**"
+  ],
+  "purpose": [
+    "For the temporary relief of the neuro-emotional (automatic nervous system - non psychiatric) disorders of oversympathy, low self esteem and related emotions. Sensory, spinal and extremity disorders. Relief of symptoms of colds, sinus problems. Digestive, mouth saliva, taste disorders. Weak spine and lower extremity disorders.**"
+  ],
+  "set_id": "06bfa185-71a2-4297-9a02-a9951a004bc5",
+  "id": "b9491337-22e4-60be-e053-2995a90a2ca0",
+  "effective_time": "20210119",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Earth"
+    ],
+    "generic_name": [
+      "AUR MET, ARG NIT, CAUSTICUM, CINCHONA, CONDURANGO, CEANOTHUS, EUPHRASIA, FUCUS, GALLICUM AC, IRIS VERS, NET CARB, NITRICUM AC, PHOSPHORUS."
+    ],
+    "manufacturer_name": [
+      "NET Remedies"
+    ],
+    "product_ndc": [
+      "61626-0102"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "GOLD",
+      "SILVER NITRATE",
+      "CAUSTICUM",
+      "CINCHONA OFFICINALIS BARK",
+      "MARSDENIA CONDURANGO BARK",
+      "CEANOTHUS AMERICANUS LEAF",
+      "EUPHRASIA STRICTA",
+      "FUCUS VESICULOSUS",
+      "GALLIC ACID MONOHYDRATE",
+      "IRIS VERSICOLOR ROOT",
+      "SODIUM CARBONATE",
+      "NITRIC ACID",
+      "PHOSPHORUS"
+    ],
+    "spl_id": [
+      "b9491337-22e4-60be-e053-2995a90a2ca0"
+    ],
+    "spl_set_id": [
+      "06bfa185-71a2-4297-9a02-a9951a004bc5"
+    ],
+    "package_ndc": [
+      "61626-0102-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185508",
+      "N0000175629",
+      "N0000184306",
+      "M0000728"
+    ],
+    "pharm_class_epc": [
+      "Standardized Chemical Allergen [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]"
+    ],
+    "unii": [
+      "79Y1949PYO",
+      "95IT3W8JZE",
+      "DD5FO1WKFU",
+      "S003A158SB",
+      "25B1Y14T8N",
+      "C9642I91WL",
+      "535G2ABX9M",
+      "48339473OT",
+      "X43D4L3DQC",
+      "45P3261C7T",
+      "411VRN1TV4",
+      "27YLU75U4W"
+    ]
+  }
+}

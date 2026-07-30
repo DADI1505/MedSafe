@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Witch Hazel WITCH HAZEL ALCOHOL WITCH HAZEL WITCH HAZEL"
+  ],
+  "active_ingredient": [
+    "Active ingredient Witch Hazel 86%"
+  ],
+  "purpose": [
+    "Purpose Astringent"
+  ],
+  "indications_and_usage": [
+    "Use for relief of minor skin irritations due to: insects bites minor cuts monor scrapes"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "when_using": [
+    "When using this product avoid contact with the eyes"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worses or symptoms last for more than 7 days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions apply as often as needed"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredient alcohol 14% by volume"
+  ],
+  "adverse_reactions": [
+    "ADVERSE REACTION Distributed by Publix Supermarkets, Inc. 3300 Publix Corporate Parkway Lakeland, FL 33811 publix.com"
+  ],
+  "spl_unclassified_section": [
+    "Disclaimer *This product is not manufactured or distributed by Dickinson Brands, Inc., distributor of T.N. Dickinson's Witch Hazel."
+  ],
+  "package_label_principal_display_panel": [
+    "principal display panel Publix Distilled Extract Witch Hazel Alcohol 14% Astringent for relief of minor skin irritations due to: insect bites, minor cuts, scrapes Compare to TN Dickinson's ® Witch Hazel* 16 FL OZ (1 PT) 473 mL image description image description"
+  ],
+  "set_id": "0098c983-c518-4a14-8635-c7bdde7bff4f",
+  "id": "4a1af6ad-7fab-bb2d-e063-6394a90a3d06",
+  "effective_time": "20260205",
+  "version": "17",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Witch Hazel"
+    ],
+    "generic_name": [
+      "WITCH HAZEL"
+    ],
+    "manufacturer_name": [
+      "Publix Super Markets, Inc."
+    ],
+    "product_ndc": [
+      "56062-822"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "WITCH HAZEL"
+    ],
+    "rxcui": [
+      "200295"
+    ],
+    "spl_id": [
+      "4a1af6ad-7fab-bb2d-e063-6394a90a3d06"
+    ],
+    "spl_set_id": [
+      "0098c983-c518-4a14-8635-c7bdde7bff4f"
+    ],
+    "package_ndc": [
+      "56062-822-43"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "101I4J0U34"
+    ]
+  }
+}

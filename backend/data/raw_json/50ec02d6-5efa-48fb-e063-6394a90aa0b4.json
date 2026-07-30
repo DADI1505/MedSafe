@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Dry Skin Healing Petrolatum CERESIN MINERAL OIL PANTHENOL GLYCERIN .ALPHA.-BISABOLOL, (+)- LANOLIN ALCOHOLS PETROLATUM PETROLATUM"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Petrolatum 41%"
+  ],
+  "purpose": [
+    "Purpose Skin protectant"
+  ],
+  "indications_and_usage": [
+    "Uses temporarily protects minor: cuts, scrapes, burns. temporarily protects and helps relieve chapped or cracked skin and lips. helps protect from the drying effects of wind and cold weather."
+  ],
+  "warnings": [
+    "Warnings For external use only When using this product Do not get in eyes. Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur within a few days. Do not use on Deep or puncture wounds animal bites. serious burns Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product Do not get in eyes."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur within a few days."
+  ],
+  "do_not_use": [
+    "Do not use on Deep or puncture wounds animal bites. serious burns"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Apply as needed."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Mineral Oil, Ceresin, Lanolin Alcohol, Panthenol, Glycerin, Bisabolol."
+  ],
+  "questions": [
+    "Questions? Call 1-800-925-4733"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel PDP"
+  ],
+  "set_id": "0397507d-4b6e-c679-e063-6294a90a0b33",
+  "id": "50ec02d6-5efa-48fb-e063-6394a90aa0b4",
+  "effective_time": "20260503",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Dry Skin Healing"
+    ],
+    "generic_name": [
+      "PETROLATUM"
+    ],
+    "manufacturer_name": [
+      "Walgreen"
+    ],
+    "product_ndc": [
+      "0363-5885"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "PETROLATUM"
+    ],
+    "spl_id": [
+      "50ec02d6-5efa-48fb-e063-6394a90aa0b4"
+    ],
+    "spl_set_id": [
+      "0397507d-4b6e-c679-e063-6294a90a0b33"
+    ],
+    "package_ndc": [
+      "0363-5885-41"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0195602090563"
+    ],
+    "unii": [
+      "4T6H12BN9U"
+    ]
+  }
+}

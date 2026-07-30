@@ -1,0 +1,109 @@
+{
+  "spl_product_data_elements": [
+    "Pain Relieving Cream Lidocaine Benzyl alcohol, Lidocaine HCI DIHEXADECYL PHOSPHATE HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER (45000 MPA.S AT 1%) WATER CETOSTEARYL ALCOHOL ALOE VERA LEAF MALTODEXTRIN CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS BENZYL ALCOHOL BENZYL ALCOHOL BUTYLENE GLYCOL CETETH-10 PHOSPHATE STEARETH-21 AMINOMETHYLPROPANOL DIMETHICONE GLYCERYL 1-STEARATE POLYSORBATE 80 ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Lidocaine HCL 4%",
+    "Benzyl Alcohol 10%"
+  ],
+  "purpose": [
+    "Purpose Topical Anasthetic",
+    "Purpose Topical Anesthetic"
+  ],
+  "indications_and_usage": [
+    "Uses Temporary Pain Relief"
+  ],
+  "do_not_use": [
+    "Do Not Use On wounds or damaged skin In large quantities With a heating pad if you are allergic to any ingredients of this product"
+  ],
+  "when_using": [
+    "When Using this Product Use only as direcgted Avoid contact with eyes, mucous membranes or rashes Do not bandage tightly"
+  ],
+  "warnings": [
+    "Warnings For external Use Only Do not use in eyes in large quantities over raw or blistered areas, or on deep puncture wounds, animal bites, or serious burns for more than one week unless directed by a doctor"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If Pregnant or Breast Feeding Ask a health professional before use"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center (800-222-1222) right away"
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children over 12 years clean and dry affected area Apply to affected area not more than 3 to 4 times daily Children 12 years or younger ask a doctor"
+  ],
+  "stop_use": [
+    "Stop Use and Ask a Doctor If Skin reactions occur, such as rash, itching, redness, irritation, pain, swelling and blistering Conditions worsen Symptoms persist for more than 7 days Symptoms clear up and occur again within a few days"
+  ],
+  "spl_unclassified_section": [
+    "Other Information Avoid storing product in direct sunlight Protect product from excessive moisture Store with lid closed tightly",
+    "Distributed By Trifecta Pharmaceuticals USA® 101 NE Third Avenue, Suite 1500 Ft. Lauderdale, FL. 33301 USA www.trifecta-pharma.com"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Aloe barbadensis leaf juice, aminomethyl propanol, Butylene glycol, carbome interpolymer type A (allyl sucrose crosslinked), Ceteth-10 phosphate, Cetostearyl alcohol, Dihexadecyl phosphate, Dimethicone, Glyceryl 1-stearate, Hydroxyethly acrylate/sodium acryloydimethyl taurate copolymer, maltodextrin, polysorbate 80, SD alcohol, Steareth-21, water"
+  ],
+  "questions": [
+    "Questions Call 1-888-296-9067"
+  ],
+  "package_label_principal_display_panel": [
+    "4054 GLOBE LIDOCAINE 4 PERCENT PAIN RELIEF CREAM 3OZ REV09 091223 CDER"
+  ],
+  "set_id": "039a2036-54b2-cf28-e063-6294a90a8ce6",
+  "id": "2a937989-4dc6-58d5-e063-6294a90a4ea9",
+  "effective_time": "20241231",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Pain Relieving Cream Lidocaine"
+    ],
+    "generic_name": [
+      "BENZYL ALCOHOL, LIDOCAINE HCI"
+    ],
+    "manufacturer_name": [
+      "Trifecta Pharmaceuticals USA LLC"
+    ],
+    "product_ndc": [
+      "69396-139"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "LIDOCAINE HYDROCHLORIDE",
+      "BENZYL ALCOHOL"
+    ],
+    "rxcui": [
+      "1926513"
+    ],
+    "spl_id": [
+      "2a937989-4dc6-58d5-e063-6294a90a4ea9"
+    ],
+    "spl_set_id": [
+      "039a2036-54b2-cf28-e063-6294a90a8ce6"
+    ],
+    "package_ndc": [
+      "69396-139-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0850026393903"
+    ],
+    "nui": [
+      "N0000181811"
+    ],
+    "pharm_class_epc": [
+      "Pediculicide [EPC]"
+    ],
+    "unii": [
+      "V13007Z41A",
+      "LKG8494WBH"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "spl_product_data_elements": [
+    "Allantoin Medicinal Massage Oil ALLANTOIN ALLANTOIN RICE BRAN OIL LAVENDER OIL PEPPERMINT OIL ARNICA MONTANA FLOWER WATER ALMOND OIL JOJOBA OIL CANNABIDIOL"
+  ],
+  "active_ingredient": [
+    "Active ingredients Allantoin......1% Purpose Skin protectant"
+  ],
+  "purpose": [
+    "Purpose Skin protectant"
+  ],
+  "indications_and_usage": [
+    "Uses Helps prevent and temporarily protect and help relieve chafed, chapped, or cracked skin. Helps prevent and protect from the drying of wind and cold weather"
+  ],
+  "warnings": [
+    "Warnings For external use only."
+  ],
+  "do_not_use": [
+    "Do not use on deep or puncture wounds, animal bites, serious burns"
+  ],
+  "when_using": [
+    "When using this product Do not get into eyes Stop use and ask doctor if condition worsens, symptoms last for more than 7 days, condition clears up but occurs again within a few days, rash or irritation occurs Stop use and ask doctor if Condition worsens, Symptoms last for more than 7 days, condition clears up but occurs again in a few days, rash or irritation occurs"
+  ],
+  "ask_doctor": [
+    "Stop use and ask doctor if condition worsens, symptoms last for more than 7 days, condition clears up but occurs again within a few days, rash or irritation occurs"
+  ],
+  "stop_use": [
+    "Stop use and ask doctor if Condition worsens, Symptoms last for more than 7 days, condition clears up but occurs again in a few days, rash or irritation occurs"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast feeding Consult a health professional before use. in case of overdose seek medical help or contact a poison control center right away"
+  ],
+  "overdosage": [
+    "in case of overdose seek medical help or contact a poison control center right away"
+  ],
+  "dosage_and_administration": [
+    "Directions shake well before use. adults and children 2 years and over; apply as needed. children under 2 years; consult a doctor keep out of reach of children Keep out of reach of children"
+  ],
+  "keep_out_of_reach_of_children": [
+    "keep out of reach of children Keep out of reach of children"
+  ],
+  "other_safety_information": [
+    "Other information Store at 68-77 degrees F (20-25 degrees C), avoid direct sunlight"
+  ],
+  "inactive_ingredient": [
+    "inactive ingredients Arnica montana, Cannabidiol, Jojoba oil, Lavender oil, Peppermint oil, Rice bran oil, Sweet almond oil."
+  ],
+  "package_label_principal_display_panel": [
+    "bottle label"
+  ],
+  "set_id": "04b5619b-2122-f159-e063-6394a90a2e05",
+  "id": "2bcab903-f69d-ad07-e063-6394a90a53d2",
+  "effective_time": "20250115",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Allantoin"
+    ],
+    "generic_name": [
+      "MEDICINAL MASSAGE OIL"
+    ],
+    "manufacturer_name": [
+      "Carolina Cannabis Creations L.L.C"
+    ],
+    "product_ndc": [
+      "82876-438"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALLANTOIN"
+    ],
+    "spl_id": [
+      "2bcab903-f69d-ad07-e063-6394a90a53d2"
+    ],
+    "spl_set_id": [
+      "04b5619b-2122-f159-e063-6394a90a2e05"
+    ],
+    "package_ndc": [
+      "82876-438-34"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0850024328181"
+    ],
+    "unii": [
+      "344S277G0Z"
+    ]
+  }
+}

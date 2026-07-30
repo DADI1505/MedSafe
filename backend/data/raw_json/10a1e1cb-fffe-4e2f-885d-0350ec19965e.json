@@ -1,0 +1,127 @@
+{
+  "spl_product_data_elements": [
+    "Intimate Anacardium Orientale, Aurum Muriaticum Natronatum, Camphora, DNA (Human), Germanium Metallicum, Helleborus Niger, Hydrogen, Lac Caninum, Lac Materna Humanum, Lithium Carbonicum, Magnesia Oxydata, Natrum Carbonicum, Neon, Oxytocin, Placenta Totalis Suis, Rhus Glabra, Saccharum Officinale, Stramonium, Thuja Occidentalis SEMECARPUS ANACARDIUM JUICE SEMECARPUS ANACARDIUM JUICE SODIUM TETRACHLOROAURATE TETRACHLOROAURATE ION CAMPHOR (NATURAL) CAMPHOR (NATURAL) HERRING SPERM DNA HERRING SPERM DNA GERMANIUM GERMANIUM HELLEBORUS NIGER ROOT HELLEBORUS NIGER ROOT HYDROGEN HYDROGEN CANIS LUPUS FAMILIARIS MILK CANIS LUPUS FAMILIARIS MILK HUMAN MILK HUMAN MILK LITHIUM CARBONATE LITHIUM CATION MAGNESIUM OXIDE MAGNESIUM CATION SODIUM CARBONATE CARBONATE ION NEON NEON OXYTOCIN OXYTOCIN SUS SCROFA PLACENTA SUS SCROFA PLACENTA RHUS GLABRA TOP RHUS GLABRA TOP SUCROSE SUCROSE DATURA STRAMONIUM DATURA STRAMONIUM THUJA OCCIDENTALIS LEAFY TWIG THUJA OCCIDENTALIS LEAFY TWIG WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: Anacardium Orientale 12X, Aurum Muriaticum Natronatum 12X, Camphora 12X, DNA 12X, 30X, 200X, Germanium Metallicum 15X, Helleborus Niger 12X, Hydrogen 16X, Lac Caninum 10X, Lac Materna Humanum 16X, 30X, 200X, Lithium Carbonicum 8X, Magnesia Oxydata 12X, Natrum Carbonicum 6X, Neon 16C, Oxytocin 36C, 60C, 200C, Placenta Totalis Suis 8X, 12X, 30X, 200X, Rhus Glabra 12X, Saccharum Officinale 6X, Stramonium 12X, Thuja Occidentalis 12X."
+  ],
+  "purpose": [
+    "PURPOSE: Anacardium Orientale – Desire for Intimacy, Aurum Muriaticum Natronatum – Feeling Unloved, Camphora – Forsaken Feeling, DNA - Isolation, Germanium Metallicum - Isolation, Helleborus Niger - Disconnection, Hydrogen - Loneliness, Lac Caninum - Alienation, Lac Materna Humanum – Lack of Mother Child Bonding, Lithium Carbonicum – Feeling Unloved, Magnesia Oxydata – Desire for Intimacy, Natrum Carbonicum – Forsaken Feeling, Neon - Isolation, Oxytocin – Lack of Mother Child Bonding, Placenta Totalis Suis - Disconnection, Rhus Glabra - Loneliness, Saccharum Officinale – Feeling Unloved, Stramonium - Alienation, Thuja Occidentalis - Estrangement"
+  ],
+  "indications_and_usage": [
+    "USES: • For the temporary relief of symptoms including: • desire for intimacy • forsaken feeling • isolation • disconnection • alienation • lack of mother child bonding • loneliness • estrangement • feeling unloved These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration."
+  ],
+  "warnings": [
+    "WARNINGS: If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children. In case of overdose, contact a physician or Poison Control Center right away. Tamper Evident: Sealed for your protection. Do not use if seal is broken or missing."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: In case of overdose, contact a physician or Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: 1-10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Demineralized water, 25% ethanol"
+  ],
+  "questions": [
+    "QUESTIONS: Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com 800-827-8204"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: DesBio Intimate Homeopathic NDC 43742-2185-1 1 FL OZ (30 ml) Intimate"
+  ],
+  "set_id": "066bd402-378b-48aa-9515-188c261a3f4c",
+  "id": "10a1e1cb-fffe-4e2f-885d-0350ec19965e",
+  "effective_time": "20250527",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Intimate"
+    ],
+    "generic_name": [
+      "ANACARDIUM ORIENTALE, AURUM MURIATICUM NATRONATUM, CAMPHORA, DNA (HUMAN), GERMANIUM METALLICUM, HELLEBORUS NIGER, HYDROGEN, LAC CANINUM, LAC MATERNA HUMANUM, LITHIUM CARBONICUM, MAGNESIA OXYDATA, NATRUM CARBONICUM, NEON, OXYTOCIN, PLACENTA TOTALIS SUIS, RHUS GLABRA, SACCHARUM OFFICINALE, STRAMONIUM, THUJA OCCIDENTALIS"
+    ],
+    "manufacturer_name": [
+      "Deseret Biologicals, Inc."
+    ],
+    "product_ndc": [
+      "43742-2185"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SEMECARPUS ANACARDIUM JUICE",
+      "SODIUM TETRACHLOROAURATE",
+      "CAMPHOR (NATURAL)",
+      "HERRING SPERM DNA",
+      "GERMANIUM",
+      "HELLEBORUS NIGER ROOT",
+      "HYDROGEN",
+      "CANIS LUPUS FAMILIARIS MILK",
+      "HUMAN MILK",
+      "LITHIUM CARBONATE",
+      "MAGNESIUM OXIDE",
+      "SODIUM CARBONATE",
+      "NEON",
+      "OXYTOCIN",
+      "SUS SCROFA PLACENTA",
+      "RHUS GLABRA TOP",
+      "SUCROSE",
+      "DATURA STRAMONIUM",
+      "THUJA OCCIDENTALIS LEAFY TWIG"
+    ],
+    "spl_id": [
+      "10a1e1cb-fffe-4e2f-885d-0350ec19965e"
+    ],
+    "spl_set_id": [
+      "066bd402-378b-48aa-9515-188c261a3f4c"
+    ],
+    "package_ndc": [
+      "43742-2185-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0810151883588"
+    ],
+    "nui": [
+      "N0000009705",
+      "N0000175828",
+      "M0015703"
+    ],
+    "pharm_class_pe": [
+      "Increased Uterine Smooth Muscle Contraction or Tone [PE]"
+    ],
+    "pharm_class_epc": [
+      "Oxytocic [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Oxytocin [CS]"
+    ],
+    "unii": [
+      "Y0F0BU8RDU",
+      "7FT6QUT299",
+      "N20HL7Q941",
+      "51FI676N6F",
+      "00072J7XWS",
+      "608DGJ6815",
+      "7YNJ3PO35Z",
+      "G39P120JQT",
+      "1XCH439UQR",
+      "2BMD2GNA4V",
+      "3A3U0GI71G",
+      "45P3261C7T",
+      "4VB4Y46AHD",
+      "1JQS135EYN",
+      "C8CV8867O8",
+      "RHH784E0K6",
+      "C151H8M554",
+      "G6W4F0V8Z3",
+      "1NT28V9397"
+    ]
+  }
+}

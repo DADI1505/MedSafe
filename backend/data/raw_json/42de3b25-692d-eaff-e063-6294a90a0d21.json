@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "Shailee Psoriasis Treatment Salicylic Acid WATER SODIUM C14-16 OLEFIN SULFONATE COCAMIDOPROPYL BETAINE PEG-120 METHYL GLUCOSE DIOLEATE POLYQUATERNIUM-7 (70/30 ACRYLAMIDE/DADMAC; 1600000 MW) TROLAMINE PANTHENOL TEA TREE OIL .ALPHA.-TOCOPHEROL ACETATE BIOTIN HYDROLYZED SHEEP WOOL KERATIN (200 MW) ROSEMARY OIL PEPPERMINT OIL GREEN TEA LEAF ASCORBIC ACID SALICYLIC ACID SALICYLIC ACID"
+  ],
+  "active_ingredient": [
+    "Active ingredient Purpose Salicylic Acid 3% Psoriasis and Dandruff Seborrheic Dermatitis"
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    "Uses Controls flaking, scaling, and itching associated with dandruff."
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use On a damaged or inflamed scalp. If you are allergic to ingredients in this product. When using this product Avoid contact with the eyes. If contact occurs, rinse the eyes thoroughly with water. Stop use and ask a doctor if Rash appears. condition worsens or does not improve in 2-4 weeks. If pregnant or breast-feeding, ask a doctor before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children aged 12 and over. Wet hair thoroughly. Apply shampoo, generously lather, then rinse thoroughly. Repeat. Use every 3-4 days for up to 8 weeks or as directed by a doctor. Then use only as needed to control dandruff. Children under 12 years old. Ask a doctor."
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"100%\"><caption/><tbody><tr><td>Adults and children aged 12 and over.</td><td><list listType=\"unordered\"><item> Wet hair thoroughly. </item><item>Apply shampoo, generously lather, then rinse thoroughly. </item><item>Repeat. Use every 3-4 days for up to 8 weeks or as directed by a doctor. Then use only as needed to control dandruff.</item></list></td></tr><tr><td>Children under 12 years old. </td><td><list listType=\"unordered\"><item> Ask a doctor.</item></list></td></tr></tbody></table>"
+  ],
+  "other_safety_information": [
+    "Other information store between 20° – 25°C (68° – 77°F) See bottom panel for lot number and expiration date"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Purified Water, Sodium C-4-16 Olefin Sulfonate, Cocamidopropyl Betaine, PEG-120 Methyl Glucose Dioleate, Polyquaternium-7, Trolamine, Phospholipid EFA, DL Panthenol USP Powder, Vitamin E Acetate, Biotin, Hydrolyzed Keratin, Oxidized Keratin, Rosemary Oil, Tea Tree Oil, Peppermint Oil,Green Tea Extract, Ascorbic Acid, Manuka Honey"
+  ],
+  "package_label_principal_display_panel": [
+    "Product label image description"
+  ],
+  "set_id": "02a71ce4-baf5-4231-afd6-21ef0b22e931",
+  "id": "42de3b25-692d-eaff-e063-6294a90a0d21",
+  "effective_time": "20251105",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M032"
+    ],
+    "brand_name": [
+      "Shailee Psoriasis Treatment"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID"
+    ],
+    "manufacturer_name": [
+      "Foshan Sugar Max Cosmetics CO.,Ltd"
+    ],
+    "product_ndc": [
+      "84938-008"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "205023"
+    ],
+    "spl_id": [
+      "42de3b25-692d-eaff-e063-6294a90a0d21"
+    ],
+    "spl_set_id": [
+      "02a71ce4-baf5-4231-afd6-21ef0b22e931"
+    ],
+    "package_ndc": [
+      "84938-008-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

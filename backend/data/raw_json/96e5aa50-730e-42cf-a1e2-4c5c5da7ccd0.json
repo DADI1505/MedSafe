@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Antacid Childrens Calcium Carbonate CALCIUM CARBONATE CALCIUM CATION CARBONATE ION ACACIA STARCH, CORN D&C RED NO. 27 ALUMINUM LAKE D&C RED NO. 30 ALUMINUM LAKE FD&C RED NO. 40 ALUMINUM LAKE MAGNESIUM STEARATE MALTODEXTRIN SILICON DIOXIDE SODIUM LAURYL SULFATE SUCROSE TALC 44;596"
+  ],
+  "active_ingredient": [
+    "Active ingredient (in each chewable tablet) Calcium carbonate 400 mg"
+  ],
+  "purpose": [
+    "Purpose Antacid"
+  ],
+  "indications_and_usage": [
+    "Uses relieves: heartburn acid indigestion sour stomach upset stomach associated with these symptoms"
+  ],
+  "warnings": [
+    "Warnings Ask a doctor or pharmacist before use if the child is presently taking a prescription drug. Antacids may interact with certain prescription drugs. Stop use and ask a doctor if symptoms last more than two weeks. Keep this and all drugs out of the reach of children."
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if the child is presently taking a prescription drug. Antacids may interact with certain prescription drugs."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if symptoms last more than two weeks."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep this and all drugs out of the reach of children."
+  ],
+  "dosage_and_administration": [
+    "Directions find the right dose on chart below based on weight (preferred); otherwise use age chew or crush tablets completely before swallowing; do not swallow tablets whole repeat dose as needed do not take more than 3 chewable tablets (ages 2-5) or 6 chewable tablets (ages 6-11) in a 24-hour period, or use the maximum dosage of this product for more than two weeks, except under the advice and supervision of a doctor Dosing Chart Weight (lb) Age (yr) Dose (chewable tablets) under 24 under 2 ask a doctor 24-47 2-5 1 tablet 48-95 6-11 2 tablets"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"400px\"><col/><col/><col/><tbody><tr><td styleCode=\" Botrule Toprule Lrule Rrule\"><content styleCode=\"bold\">Weight (lb)</content></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><content styleCode=\"bold\">Age (yr)</content></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><content styleCode=\"bold\">Dose (chewable tablets)</content></td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\">under 24</td><td styleCode=\" Botrule Toprule Lrule Rrule\">under 2</td><td styleCode=\" Botrule Toprule Lrule Rrule\">ask a doctor</td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\">24-47</td><td styleCode=\" Botrule Toprule Lrule Rrule\">2-5</td><td styleCode=\" Botrule Toprule Lrule Rrule\">1 tablet</td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\">48-95</td><td styleCode=\" Botrule Toprule Lrule Rrule\">6-11</td><td styleCode=\" Botrule Toprule Lrule Rrule\">2 tablets</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "Other information each tablet contains: calcium 160 mg store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) avoid excessive humidity see end flap for expiration date and lot number"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients acacia, corn starch, D&C red #27 aluminum lake, D&C red #30 aluminum lake, FD&C red #40 aluminum lake, flavor, magnesium stearate, maltodextrin, silicon dioxide, sodium lauryl sulfate, sucrose, talc"
+  ],
+  "questions": [
+    "Questions or comments? 1-800-426-9391"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel ♥CVS ™ NDC 59779-596-08 Bubble Gum Flavor Children’s ANTACID CHEWABLES Calcium Carbonate, 400 mg Chewable Tablets, Antacid Compare to Pepto® Kids Chewables active ingredient* Relieves: Acid indigestion, Heartburn, Sour & upset stomach 24 CHEWABLE TABLETS Chew or crush tablets completely before swallowing. Do not swallow tablets whole. actual size TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING *This product is not manufactured or distributed by The Procter & Gamble Company, owner of the registered trademark Pepto® Kids Chewables. 50844 ORG111959608 Distributed by: CVS Pharmacy, Inc. One CVS Drive, Woonsocket, RI 02895 © 2025 CVS/pharmacy CVS.com® 1-800-SHOP CVS V-39965 100% money back guaranteed. CVS.com/returnpolicy CVS 44-596A CVS 44-596A"
+  ],
+  "set_id": "08953df1-cc29-452f-bc69-b19970a1fd2e",
+  "id": "96e5aa50-730e-42cf-a1e2-4c5c5da7ccd0",
+  "effective_time": "20251115",
+  "version": "16",
+  "openfda": {
+    "application_number": [
+      "M001"
+    ],
+    "brand_name": [
+      "Antacid Childrens"
+    ],
+    "generic_name": [
+      "CALCIUM CARBONATE"
+    ],
+    "manufacturer_name": [
+      "CVS Pharmacy"
+    ],
+    "product_ndc": [
+      "59779-596"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CALCIUM CARBONATE"
+    ],
+    "rxcui": [
+      "317865"
+    ],
+    "spl_id": [
+      "96e5aa50-730e-42cf-a1e2-4c5c5da7ccd0"
+    ],
+    "spl_set_id": [
+      "08953df1-cc29-452f-bc69-b19970a1fd2e"
+    ],
+    "package_ndc": [
+      "59779-596-08"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "H0G9379FGK"
+    ]
+  }
+}

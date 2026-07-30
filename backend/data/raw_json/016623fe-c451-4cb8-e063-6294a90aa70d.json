@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Terbium Metallicum Terbium Metallicum TERBIUM TERBIUM SUCROSE Terbium Metallicum Terbium Metallicum TERBIUM TERBIUM SUCROSE Terbium Metallicum Terbium Metallicum TERBIUM TERBIUM SUCROSE Terbium Metallicum Terbium Metallicum TERBIUM TERBIUM SUCROSE Terbium Metallicum Terbium Metallicum TERBIUM TERBIUM SUCROSE Terbium Metallicum Terbium Metallicum TERBIUM TERBIUM SUCROSE Terbium Metallicum Terbium Metallicum TERBIUM TERBIUM SUCROSE Terbium Metallicum Terbium Metallicum TERBIUM TERBIUM SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Terbium Metallicum 6C 5g Terbium Metallicum 6C 30g Terbium Metallicum 6C 100g Terbium Metallicum 12C 5g Terbium Metallicum 12C 30g Terbium Metallicum 12C 100g Terbium Metallicum 30C 1g Terbium Metallicum 30C 5g Terbium Metallicum 30C 30g Terbium Metallicum 30C 100g Terbium Metallicum 100C 1g Terbium Metallicum 100C 5g Terbium Metallicum 100C 30g Terbium Metallicum 100C 100g Terbium Metallicum 200C 1g Terbium Metallicum 200C 5g Terbium Metallicum 200C 30g Terbium Metallicum 200C 100g Terbium Metallicum 500C 1g Terbium Metallicum 500C 5g Terbium Metallicum 500C 30g Terbium Metallicum 500C 100g Terbium Metallicum 1M 1g Terbium Metallicum 1M 5g Terbium Metallicum 1M 30g Terbium Metallicum 1M 100g Terbium Metallicum LM1 30g"
+  ],
+  "set_id": "01662ca5-df5f-a8c4-e063-6294a90a37ad",
+  "id": "016623fe-c451-4cb8-e063-6294a90aa70d",
+  "effective_time": "20230726",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Terbium Metallicum"
+    ],
+    "generic_name": [
+      "TERBIUM METALLICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3640",
+      "37662-3642",
+      "37662-3645",
+      "37662-3646",
+      "37662-3644",
+      "37662-3643",
+      "37662-3641",
+      "37662-3647"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "TERBIUM"
+    ],
+    "spl_id": [
+      "016623fe-c451-4cb8-e063-6294a90aa70d"
+    ],
+    "spl_set_id": [
+      "01662ca5-df5f-a8c4-e063-6294a90a37ad"
+    ],
+    "package_ndc": [
+      "37662-3642-1",
+      "37662-3642-2",
+      "37662-3642-3",
+      "37662-3642-4",
+      "37662-3645-1",
+      "37662-3645-2",
+      "37662-3645-3",
+      "37662-3645-4",
+      "37662-3646-1",
+      "37662-3646-2",
+      "37662-3646-3",
+      "37662-3646-4",
+      "37662-3640-1",
+      "37662-3640-2",
+      "37662-3640-3",
+      "37662-3644-1",
+      "37662-3644-2",
+      "37662-3644-3",
+      "37662-3644-4",
+      "37662-3643-1",
+      "37662-3643-2",
+      "37662-3643-3",
+      "37662-3643-4",
+      "37662-3641-1",
+      "37662-3641-2",
+      "37662-3641-3",
+      "37662-3647-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "06SSF7P179"
+    ]
+  }
+}

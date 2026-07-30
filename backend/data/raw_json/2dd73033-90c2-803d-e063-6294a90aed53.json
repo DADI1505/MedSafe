@@ -1,0 +1,74 @@
+{
+  "spl_product_data_elements": [
+    "SM SWABALPHA Isopropyl Alcohol WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL"
+  ],
+  "active_ingredient": [
+    "isopropyl alcohol"
+  ],
+  "purpose": [
+    "swap for disinfection"
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF THE CHILDREN"
+  ],
+  "indications_and_usage": [
+    "apply a swab to the area of skin for injection for sterilization & disinfection"
+  ],
+  "warnings": [
+    "■ For external use only. ■ Do not use in eyes. ■ lf swallowed, get medical help promptly. ■ Stop use, ask doctor lf irritation occurs. ■ Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+    "for external use only"
+  ],
+  "inactive_ingredient": [
+    "purified water, non-woven"
+  ],
+  "package_label_principal_display_panel": [
+    "label"
+  ],
+  "set_id": "01d169e6-1ccd-ebc4-e063-6394a90aa6b5",
+  "id": "2dd73033-90c2-803d-e063-6294a90aed53",
+  "effective_time": "20250210",
+  "version": "4",
+  "openfda": {
+    "brand_name": [
+      "SM SWABALPHA"
+    ],
+    "generic_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Borami"
+    ],
+    "product_ndc": [
+      "83601-0001"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "rxcui": [
+      "797544"
+    ],
+    "spl_id": [
+      "2dd73033-90c2-803d-e063-6294a90aed53"
+    ],
+    "spl_set_id": [
+      "01d169e6-1ccd-ebc4-e063-6394a90aa6b5"
+    ],
+    "package_ndc": [
+      "83601-0001-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "ND2M416302"
+    ]
+  }
+}

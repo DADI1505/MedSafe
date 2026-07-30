@@ -1,0 +1,81 @@
+{
+  "spl_product_data_elements": [
+    "Schuessler Tissue Salts Comb D Skin Disorders Kali Muriaticum,Kali Sulphuricum,Calcarea Sulphurica,Silicea LACTOSE MONOHYDRATE MAGNESIUM STEARATE ANHYDROUS DIBASIC CALCIUM PHOSPHATE POTASSIUM CHLORIDE POTASSIUM CATION POTASSIUM SULFATE POTASSIUM CATION CALCIUM SULFATE DIHYDRATE POTASSIUM CATION SILICON DIOXIDE SAND"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Purpose Calcarea Sulphurica 6X HPUS ............................................ skin disorders, acne Kali Muriaticum 6X HPUS...................................................minor skin eruptions Kali Sulphuricum 6X HPUS...............dry, scaly & flaky skin, minor skin eruptions Silicea 6X HPUS......................................... skin disorders, minor skin eruptions \" HPUS \" is the Homeopathic Pharmacopoeia of the United States"
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    "Uses Temporarily relieves symptoms associated with Skin disorders Minor skin eruptions Acne Dry, scaly & flaky skin"
+  ],
+  "warnings": [
+    "Warnings Stop use and ask a doctor if : Symptoms persist for more than 7 days or worsen Inflammation, fever or infection is present or develops  Fever gets worse or lasts more than 3 days If skin eruptions are severe, or painful, seek the advice of a doctor. If pregnant or breastfeeding , ask a health professional before use. Keep out of reach of children."
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "dosage_and_administration": [
+    "Directions Use as directed Take 30 minutes away from food. Adults : Acute dose: Chew 1 tablet every 30 minutes until symptoms subside, up to 6 times per day. Maintenance dose: Chew 1 tablet, 4 times daily. Children 6 years and older : Acute dose: Crush ½ tablet, dissolve in water, and take every 30 minutes until symptoms subside, up to 6 times per day. Maintenance dose: Crush ½ tablet, dissolve in water, 4 times per day."
+  ],
+  "spl_unclassified_section": [
+    "Other Information Store below 86°F",
+    "Questions? www.schuesslertissuesalts.co or + 1-888-464-6775"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Calcium hydrogen phosphate, Lactose, Magnesium stearate."
+  ],
+  "package_label_principal_display_panel": [
+    "Product label image description image description"
+  ],
+  "set_id": "03153d92-dc68-4b84-a8c9-634b1ffd7da1",
+  "id": "3c3ecdc5-f936-ece1-e063-6394a90a9539",
+  "effective_time": "20250813",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Schuessler Tissue Salts Comb D Skin Disorders"
+    ],
+    "generic_name": [
+      "KALI MURIATICUM,KALI SULPHURICUM,CALCAREA SULPHURICA,SILICEA"
+    ],
+    "manufacturer_name": [
+      "Martin & Pleasance Pty Ltd"
+    ],
+    "product_ndc": [
+      "84999-026"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "POTASSIUM CHLORIDE",
+      "POTASSIUM SULFATE",
+      "CALCIUM SULFATE DIHYDRATE",
+      "SILICON DIOXIDE"
+    ],
+    "spl_id": [
+      "3c3ecdc5-f936-ece1-e063-6394a90a9539"
+    ],
+    "spl_set_id": [
+      "03153d92-dc68-4b84-a8c9-634b1ffd7da1"
+    ],
+    "package_ndc": [
+      "84999-026-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "660YQ98I10",
+      "1K573LC5TV",
+      "4846Q921YM",
+      "ETJ7Z6XBU4"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "DERMADIVE ULTRACARE - TETRAID BENZALKONIUM CHLORIDE GLYCERIN GLYCERYL MONOSTEARATE WATER BENZALKONIUM CHLORIDE BENZALKONIUM ETHYLHEXYLGLYCERIN DIETHYLENE GLYCOL MONOETHYL ETHER POLYSORBATE 60 PHENOXYETHANOL LECITHIN, SOYBEAN TROLAMINE STEARYL ALCOHOL CYCLOMETHICONE 4 PROPYLENE GLYCOL CETYL ALCOHOL TEA TREE OIL ALCOHOL CYCLOMETHICONE 5"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENT BENZALKONIUM CHLORIDE 0.13%"
+  ],
+  "purpose": [
+    "PURPOSE ANTIMICROBIAL"
+  ],
+  "indications_and_usage": [
+    "USES TO PROTECT SKIN AND SPEED HEALING OF WOUNDS AND SORES."
+  ],
+  "warnings": [
+    "WARNING FOR EXTERNAL USE ONLY. DO NOT USE ON DEEP PUNCTURE WOUNDS OR LACERATIONS. WHEN USING THIS PRODUCT AVOID CONTACT WITH THE EYES. STOP USING AND ASK A DOCTOR IF THE CONDITION WORSENS A RASH OR IRRITATION DEVELOPS."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS APPLY AS NEEDED TO AFFECTED AREAS."
+  ],
+  "storage_and_handling": [
+    "OTHER INFORMATION PROTECT PRODUCT FROM EXCESSIVE MOISTURE - AVOID STORING IN DIRECT SUNLIGHT - STORE WITH LID TIGHTLY CLOSED."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS PURIFIED WATER, GLYCERYL STEARATE, EMULSIFYING WAX, STEARYL ALCOHOL, CETYL ALCOHOL, CYCLOTETRASILOXANE (AND) CYCLOPENTASILOXANE, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, ETHOXYDIGLYCOL, PROPYLENE GLYCOL, WATER, LECITHIN, ALCOHOL, GLYCERIN, TEA TREE OIL, TRIETHANOLAMINE"
+  ],
+  "package_label_principal_display_panel": [
+    "01b LBL_Tetraid_100mL"
+  ],
+  "set_id": "025c0b33-73ca-334b-e063-6394a90ad668",
+  "id": "2b47af26-00c4-5628-e063-6294a90ad70b",
+  "effective_time": "20250109",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "DERMADIVE ULTRACARE - TETRAID"
+    ],
+    "generic_name": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Releaf Technologies LLC"
+    ],
+    "product_ndc": [
+      "78663-102"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "rxcui": [
+      "1046442"
+    ],
+    "spl_id": [
+      "2b47af26-00c4-5628-e063-6294a90ad70b"
+    ],
+    "spl_set_id": [
+      "025c0b33-73ca-334b-e063-6394a90ad668"
+    ],
+    "package_ndc": [
+      "78663-102-34"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "F5UM2KM3W7"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "spl_product_data_elements": [
+    "SKINPHARMACY ADVANCED ACNE THERAPY PORE REFINING FACIAL MASK salicylic acid salicylic acid salicylic acid water kaolin glycerin bentonite butylene glycol cetostearyl alcohol methyl methacrylate/glycol dimethacrylate crosspolymer cocamidopropyl betaine peg-100 stearate magnesium aluminum silicate glyceryl monostearate phenoxyethanol polyoxyl 20 cetostearyl ether xanthan gum chlorphenesin caffeine ethylhexylglycerin edetate disodium citric acid monohydrate sodium hydroxide .alpha.-tocopherol acetate vitamin a palmitate ascorbyl palmitate levomenol"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Salicylic Acid 0.5%"
+  ],
+  "purpose": [
+    "Purpose Acne"
+  ],
+  "indications_and_usage": [
+    "Use for the management of acne"
+  ],
+  "warnings": [
+    "Warnings For external use only When using this product using other topical acne medications at the same time or immediately following use of this product may increase dryness or irritation of the skin. If this occurs, only one medication should be used unless directed by a doctor. avoid contact with eye. if contact occurs, flush thoroughly with water. In case of accidental ingestion, get medical help or contact a Poison Control Center immediately. Keep out of reach of children. Do not swallow. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "when_using": [
+    "When using this product using other topical acne medications at the same time or immediately following use of this product may increase dryness or irritation of the skin. If this occurs, only one medication should be used unless directed by a doctor. avoid contact with eye. if contact occurs, flush thoroughly with water. In case of accidental ingestion, get medical help or contact a Poison Control Center immediately."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. Do not swallow. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions Once to twice per week, apply a generous layer evenly onto cleansed skin avoiding the eye area. Leave on for 10 minutes. Rinse thoroughly with water. Follow with your favorite Skin+Pharmacy moisturizer."
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water, Kaolin, Glycerin, Bentonite, Butylene Glycol, Cetearyl Alcohol, Methyl Methacrylate/Glycol Dimethacrylate Crosspolymer, Cocamidopropyl Betaine, PEG-100 Stearate, Magnesium Aluminum Silicate, Glyceryl Stearate, Phenoxyethanol, Ceteareth-20, Xanthan Gum, Chlorphenesin, Caffeine, Ethylhexylglycerin, Disodium EDTA, Citric Acid, Sodium Hydroxide, Tocopheryl Acetate, Retinyl Palmitate, Ascorbyl Palmitate, Bisabolol. Microsponge ® is a registered trademark of AMCOL International Corp. Save carton for complete labeling since all warnings are not included on the inner package. Distributed by: CVS Pharmacy, Inc. One CVS Drive, Woonsocket, RI 02895 © 2016 CVS/pharmacy CVS.com ® 1-800-SHOP CVS Made in the U.S.A. of U.S. and foreign components V-13649 CVS ® Quality Money Back Guarantee M050873CP FP419 #742825"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel - Carton Label SKIN+ PHARMACY ADVANCED ACNE THERAPY PORE REFINING FACIAL MASK with Microsponge ® Technology 0.5% Salicylic Acid contains anti-inflammatory Bisabolol & Vitamins A & E helps eliminate & prevent blemishes unclogs pores fragrance & oil-free formula DERMATOLOGIST TESTED exclusively at CVS/pharmacy Actual Product Size on Side Panel 3.3 FL OZ (99 mL) Principal Display Panel - Carton Label",
+    "Principal Display Panel - Tube Label SKIN+ PHARMACY ADVANCED ACNE THERAPY PORE REFINING FACIAL MASK with Microsponge ® Technology 0.5% Salicylic Acid contains anti-inflammatory Bisabolol & Vitamins A & E helps eliminate & prevent blemishes unclogs pores fragrance & oil-free formula DERMATOLOGIST TESTED exclusively at CVS/pharmacy 3.3 FL OZ (99 mL) Principal Display Panel - Tube Label"
+  ],
+  "set_id": "03bbb445-4c6b-4f54-bd95-9f5764eae4e4",
+  "id": "94fc9904-3118-4e9f-8e1f-a640f2cfbfa8",
+  "effective_time": "20170314",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "part333D"
+    ],
+    "brand_name": [
+      "SKINPHARMACY ADVANCED ACNE THERAPY PORE REFINING FACIAL MASK"
+    ],
+    "generic_name": [
+      "SALICYLIC ACID"
+    ],
+    "manufacturer_name": [
+      "CVS Health"
+    ],
+    "product_ndc": [
+      "69842-077"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "865105"
+    ],
+    "spl_id": [
+      "94fc9904-3118-4e9f-8e1f-a640f2cfbfa8"
+    ],
+    "spl_set_id": [
+      "03bbb445-4c6b-4f54-bd95-9f5764eae4e4"
+    ],
+    "package_ndc": [
+      "69842-077-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

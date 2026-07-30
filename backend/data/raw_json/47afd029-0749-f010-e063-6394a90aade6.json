@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Hand sanitizer 16.9oz with vitamin E Ethyl Alcohol 70% WATER PROPYLENE GLYCOL AMINOMETHYLPROPANOL ALOE VERA LEAF .ALPHA.-TOCOPHEROL ACETATE ALCOHOL ALCOHOL GLYCERIN CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE"
+  ],
+  "active_ingredient": [
+    "Active ingredient Ethyl Alcohol 70.0%v/v"
+  ],
+  "purpose": [
+    "Purpose Antimicrobial"
+  ],
+  "indications_and_usage": [
+    "Uses for handwashing to decrease bacteria on the skin recommended for repeated use"
+  ],
+  "warnings": [
+    "Warnings For ecternal use only Flammable, keep away from heat and flame Do not use Do not use in the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor Stop use and ask a doctor if irritation and redness develop and persist for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use Do not use in the eyes. In case of contact, rinse eyes thoroughly with water."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor Stop use and ask a doctor if irritation and redness develop and persist for more than 72 hours."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions wet hands thoroughly with product briskly rub hands together until dry supervise children under 6 years in the use of this product"
+  ],
+  "storage_and_handling": [
+    "Other information store at room temperature may discolor certain fabrics"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients water, carbomer, glycerin, propylene glycol, aminomethyl propanol, fragrance, aloe barbadensis leaf juice, tocopheryl acetate"
+  ],
+  "spl_unclassified_section": [
+    "XtraCare 70%Alcohol Hand Sanitizer Anitibcaterial Moisturize with Vitamin E 8 FL OZ(236 ml)"
+  ],
+  "package_label_principal_display_panel": [
+    "label label"
+  ],
+  "set_id": "04064c4d-e810-28ff-e063-6394a90a3983",
+  "id": "47afd029-0749-f010-e063-6394a90aade6",
+  "effective_time": "20260105",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M003"
+    ],
+    "brand_name": [
+      "Hand sanitizer 16.9oz with vitamin E"
+    ],
+    "generic_name": [
+      "ETHYL ALCOHOL 70%"
+    ],
+    "manufacturer_name": [
+      "Zhejiang Guoyao Jingyue Aerosol Co., Ltd."
+    ],
+    "product_ndc": [
+      "75742-021"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "582753"
+    ],
+    "spl_id": [
+      "47afd029-0749-f010-e063-6394a90aade6"
+    ],
+    "spl_set_id": [
+      "04064c4d-e810-28ff-e063-6394a90a3983"
+    ],
+    "package_ndc": [
+      "75742-021-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0849607073532"
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

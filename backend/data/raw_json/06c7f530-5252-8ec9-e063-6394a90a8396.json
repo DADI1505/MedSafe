@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Zirconium Muriaticum Zirconium Muriaticum ZIRCONIUM CHLORIDE ZIRCONIUM CATION (4+) SUCROSE Zirconium Muriaticum Zirconium Muriaticum ZIRCONIUM CHLORIDE ZIRCONIUM CATION (4+) SUCROSE Zirconium Muriaticum Zirconium Muriaticum ZIRCONIUM CHLORIDE ZIRCONIUM CATION (4+) SUCROSE Zirconium Muriaticum Zirconium Muriaticum ZIRCONIUM CHLORIDE ZIRCONIUM CATION (4+) SUCROSE Zirconium Muriaticum Zirconium Muriaticum ZIRCONIUM CHLORIDE ZIRCONIUM CATION (4+) SUCROSE Zirconium Muriaticum Zirconium Muriaticum ZIRCONIUM CHLORIDE ZIRCONIUM CATION (4+) SUCROSE Zirconium Muriaticum Zirconium Muriaticum ZIRCONIUM CHLORIDE ZIRCONIUM CATION (4+) SUCROSE Zirconium Muriaticum Zirconium Muriaticum ZIRCONIUM CHLORIDE ZIRCONIUM CATION (4+) SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Zirconium Muriaticum 6C 5g Zirconium Muriaticum 6C 30g Zirconium Muriaticum 6C 100g Zirconium Muriaticum 12C 5g Zirconium Muriaticum 12C 30g Zirconium Muriaticum 12C 100g Zirconium Muriaticum 30C 1g Zirconium Muriaticum 30C 5g Zirconium Muriaticum 30C 30g Zirconium Muriaticum 30C 100g Zirconium Muriaticum 100C 1g Zirconium Muriaticum 100C 5g Zirconium Muriaticum 100C 30g Zirconium Muriaticum 100C 100g Zirconium Muriaticum 200C 1g Zirconium Muriaticum 200C 5g Zirconium Muriaticum 200C 30g Zirconium Muriaticum 200C 100g Zirconium Muriaticum 500C 1g Zirconium Muriaticum 500C 5g Zirconium Muriaticum 500C 30g Zirconium Muriaticum 500C 100g Zirconium Muriaticum 1M 1g Zirconium Muriaticum 1M 5g Zirconium Muriaticum 1M 30g Zirconium Muriaticum 1M 100g Zirconium Muriaticum LM1 30g"
+  ],
+  "set_id": "06c7f530-5251-8ec9-e063-6394a90a8396",
+  "id": "06c7f530-5252-8ec9-e063-6394a90a8396",
+  "effective_time": "20231002",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Zirconium Muriaticum"
+    ],
+    "generic_name": [
+      "ZIRCONIUM MURIATICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-4071",
+      "37662-4072",
+      "37662-4073",
+      "37662-4078",
+      "37662-4075",
+      "37662-4076",
+      "37662-4077",
+      "37662-4074"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ZIRCONIUM CHLORIDE"
+    ],
+    "spl_id": [
+      "06c7f530-5252-8ec9-e063-6394a90a8396"
+    ],
+    "spl_set_id": [
+      "06c7f530-5251-8ec9-e063-6394a90a8396"
+    ],
+    "package_ndc": [
+      "37662-4072-1",
+      "37662-4072-2",
+      "37662-4072-3",
+      "37662-4073-1",
+      "37662-4073-2",
+      "37662-4073-3",
+      "37662-4073-4",
+      "37662-4078-1",
+      "37662-4071-1",
+      "37662-4071-2",
+      "37662-4071-3",
+      "37662-4075-1",
+      "37662-4075-2",
+      "37662-4075-3",
+      "37662-4075-4",
+      "37662-4076-1",
+      "37662-4076-2",
+      "37662-4076-3",
+      "37662-4076-4",
+      "37662-4077-1",
+      "37662-4077-2",
+      "37662-4077-3",
+      "37662-4077-4",
+      "37662-4074-1",
+      "37662-4074-2",
+      "37662-4074-3",
+      "37662-4074-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "Z88176T871"
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "spl_product_data_elements": [
+    "Childrens Mucus and Cough Relief Dextromethorphan HBr, Guaifenesin DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN ANHYDROUS CITRIC ACID DEXTROSE, UNSPECIFIED FORM D&C RED NO. 33 FD&C RED NO. 40 GLYCERIN METHYLPARABEN POTASSIUM SORBATE PROPYLENE GLYCOL PROPYLPARABEN WATER SACCHARIN SODIUM SORBITOL SODIUM HYDROXIDE SUCRALOSE XANTHAN GUM"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS (in each 5 mL) Dextromethorphan HBr 5 mg Guaifenesin 100 mg"
+  ],
+  "purpose": [
+    "PURPOSE Cough suppressant Expectorant"
+  ],
+  "indications_and_usage": [
+    "USE(S) helps loosen phlegm (mucus) and thin bronchial secretions to drain bronchial tubes and make coughs more productive temporarily relieves: cough due to minor throat and bronchial irritation as may occur with a cold or inhaled irritants the impulse to cough to help your child get to sleep the intensity of coughing"
+  ],
+  "warnings": [
+    "WARNING ."
+  ],
+  "do_not_use": [
+    "DO NOT USE in a child who is taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your child's prescription drug contains an MAOI, ask a doctor or pharmacist before giving this product."
+  ],
+  "ask_doctor": [
+    "ASK A DOCTOR BEFORE USE IF YOU HAVE persistent or chronic cough such as occurs with asthma cough that occurs with too much phlegm (mucus)"
+  ],
+  "stop_use": [
+    "STOP USE AND A ASK DOCTOR IF cough lasts more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious illness."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS do not take more than 6 doses in any 24-hour period measure only with dosing cup provided do not use dosing cup with other products mL=milliliter Age Dose children 6 years to under 12 years 5 mL-10 mL every 4 hours children 4 years to under 6 years 2.5 mL - 5 mL every 4 hours children under 4 years do not use"
+  ],
+  "dosage_and_administration_table": [
+    "<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\"><tbody><tr styleCode=\"Botrule\"><td valign=\"top\" styleCode=\"Lrule Rrule\">Age </td><td valign=\"top\" styleCode=\"Rrule\"> Dose</td></tr><tr styleCode=\"Botrule\"><td valign=\"top\" styleCode=\"Lrule Rrule\"> children 6 years to under 12 years</td><td valign=\"top\" styleCode=\"Rrule\"> 5 mL-10 mL  every 4 hours</td></tr><tr styleCode=\"Botrule\"><td valign=\"top\" styleCode=\"Lrule Rrule\"> children 4 years to under 6 years</td><td valign=\"top\" styleCode=\"Rrule\"> 2.5 mL - 5 mL  every 4 hours</td></tr><tr><td valign=\"top\" styleCode=\"Lrule Rrule\"> children under 4 years</td><td valign=\"top\" styleCode=\"Rrule\"> do not use</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+    "OTHER INFORMATION each 5 mL contains : potassium 5 mg, sodium 5 mg store between 20 to 25°C (68 to 77°F) do not refrigerate dosing cup provided"
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS citric acid anhydrous, D&C red #33, dextrose, FD&C red #40, flavor, glycerin, methylparaben, potassium sorbate, propylene glycol, propyl paraben, purified water, saccharin sodium, sodium hydroxide, sorbitol, sucralose, xanthan gum."
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL FAMILY Wellness TM COMPARE TO THE ACTIVE INGREDIENTS IN CHILDREN'S MUCINEX COUGH* children's MUCUS RELIEF AGES 4-12 YEARS COUGH SUPPRESSANT & EXPECTORANT Dextromethorphan HBr 5mg Guaifenesin 100 mg Controls cough Relieves chest congestion Thins and Loosens Mucus Alcohol Free CHERRY FLAVORED LIQUID 4 FL OZ (118 mL) 552-carton-fw.jpg 552-label-fw.jpg"
+  ],
+  "set_id": "07ad76cc-2a6c-4a88-a5e9-5e8f6d1319e3",
+  "id": "07ad76cc-2a6c-4a88-a5e9-5e8f6d1319e3",
+  "effective_time": "20240417",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "part341"
+    ],
+    "brand_name": [
+      "Childrens Mucus and Cough Relief"
+    ],
+    "generic_name": [
+      "DEXTROMETHORPHAN HBR, GUAIFENESIN"
+    ],
+    "manufacturer_name": [
+      "Family Dollar Services, Inc."
+    ],
+    "product_ndc": [
+      "55319-924"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "DEXTROMETHORPHAN HYDROBROMIDE",
+      "GUAIFENESIN"
+    ],
+    "rxcui": [
+      "1020138"
+    ],
+    "spl_id": [
+      "07ad76cc-2a6c-4a88-a5e9-5e8f6d1319e3"
+    ],
+    "spl_set_id": [
+      "07ad76cc-2a6c-4a88-a5e9-5e8f6d1319e3"
+    ],
+    "package_ndc": [
+      "55319-924-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000193956",
+      "N0000008867",
+      "N0000009560"
+    ],
+    "pharm_class_epc": [
+      "Expectorant [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Decreased Respiratory Secretion Viscosity [PE]",
+      "Increased Respiratory Secretions [PE]"
+    ],
+    "unii": [
+      "9D2RTI9KYH",
+      "495W7451VQ"
+    ]
+  }
+}

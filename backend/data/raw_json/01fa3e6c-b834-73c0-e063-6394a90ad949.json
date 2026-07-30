@@ -1,0 +1,126 @@
+{
+  "spl_product_data_elements": [
+    "Anagallis Arvensis Anagallis Arvensis SUCROSE ANAGALLIS ARVENSIS WHOLE ANAGALLIS ARVENSIS WHOLE Anagallis Arvensis Anagallis Arvensis SUCROSE ANAGALLIS ARVENSIS WHOLE ANAGALLIS ARVENSIS WHOLE Anagallis Arvensis Anagallis Arvensis SUCROSE ANAGALLIS ARVENSIS WHOLE ANAGALLIS ARVENSIS WHOLE Anagallis Arvensis Anagallis Arvensis SUCROSE ANAGALLIS ARVENSIS WHOLE ANAGALLIS ARVENSIS WHOLE Anagallis Arvensis Anagallis Arvensis SUCROSE ANAGALLIS ARVENSIS WHOLE ANAGALLIS ARVENSIS WHOLE Anagallis Arvensis Anagallis Arvensis SUCROSE ANAGALLIS ARVENSIS WHOLE ANAGALLIS ARVENSIS WHOLE Anagallis Arvensis Anagallis Arvensis SUCROSE ANAGALLIS ARVENSIS WHOLE ANAGALLIS ARVENSIS WHOLE Anagallis Arvensis Anagallis Arvensis SUCROSE ANAGALLIS ARVENSIS WHOLE ANAGALLIS ARVENSIS WHOLE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Anagallis Arvensis 6C 5g Anagallis Arvensis 6C 30g Anagallis Arvensis 6C 100g Anagallis Arvensis 12C 5g Anagallis Arvensis 12C 30g Anagallis Arvensis 12C 100g Anagallis Arvensis 30C 1g Anagallis Arvensis 30C 5g Anagallis Arvensis 30C 30g Anagallis Arvensis 30C 100g Anagallis Arvensis 100C 1g Anagallis Arvensis 100C 5g Anagallis Arvensis 100C 30g Anagallis Arvensis 100C 100g Anagallis Arvensis 200C 1g Anagallis Arvensis 200C 5g Anagallis Arvensis 200C 30g Anagallis Arvensis 200C 100g Anagallis Arvensis 500C 1g Anagallis Arvensis 500C 5g Anagallis Arvensis 500C 30g Anagallis Arvensis 500C 100g Anagallis Arvensis 1M 1g Anagallis Arvensis 1M 5g Anagallis Arvensis 1M 30g Anagallis Arvensis 1M 100g Anagallis Arvensis 10M 1g Anagallis Arvensis 10M 5g Anagallis Arvensis 10M 30g Anagallis Arvensis 10M 100g"
+  ],
+  "set_id": "01fa040d-3803-f311-e063-6294a90ab18a",
+  "id": "01fa3e6c-b834-73c0-e063-6394a90ad949",
+  "effective_time": "20230802",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Anagallis Arvensis"
+    ],
+    "generic_name": [
+      "ANAGALLIS ARVENSIS"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3664",
+      "37662-3671",
+      "37662-3666",
+      "37662-3668",
+      "37662-3670",
+      "37662-3665",
+      "37662-3669",
+      "37662-3667"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ANAGALLIS ARVENSIS WHOLE"
+    ],
+    "spl_id": [
+      "01fa3e6c-b834-73c0-e063-6394a90ad949"
+    ],
+    "spl_set_id": [
+      "01fa040d-3803-f311-e063-6294a90ab18a"
+    ],
+    "package_ndc": [
+      "37662-3671-1",
+      "37662-3671-2",
+      "37662-3671-3",
+      "37662-3671-4",
+      "37662-3666-1",
+      "37662-3666-2",
+      "37662-3666-3",
+      "37662-3666-4",
+      "37662-3664-1",
+      "37662-3664-2",
+      "37662-3664-3",
+      "37662-3668-1",
+      "37662-3668-2",
+      "37662-3668-3",
+      "37662-3668-4",
+      "37662-3670-1",
+      "37662-3670-2",
+      "37662-3670-3",
+      "37662-3670-4",
+      "37662-3665-1",
+      "37662-3665-2",
+      "37662-3665-3",
+      "37662-3669-1",
+      "37662-3669-2",
+      "37662-3669-3",
+      "37662-3669-4",
+      "37662-3667-1",
+      "37662-3667-2",
+      "37662-3667-3",
+      "37662-3667-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "46883LR90E"
+    ]
+  }
+}

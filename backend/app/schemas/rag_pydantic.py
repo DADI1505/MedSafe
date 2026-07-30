@@ -18,6 +18,7 @@ class SourceCitation(BaseModel):
     section_type: str
     chunk_id: int
     excerpt: str
+    effective_time: str | None = None 
 
 
 class RagAskResponse(BaseModel):

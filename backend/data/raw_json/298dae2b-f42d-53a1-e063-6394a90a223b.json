@@ -1,0 +1,110 @@
+{
+  "spl_product_data_elements": [
+    "First Aid Antibiotic plus Burn Relief Bacitracinzinc,NeomycinSulfate,PolymxinBSulfate,PramoxineHCI PRAMOXINE HYDROCHLORIDE PRAMOXINE POLYMYXIN B SULFATE POLYMYXIN B BACITRACIN ZINC BACITRACIN NEOMYCIN SULFATE NEOMYCIN WHITE PETROLATUM"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Pramoxine HCI",
+    "Active Ingredient Polymyxin B Sulfate",
+    "Active Ingredient Bacitracin Zinc",
+    "Neomycin Sulfate"
+  ],
+  "purpose": [
+    "Purpose Section External Analgesic",
+    "Purpose First Aid Antibiotic",
+    "Purpose First Aid Antibiotic",
+    "Purpose First Aid Antibiotic"
+  ],
+  "indications_and_usage": [
+    "Uses First Aid to help prevent infection and for the temporary relief of pain or discomfort in minor cuts, scrapes and burns."
+  ],
+  "warnings": [
+    "Warnings For external Use Only"
+  ],
+  "do_not_use": [
+    "Do Not Use Do Not use In the eyes Over large areas of the body If you are allergic to any of the ingredients"
+  ],
+  "ask_doctor": [
+    "Ask Doctor before use if you have Deep or puncture wounds Animal Bites Serious Burns"
+  ],
+  "stop_use": [
+    "Stop Use and ask a doctor if Condition persists or gets worse You need to use longer than 1 week A rash or other allergic reaction develops symptoms persist for more than 1 week or clear up and occur again within a few days"
+  ],
+  "dosage_and_administration": [
+    "Directions Adults and children 2 years of age and older: Clean the affected area and dry thoroughly. Apply a small amount of this product , an mount equal to the surgace area of the tip of a finger) on the area 1 to 3 times daily May be covered with a sterile bandage Children under 2 years old: ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients White Petrolatum"
+  ],
+  "questions": [
+    "Questions Call 1-888-296-9067"
+  ],
+  "storage_and_handling": [
+    "Storage Information Store at 20° to 25°C (68° to 77°F). See carton or tube crimp for lot number and expiration date"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "spl_unclassified_section": [
+    "Other Information Distributed By: Trifecta Pharmaceuticals USA® 101 NE Third Avenue, Suite 1500 Fort Lauderdale, FL. 33301 USA www.trifecta-pharma.com"
+  ],
+  "package_label_principal_display_panel": [
+    "Globe First Aid Antibiotic and Burn Relief 2oz Rev13 082523 CDER"
+  ],
+  "set_id": "048871e2-c917-292d-e063-6394a90af130",
+  "id": "298dae2b-f42d-53a1-e063-6394a90a223b",
+  "effective_time": "20241218",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M004"
+    ],
+    "brand_name": [
+      "First Aid Antibiotic plus Burn Relief"
+    ],
+    "generic_name": [
+      "BACITRACINZINC,NEOMYCINSULFATE,POLYMXINBSULFATE,PRAMOXINEHCI"
+    ],
+    "manufacturer_name": [
+      "Trifecta Pharmaceuticals USA LLC"
+    ],
+    "product_ndc": [
+      "69396-138"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "PRAMOXINE HYDROCHLORIDE",
+      "POLYMYXIN B SULFATE",
+      "BACITRACIN ZINC",
+      "NEOMYCIN SULFATE"
+    ],
+    "rxcui": [
+      "1359350"
+    ],
+    "spl_id": [
+      "298dae2b-f42d-53a1-e063-6394a90a223b"
+    ],
+    "spl_set_id": [
+      "048871e2-c917-292d-e063-6394a90af130"
+    ],
+    "package_ndc": [
+      "69396-138-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0850026393897"
+    ],
+    "unii": [
+      "88AYB867L5",
+      "19371312D4",
+      "89Y4M234ES",
+      "057Y626693"
+    ]
+  }
+}

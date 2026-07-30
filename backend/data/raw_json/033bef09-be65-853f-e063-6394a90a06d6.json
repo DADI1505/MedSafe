@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Mercurius Arsenicicus Mercurius Arsenicicus MERCURIC ARSENATE ARSENATE ION SUCROSE Mercurius Arsenicicus Mercurius Arsenicicus MERCURIC ARSENATE ARSENATE ION SUCROSE Mercurius Arsenicicus Mercurius Arsenicicus MERCURIC ARSENATE ARSENATE ION SUCROSE Mercurius Arsenicicus Mercurius Arsenicicus MERCURIC ARSENATE ARSENATE ION SUCROSE Mercurius Arsenicicus Mercurius Arsenicicus MERCURIC ARSENATE ARSENATE ION SUCROSE Mercurius Arsenicicus Mercurius Arsenicicus MERCURIC ARSENATE ARSENATE ION SUCROSE Mercurius Arsenicicus Mercurius Arsenicicus MERCURIC ARSENATE ARSENATE ION SUCROSE Mercurius Arsenicicus Mercurius Arsenicicus MERCURIC ARSENATE ARSENATE ION SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Mercurius Arsenicicus 6C 5g Mercurius Arsenicicus 6C 30g Mercurius Arsenicicus 6C 100g Mercurius Arsenicicus 12C 5g Mercurius Arsenicicus 12C 30g Mercurius Arsenicicus 12C 100g Mercurius Arsenicicus 30C 1g Mercurius Arsenicicus 30C 5g Mercurius Arsenicicus 30C 30g Mercurius Arsenicicus 30C 100g Mercurius Arsenicicus 100C 1g Mercurius Arsenicicus 100C 5g Mercurius Arsenicicus 100C 30g Mercurius Arsenicicus 100C 100g Mercurius Arsenicicus 200C 1g Mercurius Arsenicicus 200C 5g Mercurius Arsenicicus 200C 30g Mercurius Arsenicicus 200C 100g Mercurius Arsenicicus 500C 1g Mercurius Arsenicicus 500C 5g Mercurius Arsenicicus 500C 30g Mercurius Arsenicicus 500C 100g Mercurius Arsenicicus 1M 1g Mercurius Arsenicicus 1M 5g Mercurius Arsenicicus 1M 30g Mercurius Arsenicicus 1M 100g Mercurius Arsenicicus LM1 30g"
+  ],
+  "set_id": "033bef09-be64-853f-e063-6394a90a06d6",
+  "id": "033bef09-be65-853f-e063-6394a90a06d6",
+  "effective_time": "20230818",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Mercurius Arsenicicus"
+    ],
+    "generic_name": [
+      "MERCURIUS ARSENICICUS"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3777",
+      "37662-3779",
+      "37662-3781",
+      "37662-3783",
+      "37662-3782",
+      "37662-3778",
+      "37662-3780",
+      "37662-3784"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MERCURIC ARSENATE"
+    ],
+    "spl_id": [
+      "033bef09-be65-853f-e063-6394a90a06d6"
+    ],
+    "spl_set_id": [
+      "033bef09-be64-853f-e063-6394a90a06d6"
+    ],
+    "package_ndc": [
+      "37662-3779-1",
+      "37662-3779-2",
+      "37662-3779-3",
+      "37662-3779-4",
+      "37662-3781-1",
+      "37662-3781-2",
+      "37662-3781-3",
+      "37662-3781-4",
+      "37662-3783-1",
+      "37662-3783-2",
+      "37662-3783-3",
+      "37662-3783-4",
+      "37662-3782-1",
+      "37662-3782-2",
+      "37662-3782-3",
+      "37662-3782-4",
+      "37662-3778-1",
+      "37662-3778-2",
+      "37662-3778-3",
+      "37662-3780-1",
+      "37662-3780-2",
+      "37662-3780-3",
+      "37662-3780-4",
+      "37662-3777-1",
+      "37662-3777-2",
+      "37662-3777-3",
+      "37662-3784-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "FPN5WPV10D"
+    ]
+  }
+}

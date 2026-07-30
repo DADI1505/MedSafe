@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Kinfield Daily Dew Sea Kelp Moisturizer Sunscreen Broad Spectrum SPF 35 Kinfield Daily Dew Sea Kelp Moisturizer Sunscreen Lotion Broad Spectrum SPF 35 GLYCERYL CAPRYLATE LAMINARIA DIGITATA TRIETHOXYCAPRYLYLSILANE PROPANEDIOL CAPRYLHYDROXAMIC ACID ALOE VERA LEAF WATER CAPRYLYL CAPRYLATE/CAPRATE GLYCERIN COCO-CAPRYLATE POLYGLYCERYL-2 OLEATE POLYGLYCERYL-2 STEARATE POLYHYDROXYSTEARIC ACID (2300 MW) MAGNESIUM SULFATE ANHYDROUS HYDROGENATED METHYL ABIETATE GALACTOARABINAN CAPRYLOYL GLYCERIN/SEBACIC ACID COPOLYMER (2000 MPA.S) DIHEPTYL SUCCINATE COCOS NUCIFERA WHOLE ORYZA SATIVA WHOLE ROSMARINUS OFFICINALIS FLOWER HELIANTHUS ANNUUS WHOLE TOCOPHEROL ZINC OXIDE ZINC CATION"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Zinc Oxide 20%"
+  ],
+  "indications_and_usage": [
+    "Uses • helps prevent sunburn • if used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a docor if rash occurs Keep out of reach of children. If swalled, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions • apply generously 15 minutes before sun exposure • reapply: •after 40 minutes of swimming or sweating • immediately after towel drying • at least every 2 hours • Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: • limit time in the sun, especially from 10 a.m. - 2 p.m. • wear long-sleeved shirts, pants, hats, and sunglasses • children under 6 months of age: Ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Water, Capylyl Caprylate/Caprate, Glycerin, Coco-Caprylate, Capric/Caprylic Triglyceride, Polyglycerl-2-Oleate, Polyhydroxystearic Acid, Polyglycerl-2 Stearate, Magnesium Sulfate, Hydrogenated Methyl Abietate, Galactoarabinan, Capryloyl Glycerin/Sebacic Acid Copolymer, Diheptyl Succinate, Cocos Nucifera (Coconut) Oil, Glyceryl Caprylate, Laminaria Digitata Extract, Triethoxycaprylylsilane, Propanediol, Caprylhydroxamic Acid, Aloe Barbadensis Leaf Extract, Oryza Sativa Bran Extract, Rosmarinus Officinalis Extract, Helianthus Annuus Seed Extract, Tocopherol, Natural Fragrance"
+  ],
+  "spl_unclassified_section": [
+    "Other Information • protect the product in this container from excessive heat and direct sun"
+  ],
+  "questions": [
+    "Questions or Comments? Conctact us at www.kinfield.com"
+  ],
+  "purpose": [
+    "Purpose Purpose: Sunscreen"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel 81750-010-60"
+  ],
+  "set_id": "0710db9f-fe91-4b98-a337-5fde33d98a9d",
+  "id": "472ba8a2-02e2-697e-e063-6294a90adc2f",
+  "effective_time": "20251230",
+  "version": "6",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "Kinfield Daily Dew Sea Kelp Moisturizer Sunscreen Broad Spectrum SPF 35"
+    ],
+    "generic_name": [
+      "KINFIELD DAILY DEW SEA KELP MOISTURIZER SUNSCREEN LOTION BROAD SPECTRUM SPF 35"
+    ],
+    "manufacturer_name": [
+      "Kinfield, Inc."
+    ],
+    "product_ndc": [
+      "81750-010"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "472ba8a2-02e2-697e-e063-6294a90adc2f"
+    ],
+    "spl_set_id": [
+      "0710db9f-fe91-4b98-a337-5fde33d98a9d"
+    ],
+    "package_ndc": [
+      "81750-010-60"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

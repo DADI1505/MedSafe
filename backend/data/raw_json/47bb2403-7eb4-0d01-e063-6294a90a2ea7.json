@@ -1,0 +1,110 @@
+{
+  "spl_product_data_elements": [
+    "Goodmeds Extra Strength Pain Relief PM ACETAMINOPHEN, DIPHENHYDRAMINE HYDROCHLORIDE HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED WATER STEARIC ACID TITANIUM DIOXIDE ACETAMINOPHEN ACETAMINOPHEN DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE S525"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information ■ each caplet contains: magnesium 0.05 mg ■ store between 20-25°C (68-77°F)"
+  ],
+  "active_ingredient": [
+    "Active ingredients (in each caplet) Acetaminophen 500 mg Diphenhydramine HCl 25 mg Purpose Pain reliever Nighttime sleep aid"
+  ],
+  "purpose": [
+    "Purpose Pain reliever Nighttime sleep aid"
+  ],
+  "indications_and_usage": [
+    "Uses temporary relief of occasional headaches and minor aches and pains with accompanying sleeplessness"
+  ],
+  "warnings": [
+    "Warnings Liver warning : This product contains acetaminophen. Severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert : Acetaminophen may cause severe skin reactions. Symptoms may include: ■ skin reddening ■ blisters ■ rash If a skin reaction occurs, stop use and seek medical help right away. Do not use with other products containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist with any product containing diphenhydramine, even one used on skin in children under 12 years of age if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have liver disease breathing problems such as emphysema or chronic bronchitis trouble urinating due to an enlarged prostate gland glaucoma Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin taking sedatives or tranquilizers When using this product drowsiness will occur avoid alcoholic drinks do not drive a motor vehicle or operate machinery. Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of a serious underlying medical illness pain gets worse or lasts for more than 10 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur These could be signs of a serious condition If pregnant or breast-feeding ask a health professional before use. Keep out of reach of children. Overdose warning : Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+  ],
+  "do_not_use": [
+    "Do not use with other products containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist with any product containing diphenhydramine, even one used on skin in children under 12 years of age if you have ever had an allergic reaction to this product or any of its ingredients"
+  ],
+  "ask_doctor": [
+    "Ask a doctor before use if you have liver disease breathing problems such as emphysema or chronic bronchitis trouble urinating due to an enlarged prostate gland glaucoma"
+  ],
+  "ask_doctor_or_pharmacist": [
+    "Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin taking sedatives or tranquilizers"
+  ],
+  "when_using": [
+    "When using this product drowsiness will occur avoid alcoholic drinks do not drive a motor vehicle or operate machinery."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of a serious underlying medical illness pain gets worse or lasts for more than 10 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur These could be signs of a serious condition"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. Overdose warning : Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+  ],
+  "dosage_and_administration": [
+    "Directions do not take more than recommended (see overdose warning) adults and children 12 years and over take 2 caplets at bedtime do not take more than 2 caplets of this product in 24 hours children under 12 years do not use"
+  ],
+  "dosage_and_administration_table": [
+    "<table width=\"100%\"><caption/><tbody><tr><td>adults and children 12 years and over</td><td><list listType=\"unordered\"><item>take 2 caplets at bedtime</item><item>do not take more than 2 caplets of this product in 24 hours</item></list></td></tr><tr><td> children under 12 years</td><td> do not use</td></tr></tbody></table>"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients FD&C Blue # 1, FD&C Blue # 2, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, pregelatinized starch, povidone K-30, purified water, stearic acid, titanium dioxide"
+  ],
+  "questions": [
+    "Questions or comments? contact 1-908-242-6108 Mon-Fri 8:00 AM to 5:00 PM EST"
+  ],
+  "package_label_principal_display_panel": [
+    "Packege Labeling Label0"
+  ],
+  "set_id": "02c60967-46d7-49b7-82be-bc3c5fd36484",
+  "id": "47bb2403-7eb4-0d01-e063-6294a90a2ea7",
+  "effective_time": "20260106",
+  "version": "1",
+  "openfda": {
+    "application_number": [
+      "M013"
+    ],
+    "brand_name": [
+      "Goodmeds Extra Strength Pain Relief PM"
+    ],
+    "generic_name": [
+      "ACETAMINOPHEN, DIPHENHYDRAMINE HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Cabinet Health P.B.C."
+    ],
+    "product_ndc": [
+      "82725-4124"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACETAMINOPHEN",
+      "DIPHENHYDRAMINE HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "1092189"
+    ],
+    "spl_id": [
+      "47bb2403-7eb4-0d01-e063-6294a90a2ea7"
+    ],
+    "spl_set_id": [
+      "02c60967-46d7-49b7-82be-bc3c5fd36484"
+    ],
+    "package_ndc": [
+      "82725-4124-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0850069928179"
+    ],
+    "unii": [
+      "362O9ITL9D",
+      "TC2D6JAD40"
+    ]
+  }
+}

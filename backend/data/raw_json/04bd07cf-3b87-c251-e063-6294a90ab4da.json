@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Manganum Nitricum Manganum Nitricum MANGANESE NITRATE TETRAHYDRATE NITRATE ION SUCROSE Manganum Nitricum Manganum Nitricum MANGANESE NITRATE TETRAHYDRATE NITRATE ION SUCROSE Manganum Nitricum Manganum Nitricum MANGANESE NITRATE TETRAHYDRATE NITRATE ION SUCROSE Manganum Nitricum Manganum Nitricum MANGANESE NITRATE TETRAHYDRATE NITRATE ION SUCROSE Manganum Nitricum Manganum Nitricum MANGANESE NITRATE TETRAHYDRATE NITRATE ION SUCROSE Manganum Nitricum Manganum Nitricum MANGANESE NITRATE TETRAHYDRATE NITRATE ION SUCROSE Manganum Nitricum Manganum Nitricum MANGANESE NITRATE TETRAHYDRATE NITRATE ION SUCROSE Manganum Nitricum Manganum Nitricum MANGANESE NITRATE TETRAHYDRATE NITRATE ION SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Manganum Nitricum 6C 5g Manganum Nitricum 6C 30g Manganum Nitricum 6C 100g Manganum Nitricum 12C 5g Manganum Nitricum 12C 30g Manganum Nitricum 12C 100g Manganum Nitricum 30C 1g Manganum Nitricum 30C 5g Manganum Nitricum 30C 30g Manganum Nitricum 30C 100g Manganum Nitricum 100C 1g Manganum Nitricum 100C 5g Manganum Nitricum 100C 30g Manganum Nitricum 100C 100g Manganum Nitricum 200C 1g Manganum Nitricum 200C 5g Manganum Nitricum 200C 30g Manganum Nitricum 200C 100g Manganum Nitricum 500C 1g Manganum Nitricum 500C 5g Manganum Nitricum 500C 30g Manganum Nitricum 500C 100g Manganum Nitricum 1M 1g Manganum Nitricum 1M 5g Manganum Nitricum 1M 30g Manganum Nitricum 1M 100g Manganum Nitricum LM1 30g"
+  ],
+  "set_id": "04bd03ad-83e3-474f-e063-6394a90adbf7",
+  "id": "04bd07cf-3b87-c251-e063-6294a90ab4da",
+  "effective_time": "20230906",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Manganum Nitricum"
+    ],
+    "generic_name": [
+      "MANGANUM NITRICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3872",
+      "37662-3879",
+      "37662-3878",
+      "37662-3874",
+      "37662-3876",
+      "37662-3875",
+      "37662-3873",
+      "37662-3877"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "MANGANESE NITRATE TETRAHYDRATE"
+    ],
+    "spl_id": [
+      "04bd07cf-3b87-c251-e063-6294a90ab4da"
+    ],
+    "spl_set_id": [
+      "04bd03ad-83e3-474f-e063-6394a90adbf7"
+    ],
+    "package_ndc": [
+      "37662-3879-1",
+      "37662-3872-1",
+      "37662-3872-2",
+      "37662-3872-3",
+      "37662-3878-1",
+      "37662-3878-2",
+      "37662-3878-3",
+      "37662-3878-4",
+      "37662-3874-1",
+      "37662-3874-2",
+      "37662-3874-3",
+      "37662-3874-4",
+      "37662-3876-1",
+      "37662-3876-2",
+      "37662-3876-3",
+      "37662-3876-4",
+      "37662-3875-1",
+      "37662-3875-2",
+      "37662-3875-3",
+      "37662-3875-4",
+      "37662-3873-1",
+      "37662-3873-2",
+      "37662-3873-3",
+      "37662-3877-1",
+      "37662-3877-2",
+      "37662-3877-3",
+      "37662-3877-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "03M0G68R5F"
+    ]
+  }
+}

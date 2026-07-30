@@ -1,0 +1,104 @@
+{
+  "spl_product_data_elements": [
+    "Finafta Benzocaine, Glycerin PROPYLPARABEN POLYETHYLENE GLYCOL 1000 PHOSPHORIC ACID BENZOCAINE BENZOCAINE MENTHOL SUCRALOSE METHYLPARABEN PROPYLENE GLYCOL WATER GLYCERIN GLYCERIN"
+  ],
+  "active_ingredient": [
+    "Active Ingredients: (%) Purpose Benzocaine USP 5%..................Oral Anesthetic Glycerin 33% .........................Oral Demulcen"
+  ],
+  "purpose": [
+    "Purpose Oral Anesthetic Oral Demulcen"
+  ],
+  "indications_and_usage": [
+    "Uses For temporary relief of pain associated with canker sores"
+  ],
+  "warnings": [
+    "Warnings Do not exceed recommended dosage Methemoglobinemia warning: Use of this product may cause methemoglobinemia, a serious condition that must be treated promptly because it reduces the amount of oxygen carried in the blood. This can occur even if you have used this product before. Stop use and seek immediate medical attention if you or a child in your care develops: pale, gray, or blue colored skin (cyanosis) headache rapid heart rate shortness of breath dizziness or lightheadedness fatigue or lack of energy Allergy alert do not use this product if you have a history of allergy to local anesthetics such as procaine, butacaine, benzocaine, or other \"caine\" anesthetics. Do not use t his product for more than 7 days unless directed by a dentist or doctor. If sore mouth symptoms do not improve in 7 days; if irritation, pain, or redness persists or worsens; or if swelling, rash or fever develops, see your dentist or doctor promptly."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. In case of accidental overdose: Get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions •adults and children over 12 years of age apply to the affected area, mouth, gums or mucous membrane with the applicator provided, up to 4 times daily or as directed by a dentist or doctor. Remain in place at least 1 minute and then spit out. Do not rinse mouth after each use • Children between 2 and 12 years of age: consult a doctor •children under 12 years of age should be supervised in the use of the product •do not use in children under 2 years of age."
+  ],
+  "questions": [
+    "Questions or comments? 305-805-3456 Monday-Friday (9 a.m. - 5 p.m. EST) www.efficientlabs.com"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: menthol, methylparaben, polyethylene glycol, propylparaben, propylene glycol, purified water, phosphoric acid, sucralose."
+  ],
+  "other_safety_information": [
+    "Other Information • finafta is tolerable to iodine-sensitive individuals. • store between 15° - 30°C (59° - 86°F). • close bottle tightly after each use. • Keep box for information. Tamper-Evident:do not accept if safety seal is broken or missing."
+  ],
+  "package_label_principal_display_panel": [
+    "label"
+  ],
+  "set_id": "03368603-3e11-c2fa-e063-6294a90a04ea",
+  "id": "411e9f10-dd14-5800-e063-6294a90afb4b",
+  "effective_time": "20251014",
+  "version": "7",
+  "openfda": {
+    "application_number": [
+      "M022"
+    ],
+    "brand_name": [
+      "Finafta"
+    ],
+    "generic_name": [
+      "BENZOCAINE, GLYCERIN"
+    ],
+    "manufacturer_name": [
+      "Efficient Laboratories Inc."
+    ],
+    "product_ndc": [
+      "58593-783"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "BENZOCAINE",
+      "GLYCERIN"
+    ],
+    "spl_id": [
+      "411e9f10-dd14-5800-e063-6294a90afb4b"
+    ],
+    "spl_set_id": [
+      "03368603-3e11-c2fa-e063-6294a90a04ea"
+    ],
+    "package_ndc": [
+      "58593-783-15"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185508",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "N0000185370",
+      "N0000185001",
+      "M0009417"
+    ],
+    "pharm_class_epc": [
+      "Standardized Chemical Allergen [EPC]",
+      "Non-Standardized Chemical Allergen [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Glycerol [CS]"
+    ],
+    "unii": [
+      "U3RSY48JW5",
+      "PDC6A3C0OX"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Bamboobies Diaper Rash Zinc Oxide 15% ZINC OXIDE ZINC OXIDE SHEA BUTTER CAPRYLYL GLYCOL GLYCERIN GLYCERYL OLEATE OLEA EUROPAEA (OLIVE) OIL UNSAPONIFIABLES PROPANEDIOL BENTONITE OLIVE OIL CAPRYLHYDROXAMIC ACID CARBOXYMETHYLCELLULOSE SODIUM GLYCERYL ROSINATE WATER CETOSTEARYL ALCOHOL COCO GLUCOSIDE ALOE VERA LEAF CALENDULA OFFICINALIS FLOWER CHAMOMILE SUNFLOWER OIL CASTOR OIL MICROCRYSTALLINE CELLULOSE"
+  ],
+  "active_ingredient": [
+    "Zinc Oxide 15%"
+  ],
+  "purpose": [
+    "Skin Protectant"
+  ],
+  "indications_and_usage": [
+    "Helps treat and prevent diaper rash, protects chafed skin due to diaper rash."
+  ],
+  "warnings": [
+    "For external use only. When using this product do not get into eyes. Stop use and ask a doctor if condition worsens, symptoms last more than 7 days or clear up and occur again within a few days."
+  ],
+  "keep_out_of_reach_of_children": [
+    "If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Change wet and soiled diapers promptly. Cleanse the diaper area. Allow to dry. Shake well before each use. Spray liberally onto affected area with each diaper change, especially at bedtime or anytime when exposure to wet diaper may be prolonged. Apply as needed."
+  ],
+  "inactive_ingredient": [
+    "Aloe Barbadensis Leaf Juice, Bentonite, Butyrospermum Parkii (Shea) Butter, Calendula Officinalis flower Extract, Caprylhydroxamic Acid, Caprylyl Glycol, Cellulose Gum, Cetearyl Alcohol, chamomilla Recutita (Matricaria) Flower Extract, Coco-Glucoside, Glycerin, Glyceryl Oleate, Glyceryl Rosinate, Helianthus Annuus (Sunflower) Seed Oil, Microcrystalline Cellulose, Olea Europaea (Olive) Fruit Oil, Olea Europaes 9Olive) Oil Unsaponifiables, Propanediol, Ricinus Communis (Castor) Seed Oil, Water."
+  ],
+  "package_label_principal_display_panel": [
+    "Carton"
+  ],
+  "set_id": "0411f5e3-03d2-c512-e063-6394a90a37d3",
+  "id": "29a4ff30-7cd3-5fa9-e063-6394a90a049f",
+  "effective_time": "20241219",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Bamboobies Diaper Rash"
+    ],
+    "generic_name": [
+      "ZINC OXIDE 15%"
+    ],
+    "manufacturer_name": [
+      "Derma Care Research Labs, LLC"
+    ],
+    "product_ndc": [
+      "72839-132"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "rxcui": [
+      "2663937"
+    ],
+    "spl_id": [
+      "29a4ff30-7cd3-5fa9-e063-6394a90a049f"
+    ],
+    "spl_set_id": [
+      "0411f5e3-03d2-c512-e063-6394a90a37d3"
+    ],
+    "package_ndc": [
+      "72839-132-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0850006696093"
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

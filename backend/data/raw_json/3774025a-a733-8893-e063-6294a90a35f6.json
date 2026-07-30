@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "Hand Sanitizer Hand Sanizizer WATER GLYCERIN CARBOMER INTERPOLYMER TYPE B (ALLYL PENTAERYTHRITOL CROSSLINKED) TROLAMINE ALOE VERA LEAF .ALPHA.-TOCOPHEROL FERROSOFERRIC OXIDE FERRIC OXIDE YELLOW D&C RED NO. 30 ALCOHOL ALCOHOL"
+  ],
+  "active_ingredient": [
+    "Active ingredients Ethyl Alcohol 62%"
+  ],
+  "purpose": [
+    "Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Uses： For hand sanitizing to reduce bacteria on the skin."
+  ],
+  "warnings": [
+    "Warnings: For external use only. Flammable. Keep away from fire and flame."
+  ],
+  "when_using": [
+    "When using this product，do not use in or near the eyes.In case of contact，rinse eyes thoroughly with water."
+  ],
+  "stop_use": [
+    "Discontinue use if irritation or redness develops."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children.If swallowed，get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions: Squeeze small amount in your palm and briskly rub hands together until dry."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients: Water, Glycerin, Carbomer, Fragrance, Triethanolamine, Aloe Barbadensis Leaf Juice, Vitamin E, Iron Oxide（CI77499), Iron Oxide(CI 77492), D&C Red No.30."
+  ],
+  "package_label_principal_display_panel": [
+    "image of Hand sanitizer 15ml image of Hand sanitizer 30ml image of Hand sanitizer 30ml-2 image of Hand sanitizer 30ml-3 image of Hand sanitizer 54ml"
+  ],
+  "set_id": "0164027d-0fd7-4b56-acb6-6ba1f094dacf",
+  "id": "3774025a-a733-8893-e063-6294a90a35f6",
+  "effective_time": "20250613",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M"
+    ],
+    "brand_name": [
+      "Hand Sanitizer"
+    ],
+    "generic_name": [
+      "HAND SANIZIZER"
+    ],
+    "manufacturer_name": [
+      "NINGBO JIANGBEI OCEAN STAR TRADING CO.,LTD"
+    ],
+    "product_ndc": [
+      "47993-363"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "spl_id": [
+      "3774025a-a733-8893-e063-6294a90a35f6"
+    ],
+    "spl_set_id": [
+      "0164027d-0fd7-4b56-acb6-6ba1f094dacf"
+    ],
+    "package_ndc": [
+      "47993-363-01",
+      "47993-363-02",
+      "47993-363-03",
+      "47993-363-04"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

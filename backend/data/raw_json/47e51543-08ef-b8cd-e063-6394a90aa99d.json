@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Crest plus Tartar Protection Whitening Sodium Fluoride CARBOXYPOLYMETHYLENE CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM HYDRATED SILICA WATER SODIUM ACID PYROPHOSPHATE SORBITOL SODIUM HYDROXIDE SODIUM LAURYL SULFATE SACCHARIN SODIUM XANTHAN GUM TITANIUM DIOXIDE SODIUM FLUORIDE FLUORIDE ION"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Dist. by Procter & Gamble, Cincinnati, OH 45202"
+  ],
+  "active_ingredient": [
+    "Active ingredient Sodium fluoride 0.243%"
+  ],
+  "purpose": [
+    "Purpose Anticavity toothpaste"
+  ],
+  "indications_and_usage": [
+    "Use helps protect against cavities"
+  ],
+  "warnings": [
+    "Warning Keep out of reach of children under 6 yrs. of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children under 6 yrs. of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions adults and children 2 yrs. & older: brush teeth thoroughly after meals or at least twice a day or use as directed by a dentist do not swallow to minimize swallowing use a pea-sized amount in children under 6 supervise children's brushing until good habits are established children under 2 yrs.: ask a dentist"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients sorbitol, water, hydrated silica, disodium pyrophosphate, sodium hydroxide, sodium lauryl sulfate, flavor, xanthan gum, sodium saccharin, cellulose gum, carbomer, titanium dioxide"
+  ],
+  "questions": [
+    "Questions? 1-800-492-7378"
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "PRINCIPAL DISPLAY PANEL - 161 g Tube Carton Crest plus FLOURIDE ANTICAVITY TOOTHPASTE NET WT 5.7 OZ (161 G) TARTA PROTECTION WHITENING HELPS PREVENT TARTAR & WHITENS TEETH COOL MINT PASTE Label"
+  ],
+  "set_id": "08776dfc-b07a-3729-e063-6394a90aeeed",
+  "id": "47e51543-08ef-b8cd-e063-6394a90aa99d",
+  "effective_time": "20260108",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M021"
+    ],
+    "brand_name": [
+      "Crest plus Tartar Protection Whitening"
+    ],
+    "generic_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "manufacturer_name": [
+      "The Procter & Gamble Manufacturing Company"
+    ],
+    "product_ndc": [
+      "69423-818"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "DENTAL"
+    ],
+    "substance_name": [
+      "SODIUM FLUORIDE"
+    ],
+    "rxcui": [
+      "891775"
+    ],
+    "spl_id": [
+      "47e51543-08ef-b8cd-e063-6394a90aa99d"
+    ],
+    "spl_set_id": [
+      "08776dfc-b07a-3729-e063-6394a90aeeed"
+    ],
+    "package_ndc": [
+      "69423-818-57",
+      "69423-818-82",
+      "69423-818-27"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "8ZYQ1474W7"
+    ]
+  }
+}

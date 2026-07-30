@@ -1,0 +1,114 @@
+{
+  "spl_product_data_elements": [
+    "Hydro Gel Glycerin 20% ALOE VERA LEAF METHYLPARABEN PEG-4 OLEATE PROPYLENE GLYCOL .ALPHA.-TOCOPHEROL ACETATE ALLANTOIN WATER GLYCERIN GLYCERIN SODIUM POLYACRYLATE (2500000 MW) DIAZOLIDINYL UREA PROPYLPARABEN PEG-60 HYDROGENATED CASTOR OIL EDETATE SODIUM"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts",
+    "Other information Store at room temperature 15°-30°C (59°-86°F) ** Tamper evident. Do not use if seal is damaged",
+    "Distributed By Distributed By Trifecta Pharmaceuticals USA® 101 NE Third Avenue Suite 1500 Fort Lauderdale, FL. 33301 USA www.trifecta-pharma.com"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Glycerin 20%"
+  ],
+  "purpose": [
+    "Purpose Skin Protectant"
+  ],
+  "indications_and_usage": [
+    "Uses Temporarily protects and helps relieve minor skin irritation and itching of minor cuts, scrapes and burns Maintains a moist wound environment Ideal for managment of stasis ulcers, pressure ulcers (stages 1-4), first and second degree burns, cuts, post-operative incisions, and skin conditions associated with peristomal care."
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor condition worsens or does not improve within 10-14 days"
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the reach of children If swallowed get medical help or contact Poison Control Center right away"
+  ],
+  "when_using": [
+    "When Using this product Avoid contact with eyes"
+  ],
+  "dosage_and_administration": [
+    "Directions Apply liberally as often as necessary to cover affected areas. If gauze is used as a wound covering, moisten first. Children under 6 months: Consult a doctor before use"
+  ],
+  "warnings": [
+    "Warning For External Use Only"
+  ],
+  "do_not_use": [
+    "DO NOT USE Do not use on Deep pumcture wounds or Animal Bites"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Allantoin, Aloe Vera gel, Diazolidinyl urea, Methylparaben, PEG-4 olivate, PEG-60, hydrogenated castor oil, Propylene glycol, Propylparaben, Purified water, Sodium Polyacrylate, Tetrasodium EDTA, Tocopherol acetate"
+  ],
+  "questions": [
+    "Questions or Comments Call Toll Free 1-888-296-9067"
+  ],
+  "package_label_principal_display_panel": [
+    "4852 GLOBE HYDROGEL 3OZ 062523 CDER"
+  ],
+  "set_id": "02e8e5d0-7844-39fe-e063-6394a90a57e1",
+  "id": "0f4e25fa-bccd-b725-e063-6294a90ac340",
+  "effective_time": "20240119",
+  "version": "2",
+  "openfda": {
+    "application_number": [
+      "M016"
+    ],
+    "brand_name": [
+      "Hydro Gel"
+    ],
+    "generic_name": [
+      "GLYCERIN 20%"
+    ],
+    "manufacturer_name": [
+      "Trifecta Pharmaceuticals USA LLC"
+    ],
+    "product_ndc": [
+      "69396-127"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "GLYCERIN"
+    ],
+    "spl_id": [
+      "0f4e25fa-bccd-b725-e063-6294a90ac340"
+    ],
+    "spl_set_id": [
+      "02e8e5d0-7844-39fe-e063-6394a90a57e1"
+    ],
+    "package_ndc": [
+      "69396-127-03"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0850026393835"
+    ],
+    "nui": [
+      "N0000185370",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0009417"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Chemical Allergen [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Glycerol [CS]"
+    ],
+    "unii": [
+      "PDC6A3C0OX"
+    ]
+  }
+}

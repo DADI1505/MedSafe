@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Gallium Muriaticum Gallium Muriaticum GALLIUM CHLORIDE GALLIUM CATION SUCROSE Gallium Muriaticum Gallium Muriaticum GALLIUM CHLORIDE GALLIUM CATION SUCROSE Gallium Muriaticum Gallium Muriaticum SUCROSE GALLIUM CHLORIDE GALLIUM CATION Gallium Muriaticum Gallium Muriaticum SUCROSE GALLIUM CHLORIDE GALLIUM CATION Gallium Muriaticum Gallium Muriaticum GALLIUM CHLORIDE GALLIUM CATION SUCROSE Gallium Muriaticum Gallium Muriaticum GALLIUM CHLORIDE GALLIUM CATION SUCROSE Gallium Muriaticum Gallium Muriaticum GALLIUM CHLORIDE GALLIUM CATION SUCROSE Gallium Muriaticum Gallium Muriaticum GALLIUM CHLORIDE GALLIUM CATION SUCROSE"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Gallium Muriaticum 6C 5g Gallium Muriaticum 6C 30g Gallium Muriaticum 6C 100g Gallium Muriaticum 12C 5g Gallium Muriaticum 12C 30g Gallium Muriaticum 12C 100g Gallium Muriaticum 30C 1g Gallium Muriaticum 30C 5g Gallium Muriaticum 30C 30g Gallium Muriaticum 30C 100g Gallium Muriaticum 100C 1g Gallium Muriaticum 100C 5g Gallium Muriaticum 100C 30g Gallium Muriaticum 100C 100g Gallium Muriaticum 200C 1g Gallium Muriaticum 200C 5g Gallium Muriaticum 200C 30g Gallium Muriaticum 200C 100g Gallium Muriaticum 500C 1g Gallium Muriaticum 500C 5g Gallium Muriaticum 500C 30g Gallium Muriaticum 500C 100g Gallium Muriaticum 1M 1g Gallium Muriaticum 1M 5g Gallium Muriaticum 1M 30g Gallium Muriaticum 1M 100g Gallium Muriaticum LM1 30g"
+  ],
+  "set_id": "054a68ec-d30f-7fbc-e063-6294a90ac912",
+  "id": "054a68ec-d310-7fbc-e063-6294a90ac912",
+  "effective_time": "20230913",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Gallium Muriaticum"
+    ],
+    "generic_name": [
+      "GALLIUM MURIATICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3904",
+      "37662-3909",
+      "37662-3906",
+      "37662-3910",
+      "37662-3911",
+      "37662-3905",
+      "37662-3907",
+      "37662-3908"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "GALLIUM CHLORIDE"
+    ],
+    "spl_id": [
+      "054a68ec-d310-7fbc-e063-6294a90ac912"
+    ],
+    "spl_set_id": [
+      "054a68ec-d30f-7fbc-e063-6294a90ac912"
+    ],
+    "package_ndc": [
+      "37662-3909-1",
+      "37662-3909-2",
+      "37662-3909-3",
+      "37662-3909-4",
+      "37662-3906-1",
+      "37662-3906-2",
+      "37662-3906-3",
+      "37662-3906-4",
+      "37662-3910-1",
+      "37662-3910-2",
+      "37662-3910-3",
+      "37662-3910-4",
+      "37662-3911-1",
+      "37662-3905-1",
+      "37662-3905-2",
+      "37662-3905-3",
+      "37662-3907-1",
+      "37662-3907-2",
+      "37662-3907-3",
+      "37662-3907-4",
+      "37662-3904-1",
+      "37662-3904-2",
+      "37662-3904-3",
+      "37662-3908-1",
+      "37662-3908-2",
+      "37662-3908-3",
+      "37662-3908-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "4Y6GQD4915"
+    ]
+  }
+}

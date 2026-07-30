@@ -1,0 +1,128 @@
+{
+  "spl_product_data_elements": [
+    "Zincum Muriaticum Zincum Muriaticum SUCROSE ZINC CHLORIDE ZINC CATION Zincum Muriaticum Zincum Muriaticum SUCROSE ZINC CHLORIDE ZINC CATION Zincum Muriaticum Zincum Muriaticum SUCROSE ZINC CHLORIDE ZINC CATION Zincum Muriaticum Zincum Muriaticum SUCROSE ZINC CHLORIDE ZINC CATION Zincum Muriaticum Zincum Muriaticum SUCROSE ZINC CHLORIDE ZINC CATION Zincum Muriaticum Zincum Muriaticum SUCROSE ZINC CHLORIDE ZINC CATION Zincum Muriaticum Zincum Muriaticum SUCROSE ZINC CHLORIDE ZINC CATION Zincum Muriaticum Zincum Muriaticum SUCROSE ZINC CHLORIDE ZINC CATION Zincum Muriaticum Zincum Muriaticum SUCROSE ZINC CHLORIDE ZINC CATION"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Zincum Muriaticum 6C 5g Zincum Muriaticum 6C 30g Zincum Muriaticum 6C 100g Zincum Muriaticum 12C 5g Zincum Muriaticum 12C 30g Zincum Muriaticum 12C 100g Zincum Muriaticum 30C 1g Zincum Muriaticum 30C 5g Zincum Muriaticum 30C 30g Zincum Muriaticum 30C 100g Zincum Muriaticum 100C 1g Zincum Muriaticum 100C 5g Zincum Muriaticum 100C 30g Zincum Muriaticum 100C 100g Zincum Muriaticum 200C 1g Zincum Muriaticum 200C 5g Zincum Muriaticum 200C 30g Zincum Muriaticum 200C 100g Zincum Muriaticum 500C 1g Zincum Muriaticum 500C 5g Zincum Muriaticum 500C 30g Zincum Muriaticum 500C 100g Zincum Muriaticum 1M 1g Zincum Muriaticum 1M 5g Zincum Muriaticum 1M 30g Zincum Muriaticum 1M 100g Zincum Muriaticum 10M 1g Zincum Muriaticum 10M 5g Zincum Muriaticum 10M 30g Zincum Muriaticum 10M 100g Zincum Muriaticum LM1 30g"
+  ],
+  "set_id": "06ecda16-b4b2-1b9e-e063-6294a90a4891",
+  "id": "06ecda16-b4b3-1b9e-e063-6294a90a4891",
+  "effective_time": "20231004",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Zincum Muriaticum"
+    ],
+    "generic_name": [
+      "ZINCUM MURIATICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-4087",
+      "37662-4089",
+      "37662-4090",
+      "37662-4094",
+      "37662-4092",
+      "37662-4088",
+      "37662-4093",
+      "37662-4095",
+      "37662-4091"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ZINC CHLORIDE"
+    ],
+    "spl_id": [
+      "06ecda16-b4b3-1b9e-e063-6294a90a4891"
+    ],
+    "spl_set_id": [
+      "06ecda16-b4b2-1b9e-e063-6294a90a4891"
+    ],
+    "package_ndc": [
+      "37662-4087-1",
+      "37662-4087-2",
+      "37662-4087-3",
+      "37662-4089-1",
+      "37662-4089-2",
+      "37662-4089-3",
+      "37662-4089-4",
+      "37662-4090-1",
+      "37662-4090-2",
+      "37662-4090-3",
+      "37662-4090-4",
+      "37662-4094-1",
+      "37662-4094-2",
+      "37662-4094-3",
+      "37662-4094-4",
+      "37662-4092-1",
+      "37662-4092-2",
+      "37662-4092-3",
+      "37662-4092-4",
+      "37662-4088-1",
+      "37662-4088-2",
+      "37662-4088-3",
+      "37662-4093-1",
+      "37662-4093-2",
+      "37662-4093-3",
+      "37662-4093-4",
+      "37662-4095-1",
+      "37662-4091-1",
+      "37662-4091-2",
+      "37662-4091-3",
+      "37662-4091-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "86Q357L16B"
+    ]
+  }
+}

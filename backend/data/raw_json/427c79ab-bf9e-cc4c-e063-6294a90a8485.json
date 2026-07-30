@@ -1,0 +1,83 @@
+{
+  "spl_product_data_elements": [
+    "Family Care Saline Sodium Chloride SODIUM CHLORIDE CHLORIDE ION SODIUM PHOSPHATE DIBASIC DIHYDRATE SODIUM PHOSPHATE, MONOBASIC, MONOHYDRATE BENZYL ALCOHOL WATER BENZALKONIUM CHLORIDE"
+  ],
+  "active_ingredient": [
+    "Active ingredient Purpose Sodium Chloride 0.65%......................Moisturizer"
+  ],
+  "purpose": [
+    "Use temporary relief of dry, irritated nasal passages due to colds, flu, allergies, pollution, and the use of decongestants/steroidal sprays"
+  ],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "indications_and_usage": [
+    "Directions holding bottle upright for spray, horizontally for stream, and upside down for drop applications adults and children under 6 years of age: squeeze twice in each nostril as needed children under 6 years of age: consult a doctor using this dispenser by more than one person may spread infection"
+  ],
+  "storage_and_handling": [
+    "Other information store at room temperature 20-25°C (68-77°F) do not use if printed seal around the cap is broken or missing"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients benzalkonium chloride, benzyl alcohol, purified water, sodium phosphate dibasic anhydrous, sodium phosphate monobasic monohydrate"
+  ],
+  "dosage_and_administration": [
+    "Distributed by: United Exchange Corp. Cypress, CA 90630 USA Made in China"
+  ],
+  "package_label_principal_display_panel": [
+    "493"
+  ],
+  "set_id": "06737393-d4ae-3e7b-e063-6394a90ac19f",
+  "id": "427c79ab-bf9e-cc4c-e063-6294a90a8485",
+  "effective_time": "20251031",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M012"
+    ],
+    "brand_name": [
+      "Family Care Saline"
+    ],
+    "generic_name": [
+      "SODIUM CHLORIDE"
+    ],
+    "manufacturer_name": [
+      "United Exchange Corp."
+    ],
+    "product_ndc": [
+      "65923-493"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "NASAL"
+    ],
+    "substance_name": [
+      "SODIUM CHLORIDE"
+    ],
+    "rxcui": [
+      "707251"
+    ],
+    "spl_id": [
+      "427c79ab-bf9e-cc4c-e063-6294a90a8485"
+    ],
+    "spl_set_id": [
+      "06737393-d4ae-3e7b-e063-6394a90ac19f"
+    ],
+    "package_ndc": [
+      "65923-493-44"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "451W47IQ8X"
+    ]
+  }
+}

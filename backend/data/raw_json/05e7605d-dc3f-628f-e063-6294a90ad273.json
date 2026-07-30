@@ -1,0 +1,123 @@
+{
+  "spl_product_data_elements": [
+    "Niccolum Phosphoricum Niccolum Phosphoricum SUCROSE NICKEL PHOSPHATE NICKEL CATION Niccolum Phosphoricum Niccolum Phosphoricum SUCROSE NICKEL PHOSPHATE NICKEL CATION Niccolum Phosphoricum Niccolum Phosphoricum NICKEL PHOSPHATE NICKEL CATION SUCROSE Niccolum Phosphoricum Niccolum Phosphoricum NICKEL PHOSPHATE NICKEL CATION SUCROSE Niccolum Phosphoricum Niccolum Phosphoricum NICKEL PHOSPHATE NICKEL CATION SUCROSE Niccolum Phosphoricum Niccolum Phosphoricum SUCROSE NICKEL PHOSPHATE NICKEL CATION Niccolum Phosphoricum Niccolum Phosphoricum SUCROSE NICKEL PHOSPHATE NICKEL CATION Niccolum Phosphoricum Niccolum Phosphoricum SUCROSE NICKEL PHOSPHATE NICKEL CATION"
+  ],
+  "active_ingredient": [
+    "",
+    ""
+  ],
+  "dosage_forms_and_strengths": [
+    ""
+  ],
+  "purpose": [
+    ""
+  ],
+  "indications_and_usage": [
+    ""
+  ],
+  "warnings": [
+    ""
+  ],
+  "pregnancy_or_breast_feeding": [
+    ""
+  ],
+  "ask_doctor": [
+    ""
+  ],
+  "keep_out_of_reach_of_children": [
+    ""
+  ],
+  "instructions_for_use": [
+    ""
+  ],
+  "dosage_and_administration": [
+    ""
+  ],
+  "route": [
+    ""
+  ],
+  "inactive_ingredient": [
+    ""
+  ],
+  "questions": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "Niccolum Phosphoricum 6C 5g Niccolum Phosphoricum 6C 30g Niccolum Phosphoricum 6C 100g Niccolum Phosphoricum 12C 5g Niccolum Phosphoricum 12C 30g Niccolum Phosphoricum 12C 100g Niccolum Phosphoricum 30C 1g Niccolum Phosphoricum 30C 5g Niccolum Phosphoricum 30C 30g Niccolum Phosphoricum 30C 100g Niccolum Phosphoricum 100C 1g Niccolum Phosphoricum 100C 5g Niccolum Phosphoricum 100C 30g Niccolum Phosphoricum 100C 100g Niccolum Phosphoricum 200C 1g Niccolum Phosphoricum 200C 5g Niccolum Phosphoricum 200C 30g Niccolum Phosphoricum 200C 100g Niccolum Phosphoricum 500C 1g Niccolum Phosphoricum 500C 5g Niccolum Phosphoricum 500C 30g Niccolum Phosphoricum 500C 100g Niccolum Phosphoricum 1M 1g Niccolum Phosphoricum 1M 5g Niccolum Phosphoricum 1M 30g Niccolum Phosphoricum 1M 100g Niccolum Phosphoricum LM1 30g"
+  ],
+  "set_id": "05e764f8-5fe8-e942-e063-6294a90ae010",
+  "id": "05e7605d-dc3f-628f-e063-6294a90ad273",
+  "effective_time": "20230921",
+  "version": "1",
+  "openfda": {
+    "brand_name": [
+      "Niccolum Phosphoricum"
+    ],
+    "generic_name": [
+      "NICCOLUM PHOSPHORICUM"
+    ],
+    "manufacturer_name": [
+      "Hahnemann Laboratories, INC."
+    ],
+    "product_ndc": [
+      "37662-3968",
+      "37662-3973",
+      "37662-3972",
+      "37662-3975",
+      "37662-3974",
+      "37662-3969",
+      "37662-3970",
+      "37662-3971"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "NICKEL PHOSPHATE"
+    ],
+    "spl_id": [
+      "05e7605d-dc3f-628f-e063-6294a90ad273"
+    ],
+    "spl_set_id": [
+      "05e764f8-5fe8-e942-e063-6294a90ae010"
+    ],
+    "package_ndc": [
+      "37662-3973-1",
+      "37662-3973-2",
+      "37662-3973-3",
+      "37662-3973-4",
+      "37662-3972-1",
+      "37662-3972-2",
+      "37662-3972-3",
+      "37662-3972-4",
+      "37662-3975-1",
+      "37662-3968-1",
+      "37662-3968-2",
+      "37662-3968-3",
+      "37662-3974-1",
+      "37662-3974-2",
+      "37662-3974-3",
+      "37662-3974-4",
+      "37662-3969-1",
+      "37662-3969-2",
+      "37662-3969-3",
+      "37662-3970-1",
+      "37662-3970-2",
+      "37662-3970-3",
+      "37662-3970-4",
+      "37662-3971-1",
+      "37662-3971-2",
+      "37662-3971-3",
+      "37662-3971-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "S0S2HKR70L"
+    ]
+  }
+}

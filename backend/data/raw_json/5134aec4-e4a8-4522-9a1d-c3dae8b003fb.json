@@ -1,0 +1,137 @@
+{
+  "spl_product_data_elements": [
+    "Pericardium Triple Warmer Meridian Opener Arsenicum Album, Aurum Metallicum, Baryta Carbonica, Calcarea Carbonica, Glonoinum, Iodium, Kali Iodatum, Lachesis Mutus, Lithium Carbonicum, Mercurius Solubilis, Naja Tripudians, Phosphoricum Acidum, Phosphorus, Sepia, Spongia Tosta, Tabacum, Thyroidinum (Suis) ARSENIC TRIOXIDE ARSENIC CATION (3+) GOLD GOLD BARIUM CARBONATE BARIUM CATION OYSTER SHELL CALCIUM CARBONATE, CRUDE OYSTER SHELL CALCIUM CARBONATE, CRUDE NITROGLYCERIN NITROGLYCERIN IODINE IODINE POTASSIUM IODIDE IODIDE ION LACHESIS MUTA VENOM LACHESIS MUTA VENOM LITHIUM CARBONATE LITHIUM CATION MERCURIUS SOLUBILIS MERCURIUS SOLUBILIS NAJA NAJA VENOM NAJA NAJA VENOM PHOSPHORIC ACID PHOSPHORIC ACID PHOSPHORUS PHOSPHORUS SEPIA OFFICINALIS JUICE SEPIA OFFICINALIS JUICE SPONGIA OFFICINALIS SKELETON, ROASTED SPONGIA OFFICINALIS SKELETON, ROASTED TOBACCO LEAF TOBACCO LEAF THYROID SUS SCROFA THYROID WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: Arsenicum Album 30C, Aurum Metallicum 30C, Baryta Carbonica 30C, Calcarea Carbonica 30C, Glonoinum 30C, Iodium 30C, Kali Iodatum 30C, Lachesis Mutus 30C, Lithium Carbonicum 30C, Mercurius Solubilis 30C, Naja Tripudians 30C, Phosphoricum Acidum 30C, Phosphorus 30C, Sepia 30C, Spongia Tosta 30C, Tabacum 30C, Thyroidinum (Suis) 30C."
+  ],
+  "purpose": [
+    "PURPOSE: Arsenicum Album – Pain Under Arm, Aurum Metallicum – Back Pain, Baryta Carbonica - Irritability, Calcarea Carbonica - Fever, Glonoinum - Headache, Iodium – General Pain, Kali Iodatum – Hearing Loss, Lachesis Mutus - Sweat, Lithium Carbonicum - Coldness, Mercurius Solubilis – Pain Under Arm, Naja Tripudians – Back Pain, Phosphoricum Acidum - Irritability, Phosphorus - Coldness, Sepia - Fever, Spongia Tosta - Headache, Tabacum – General Pain, Thyroidinum (Suis) – Hearing Loss"
+  ],
+  "indications_and_usage": [
+    "USES: • For the temporary relief of symptoms including: • pain under arm • back pain • irritability • fever • headache • general pain • hearing loss • sweat • coldness These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration."
+  ],
+  "warnings": [
+    "WARNINGS: If pregnant of breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, contact a physician or Poison Control Center right away. Tamper Evident: Sealed for your protection. Do not use if seal is broken or missing."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: In case of overdose, contact a physician or Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: 1-10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Demineralized water, 25% Ethanol"
+  ],
+  "questions": [
+    "QUESTIONS: Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com 800-827-8204"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: DesBio Pericardium Triple Warmer Meridian Opener Homeopathic NDC 43742-0652-1 1 FL OZ (30 ml) Pericardium Triple Warmer Meridian Opener"
+  ],
+  "set_id": "060ecfed-5d31-49ca-82d8-9b05355da59d",
+  "id": "5134aec4-e4a8-4522-9a1d-c3dae8b003fb",
+  "effective_time": "20241022",
+  "version": "5",
+  "openfda": {
+    "brand_name": [
+      "Pericardium Triple Warmer Meridian Opener"
+    ],
+    "generic_name": [
+      "ARSENICUM ALBUM, AURUM METALLICUM, BARYTA CARBONICA, CALCAREA CARBONICA, GLONOINUM, IODIUM, KALI IODATUM, LACHESIS MUTUS, LITHIUM CARBONICUM, MERCURIUS SOLUBILIS, NAJA TRIPUDIANS, PHOSPHORICUM ACIDUM, PHOSPHORUS, SEPIA, SPONGIA TOSTA, TABACUM, THYROIDINUM (SUIS)"
+    ],
+    "manufacturer_name": [
+      "Deseret Biologicals, Inc."
+    ],
+    "product_ndc": [
+      "43742-0652"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ARSENIC TRIOXIDE",
+      "GOLD",
+      "BARIUM CARBONATE",
+      "OYSTER SHELL CALCIUM CARBONATE, CRUDE",
+      "NITROGLYCERIN",
+      "IODINE",
+      "POTASSIUM IODIDE",
+      "LACHESIS MUTA VENOM",
+      "LITHIUM CARBONATE",
+      "MERCURIUS SOLUBILIS",
+      "NAJA NAJA VENOM",
+      "PHOSPHORIC ACID",
+      "PHOSPHORUS",
+      "SEPIA OFFICINALIS JUICE",
+      "SPONGIA OFFICINALIS SKELETON, ROASTED",
+      "TOBACCO LEAF",
+      "THYROID"
+    ],
+    "spl_id": [
+      "5134aec4-e4a8-4522-9a1d-c3dae8b003fb"
+    ],
+    "spl_set_id": [
+      "060ecfed-5d31-49ca-82d8-9b05355da59d"
+    ],
+    "package_ndc": [
+      "43742-0652-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0810151881287"
+    ],
+    "nui": [
+      "N0000185508",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "N0000175415",
+      "M0014874",
+      "N0000009909",
+      "N0000185375",
+      "N0000185001",
+      "M0016962"
+    ],
+    "pharm_class_epc": [
+      "Standardized Chemical Allergen [EPC]",
+      "Nitrate Vasodilator [EPC]",
+      "Non-Standardized Plant Allergenic Extract [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Vasodilation [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Nitrates [CS]",
+      "Plant Proteins [CS]"
+    ],
+    "unii": [
+      "S7V92P67HO",
+      "79Y1949PYO",
+      "6P669D8HQ8",
+      "2E32821G6I",
+      "G59M7S0WS3",
+      "9679TC07X4",
+      "1C4QK22F9J",
+      "VSW71SS07I",
+      "2BMD2GNA4V",
+      "324Y4038G2",
+      "ZZ4AG7L7VM",
+      "E4GA8884NN",
+      "27YLU75U4W",
+      "QDL83WN8C2",
+      "1PIP394IID",
+      "6YR2608RSU",
+      "6RV024OAUQ"
+    ]
+  }
+}

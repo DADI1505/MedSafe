@@ -1,0 +1,100 @@
+{
+  "spl_product_data_elements": [
+    "Foster and Thrive Long Lasting Lubricant Eye Drops Polyethylene glycol 400, Propylene glycol WATER SODIUM CHLORIDE POTASSIUM CHLORIDE PROPYLENE GLYCOL PROPYLENE GLYCOL CALCIUM CHLORIDE HYPROMELLOSE, UNSPECIFIED POLYETHYLENE GLYCOL 400 POLYETHYLENE GLYCOL 400 BORIC ACID SODIUM BORATE BENZALKONIUM CHLORIDE MAGNESIUM CHLORIDE ZINC CHLORIDE"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Polyethylene glycol 400 0.4% Propylene glycol 0.3%"
+  ],
+  "purpose": [
+    "Purposes Lubricant Lubricant"
+  ],
+  "indications_and_usage": [
+    "Use for the temporary relief of burning and irritation due to dryness if the eye"
+  ],
+  "warnings": [
+    "Warnings For external use only Do not use if this product changes color or becomes cloudy if you are sensitive to any ingredient in this product When using this product do not touch tip of container to any surface to avoid contamination replace cap after each use Stop use and ask a doctor if you feel eye pain changes in vision occur redness or irritation of the eye(s) gets worse or lasts more than 72 hours If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "do_not_use": [
+    "Do not use if this product changes color or becomes cloudy if you are sensitive to any ingredient in this product"
+  ],
+  "when_using": [
+    "When using this product do not touch tip of container to any surface to avoid contamination replace cap after each use"
+  ],
+  "stop_use": [
+    "Stop use and ask a doctor if you feel eye pain changes in vision occur redness or irritation of the eye(s) gets worse or lasts more than 72 hours"
+  ],
+  "pregnancy_or_breast_feeding": [
+    "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  ],
+  "dosage_and_administration": [
+    "Directions instill 1 or 2 drops in the affected eye(s) as needed"
+  ],
+  "other_safety_information": [
+    "Other information store at 15°-30°C (59°-86°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients benzalkonium chloride as preservative, boric acid, calcium chloride, hypromellose, magnesium chloride, potassium chloride, purified water, sodium borate, sodium chloride, zinc chloride"
+  ],
+  "questions": [
+    "Questions or comments? Call 833-358-6431 Monday to Friday 9:00am to 7:00pm EST"
+  ],
+  "package_label_principal_display_panel": [
+    "Foster & Thrive Long Lasting Lubricant Eye Drops 15mL Foster & Thrive Long Lasting Lubricant Eye Drops 15mL"
+  ],
+  "set_id": "00546df0-17d8-0e3c-e063-6294a90ae7b2",
+  "id": "47493504-1575-5ae5-e063-6394a90a1302",
+  "effective_time": "20251230",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M018"
+    ],
+    "brand_name": [
+      "Foster and Thrive Long Lasting Lubricant Eye Drops"
+    ],
+    "generic_name": [
+      "POLYETHYLENE GLYCOL 400, PROPYLENE GLYCOL"
+    ],
+    "manufacturer_name": [
+      "Strategic Sourcing Services LLC"
+    ],
+    "product_ndc": [
+      "70677-1162"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "PROPYLENE GLYCOL",
+      "POLYETHYLENE GLYCOL 400"
+    ],
+    "rxcui": [
+      "477589"
+    ],
+    "spl_id": [
+      "47493504-1575-5ae5-e063-6394a90a1302"
+    ],
+    "spl_set_id": [
+      "00546df0-17d8-0e3c-e063-6294a90ae7b2"
+    ],
+    "package_ndc": [
+      "70677-1162-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0010939958327"
+    ],
+    "unii": [
+      "6DC9Q167V3",
+      "B697894SGQ"
+    ]
+  }
+}

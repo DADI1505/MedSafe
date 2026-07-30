@@ -1,0 +1,150 @@
+{
+  "spl_product_data_elements": [
+    "Weight Loss Support Plus Immune Support Foeniculum Vulgare, Ammonium Bromatum, Fucus Vesiculosus, Lecithin (Derived From Egg), Petroselinum Sativum, Capsicum Annuum, Galium Aparine, Hydrastis Canadensis, Hypothalamus Suis, Kali Bichromicum, Lac Defloratum (NSPC), Phytolacca Decandra, Thyroidinum (Bovine), Thymus (Bovine Thymus Gland), Pituitarum Posterium (Bovine), Antimonium Crudum, Argentum Metallicum, Calcarea Carbonica, Adrenalinum, Phosphorus FOENICULUM VULGARE FRUIT FOENICULUM VULGARE FRUIT AMMONIUM BROMIDE BROMIDE ION FUCUS VESICULOSUS FUCUS VESICULOSUS EGG PHOSPHOLIPIDS EGG PHOSPHOLIPIDS PETROSELINUM CRISPUM WHOLE PETROSELINUM CRISPUM CAPSICUM CAPSICUM GALIUM APARINE WHOLE GALIUM APARINE GOLDENSEAL GOLDENSEAL SUS SCROFA PITUITARY GLAND SUS SCROFA PITUITARY GLAND POTASSIUM DICHROMATE DICHROMATE ION SKIM MILK SKIM MILK PHYTOLACCA AMERICANA ROOT PHYTOLACCA AMERICANA ROOT THYROID, BOVINE THYROID, BOVINE BOS TAURUS THYMUS BOS TAURUS THYMUS BOS TAURUS PITUITARY GLAND, POSTERIOR BOS TAURUS PITUITARY GLAND ANTIMONY TRISULFIDE ANTIMONY TRISULFIDE SILVER SILVER OYSTER SHELL CALCIUM CARBONATE, CRUDE OYSTER SHELL CALCIUM CARBONATE, CRUDE EPINEPHRINE EPINEPHRINE PHOSPHORUS PHOSPHORUS WATER ALCOHOL"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS: Foeniculum Vulgare 2X, Ammonium Bromatum 3X, Fucus Vesiculosus 3X, Lecithin 3X, Petroselinum Sativum 3X, Capsicum Annuum 6X, Galium Aparine 6X, Hydrastis Canadensis 6X, Hypothalamus Suis 6X, Kali Bichromicum 6X, Lac Defloratum 6X, Phytolacca Decandra 6X, Thyroidinum 6X, Thymus 6X, 12X, 30X, Pituitarum Posterium 8X, Antimonium Crudum 9X, Argentum Metallicum 9X, Calcarea Carbonica 9X, Adrenalinum 12X, Phosphorus 12X."
+  ],
+  "purpose": [
+    "PURPOSE: Appetite suppressant to control empty feeling in stomach otherwise relieved by eating. Helps with metabolic tendencies to gain weight, helps to suppress cravings. Aids in mobilization of fatty tissue, resets the hypothalamus and provides immune support.† †Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+    "WARNINGS: Professional Use Only If pregnant or breast-feeding, ask a health professional before use. In case of overdose, get medical help or contact a Poison Control Center right away. If condition worsens, seek medical attention. KEEP OUT OF REACH OF CHILDREN Do not use if tamper evident seal is broken or missing. Store in a cool place after opening"
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS: Adults: 3 to 5 sprays three to four times a day. Children under twelve, one half adult dosage. Consult a physician for use in children under 12 years of age. Do not take within 15 minutes of consuming food, beverage or brushing teeth."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS: Appetite suppressant to control empty feeling in stomach otherwise relieved by eating. Helps with metabolic tendencies to gain weight, helps to suppress cravings. Aids in mobilization of fatty tissue, resets the hypothalamus and provides immune support.† †Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS: Alcohol USP 20%, Purified Water USP."
+  ],
+  "questions": [
+    "QUESTIONS: MANUFACTURED FOR: CAROLINAS WEIGHT LOSS INSTITUTE 216 SOUTH NEW HOPE RD. GASTONIA, NC 28054 (704) 271-9757 www.cwli.net"
+  ],
+  "package_label_principal_display_panel": [
+    "PACKAGE LABEL DISPLAY: CAROLINAS WEIGHT LOSS INSTITUTE Weight Loss Designed For Your Body® NDC 83014-0005-1 HOMEOPATHIC WEIGHT LOSS SUPPORT PLUS - IMMUNE SUPPORT 2 FL. OZ. (60 ml) WEIGHT LOSS SUPPORT PLUS - IMMUNE SUPPORT"
+  ],
+  "set_id": "02fbc0ad-067a-45b3-99d0-6f2301ff9113",
+  "id": "ed15a7e7-60e1-4bfc-82c5-c5c198061c57",
+  "effective_time": "20240509",
+  "version": "2",
+  "openfda": {
+    "brand_name": [
+      "Weight Loss Support Plus Immune Support"
+    ],
+    "generic_name": [
+      "FOENICULUM VULGARE, AMMONIUM BROMATUM, FUCUS VESICULOSUS, LECITHIN (DERIVED FROM EGG), PETROSELINUM SATIVUM, CAPSICUM ANNUUM, GALIUM APARINE, HYDRASTIS CANADENSIS, HYPOTHALAMUS SUIS, KALI BICHROMICUM, LAC DEFLORATUM (NSPC), PHYTOLACCA DECANDRA, THYROIDINUM (BOVINE), THYMUS (BOVINE THYMUS GLAND), PITUITARUM POSTERIUM (BOVINE), ANTIMONIUM CRUDUM, ARGENTUM METALLICUM, CALCAREA CARBONICA, ADRENALINUM, PHOSPHORUS"
+    ],
+    "manufacturer_name": [
+      "Carolinas Weight Loss Institute"
+    ],
+    "product_ndc": [
+      "83014-0005"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "FOENICULUM VULGARE FRUIT",
+      "AMMONIUM BROMIDE",
+      "FUCUS VESICULOSUS",
+      "EGG PHOSPHOLIPIDS",
+      "PETROSELINUM CRISPUM WHOLE",
+      "CAPSICUM",
+      "GALIUM APARINE WHOLE",
+      "GOLDENSEAL",
+      "SUS SCROFA PITUITARY GLAND",
+      "POTASSIUM DICHROMATE",
+      "SKIM MILK",
+      "PHYTOLACCA AMERICANA ROOT",
+      "THYROID, BOVINE",
+      "BOS TAURUS THYMUS",
+      "BOS TAURUS PITUITARY GLAND, POSTERIOR",
+      "ANTIMONY TRISULFIDE",
+      "SILVER",
+      "OYSTER SHELL CALCIUM CARBONATE, CRUDE",
+      "EPINEPHRINE",
+      "PHOSPHORUS"
+    ],
+    "spl_id": [
+      "ed15a7e7-60e1-4bfc-82c5-c5c198061c57"
+    ],
+    "spl_set_id": [
+      "02fbc0ad-067a-45b3-99d0-6f2301ff9113"
+    ],
+    "package_ndc": [
+      "83014-0005-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000185375",
+      "N0000185371",
+      "N0000175629",
+      "N0000184306",
+      "M0000728",
+      "M0006342",
+      "M0016962",
+      "M0022575",
+      "N0000000209",
+      "N0000000245",
+      "N0000175552",
+      "N0000175555",
+      "N0000175570",
+      "M0003647"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Plant Allergenic Extract [EPC]",
+      "Non-Standardized Food Allergenic Extract [EPC]",
+      "alpha-Adrenergic Agonist [EPC]",
+      "beta-Adrenergic Agonist [EPC]",
+      "Catecholamine [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Dietary Proteins [CS]",
+      "Plant Proteins [CS]",
+      "Vegetable Proteins [CS]",
+      "Catecholamines [CS]"
+    ],
+    "pharm_class_moa": [
+      "Adrenergic alpha-Agonists [MoA]",
+      "Adrenergic beta-Agonists [MoA]"
+    ],
+    "unii": [
+      "J5W36Y5WG8",
+      "R0JB3224WS",
+      "535G2ABX9M",
+      "1Z74184RGV",
+      "1WZA4Y92EX",
+      "00UK7646FG",
+      "Z4B6561488",
+      "ZW3Z11D0JV",
+      "L0PFEMQ1DT",
+      "T4423S18FM",
+      "6A001Y4M5A",
+      "11E6VI8VEG",
+      "MN18OTN73W",
+      "8XEJ88V2T8",
+      "7JM57I419K",
+      "F79059A38U",
+      "3M4G523W1G",
+      "2E32821G6I",
+      "YKH834O4BH",
+      "27YLU75U4W"
+    ]
+  }
+}

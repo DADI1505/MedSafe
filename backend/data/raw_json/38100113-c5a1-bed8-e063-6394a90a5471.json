@@ -1,0 +1,89 @@
+{
+  "spl_product_data_elements": [
+    "Salicylic acid Medicated Callus Removers Extra Thick POLYVINYL ALCOHOL VINYL ACETATE HIGH DENSITY POLYETHYLENE SALICYLIC ACID SALICYLIC ACID"
+  ],
+  "active_ingredient": [
+    "​Active ingredient Salicylic acid 40%"
+  ],
+  "purpose": [
+    "Purpose Callus remover"
+  ],
+  "indications_and_usage": [
+    "Use for the removal of calluses relieves pain by removing calluses"
+  ],
+  "warnings": [
+    "Warnings For external use only. Do not use if you are a diabetic if you have poor blood circulation on irritated skin, on any area that is infected or reddened ​Stop use and ask a doctor if discomfort persists ​Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+    "Do not use if you are a diabetic if you have poor blood circulation on irritated skin, on any area that is infected or reddened"
+  ],
+  "ask_doctor": [
+    "​Stop use and ask a doctor if discomfort persists"
+  ],
+  "keep_out_of_reach_of_children": [
+    "​Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+    "Directions wash affected area and dry area thoroughly if necessary, cut medicated patch to fit callus apply adhesive side down of medicated patch onto callus cover medicated patch with pad after 48 hours, remove medicated patch repeat procedure every 48 hours as needed for up to 14 days (until corn is removed) may soak corn in warm water for 5 minutes to assist in removal"
+  ],
+  "other_safety_information": [
+    "Other information store between 15°C to 30°C (59°F to 86°F)"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients acrylic adhesive, acrylic polymer, polyethylene, polyvinyl alcohol"
+  ],
+  "questions": [
+    "Questions? call 1-866-964-0939"
+  ],
+  "package_label_principal_display_panel": [
+    "Principal Display Panel Rite Aid Pharmacy EXTRA -THICK MEDICATED CALLUS REMOVERS Salicylic Acid 40% Effective callus removal treatment EXTRA-THICK pads protect against 4 PROTECTIVE PADS 4 MEDICATED PATCHES CALLUS REMOVER"
+  ],
+  "set_id": "076120ca-b3c1-4535-8afb-469bebb1f295",
+  "id": "38100113-c5a1-bed8-e063-6394a90a5471",
+  "effective_time": "20250621",
+  "version": "9",
+  "openfda": {
+    "application_number": [
+      "M030"
+    ],
+    "brand_name": [
+      "Salicylic acid"
+    ],
+    "generic_name": [
+      "MEDICATED CALLUS REMOVERS EXTRA THICK"
+    ],
+    "manufacturer_name": [
+      "Rite Aid Corporation"
+    ],
+    "product_ndc": [
+      "11822-0125"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "SALICYLIC ACID"
+    ],
+    "rxcui": [
+      "240559"
+    ],
+    "spl_id": [
+      "38100113-c5a1-bed8-e063-6394a90a5471"
+    ],
+    "spl_set_id": [
+      "076120ca-b3c1-4535-8afb-469bebb1f295"
+    ],
+    "package_ndc": [
+      "11822-0125-4"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "O414PZ4LPZ"
+    ]
+  }
+}

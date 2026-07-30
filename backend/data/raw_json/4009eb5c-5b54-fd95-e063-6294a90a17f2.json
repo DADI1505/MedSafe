@@ -1,0 +1,80 @@
+{
+  "spl_product_data_elements": [
+    "Lavender Hand Sanitizer Wipes Ethanol ALCOHOL ALCOHOL OAT KERNEL OIL WATER ALOE VERA LEAF ALTHAEA OFFICINALIS ROOT GLYCERIN TEA LEAF MATRICARIA CHAMOMILLA FLOWERING TOP CUCUMIS SATIVUS WHOLE ISOPROPYL ALCOHOL LAVENDER OIL"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Ethyl Alcohol 65% v/v"
+  ],
+  "purpose": [
+    "Purpose Antimicrobial"
+  ],
+  "indications_and_usage": [
+    "Uses • for hand sanitizing to decrease bacteria on skin when water and soap are not avaliable • recommended for repeated use"
+  ],
+  "warnings": [
+    "Warnings For external use only. Flammable keep away from fire or flame. When using this product do not use in or near eyes, if contact occurs, flush thoroughly with water. Stop use and contact a doctor if irritation or redness persists for more than 72 hours."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of reach of children Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "dosage_and_administration": [
+    "Directions • remove and unfold wipe •wet hands thoroughly with product and let air dry"
+  ],
+  "inactive_ingredient": [
+    "Inactive ingredients Aloe Barbadensis Leaf Extract Althaea Officinalis Root Extract Avena Sativa (Oat) Kernel Extract Camellia Sinensis Leaf Extract Chamomilla Recutita (Matricaria) Flower Extract Cucumis Sativus (Cucumber) Fruit Extract Glycerin, Isopropyl alcohol, Lavandula Angustifolia(Lavender) Oil, Water."
+  ],
+  "questions": [
+    "Questions, Comments? 1-844-WFM-TALK(1-844-936-8255)"
+  ],
+  "package_label_principal_display_panel": [
+    "Label NDC 42681-6808-3 365 WHOLE FOODS MARKET REFRESHING WIPES Hand Sanitizer Lavender 99.9% effective against most common germs* Made without Benzalkonium Chloride PEEL & SEAL DO NOT FLUSH 10 WIPES 6IN x 7.5IN (15.25cm x 19.05cm) DISTRIBUTED BY: WHOLE FOODS MARKET AUSTIN, TX 78703 2020 WHOLE FOODS MARKET IP, LP www.wholefoodsmarket.com WARNING: THESE WIPES CONTAIN ALCOHOL, WHICH CAN DISCOLOR SOME FABRICS AND SURFACES. ALWAYS TEST AN INCONSPICUOUS SPOT FIRST. DISCLAIMER: ALCOHOL EVAPORATES WITH TIME. TO KEEP THESE WIPES FRESH AND EFFECTIVE, RESEAL SECURELY AFTER EACH USE AND STORE AT 75F OR BELOW. KEEP OUT OF DIRECT SUNLIGHT. DISCARD AFTER USE. DO NOT FLUSH. *ESCHERICHIA COLI, STAPHYLOCOCCUS AUREUS, SALMONELLA TYPHIMURIUM, PSEUDOMONAS AERUGINOSA, BURKHOLDERIA CEPACIA, ENTEROBACTER CLOACAE, ENTEROCOCCUS FAECALIS, STREPTOCOCCUS PYOGENES, CANDIDA ALBICANS, ASPERGILLUS BRASILIENSIS. Made Without: Benzalkonium Chloride, Parabens or Triclosan Glycerin & Aloe Vera to replace moisture 99.9% effective against most common germs* Lavender Essential Oil FSC MIX Paper FSC C109834 UPC 099482468088 Seal Label LABEL"
+  ],
+  "set_id": "0398573a-44fa-e0c6-e063-6394a90a9924",
+  "id": "4009eb5c-5b54-fd95-e063-6294a90a17f2",
+  "effective_time": "20250930",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Lavender Hand Sanitizer Wipes"
+    ],
+    "generic_name": [
+      "ETHANOL"
+    ],
+    "manufacturer_name": [
+      "Whole Foods Market, Inc."
+    ],
+    "product_ndc": [
+      "42681-6808"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "884787"
+    ],
+    "spl_id": [
+      "4009eb5c-5b54-fd95-e063-6294a90a17f2"
+    ],
+    "spl_set_id": [
+      "0398573a-44fa-e0c6-e063-6394a90a9924"
+    ],
+    "package_ndc": [
+      "42681-6808-3"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

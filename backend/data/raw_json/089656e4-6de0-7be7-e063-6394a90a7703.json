@@ -1,0 +1,92 @@
+{
+  "spl_product_data_elements": [
+    "Hand Sanitizer ALCOHOL AMINOMETHYLPROPANOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE WATER ALCOHOL ALCOHOL"
+  ],
+  "spl_unclassified_section": [
+    "Drug Facts"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Alcohol 62% Purpose Antiseptic"
+  ],
+  "purpose": [
+    "Purpose Antiseptic"
+  ],
+  "indications_and_usage": [
+    "Uses For handwashing to decrease bacteria on the skin."
+  ],
+  "warnings": [
+    "Warnings For external use only. , keep away from fire and flame. Flammable Does not contain grain alcohol; do not drink, if taken internally serious gastric disturbances will result. When using this product Avoid the eyes and mucous membranes In the case of eyes or mucous membranes contact, rinse area thoroughly with water In case of deep or puncture wounds or serious burns, consult physician. If redness, irritation, swelling or pain persists or increases or if infection occurs discontinue use and consult physician. If swallowed, contact a doctor or Poison Control Center immediately. In case of irritation, discontinue use and consult your doctor."
+  ],
+  "when_using": [
+    "When using this product Avoid the eyes and mucous membranes In the case of eyes or mucous membranes contact, rinse area thoroughly with water In case of deep or puncture wounds or serious burns, consult physician. If redness, irritation, swelling or pain persists or increases or if infection occurs discontinue use and consult physician."
+  ],
+  "keep_out_of_reach_of_children": [
+    "If swallowed, contact a doctor or Poison Control Center immediately."
+  ],
+  "stop_use": [
+    "In case of irritation, discontinue use and consult your doctor."
+  ],
+  "dosage_and_administration": [
+    "Directions: Rub dime sized amount between hands until dry. Supervise children in the use of this product. In the case of eye contact, rinse eyes thoroughly with water."
+  ],
+  "storage_and_handling": [
+    "Other Information: Store below 106ºF (41 ºC). May discolor certain fabrics or surfaces."
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Aminomethyl Propanol, Carbomer, Water."
+  ],
+  "questions": [
+    "​Questions? 1-800-369-4670"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Label"
+  ],
+  "set_id": "065e083f-3c13-495d-8619-df45c5fce68b",
+  "id": "089656e4-6de0-7be7-e063-6394a90a7703",
+  "effective_time": "20231025",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "505G(a)(3)"
+    ],
+    "brand_name": [
+      "Hand Sanitizer"
+    ],
+    "generic_name": [
+      "ALCOHOL"
+    ],
+    "manufacturer_name": [
+      "Bath Concept Cosmetics (Dongguan) Co., Ltd"
+    ],
+    "product_ndc": [
+      "61805-110"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ALCOHOL"
+    ],
+    "rxcui": [
+      "581660"
+    ],
+    "spl_id": [
+      "089656e4-6de0-7be7-e063-6394a90a7703"
+    ],
+    "spl_set_id": [
+      "065e083f-3c13-495d-8619-df45c5fce68b"
+    ],
+    "package_ndc": [
+      "61805-110-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3K9958V90M"
+    ]
+  }
+}

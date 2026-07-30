@@ -1,0 +1,84 @@
+{
+  "spl_product_data_elements": [
+    "DAILY SUPERGOOP DOSE BIORETINOL MINERAL SPF 40 DAILY DOSE BIORETINOL MINERAL SPF 40 TOCOPHEROL PROPYLENE CARBONATE PEG-6 SORBITAN OLEATE SODIUM CHLORIDE ETHYLHEXYLGLYCERIN VITIS VINIFERA SEED PROPANEDIOL BAKUCHIOL QUERCUS ROBUR TWIG BARK CAMELLIA SINENSIS FLOWER OLIVE OIL POLYGLYCERYL-6 ESTERS VINYLPYRROLIDONE/HEXADECENE COPOLYMER DISTEARDIMONIUM HECTORITE ZINC OXIDE ZINC OXIDE POLYGLYCERYL-6 DIOLEATE ISODODECANE BUTYLOCTYL SALICYLATE QUERCUS ROBUR WOOD ISOHEXADECANE DICAPRYLYL ETHER POLYGLYCERYL-4 DIISOSTEARATE/POLYHYDROXYSTEARATE/SEBACATE WATER SILICON DIOXIDE POLYHYDROXYSTEARIC ACID (2300 MW) GLYCERIN TRISODIUM ETHYLENEDIAMINE DISUCCINATE CARNOSINE MEDIUM-CHAIN TRIGLYCERIDES"
+  ],
+  "active_ingredient": [
+    "Active Ingredients Zinc Oxide 16.5%"
+  ],
+  "purpose": [
+    "Purpose Sunscreen"
+  ],
+  "indications_and_usage": [
+    "USES Helps prevent sunburn If used as directed with other sun protection measures (see Directions), decreases the risk of Skin cancer and early skin aging caused by the sun"
+  ],
+  "warnings": [
+    "Warnings For External use only Do not use on damaged or broken skin When using this product, Keep our of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep out of the Reach of Children Keep our of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away"
+  ],
+  "dosage_and_administration": [
+    "Directions • apply generously and evenly 15 minutes before sun exposure • reapply at least every 2 hours • use a water resistant sunscreen if swimming or sweating Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: ◦ Limit time in the sun, especially from 10 a.m. - 2 p.m. ◦ Wear long-sleeved shirts, pants, hats, and sunglasses • Children under 6 months: Ask a doctor"
+  ],
+  "inactive_ingredient": [
+    "Inactive Ingredients Aqua/Water/Eau, Dicaprylyl Ether, Caprylic/Capric Triglyceride, Butyloctyl Salicylate, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Silica, Olive Oil Polyglyceryl-6 Esters, Isohexadecane, Glycerin, Sorbitan Oleate, VP/Hexadecene Copolymer, Polyhydroxystearic acid, Polyglyceryl-6 Pentaoleate, Propanediol, Bakuchiol, Ethylhexylglycerin, Isododecane, Sodium Chloride, Tocopherol, Disteardimonium Hectorite, Camellia Sinensis Leaf Extract, Propylene Carbonate, Quercus Robur Bark Extract, Quercus Robur Wood Extract, Vitis Vinifera (Grape) Seed Extract, Carnosine, Trisodium Ethylenediamine Disuccinate"
+  ],
+  "other_safety_information": [
+    "Other Information Protect the product in this container from excessive heat and direct sun"
+  ],
+  "recent_major_changes": [
+    ""
+  ],
+  "package_label_principal_display_panel": [
+    "CARTON"
+  ],
+  "set_id": "05574910-ddf9-b138-e063-6394a90adc8c",
+  "id": "4f7794c5-b14b-4dd7-e063-6394a90a17d1",
+  "effective_time": "20260414",
+  "version": "4",
+  "openfda": {
+    "application_number": [
+      "M020"
+    ],
+    "brand_name": [
+      "DAILY SUPERGOOP DOSE BIORETINOL MINERAL SPF 40"
+    ],
+    "generic_name": [
+      "DAILY DOSE BIORETINOL MINERAL SPF 40"
+    ],
+    "manufacturer_name": [
+      "PML NYC, LLC"
+    ],
+    "product_ndc": [
+      "59735-614"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "ZINC OXIDE"
+    ],
+    "spl_id": [
+      "4f7794c5-b14b-4dd7-e063-6394a90a17d1"
+    ],
+    "spl_set_id": [
+      "05574910-ddf9-b138-e063-6394a90adc8c"
+    ],
+    "package_ndc": [
+      "59735-614-01",
+      "59735-614-02"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0816218021580"
+    ],
+    "unii": [
+      "SOI2LOH54Z"
+    ]
+  }
+}

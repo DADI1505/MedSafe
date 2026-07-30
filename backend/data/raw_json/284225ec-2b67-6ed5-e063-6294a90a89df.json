@@ -1,0 +1,81 @@
+{
+  "spl_product_data_elements": [
+    "CURODONT PROTECT STANNOUS FLUORIDE SORBITOL SODIUM HYDROXIDE WATER HYDRATED SILICA SODIUM TRIPOLYPHOSPHATE SODIUM GLUCONATE OLIGOPEPTIDE 104 XYLITOL CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED PHOSPHORIC ACID STANNOUS FLUORIDE FLUORIDE ION"
+  ],
+  "active_ingredient": [
+    "ACTIVE INGREDIENTS STANNOUS FLUORIDE 0.454% (0.14% W/V FLUORIDE ION)"
+  ],
+  "purpose": [
+    "PURPOSE ANTICAVITY AND ANTISENSITIVITY"
+  ],
+  "indications_and_usage": [
+    "USE AIDS IN THE PREVENTION OF DENTAL CAVITIES AND BUILDS INCREASING PROTECTION AGAINST PAINFUL SENSITIVITY OF THE TEETH."
+  ],
+  "warnings": [
+    "WARNINGS Stop use and ask a doctor if the problem persists or worsens. Sensitive teeth may indicate a serious problem that may need prompt care by a dentist. pain/sensitivity still persists after 4 weeks of use."
+  ],
+  "keep_out_of_reach_of_children": [
+    "KEEP OUT OF REACH OF CHILDREN. IF MORE THAN USED FOR RINSING IS ACCIDENTALLY SWALLOWED, GET MEDICAL HELP OR CONTACT A POISON CONTROL CENTER RIGHT AWAY."
+  ],
+  "dosage_and_administration": [
+    "DIRECTIONS Adults and children 2 years of age and older: Brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or doctor. Instruct children under 6 years of age in good brushing and rinsing habits (to minimize swallowing). Supervise children as necessary until capable of using without supervision. Children under 2 years of age: Consult a dentist or doctor."
+  ],
+  "other_safety_information": [
+    "OTHER INFORMATION This product may produce surface staining of the teeth. Adequate toothbrushing may prevent these stains which are not harmful or permanent and may be removed by your dentist."
+  ],
+  "inactive_ingredient": [
+    "INACTIVE INGREDIENTS Sorbitol, Water, Hydrated Silica, Sodium Tripolyphosphate, Sodium Gluconate, Xylitol, Cellulose Gum, Oligopeptide-104, Sodium Hydroxide, Phosphoric Acid."
+  ],
+  "package_label_principal_display_panel": [
+    "PDP DF"
+  ],
+  "set_id": "03ec591c-68c3-a380-e063-6394a90a131a",
+  "id": "284225ec-2b67-6ed5-e063-6294a90a89df",
+  "effective_time": "20241201",
+  "version": "3",
+  "openfda": {
+    "application_number": [
+      "M021"
+    ],
+    "brand_name": [
+      "CURODONT PROTECT"
+    ],
+    "generic_name": [
+      "STANNOUS FLUORIDE"
+    ],
+    "manufacturer_name": [
+      "CREDENTIS AG"
+    ],
+    "product_ndc": [
+      "72247-107"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "STANNOUS FLUORIDE"
+    ],
+    "rxcui": [
+      "416784"
+    ],
+    "spl_id": [
+      "284225ec-2b67-6ed5-e063-6294a90a89df"
+    ],
+    "spl_set_id": [
+      "03ec591c-68c3-a380-e063-6394a90a131a"
+    ],
+    "package_ndc": [
+      "72247-107-13",
+      "72247-107-10"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "3FTR44B32Q"
+    ]
+  }
+}

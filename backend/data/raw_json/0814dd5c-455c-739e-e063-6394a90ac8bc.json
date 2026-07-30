@@ -1,0 +1,98 @@
+{
+  "spl_product_data_elements": [
+    "Liprotek PETROLATUM, LIDOCAINE JOJOBA OIL LANOLIN YELLOW WAX CERESIN CANDELILLA WAX PARAFFIN WATER POLYSORBATE 60 2-DEOXYGLUCOSE DIETHYLENE GLYCOL MONOETHYL ETHER MENTHOL CHOLECALCIFEROL VITAMIN A PALMITATE PHYTONADIONE PETROLATUM PETROLATUM LIDOCAINE LIDOCAINE"
+  ],
+  "dosage_and_administration": [
+    "Uses: TEMPORARY RELIEF OF PAIN and/or ITCHING FROM FEVER BLISTERS and COLD SORES"
+  ],
+  "spl_unclassified_section": [
+    "DRUG FACTS"
+  ],
+  "active_ingredient": [
+    "Active Ingredient Petrolatum (white) 61% Lidocaine 0.6% PURPOSE Skin Protectant External or Topical Analgesic"
+  ],
+  "purpose": [
+    "PURPOSE Skin Protectant External or Topical Analgesic"
+  ],
+  "indications_and_usage": [
+    "Uses: TEMPORARY RELIEF OF PAIN AND/OR ITCHING FROM FEVER BLISTERS AND COLD SORES"
+  ],
+  "warnings": [
+    "WARNING: Keep away from children. Do not use if allergic tp any of the ingredients. If condition worsens or if symptoms persist for more than 7 days or clear up and occur again within a few days then discontinue use of this product and cunsult a doctor."
+  ],
+  "keep_out_of_reach_of_children": [
+    "Keep away from children."
+  ],
+  "do_not_use": [
+    "Do not use if allergic tp any of the ingredients. If condition worsens or if symptoms persist for more than 7 days or clear up and occur again within a few days then discontinue use of this product and cunsult a doctor."
+  ],
+  "inactive_ingredient": [
+    "INGREDIENTS: Simmondisa Chinensis (Jojoba) Seed Oil, Lanolin, Beeswax, Ozokerite wax, Candelilla wax, Parafin, Aqua (Water), Polysorbate 60, 2-DG, Ethoxydiglycol, Menthol, Tocopheryl, Cholecalciferal, Retinyl Palmitate, Phytonadione"
+  ],
+  "package_label_principal_display_panel": [
+    "Package Labeling: Outer"
+  ],
+  "set_id": "051cfa27-bd7c-4f8c-b3e6-03ee0b7a3aa5",
+  "id": "0814dd5c-455c-739e-e063-6394a90ac8bc",
+  "effective_time": "20231019",
+  "version": "5",
+  "openfda": {
+    "application_number": [
+      "M017"
+    ],
+    "brand_name": [
+      "Liprotek"
+    ],
+    "generic_name": [
+      "PETROLATUM, LIDOCAINE"
+    ],
+    "manufacturer_name": [
+      "Unit Dose, Ltd."
+    ],
+    "product_ndc": [
+      "67194-017"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "TOPICAL"
+    ],
+    "substance_name": [
+      "PETROLATUM",
+      "LIDOCAINE"
+    ],
+    "spl_id": [
+      "0814dd5c-455c-739e-e063-6394a90ac8bc"
+    ],
+    "spl_set_id": [
+      "051cfa27-bd7c-4f8c-b3e6-03ee0b7a3aa5"
+    ],
+    "package_ndc": [
+      "67194-017-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175682",
+      "M0000897",
+      "N0000175426",
+      "N0000175976"
+    ],
+    "pharm_class_epc": [
+      "Amide Local Anesthetic [EPC]",
+      "Antiarrhythmic [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Amides [CS]"
+    ],
+    "pharm_class_pe": [
+      "Local Anesthesia [PE]"
+    ],
+    "unii": [
+      "4T6H12BN9U",
+      "98PI200987"
+    ]
+  }
+}
